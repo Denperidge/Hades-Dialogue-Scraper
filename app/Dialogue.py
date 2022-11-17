@@ -2,9 +2,9 @@ from re import findall
 
 class Dialogue():
 
-    def __init__(self):
+    def __init__(self, id):
+        self.id = id
         self.sentences = []
-        self.id = ""
     
     @property
     def description(self):
