@@ -12,7 +12,7 @@ if __name__ == "__main__":
     game_text_dir = join(game_path, "Content/Game/Text")
     lang_dir = join(game_text_dir, lang)
     lang_codes = [basename(path).lower() for path in glob(join(game_text_dir, "*")) if isdir(path)]
-    export_dir = realpath(join(dirname(argv[0]), "../", "export/"))
+    export_dir = realpath(join(dirname(argv[0]), "../", "export/", lang))
 
     # Create output_dir if needed
     makedirs(export_dir, exist_ok=True)
