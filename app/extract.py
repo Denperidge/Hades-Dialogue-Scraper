@@ -2,7 +2,7 @@ from os.path import join
 from glob import glob
 from re import match
 
-from Dialogue import Dialogue
+from Dialogue import Dialogue, Sentence
 
 """
 Okay, so things are gonna get messy here. So lets define a few terms as used in this code:
@@ -106,7 +106,7 @@ def lines_to_dialogues(lines):
         
         elif indicator_sentence in line:
             sentence_text = sanitize_json_value(line.replace(indicator_sentence, ""))
-            sentence = "{0}: {1}".format(last_encountered_speaker, sentence_text)
+            sentence = Sentence(last_encountered_speaker, sentence_text)
 
             dialogues[last_encountered_id].sentences.append(sentence)
 
@@ -164,7 +164,7 @@ def en_lines_to_dialogues(lines):
         
         elif adding_sentences:
             value = sanitize_json_value(line)
-            current_dialogue.sentences.append(value)
+            current_dialogue.sentences.append(Sentence.from_comment(value))
     
     return dialogues
 
