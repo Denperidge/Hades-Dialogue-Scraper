@@ -33,7 +33,7 @@ if __name__ == "__main__":
     else:
         en = False
 
-    dialogues = get_dialogues_from_folder(lang_dir, "_*")
+    dialogues = get_dialogues_from_folder(lang_dir, "_*", en)
 
     export_dialogues(dialogues, export_dir)
 
