@@ -59,11 +59,13 @@ indicator_sentence = "      DisplayName = "
 indicator_en_end_dialogue = "      */"
 
 
-def get_dialogues_from_folder(path):
-    files = glob(join(path, "*"))
-    file_dialogues = []
+def get_dialogues_from_folder(path, selector, en=False):
+    files = glob(join(path, selector))
+    dialogues = []
     for file in files:
-        file_dialogues.append(get_dialogues_from_file(file))
+        dialogues += get_dialogues_from_file(file, en=en)
+    
+    return dialogues
 
 
 def sanitize_json_value(value):

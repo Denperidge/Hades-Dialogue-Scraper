@@ -33,10 +33,7 @@ if __name__ == "__main__":
     else:
         en = False
 
-    dialogues = []
-
-    for filename in ["_DeathLoopData", "_EncounterData", "_EnemyData", "_LootData", "_NPCData"]:
-        dialogues +=  get_dialogues_from_file(lang_dir, "_NPCData", en)
+    dialogues = get_dialogues_from_folder(lang_dir, "_*")
 
     export_dialogues(dialogues, export_dir)
 
