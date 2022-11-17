@@ -18,7 +18,13 @@ def get_dialogues_from_folder(path):
         file_dialogues.append(get_dialogues_from_file(file))
 
 # The game uses .sjson. See https://github.com/SGG-Modding/SGG-Mod-Format/wiki/Import-Type:-SJSON
-def get_dialogues_from_file(path):
+"""
+Path can either be a direct path to a file, or (if selector is defined) a path to a directory
+""" 
+def get_dialogues_from_file(path, selector=""):
+    if selector:
+        path = glob(join(path, selector + "*"))[0]
+
     with open(path, "r", encoding="UTF-8") as file:
         lines = file.readlines()
 
@@ -27,7 +33,4 @@ def get_dialogues_from_file(path):
     for line in lines:
         # If Event descriptor
         if "Event: " in line:
-
-
-
-
+            pass

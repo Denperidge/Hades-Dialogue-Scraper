@@ -1,7 +1,7 @@
 from sys import argv
 from os.path import realpath, isdir, join, basename
 from glob import glob
-from extract import get_file_dialogues_from_folder
+from extract import get_dialogues_from_file
 
 
 if __name__ == "__main__":
@@ -19,5 +19,5 @@ if __name__ == "__main__":
     if lang not in lang_codes:
         raise Exception("The language directory could not be found at {}. Are you sure you've entered a correct Language code? Possible options:".format(lang_codes))
     
-    dialogues = get_file_dialogues_from_folder(lang_dir)
+    dialogues = get_dialogues_from_file(lang_dir, "_NPCData")
     print(dialogues)
