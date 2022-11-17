@@ -1,5 +1,6 @@
 from sys import argv
 from os.path import realpath, isdir, join, basename
+from os import makedirs
 from glob import glob
 from extract import get_dialogues_from_file
 
@@ -19,9 +20,11 @@ if __name__ == "__main__":
     if lang not in lang_codes:
         raise Exception("The language directory could not be found at {}. Are you sure you've entered a correct Language code? Possible options:".format(lang_codes))
 
+    # If English is being extracted, a different extracting method has to be used
+    # See Extract.py for more info on why this is
     if lang == "en":
         en = True
-        lang_dir = join(game_text_dir, "de")  # See Extract.py for more info on why this is
+        lang_dir = join(game_text_dir, "de")
     else:
         en = False
 
