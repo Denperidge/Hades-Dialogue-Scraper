@@ -23,16 +23,16 @@ class Dialogue():
 class Sentence():
     def __init__(self, speaker="", sentence=""):
         self.speaker = speaker
-        self.sentence = sentence
+        self.text = sentence
     
-    # Create Sentence object from a string "Speaker: sentence"
+    # Create Sentence object from a string "Speaker: text"
     @classmethod
     def from_comment(cls, comment):
-        [speaker, sentence] = comment.split(": ", 1)
-        return cls(speaker, sentence)
+        [speaker, text] = comment.split(": ", 1)
+        return cls(speaker, text)
     
     def readable(self):
-        return "{0.speaker}: {0.sentence}".format(self)
+        return "{0.speaker}: {0.text}".format(self)
     
     def __str__(self):
         return self.readable()

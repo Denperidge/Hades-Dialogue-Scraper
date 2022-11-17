@@ -1,8 +1,9 @@
 from sys import argv
-from os.path import realpath, isdir, join, basename
+from os.path import realpath, isdir, join, basename, dirname
 from os import makedirs
 from glob import glob
 from extract import get_dialogues_from_file
+from export import export_dialogues
 
 
 if __name__ == "__main__":
@@ -11,6 +12,10 @@ if __name__ == "__main__":
     game_text_dir = join(game_path, "Content/Game/Text")
     lang_dir = join(game_text_dir, lang)
     lang_codes = [basename(path).lower() for path in glob(join(game_text_dir, "*")) if isdir(path)]
+    export_dir = realpath(join(dirname(argv[0]), "../", "export/"))
+
+    # Create output_dir if needed
+    makedirs(export_dir, exist_ok=True)
 
     # Check if the correct dir has been passed
     if not isdir(game_text_dir):
@@ -28,7 +33,8 @@ if __name__ == "__main__":
     else:
         en = False
 
-    dialogues = get_dialogues_from_file(lang_dir, "_NPCData", en)
-    for dialogue in dialogues:
-        print(dialogue.sentences)
-        print("\n")
+    dialogues = \
+        get_dialogues_from_file(lang_dir, "_NPCData", en)
+    
+    export_dialogues(dialogues, export_dir)
+
