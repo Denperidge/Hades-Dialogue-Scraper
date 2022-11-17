@@ -6,9 +6,6 @@ class Dialogue():
         self.sentences = []
         self.id = ""
     
-    def get_description(self):
-        return self._description
-    
     @property
     def description(self):
         return " ".join(split_camelcase_into_array(self.id))
