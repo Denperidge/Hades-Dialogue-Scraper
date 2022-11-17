@@ -2,7 +2,7 @@ from sys import argv
 from os.path import realpath, isdir, join, basename, dirname
 from os import makedirs
 from glob import glob
-from extract import get_dialogues_from_file
+from extract import get_dialogues_from_file, get_dialogues_from_folder
 from export import export_dialogues
 
 
@@ -33,8 +33,10 @@ if __name__ == "__main__":
     else:
         en = False
 
-    dialogues = \
-        get_dialogues_from_file(lang_dir, "_NPCData", en)
-    
+    dialogues = []
+
+    for filename in ["_DeathLoopData", "_EncounterData", "_EnemyData", "_LootData", "_NPCData"]:
+        dialogues +=  get_dialogues_from_file(lang_dir, "_NPCData", en)
+
     export_dialogues(dialogues, export_dir)
 
