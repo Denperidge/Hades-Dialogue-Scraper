@@ -5,12 +5,8 @@ def export_dialogues(dialogues, output_dir, output_format="csv"):
 
     filename_all = join(output_dir, "all." + output_format)
 
-    # Get all speakers
-    #all_sentences = [dialogue.sentences for dialogue in dialogues]
-    #speakers = set([sentence[0] for sentence in all_sentences])
-    #print(speakers.pop().speaker)
-    #exit()
-
+    # I'll be honest, this one's not for readability. I just wanted to see if I could
+    speakers =  set([sentence.speaker for dialogue in dialogues for sentence in dialogue.sentences])
 
     if output_format == "csv":
         to_string = to_string_csv
@@ -18,6 +14,13 @@ def export_dialogues(dialogues, output_dir, output_format="csv"):
 
     with open(filename_all, "w") as file:
         file.write(to_string(dialogues))
+    
+    for speaker in speakers:
+        filename_speaker = join(output_dir, "{0}.{1}".format(speaker, output_format))
+        # Same her as above. I just wanted to practice list comprehension. I'm so sorry
+        dialogues_speaker = [dialogue for dialogue in dialogues if speaker in [sentence.speaker for sentence in dialogue.sentences]]
+        with open(filename_speaker, "w") as file:
+            file.write(to_string(dialogues_speaker))
 
 def to_string_csv(dialogues):
     string = "Id|Description|Speaker|Text\n"
