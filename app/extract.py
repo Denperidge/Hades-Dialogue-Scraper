@@ -45,8 +45,10 @@ The dialogue's ID is used to create a description
 So, when going through the file:
 - Create a dialogues dict(id, dialogue)
 - If encountering a event id, check if it exists in the dict
-    - If it doesn't exist in the dict, add the current worked on Dialogue, create a new Dialogue object
-    - If it does, add the sentence
+    - If it doesn't exist in the dict, add the currently being worked on Dialogue, create a new Dialogue object
+    - If it does, pass
+- If encountering a speaker, remember their name
+- If encountering a sentence, add "{last_encountered_speaker}: {line_text}" to dialogues[last_encountered_id].sentences
 """
 
 indicator_sentence_start = "  {"
@@ -60,6 +62,10 @@ def get_dialogues_from_folder(path):
     for file in files:
         file_dialogues.append(get_dialogues_from_file(file))
 
+
+def sanitize_json_value(value):
+    return value.replace("\n", "").strip('"')
+
 # The game uses .sjson. See https://github.com/SGG-Modding/SGG-Mod-Format/wiki/Import-Type:-SJSON
 """
 Path can either be a direct path to a file, or (if selector is defined) a path to a directory
@@ -72,25 +78,29 @@ def get_dialogues_from_file(path, selector=""):
         lines = file.readlines()
 
     dialogues = dict()
-    dialogue = Dialogue()
-    speaker = sentence = None
+    last_encountered_speaker = last_encountered_id = None
     
     for line in lines:
 
-        if indicator_sentence_start in line:
-            # The description is the 
-            if dialogue.description is None:
+        if indicator_description in line:
+            id = last_encountered_id = sanitize_json_value(line.replace(indicator_description, ""))
 
-                dialogues[dialogue.description] = dialogue
-
-            dialogue = Dialogue()
-
-        elif indicator_description in line:
-            id = line.replace(indicator_description, "")
-            dialogue.id = id
+            if id not in dialogues:
+                new_dialogue = Dialogue(id)
+                dialogues[id] = new_dialogue
         
         elif indicator_speaker in line:
-            speaker = line.replace(indicator_speaker, "")
+            last_encountered_speaker = sanitize_json_value(line.replace(indicator_speaker, ""))
         
+        elif indicator_sentence in line:
+            sentence_text = sanitize_json_value(line.replace(indicator_sentence, ""))
+            sentence = "{0}: {1}".format(last_encountered_speaker, sentence_text)
 
-    return dialogues
+            dialogues[last_encountered_id].sentences.append(sentence)
+
+    # Convert dict to list
+    dialogues_list = list()
+    for id in dialogues:
+        dialogues_list.append(dialogues[id])
+
+    return dialogues_list

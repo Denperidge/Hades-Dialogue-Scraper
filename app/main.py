@@ -20,4 +20,6 @@ if __name__ == "__main__":
         raise Exception("The language directory could not be found at {}. Are you sure you've entered a correct Language code? Possible options:".format(lang_codes))
     
     dialogues = get_dialogues_from_file(lang_dir, "_NPCData")
-    print(dialogues)
+    for dialogue in dialogues:
+        print(dialogue.sentences)
+        print("\n")
