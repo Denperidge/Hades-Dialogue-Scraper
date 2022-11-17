@@ -18,8 +18,14 @@ if __name__ == "__main__":
     # Check if a correct language has been passed
     if lang not in lang_codes:
         raise Exception("The language directory could not be found at {}. Are you sure you've entered a correct Language code? Possible options:".format(lang_codes))
-    
-    dialogues = get_dialogues_from_file(lang_dir, "_NPCData")
+
+    if lang == "en":
+        en = True
+        lang_dir = join(game_text_dir, "de")  # See Extract.py for more info on why this is
+    else:
+        en = False
+
+    dialogues = get_dialogues_from_file(lang_dir, "_NPCData", en)
     for dialogue in dialogues:
         print(dialogue.sentences)
         print("\n")
