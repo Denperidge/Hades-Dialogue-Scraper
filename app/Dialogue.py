@@ -4,15 +4,14 @@ class Dialogue():
 
     def __init__(self):
         self.sentences = []
-        self.description = ""
+        self.id = ""
     
     def get_description(self):
         return self._description
     
-    def set_description(self, val):
-        self._description = " ".join(split_camelcase_into_array(val))
-
-    description = property(fget=get_description, fset=set_description)
+    @property
+    def description(self):
+        return " ".join(split_camelcase_into_array(self.id))
 
     def readable(self):
         joined_sentences = "\n".join(self.sentences)
