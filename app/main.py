@@ -33,8 +33,6 @@ if __name__ == "__main__":
     game_lang_dirs = [path for path in glob(join(game_text_dir, "*")) if isdir(path)]
     lang_codes = [basename(path).lower() for path in game_lang_dirs]
 
-
-
     # Check if the correct dir has been passed
     if not isdir(game_text_dir):
         raise Exception("The Text directory could not be found at {}. Are you sure you've entered the correct path to the Hades folder?".format(game_text_dir))
@@ -55,6 +53,6 @@ if __name__ == "__main__":
         for lang in lang_codes:
             extract_and_export(game_text_dir, lang)
         
-    
-
-
+        # Create top-level nav
+        docs_dir = realpath(join(dirname(argv[0]), "../", "docs/"))
+        create_html_nav(docs_dir, "**.html")
