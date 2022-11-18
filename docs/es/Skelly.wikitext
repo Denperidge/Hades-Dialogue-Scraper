@@ -14,7 +14,7 @@
 ! colspan="2" |Trophy Quest Bronze Unlocked 01
 |-
 |'''Skelly'''
-|"Sabía que tenías lo que hay que tener, amigo. ¿Te gusta tu nuevo premio? Pacto de Castigo, ''paparruchas ''de castigo, ¿a que tengo razón? Aunque ese era el reto más fácil de todos, creo que hasta yo podría haberlo superado."
+|"Sabía que tenías lo que hay que tener, amigo. ¿Te gusta tu nuevo premio? Pacto de Castigo, *paparruchas *de castigo, ¿a que tengo razón? Aunque ese era el reto más fácil de todos, creo que hasta yo podría haberlo superado."
 |-
 |'''Zagreus'''
 |"Espera, a ver si lo entiendo... He atravesado literalmente el infierno y he vuelto. Y mi recompensa es… ¿una estatua de ti? No me malinterpretes, es muy bonita. Solo que… no sé, esperaba otra cosa."
@@ -56,7 +56,7 @@
 |"No recuerdo tenerte en nómina, colega. ¿Quién es tu supervisor?"
 |-
 |'''Skelly'''
-|"''Oh, oh''. No pienso delatar a mis contactos, tronco. ¡Tendrás que sacármelo a leches!"
+|"*Oh, oh*. No pienso delatar a mis contactos, tronco. ¡Tendrás que sacármelo a leches!"
 |-
 ! colspan="2" |Skelly Misc Meeting 01
 |-
@@ -85,7 +85,7 @@
 ! colspan="2" |Skelly Hint Meeting 02
 |-
 |'''Skelly'''
-|"Eres bastante fuerte. Eso te lo reconozco, chavalote. Bastante fuerte como para empotrar a un tío como yo contra la pared y hacerlo pedazos. ¡''Bam''! No lo olvides. Cuando te des de leches, ¡las paredes son tus amigas!"
+|"Eres bastante fuerte. Eso te lo reconozco, chavalote. Bastante fuerte como para empotrar a un tío como yo contra la pared y hacerlo pedazos. ¡*Bam*! No lo olvides. Cuando te des de leches, ¡las paredes son tus amigas!"
 |-
 |'''Zagreus'''
 |"Empotrar contra las paredes. Como siempre, un buen consejo, colega."
@@ -125,7 +125,7 @@
 ! colspan="2" |Skelly Hint Meeting 07
 |-
 |'''Skelly'''
-|"¿Sabes, chavalote? Creo que podrías hacer una buena jugarreta con alguna de las columnas que sostienen este lugar y derribarlo entero con solo unos golpes. ¡Bum, bum, ''BUM''! No me gustaría estar cerca de una si lo hicieras."
+|"¿Sabes, chavalote? Creo que podrías hacer una buena jugarreta con alguna de las columnas que sostienen este lugar y derribarlo entero con solo unos golpes. ¡Bum, bum, *BUM*! No me gustaría estar cerca de una si lo hicieras."
 |-
 |'''Zagreus'''
 |"Destrozar la exquisita arquitectura de mi padre siempre que pueda. Eso está hecho."
@@ -157,7 +157,7 @@
 ! colspan="2" |Skelly No More Hint Meetings 01
 |-
 |'''Skelly'''
-|"¿Amigo? Has llegado ''muy ''lejos, he de confesarlo. Creo que has absorbido hasta la última gota de sabiduría que había acumulado, así que... ya no me quedan consejos que darte. Supongo que solo queda una cosa por hacer."
+|"¿Amigo? Has llegado *muy *lejos, he de confesarlo. Creo que has absorbido hasta la última gota de sabiduría que había acumulado, así que... ya no me quedan consejos que darte. Supongo que solo queda una cosa por hacer."
 |-
 |'''Zagreus'''
 |"¿Quedarte ahí plantado para que te apalice a placer, usando el arma que me apetezca en cada momento?"
@@ -182,7 +182,7 @@
 |"Te agradezco el voto de confianza, colega. Puede que tengas razón y algún día salga de aquí. Oye, si no vuelvo nunca más, no te quedarás aquí atrapado para siempre, ¿no?"
 |-
 |'''Skelly'''
-|"''Je, je, je''. Esa sí que es buena. ''No'', probablemente no. En el antiguo contrato no ponía nada de eso. ''Jum''."
+|"*Je, je, je*. Esa sí que es buena. *No*, probablemente no. En el antiguo contrato no ponía nada de eso. *Jum*."
 |-
 ! colspan="2" |Skelly Run Progress 02
 |-
@@ -200,7 +200,7 @@
 ! colspan="2" |Skelly Backstory 02
 |-
 |'''Zagreus'''
-|"Estooo... ''eh'', Huesos... ¿Cómo acabaste aquí?"
+|"Estooo... *eh*, Huesos... ¿Cómo acabaste aquí?"
 |-
 |'''Skelly'''
 |"Pues me materialicé aquí, como "papá" nos deja hacer. Bueno, a algunos. De vez en cuando. ¿Por qué?"
@@ -209,7 +209,7 @@
 |"Me refiero a cómo acabaste en el reino de los muertos. ¿Te trajo Hermes a la entrada? ¿Te recogió Tánatos? ¿Te transportó Caronte?"
 |-
 |'''Skelly'''
-|"¡Ah, ''ja, ja''! Es una pregunta muy personal, ¿no te parece, chavalote? No me gusta hablar de eso. ¿Podrías respetar mi intimidad?"
+|"¡Ah, *ja, ja*! Es una pregunta muy personal, ¿no te parece, chavalote? No me gusta hablar de eso. ¿Podrías respetar mi intimidad?"
 |-
 ! colspan="2" |Skelly Backstory 03
 |-
@@ -229,15 +229,15 @@
 |"Huesos, qué historia más alucinante... ¿Así que tú y tu tripulación moristeis en el mar?"
 |-
 |'''Skelly'''
-|"Yo, eh... ''Pfff, ¡ja, ja, ja''! Chavalote, eres de lo que no hay. ¡Podría haber estado días camelándote con la historia esta de Uesopos!"
+|"Yo, eh... *Pfff, ¡ja, ja, ja*! Chavalote, eres de lo que no hay. ¡Podría haber estado días camelándote con la historia esta de Uesopos!"
 |-
 |'''Zagreus'''
-|"Ah, lo capto. He caído en tu broma, ''Uesopos''. Pero no me hace ninguna gracia."
+|"Ah, lo capto. He caído en tu broma, *Uesopos*. Pero no me hace ninguna gracia."
 |-
 ! colspan="2" |Skelly Backstory 05
 |-
 |'''Zagreus'''
-|"Huesos... ¿o quizá debería decir ''Uesopos''? He estado hablando con alguien a quien le sonaba ese nombre, un tipo grandote con cabeza de toro y oriundo de Creta. ¡Decías que te lo habías inventado! ¿Qué pasa con eso?"
+|"Huesos... ¿o quizá debería decir *Uesopos*? He estado hablando con alguien a quien le sonaba ese nombre, un tipo grandote con cabeza de toro y oriundo de Creta. ¡Decías que te lo habías inventado! ¿Qué pasa con eso?"
 |-
 |'''Skelly'''
 |"¡Nunca dije que me lo hubiera inventado, colega! Sabía que no me ibas a creer... Tú mírame. ¿Te parezco un capitán de la segunda flota cretense?"
@@ -246,7 +246,7 @@
 |"No lo sé, nunca he conocido a uno. ¿Son todos unos haraganes que se pasan el día sin hacer nada?"
 |-
 |'''Skelly'''
-|"Me parece que por aquí hay ''alguien ''al que nunca le ha tocado dar órdenes a cincuenta y pico marineros surcando los mares en un galeón minoico sin nada más que las estrellas como guía. ¿Qué crees que hacen los capitanes, remar?"
+|"Me parece que por aquí hay *alguien *al que nunca le ha tocado dar órdenes a cincuenta y pico marineros surcando los mares en un galeón minoico sin nada más que las estrellas como guía. ¿Qué crees que hacen los capitanes, remar?"
 |-
 |'''Zagreus'''
 |"¿Y qué pasa con Hermes? Él me dejó entender que podrías ser otra persona. Nadie en particular, ni tampoco un gran capitán."
@@ -266,7 +266,7 @@
 |"Sobre la Muela de la Suerte que me diste, Huesos. Primero, gracias; segundo... ¿es tuya de verdad? Me encontré con Hermes y me hizo dudar."
 |-
 |'''Skelly'''
-|"¡''Ja, ja, ja''! ¿Piensas creerte todo lo que te diga ese tipejo desgarbado, chavalote? ¡Ese no sabe nada de mí!"
+|"¡*Ja, ja, ja*! ¿Piensas creerte todo lo que te diga ese tipejo desgarbado, chavalote? ¡Ese no sabe nada de mí!"
 |-
 |'''Zagreus'''
 |"No he dicho que supiera algo. Pero ya que lo mencionas... ¿Qué relación tenéis? ¿Trabajas con él?"
@@ -334,7 +334,7 @@
 |"Nada de piedad, Huesos. Dímelo, o... a partir de ahora solo tendremos educadas charlas."
 |-
 |'''Skelly'''
-|"¡Argh, ''vale''! Pero prométeme que no se lo vas a decir a nadie de esa morada tuya tan molona, ¿vale? O estaré acabado. ''¡Va en serio!''"
+|"¡Argh, *vale*! Pero prométeme que no se lo vas a decir a nadie de esa morada tuya tan molona, ¿vale? O estaré acabado. *¡Va en serio!*"
 |-
 |'''Zagreus'''
 |"Lo prometo. ¿Entonces?"
@@ -413,7 +413,7 @@
 |"Huesos, mencionaste aquella sangre antigua que encontré en el Tártaro. ¿Sabes qué debo hacer con ella?"
 |-
 |'''Skelly'''
-|"¡Ni repajolera idea! Desde luego, no tiene nada que ver con esas armas infernales tuyas, algunas de las cuales aún ''no puedes usar'', por lo que tengo entendido."
+|"¡Ni repajolera idea! Desde luego, no tiene nada que ver con esas armas infernales tuyas, algunas de las cuales aún *no puedes usar*, por lo que tengo entendido."
 |-
 ! colspan="2" |Skelly About Weapon Enchantments 01
 |-
@@ -429,7 +429,7 @@
 ! colspan="2" |Skelly About Weapon Enchantments 02
 |-
 |'''Skelly'''
-|"¿Sabes? Cuando te vas y me quedo a solas con tus armas, esas ''armas infernales ''de ahí… Que quede entre nosotros, pero me ponen los pelos de punta."
+|"¿Sabes? Cuando te vas y me quedo a solas con tus armas, esas *armas infernales *de ahí… Que quede entre nosotros, pero me ponen los pelos de punta."
 |-
 |'''Zagreus'''
 |"No te culpo. No me gustaría quedarme en una sala con un puñado de artilugios asesinos legendarios y, muy probablemente, malévolos. ¿Algo que pueda hacer al respecto?"
@@ -448,19 +448,19 @@
 ! colspan="2" |Skelly About Guan Yu Aspect 01
 |-
 |'''Skelly'''
-|"Eh, compa, solo quería hablar de aquello tan chungo del ''fénix carmesí ''que decías antes, ¿sabes? Es que, jo, simplemente sueltas cuatro tonterías y hale, ¿te dan una lanza nueva? ¡Me dejaste tan impresionado que decidí intentar probar ese truco yo mismo!"
+|"Eh, compa, solo quería hablar de aquello tan chungo del *fénix carmesí *que decías antes, ¿sabes? Es que, jo, simplemente sueltas cuatro tonterías y hale, ¿te dan una lanza nueva? ¡Me dejaste tan impresionado que decidí intentar probar ese truco yo mismo!"
 |-
 |'''Zagreus'''
 |"Ay, dioses... ¿Qué has hecho, Huesos?"
 |-
 |'''Skelly'''
-|"Tranqui, chavalote, solo he hablado con esa vieja bandeja tuya de ahí, nada más. ¡No veas qué golpes pega! Voy y le digo eso de ''«te veo a través de los ojos del fénix carmesí» ''y... ¿sabes lo que pasó después?"
+|"Tranqui, chavalote, solo he hablado con esa vieja bandeja tuya de ahí, nada más. ¡No veas qué golpes pega! Voy y le digo eso de *«te veo a través de los ojos del fénix carmesí» *y... ¿sabes lo que pasó después?"
 |-
 |'''Zagreus'''
 |"Así que pronunciaste a las bravas unas palabras secretas que me confiaron las propias moiras, delante de un arma infernal forjada en el alba de la creación. ¿Y qué? ¿Te molestaste acaso en acercarte a Égida o solo las dijiste por encima del hombro?"
 |-
 |'''Skelly'''
-|"¡Por encima del hombro! En fin, lo que pasó fue...''¡Nada! ''Tu ''Égida'' se quedó ahí flotando como si nada. Así que fui y le dije el abracadabra ese al resto de las armas, pero ni flores. No funciona. Vaya una brujería espectacular la tuya, ¿eh?"
+|"¡Por encima del hombro! En fin, lo que pasó fue...*¡Nada! *Tu *Égida* se quedó ahí flotando como si nada. Así que fui y le dije el abracadabra ese al resto de las armas, pero ni flores. No funciona. Vaya una brujería espectacular la tuya, ¿eh?"
 |-
 ! colspan="2" |Skelly About Pact 01
 |-
@@ -468,7 +468,7 @@
 |"¿Qué ha pasado con esa ventana rosa que había ahí? Ahora hay unas llamas anaranjadas bastante amenazantes y un enorme Pacto de Castigo colgado sobre la salida. Es un poco siniestro. ¿Mi padre se ha pasado por aquí?"
 |-
 |'''Skelly'''
-|"¡No tengo ni idea, tronco! ¡En serio! Estaba aquí, a mi aire, pensando en mis cosas, y de repente... ¡''Bam''! Un golpe por la espalda. ¡Me rompí en pedazos y no me enteré de nada! Cuando por fin me recuperé, ya estaba todo así…"
+|"¡No tengo ni idea, tronco! ¡En serio! Estaba aquí, a mi aire, pensando en mis cosas, y de repente... ¡*Bam*! Un golpe por la espalda. ¡Me rompí en pedazos y no me enteré de nada! Cuando por fin me recuperé, ya estaba todo así…"
 |-
 ! colspan="2" |Skelly True Death Quest Beginning 01
 |-
@@ -479,7 +479,7 @@
 |"Si no se trata de molerte todos los huesos con violencia desenfrenada, ni me lo menciones. Pero… Oh, que hablas en serio..."
 |-
 |'''Skelly'''
-|"Pues sí. Y mira qué curioso. Te pido que me saques de aquí. ''Para siempre'', si captas la indirecta. Esto de quedarme aquí quietecito… Uno se harta de todo, ¿sabes?"
+|"Pues sí. Y mira qué curioso. Te pido que me saques de aquí. *Para siempre*, si captas la indirecta. Esto de quedarme aquí quietecito… Uno se harta de todo, ¿sabes?"
 |-
 |'''Zagreus'''
 |"Lo sé... Puedo imaginármelo. Dime qué puedo hacer."
@@ -501,10 +501,10 @@
 ! colspan="2" |Skelly Run Cleared 01
 |-
 |'''Skelly'''
-|"Entonces... ''Eh'', colega... Mis fuentes me han contado que has llegado bastante lejos, lo que quiere decir que pronto te dejaré de ser útil."
+|"Entonces... *Eh*, colega... Mis fuentes me han contado que has llegado bastante lejos, lo que quiere decir que pronto te dejaré de ser útil."
 |-
 |'''Zagreus'''
-|"¿''Ser útil''? ¿Te refieres a quedarte ahí de pie, dejando que te machaque con la secuencia de ataques que me apetezca en ese momento?"
+|"¿*Ser útil*? ¿Te refieres a quedarte ahí de pie, dejando que te machaque con la secuencia de ataques que me apetezca en ese momento?"
 |-
 |'''Skelly'''
 |"¡Sí! Una vez alcances tu meta... se acabó mi contrato. Ya no me necesitarás."
@@ -521,10 +521,10 @@
 |"Así que mamá ha vuelto a casa, chavalote. Mola saber que te he entrenado tan bien."
 |-
 |'''Zagreus'''
-|"''Esto''... Estás hablando de la reina, y está claro que conoces nuestro parentesco. Mantenlo en secreto, ¿vale, Huesos?"
+|"*Esto*... Estás hablando de la reina, y está claro que conoces nuestro parentesco. Mantenlo en secreto, ¿vale, Huesos?"
 |-
 |'''Skelly'''
-|"''Ah'', así que el alumno le da una lección al maestro para variar. Entendido, colega, tu secreto está a salvo conmigo."
+|"*Ah*, así que el alumno le da una lección al maestro para variar. Entendido, colega, tu secreto está a salvo conmigo."
 |-
 ! colspan="2" |Skelly Post Epilogue 01
 |-
@@ -535,7 +535,7 @@
 |"Pues... mejor de lo que esperaba, de hecho. Espero que no sintieras que te dejaba de lado, la lista de invitados era muy limitada. Era como una misión diplomática, para que lo entiendas. No ha sido tan divertido como sonaba desde fuera."
 |-
 |'''Skelly'''
-|"''Anda'', no tienes que preocuparte por mí, colega. Me gusta llevar una vida solitaria y, además, cuando las cosas te van bien a ti, me van bien a mí. Me alegro de que saliese bien."
+|"*Anda*, no tienes que preocuparte por mí, colega. Me gusta llevar una vida solitaria y, además, cuando las cosas te van bien a ti, me van bien a mí. Me alegro de que saliese bien."
 |-
 ! colspan="2" |Skelly Chat 01
 |-
@@ -565,7 +565,7 @@
 ! colspan="2" |Skelly Chat 06
 |-
 |'''Skelly'''
-|"Es imposible romper ''estos ''huesos, tío. ¡Inténtalo!"
+|"Es imposible romper *estos *huesos, tío. ¡Inténtalo!"
 |-
 ! colspan="2" |Skelly Chat 07
 |-
@@ -653,7 +653,7 @@
 ! colspan="2" |Skelly Gift 02
 |-
 |'''Skelly'''
-|"''Guau'', ¿vas en serio, colega? Has traído esto hasta aquí… ¡¿solo por mí?! ¡Es todo un detalle!"
+|"*Guau*, ¿vas en serio, colega? Has traído esto hasta aquí… ¡¿solo por mí?! ¡Es todo un detalle!"
 |-
 |'''Zagreus'''
 |"No eres mala gente, colega. Gracias por estar siempre ahí para apalizarte salvajemente sin pensármelo."
@@ -661,7 +661,7 @@
 ! colspan="2" |Skelly Gift 03
 |-
 |'''Skelly'''
-|"''Guau''. ¡Mira lo que tienes ahí, chavalote! Espera, ¿de verdad es para mí o te estás quedando conmigo?"
+|"*Guau*. ¡Mira lo que tienes ahí, chavalote! Espera, ¿de verdad es para mí o te estás quedando conmigo?"
 |-
 |'''Zagreus'''
 |"De verdad es para ti, colega. Ahora a disfrutar, ¿vale? Pero cuando haya terminado de apalearte un poco más por amor al arte."
@@ -669,7 +669,7 @@
 ! colspan="2" |Skelly Gift 04
 |-
 |'''Skelly'''
-|"Olé, ''así ''se hace. ¡Gracias, chavalote! No olvidaré que me estás haciendo un pedazo de favor. ¡Palabrita!"
+|"Olé, *así *se hace. ¡Gracias, chavalote! No olvidaré que me estás haciendo un pedazo de favor. ¡Palabrita!"
 |-
 |'''Zagreus'''
 |"No hace falta darme las gracias. Pero ni se te ocurra olvidarlo o te atacaré sin parar y sin piedad."
@@ -685,7 +685,7 @@
 ! colspan="2" |Skelly Gift 06
 |-
 |'''Skelly'''
-|"''Aaah'', ¿estás de broma o qué? Chavalote, a veces haces que me sienta vivo de nuevo. ¿Lo sabes? Sinceramente, te estoy muy agradecido."
+|"*Aaah*, ¿estás de broma o qué? Chavalote, a veces haces que me sienta vivo de nuevo. ¿Lo sabes? Sinceramente, te estoy muy agradecido."
 |-
 |'''Zagreus'''
 |"Si no fuera por ti, amigo mío, no tendría a quién atacar con violencia sin miedo a represalias."
@@ -696,7 +696,7 @@
 |"Huesos, aunque sé que tus servicios están más que pagados, tus contactos han de saber de tu excelente labor. Tanto es así que quiero regalarte esto."
 |-
 |'''Skelly'''
-|"¿''Cóóómo''? ¡¿Un frasco de ambrosía, tronco?! Jamás pensé que la cataría. Aquí soy el último mono. ¿Pues sabes? Yo quiero darte esto a cambio. Como símbolo de nuestra amistad. Y por si necesitas un cable ahí fuera."
+|"¿*Cóóómo*? ¡¿Un frasco de ambrosía, tronco?! Jamás pensé que la cataría. Aquí soy el último mono. ¿Pues sabes? Yo quiero darte esto a cambio. Como símbolo de nuestra amistad. Y por si necesitas un cable ahí fuera."
 |-
 ! colspan="2" |Skelly Gift 08
 |-
@@ -704,7 +704,7 @@
 |"Espero que te gustase aquella botella de ambrosía añeja de la última vez, Huesos, porque tengo otra para ti. ¡Toma!"
 |-
 |'''Skelly'''
-|"''Venga ya'', chavalote. ¿Me tomas el pelo? Pero ¿por qué? Yo solo… me quedo quieto mientras me dejas como un guiñapo. No tienes que darme nada. Ni siquiera sabes quién soy. Quién era."
+|"*Venga ya*, chavalote. ¿Me tomas el pelo? Pero ¿por qué? Yo solo… me quedo quieto mientras me dejas como un guiñapo. No tienes que darme nada. Ni siquiera sabes quién soy. Quién era."
 |-
 |'''Zagreus'''
 |"Eres mi amigo, tío. Es lo único que importa. Aunque… ¿estarías dispuesto a revelar esos detalles? Me pica la curiosidad."
@@ -726,12 +726,12 @@
 ! colspan="2" |Skelly True Death Quest Complete
 |-
 |'''Skelly'''
-|"''Ja, ja, ja''. Te la he vuelto a pegar, ¿eh, chavalote? ''«Te pido que me saques de aquí»''. Ja, ja, ja. Todo ese rollo de la espada con tu aspecto… Te lo has tragado. ¡''Jo, jo, jo''!"
+|"*Ja, ja, ja*. Te la he vuelto a pegar, ¿eh, chavalote? *«Te pido que me saques de aquí»*. Ja, ja, ja. Todo ese rollo de la espada con tu aspecto… Te lo has tragado. ¡*Jo, jo, jo*!"
 |-
 |'''Zagreus'''
 |"Al parecer, he sido víctima de una broma pesada. No sé si me hace mucha gracia, Huesos. ¿Te gustaría que no volviera a golpearte?"
 |-
 |'''Skelly'''
-|"¡Eh, eh, ''eh, eh, eh''! No te sulfures, que era una bromita de nada. Para quitarle un poco de hierro al asunto. No tomes ninguna decisión a lo loco."
+|"¡Eh, eh, *eh, eh, eh*! No te sulfures, que era una bromita de nada. Para quitarle un poco de hierro al asunto. No tomes ninguna decisión a lo loco."
 |-
 |}

@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Megaera With Sisyphus 01
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Megaera'''
 |"...Si tu continues de l'aider, tu auras mille coups de fouet la prochaine fois qu'on se revoit. Et à mon retour, mieux vaudrait pour toi que ton petit caillou soit là-haut plutôt qu’ici ou tu en auras mille de plus."
@@ -8,7 +8,7 @@
 |'''Sisyphus'''
 |"J'ai compris, j'ai compris, madame. C’est plus qu’équitable, vraiment. Je ne vous décevrai pas ! À bientôt !"
 |-
-! colspan="2" |Megaera With Sisyphus 02
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Megaera'''
 |"...Et je te conseille de t'y mettre tout de suite avec ton rocher, sale petit tricheur. Ne va surtout pas croire que je ne t'ai pas à l’œil."
@@ -16,15 +16,15 @@
 |'''Sisyphus'''
 |"J’apprécie votre vigilance, madame, et je ne manquerai sûrement pas d’amener Pierrot en haut de cette colline en un rien de temps, même si je n'y suis encore jamais parvenu !"
 |-
-! colspan="2" |Megaera With Sisyphus 03
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Megaera'''
 |"...Et quand cette affaire avec le Prince sera terminée, on reprendra comme avant. Mais en attendant, je veux te voir pousser ton rocher sur cette colline."
 |-
 |'''Sisyphus'''
-|"C'est compris, madame. Soyez certaine que Pierrot, ''ahem'', je veux dire ce rocher, sera poussé avec diligence jusqu'au sommet, comme toujours ! Au revoir, maintenant !"
+|"C'est compris, madame. Soyez certaine que Pierrot, *ahem*, je veux dire ce rocher, sera poussé avec diligence jusqu'au sommet, comme toujours ! Au revoir, maintenant !"
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"...Et enfin, je t'interdis de continuer à venir en aide au Prince Zagreus. Est-ce que je me suis bien fait comprendre ?"
@@ -35,7 +35,7 @@
 |'''Thanatos'''
 |"Ça suffit ! Remets-toi au travail, et je me remettrai au mien."
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"J'ai compris, Maître Thanatos, et je ferai ce que vous dites. Je n'aiderai plus le Prince Zagreus, et je ne plaisante pas cette fois."
@@ -43,7 +43,7 @@
 |'''Thanatos'''
 |"Bien. Parce que si tu me mens encore une fois, c'en sera fini pour nous deux. Veille à ce que ça n'arrive pas."
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"...Tu ferais mieux de m'écouter la prochaine fois, et de ne pas chercher à m'échapper. La mort peut être très désagréable, comme tu le sais sûrement déjà."
@@ -85,7 +85,7 @@
 |"Écoutez, je vais être franc avec vous, Sisyphe. Je quitte la Maison. J’en ai assez de vivre ici. Je suis sûr que vous comprenez. Je pars rejoindre la surface."
 |-
 |'''Sisyphus'''
-|"''Pfiou'', en voilà un projet ambitieux, Prince. À vrai dire, si ce n’était pas vous qui en parliez, j’appellerais ça de la folie pure et simple. Mais vous, vous êtes assez fou pour avoir une chance d'y parvenir ! Eh bien, j’espère que vous réussirez. Bonne chance !"
+|"*Pfiou*, en voilà un projet ambitieux, Prince. À vrai dire, si ce n’était pas vous qui en parliez, j’appellerais ça de la folie pure et simple. Mais vous, vous êtes assez fou pour avoir une chance d'y parvenir ! Eh bien, j’espère que vous réussirez. Bonne chance !"
 |-
 ! colspan="2" |Sisyphus Meeting 03
 |-
@@ -107,7 +107,7 @@
 |"Sisyphe, ne le prenez pas mal, mais… pourquoi est-ce que vous m'aidez ? Mon père vous a condamné à une éternité de tourment ici, et pourtant vous m’accueillez toujours avec le sourire."
 |-
 |'''Sisyphus'''
-|"''Hah'' ! Allons, Prince Z, je suis comme ça, c'est tout ! Et puis, les dieux soient loués, vous n’êtes pas comme votre père ! Vous m’avez toujours semblé sympathique, et comme vous dites vouloir sortir, eh bien, disons que je peux vous comprendre."
+|"*Hah* ! Allons, Prince Z, je suis comme ça, c'est tout ! Et puis, les dieux soient loués, vous n’êtes pas comme votre père ! Vous m’avez toujours semblé sympathique, et comme vous dites vouloir sortir, eh bien, disons que je peux vous comprendre."
 |-
 ! colspan="2" |Sisyphus Meeting About Fury 01
 |-
@@ -150,7 +150,7 @@
 |"Vous savez... parfois, je suis un peu jaloux de vous et de Pierrot, monsieur. Vous avez l’air tellement bien dans votre peau. Moi, je me pose encore beaucoup de questions sur moi-même, et je ne sais pas toujours vers qui me tourner."
 |-
 |'''Sisyphus'''
-|"Oh, ''hah ''! Eh bien, je pense seulement que vous traversez une période difficile, Prince. Mais vous vous en sortirez ! Quant au vieux Pierrot, n’hésitez pas à lui parler de tous vos tracas ! C’est ce que j’ai fait il y a longtemps."
+|"Oh, *hah *! Eh bien, je pense seulement que vous traversez une période difficile, Prince. Mais vous vous en sortirez ! Quant au vieux Pierrot, n’hésitez pas à lui parler de tous vos tracas ! C’est ce que j’ai fait il y a longtemps."
 |-
 |'''Zagreus'''
 |"Alors, je peux... je peux tout simplement aller le voir et discuter avec lui ? C'est tout ?"
@@ -183,7 +183,7 @@
 |"Je vous en prie, monsieur. On sait tous les deux très bien que Pierrot est bien plus que ça. Vous croyez vraiment que je doute du pouvoir de Pierrot après tout ce qu'on a traversé ?"
 |-
 |'''Sisyphus'''
-|"''Hahahaha'', non. Ce n'était qu'une blague aux dépens de Pierrot. Regardez comme il se vexe quand je le traite de simple vieux rocher ! Mais après, il me traite de vieux paresseux, et nous sommes quittes pour un moment."
+|"*Hahahaha*, non. Ce n'était qu'une blague aux dépens de Pierrot. Regardez comme il se vexe quand je le traite de simple vieux rocher ! Mais après, il me traite de vieux paresseux, et nous sommes quittes pour un moment."
 |-
 ! colspan="2" |Sisyphus About Alecto 01
 |-
@@ -235,7 +235,7 @@
 |"Cela vous surprendra peut-être, Votre Altesse, mais j'avais du sang royal dans mes veines. Pas autant que vous, bien sûr, mais j’étais un roi. Enfin, pour être honnête, je... je n’étais pas vraiment quelqu’un de bien."
 |-
 |'''Zagreus'''
-|"''Oh ''! Je me disais bien qu’il y avait quelque chose de royal chez vous ! Mais j'ai du mal à vous imaginer en autre chose que le gentilhomme que je connais, mon ami."
+|"*Oh *! Je me disais bien qu’il y avait quelque chose de royal chez vous ! Mais j'ai du mal à vous imaginer en autre chose que le gentilhomme que je connais, mon ami."
 |-
 |'''Sisyphus'''
 |"Oh, vous êtes trop gentil, vraiment. Mais j'ose penser que mon châtiment ici n’est pas injustifié. J'ai eu beaucoup de temps pour méditer sur la question, voyez-vous !"
@@ -243,10 +243,10 @@
 ! colspan="2" |Sisyphus Backstory 03
 |-
 |'''Zagreus'''
-|"''Euh'', Sisyphe, je peux vous demander ce que vous avez fait pour mériter un châtiment pareil ? Pousser un rocher jusqu’à la fin des temps, et tout. Vous ne m’avez jamais raconté votre version des faits."
+|"*Euh*, Sisyphe, je peux vous demander ce que vous avez fait pour mériter un châtiment pareil ? Pousser un rocher jusqu’à la fin des temps, et tout. Vous ne m’avez jamais raconté votre version des faits."
 |-
 |'''Sisyphus'''
-|"Eh bien, c'est une longue histoire, Prince. Mon heure était venue, mais je n'étais pas encore prêt, pour ainsi dire. Votre père pensait avoir mis la main sur moi, mais, ''pouf '' ! Je lui ai échappé. Thanatos, l'homme de main de votre père, il pourra vous le confirmer."
+|"Eh bien, c'est une longue histoire, Prince. Mon heure était venue, mais je n'étais pas encore prêt, pour ainsi dire. Votre père pensait avoir mis la main sur moi, mais, *pouf * ! Je lui ai échappé. Thanatos, l'homme de main de votre père, il pourra vous le confirmer."
 |-
 |'''Zagreus'''
 |"Réussir à tromper Thanatos, c'est incroyable... et qu'est-ce qui s'est passé, ensuite ?"
@@ -274,7 +274,7 @@
 |"Il faut que je vous dise, Sisyphe. Parfois, j'aimerais tellement en savoir plus sur votre passé. Vous avez dû être un grand roi."
 |-
 |'''Sisyphus'''
-|"Eh bien, ''ha ha'', le problème, c'est que justement non, Votre Altesse. Et je ne dis pas cela par modestie. Tout cela est derrière moi maintenant, et j'aimerais que nous en restions là."
+|"Eh bien, *ha ha*, le problème, c'est que justement non, Votre Altesse. Et je ne dis pas cela par modestie. Tout cela est derrière moi maintenant, et j'aimerais que nous en restions là."
 |-
 |'''Zagreus'''
 |"D'accord, monsieur. Mais quoi que vous ayez fait dans votre vie de mortel... je suis sûr que vous avez plus que payé votre dette, depuis le temps. Attendez, c'est pour ça que vous êtes encore ici ? Parce que vous pensez que vous méritez ça ?"
@@ -476,7 +476,7 @@
 ! colspan="2" |Sisyphus Post Ending 01
 |-
 |'''Sisyphus'''
-|"Prince, depuis tout ce temps, quand vous vous battiez pour rejoindre la surface... vous ''la '' cherchiez, n'est-ce pas ? La Reine ?"
+|"Prince, depuis tout ce temps, quand vous vous battiez pour rejoindre la surface... vous *la * cherchiez, n'est-ce pas ? La Reine ?"
 |-
 |'''Zagreus'''
 |"C'est ça. Mais entre nous, monsieur, il faut absolument que ça reste un secret, s'il vous plaît. Est-ce que... vous l'avez déjà rencontrée ?"
@@ -501,7 +501,7 @@
 |"Si je puis permettre, Prince Z, il y a juste une chose que je ne comprends pas. Si tout va pour le mieux pour vous à la Maison, alors... pourquoi vous donnez-vous encore autant de mal pour rejoindre la surface ?"
 |-
 |'''Zagreus'''
-|"Oh, vous savez, je ne voudrais pas que Père se relâche trop en pensant qu'il est totalement impossible de s'échapper d'ici. Il a une réputation terrifiante à maintenir, vous comprenez ! ''Il n'y a aucune issue'', et tout."
+|"Oh, vous savez, je ne voudrais pas que Père se relâche trop en pensant qu'il est totalement impossible de s'échapper d'ici. Il a une réputation terrifiante à maintenir, vous comprenez ! *Il n'y a aucune issue*, et tout."
 |-
 |'''Sisyphus'''
 |"Bien sûr, c'est logique ! Enfin, d'un certain point de vue. S'échapper encore et encore pour prouver que c'est impossible ! J'aime bien. Dans ce cas, faisons de notre mieux, tous les deux !"
@@ -509,7 +509,7 @@
 ! colspan="2" |Sisyphus Post Epilogue 03
 |-
 |'''Sisyphus'''
-|"J'espère que vous vous ménagez quand même ''un peu ''ces temps-ci, Prince Z ? Vous pensez bien à faire une pause de temps en temps, n'est-ce pas ?"
+|"J'espère que vous vous ménagez quand même *un peu *ces temps-ci, Prince Z ? Vous pensez bien à faire une pause de temps en temps, n'est-ce pas ?"
 |-
 |'''Zagreus'''
 |"Ne vous inquiétez pas, monsieur, je vais bien. Mais, à l'époque où vous poussiez Pierrot au lieu de lui parler... j'imagine que vous n'aviez pas d'autre choix, si ?"
@@ -537,7 +537,7 @@
 |"Merci, monsieur. Ils m'ont été très utiles pendant mes nombreux voyages dans ce royaume. Vous êtes sûr que vous ne voulez pas les récupérer ?"
 |-
 |'''Sisyphus'''
-|"''Hahahahah '' ! Non, pas du tout, mais j'apprécie la proposition. Je préfère ce bon vieux rocher plutôt que ce symbole de l'époque où je me suis retrouvé coincé ici, quand je ne me portais pas aussi bien qu'aujourd'hui."
+|"*Hahahahah * ! Non, pas du tout, mais j'apprécie la proposition. Je préfère ce bon vieux rocher plutôt que ce symbole de l'époque où je me suis retrouvé coincé ici, quand je ne me portais pas aussi bien qu'aujourd'hui."
 |-
 ! colspan="2" |Sisyphus About About Singers Reunion Quest 01
 |-
@@ -548,7 +548,7 @@
 |"Vous avez deviné juste, Sisyphe ! Orphée a enfin retrouvé sa muse. Ou du moins, il peut maintenant lui rendre visite régulièrement, quand il n'est pas occupé chez mon père. Et donc, vous avez déjà entendu parler d'eux ?"
 |-
 |'''Sisyphus'''
-|"Oh, plus que cela, encore ! Je suis sûr que vous êtes au courant de la fois où Orphée s'est aventuré jusqu'ici, après la mort d'Eurydice. Je n'oublierai jamais son chant ! Même les Érinyes m'avaient laissé tranquille, tant elles étaient captivées. ''Ah'', c'était le bon temps. Pour moi, en tout cas !"
+|"Oh, plus que cela, encore ! Je suis sûr que vous êtes au courant de la fois où Orphée s'est aventuré jusqu'ici, après la mort d'Eurydice. Je n'oublierai jamais son chant ! Même les Érinyes m'avaient laissé tranquille, tant elles étaient captivées. *Ah*, c'était le bon temps. Pour moi, en tout cas !"
 |-
 ! colspan="2" |Sisyphus About Legendary 01
 |-
@@ -569,7 +569,7 @@
 |'''Sisyphus'''
 |"Eh bien, Prince, ne vous ai-je pas dit que je serais avec vous par la pensée ? Ce n’est pas par l’intermédiaire d'Ombros, ni de Pierrot, ni par ma force cachée. C’est juste une preuve de notre amitié. Vous êtes capables de tout, vous les dieux !"
 |-
-! colspan="2" |Megaera With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Zagreus'''
 |"Elle est partie... ça va, vous êtes encore en un seul morceau, Sisyphe ? Vous n’êtes pas blessé ni rien ?"
@@ -577,7 +577,7 @@
 |'''Sisyphus'''
 |"Oh, je vais bien, merci, Prince. Cette Érinye, c’est un sacré personnage, je dois dire, et quelle force ! Je parie qu'elle serait bien plus douée que moi pour pousser ce bon vieux Pierrot !"
 |-
-! colspan="2" |Megaera With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Zagreus'''
 |"Vous n'avez vraiment jamais réussi à pousser Pierrot jusqu'au sommet ?"
@@ -585,7 +585,7 @@
 |'''Sisyphus'''
 |"Je n'ai jamais réussi à pousser ce vieux rocher jusqu'en haut, non. Il finit toujours par dévaler la colline à quelques pas du sommet. J'ai arrêté de compter après la dix-neuf mille centième fois, je crois, mais vous savez quoi ? Je parie qu'il va enfin y arriver, un de ces jours."
 |-
-! colspan="2" |Megaera With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Zagreus'''
 |"Sisyphe, ai-je bien entendu que Mégère a décidé de vous laisser un peu tranquilles, Pierrot et vous ?"
@@ -596,17 +596,17 @@
 |'''Zagreus'''
 |"Eh bien, je dois pouvoir l'occuper un moment. Je prends ça comme une bonne nouvelle, monsieur."
 |-
-! colspan="2" |Thanatos With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Sisyphus'''
 |"Oh, je vais très bien, merci, Prince. Je n’ai pas peur de lui. Je veux dire, qu’est-ce que j’ai à perdre, maintenant ? Enfin bref, tenez."
 |-
-! colspan="2" |Thanatos With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Il ne manque pas de toupet, celui-là, vous ne trouvez pas, Prince ? Ce n'est rien qu'un vantard, alors je lui dis simplement ce qu'il veut entendre ! De toute façon, il ne peut pas m'empêcher de vous aider. Je suis déjà mort, que peut-il bien faire ?"
 |-
-! colspan="2" |Thanatos With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Sisyphus'''
 |"Prince Z ! Vous venez à peine de rater votre collègue, vous sentez cette immobilité dans l'air ? J'ai l'impression qu'il ne reviendra pas ici de sitôt."

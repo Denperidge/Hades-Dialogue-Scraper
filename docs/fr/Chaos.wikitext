@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"Je sens que vous n'avez pas encore parlé avec l'objet qui voit tout, que vous appelez Égide. Alors, intervenez autant que vous voulez dans les desseins des Moires, mais si vous changez d'avis, prononcez ces mots devant lui : ''Je te vois résister à la flamme du serpent.''"
+|"Je sens que vous n'avez pas encore parlé avec l'objet qui voit tout, que vous appelez Égide. Alors, intervenez autant que vous voulez dans les desseins des Moires, mais si vous changez d'avis, prononcez ces mots devant lui : *Je te vois résister à la flamme du serpent.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Tu n'as toujours pas prononcé la phrase d'éveil que je t'ai apprise ? À moins peut-être que tu aies simplement choisi de ne pas me montrer le résultat. Quoi qu'il en soit, j'aimerais quand même bien en être témoin un jour. N'oublie pas, Fils d'Hadès, dis à la relique omnisciente : ''Je te vois te défendre contre la flamme du serpent.''"
+|"Tu n'as toujours pas prononcé la phrase d'éveil que je t'ai apprise ? À moins peut-être que tu aies simplement choisi de ne pas me montrer le résultat. Quoi qu'il en soit, j'aimerais quand même bien en être témoin un jour. N'oublie pas, Fils d'Hadès, dis à la relique omnisciente : *Je te vois te défendre contre la flamme du serpent.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"Je sens que tu as quelque chose à dire, Fils d’Hadès. Alors, parle, à quoi penses-tu ? Quelques bribes de tes préoccupations me sont évidentes, mais une explication de vive voix serait malgré tout préférable."
 |-
 |'''Zagreus'''
-|"''Euh'', Maître Chaos ? La déesse Nyx aimerait... à nouveau parler avec vous. Vous pourriez peut-être la contacter prochainement ? Elle semble convaincue que c'est à vous de faire le premier pas... si vous le souhaitez."
+|"*Euh*, Maître Chaos ? La déesse Nyx aimerait... à nouveau parler avec vous. Vous pourriez peut-être la contacter prochainement ? Elle semble convaincue que c'est à vous de faire le premier pas... si vous le souhaitez."
 |-
 |'''Chaos'''
 |"La déesse Nyx souhaite avoir de mes nouvelles...? Voilà qui est surprenant, Fils d'Hadès, et je me demande s'il ne s'agit pas là d'une plaisanterie de ta part. Mais tes intentions sont de toute évidence sincères. Je ne peux rien te promettre, si ce n'est que... je vais envisager cette possibilité."
@@ -249,7 +249,7 @@
 |"Je perçois ta consternation face à cet espace, Fils d'Hadès. Tu as une autre question, et tu es libre de me la poser si tel est ton choix."
 |-
 |'''Zagreus'''
-|"Oh, Maître Chaos, c'est juste que... parfois, je me demande... si vous avez créé tout ceci, alors... qui vous a créé, ''vous ''? Qu'était cet endroit avant votre arrivée ?"
+|"Oh, Maître Chaos, c'est juste que... parfois, je me demande... si vous avez créé tout ceci, alors... qui vous a créé, *vous *? Qu'était cet endroit avant votre arrivée ?"
 |-
 |'''Chaos'''
 |"Tout ceci est simplement arrivé, tout comme moi, probablement après la fin d'un temps. J'hésite à dire que c'était un acte volontaire. C'était plus une sorte de changement soudain, comme une conflagration provoquée par une étincelle. Je suis arrivé à ce moment-là, et tout le reste est arrivé ensuite, grâce à moi."
@@ -377,7 +377,7 @@
 |"J'attendais ton arrivée, Fils d'Hadès, car je suis capable de voir à travers toi. Ou plutôt, à travers la relique omnisciente que j'ai créé à l'aube des temps et qui reprend aujourd'hui, entre tes mains, sa forme première. Réponds."
 |-
 |'''Zagreus'''
-|"Quoi...? Ah, vous voulez parler du Bouclier du Chaos ? ''Votre '' bouclier, devrais-je dire. C'est une relique vraiment remarquable. Et imposante ! Vos toutes premières créations devaient être stupéfiantes, Maître Chaos."
+|"Quoi...? Ah, vous voulez parler du Bouclier du Chaos ? *Votre * bouclier, devrais-je dire. C'est une relique vraiment remarquable. Et imposante ! Vos toutes premières créations devaient être stupéfiantes, Maître Chaos."
 |-
 |'''Chaos'''
 |"Ta réponse est acceptable. Et je suis heureux d'avoir eu un aperçu de ce vaste domaine."
@@ -390,10 +390,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"J'ai un message pour toi, ô Fils d'Hadès. Un message venu d'un temps où certains concepts qu'il décrit n'existaient pas encore. Retiens ceci : ''Je te vois te défendre contre la flamme du serpent. ''Une phrase d'éveil à laquelle toi et la relique omnisciente de ma création réagirez sûrement."
+|"J'ai un message pour toi, ô Fils d'Hadès. Un message venu d'un temps où certains concepts qu'il décrit n'existaient pas encore. Retiens ceci : *Je te vois te défendre contre la flamme du serpent. *Une phrase d'éveil à laquelle toi et la relique omnisciente de ma création réagirez sûrement."
 |-
 |'''Zagreus'''
-|"Une phrase d'éveil... et une relique omnisciente ? Vous voulez parler d'Égide, c'est ça ? Et donc, je dois lui dire, ''« Je te vois te défendre contre la flamme du serpent »'', et il comprendra... Dites, est-ce que vous pouvez me dire de qui ou de quoi ça parle ?"
+|"Une phrase d'éveil... et une relique omnisciente ? Vous voulez parler d'Égide, c'est ça ? Et donc, je dois lui dire, *« Je te vois te défendre contre la flamme du serpent »*, et il comprendra... Dites, est-ce que vous pouvez me dire de qui ou de quoi ça parle ?"
 |-
 |'''Chaos'''
 |"Oh, je peux presque tout te dire. Cependant, je préfère que tu découvres par toi-même les réponses à tes questions."
@@ -401,13 +401,13 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"Je ne vois pas du tout qui c'est, cette fois... alors, au nom d'Hadès ! ''Euh'', bonjour ? Puis-je savoir de qui il s'agit ?"
+|"Je ne vois pas du tout qui c'est, cette fois... alors, au nom d'Hadès ! *Euh*, bonjour ? Puis-je savoir de qui il s'agit ?"
 |-
 |'''Chaos'''
 |"...Les Olympiens se sont tous bien assagis... tu ne trouves pas ?"
 |-
 |'''Zagreus'''
-|"''Euh''... on se connaît ?"
+|"*Euh*... on se connaît ?"
 |-
 |'''Chaos'''
 |"Oh, d’une certaine manière, oui, nous nous connaissons. Je connais tout le monde ici, et là. Ainsi, tu souhaites quitter cet endroit ? Dans ce cas, mon souhait est de rendre ta tâche un peu plus intéressante... et, si un jour tu rencontres les Olympiens, transmets-leur mes salutations."
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"Tu es le bienvenu ici."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"Ta présence ici est appréciée, Fils d'Hadès, mais je te prie de nous laisser en paix pour le moment."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Pardonne-nous, Fils d'Hadès, car nous sommes en train d'échanger des souvenirs."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Fils d'Hadès, je suis heureux de revoir la déesse Nyx à mes côtés."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Pardonne-moi, Fils d'Hadès, mais je dois continuer cette discussion avec la déesse Nyx."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"Je n'avais pas vu la déesse Nyx depuis quelque temps."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"Je ne suis guère habitué à avoir autant de compagnie, ces temps-ci."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"Ma fille me parlait justement des récents événements qui se sont déroulés dans ta Maison."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"Comme tu peux le constater, la déesse Nyx et moi-même sommes actuellement en pleine conversation."

@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Megaera With Sisyphus 01
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Megaera'''
 |"...Wenn du ihm noch einmal aushilfst, kriegst du bei unserer nächsten Begegnung tausend Peitschenhiebe. Und wenn ich zurückkomme, liegt dein kleiner Felsen besser da oben, oder du kriegst noch mal tausend."
@@ -8,7 +8,7 @@
 |'''Sisyphus'''
 |"Klingt gut, klingt gut, ehrwürdige Dame, das ist mehr als angemessen. Ich nehme dich beim Wort! Wir sehen uns bald wieder!"
 |-
-! colspan="2" |Megaera With Sisyphus 02
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Megaera'''
 |"...Und du kümmerst dich besser fleißig um deinen Felsblock, wenn dir dein Wohlergehen lieb ist, du kleiner Schwindler. Und glaub ja nicht, dass ich dich nicht beobachte."
@@ -16,15 +16,15 @@
 |'''Sisyphus'''
 |"Ich weiß deine Aufmerksamkeit zu schätzen, ehrwürdige Dame, und ich werde Steinchen sicherlich im Nu diesen Hang hinaufrollen, obwohl mir das bisher noch nie gelungen ist!"
 |-
-! colspan="2" |Megaera With Sisyphus 03
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Megaera'''
 |"...Und sobald diese Sache mit dem Prinzen erledigt ist, wird alles wieder so sein wie früher. Bis dahin würde ich an deiner Stelle zusehen, dass ich deinen Felsblock wieder regelmäßig da oben auf dem Berg sehe."
 |-
 |'''Sisyphus'''
-|"Das klingt sehr vernünftig in meinen Ohren, ehrwürdige Dame. Sei dir gewiss, dass ich Steinchen -'' ähm '', ich will sagen diesen Felsblock hier - dass ich ihn ab sofort wieder wie gewohnt regelmäßig diesen Hang hinaufrollen werde! Bis dann!"
+|"Das klingt sehr vernünftig in meinen Ohren, ehrwürdige Dame. Sei dir gewiss, dass ich Steinchen -* ähm *, ich will sagen diesen Felsblock hier - dass ich ihn ab sofort wieder wie gewohnt regelmäßig diesen Hang hinaufrollen werde! Bis dann!"
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"...Und es ist dir ab sofort untersagt, Prinz Zagreus noch einmal zu helfen. Haben wir uns verstanden?"
@@ -35,7 +35,7 @@
 |'''Thanatos'''
 |"Genug. Geh zurück an die Arbeit, und ich werde mich wieder um meine Aufgaben kümmern."
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Ich verstehe dich, Gebieter Thanatos, und werde mich deinem Willen beugen. Keine Hilfe mehr für Prinz Zagreus, und dieses Mal meine ich es todernst."
@@ -43,7 +43,7 @@
 |'''Thanatos'''
 |"Sehr gut. Ansonsten sind wir beide dran, wenn du bei einer deiner Täuschungen erwischt wirst. Sorge dafür, dass dies nicht geschieht."
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"...Es wäre klug von dir, das nächste Mal meinen Worten mehr Beachtung zu schenken und die Konsequenzen zu fürchten, wenn du versuchst, mir auszuweichen. Der Tod kann sehr unangenehmen sein, wie du sicherlich schon am eigenen Leib erfahren hast."
@@ -85,7 +85,7 @@
 |"Hör mal, ich will ehrlich mit dir sein, Sisyphos. Ich verlasse das Haus. Ich habe die Nase voll. Du verstehst das sicherlich. Ich gehe in die Oberwelt."
 |-
 |'''Sisyphus'''
-|"''Puh'', das ist aber ein ziemliches Unterfangen, Prinz. Wenn du es nicht selbst vorgeschlagen hättest, würde ich es reinen Wahnsinn nennen, um ehrlich zu sein. Allerdings hast du aber auch gerade das richtige Maß an Wahnsinn, um es durchzuziehen! Na, ich hoffe, dass du es schaffst, viel Glück da draußen!"
+|"*Puh*, das ist aber ein ziemliches Unterfangen, Prinz. Wenn du es nicht selbst vorgeschlagen hättest, würde ich es reinen Wahnsinn nennen, um ehrlich zu sein. Allerdings hast du aber auch gerade das richtige Maß an Wahnsinn, um es durchzuziehen! Na, ich hoffe, dass du es schaffst, viel Glück da draußen!"
 |-
 ! colspan="2" |Sisyphus Meeting 03
 |-
@@ -107,7 +107,7 @@
 |"Sisyphos, versteh mich nicht falsch, aber... warum hilfst du mir? Mein Vater hat dich zu ewiger Folter verurteilt, und dennoch begrüßt du mich jedes Mal mit einem Lächeln."
 |-
 |'''Sisyphus'''
-|"''Ha! Komm schon, Prinz Z., ich bin einfach so! Außerdem bist du nicht dein Vater, den Göttern sei Dank! Du schienst schon immer ein anständiger Kerl zu sein, und wenn du sagst, dass du von hier weggehen möchtest, na, dann kann ich das einfach nachvollziehen.''"
+|"*Ha! Komm schon, Prinz Z., ich bin einfach so! Außerdem bist du nicht dein Vater, den Göttern sei Dank! Du schienst schon immer ein anständiger Kerl zu sein, und wenn du sagst, dass du von hier weggehen möchtest, na, dann kann ich das einfach nachvollziehen.*"
 |-
 ! colspan="2" |Sisyphus Meeting About Fury 01
 |-
@@ -150,7 +150,7 @@
 |"Weiß du, ich dachte gerade, Herr... manchmal beneide ich dich und Steinchen da drüben ein bisschen. Du scheinst sehr lebensklug zu sein. Ich bin immer noch oft von mir selbst enttäuscht und weiß nicht immer, an wen ich mich wenden soll."
 |-
 |'''Sisyphus'''
-|"Oh, ''hah''! Nun, ich glaube, du bist in letzter Zeit einfach in einer schwierigen Lage, Prinz. Aber du stehst das schon durch! Und was das gute Steinchen angeht, na, dem kannst du ruhig all deine Sorgen anvertrauen! Habe alle meinigen vor einiger Zeit bei ihm abgeladen."
+|"Oh, *hah*! Nun, ich glaube, du bist in letzter Zeit einfach in einer schwierigen Lage, Prinz. Aber du stehst das schon durch! Und was das gute Steinchen angeht, na, dem kannst du ruhig all deine Sorgen anvertrauen! Habe alle meinigen vor einiger Zeit bei ihm abgeladen."
 |-
 |'''Zagreus'''
 |"Also, ich kann einfach... zu ihm gehen und mit ihm reden und plaudern? Mehr nicht?"
@@ -177,13 +177,13 @@
 ! colspan="2" |Sisyphus About Bouldy 04
 |-
 |'''Sisyphus'''
-|"He, Prinz, ah, also... du weißt schon, dass Steinchen nichts weiter als ein gewöhnlicher, alter Felsblock ist? Mit paar eingemeißelten Linien, die an ein Gesicht erinnern, ja? Ein lebloses ''Ding''? Nur damit du nicht auf falsche Gedanken kommst..."
+|"He, Prinz, ah, also... du weißt schon, dass Steinchen nichts weiter als ein gewöhnlicher, alter Felsblock ist? Mit paar eingemeißelten Linien, die an ein Gesicht erinnern, ja? Ein lebloses *Ding*? Nur damit du nicht auf falsche Gedanken kommst..."
 |-
 |'''Zagreus'''
 |"Komm schon, Herr. Wir beide wissen doch, dass Steinchen weitaus mehr ist. Glaubst du wirklich, ich könnte Steinchens Macht anzweifeln, nach allem, was wir durchgemacht haben?"
 |-
 |'''Sisyphus'''
-|"''Hahahaha'', nein. War nur ein kleiner Scherz, auf Steinchens Kosten. Sieh ihn nur an, er wird richtig wütend, wenn ich als gewöhnlichen, alten Felsblock und lebloses Ding bezeichne! Aus Rache nennt er mich einen alten, faulen Kloß, und dann sind wir eine Weile quitt."
+|"*Hahahaha*, nein. War nur ein kleiner Scherz, auf Steinchens Kosten. Sieh ihn nur an, er wird richtig wütend, wenn ich als gewöhnlichen, alten Felsblock und lebloses Ding bezeichne! Aus Rache nennt er mich einen alten, faulen Kloß, und dann sind wir eine Weile quitt."
 |-
 ! colspan="2" |Sisyphus About Alecto 01
 |-
@@ -246,7 +246,7 @@
 |"Ähm, Sisyphos, darf ich fragen, was du getan hast, das dieses besondere Arrangement hier rechtfertigt? Einen Felsblock bis zum Ende der Zeiten zu schieben. Ich habe es noch nie aus deinem Mund gehört."
 |-
 |'''Sisyphus'''
-|"Nun, das ist eine etwas lange Geschichte, Prinz. Meine Zeit war gekommen, aber ich war einfach noch nicht bereit, könnte man sagen. Dein Vater dachte schon, er hätte mich in seinen Klauen, aber ''Flupp''!! Ich ging ihm durchs Netz. Der Handlanger deines Vaters, Thanatos, kann das alles bestätigen."
+|"Nun, das ist eine etwas lange Geschichte, Prinz. Meine Zeit war gekommen, aber ich war einfach noch nicht bereit, könnte man sagen. Dein Vater dachte schon, er hätte mich in seinen Klauen, aber *Flupp*!! Ich ging ihm durchs Netz. Der Handlanger deines Vaters, Thanatos, kann das alles bestätigen."
 |-
 |'''Zagreus'''
 |"Du hast Thanatos überlistet, das ist unglaublich... was geschah dann?"
@@ -274,7 +274,7 @@
 |"Ich muss schon sagen, Sisyphos. Manchmal wünschte ich, ich wüsste mehr über deine Vergangenheit. Du warst sicher ein großer König."
 |-
 |'''Sisyphus'''
-|"Na ja, ''ah-hah'', das war ich nicht, Hoheit. Und das ist keine Bescheidenheit meinerseits, ja? All das liegt jetzt hinter mir. Und ich wäre dankbar, wenn wir es dabei belassen könnten."
+|"Na ja, *ah-hah*, das war ich nicht, Hoheit. Und das ist keine Bescheidenheit meinerseits, ja? All das liegt jetzt hinter mir. Und ich wäre dankbar, wenn wir es dabei belassen könnten."
 |-
 |'''Zagreus'''
 |"Ich verstehe, Herr. Aber was auch immer du zu deinen Lebzeiten tatest... du hast seitdem mehr als genug dafür gebüßt, da bin ich sicher... Moment, warum bist du eigentlich noch immer hier, im Tartaros? Weil du meinst, das verdient zu haben?"
@@ -476,7 +476,7 @@
 ! colspan="2" |Sisyphus Post Ending 01
 |-
 |'''Sisyphus'''
-|"Dann ging es dir also bei all den Kämpfen und dergleichen, die du auf dem Weg zur Oberfläche bestehen musstest... nur darum, '' sie '' zu finden, Prinz? Die Königin?"
+|"Dann ging es dir also bei all den Kämpfen und dergleichen, die du auf dem Weg zur Oberfläche bestehen musstest... nur darum, * sie * zu finden, Prinz? Die Königin?"
 |-
 |'''Zagreus'''
 |"Ja, genau. Aber, unter uns gesagt, Herr, es ist wichtig, dass du hiervon niemandem ein Sterbenswörtchen verrätst. Bist... du ihr zufällig jemals begegnet?"
@@ -501,7 +501,7 @@
 |"Da ist eine Sache, dich ich nicht verstehe, Prinz Z., wenn du mir die Frage gestattest. Wenn doch für dich im Haus alles in bester Ordnung ist, dann... warum setzt du dich weiterhin all diesen Kämpfen aus, um die Oberfläche zu erreichen?"
 |-
 |'''Zagreus'''
-|"Oh, nur so. Damit Vater nicht das angenehme Gefühl hat, dieser Ort sei absolut sicher. Er muss einem fürchterlich unheilvollen Ruf gerecht werden! ''Es gibt kein Entkommen''."
+|"Oh, nur so. Damit Vater nicht das angenehme Gefühl hat, dieser Ort sei absolut sicher. Er muss einem fürchterlich unheilvollen Ruf gerecht werden! *Es gibt kein Entkommen*."
 |-
 |'''Sisyphus'''
 |"Ja, das leuchtet mir ein. Jedenfalls aus einer gewissen Perspektive. Ein Fluchtversuch nach dem anderen, nur um zu beweisen, dass es nicht möglich ist! Gefällt mir! Nun, dann wollen wir beide weitermachen!"
@@ -509,7 +509,7 @@
 ! colspan="2" |Sisyphus Post Epilogue 03
 |-
 |'''Sisyphus'''
-|"Du arbeitet hoffentlich nicht ''zu ''hart in letzter Zeit, Prinz Z.? Denke daran, hin und wieder mal eine Pause einzulegen, ja?"
+|"Du arbeitet hoffentlich nicht *zu *hart in letzter Zeit, Prinz Z.? Denke daran, hin und wieder mal eine Pause einzulegen, ja?"
 |-
 |'''Zagreus'''
 |"Ich glaube, es geht schon, danke, Herr. Aber damals, als du Steinchen vor dir her schobst, anstatt mit ihm zu reden... Vermutlich hattest du da keine andere Wahl, oder?"
@@ -537,7 +537,7 @@
 |"Danke, Herr. Sie ist mir bisher bei meinen wiederholten Wanderungen durch dieses Reich eine große Hilfe gewesen, und das habe ich dir zu verdanken. Bist du sicher, dass du sie nicht zurückhaben willst?"
 |-
 |'''Sisyphus'''
-|"''Hahahahah''! Ganz sicher, aber danke, dass du gefragt hast. Ich würde mir lieber den alten Felsblock da drüben anschauen als ein Symbol für die Zeit, als ich anfänglich hier war und es mir wesentlich schlechter ging."
+|"*Hahahahah*! Ganz sicher, aber danke, dass du gefragt hast. Ich würde mir lieber den alten Felsblock da drüben anschauen als ein Symbol für die Zeit, als ich anfänglich hier war und es mir wesentlich schlechter ging."
 |-
 ! colspan="2" |Sisyphus About About Singers Reunion Quest 01
 |-
@@ -569,7 +569,7 @@
 |'''Sisyphus'''
 |"Nun, Prinz, ich sagte dir doch, dass wir im Geiste bei dir sein würden, nicht wahr? Es ist nicht nur die Macht des kleinen Zwielichts und auch nicht eine verborgene Stärke von Steinchen oder mir. Es ist einfach ein Beweis für unsere Kameradschaft. Ihr Götter seid zu allem fähig!"
 |-
-! colspan="2" |Megaera With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Zagreus'''
 |"Sie ist fort... Ist noch alles dran an dir, Sisyphos? Bist du verletzt?"
@@ -577,7 +577,7 @@
 |'''Sisyphus'''
 |"Es geht mir gut, Prinz. Danke der Nachfrage! Ich muss schon sagen, diese Erinye ist ein ganz schöner Wildfang, und so überaus stark. Ich wette, sie könnte meinen alten Felsblock viel besser als ich den Hang hinaufrollen!"
 |-
-! colspan="2" |Megaera With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Zagreus'''
 |"Du hast deinen Felsblock bisher noch nie ganz hinaufgerollt?"
@@ -585,7 +585,7 @@
 |'''Sisyphus'''
 |"Ich habe den Felsblock noch nie bis ganz nach oben rollen können, noch kein einziges Mal. Er rollt immer kurz vor dem Ziel wieder hinunter. Ich habe nach dem neunzehntausendsten Mal oder so aufgehört zu zählen. Aber weißt du was? Eines schönen Tages wird mir das bestimmt gelingen."
 |-
-! colspan="2" |Megaera With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Zagreus'''
 |"Sisyphos, habe ich richtig gehört, dass Megaira geschworen hat, dich vorläufig in Frieden zu lassen? Dich und Steinchen da drüben?"
@@ -596,17 +596,17 @@
 |'''Zagreus'''
 |"Nun, ich wette, ich kann sie noch eine Weile auf Trab halten. Ich würde das als eine gute Neuigkeit betrachten, Herr."
 |-
-! colspan="2" |Thanatos With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Sisyphus'''
 |"Mir geht es sehr gut, Prinz. Vielen Dank der Nachfrage! Ich habe keine Angst vor ihm. Was habe ich denn schon zu verlieren? Augenblick, ich möchte, dass du das hier hast."
 |-
-! colspan="2" |Thanatos With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Der hat ganz schön Nerven, Prinz! Er ist doch nur ein Wichtigtuer, deshalb sage ich ihm, was er hören will! Er kann mich nicht davon abhalten, dir zu helfen. Abgesehen davon bin ich schon tot. Was kann er mir denn schon anhaben?"
 |-
-! colspan="2" |Thanatos With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Sisyphus'''
 |"Prinz Z.! Du hast deinen streng dreinblickenden Kollegen knapp verpasst. Spürst du diese bleierne Stille, die noch in der Luft hängt? Klingt, als würde er in nächster Zeit nicht wieder nach mir schauen."

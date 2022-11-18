@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Zeus With Athena 01
+! colspan="2" |Duo - Zeus and Athena (1)
 |-
 |'''Zeus'''
 |"Mira, Zagreo, por aquí viene la valerosa Atenea, la primera en contactarte de entre mi familia, con toda su sagacidad. ¡Qué proactiva has sido contactando con Zagreo antes de contármelo, querida!"
@@ -8,7 +8,7 @@
 |'''Athena'''
 |"Padre, ojalá pudiera resolver más asuntos como este con tanta rapidez y discreción, para que solo los más vitales llegasen a tus oídos. Aunque estoy seguro de que Zagreo y yo agradecemos mucho tu intervención."
 |-
-! colspan="2" |Zeus With Ares 01
+! colspan="2" |Duo - Zeus and Ares (1)
 |-
 |'''Zeus'''
 |"¡Sobrino! Bajo mi autoridad divina, mi a menudo incomprendido hijo Ares te cederá ahora una pequeña muestra de su poder. ¡Aún podré hacer de él un hombre de provecho!"
@@ -16,15 +16,15 @@
 |'''Ares'''
 |"Será como deseas, padre. Tus deseos son los míos."
 |-
-! colspan="2" |Zeus With Aphrodite 01
+! colspan="2" |Duo - Zeus and Aphrodite (1)
 |-
 |'''Zeus'''
 |"Jovencito, sé que te gustaría conocer a la agraciada Afrodita en persona, o no sé, quizá prefieras decidirlo tú mismo cuando al fin llegues aquí. Está en sus manos, ¿no es así, querida Afrodita?"
 |-
 |'''Aphrodite'''
-|"¿Cómo dices, Zeus? ¡Qué comentario más grosero viniendo de ''ti''! ¡Qué escándalo que el modelo en el que los demás dioses nos inspiramos me dedique esas palabras a ''mí''!"
+|"¿Cómo dices, Zeus? ¡Qué comentario más grosero viniendo de *ti*! ¡Qué escándalo que el modelo en el que los demás dioses nos inspiramos me dedique esas palabras a *mí*!"
 |-
-! colspan="2" |Zeus With Artemis 01
+! colspan="2" |Duo - Zeus and Artemis (1)
 |-
 |'''Zeus'''
 |"De acuerdo, Zagreo, en cuanto llegues habrá que buscarte la compañía que se merece un joven tan apuesto como tú. Normalmente hay mucho entre lo que elegir por aquí, con algunas excepciones, por supuesto... como mi astuta hija Artemisa. Se resiste con todas sus ganas a buscarse pareja."
@@ -32,7 +32,7 @@
 |'''Artemis'''
 |"Sí, Zagreo, a pesar de las esculturales bellezas que aquí puedes encontrar por doquier, muchas de ellas deseosas de casarse conmigo o avergonzarme, ¡por alguna razón prefiero pasar la mayor parte del tiempo a solas o con mis amigas, las ninfas del bosque!"
 |-
-! colspan="2" |Zeus With Demeter 01
+! colspan="2" |Duo - Zeus and Demeter (1)
 |-
 |'''Zeus'''
 |"Jovencito, no importa lo que hayas oído sobre la buena de Deméter, me gustaría aclarar ciertas cosas. Ella es como una hermana para mí, sí, pero nada más. Aunque los titanes que la engendraron tuvieron el mismo destino que mis padres."
@@ -43,7 +43,7 @@
 ! colspan="2" |Zeus About Lucifer Aspect 01
 |-
 |'''Zeus'''
-|"¿Has encontrado Exagrifo y has pronunciado las palabras que te dije para despertarlo? ¡Las diría yo mismo si pudiera! Recuerda: ''Veo tu orgullosa caída desde los cielos a las llamas''."
+|"¿Has encontrado Exagrifo y has pronunciado las palabras que te dije para despertarlo? ¡Las diría yo mismo si pudiera! Recuerda: *Veo tu orgullosa caída desde los cielos a las llamas*."
 |-
 ! colspan="2" |Zeus About Lucifer Aspect 02
 |-
@@ -58,12 +58,12 @@
 ! colspan="2" |Zeus About Demeter 01
 |-
 |'''Zeus'''
-|"Entiendo que mi querida hermana Deméter ya ha intentado envenenar tu opinión sobre mí, ¿verdad, jovencito? Bueno, ''hermanastra'', como ella prefiere que la llame, siempre reacia a asumir su papel en nuestra gran familia."
+|"Entiendo que mi querida hermana Deméter ya ha intentado envenenar tu opinión sobre mí, ¿verdad, jovencito? Bueno, *hermanastra*, como ella prefiere que la llame, siempre reacia a asumir su papel en nuestra gran familia."
 |-
 ! colspan="2" |Zeus About Demeter 02
 |-
 |'''Zeus'''
-|"Perdona el desprecio de Deméter, sobrino. Aún se está recuperando de la repentina desaparición de su hija, aunque fuera hace mucho tiempo ya. La chica simplemente hizo ¡''puf''! y se esfumó. Intento animar el ambiente cuando está ella, pero ''no hay forma'', sigue amargada."
+|"Perdona el desprecio de Deméter, sobrino. Aún se está recuperando de la repentina desaparición de su hija, aunque fuera hace mucho tiempo ya. La chica simplemente hizo ¡*puf*! y se esfumó. Intento animar el ambiente cuando está ella, pero *no hay forma*, sigue amargada."
 |-
 ! colspan="2" |Zeus About Persephone 01
 |-
@@ -116,7 +116,7 @@
 ! colspan="2" |Zeus About Ares 01
 |-
 |'''Zeus'''
-|"Sobrino, te llevas bien con Ares, ¿cierto? ''Je''. Ojalá fueras tú mi hijo en lugar de él… No, es broma. Es broma. Toma, acepta mi bendición."
+|"Sobrino, te llevas bien con Ares, ¿cierto? *Je*. Ojalá fueras tú mi hijo en lugar de él… No, es broma. Es broma. Toma, acepta mi bendición."
 |-
 ! colspan="2" |Zeus About Dionysus 01
 |-
@@ -126,7 +126,7 @@
 ! colspan="2" |Zeus About Hermes 01
 |-
 |'''Zeus'''
-|"''Hum'', has llegado bastante rápido aquí, ¡lo que me recuerda que llevo un tiempo sin ver al veloz Hermes! Seguro que está haciendo alguna trastada por ahí."
+|"*Hum*, has llegado bastante rápido aquí, ¡lo que me recuerda que llevo un tiempo sin ver al veloz Hermes! Seguro que está haciendo alguna trastada por ahí."
 |-
 ! colspan="2" |Zeus About Hades 01
 |-
@@ -176,7 +176,7 @@
 ! colspan="2" |Zeus Run Progress 02
 |-
 |'''Zeus'''
-|"Me imagino las ganas que tienes de salir de ahí, jovencito. ¡Yo también lo deseo! ''Je''. Lo cual te viene de perlas, porque siempre me salgo con la mía. ¡Pregúntaselo a quien quieras!"
+|"Me imagino las ganas que tienes de salir de ahí, jovencito. ¡Yo también lo deseo! *Je*. Lo cual te viene de perlas, porque siempre me salgo con la mía. ¡Pregúntaselo a quien quieras!"
 |-
 ! colspan="2" |Zeus Has Weapon 01
 |-
@@ -211,7 +211,7 @@
 ! colspan="2" |Zeus Reveals Lucifer Aspect 01
 |-
 |'''Zeus'''
-|"Presta atención, jovencito, pues debo compartir contigo una visión. Es la frase que hará despertar a Exagrifo, para ser exactos. Dile esto a tu arma: ''Veo tu orgullosa caída desde los cielos a las llamas''. Una conexión muy peculiar con un portador pasado o futuro, ¡que aparentemente desafió a un dios!"
+|"Presta atención, jovencito, pues debo compartir contigo una visión. Es la frase que hará despertar a Exagrifo, para ser exactos. Dile esto a tu arma: *Veo tu orgullosa caída desde los cielos a las llamas*. Una conexión muy peculiar con un portador pasado o futuro, ¡que aparentemente desafió a un dios!"
 |-
 ! colspan="2" |Zeus Run Cleared 01
 |-
@@ -241,7 +241,7 @@
 ! colspan="2" |Zeus About Rumors 01
 |-
 |'''Zeus'''
-|"Supongo que, incluso en las profundidades del Inframundo, habrás oído historias sobre mí, jovencito. ¡Todas son falsas, ''ja, ja, ja''! Excepto las que hablan de mi valentía, esas son de verdad, aunque demasiado humildes en la mayoría de los casos."
+|"Supongo que, incluso en las profundidades del Inframundo, habrás oído historias sobre mí, jovencito. ¡Todas son falsas, *ja, ja, ja*! Excepto las que hablan de mi valentía, esas son de verdad, aunque demasiado humildes en la mayoría de los casos."
 |-
 ! colspan="2" |Zeus About Keepsake 01
 |-
@@ -261,7 +261,7 @@
 ! colspan="2" |Zeus Low Health 03
 |-
 |'''Zeus'''
-|"Zagreo, debes de haberte dejado casi toda tu sangre por el camino, ''¡jajajaja! ''Estoy de broma, hombre. Pero tienes un aspecto horrible."
+|"Zagreo, debes de haberte dejado casi toda tu sangre por el camino, *¡jajajaja! *Estoy de broma, hombre. Pero tienes un aspecto horrible."
 |-
 ! colspan="2" |Zeus Low Health 04
 |-
@@ -276,7 +276,7 @@
 ! colspan="2" |Zeus Low Health 06
 |-
 |'''Zeus'''
-|"Recuerda, jovencito, que morir es cosa de mortales, así que no te acostumbres demasiado a ello. Y si es menester hacerlo, ¡que sea combatiendo, como corresponde a un ''héroe''!"
+|"Recuerda, jovencito, que morir es cosa de mortales, así que no te acostumbres demasiado a ello. Y si es menester hacerlo, ¡que sea combatiendo, como corresponde a un *héroe*!"
 |-
 ! colspan="2" |Zeus Legendary Pick Up 01
 |-
@@ -439,7 +439,7 @@
 ! colspan="2" |Zeus Misc Pickup Extra 01
 |-
 |'''Zeus'''
-|"''Oh'', vaya. Pero si es mi sobrino favorito, esforzándose como siempre por alcanzar la superficie de mi mundo. Tu padre no pensará que puede retenerte, ¿no?"
+|"*Oh*, vaya. Pero si es mi sobrino favorito, esforzándose como siempre por alcanzar la superficie de mi mundo. Tu padre no pensará que puede retenerte, ¿no?"
 |-
 ! colspan="2" |Zeus Misc Pickup 23 B
 |-
@@ -494,7 +494,7 @@
 ! colspan="2" |Zeus Misc Pickup 33
 |-
 |'''Zeus'''
-|"Estoy para lo que necesites, jovencito, levanta esa cabeza y, sobre todo, ¡toma ''esto''!"
+|"Estoy para lo que necesites, jovencito, levanta esa cabeza y, sobre todo, ¡toma *esto*!"
 |-
 ! colspan="2" |Zeus Misc Pickup 34
 |-
@@ -589,7 +589,7 @@
 ! colspan="2" |Zeus Rejection 01
 |-
 |'''Zeus'''
-|"¿Así que mi bendición no es lo bastante buena para ti, jovenzuelo? Qué impetuoso por tu parte. ''Ah'', ¡inaudito!"
+|"¿Así que mi bendición no es lo bastante buena para ti, jovenzuelo? Qué impetuoso por tu parte. *Ah*, ¡inaudito!"
 |-
 ! colspan="2" |Zeus Rejection 02
 |-
@@ -709,17 +709,17 @@
 ! colspan="2" |Zeus Make Up 11
 |-
 |'''Zeus'''
-|"¡''Bah''! Pelillos a la mar, Zagreo. ¿Por dónde íbamos?"
+|"¡*Bah*! Pelillos a la mar, Zagreo. ¿Por dónde íbamos?"
 |-
 ! colspan="2" |Zeus Make Up 12
 |-
 |'''Zeus'''
-|"¡''Ja, ja, ja, ja'', ya basta, es suficiente te digo! Sigues vivo, ¿verdad?"
+|"¡*Ja, ja, ja, ja*, ya basta, es suficiente te digo! Sigues vivo, ¿verdad?"
 |-
 ! colspan="2" |Zeus Gift 01
 |-
 |'''Zagreus'''
-|"Zeus. ''Umm'', tío. Por favor, acepta esta ofrenda y toda mi gratitud."
+|"Zeus. *Umm*, tío. Por favor, acepta esta ofrenda y toda mi gratitud."
 |-
 |'''Zeus'''
 |"Cielos, sobrino. ¡Vaya ofrenda, sí, señor! Agradezco tu devoción y, a cambio y como muestra de generosidad, te entrego esto."
@@ -762,12 +762,12 @@
 |"Si me oyes, poderoso Zeus, me gustaría hacerte este sencillo regalo y transmitirte con él mi más humilde deseo de que algún día tú y mi padre resolváis vuestras diferencias y hagáis las paces."
 |-
 |'''Zeus'''
-|"Qué ofrenda más espléndida, jovencito. Aunque aún no nos hayamos conocido en persona, ya siento que nuestros lazos son estrechos, ¡incluso más que los que tienes con tu padre! ''Ja, ja, ja, ja'', quizá deberíamos ir diciéndole a todo el mundo que ''yo ''soy tu verdadero padre, ¿no crees?"
+|"Qué ofrenda más espléndida, jovencito. Aunque aún no nos hayamos conocido en persona, ya siento que nuestros lazos son estrechos, ¡incluso más que los que tienes con tu padre! *Ja, ja, ja, ja*, quizá deberíamos ir diciéndole a todo el mundo que *yo *soy tu verdadero padre, ¿no crees?"
 |-
 ! colspan="2" |Zeus Gift 06 B
 |-
 |'''Zeus'''
-|"''Ah'', qué ofrenda más espléndida, jovencito. Ya siento que nuestros lazos son estrechos, ¡más incluso que los que tienes con tu padre! ''Ja, ja, ja, ja'', quizá deberíamos ir diciéndole a todo el mundo que ''yo ''soy tu verdadero padre, ¿tú que crees?"
+|"*Ah*, qué ofrenda más espléndida, jovencito. Ya siento que nuestros lazos son estrechos, ¡más incluso que los que tienes con tu padre! *Ja, ja, ja, ja*, quizá deberíamos ir diciéndole a todo el mundo que *yo *soy tu verdadero padre, ¿tú que crees?"
 |-
 ! colspan="2" |Zeus Gift 07
 |-
@@ -777,15 +777,15 @@
 |'''Zeus'''
 |"Pero sobrino, cuánta generosidad al mostrar esta deferencia por mí. Deberíamos, empero, mantener las distancias, ¿no? No queremos que los demás dioses se pongan celosos si ven que tengo favoritos. ¡Aunque es verdad que lo eres! Al menos, por el momento."
 |-
-! colspan="2" |Artemis With Zeus 01
+! colspan="2" |Duo - Artemis and Zeus (1)
 |-
 |'''Artemis'''
 |"Estoooo... Zagreo, en vez de saludarte como suelo hacer, permíteme que te presente a mi ilustre, amable y generoso padre: ¡tu glorioso tío Zeus!"
 |-
 |'''Zeus'''
-|"''Esto''... Gracias por presentarnos, hija, ahora vete a refocilarte por ahí con las ninfas o lo que sea y deja que ayude a mi sobrino. Si hace falta, dale tu bendición, por tenue que sea."
+|"*Esto*... Gracias por presentarnos, hija, ahora vete a refocilarte por ahí con las ninfas o lo que sea y deja que ayude a mi sobrino. Si hace falta, dale tu bendición, por tenue que sea."
 |-
-! colspan="2" |Aphrodite With Zeus 01
+! colspan="2" |Duo - Aphrodite and Zeus (1)
 |-
 |'''Aphrodite'''
 |"Querido, tu tío desea decirte algo desde nuestra montaña, aunque yo le aseguré que los dos lo teníamos todo bajo control."
@@ -793,7 +793,7 @@
 |'''Zeus'''
 |"Vamos, Zagreo, lo único que Afrodita tiene bajo control es su larga lista de babosos pretendientes, ¿no es cierto? Afrodita, concédele tu bendición y márchate, ya me encargo yo."
 |-
-! colspan="2" |Dionysus With Zeus 01
+! colspan="2" |Duo - Dionysus and Zeus (1)
 |-
 |'''Dionysus'''
 |"Oye, Zag. Mi padre está aquí y quiere hablar contigo. Tú tranqui y dale la razón en lo que diga, ¿vale?"
@@ -801,7 +801,7 @@
 |'''Zeus'''
 |"Ese Dioniso, siempre demasiado atento a las presentaciones. Al menos me muestra el respeto adecuado. Tal vez algún día pueda instruirte en las costumbres del Olimpo."
 |-
-! colspan="2" |Athena With Zeus 01
+! colspan="2" |Duo - Athena and Zeus (1)
 |-
 |'''Athena'''
 |"Noble primo, mi padre se ha interesado por tu viaje y las penurias que estás pasando, y quiere ayudarte con el mismísimo trueno de los cielos. Y también tienes mi apoyo, claro."
@@ -809,23 +809,23 @@
 |'''Zeus'''
 |"Te agradezco la generosa presentación, hermosa Atenea. Siempre me siento más seguro cuando andas cerca. Confío en que, con nuestro poder combinado, el bueno de Zagreo tendrá todas las de ganar."
 |-
-! colspan="2" |Poseidon With Zeus 01
+! colspan="2" |Duo - Poseidon and Zeus (1)
 |-
 |'''Poseidon'''
-|"Pequeño Hades, ¡ya has conocido a mi hermano Zeus! A veces, se dice que es el rey de todos los dioses. ¡Pero en muchos sentidos, es menos poderoso que yo! Y mucho menos apuesto, eso por descontado. Vaya, yo, ¡''ups''!"
+|"Pequeño Hades, ¡ya has conocido a mi hermano Zeus! A veces, se dice que es el rey de todos los dioses. ¡Pero en muchos sentidos, es menos poderoso que yo! Y mucho menos apuesto, eso por descontado. Vaya, yo, ¡*ups*!"
 |-
 |'''Zeus'''
 |"Ah, hermano... creo que sabes que no conviene decir tales cosas sobre mí. Sé que la sutileza no es lo tuyo, pero yo tendría cuidado con lo que le dices a nuestro querido sobrino."
 |-
 |'''Poseidon'''
-|"''Esto''... ''bueno'', ¡como iba diciendo, pequeño Hades! ¡Mi hermano Zeus es rey de todos los dioses, y el más apuesto, poderoso y oye, seamos sinceros, ¡el más ''divino ''de todos!"
+|"*Esto*... *bueno*, ¡como iba diciendo, pequeño Hades! ¡Mi hermano Zeus es rey de todos los dioses, y el más apuesto, poderoso y oye, seamos sinceros, ¡el más *divino *de todos!"
 |-
-! colspan="2" |Demeter With Zeus 01
+! colspan="2" |Duo - Demeter and Zeus (1)
 |-
 |'''Demeter'''
 |"A ver, joven retoño, ya has conocido al llamado rey del Olimpo y a mí. ¿Quién supones que es el legítimo amo de esta montaña nevada nuestra?"
 |-
 |'''Zeus'''
-|"¡''Ja, ja, ja, ja'', Deméter! Tu ingenio es tan seco como la tierra que se marchita por tu falta de cuidado. Quizá deberías atender a ese asunto, aunque mejor será que ayudemos al joven primero."
+|"¡*Ja, ja, ja, ja*, Deméter! Tu ingenio es tan seco como la tierra que se marchita por tu falta de cuidado. Quizá deberías atender a ese asunto, aunque mejor será que ayudemos al joven primero."
 |-
 |}

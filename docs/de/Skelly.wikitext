@@ -14,7 +14,7 @@
 ! colspan="2" |Trophy Quest Bronze Unlocked 01
 |-
 |'''Skelly'''
-|"Ich wusste einfach, dass du’s drauf hast, Kumpel. Gefällt dir dein neuer Preis? Strafpakt, ''Schlafpakt'', kein Problem, du weißt, was ich meine? Aber da hattest du natürlich leichtes Spiel, bin ziemlich sicher, dass ich das auch geschafft hätte."
+|"Ich wusste einfach, dass du’s drauf hast, Kumpel. Gefällt dir dein neuer Preis? Strafpakt, *Schlafpakt*, kein Problem, du weißt, was ich meine? Aber da hattest du natürlich leichtes Spiel, bin ziemlich sicher, dass ich das auch geschafft hätte."
 |-
 |'''Zagreus'''
 |"Moment mal, nur um das klarzustellen. Ich hab mich buchstäblich durch die Hölle gekämpft, und alles, was ich zur Belohnung bekomme, ist ... eine Statue von dir? Versteh mich nicht falsch, sie ist sehr hübsch, nur ... Ich weiß nicht, was ich erwartet habe."
@@ -34,7 +34,7 @@
 |"Das sagst du doch nur, damit ich mich entschuldige und die letzte deiner drei identischen Statuen freizuschalten versuche."
 |-
 |'''Skelly'''
-|"''Wie kannst du so was''...? Ich würde die Statuen auf der Stelle zurückgeben und mir den Preis erstatten lassen, wenn ich mich rühren könnte! Und wenn es eine Erstattungsrichtlinie gäbe."
+|"*Wie kannst du so was*...? Ich würde die Statuen auf der Stelle zurückgeben und mir den Preis erstatten lassen, wenn ich mich rühren könnte! Und wenn es eine Erstattungsrichtlinie gäbe."
 |-
 ! colspan="2" |Trophy Quest Gold Unlocked 01
 |-
@@ -125,7 +125,7 @@
 ! colspan="2" |Skelly Hint Meeting 07
 |-
 |'''Skelly'''
-|"Weißt du was, Bursche, ich denke, du könntest eine hübsche Nummer mit diesen Säulen, die dieses Haus abstützen, abziehen und das ganze Ding mit ein paar Hieben zusammenstürzen lassen. Bumm, bumm, ''BUMM''! Ich würde ungern daneben stehen, wenn es soweit wäre!"
+|"Weißt du was, Bursche, ich denke, du könntest eine hübsche Nummer mit diesen Säulen, die dieses Haus abstützen, abziehen und das ganze Ding mit ein paar Hieben zusammenstürzen lassen. Bumm, bumm, *BUMM*! Ich würde ungern daneben stehen, wenn es soweit wäre!"
 |-
 |'''Zagreus'''
 |"Das architektonische Meisterwerk meines Vaters bei jeder sich bietenden Gelegenheit zertrümmern? Das lass ich mir nicht zweimal sagen."
@@ -157,7 +157,7 @@
 ! colspan="2" |Skelly No More Hint Meetings 01
 |-
 |'''Skelly'''
-|"Nun, Bursche? Du hast dich ziemlich gut entwickelt, das muss ich ''dir '' lassen. Die Gewieftheit, die ich mir im Laufe der Jahre angeeignet habe, kennst du mittlerweile. Und deshalb habe auch ich nichts mehr auf dem Kasten, das ich dir noch beibringen könnte ... ich schätze, damit bleibt uns nur noch eine Sache übrig."
+|"Nun, Bursche? Du hast dich ziemlich gut entwickelt, das muss ich *dir * lassen. Die Gewieftheit, die ich mir im Laufe der Jahre angeeignet habe, kennst du mittlerweile. Und deshalb habe auch ich nichts mehr auf dem Kasten, das ich dir noch beibringen könnte ... ich schätze, damit bleibt uns nur noch eine Sache übrig."
 |-
 |'''Zagreus'''
 |"Hier bis in alle Ewigkeit herumzustehen, um von mir je nach Laune mit unterschiedlichen Waffen meiner Wahl vermöbelt zu werden?"
@@ -182,7 +182,7 @@
 |"Danke für deine aufmunternden Worte, Kumpel. Vielleicht hast du recht und eines Tages komme ich wirklich hier raus. He, falls ich nicht mehr wiederkomme, sitzt du dann hier bis in alle Ewigkeit fest?"
 |-
 |'''Skelly'''
-|"''Heh, hehehe'', das isn guter Witz!\n"
+|"*Heh, hehehe*, das isn guter Witz!\n"
 |-
 ! colspan="2" |Skelly Run Progress 02
 |-
@@ -200,7 +200,7 @@
 ! colspan="2" |Skelly Backstory 02
 |-
 |'''Zagreus'''
-|"Sag mal, ''äh'', Skelly? Wie bist du denn überhaupt hierher gekommen?"
+|"Sag mal, *äh*, Skelly? Wie bist du denn überhaupt hierher gekommen?"
 |-
 |'''Skelly'''
 |"Ach, weißt du, ich bin hier einfach plötzlich aufgetaucht, wie das dein Papa einigen von uns manchmal erlaubt. Warum fragst du?"
@@ -209,7 +209,7 @@
 |"Ich meinte ... wie bist du überhaupt im Reich der Toten gelandet? Hat dich Hermes hierher geführt? Hat dich Thanatos aufgegabelt, Charon dich in seinem Boot mitgenommen? Wie bist du hierher gekommen?"
 |-
 |'''Skelly'''
-|"Oh, ''haha''! Das ist aber schon eine sehr persönliche Frage, Bursche, denkst du nicht auch? Darüber rede ich nicht gern. Könntest du mir also ein bisschen Privatsphäre zugestehen ...?"
+|"Oh, *haha*! Das ist aber schon eine sehr persönliche Frage, Bursche, denkst du nicht auch? Darüber rede ich nicht gern. Könntest du mir also ein bisschen Privatsphäre zugestehen ...?"
 |-
 ! colspan="2" |Skelly Backstory 03
 |-
@@ -229,15 +229,15 @@
 |"Skelly, das ... das ist unfassbar! Du und deine Besatzung seid also auf dem Meer umgekommen?"
 |-
 |'''Skelly'''
-|"Ich, uh, ''pfff, hahaha'', Bursche, du bist mir vielleicht einer! Das ganze Schelemeus-Gefasel, ich hätte dich aus der Hand fressen lassen können! Und das tagelang!"
+|"Ich, uh, *pfff, hahaha*, Bursche, du bist mir vielleicht einer! Das ganze Schelemeus-Gefasel, ich hätte dich aus der Hand fressen lassen können! Und das tagelang!"
 |-
 |'''Zagreus'''
-|"Oh, schon kapiert. Du hast mich erwischt. Na gut, ''Schelemeus''. Aber das gefällt mir gar nicht, dass du mich mit diesem Trick so reingelegt hast."
+|"Oh, schon kapiert. Du hast mich erwischt. Na gut, *Schelemeus*. Aber das gefällt mir gar nicht, dass du mich mit diesem Trick so reingelegt hast."
 |-
 ! colspan="2" |Skelly Backstory 05
 |-
 |'''Zagreus'''
-|"Sag mal, Skelly ... oder sollte ich dich besser ''Schelemeus '' nennen? Ich hatte zufällig ein Gespräch mit jemandem, dem dieser Name vertraut war. Ein großer Typ mit Stierkopf, der ursprünglich aus Kreta stammte. Du hast mir aber gesagt, dass du dir das alles nur ausgedacht hast! Was wird hier eigentlich gespielt?"
+|"Sag mal, Skelly ... oder sollte ich dich besser *Schelemeus * nennen? Ich hatte zufällig ein Gespräch mit jemandem, dem dieser Name vertraut war. Ein großer Typ mit Stierkopf, der ursprünglich aus Kreta stammte. Du hast mir aber gesagt, dass du dir das alles nur ausgedacht hast! Was wird hier eigentlich gespielt?"
 |-
 |'''Skelly'''
 |"Ich habe nie behauptet, dass ich mir das alles nur ausgedacht habe, Bursche! Ich wusste, dass du mir das eh nicht glauben würdest, ich meine, sieh mich an! Sehe ich für dich wie ein Kapitän der zweiten kretischen Flotte aus?"
@@ -246,7 +246,7 @@
 |"Ich weiß nicht. Mir ist noch nie einer über den Weg gelaufen. Stehen sie alle nur untätig herum?"
 |-
 |'''Skelly'''
-|"Da hat wohl noch ''nie '' jemand an die fünfzig Seeleute in einer minoischen Galeere über das Meer mit nichts außer den Sternen am Himmel als Orientierung führen müssen. Was denkst du denn, was ein Kapitän zu tun hat? An den Rudern sitzen?"
+|"Da hat wohl noch *nie * jemand an die fünfzig Seeleute in einer minoischen Galeere über das Meer mit nichts außer den Sternen am Himmel als Orientierung führen müssen. Was denkst du denn, was ein Kapitän zu tun hat? An den Rudern sitzen?"
 |-
 |'''Zagreus'''
 |"Warte mal, und was ist mit Hermes? Von ihm erhielt ich den Eindruck, dass du vielleicht jemand anderer warst. Niemand Besonderes. Auf jeden Fall kein großer Seekapitän."
@@ -266,7 +266,7 @@
 |"Dieser Glückszahn, den du mir gegeben hast, Skelly. Erstmal vielen Dank nochmals dafür, aber ist das überhaupt deiner? Ich bin zufällig Hermes begegnet und er hat mich zum Nachdenken gebracht."
 |-
 |'''Skelly'''
-|"Was, ''haha'', glaubst du dem geschwätzigen Kerl denn alles, was er dir erzählt, Bursche? Er hat keine Ahnung, wer ich bin!"
+|"Was, *haha*, glaubst du dem geschwätzigen Kerl denn alles, was er dir erzählt, Bursche? Er hat keine Ahnung, wer ich bin!"
 |-
 |'''Zagreus'''
 |"Das hat er auch nie behauptet. Aber da wir schon einmal dabei sind ... was ist deine Beziehung zu ihm? Arbeitest du für ihn?"
@@ -334,7 +334,7 @@
 |"Keine Gnade für dich, Skelly. Verrate es mir endlich oder zwischen uns wird es ab jetzt nur noch zum Austausch von Höflichkeiten kommen."
 |-
 |'''Skelly'''
-|"Nrrrghh, ''schon gut''! Aber du musst mir versprechen, dass du dir nichts anmerken lässt und auch niemandem in deiner schicken Hütte davon erzählst, in Ordnung? Ansonsten bin ich erledigt. ''Ich meine es ernst''!"
+|"Nrrrghh, *schon gut*! Aber du musst mir versprechen, dass du dir nichts anmerken lässt und auch niemandem in deiner schicken Hütte davon erzählst, in Ordnung? Ansonsten bin ich erledigt. *Ich meine es ernst*!"
 |-
 |'''Zagreus'''
 |"Ich verspreche es dir. Also ...?"
@@ -413,7 +413,7 @@
 |"Skelly, du hast dieses uralte Blut erwähnt, das ich im Tartaros gefunden habe. Weißt du zufällig, was ich damit anfangen soll?"
 |-
 |'''Skelly'''
-|"Keine Ahnung! Es hat jedenfalls nichts mit deinen Infernalen Waffen zu tun. Und wie ich höre, hast du zu einigen von denen ''immer noch keinen Zugang''?"
+|"Keine Ahnung! Es hat jedenfalls nichts mit deinen Infernalen Waffen zu tun. Und wie ich höre, hast du zu einigen von denen *immer noch keinen Zugang*?"
 |-
 ! colspan="2" |Skelly About Weapon Enchantments 01
 |-
@@ -429,7 +429,7 @@
 ! colspan="2" |Skelly About Weapon Enchantments 02
 |-
 |'''Skelly'''
-|"Weißt du, Kumpel, wenn du unterwegs bist und ich bin mit deinen Waffen hier allein, ich meine deine ''Infernalen Waffen ''gleich da drüben, dann fühl ich mich ein bisschen unwohl, unter uns gesagt."
+|"Weißt du, Kumpel, wenn du unterwegs bist und ich bin mit deinen Waffen hier allein, ich meine deine *Infernalen Waffen *gleich da drüben, dann fühl ich mich ein bisschen unwohl, unter uns gesagt."
 |-
 |'''Zagreus'''
 |"Kann ich dir nicht verdenken, Kumpel. Ich würde ungern in einer Kammer mit einem Haufen legendärer, womöglich heimtückischer Tötungswerkzeuge festsitzen. Kann ich irgendwie helfen?"
@@ -448,19 +448,19 @@
 ! colspan="2" |Skelly About Guan Yu Aspect 01
 |-
 |'''Skelly'''
-|"He, was ich dir sagen wollte, Bursche, dieses unheimliche Zeug mit dem ''blutroten Phönix'', von dem du vorher die ganze Zeit geredet hast? Boah, also ich muss schon sagen! Du quasselst nur etwas wirres Zeug und bekommst dafür einen nagelneuen Speer? Das hat mich so was von beeindruckt, dass ich diesen Trick unbedingt selbst ausprobieren musste!"
+|"He, was ich dir sagen wollte, Bursche, dieses unheimliche Zeug mit dem *blutroten Phönix*, von dem du vorher die ganze Zeit geredet hast? Boah, also ich muss schon sagen! Du quasselst nur etwas wirres Zeug und bekommst dafür einen nagelneuen Speer? Das hat mich so was von beeindruckt, dass ich diesen Trick unbedingt selbst ausprobieren musste!"
 |-
 |'''Zagreus'''
 |"Oh, bei den Göttern... Skelly, was hast du getan...?"
 |-
 |'''Skelly'''
-|"Entspann dich, Bursche! Ich habe mich nur ein wenig mit deinem alten Servierteller da drüben unterhalten, als du gegangen bist. Das ist auch schon alles. Das Ding schlägt ziemlich kräftig zu! Dann hab ich zu ihm gesagt: ''Ich sehe dich durch die Augen des blutroten Phönix ''... und willst du wissen, was dann passiert ist?"
+|"Entspann dich, Bursche! Ich habe mich nur ein wenig mit deinem alten Servierteller da drüben unterhalten, als du gegangen bist. Das ist auch schon alles. Das Ding schlägt ziemlich kräftig zu! Dann hab ich zu ihm gesagt: *Ich sehe dich durch die Augen des blutroten Phönix *... und willst du wissen, was dann passiert ist?"
 |-
 |'''Zagreus'''
 |"Du hast also leichtsinnig die geheimen Worte gesprochen, die von den Schicksalsgöttinnen persönlich einer infernalen Waffe verliehen wurden, die zu Anbeginn der Zeit geschmiedet wurde, und dann was? Sag mir, bist du auf Aigis zugegangen oder hast du die Worte nur über deine Schulter gerufen?"
 |-
 |'''Skelly'''
-|"Über meine Schulter! Egal, als Nächstes ist ''nichts '' passiert! Dein ''Aigis ''hat nur weiter wie ein Doofi vor sich hin gewackelt. Dann hab ich den Hokuspokus bei allen anderen Waffen wiederholt, aber wieder nichts! Das funktioniert überhaupt nicht. So viel zu deiner schicken Zauberei, was?"
+|"Über meine Schulter! Egal, als Nächstes ist *nichts * passiert! Dein *Aigis *hat nur weiter wie ein Doofi vor sich hin gewackelt. Dann hab ich den Hokuspokus bei allen anderen Waffen wiederholt, aber wieder nichts! Das funktioniert überhaupt nicht. So viel zu deiner schicken Zauberei, was?"
 |-
 ! colspan="2" |Skelly About Pact 01
 |-
@@ -468,7 +468,7 @@
 |"Was ist eigentlich genau mit diesem Fenster dort drüben passiert, das zuvor rosa war? Jetzt hat es diese unheilvollen orangen Flammen und über dem Ausgang hängt bedrohlich ein riesengroßer Strafpakt. War Vater hier?"
 |-
 |'''Skelly'''
-|"Bursche, ich weiß nichts davon, ehrlich! Ich denke an nichts Böses und plötzlich, ''zack'', bekomme ich einen Schlag in den Rücken. Ich zerfalle in meine Einzelteile und habe nicht die geringste Ahnung, was vor sich geht! Als ich endlich wieder zu mir komme, ist das Fenster so wie jetzt ...!"
+|"Bursche, ich weiß nichts davon, ehrlich! Ich denke an nichts Böses und plötzlich, *zack*, bekomme ich einen Schlag in den Rücken. Ich zerfalle in meine Einzelteile und habe nicht die geringste Ahnung, was vor sich geht! Als ich endlich wieder zu mir komme, ist das Fenster so wie jetzt ...!"
 |-
 ! colspan="2" |Skelly True Death Quest Beginning 01
 |-
@@ -479,7 +479,7 @@
 |"Wenn es nicht darum geht, ohne Rücksicht auf Verluste auf dir rumzuhauen, Skelly, will ich es nicht hören. Aber ... oh, es ist dir ernst."
 |-
 |'''Skelly'''
-|"In der Tat. Und lustig, dass du es so ausdrückst. Bursche, ich bitte dich, mich hier rauszuholen. ''Endgültig'', wenn du verstehst, was ich meine. Dieses Herumgestehe ... zehrt einfach mit der Zeit an dir, weißt du?"
+|"In der Tat. Und lustig, dass du es so ausdrückst. Bursche, ich bitte dich, mich hier rauszuholen. *Endgültig*, wenn du verstehst, was ich meine. Dieses Herumgestehe ... zehrt einfach mit der Zeit an dir, weißt du?"
 |-
 |'''Zagreus'''
 |"...Ich weiß. Das kann ich mir nur vorstellen. Sag mir, was ich tun kann."
@@ -504,7 +504,7 @@
 |"Also, äh, Bursche? Von meinen Quellen bekomme ich zu hören, dass du es ziemlich weit geschafft hast. Das heißt wohl, dass sich meine Nützlichkeit hier langsam dem Ende zuneigt."
 |-
 |'''Zagreus'''
-|"Deine ''Nützlichkeit''? Du meinst wohl, dein Herumgestehe und dass ich dich nach Lust und Laune mit beliebigen Angriffsserien verprügeln darf?"
+|"Deine *Nützlichkeit*? Du meinst wohl, dein Herumgestehe und dass ich dich nach Lust und Laune mit beliebigen Angriffsserien verprügeln darf?"
 |-
 |'''Skelly'''
 |"Genau! Sobald du dein Ziel erreicht hast, habe ich meinen Teil des Vertrags erfüllt. Du brauchst mich dann nicht mehr."
@@ -521,10 +521,10 @@
 |"Deine Mutti ist also zurück, wie ich höre, Bursche! Es ist furchtbar nett zu wissen, dass ich dich gut trainiert habe."
 |-
 |'''Zagreus'''
-|"''Ähm'', du meinst sicher die Königin, und offenbar kennst du unser Verhältnis zueinander. Du behältst das aber für dich, hörst du, Skelly?"
+|"*Ähm*, du meinst sicher die Königin, und offenbar kennst du unser Verhältnis zueinander. Du behältst das aber für dich, hörst du, Skelly?"
 |-
 |'''Skelly'''
-|"''Ahh'', und so erteilt der Schüler zur Abwechslung dem Meister eine Lehre! Verstanden, Bursche. Dein Geheimnis ist bei mir sicher."
+|"*Ahh*, und so erteilt der Schüler zur Abwechslung dem Meister eine Lehre! Verstanden, Bursche. Dein Geheimnis ist bei mir sicher."
 |-
 ! colspan="2" |Skelly Post Epilogue 01
 |-
@@ -535,7 +535,7 @@
 |"Im Großen und Ganzen lief es besser als erwartet. Ich hoffe, du hast dich nicht ausgeschlossen gefühlt! Die Gästeliste war ziemlich eingeschränkt. Ich würde fast sagen, es war so etwas wie eine diplomatische Mission. Allerdings habe ich mich nicht so gut amüsiert, wie sich das vielleicht von draußen angehört hat."
 |-
 |'''Skelly'''
-|"''Ohh'', mach dir meinetwegen keine Sorgen, Bursche! Ich liebe die Einsamkeit, und außerdem: Wenn die Dinge für dich gut laufen, dann laufen sie auch gut für mich. Ich bin froh, dass alles glatt ging."
+|"*Ohh*, mach dir meinetwegen keine Sorgen, Bursche! Ich liebe die Einsamkeit, und außerdem: Wenn die Dinge für dich gut laufen, dann laufen sie auch gut für mich. Ich bin froh, dass alles glatt ging."
 |-
 ! colspan="2" |Skelly Chat 01
 |-
@@ -565,7 +565,7 @@
 ! colspan="2" |Skelly Chat 06
 |-
 |'''Skelly'''
-|"''Diese ''Knochen kannst du nicht brechen, Bursche. Du kannst es aber gern versuchen!"
+|"*Diese *Knochen kannst du nicht brechen, Bursche. Du kannst es aber gern versuchen!"
 |-
 ! colspan="2" |Skelly Chat 07
 |-
@@ -669,7 +669,7 @@
 ! colspan="2" |Skelly Gift 04
 |-
 |'''Skelly'''
-|"Heee, das ist genau ''das'', was ich meine. Danke, Bursche! Diese große Geste werde ich dir nicht vergessen. Ehrenwort!!"
+|"Heee, das ist genau *das*, was ich meine. Danke, Bursche! Diese große Geste werde ich dir nicht vergessen. Ehrenwort!!"
 |-
 |'''Zagreus'''
 |"Kein Grund, mir zu danken, Kumpel. Aber vergiss es bloß nicht, oder ich werde weiter gnadenlos auf dich einprügeln."
@@ -696,7 +696,7 @@
 |"Skelly, ich weiß, dass deine Dienste bereits in voller Höhe vergütet wurden, doch deine Quellen sollten wissen, dass du gute Arbeit leistest. Und zwar so gute, dass ich dir das hier geben möchte."
 |-
 |'''Skelly'''
-|"''Waaaa ''ist das eine Flasche vom besten Ambrosia, Kumpel?! Ich hätte nie gedacht, dass ich so was mal probieren dürfte, ich meine, wer bin ich hier schon? Weißt du was, das hier ist für dich. Als Symbol unserer Freundschaft, und für den Fall, dass du da draußen Hilfe brauchst."
+|"*Waaaa *ist das eine Flasche vom besten Ambrosia, Kumpel?! Ich hätte nie gedacht, dass ich so was mal probieren dürfte, ich meine, wer bin ich hier schon? Weißt du was, das hier ist für dich. Als Symbol unserer Freundschaft, und für den Fall, dass du da draußen Hilfe brauchst."
 |-
 ! colspan="2" |Skelly Gift 08
 |-
@@ -726,7 +726,7 @@
 ! colspan="2" |Skelly True Death Quest Complete
 |-
 |'''Skelly'''
-|"''Hahaha'', hab dich wieder ganz schön drangekriegt, Bursche, stimmt’s?! ''Ich bitte dich, mich hier rauszuholen. ''Hahahaha! Das ganze Zeug über dein Schwert, und deine Variante, ich meine, du hast alles einfach so geschluckt! ''Juchhu!''"
+|"*Hahaha*, hab dich wieder ganz schön drangekriegt, Bursche, stimmt’s?! *Ich bitte dich, mich hier rauszuholen. *Hahahaha! Das ganze Zeug über dein Schwert, und deine Variante, ich meine, du hast alles einfach so geschluckt! *Juchhu!*"
 |-
 |'''Zagreus'''
 |"Da bin ich wohl einem raffinierten Streich zum Opfer gefallen. Weiß nicht, ob mir das gefällt, Skelly. Was, wenn ich dich nie wieder vermöbeln würde, wie würde dir das gefallen?"

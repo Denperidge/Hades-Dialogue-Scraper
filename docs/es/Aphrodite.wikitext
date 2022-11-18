@@ -1,14 +1,14 @@
 {| class="wikitable"
 |+
-! colspan="2" |Zeus With Aphrodite 01
+! colspan="2" |Duo - Zeus and Aphrodite (1)
 |-
 |'''Zeus'''
 |"Jovencito, sé que te gustaría conocer a la agraciada Afrodita en persona, o no sé, quizá prefieras decidirlo tú mismo cuando al fin llegues aquí. Está en sus manos, ¿no es así, querida Afrodita?"
 |-
 |'''Aphrodite'''
-|"¿Cómo dices, Zeus? ¡Qué comentario más grosero viniendo de ''ti''! ¡Qué escándalo que el modelo en el que los demás dioses nos inspiramos me dedique esas palabras a ''mí''!"
+|"¿Cómo dices, Zeus? ¡Qué comentario más grosero viniendo de *ti*! ¡Qué escándalo que el modelo en el que los demás dioses nos inspiramos me dedique esas palabras a *mí*!"
 |-
-! colspan="2" |Ares With Aphrodite 01
+! colspan="2" |Duo - Ares and Aphrodite (1)
 |-
 |'''Ares'''
 |"Espero con ansia el día en que por fin llegues al Olimpo. Allí hay pocos con intereses como los que creo que compartimos."
@@ -16,7 +16,7 @@
 |'''Aphrodite'''
 |"En efecto, aquí solo hay unos pocos que comparten tales intereses, ¿no crees, Ares? En cuanto a ti, querido mío, tómate todo el tiempo que necesites."
 |-
-! colspan="2" |Ares With Aphrodite 02
+! colspan="2" |Duo - Ares and Aphrodite (2)
 |-
 |'''Ares'''
 |"Guerras iniciadas por amor... ¿Te lo imaginas? Afrodita y yo podemos pasarnos horas hablando de ellas. Confío en que, de vez en cuando, te detengas a pensar por qué elegiste luchar. Tampoco es que necesitaras un motivo, claro."
@@ -24,26 +24,26 @@
 |'''Aphrodite'''
 |"Ares, en verdad no hay necesidad de enturbiar los pensamientos y el juicio de nuestro diosecillo con este tipo de comentarios, ¿eh? Démosle lo que quiere y sigamos nuestra charla en privado."
 |-
-! colspan="2" |Artemis With Aphrodite 01
+! colspan="2" |Duo - Artemis and Aphrodite (1)
 |-
 |'''Artemis'''
-|"Oye, ''um'', Zagreo. No puedo dejar de pensar en una cosa. No te lo tomes a mal, ¿vale? Oh, no. Es ella."
+|"Oye, *um*, Zagreo. No puedo dejar de pensar en una cosa. No te lo tomes a mal, ¿vale? Oh, no. Es ella."
 |-
 |'''Aphrodite'''
-|"Vaya, Artemisa. ¡Te ha comido la lengua el gato! ¿Es por el diosecillo del Inframundo o un poco por mí? ''Ajá'', seguro que ya darás con la respuesta."
+|"Vaya, Artemisa. ¡Te ha comido la lengua el gato! ¿Es por el diosecillo del Inframundo o un poco por mí? *Ajá*, seguro que ya darás con la respuesta."
 |-
 |'''Artemis'''
-|"A ver, qué estaba... ''Agh''... Mira, da igual. Hablaremos en otro momento."
+|"A ver, qué estaba... *Agh*... Mira, da igual. Hablaremos en otro momento."
 |-
-! colspan="2" |Artemis With Aphrodite 02
+! colspan="2" |Duo - Artemis and Aphrodite (2)
 |-
 |'''Artemis'''
-|"''Esto'', Zagreo, al parecer no fui capaz de eludir a Afrodita, a pesar de mis instintos de cazadora. Insistió en que nos presentaramos ante ti al mismo tiempo, por alguna razón..."
+|"*Esto*, Zagreo, al parecer no fui capaz de eludir a Afrodita, a pesar de mis instintos de cazadora. Insistió en que nos presentaramos ante ti al mismo tiempo, por alguna razón..."
 |-
 |'''Aphrodite'''
 |"¡Venga ya, Artemisa! Seguro que eres muy capaz de mantenerte oculta de bestias comunes, pero te veo claramente. ¿Por qué no eres sincera contigo misma la próxima vez?"
 |-
-! colspan="2" |Aphrodite With Zeus 01
+! colspan="2" |Duo - Aphrodite and Zeus (1)
 |-
 |'''Aphrodite'''
 |"Querido, tu tío desea decirte algo desde nuestra montaña, aunque yo le aseguré que los dos lo teníamos todo bajo control."
@@ -51,18 +51,18 @@
 |'''Zeus'''
 |"Vamos, Zagreo, lo único que Afrodita tiene bajo control es su larga lista de babosos pretendientes, ¿no es cierto? Afrodita, concédele tu bendición y márchate, ya me encargo yo."
 |-
-! colspan="2" |Aphrodite With Poseidon 01
+! colspan="2" |Duo - Aphrodite and Poseidon (1)
 |-
 |'''Aphrodite'''
 |"Si hay algo que deberías saber de esta familia, querido, es que cada uno tiene sus rarezas. Aunque siempre nos mantenemos unidos y el amor persiste."
 |-
 |'''Poseidon'''
-|"Oh, ''jo''. ¿Qué tenemos aquí, pequeño Hades? ¡Me parece que ya tienes ''compañía''! Bueno, os dejaré en paz. Mis labios están más sellados que el casco de un buque de guerra."
+|"Oh, *jo*. ¿Qué tenemos aquí, pequeño Hades? ¡Me parece que ya tienes *compañía*! Bueno, os dejaré en paz. Mis labios están más sellados que el casco de un buque de guerra."
 |-
 |'''Aphrodite'''
 |"¡Oh, quédate si quieres, Poseidón! Solo estaba explicando lo idiota que eres, aunque tú podrás expresarlo mejor. Bueno, querido, ¿por dónde iba?"
 |-
-! colspan="2" |Aphrodite With Athena 01
+! colspan="2" |Duo - Aphrodite and Athena (1)
 |-
 |'''Aphrodite'''
 |"Perdónanos, diosecillo, y con eso quiero decir a la familia del Olimpo entera. Algunos somos muy estirados y estamos complicando las cosas más de la cuenta."
@@ -73,7 +73,7 @@
 |'''Aphrodite'''
 |"Ah, ¡sabes bien que haría mucho más que repetírtelas a la cara, querida Atenea! Francamente, te haría falta un repasito."
 |-
-! colspan="2" |Aphrodite With Athena 02
+! colspan="2" |Duo - Aphrodite and Athena (2)
 |-
 |'''Aphrodite'''
 |"Querido, debes saber que Atenea y yo no siempre nos ponemos de acuerdo; quizá sea porque se piensa demasiado las cosas todo el rato, mientras que yo me dejo guiar por el corazón."
@@ -81,7 +81,7 @@
 |'''Athena'''
 |"Me alegro de que nos entendamos, entonces. Sería una vergüenza que Zagreo nos pillara discutiendo."
 |-
-! colspan="2" |Aphrodite With Ares 01
+! colspan="2" |Duo - Aphrodite and Ares (1)
 |-
 |'''Aphrodite'''
 |"Querido, creo que muchos pueden sorprenderse al saber que amor y guerra suelen ir de la mano. Fuerzas opuestas y sin embargo conectadas. ¡Las más fieras pasiones de los dioses y los mortales! ¿No es así, Ares?"
@@ -89,23 +89,23 @@
 |'''Ares'''
 |"Los mortales se empeñan tanto en aferrarse a sus vidas que muchos matarían por conseguirlo. La oleada de emoción que sienten... es una pasión que no es distinta de la otra, mi querida Afrodita."
 |-
-! colspan="2" |Aphrodite With Artemis 01
+! colspan="2" |Duo - Aphrodite and Artemis (1)
 |-
 |'''Aphrodite'''
 |"¡Oh, querido! Te traigo a Artemisa, la de los ojos de águila, ¡que por dedicarse con tanto ahínco a la caza no ha desarrollado la capacidad de socialización adecuada para presentarse ella misma!"
 |-
 |'''Artemis'''
-|"¡Capacidad de socialización me dice! ¡Andando por ahí vestida ''así''! Estoy segura de que sabes que te puedo encontrar cuando sea necesario, Zagreo. Pero cómo alejarse de Afrodita, no tengo idea."
+|"¡Capacidad de socialización me dice! ¡Andando por ahí vestida *así*! Estoy segura de que sabes que te puedo encontrar cuando sea necesario, Zagreo. Pero cómo alejarse de Afrodita, no tengo idea."
 |-
-! colspan="2" |Aphrodite With Dionysus 01
+! colspan="2" |Duo - Aphrodite and Dionysus (1)
 |-
 |'''Aphrodite'''
 |"Mis poderes, querido, van de la mano de los de Dioniso, ¡con su capacidad para disuadir a la mente para que encuentre belleza donde realmente no la hay!"
 |-
 |'''Dionysus'''
-|"''Ja, ja, ja'', no tienes por qué adularme así, Afrodita. La belleza está casi por completo en la mente, ¡de eso no cabe duda! Y en los músculos, en la forma de la mandíbula, en una sonrisa arrebatadora... ¿Pero quién soy yo para decirlo?"
+|"*Ja, ja, ja*, no tienes por qué adularme así, Afrodita. La belleza está casi por completo en la mente, ¡de eso no cabe duda! Y en los músculos, en la forma de la mandíbula, en una sonrisa arrebatadora... ¿Pero quién soy yo para decirlo?"
 |-
-! colspan="2" |Aphrodite With Demeter 01
+! colspan="2" |Duo - Aphrodite and Demeter (1)
 |-
 |'''Aphrodite'''
 |"La venerable diosa de las estaciones, Deméter, elige tener el aspecto más regio que puede, ¿te lo puedes creer, querido? Aunque no entiendo por qué querría nadie dejarse tantas arrugas en el rostro."
@@ -119,7 +119,7 @@
 |"Vale, creo que estoy preparado. ¡En el nombre de Hades! ¡Olimpo, este es un mensaje oficial! ¡Espero que estés bien, Afrodita!"
 |-
 |'''Aphrodite'''
-|"¡Pero ''menuda ''sorpresa, querido! Qué mensaje más enigmático has enviado. Qué cautivador, necesito saber qué dice. Porta los símbolos de otros dioses del Olimpo, así que... ¿quizá debemos tratar el asunto juntos?"
+|"¡Pero *menuda *sorpresa, querido! Qué mensaje más enigmático has enviado. Qué cautivador, necesito saber qué dice. Porta los símbolos de otros dioses del Olimpo, así que... ¿quizá debemos tratar el asunto juntos?"
 |-
 ! colspan="2" |Aphrodite Post Epilogue 01
 |-
@@ -149,7 +149,7 @@
 ! colspan="2" |Aphrodite About Artemis 01
 |-
 |'''Aphrodite'''
-|"La taciturna Artemisa ha contactado contigo, ¿no? Oh, es adorable, querido; pero no hagas movimientos bruscos cerca de ella, ¿''eh''?"
+|"La taciturna Artemisa ha contactado contigo, ¿no? Oh, es adorable, querido; pero no hagas movimientos bruscos cerca de ella, ¿*eh*?"
 |-
 ! colspan="2" |Aphrodite About Dionysus 01
 |-
@@ -174,7 +174,7 @@
 ! colspan="2" |Aphrodite Post Gift Pickup 04
 |-
 |'''Aphrodite'''
-|"Cariño, ''sabes ''que estoy casada, ¿no? Te perdonaría si no lo supieras, mi marido siempre está atareado. Doy gracias por poder contar contigo para hablar."
+|"Cariño, *sabes *que estoy casada, ¿no? Te perdonaría si no lo supieras, mi marido siempre está atareado. Doy gracias por poder contar contigo para hablar."
 |-
 ! colspan="2" |Aphrodite Post Flashback 01
 |-
@@ -219,12 +219,12 @@
 ! colspan="2" |Aphrodite Run Cleared 01
 |-
 |'''Aphrodite'''
-|"¿Qué ''pasa ''por tu casa, querido? Creía que de verdad ibas a escapar, pero parece que ese asqueroso lugar te mantiene prisionero. No desesperes, arriba ese ánimo, ¿vale?"
+|"¿Qué *pasa *por tu casa, querido? Creía que de verdad ibas a escapar, pero parece que ese asqueroso lugar te mantiene prisionero. No desesperes, arriba ese ánimo, ¿vale?"
 |-
 ! colspan="2" |Aphrodite About Persephone Meeting 01
 |-
 |'''Aphrodite'''
-|"¡Algo ha despertado en tu corazón, querido! ¡Estas cosas nunca se me escapan! ¿Cierto amor, por tu familia? Sí, ha de ser eso, creo. ¿Qué te ha pasado últimamente, ''eh''?"
+|"¡Algo ha despertado en tu corazón, querido! ¡Estas cosas nunca se me escapan! ¿Cierto amor, por tu familia? Sí, ha de ser eso, creo. ¿Qué te ha pasado últimamente, *eh*?"
 |-
 ! colspan="2" |Aphrodite Post Epilogue 02
 |-
@@ -249,7 +249,7 @@
 ! colspan="2" |Aphrodite About Love 03
 |-
 |'''Aphrodite'''
-|"¡Ay, querido! He de decir que tu corazón parece a punto de estallar de amor por todos aquellos a quienes aprecias. Tus amigos cercanos, tus amores ardientes, tu familia... ¡''todos''! ¡Eres el vivo testimonio de mi obra entera!"
+|"¡Ay, querido! He de decir que tu corazón parece a punto de estallar de amor por todos aquellos a quienes aprecias. Tus amigos cercanos, tus amores ardientes, tu familia... ¡*todos*! ¡Eres el vivo testimonio de mi obra entera!"
 |-
 ! colspan="2" |Aphrodite Backstory 01
 |-
@@ -264,12 +264,12 @@
 ! colspan="2" |Aphrodite About Meg Relationship 02
 |-
 |'''Aphrodite'''
-|"¿Qué tal te está tratando últimamente la temible erinia Megera, ''uhm'', querido? Conozco a las mujeres como ella. Se comporta como si nada la afectara, ¿no es así?"
+|"¿Qué tal te está tratando últimamente la temible erinia Megera, *uhm*, querido? Conozco a las mujeres como ella. Se comporta como si nada la afectara, ¿no es así?"
 |-
 ! colspan="2" |Aphrodite About Than Relationship 01
 |-
 |'''Aphrodite'''
-|"''Hum'', mi corazón me dice que has desarrollado un fuerte vínculo con el tristón de Tánatos, ¿verdad? ¡Siempre imaginé que ese carácter depresivo era solo una pose!"
+|"*Hum*, mi corazón me dice que has desarrollado un fuerte vínculo con el tristón de Tánatos, ¿verdad? ¡Siempre imaginé que ese carácter depresivo era solo una pose!"
 |-
 ! colspan="2" |Aphrodite About Than Relationship 02
 |-
@@ -284,7 +284,7 @@
 ! colspan="2" |Aphrodite About Dusa Relationship 02
 |-
 |'''Aphrodite'''
-|"Algo ha cambiado en el latido de tu corazón, querido. ''Ah'', es esa gorgona, ¿no? Ay, los habitantes del Inframundo y sus complicados sentimientos... No me canso nunca de esos dramas. Aceptad ambos mis bendiciones, ¿''eh''?"
+|"Algo ha cambiado en el latido de tu corazón, querido. *Ah*, es esa gorgona, ¿no? Ay, los habitantes del Inframundo y sus complicados sentimientos... No me canso nunca de esos dramas. Aceptad ambos mis bendiciones, ¿*eh*?"
 |-
 ! colspan="2" |Aphrodite Low Health 01
 |-
@@ -309,7 +309,7 @@
 ! colspan="2" |Aphrodite Low Health 05
 |-
 |'''Aphrodite'''
-|"Ah, diosecillo, ¡estás al borde de la muerte! No queremos ''eso'', porque si mueres, ¡no podrás disfrutar aquí de mis bendiciones!"
+|"Ah, diosecillo, ¡estás al borde de la muerte! No queremos *eso*, porque si mueres, ¡no podrás disfrutar aquí de mis bendiciones!"
 |-
 ! colspan="2" |Aphrodite Legendary Pick Up 01
 |-
@@ -392,7 +392,7 @@
 ! colspan="2" |Aphrodite Misc Pickup 11
 |-
 |'''Aphrodite'''
-|"Querido, a lo largo de las eras he conocido a muchos dioses y semidioses; y debo confesar que resultas ''muy ''intrigante, incluso para nuestra especie."
+|"Querido, a lo largo de las eras he conocido a muchos dioses y semidioses; y debo confesar que resultas *muy *intrigante, incluso para nuestra especie."
 |-
 ! colspan="2" |Aphrodite Misc Pickup 12
 |-
@@ -592,12 +592,12 @@
 ! colspan="2" |Aphrodite Rejection 04
 |-
 |'''Aphrodite'''
-|"''Jamás ''me tomes por una ninfa descerebrada a la que manipular, querido. Espero una devoción recíproca por tu parte, ¿lo entiendes?"
+|"*Jamás *me tomes por una ninfa descerebrada a la que manipular, querido. Espero una devoción recíproca por tu parte, ¿lo entiendes?"
 |-
 ! colspan="2" |Aphrodite Rejection 05
 |-
 |'''Aphrodite'''
-|"Vaya, ¿''en serio''? Descubrirás que no me tomo el rechazo a la ligera. Y será por las malas."
+|"Vaya, ¿*en serio*? Descubrirás que no me tomo el rechazo a la ligera. Y será por las malas."
 |-
 ! colspan="2" |Aphrodite Rejection 06
 |-
@@ -612,7 +612,7 @@
 ! colspan="2" |Aphrodite Rejection 08
 |-
 |'''Aphrodite'''
-|"Querido, por si no te lo había dejado bien claro, déjame repetirlo: si se te presenta la oportunidad, ''nunca ''me rechaces."
+|"Querido, por si no te lo había dejado bien claro, déjame repetirlo: si se te presenta la oportunidad, *nunca *me rechaces."
 |-
 ! colspan="2" |Aphrodite Rejection 09
 |-
@@ -622,7 +622,7 @@
 ! colspan="2" |Aphrodite Rejection 10
 |-
 |'''Aphrodite'''
-|"Debo admitir que no estoy acostumbrada al rechazo, amor. ¡Pero ''tú ''a la muerte sí! Toma, experiméntala de nuevo."
+|"Debo admitir que no estoy acostumbrada al rechazo, amor. ¡Pero *tú *a la muerte sí! Toma, experiméntala de nuevo."
 |-
 ! colspan="2" |Aphrodite Rejection 11
 |-
@@ -632,7 +632,7 @@
 ! colspan="2" |Aphrodite Rejection 12
 |-
 |'''Aphrodite'''
-|"¿Te atreves a jugar con ''mi ''corazón, diosecillo? ¡Pues creo que cogeré el tuyo y lo haré pedazos!"
+|"¿Te atreves a jugar con *mi *corazón, diosecillo? ¡Pues creo que cogeré el tuyo y lo haré pedazos!"
 |-
 ! colspan="2" |Aphrodite Rejection 13
 |-
@@ -652,7 +652,7 @@
 ! colspan="2" |Aphrodite Make Up 02
 |-
 |'''Aphrodite'''
-|"Por desgracia, la pasión me conduce a veces a la venganza, querido. Pero, ¿quién no tiene sus defectos, ''eh''?"
+|"Por desgracia, la pasión me conduce a veces a la venganza, querido. Pero, ¿quién no tiene sus defectos, *eh*?"
 |-
 ! colspan="2" |Aphrodite Make Up 03
 |-
@@ -667,7 +667,7 @@
 ! colspan="2" |Aphrodite Make Up 05
 |-
 |'''Aphrodite'''
-|"Amar es perdonar, ¿no crees? Dejaré pasar este desencuentro, pero da gracias porque tenga un corazón bondadoso, ¡''hum, hum''!"
+|"Amar es perdonar, ¿no crees? Dejaré pasar este desencuentro, pero da gracias porque tenga un corazón bondadoso, ¡*hum, hum*!"
 |-
 ! colspan="2" |Aphrodite Make Up 06
 |-
@@ -702,7 +702,7 @@
 ! colspan="2" |Aphrodite Make Up 12
 |-
 |'''Aphrodite'''
-|"Tanta discusión no va con nosotros ''para nada'', querido. ¿Hacemos las paces?"
+|"Tanta discusión no va con nosotros *para nada*, querido. ¿Hacemos las paces?"
 |-
 ! colspan="2" |Aphrodite Gift 01
 |-
@@ -760,7 +760,7 @@
 |'''Aphrodite'''
 |"Diosecillo, diría que me has honrado más veces de las que puedo contar, pero sería una mentira, ¿no? ¡Admiro tanto tu devoción y tu perseverancia! Si alguna vez llegas al Olimpo, estaré encantada de conocerte aún mejor."
 |-
-! colspan="2" |Dionysus With Aphrodite 01
+! colspan="2" |Duo - Dionysus and Aphrodite (1)
 |-
 |'''Dionysus'''
 |"Mira, Zag, a estas alturas ya sabrás que, cuando se trata de festejar, es el menda quien se lo monta mejor. ¡Pero tengo la ayuda de Afrodita!"
@@ -768,7 +768,7 @@
 |'''Aphrodite'''
 |"El vino en verdad tiene una peculiar manera de hacer que todo el mundo parezca más guapo que nunca, querido Dioniso. Y de tal belleza es de donde nace el amor duradero. Bueno, y a menudo también el que no dura mucho."
 |-
-! colspan="2" |Athena With Aphrodite 01
+! colspan="2" |Duo - Athena and Aphrodite (1)
 |-
 |'''Athena'''
 |"Tus apuros han unido a nuestra familia en el deseo de ayudarte, primo. Incluso quienes normalmente no suelen pensar más que en sí mismos."
@@ -779,7 +779,7 @@
 |'''Athena'''
 |"El mundo no es todo mentiras y engaños como te imaginas, Afrodita. A veces, un ofrecimiento de ayuda no es más que lo que parece ser. Ahora, ayuda a Zagreo o hazte a un lado."
 |-
-! colspan="2" |Demeter With Aphrodite 01
+! colspan="2" |Duo - Demeter and Aphrodite (1)
 |-
 |'''Demeter'''
 |"Recuerda, Zagreo: un corazón helado no puede ejercer su influencia sobre nadie. ¿No es eso cierto, Afrodita?"

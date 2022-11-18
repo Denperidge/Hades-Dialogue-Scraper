@@ -54,7 +54,7 @@
 ! colspan="2" |Nyx Backstory 01
 |-
 |'''Zagreus'''
-|"Jakoś zawsze wiedziałem. No wiesz... że nie jesteś moją rodzoną matką. Wystarczy spojrzeć na Hypnosa i Tanatosa. Nie ma szans, abym był spokrewniony z ''nimi'', każdy to wiedział, a mimo to... kiedy wreszcie się upewniłem, to i tak był to szok."
+|"Jakoś zawsze wiedziałem. No wiesz... że nie jesteś moją rodzoną matką. Wystarczy spojrzeć na Hypnosa i Tanatosa. Nie ma szans, abym był spokrewniony z *nimi*, każdy to wiedział, a mimo to... kiedy wreszcie się upewniłem, to i tak był to szok."
 |-
 |'''Nyx'''
 |"Za to ja zawsze wiedziałam, że kiedyś wreszcie poznasz prawdę. I przerażało mnie widmo tego, co mogłoby wtedy nastąpić. Cieszę się, że już po wszystkim. Jednak, powiedz mi. Mam w zwyczaju nazywać cię moim dzieckiem. Czy według ciebie powinnam tego zaprzestać?"
@@ -132,15 +132,15 @@
 |"Ale... powiedziałaś jej, że jesteś moją matką. Jeżeli jest tak mądra, jak mawiają... czy nie jest to ryzykowne? Jeśli zorientuje się, że wodziłaś ją za nos..."
 |-
 |'''Nyx'''
-|"Ona ''jest ''mądra, dziecko. Właśnie dlatego wyszłam z założenia, że zrozumie."
+|"Ona *jest *mądra, dziecko. Właśnie dlatego wyszłam z założenia, że zrozumie."
 |-
 ! colspan="2" |Nyx About Ares 01
 |-
 |'''Zagreus'''
-|"''Um'', Nyks, na początku myślałem, że może powinienem to zignorować, ale chciałbym przekazać ci pozdrowienia od Lorda Aresa, który wydaje się być tobą całkiem zainteresowany."
+|"*Um*, Nyks, na początku myślałem, że może powinienem to zignorować, ale chciałbym przekazać ci pozdrowienia od Lorda Aresa, który wydaje się być tobą całkiem zainteresowany."
 |-
 |'''Nyx'''
-|"''Ach'', tak, bóg wojny. Spośród wszystkich bogów Olimpu często wydaje się najbardziej wyrozumiały dla nas, zrodzonych w Podziemiach."
+|"*Ach*, tak, bóg wojny. Spośród wszystkich bogów Olimpu często wydaje się najbardziej wyrozumiały dla nas, zrodzonych w Podziemiach."
 |-
 |'''Zagreus'''
 |"Chyba nie... czekaj, chyba nie jesteś nim zainteresowana, w sensie, on jest... krwiożerczy... ale uprzejmy, sam nie wiem."
@@ -151,7 +151,7 @@
 ! colspan="2" |Nyx About Ares 02
 |-
 |'''Zagreus'''
-|"Hej, Nyks, ''yyy'', Lord Ares chciał, abyś wiedziała, że, cytuję: ''"często o niej tutaj myślę"''. Zrobisz z tą informacją, co uznasz za stosowne?"
+|"Hej, Nyks, *yyy*, Lord Ares chciał, abyś wiedziała, że, cytuję: *"często o niej tutaj myślę"*. Zrobisz z tą informacją, co uznasz za stosowne?"
 |-
 |'''Nyx'''
 |"Tak, dziękuję ci, moje dziecko. Skoro bóg wojny jest aż tak pochłonięty moją osobą, to może powinien zwolnić z wysyłaniem tłumów śmiertelnych ku naszym bramom."
@@ -167,7 +167,7 @@
 ! colspan="2" |Nyx About Ares 04
 |-
 |'''Zagreus'''
-|"Nyks, naprawdę zaczęłaś ''korespondencję ''z Lordem Aresem, tak jak mi ostatnio zasugerował? Czy wszystko między wami w porządku?"
+|"Nyks, naprawdę zaczęłaś *korespondencję *z Lordem Aresem, tak jak mi ostatnio zasugerował? Czy wszystko między wami w porządku?"
 |-
 |'''Nyx'''
 |"Jego zainteresowanie Podziemiami jest szczere, a on sam nie patrzy na mnie z góry, choć technicznie rzecz biorąc nie ma innego wyjścia. Bogowie Olimpu i bogowie chtoniczni... wciąż możemy się od siebie wiele nauczyć."
@@ -195,7 +195,7 @@
 ! colspan="2" |Nyx About Ares 06
 |-
 |'''Zagreus'''
-|"''Um'', Nyks, ja... Ares ponownie przysyła pozdrowienia. Chciałem tylko dać ci znać."
+|"*Um*, Nyks, ja... Ares ponownie przysyła pozdrowienia. Chciałem tylko dać ci znać."
 |-
 |'''Nyx'''
 |"Dziękuję ci, moje dziecko. Podejrzewam, że okazje do spotkań będą nam się przytrafiały sporadycznie, jednak dobrze jest mieć kolejnego przyjaciela na Olimpie. Nawet jeżeli bogini Atena i on się ze sobą nie dogadują."
@@ -233,13 +233,13 @@
 ! colspan="2" |Nyx About Skelly 01
 |-
 |'''Zagreus'''
-|"Nie sądzę, aby imię ''Kostek ''cokolwiek dla ciebie znaczyło, czyż nie, Nyks?"
+|"Nie sądzę, aby imię *Kostek *cokolwiek dla ciebie znaczyło, czyż nie, Nyks?"
 |-
 |'''Nyx'''
 |"Zupełnie nic dla mnie nie znaczy, moje dziecko. Powiedz mi jednak, czemu wypowiadasz to imię w tym Domu? Kim jest ten cały Kostek i co, według ciebie, mogłoby nas łączyć?"
 |-
 |'''Zagreus'''
-|"''Och'', ja... cóż, ogólnie rzecz biorąc, jest to żywy szkielet, który pojawia się na zewnątrz mojej komnaty sypialnej i pozwala mi wypróbowywać na sobie moje bronie. Pomyślałem więc, że może to ''ty ''go podstawiłaś. Czyli to jednak nie twoja sprawka?"
+|"*Och*, ja... cóż, ogólnie rzecz biorąc, jest to żywy szkielet, który pojawia się na zewnątrz mojej komnaty sypialnej i pozwala mi wypróbowywać na sobie moje bronie. Pomyślałem więc, że może to *ty *go podstawiłaś. Czyli to jednak nie twoja sprawka?"
 |-
 |'''Nyx'''
 |"Achilles przemieszcza się między tymi komnatami za moim pozwoleniem, jeśli musisz wiedzieć. Stąd też masz do dyspozycji Piekielne Oręże. Jednak nie korzystałam z moich wpływów ponad to. Czy ten kościotrup jest godny zaufania?"
@@ -422,7 +422,7 @@
 |"Nyks... dlaczego nigdy nie dałaś Matce znać, że żyłem? Wiedziałaś mniej więcej, dokąd poszła. Ty i Ojciec... mogliście oszczędzić jej tyle bólu!"
 |-
 |'''Nyx'''
-|"Złożyłam wiążącą przysięgę, że nigdy nie powiem, dziecko. I tak omijałam ją już tak bardzo, jak tylko mogłam. Wiedz, że my... że ''ja ''działałam mając na uwadze wyłącznie jej dobro. Tak jak i twoje."
+|"Złożyłam wiążącą przysięgę, że nigdy nie powiem, dziecko. I tak omijałam ją już tak bardzo, jak tylko mogłam. Wiedz, że my... że *ja *działałam mając na uwadze wyłącznie jej dobro. Tak jak i twoje."
 |-
 ! colspan="2" |Nyx After Persephone Meeting 02
 |-
@@ -458,7 +458,7 @@
 |"Nie. Nie było. Była w niebezpieczeństwie cały czas. Ukryłam ją, tak. Nawet przed samą sobą. Ale to nie wystarczy. Nie wydaje mi się, żebyś był w stanie ją odnaleźć bez bogów Olimpu. A gdybym nie ujawniła im twojego istnienia... gdyby odkryli kim jesteś... byłoby jeszcze gorzej."
 |-
 |'''Zagreus'''
-|"''Uch'', cóż za bałagan. Jak my to naprawimy?"
+|"*Uch*, cóż za bałagan. Jak my to naprawimy?"
 |-
 |'''Nyx'''
 |"Bogowie Olimpu utrzymują się w przekonaniu, że próbujesz do nich dotrzeć. Ufam, że możemy utrzymać to przez długi, długi czas. Być może nie na zawsze... ale wystarczająco długo, aby znaleźć rozwiązanie. Być może z pomocą twej rodzonej matki."
@@ -489,7 +489,7 @@
 |"Matka nie chce mnie więcej widzieć. Znaczy się... poprosiła mnie, żebym nie wracał. Że ryzyko jest zbyt wielkie."
 |-
 |'''Nyx'''
-|"''Och''. To jest słuszna ocena sytuacji. Co poczniesz?"
+|"*Och*. To jest słuszna ocena sytuacji. Co poczniesz?"
 |-
 |'''Zagreus'''
 |"...Wracam tam."
@@ -543,7 +543,7 @@
 |"Widziałam, że nabyłeś Listę Mniejszych Przepowiedni Trzech Mojr. Jak zwykle niepotrzebnie wątpiłam w przypuszczenia moich córek. Nie byłam pewna, czy masz wystarczające powody do wybrania z bogatej oferty Wykonawcy właśnie tego przedmiotu."
 |-
 |'''Zagreus'''
-|"Jak jest mi oferowane coś zwanego ''Listą Mniejszych Przepowiedni Trzech Mojr'', to oczywiście, że to wybiorę. Ale zabrzmiało to tak, jakbym powinien wiedzieć o niej coś więcej. Powinienem się martwić?"
+|"Jak jest mi oferowane coś zwanego *Listą Mniejszych Przepowiedni Trzech Mojr*, to oczywiście, że to wybiorę. Ale zabrzmiało to tak, jakbym powinien wiedzieć o niej coś więcej. Powinienem się martwić?"
 |-
 |'''Nyx'''
 |"Wiesz dokładnie tyle, ile jest ci potrzebne i nic ponad to. Lepiej niż ktokolwiek zdaję sobie sprawę z tego, że nie można igrać z planami Mojr. Jednak jeśli miałyby dla ciebie przyszykowane jakieś okrucieństwo... myślę, że i tak bym cię przed nim ostrzegła."
@@ -554,7 +554,7 @@
 |"Wypełniłeś już wiele przepowiedni moich córek, dziecko. Choć było to być może nieuniknione, to i tak uważam, że jest godne podziwu."
 |-
 |'''Zagreus'''
-|"Dziękuję, Nyks, chociaż to tylko ''mniejsze ''przepowiednie, prawda? Takie, które niekoniecznie muszą się spełnić, chyba że zostaną wypowiedziane i połączone z przyzwoitą nagrodą, która sprawi, że będzie to warte mojego zachodu. A zatem nawet Mojry nie są ponad usprawnianiem kół postępu?"
+|"Dziękuję, Nyks, chociaż to tylko *mniejsze *przepowiednie, prawda? Takie, które niekoniecznie muszą się spełnić, chyba że zostaną wypowiedziane i połączone z przyzwoitą nagrodą, która sprawi, że będzie to warte mojego zachodu. A zatem nawet Mojry nie są ponad usprawnianiem kół postępu?"
 |-
 |'''Nyx'''
 |"Mojry doskonale wiedzą, co dokładnie musi się stać, by twoja przyszłość wyglądała tak, jak mają to w planach. Wszyscy jesteśmy częścią ich wielkiego dzieła. Oczywiście wygląda na to, że niektórzy większą niż inni."
@@ -582,7 +582,7 @@
 |"Nie, po prostu... najnowsze renowacje Wykonawcy... Ojciec powiedział mi, że to ty je nadzorujesz. Tak między nami... i nie będę o tym więcej wspominać, ale... dziękuję. Bardzo."
 |-
 |'''Nyx'''
-|"''Ach''. Tak, nie ma potrzeby o tym więcej wspominać. Jednakże cieszę się, że mogę pomóc."
+|"*Ach*. Tak, nie ma potrzeby o tym więcej wspominać. Jednakże cieszę się, że mogę pomóc."
 |-
 ! colspan="2" |Nyx About Ghost Admin 02
 |-
@@ -620,7 +620,7 @@
 ! colspan="2" |Nyx About Demeter 01
 |-
 |'''Zagreus'''
-|"Nyks... spotkałem Demeter. Wspominała o swojej córce... ''Persefonie''. Nigdy nie mówiłaś, że jest moją babcią. Nie pomyślałaś, że... w obecnych okolicznościach... powinienem coś takiego wiedzieć?"
+|"Nyks... spotkałem Demeter. Wspominała o swojej córce... *Persefonie*. Nigdy nie mówiłaś, że jest moją babcią. Nie pomyślałaś, że... w obecnych okolicznościach... powinienem coś takiego wiedzieć?"
 |-
 |'''Nyx'''
 |"...Posłuchaj mnie, dziecko. Wiesz lub nie wiesz o pewnych rzeczach dla twojego dobra. Twojego i twojej rodzonej matki. Twoje podejrzenia i ciekawość są zrozumiałe. Jednak jedyne co mogę zrobić, to ostrzec cię, żebyś uważał. Rozumiemy się?"
@@ -660,7 +660,7 @@
 ! colspan="2" |Nyx About Singers Reunion Quest 01
 |-
 |'''Zagreus'''
-|"''Um'', Nyks, czy kiedykolwiek odczuwałaś palącą potrzebę znalezienia akt sprawy dotyczących okoliczności, w których nasz nadworny muzyk związał się z wieczną niewolą tutaj, w tym Domu, i na zawsze stracił okazję, aby być ze swoją ukochaną muzą? Zastanawiałem się, czy nie wiedziałabyś jak temu zaradzić."
+|"*Um*, Nyks, czy kiedykolwiek odczuwałaś palącą potrzebę znalezienia akt sprawy dotyczących okoliczności, w których nasz nadworny muzyk związał się z wieczną niewolą tutaj, w tym Domu, i na zawsze stracił okazję, aby być ze swoją ukochaną muzą? Zastanawiałem się, czy nie wiedziałabyś jak temu zaradzić."
 |-
 |'''Nyx'''
 |"Nasz nadworny muzyk wnosi do tego Domu swego rodzaju spokój, moje dziecko. Jednak, jeśli znalazłbyś jego akta w sekcji zeta-pi-omega, w górnej części folderu beta, mógłbyś odkryć, że konsekwencje, które ponosi, są nieporównywalnie większe od jego przewinień..."
@@ -676,7 +676,7 @@
 ! colspan="2" |Nyx About Myrmidon Reunion Quest 01
 |-
 |'''Zagreus'''
-|"Ja, ''ach'', tak się złożyło, że przyglądałem się kwestiom naszej ochrony, potwierdzanie tożsamości, tego typu rzeczy, i... zastanawiałem się, czy mogłabyś mi pomóc zlokalizować stary pakt podpisany przez... podpisany przez Achillesa, Nyks. To by wiele znaczyło... nie tylko dla niego, ale też dla mnie."
+|"Ja, *ach*, tak się złożyło, że przyglądałem się kwestiom naszej ochrony, potwierdzanie tożsamości, tego typu rzeczy, i... zastanawiałem się, czy mogłabyś mi pomóc zlokalizować stary pakt podpisany przez... podpisany przez Achillesa, Nyks. To by wiele znaczyło... nie tylko dla niego, ale też dla mnie."
 |-
 |'''Nyx'''
 |"Achilles... Ciężko byłoby znaleźć kogoś podobnego na jego miejsce. Ale pomimo tego... epsilon-jota-theta. Katalog rho, środek, jak mniemam. Jesteś tego pewien, dziecko?"
@@ -737,7 +737,7 @@
 ! colspan="2" |Nyx About Ending 04
 |-
 |'''Zagreus'''
-|"Nyks, chciałem się zapytać... Charon raz zabrał mnie i Matkę z powrotem do domu. Czy on... czy ''on ''pracował dla ''ciebie''? Wszystko w ramach jakiegoś rozbudowanego planu czy coś w tym stylu?"
+|"Nyks, chciałem się zapytać... Charon raz zabrał mnie i Matkę z powrotem do domu. Czy on... czy *on *pracował dla *ciebie*? Wszystko w ramach jakiegoś rozbudowanego planu czy coś w tym stylu?"
 |-
 |'''Nyx'''
 |"Charon służy jedynie temu królestwu, dziecko. I jest bardzo godny zaufania. Przypuszczam, że jest również możliwe, iż darzy Królową pewną sympatią, a może nawet i ciebie."
@@ -835,7 +835,7 @@
 |"Niestety często się ostatnio widujesz z Hypnosem, dziecko. Mam nadzieję, że jego usposobienie jest chociaż znośne. Jeśli nie, powiedz mi to wprost."
 |-
 |'''Zagreus'''
-|"''Och'', on nie jest taki zły, Nyks. Możesz być dumna ze swojego zaspanego, wesołego syna! Któż inny spośród nas jest w stanie wykrzesać tego rodzaju entuzjazm?"
+|"*Och*, on nie jest taki zły, Nyks. Możesz być dumna ze swojego zaspanego, wesołego syna! Któż inny spośród nas jest w stanie wykrzesać tego rodzaju entuzjazm?"
 |-
 ! colspan="2" |Nyx About Hypnos 02
 |-
@@ -868,7 +868,7 @@
 ! colspan="2" |Nyx About Charon Fight 01
 |-
 |'''Zagreus'''
-|"''Yyy'', Nyks? Sądzisz, że Charon nie miałby mi za złe, gdybyśmy... stoczyli drobną potyczkę? Mam na myśli na śmierć i życie."
+|"*Yyy*, Nyks? Sądzisz, że Charon nie miałby mi za złe, gdybyśmy... stoczyli drobną potyczkę? Mam na myśli na śmierć i życie."
 |-
 |'''Nyx'''
 |"Żaden z braci Charona nie śmiał z nim walczyć, kiedy dorastali. Dlaczego przyszedł ci do głowy tak zgubny pomysł, dziecko?"
@@ -1002,7 +1002,7 @@
 |"Nyks, znasz Megajrę w zasadzie od zawsze. Cóż, a przynajmniej z czasów, gdy mnie tu jeszcze nie było, więc czy mogłabyś... opowiedzieć mi trochę więcej o tym, jaka wtedy była?"
 |-
 |'''Nyx'''
-|"''A-haha''. Cieszy mnie, że ostatnimi czasy jest między wami lepiej. Megajra od zawsze taka była. Pracowita i odpowiedzialna. Rozważna i rzetelna. Pełna szacunku."
+|"*A-haha*. Cieszy mnie, że ostatnimi czasy jest między wami lepiej. Megajra od zawsze taka była. Pracowita i odpowiedzialna. Rozważna i rzetelna. Pełna szacunku."
 |-
 ! colspan="2" |Nyx About Meg Relationship 01
 |-
@@ -1048,7 +1048,7 @@
 |"Zatem, w tej kwestii oboje osiągnęliście sukces. Proszę, dbaj o mojego drogiego syna. Często obawiam się, że kiedyś się przepracuje."
 |-
 |'''Zagreus'''
-|"''Och'', ma się dobrze. Ale z pewnością będę miał na niego oko."
+|"*Och*, ma się dobrze. Ale z pewnością będę miał na niego oko."
 |-
 ! colspan="2" |Nyx About Thanatos Relationship 01 B
 |-
@@ -1070,7 +1070,7 @@
 |"Powiedziałam jej, żeby zajęła się własnymi obowiązkami. Obawiam się, że zapomina o swoim miejscu w tym Domu. Może twoje zachowanie na to nie wskazuje... ale jesteś Księciem! Jedynym synem Lorda Hadesa, wyznaczonym przez Mojry przyszłym władcą tego królestwa. Powinieneś obracać się w towarzystwie bogów. Nie odciętych głów gorgon."
 |-
 |'''Zagreus'''
-|"''Pff''! Skoro jestem taki ważny, czy to nie ''ja ''powinienem decydować, z kim się tutaj zadaję?"
+|"*Pff*! Skoro jestem taki ważny, czy to nie *ja *powinienem decydować, z kim się tutaj zadaję?"
 |-
 |'''Nyx'''
 |"Nie do końca wiesz, gdzie jest twoje miejsce, dziecko. Głowa gorgony zdecydowanie nie wie, gdzie jest jej. Proszę, zajmij się swoimi sprawami i daj jej spokój."
@@ -1101,7 +1101,7 @@
 |"Jej chęć zadowalania innych była przesadna. Może i twoi krewni z Olimpu wymagają ofiar, dziecko, ale w tym Domu liczy się tylko i wyłącznie efektywność."
 |-
 |'''Zagreus'''
-|"''Efektywność''... wiesz, jak teraz brzmisz, prawda, Nyks? Nie mogę w to uwierzyć."
+|"*Efektywność*... wiesz, jak teraz brzmisz, prawda, Nyks? Nie mogę w to uwierzyć."
 |-
 |'''Nyx'''
 |"Jeżeli już zamierzasz podważać mój autorytet, rób to w innym miejscu."
@@ -1115,7 +1115,7 @@
 |"Doceniam, że uspokoiłeś swoje nerwy, moje dziecko. A w kwestii głowy gorgony - ten Dom potrzebuje opieki stałej i stabilnej, nie bezmyślnej i bezgranicznej. Choć ciągle otrzymywała upomnienia, nie stosowała się do nich i nie podchodziła do swoich zadań z umiarem."
 |-
 |'''Zagreus'''
-|"Chwila... mówisz, że zwolniłaś Duzę za to, że ''zbyt ciężko pracowała''? Dałaś jej chociaż jakieś ostrzeżenie?"
+|"Chwila... mówisz, że zwolniłaś Duzę za to, że *zbyt ciężko pracowała*? Dałaś jej chociaż jakieś ostrzeżenie?"
 |-
 |'''Nyx'''
 |"Nie rozumiała jak należy poprawnie pracować. Pomimo wszystkiego co robiła, z czasem stała się ciężarem dla tego Domu. Ostrzeżenia z mojej strony nie były potrzebne."
@@ -1154,10 +1154,10 @@
 |"Moment, masz na myśli Mojry? I Styksusa? Jestem zaszczycony, że zwróciły na mnie uwagę. Co takiego chcą, abym wiedział?"
 |-
 |'''Nyx'''
-|"Życzą sobie, bym przekazała ci te słowa, aby następnie twoje ostrze usłyszało je z twoich ust: ''widzę twe królewskie wybawienie od kamiennego więzienia. ''Powtórz je i zapamiętaj."
+|"Życzą sobie, bym przekazała ci te słowa, aby następnie twoje ostrze usłyszało je z twoich ust: *widzę twe królewskie wybawienie od kamiennego więzienia. *Powtórz je i zapamiętaj."
 |-
 |'''Zagreus'''
-|"''Widzę twe królewskie wybawienie od kamiennego więzienia''... to musi być jedna z ukrytych postaci tej broni. Proszę powiedz swoim córkom, że jestem bardzo wdzięczny, Nyks."
+|"*Widzę twe królewskie wybawienie od kamiennego więzienia*... to musi być jedna z ukrytych postaci tej broni. Proszę powiedz swoim córkom, że jestem bardzo wdzięczny, Nyks."
 |-
 |'''Nyx'''
 |"Tak też zrobię, dziecko. Choć jestem jestem pewna, że już to wiedzą. Nie potrafię jednak stwierdzić czy cię wspierają, czy po prostu tak miało się stać."
@@ -1176,7 +1176,7 @@
 |"Ty... ty nie... Nyks, ty nie jesteś moją matką. Przez cały ten czas, ty i mój ojciec, wy... okłamywaliście mnie?"
 |-
 |'''Nyx'''
-|"''Och'', moje drogie dziecko! Zatem już wiesz...? Zatem już wiesz. Jednak nie o wszystkim - resztę mogę wytłumaczyć i dlatego proszę... nigdy nie chciałam cię zranić."
+|"*Och*, moje drogie dziecko! Zatem już wiesz...? Zatem już wiesz. Jednak nie o wszystkim - resztę mogę wytłumaczyć i dlatego proszę... nigdy nie chciałam cię zranić."
 |-
 ! colspan="2" |Nyx About Legendary 01
 |-
@@ -1200,7 +1200,7 @@
 |'''Nyx'''
 |"Odcięta głowa gorgony ma też swoje dobre cechy, moje dziecko. Aczkolwiek spodziewałam się, że ten towarzysz wkrótce znajdzie się w jakiś sposób u ciebie, widząc jak wy dwoje się do siebie zbliżyliście. Dzięki jednemu gestowi oboje znaleźliście motywację."
 |-
-! colspan="2" |Nyx With Hades 01
+! colspan="2" |Duo - Nyx and Hades (1)
 |-
 |'''Hades'''
 |"...Nie wolno ci pomagać mu w tych kwestiach, Nyks. Jego głupotę winno się wyszydzać i ganić, a nie zachwalać. Rozumiemy się?"
@@ -1211,7 +1211,7 @@
 |'''Hades'''
 |"Nie trzeba mi tego przypominać. Z pewnością wszyscy ci, którzy niegdyś sprzeciwili się moim braciom i mnie, zdecydowanie preferowaliby stanowisko w moim Domu, zamiast wieczności w najgłębszych czeluściach Tartaru. Nie żeby ciemność jaka tam panuje ci przeszkadzała."
 |-
-! colspan="2" |Nyx With Hades 02
+! colspan="2" |Duo - Nyx and Hades (2)
 |-
 |'''Hades'''
 |"...Dla mnie jasne jest, że mu pomagasz - pomimo moich usilnych próśb, byś tego nie czyniła. Co powinienem z tym teraz zrobić, Nyks? Co ty byś zrobiła na moim miejscu? Oszustwo, w moim własnym domu...! Odpowiedz mi."
@@ -1220,26 +1220,26 @@
 |"Hadesie, relacja między mną a nim się nie zmieniła. Odkąd poprosiłeś mnie, żebym się nim zaopiekowała, wciąż opiera się na tym samym. Wspieram go tak, jak tylko mogę i zawsze będę. Pamiętaj o tym. Chce stąd odejść. Ja nie zamierzam go powstrzymywać."
 |-
 |'''Hades'''
-|"''Tsk''. Co mi po was wszystkich. Nawet nie jest twoim synem, a i tak go rozpieszczasz. Wiesz równie dobrze jak ja, że nie może mu się udać. Wypełniasz jego umysł szkodliwymi złudzeniami. Jeśli tego dla niego chcesz, to proszę bardzo! Kontynuuj."
+|"*Tsk*. Co mi po was wszystkich. Nawet nie jest twoim synem, a i tak go rozpieszczasz. Wiesz równie dobrze jak ja, że nie może mu się udać. Wypełniasz jego umysł szkodliwymi złudzeniami. Jeśli tego dla niego chcesz, to proszę bardzo! Kontynuuj."
 |-
-! colspan="2" |Nyx With Hades 03
+! colspan="2" |Duo - Nyx and Hades (3)
 |-
 |'''Hades'''
-|"''Olimp o nim wie''?! Obdarowuje go swoimi bezwartościowymi błogosławieństwami, tutaj, w moim królestwie! ''Naszym ''królestwie! Wyjaśnij mi dokładnie, jak to jest możliwe, Nyks. Albo twoja nieskończona moc wyraźnie osłabła, albo coś knujesz."
+|"*Olimp o nim wie*?! Obdarowuje go swoimi bezwartościowymi błogosławieństwami, tutaj, w moim królestwie! *Naszym *królestwie! Wyjaśnij mi dokładnie, jak to jest możliwe, Nyks. Albo twoja nieskończona moc wyraźnie osłabła, albo coś knujesz."
 |-
 |'''Nyx'''
 |"Nie kwestionuj mej mocy, Hadesie. Twój syn nieuchronnie miał zostać odkryty, im bliżej był powierzchni. Bogowie Olimpu cieszą się na myśl, że mają dalekiego krewnego i chętnie go powitają na swej górze. To wszystko. Ich wpływ jest bardzo ograniczony."
 |-
 |'''Hades'''
-|"Krew i ciemność! Nie mów mi o ich ''wpływie''! Na własnej skórze doświadczyłem ich wpływu. Popełniłaś głupi błąd."
+|"Krew i ciemność! Nie mów mi o ich *wpływie*! Na własnej skórze doświadczyłem ich wpływu. Popełniłaś głupi błąd."
 |-
 |'''Nyx'''
 |"To ty mnie będziesz mówił o głupich błędach? Nie zmienisz kursu, który został obrany. Próbuj ile chcesz."
 |-
-! colspan="2" |Nyx With Hades 04
+! colspan="2" |Duo - Nyx and Hades (4)
 |-
 |'''Hades'''
-|"Co teraz, Nyks? Zdajesz sobie sprawę z niebezpieczeństwa, na jakie ją naraziłaś? Mówisz, że się o nią troszczysz, ale teraz narażasz ją na to, że ''oni ''ją zauważą!"
+|"Co teraz, Nyks? Zdajesz sobie sprawę z niebezpieczeństwa, na jakie ją naraziłaś? Mówisz, że się o nią troszczysz, ale teraz narażasz ją na to, że *oni *ją zauważą!"
 |-
 |'''Nyx'''
 |"Hadesie. Kiedy choć raz nie wiedziałam dokładnie co mam robić? Nie skrzywdzę Królowej, twój syn również nie."
@@ -1259,7 +1259,7 @@
 |'''Nyx'''
 |"Dokładnie tak samo, jak ufałam, że doprowadzi nas do tego momentu."
 |-
-! colspan="2" |Nyx With Hades 05
+! colspan="2" |Duo - Nyx and Hades (5)
 |-
 |'''Hades'''
 |"...Co próbuję ci powiedzieć, Nyks, to że jestem wdzięczny. Za naszą długotrwałą współpracę. Moje rządy były narzucone tobie i twoim krewnym. Miałaś wszelkie podstawy, aby podważać mój każdy ruch. Często myślałem, że będziesz tak robić. Ale pomimo, że moja relacja z Olimpem się pogorszyła... ty nadal stałaś u mego boku."
@@ -1270,7 +1270,7 @@
 |'''Hades'''
 |"Nie będę wymagał żadnych więcej przypomnień. Wiedz, za to, że zawsze będę czuwał nad tym królestwem najlepiej jak potrafię."
 |-
-! colspan="2" |Nyx With Achilles 01
+! colspan="2" |Duo - Nyx and Achilles (1)
 |-
 |'''Achilles'''
 |"...Uczyniłem wszystko, co mogłem, przygotowując go. Boję się jednak, że to nie wystarczy. Nikomu nigdy nie udało się uciec z tego miejsca."
@@ -1278,7 +1278,7 @@
 |'''Nyx'''
 |"Twoje nauki go na to przygotowały, Achillesie. Jednak czuję, że to twoja wiara w niego popycha go naprzód. Nie trać swej pewności siebie, ażeby i on nie stracił swojej."
 |-
-! colspan="2" |Nyx With Achilles 02
+! colspan="2" |Duo - Nyx and Achilles (2)
 |-
 |'''Achilles'''
 |"...Dobrze go wychowałaś, O Nocy. Wiesz o tym, mam nadzieję? Choć nie jestem w stanie sobie wyobrazić, żebyś nawet ty mogła przewidzieć taki rezultat. Dziękuję ci... że uczyniłaś to wszystko możliwym. Dla nas wszystkich."
@@ -1287,12 +1287,12 @@
 |"Tobie należą się podziękowania za ten rezultat tak samo jak i mnie. Być może nawet bardziej. Jako że ja nie miałam innego wyboru, niż tylko służyć temu Domowi. Zostałam stworzona w tym królestwie i jest dla mnie wszystkim. Ale ty? Kwestii twojej lojalności nie można było zakładać z góry."
 |-
 |'''Achilles'''
-|"''Och'', no nie wiem. Czułem, że również nie miałem wyboru, jak tylko służyć temu Domowi. A przynajmniej na początku. Ale trenowanie Księcia... przygotowywanie go... czułem, jakbym znowu miał po co żyć. Jakkolwiek dziwnie to może brzmieć."
+|"*Och*, no nie wiem. Czułem, że również nie miałem wyboru, jak tylko służyć temu Domowi. A przynajmniej na początku. Ale trenowanie Księcia... przygotowywanie go... czułem, jakbym znowu miał po co żyć. Jakkolwiek dziwnie to może brzmieć."
 |-
 |'''Nyx'''
 |"W każdym razie, biorąc pod uwagę okoliczności twego życia i służebności, nie musiałeś aż tyle z siebie dawać. Wielkość z twych śmiertelnych dni podążyła za tobą do grobu."
 |-
-! colspan="2" |Nyx With Achilles After Myrmidon Reunion Quest 01
+! colspan="2" |Duo - Nyx and Achilles After Myrmidon Reunion Quest (1)
 |-
 |'''Achilles'''
 |"...Nigdy nie będę w stanie odpłacić ci się za to, co uczyniłaś, O Nocy. Wiedz jedynie, że jest to dla mnie zaszczyt, by móc nadal służyć tu dla ciebie."
@@ -1300,7 +1300,7 @@
 |'''Nyx'''
 |"Jestem pewna, że zupełnie nie wiem o co ci chodzi, Achillesie. Jednakże twoja dalsza służba jest bardzo mile widziana. Cały zaszczyt jest po mojej stronie."
 |-
-! colspan="2" |Nyx With Persephone 01
+! colspan="2" |Duo - Nyx and Persephone (1)
 |-
 |'''Nyx'''
 |"...Persefono, moja Królowo... tak dawno się nie widzieliśmy. Jednakże upływający czas był bardzo łaskawy. To zaszczyt znów cię ujrzeć."
@@ -1588,7 +1588,7 @@
 ! colspan="2" |Nyx Gift 01
 |-
 |'''Zagreus'''
-|"''Um'', Nyks? Tak wiele dla mnie zrobiłaś, ja... pomyślałem, że może ci to zasmakuje."
+|"*Um*, Nyks? Tak wiele dla mnie zrobiłaś, ja... pomyślałem, że może ci to zasmakuje."
 |-
 |'''Nyx'''
 |"Wiesz, że twój ojciec nie lubi, gdy Nektar jest tu rozdawany, drogie dziecko. Jednakże ja nie jestem nim... i pragnęłam, tak czy inaczej, zaopatrzyć cię w wyraz moich uczuć."
@@ -1639,13 +1639,13 @@
 |"Nyks, jeśli wybaczysz mi to wykroczenie, to chciałbym podarować ci tę oto wykwintną butelkę Ambrozji. Możesz przekazać ją Megajrze jako kontrabandę, ale... tak na wszelki wypadek, chciałbym podarować ją wpierw tobie."
 |-
 |'''Nyx'''
-|"''Ach''. Kryształowa butelka trafiła do najgłębszych zakamarków Podziemi aż z najwyższych szczytów Olimpu. Twój ojciec zawsze powtarzał, że jej nienawidzi."
+|"*Ach*. Kryształowa butelka trafiła do najgłębszych zakamarków Podziemi aż z najwyższych szczytów Olimpu. Twój ojciec zawsze powtarzał, że jej nienawidzi."
 |-
 |'''Zagreus'''
 |"Aczkolwiek Ojciec ma wątpliwy gust."
 |-
 |'''Nyx'''
-|"''Ach, hahahaha''. Przyjmuję twój podarek z wdzięcznością. Nigdy nie próbowałam tego przysmaku. Myślę, że zachowam go na odpowiednią okazję, która dopiero nadejdzie. Dziękuję ci, moje dziecko."
+|"*Ach, hahahaha*. Przyjmuję twój podarek z wdzięcznością. Nigdy nie próbowałam tego przysmaku. Myślę, że zachowam go na odpowiednią okazję, która dopiero nadejdzie. Dziękuję ci, moje dziecko."
 |-
 ! colspan="2" |Nyx Gift 08
 |-
@@ -1664,7 +1664,7 @@
 |"Nyks, poza podarowaniem ci tej oto butelki Ambrozji, chciałbym ci również coś powiedzieć. Trzy Mojry były wobec mnie bardzo łaskawe. Ponieważ pozbawiając mnie mojej rodzonej matki... dały mi ciebie. Bez twojej obecności tutaj, ja... nie wyobrażam sobie, jak by to było."
 |-
 |'''Nyx'''
-|"''Och''. Trzy Mojry są zatem naprawdę nieprzewidywalne. Kiedy się urodziłeś, a mnie ogarnął strach przed tym, co jest związane z tym, że żyjesz, że mam być za ciebie odpowiedzialna... przyznaję, że nie pomyślałabym wtedy, że pewnego wieczoru otrzymam od ciebie taki dar i usłyszę takie wyznanie."
+|"*Och*. Trzy Mojry są zatem naprawdę nieprzewidywalne. Kiedy się urodziłeś, a mnie ogarnął strach przed tym, co jest związane z tym, że żyjesz, że mam być za ciebie odpowiedzialna... przyznaję, że nie pomyślałabym wtedy, że pewnego wieczoru otrzymam od ciebie taki dar i usłyszę takie wyznanie."
 |-
 |'''Zagreus'''
 |"Cóż, każde słowo pochodzi z głębi serca. Kocham cię, Nyks."
@@ -1729,32 +1729,32 @@
 |'''Nyx'''
 |"Jako że Chaos nie może nas tak łatwo odwiedzić, teraz to ja go odwiedzam."
 |-
-! colspan="2" |Hypnos With Nyx 01
+! colspan="2" |Duo - Hypnos and Nyx (1)
 |-
 |'''Hypnos'''
-|"...Czasami po prostu robię się śpiący, Mamo, znaczy się, ostatnio tak ''dużo ''pracuję? Prawdopodobnie mnie widziałaś, witającego zjawy, sporządzającego listy, stwarzającego zapraszającą atmosferę..."
+|"...Czasami po prostu robię się śpiący, Mamo, znaczy się, ostatnio tak *dużo *pracuję? Prawdopodobnie mnie widziałaś, witającego zjawy, sporządzającego listy, stwarzającego zapraszającą atmosferę..."
 |-
 |'''Nyx'''
 |"Pamiętaj, o czym poprzednio rozmawialiśmy, Hypnosie. Nie nazywaj mnie tak, gdy tu jesteśmy. Zachowuj się jak przystoi słudze Domu Hadesa... i ćwicz nadal swoją samodzielność, proszę."
 |-
-! colspan="2" |Hypnos With Nyx 02
+! colspan="2" |Duo - Hypnos and Nyx (2)
 |-
 |'''Nyx'''
 |"Wykazałeś się prawdziwą kompetencją w swych zadaniach, Hypnosie. Cieszy mnie, że zauważalne są mierzalne postępy. Twoje wysiłki zasługują na pochwałę."
 |-
 |'''Hypnos'''
-|"O, łał, ''dzięki''! Pochwałę od kogo, dokładnie? Megajry? Tanatosa? A może Duzy? Chyba nie od samego Pana?!"
+|"O, łał, *dzięki*! Pochwałę od kogo, dokładnie? Megajry? Tanatosa? A może Duzy? Chyba nie od samego Pana?!"
 |-
 |'''Nyx'''
 |"Pochwałę ode mnie. Nie zawsze mogę troszczyć się o wszystkie me dzieci, jak wiesz. To na nich spada odpowiedzialność, aby się troszczyć o siebie, tak jak i o zobowiązania wobec naszego królestwa. Jako twojej matce... dodaje mi otuchy, że jesteś do tego zdolny."
 |-
 |'''Hypnos'''
-|"Zdolny? Ja? ''Oo'', Mamo, znaczy się, um, ''Matko Nyks''! Nikt ''nigdy ''mnie tak wcześniej nie nazwał!"
+|"Zdolny? Ja? *Oo*, Mamo, znaczy się, um, *Matko Nyks*! Nikt *nigdy *mnie tak wcześniej nie nazwał!"
 |-
 |'''Nyx'''
 |"Jesteś mym synem. Tego się od ciebie oczekuje. Jednakże... wiem, że wymaga to wysiłku, aby być przydatnym. Pracuj nadal dobrze. Będę obserwować."
 |-
-! colspan="2" |Thanatos With Nyx 01
+! colspan="2" |Duo - Thanatos and Nyx (1)
 |-
 |'''Thanatos'''
 |"Matko, czy jest coś, co mogę zrobić, by ci pomóc z tym wszystkim? Za dużo czasu spędzam poza Domem. Powiedz, proszę."
@@ -1765,7 +1765,7 @@
 |'''Thanatos'''
 |"Rozumiem i zrobię co w mojej mocy. Dziękuję, że dbasz o wszystko. Ufam ci niezmiernie, Matko. I temu Domowi. Żegnaj."
 |-
-! colspan="2" |Thanatos With Nyx 02
+! colspan="2" |Duo - Thanatos and Nyx (2)
 |-
 |'''Thanatos'''
 |"Czy tylko mi się wydaje, Matko, czy w tym Domu ostatnio wszystko gładko idzie? Chociaż wiem, że muszę kusić Trzy Mojry ujmując to w ten sposób."
@@ -1776,7 +1776,7 @@
 |'''Thanatos'''
 |"Cóż... wiedz, że jestem wdzięczny po wsze czasy, Matko. I bardzo cię kocham. Gdzie byśmy teraz byli gdyby nie ty? Doceniam wszystko, co dla nas zrobiłaś, tak jak wszyscy tutaj. Możesz być tego pewna."
 |-
-! colspan="2" |Thanatos Chat With Nyx 01
+! colspan="2" |Duo - Chat and Nyx (1)
 |-
 |'''Nyx'''
 |"...Mamy dla ciebie kolejne zadanie."
@@ -1784,7 +1784,7 @@
 |'''Thanatos'''
 |"Jak sobie życzysz, Matko. Zostanie zatem zrealizowane bezzwłocznie."
 |-
-! colspan="2" |Thanatos Chat With Nyx 03
+! colspan="2" |Duo - Chat and Nyx (3)
 |-
 |'''Nyx'''
 |"...Po raz kolejny potrzebna jest twoja biegłość."
@@ -1792,7 +1792,7 @@
 |'''Thanatos'''
 |"Zatem, dobrze, Matko. Rozpocznę od razu i wkrótce powrócę."
 |-
-! colspan="2" |Dusa With Nyx 01
+! colspan="2" |Duo - Dusa and Nyx (1)
 |-
 |'''Nyx'''
 |"...A potem, Duzo, ponownie wyczyścisz krokwie i porządnie przytniesz krzewy w ogrodach. Następnie przyjdzie czas na zajęcie się kuchniami i pozamiatanie salonu po raz drugi..."
@@ -1800,7 +1800,7 @@
 |'''Dusa'''
 |"T-tak, już się robi!"
 |-
-! colspan="2" |Dusa With Nyx 02
+! colspan="2" |Duo - Dusa and Nyx (2)
 |-
 |'''Nyx'''
 |"...Ostatnia kwestia, Duzo - nie masz prawa zwracać się do Księcia, chyba że to on odezwie się do ciebie pierwszy. Jesteś dla niego niewidzialna. A zatem, rozumiemy się?"
@@ -1808,18 +1808,18 @@
 |'''Dusa'''
 |"Tak, Panno Nyks, rozumiemy się, znaczy... rozumiem. Ja... pójdę już w takim razie."
 |-
-! colspan="2" |Dusa With Nyx 03
+! colspan="2" |Duo - Dusa and Nyx (3)
 |-
 |'''Dusa'''
-|"Panno Nyks, ty...? Czy chcę z powrotem moją posadę, ja... ''ależ'', ja, jak najbardziej! Ta praca jest, jest dla mnie wszystkim, znaczy, pracować z ''tobą''? Jesteś Nocą we własnej osobie! To miejsce, i wy wszyscy, wszystko, to jest takie wspaniałe, a ja - ja tylko... chcę pomóc! Proszę o jeszcze jedną szansę!"
+|"Panno Nyks, ty...? Czy chcę z powrotem moją posadę, ja... *ależ*, ja, jak najbardziej! Ta praca jest, jest dla mnie wszystkim, znaczy, pracować z *tobą*? Jesteś Nocą we własnej osobie! To miejsce, i wy wszyscy, wszystko, to jest takie wspaniałe, a ja - ja tylko... chcę pomóc! Proszę o jeszcze jedną szansę!"
 |-
 |'''Nyx'''
 |"Twoja druga szansa opiera się na pewnych warunkach, Duzo. Jeżeli uznasz, że konieczne jest przedłużenie danego ci na twoje obowiązki czasu, oczekuję, że poprosisz o pozwolenie. Los tego Domu nie spoczywa wyłącznie na tobie. Twoje opanowanie wobec wykonywanej pracy jest tak samo ważne, jak efekt końcowy. A teraz... proszę, żebyś wróciła na swoje stanowisko."
 |-
 |'''Dusa'''
-|"Co, ja, Panno Nyks, masz na myśli... w sensie, zacząć teraz? ''Teraz ''teraz? To znaczy, ja, ja nie mam nic ważnego do zrobienia, więc, tak, ''tak''!! Akceptuję! Jestem tak podekscytowana, że wróciłam! Gdzie w ogóle mam zacząć - mogę sprawdzić salon, pozamiatać pajęczyny, wyjść z Cerberem, sprawdzić spiżarnię, ach, okej, lecę!!"
+|"Co, ja, Panno Nyks, masz na myśli... w sensie, zacząć teraz? *Teraz *teraz? To znaczy, ja, ja nie mam nic ważnego do zrobienia, więc, tak, *tak*!! Akceptuję! Jestem tak podekscytowana, że wróciłam! Gdzie w ogóle mam zacząć - mogę sprawdzić salon, pozamiatać pajęczyny, wyjść z Cerberem, sprawdzić spiżarnię, ach, okej, lecę!!"
 |-
-! colspan="2" |Dusa With Nyx 04
+! colspan="2" |Duo - Dusa and Nyx (4)
 |-
 |'''Nyx'''
 |"...dlatego też, w podzięce za twoją pracowitość i służbę oraz za dokonanie tak pokaźnych postępów... na mocy nadanej mi jako uosobienie Nocy, mianuję cię Głównym Dozorcą Domu Hadesa oraz nadaję ci związane z tym przywileje. Wypełniaj swoje obowiązki z honorem, Duzo."
@@ -1830,7 +1830,7 @@
 |'''Nyx'''
 |"Proszę bardzo. Porządek panujący w tym Domu odzwierciedla całe królestwo. Pojęłaś to i zrozumiałaś, że zdyscyplinowane podejście do pracy jest znacznie lepsze od skrajnego wysiłku. Jednak rozumiesz też, że wysiłek jest ważny."
 |-
-! colspan="2" |Megaera With Nyx 01
+! colspan="2" |Duo - Megaera and Nyx (1)
 |-
 |'''Nyx'''
 |"...Każde z nas ma swoje zobowiązania wobec tego domu, Megajro. Nie masz powodu, by wstydzić się swoich. A dopóki twoje siostry nie wrócą, spoczywają na tobie również ich obowiązki."
@@ -1844,7 +1844,7 @@
 |'''Megaera'''
 |"Wiem. Masz oczywiście rację, masz rację... Zrobię co w mojej mocy. Zrobię co w mojej mocy dla dobra nas obojga, Nyks."
 |-
-! colspan="2" |Megaera With Nyx 02
+! colspan="2" |Duo - Megaera and Nyx (2)
 |-
 |'''Nyx'''
 |"...a zatem, na kim innym można jeszcze polegać...? Jesteś godnym zaufania nadzorcą, Megajro. Twoja posada nie została przyznana przypadkiem i nie ma nikogo, kto nadawałby się na nią lepiej. Nalegam, żebyś to przemyślała. To jak podchodzisz do swojej pracy, ma ogromny wpływ na efekt końcowy."
@@ -1852,7 +1852,7 @@
 |'''Megaera'''
 |"...Dziękuję ci za radę, Nyks. Nie wiem, co bym bez ciebie zrobiła. Albo czym byłby ten Dom, gdyby nie ty."
 |-
-! colspan="2" |Megaera With Nyx 03
+! colspan="2" |Duo - Megaera and Nyx (3)
 |-
 |'''Megaera'''
 |"...Jak możesz mi to robić? Chrzanić twoje Lustro. Stając po jego stronie, stajesz przeciwko mnie...!"
@@ -1866,7 +1866,7 @@
 |'''Nyx'''
 |"Panuj nad swoim tonem, Nadzorco. Jestem matką samych Mojr. Nie działam ze względu na kaprys lub przypadek. Pamiętaj o swojej pozycji i wykonuj swoje zadania. Kiedyś wreszcie wszystko skończy się tak jak powinno. Nie lubię interweniować nie mniej niż ty."
 |-
-! colspan="2" |Megaera With Nyx 04
+! colspan="2" |Duo - Megaera and Nyx (4)
 |-
 |'''Megaera'''
 |"...Nyks, powiedziałabyś mi, gdybym popełniała ogromny czy po prostu duży błąd, czyż nie? Potrzebuję teraz twojego przewodnictwa, może nawet przyzwolenia."
@@ -1877,7 +1877,7 @@
 |'''Megaera'''
 |"Mam nadzieję, że masz rację. Zawsze ją masz, z tym że... chciałabym w tej kwestii mieć twoją pewność."
 |-
-! colspan="2" |Megaera With Nyx 05
+! colspan="2" |Duo - Megaera and Nyx (5)
 |-
 |'''Megaera'''
 |"...Myślę, że już rozumiem, Nyks. Jesteś tu dłużej niż my wszyscy razem wzięci. Widziałaś przez co ten Dom przeszedł. Nawet zanim Lord Hades objął tu władzę. Nigdy nie powinnam była w ciebie wątpić."
@@ -1888,7 +1888,7 @@
 |'''Megaera'''
 |"Będę. Obiecuję, Nyks. I jeżeli kiedykolwiek będzie coś, czego będziesz potrzebować, a co mogę zrobić, cóż... proszę, powiedz mi."
 |-
-! colspan="2" |Megaera With Nyx 06
+! colspan="2" |Duo - Megaera and Nyx (6)
 |-
 |'''Megaera'''
 |"...Im nie da się przemówić do rozsądku, Nyks, wiesz to. Jaki jest dla nas z nich pożytek w tym wszystkim? Tylko pogorszą sprawę."
@@ -1900,9 +1900,9 @@
 |"Obawiam się, że niewiele mogę zrobić. Pokładasz w nie o wiele więcej wiary niż ja."
 |-
 |'''Nyx'''
-|"Pokładam o wiele więcej wiary w ''tobie'', Megajro. Jest wiele uporczywych osobowości, z którymi regularnie się zadajemy. A zatem, robimy to, co jest możliwe."
+|"Pokładam o wiele więcej wiary w *tobie*, Megajro. Jest wiele uporczywych osobowości, z którymi regularnie się zadajemy. A zatem, robimy to, co jest możliwe."
 |-
-! colspan="2" |Persephone With Nyx 01
+! colspan="2" |Duo - Persephone and Nyx (1)
 |-
 |'''Persephone'''
 |"...A zatem, jeżeli jest cokolwiek, co mogę dla ciebie zrobić, Nyks, wystarczy że powiesz, dobrze? Mam zamiar przyłożyć się tutaj do pracy."
@@ -1913,10 +1913,10 @@
 |'''Persephone'''
 |"Dziękuję, moja przyjaciółko. Muszę ci powiedzieć... że dobrze jest wrócić."
 |-
-! colspan="2" |Persephone With Nyx 02
+! colspan="2" |Duo - Persephone and Nyx (2)
 |-
 |'''Persephone'''
-|"...Po prostu nie wiem, jak mogę ci się kiedykolwiek odwdzięczyć. Za wychowanie go. Za ''wszystko''. Kiedy odeszłam... poza starym Cerberem, chyba za tobą tęskniłam najbardziej."
+|"...Po prostu nie wiem, jak mogę ci się kiedykolwiek odwdzięczyć. Za wychowanie go. Za *wszystko*. Kiedy odeszłam... poza starym Cerberem, chyba za tobą tęskniłam najbardziej."
 |-
 |'''Nyx'''
 |"Pamiętam, że czułam się wtedy podobnie. Jednakże jest to całkiem niepotrzebne, abyś dziękowała mi w ten sposób. Jesteś Królową, która bezpiecznie powróciła tam, gdzie jej miejsce. Zrobiłam to, co każdy by zrobił na moim miejscu."

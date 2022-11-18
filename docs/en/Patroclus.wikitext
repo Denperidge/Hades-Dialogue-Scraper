@@ -28,7 +28,7 @@
 |"I'm heading for the surface. Though your brethren are slowing me down. Whether for glory or at my father's behest."
 |-
 |'''Patroclus'''
-|"Your father...? ''Ah'', that's right, but you're the Prince, aren't you. You must see plainly, then, what your birthright amounts to: You're no better off than any of us here. Now, go."
+|"Your father...? *Ah*, that's right, but you're the Prince, aren't you. You must see plainly, then, what your birthright amounts to: You're no better off than any of us here. Now, go."
 |-
 ! colspan="2" |Patroclus Meeting 04
 |-
@@ -201,7 +201,7 @@
 |"I seek one called Achilles. Was rather famous once among the living, but among the dead, who knows. I thought he would be here, but he is not."
 |-
 |'''Zagreus'''
-|"...Achilles... I've heard the name before. And, ''erm'', can I ask why you wish to know of him? In case it happens to come up."
+|"...Achilles... I've heard the name before. And, *erm*, can I ask why you wish to know of him? In case it happens to come up."
 |-
 |'''Patroclus'''
 |"It's just... I simply miss him, stranger. That is all."
@@ -215,7 +215,7 @@
 |"You know Achilles, don't you, sir. You're Patroclus. Achilles... serves us at my home. He trained me. He sends you his regards and love. He says to tell you he is thinking of you always."
 |-
 |'''Patroclus'''
-|"...That name. So then you've seen him, have you. In your father's house. And want me to believe he said all that? ''Tsk''. You'll forgive me if I am a little skeptical. In life, I left Achilles. And in death, he left me. We're even. And we've nothing left to say to one another, now."
+|"...That name. So then you've seen him, have you. In your father's house. And want me to believe he said all that? *Tsk*. You'll forgive me if I am a little skeptical. In life, I left Achilles. And in death, he left me. We're even. And we've nothing left to say to one another, now."
 |-
 |'''Zagreus'''
 |"But, that can't possibly be true. There must be some misunderstanding here. You haven't spoken since you died?"
@@ -232,7 +232,7 @@
 |"Patroclus. I know who you are, sir. And, you know Achilles. He serves us at my home. He trained me. He sends you his regards and love. He says to tell you he is thinking of you always."
 |-
 |'''Patroclus'''
-|"...''Ah''. So then you've seen him, have you. In your father's house. And want me to believe he said all that? ''Tsk''. You'll forgive me if I am a little skeptical. In life, I left Achilles. And in death, he left me. We're even. And we've nothing left to say to one another, now."
+|"...*Ah*. So then you've seen him, have you. In your father's house. And want me to believe he said all that? *Tsk*. You'll forgive me if I am a little skeptical. In life, I left Achilles. And in death, he left me. We're even. And we've nothing left to say to one another, now."
 |-
 |'''Zagreus'''
 |"But, that can't possibly be true. There must be some misunderstanding here. You haven't spoken since you died?"
@@ -291,13 +291,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"He's just as obstinate as ever, isn't he? Always refused to budge. He ever tell you of the war in which we fought? ''I ''fought, I should say. He could have ended it. But he refused to take up arms."
+|"He's just as obstinate as ever, isn't he? Always refused to budge. He ever tell you of the war in which we fought? *I *fought, I should say. He could have ended it. But he refused to take up arms."
 |-
 |'''Zagreus'''
 |"Achilles hasn't been particularly forthcoming about his mortal days, no. So he wouldn't fight? I've heard that mortals sometimes frown on that, but... why should he have fought if he didn't believe in the cause?"
 |-
 |'''Patroclus'''
-|"He ''shared ''our cause! So what if it was not completely his? If not for his stubbornness, I... well... I would have come here just a bit later, I think."
+|"He *shared *our cause! So what if it was not completely his? If not for his stubbornness, I... well... I would have come here just a bit later, I think."
 |-
 |'''Zagreus'''
 |"He blames himself for what happened to you, you know. I figured he failed to defend you or something, not that... he didn't fight at all. Although, he said something about how, once you died, he shortly followed in a rage..."
@@ -320,7 +320,7 @@
 |"You should know, sir. You were buried together. Your ashes, that is. It was his final request. As for how he came to be at my father's house, that's something I think he can best explain. And I will do everything I can to make sure that he has the opportunity."
 |-
 |'''Patroclus'''
-|"...Our ashes, you say. Together? ''Tsk. ''The fool. We could have lived! Not been reduced to meal for the worms. But... I appreciate the information, stranger. Now... please, go."
+|"...Our ashes, you say. Together? *Tsk. *The fool. We could have lived! Not been reduced to meal for the worms. But... I appreciate the information, stranger. Now... please, go."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -331,7 +331,7 @@
 |"No need to even ask forgiveness, sir. Achilles is one of my closest friends, but.. he doesn't care to talk about himself. About those times. It must be very painful. For the both of you."
 |-
 |'''Patroclus'''
-|"Oh, we've all seen our share of pain, by now. But... knowing that he cared for me, in the end... ''after ''the end... it dulls the feeling of it, for a bit. As do these conversations, I guess."
+|"Oh, we've all seen our share of pain, by now. But... knowing that he cared for me, in the end... *after *the end... it dulls the feeling of it, for a bit. As do these conversations, I guess."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -345,12 +345,12 @@
 |"If I know my Achilles, then he's being rather guarded, when it comes to this predicament we're in. How can somebody be so brash yet hate to take unnecessary risks? Just let him know I said to risk it all."
 |-
 |'''Zagreus'''
-|"Risk it all? Risk ''what ''all? He wants what's best for you. He wouldn't want anything to happen."
+|"Risk it all? Risk *what *all? He wants what's best for you. He wouldn't want anything to happen."
 |-
 |'''Patroclus'''
 |"It's already long since happened. I daresay that, right now, provided what you've said is true, then... it appears we've more to gain than lose. Isn't fear for the weak?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"I thought we might run into you, but... how strange to see you face-to-face out here, lad. To see this place myself. I still can't quite believe any of this..."
@@ -364,7 +364,7 @@
 |'''Patroclus'''
 |"Well, no need to get emotional, is there? We myrmidons, we're not the sentimental type. Achilles is simply on break, is all. From a demanding job. You've a demanding job as well, so here! My customary gift."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"Well if it isn't the ward of Achilles, come to visit us. I don't know how I can ever repay you, stranger. I'm quite sure that it isn't possible."
@@ -378,7 +378,7 @@
 |'''Patroclus'''
 |"That I had plans to do, regardless, though... if you should think of something else at any point, please do let either of us know."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Good, there you are, stranger. Settle something for us quickly, hm? Would Achilles not make for the perfect Champion of Elysium? For I think almost anybody would be better than the current one."
@@ -466,7 +466,7 @@
 |"I always wondered, sir. What was Achilles like...? During his youth, I mean. If you can say."
 |-
 |'''Patroclus'''
-|"''Hah''. How to describe what somebody was like? Everyone who saw him on the battlefield agreed he was magnificent, stranger. His allies and his enemies alike. But, there was more to him, I think. A certain outlook. A sense of justice. I knew him before he was a warrior. Only reason I suppose I liked him."
+|"*Hah*. How to describe what somebody was like? Everyone who saw him on the battlefield agreed he was magnificent, stranger. His allies and his enemies alike. But, there was more to him, I think. A certain outlook. A sense of justice. I knew him before he was a warrior. Only reason I suppose I liked him."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -963,7 +963,7 @@
 |"Hey, look, I can tell you're struggling right now, and... maybe this isn't the way to help you through it all, but... I want you to have this."
 |-
 |'''Patroclus'''
-|"''Ahh'', so you are taking pity on me, then? Well, I've no pride like many others here, so I shall take it. Though, let's make it a fair exchange, shall we?"
+|"*Ahh*, so you are taking pity on me, then? Well, I've no pride like many others here, so I shall take it. Though, let's make it a fair exchange, shall we?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -976,7 +976,7 @@
 ! colspan="2" |Patroclus Gift 03
 |-
 |'''Patroclus'''
-|"''Ah'', a means to drown my sorrows temporarily. That's good. And rather kind of you, I have to say."
+|"*Ah*, a means to drown my sorrows temporarily. That's good. And rather kind of you, I have to say."
 |-
 |'''Zagreus'''
 |"It's nothing. Thank you for not trying to slay me where I stand and boast about it, like seemingly everyone else around here."
@@ -1025,7 +1025,7 @@
 |"I don't see that last bottle of Ambrosia anywhere, which I can only take to mean... you need another. Here, sir. Thanks for seeing me through all of this, time after time."
 |-
 |'''Patroclus'''
-|"You're thanking ''me'', stranger? I've been here for some time, I think, and yet... some of your customs I'll admit remain quite strange to me. You've done more for me than I've any right to expect, from anyone."
+|"You're thanking *me*, stranger? I've been here for some time, I think, and yet... some of your customs I'll admit remain quite strange to me. You've done more for me than I've any right to expect, from anyone."
 |-
 |'''Zagreus'''
 |"It's just a bottle of Ambrosia, sir, it's really no big deal. OK, fine, it's rather difficult to come by, but still!"

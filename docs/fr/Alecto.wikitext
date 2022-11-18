@@ -9,13 +9,13 @@
 |"Mégère, Tis, vous êtes prêtes ?"
 |-
 |'''Tisiphone'''
-|"''Mmeurtrrrier ''!"
+|"*Mmeurtrrrier *!"
 |-
 |'''Zagreus'''
 |"Trois contre un. Tu ne trouves pas que ce n'est pas très fair-play ?"
 |-
 |'''Megaera'''
-|"Nous ne sommes plus là pour jouer. Nous te tuerons, coûte que coûte. Érinyes ! ''Maintenant''."
+|"Nous ne sommes plus là pour jouer. Nous te tuerons, coûte que coûte. Érinyes ! *Maintenant*."
 |-
 ! colspan="2" |Fury Sister Union Single Sis 01
 |-
@@ -23,7 +23,7 @@
 |"Tu vois, Alecto ? Il est à l'heure, comme je l'avais dit."
 |-
 |'''Alecto'''
-|"Vas-y, Mégère, ''saigne-le ''!"
+|"Vas-y, Mégère, *saigne-le *!"
 |-
 ! colspan="2" |Fury 2 Sister Union 01
 |-
@@ -35,18 +35,18 @@
 |'''Alecto'''
 |"Regarde, sœurette ! Le dieu des raclures est là. Mettons-nous au boulot."
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 01
+! colspan="2" |Duo - Union and Meg (1)
 |-
 |'''Alecto'''
-|"''Eugh'', non mais ''regarde-le ''! Cet air suffisant, cette posture, ''tout ''! Pitié, me dis pas que tu craques pour cette raclure, sœurette."
+|"*Eugh*, non mais *regarde-le *! Cet air suffisant, cette posture, *tout *! Pitié, me dis pas que tu craques pour cette raclure, sœurette."
 |-
 |'''Megaera'''
 |"Je t'en prie, Alecto. À quand remonte la dernière fois où nous avons eu besoin de l'approbation de l'autre ? Et puis, tant qu'on le tue, qu'est-ce que ça peut te faire ?"
 |-
 |'''Alecto'''
-|"Tu sais quoi, t'as bien raison, sœurette ! J'aurais pas dit mieux. ''Alors, tuons-le, maintenant ''!"
+|"Tu sais quoi, t'as bien raison, sœurette ! J'aurais pas dit mieux. *Alors, tuons-le, maintenant *!"
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 02
+! colspan="2" |Duo - Union and Meg (2)
 |-
 |'''Alecto'''
 |"Regarde-moi l'autre minable qui revient se faire vider de son sang sur notre joli carrelage. Prêt à affronter ma sœur, saigneur ?"
@@ -55,7 +55,7 @@
 |"Il n'est pas si minable que ça quand on le connaît, tu sais. Encore que ça importe peu vu ce qu'on va lui faire."
 |-
 |'''Alecto'''
-|"Beurk, tu me dégoûtes ! Tous les deux, vous me dégoûtez ! Meg, reprends-toi et ''tue-le '' cette fois, bon sang !"
+|"Beurk, tu me dégoûtes ! Tous les deux, vous me dégoûtez ! Meg, reprends-toi et *tue-le * cette fois, bon sang !"
 |-
 ! colspan="2" |Fury 2 Pact Reaction 01
 |-
@@ -66,23 +66,23 @@
 |"Eh bien, oui, en effet. Mais j'ai du mal à voir en quoi ce sont tes affaires, Alecto."
 |-
 |'''Alecto'''
-|"J'aime bosser ''seule ''! J'ai l'air d'être seule, là, d'après toi ? Alors ouais, je dirais que ce sont mes affaires. Tout comme ''te tuer ''!"
+|"J'aime bosser *seule *! J'ai l'air d'être seule, là, d'après toi ? Alors ouais, je dirais que ce sont mes affaires. Tout comme *te tuer *!"
 |-
 ! colspan="2" |Fury 2 Pact Disabled Reaction 01
 |-
 |'''Alecto'''
-|"''Pfiou'', j'ai cru que j'allais plus jamais être tranquille. Ce fichu Pacte que t'as signé qui m'oblige à rebosser avec mes sœurs... tu vas me le payer, saigneur !"
+|"*Pfiou*, j'ai cru que j'allais plus jamais être tranquille. Ce fichu Pacte que t'as signé qui m'oblige à rebosser avec mes sœurs... tu vas me le payer, saigneur !"
 |-
 |'''Zagreus'''
 |"Je commence à avoir l'impression qu'il ne t'en faut vraiment pas beaucoup pour avoir envie de me faire payer quelque chose. Je me trompe ?"
 |-
 |'''Alecto'''
-|"Alors ça, c'est la meilleure ! Ça, pour être drôle, t'es ''drôle ''! Tu sais quoi ? Tu vas payer pour ça aussi."
+|"Alors ça, c'est la meilleure ! Ça, pour être drôle, t'es *drôle *! Tu sais quoi ? Tu vas payer pour ça aussi."
 |-
 ! colspan="2" |Fury 2 First Appearance
 |-
 |'''Alecto'''
-|"''Ah, hah hah, hohohohohhh. ''Enfin. J’en pouvais plus d'attendre ! Vraiment."
+|"*Ah, hah hah, hohohohohhh. *Enfin. J’en pouvais plus d'attendre ! Vraiment."
 |-
 |'''Zagreus'''
 |"Tu dois être l’une des charmantes sœurs de Mégère. Je ne crois pas que nous avons été présentés. Qu'est-ce que tu attendais, exactement ?"
@@ -116,7 +116,7 @@
 |"Parce que j'ai tellement pris goût à nos rencontres, Alecto, que je me fais un devoir de toujours revenir. C'est important de cultiver ses bonnes habitudes !"
 |-
 |'''Alecto'''
-|"Tu appelles ça une bonne habitude, hein ? Pour moi, oui. Alors, viens ici autant que tu veux, je t'attendrai ''à chaque fois''. Ou une fois sur trois, du moins."
+|"Tu appelles ça une bonne habitude, hein ? Pour moi, oui. Alors, viens ici autant que tu veux, je t'attendrai *à chaque fois*. Ou une fois sur trois, du moins."
 |-
 ! colspan="2" |Fury 2 Post Epilogue 01
 |-
@@ -127,23 +127,23 @@
 |"Tout le plaisir sera pour moi, Alecto. Nous avons vraiment regretté que tu ne soies pas là !"
 |-
 |'''Alecto'''
-|"''Oh oh oh'', je n'en doute pas. Mais je fais toujours passer le travail avant le reste ! Alors, à nous deux."
+|"*Oh oh oh*, je n'en doute pas. Mais je fais toujours passer le travail avant le reste ! Alors, à nous deux."
 |-
 ! colspan="2" |Fury 2 End Of Discussion 01
 |-
 |'''Alecto'''
-|"Hé, saigneur. J'ai pas mal réfléchi, et j'en suis venue à la conclusion que je veux plus ''jamais '' que tu m'adresses la parole. ''Jamais''. Compris ?"
+|"Hé, saigneur. J'ai pas mal réfléchi, et j'en suis venue à la conclusion que je veux plus *jamais * que tu m'adresses la parole. *Jamais*. Compris ?"
 |-
 |'''Zagreus'''
-|"...''Ahem'', j'ignore comment répondre sans immédiatement désobéir à ton ordre, Alecto, mais d'accord. Alors à défaut de parler, je mordrai."
+|"...*Ahem*, j'ignore comment répondre sans immédiatement désobéir à ton ordre, Alecto, mais d'accord. Alors à défaut de parler, je mordrai."
 |-
 |'''Alecto'''
-|"Tu vas ''crever ''! Je vois pas l'intérêt de bavarder alors qu'on pourrait tout simplement s'entretuer sur-le-champ. Allez, viens !"
+|"Tu vas *crever *! Je vois pas l'intérêt de bavarder alors qu'on pourrait tout simplement s'entretuer sur-le-champ. Allez, viens !"
 |-
 ! colspan="2" |Fury 2 Low Health 01
 |-
 |'''Alecto'''
-|"''Ohh'', regarde-toi, saigneur. T'es déjà presque mort ! C'est vraiment pas drôle."
+|"*Ohh*, regarde-toi, saigneur. T'es déjà presque mort ! C'est vraiment pas drôle."
 |-
 |'''Zagreus'''
 |"Désolé de te décevoir, Alecto. Je sais que tu préfères être celle qui fait couler l'intégralité de mon sang."
@@ -171,7 +171,7 @@
 |"J’ai eu quelques contretemps, si tu veux tout savoir. Mais ne t'inquiète pas, je suis sûr qu’il m’en reste encore beaucoup à verser."
 |-
 |'''Alecto'''
-|"Oh ''pfiou'', tu me rassures ! J’avais tellement peur de pas être celle qui aurait ta peau cette fois."
+|"Oh *pfiou*, tu me rassures ! J’avais tellement peur de pas être celle qui aurait ta peau cette fois."
 |-
 ! colspan="2" |Fury 2 Low Health 04
 |-
@@ -192,12 +192,12 @@
 |"Tu as l'air de m'avoir bien cerné. Et moi qui pensais qu’on avait encore beaucoup à apprendre l’un de l’autre."
 |-
 |'''Alecto'''
-|"''Tch''. Très bien. Tu veux savoir ce que je veux ? Tiens, je vais te montrer."
+|"*Tch*. Très bien. Tu veux savoir ce que je veux ? Tiens, je vais te montrer."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 02
 |-
 |'''Alecto'''
-|"Tu sais ce que j'aime chez toi ? La façon dont tu saignes. ''Mmm''."
+|"Tu sais ce que j'aime chez toi ? La façon dont tu saignes. *Mmm*."
 |-
 |'''Zagreus'''
 |"C'est... plutôt original, comme compliment. J'aimerais que tu saches que tu me mets un peu mal à l’aise, là."
@@ -214,7 +214,7 @@
 |"Eh bien, moi je dis que je n’apprécie pas que tu m'appelles « saigneur ». Tu commences vraiment à me faire complexer, tu sais."
 |-
 |'''Alecto'''
-|"''Oh, hoho'', t'es drôle. Mais tu finiras par craquer. Comme tous les autres."
+|"*Oh, hoho*, t'es drôle. Mais tu finiras par craquer. Comme tous les autres."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 04
 |-
@@ -225,7 +225,7 @@
 |"Attends, Meg ne te l'a jamais dit ? Et moi qui pensais que vous étiez proches."
 |-
 |'''Alecto'''
-|"''Ehh'', je finirai bien par trouver. J’ai encore plein d’idées à mettre en pratique."
+|"*Ehh*, je finirai bien par trouver. J’ai encore plein d’idées à mettre en pratique."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 05
 |-
@@ -241,13 +241,13 @@
 ! colspan="2" |Fury 2 Misc Encounter 06
 |-
 |'''Alecto'''
-|"''Hah ''! Tu dois vraiment aimer souffrir, saigneur. Ou peut-être que c’est juste moi."
+|"*Hah *! Tu dois vraiment aimer souffrir, saigneur. Ou peut-être que c’est juste moi."
 |-
 |'''Zagreus'''
 |"Tu vois, Alecto ? On dirait qu'on a quelque chose en commun, finalement."
 |-
 |'''Alecto'''
-|"Je rêve ou tu viens de...? Ne te compare plus ''jamais ''à moi, sale raclure. Tu veux souffrir encore plus ? Je serais ravie de rendre service."
+|"Je rêve ou tu viens de...? Ne te compare plus *jamais *à moi, sale raclure. Tu veux souffrir encore plus ? Je serais ravie de rendre service."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 07
 |-
@@ -274,18 +274,18 @@
 ! colspan="2" |Fury 2 Misc Encounter 09
 |-
 |'''Alecto'''
-|"Tu sais, saigneur, il est rare que mes clients viennent jusqu'à ''moi'', et encore plus qu'ils reviennent sans cesse ! Tu croies que je t'attends avec du thé et des petits gâteaux ?"
+|"Tu sais, saigneur, il est rare que mes clients viennent jusqu'à *moi*, et encore plus qu'ils reviennent sans cesse ! Tu croies que je t'attends avec du thé et des petits gâteaux ?"
 |-
 |'''Zagreus'''
 |"Alecto, je ne viens que pour ton beau sourire menaçant. Et puis, ça me change d'avoir à me battre éternellement contre Meg."
 |-
 |'''Alecto'''
-|"''Quoii ''?! Tu trouves qu'avoir affaire à ''moi ''est mieux qu'avoir affaire à cette ''mauviette ''? ''Graaaah '' !"
+|"*Quoii *?! Tu trouves qu'avoir affaire à *moi *est mieux qu'avoir affaire à cette *mauviette *? *Graaaah * !"
 |-
 ! colspan="2" |Fury 2 Misc Encounter 10
 |-
 |'''Alecto'''
-|"Combien de fois faudra y passer, saigneur ? ''Combien de fois ''?! Comment tu peux supporter de tomber sur moi, encore et encore ?"
+|"Combien de fois faudra y passer, saigneur ? *Combien de fois *?! Comment tu peux supporter de tomber sur moi, encore et encore ?"
 |-
 |'''Zagreus'''
 |"Eh bien, disons qu'il peut être difficile de se débarrasser de ses habitudes. Quant au nombre exact, je n'en ai vraiment aucune idée. Mais j'imagine qu'il y a un moyen de le savoir."
@@ -307,13 +307,13 @@
 ! colspan="2" |Fury 2 About Megaera Relationship 01
 |-
 |'''Alecto'''
-|"''Urgh'', j'arrive toujours pas à croire que Mégère a craqué pour toi, saigneur. Je savais qu'elle était faible, mais je croyais qu'elle prenait au moins son boulot au sérieux. ''Eh'', comme quoi, faut jurer de rien !"
+|"*Urgh*, j'arrive toujours pas à croire que Mégère a craqué pour toi, saigneur. Je savais qu'elle était faible, mais je croyais qu'elle prenait au moins son boulot au sérieux. *Eh*, comme quoi, faut jurer de rien !"
 |-
 |'''Zagreus'''
 |"Je n'ai pas fait tout ce chemin jusqu'ici pour écouter tes remarques désobligeantes sur elle, Alecto. Je te préviens, si tu continues, je risque de me fâcher."
 |-
 |'''Alecto'''
-|"''Ohh'', tu risques de te ''fâcher ''? Tu veux défendre l'honneur de Mégère parce qu'elle est bien trop faible pour le faire elle-même, c'est ça ? Tu crois qu'elle est si pure et innocente, ''hahaha '' ! Tous les deux, vous me dégoûtez !"
+|"*Ohh*, tu risques de te *fâcher *? Tu veux défendre l'honneur de Mégère parce qu'elle est bien trop faible pour le faire elle-même, c'est ça ? Tu crois qu'elle est si pure et innocente, *hahaha * ! Tous les deux, vous me dégoûtez !"
 |-
 ! colspan="2" |Fury 2 Win Streak 01
 |-
@@ -329,13 +329,13 @@
 ! colspan="2" |Fury 2 Win Streak 02
 |-
 |'''Alecto'''
-|"''Oh ''! D'habitude, mes victimes cherchent pas à me revoir une fois que j'en ai fini avec elles."
+|"*Oh *! D'habitude, mes victimes cherchent pas à me revoir une fois que j'en ai fini avec elles."
 |-
 |'''Zagreus'''
 |"Je peux les comprendre... mais c’est juste que je commence sincèrement à apprécier nos petits échanges."
 |-
 |'''Alecto'''
-|"''Urgh'', j'ai vraiment horreur de te faire de la peine comme ça, saigneur, mais t'es pas mon genre. Peut-être que je vais enfin réussir à te faire rentrer ça dans le crâne cette fois."
+|"*Urgh*, j'ai vraiment horreur de te faire de la peine comme ça, saigneur, mais t'es pas mon genre. Peut-être que je vais enfin réussir à te faire rentrer ça dans le crâne cette fois."
 |-
 ! colspan="2" |Fury 2 Lose Streak 01
 |-
@@ -346,7 +346,7 @@
 |"Pardonner peut prendre du temps. Cela dit, l’introspection est un bon début. On progresse !"
 |-
 |'''Alecto'''
-|"Tu crois qu'on progresse, là ? ''Ah, hah, ha-hah, ha-hah, ha-hah, ''sale petite raclure ! Je vais t'en montrer, du progrès."
+|"Tu crois qu'on progresse, là ? *Ah, hah, ha-hah, ha-hah, ha-hah, *sale petite raclure ! Je vais t'en montrer, du progrès."
 |-
 ! colspan="2" |Fury 2 Lose Streak 02
 |-
@@ -357,23 +357,23 @@
 |"Tu ne t'es jamais dit que tu pouvais juste... me laisser tranquille, et retourner d'où tu viens ?"
 |-
 |'''Alecto'''
-|"Tu vois ? C’est ''exactement ''ce que je veux dire. Quand je pense que Mégère a dû te supporter pendant... je sais même pas combien de temps."
+|"Tu vois ? C’est *exactement *ce que je veux dire. Quand je pense que Mégère a dû te supporter pendant... je sais même pas combien de temps."
 |-
 ! colspan="2" |Fury 2 Lose Streak 03
 |-
 |'''Alecto'''
-|"Sois maudit, saigneur. T'es en train de ruiner ma réputation là, tu sais ? Et ''ça'', ça me fait mal."
+|"Sois maudit, saigneur. T'es en train de ruiner ma réputation là, tu sais ? Et *ça*, ça me fait mal."
 |-
 |'''Zagreus'''
 |"Je ne t'ai jamais demandé d'essayer sans arrêt de me tuer, Alecto. Franchement, qu'est-ce que tu voulais que je fasse ?"
 |-
 |'''Alecto'''
-|"''Ah-hahah-hahaha, hahah'', tu sais ce qui se passe quand on ''me '' fait mal, hein...?"
+|"*Ah-hahah-hahaha, hahah*, tu sais ce qui se passe quand on *me * fait mal, hein...?"
 |-
 ! colspan="2" |Fury 2 Lose Streak 04
 |-
 |'''Alecto'''
-|"''Huh'', c'est encore le dieu des raclures qui vient souiller cet endroit de sa présence ! Tu deviens vraiment prévisible, tu sais."
+|"*Huh*, c'est encore le dieu des raclures qui vient souiller cet endroit de sa présence ! Tu deviens vraiment prévisible, tu sais."
 |-
 |'''Zagreus'''
 |"Étant donné que je t'ai battue à notre dernière rencontre, je m'inquiéterais plus de ta prévisibilité que de la mienne."
@@ -384,7 +384,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 01
 |-
 |'''Alecto'''
-|"''Ohh'', le voilà, mes sœurs. Il est temps de se mettre au travail."
+|"*Ohh*, le voilà, mes sœurs. Il est temps de se mettre au travail."
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 03
 |-
@@ -414,7 +414,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 08
 |-
 |'''Alecto'''
-|"Toutes les trois contre ce ''minable'', mes sœurs ? Très bien !"
+|"Toutes les trois contre ce *minable*, mes sœurs ? Très bien !"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 09
 |-
@@ -422,7 +422,7 @@
 |"Les trois Érinyes contre le dieu des raclures ! Quel combat !"
 |-
 |'''Alecto'''
-|"Oh, ''oh oh oh'', regardez-le, mes sœurs ! Vous n'avez pas envie de le mettre en charpie ?"
+|"Oh, *oh oh oh*, regardez-le, mes sœurs ! Vous n'avez pas envie de le mettre en charpie ?"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 10
 |-
@@ -582,7 +582,7 @@
 ! colspan="2" |Fury 2 Misc Start Vs Fury Lose Streak 04
 |-
 |'''Alecto'''
-|"''Hah ''! C'est la raclure favorite de Mégère. Il va falloir nettoyer tout ça."
+|"*Hah *! C'est la raclure favorite de Mégère. Il va falloir nettoyer tout ça."
 |-
 ! colspan="2" |Fury 2 Misc Start Vs Fury 3 Lose Streak 01
 |-
@@ -647,7 +647,7 @@
 ! colspan="2" |Fury 2 Misc Start 09
 |-
 |'''Alecto'''
-|"''Oooh'', tu as refait tout ce chemin pour me voir ! Je suis flattée, saigneur."
+|"*Oooh*, tu as refait tout ce chemin pour me voir ! Je suis flattée, saigneur."
 |-
 ! colspan="2" |Fury 2 Misc Start 10
 |-
@@ -697,7 +697,7 @@
 ! colspan="2" |Fury 2 Misc Start 18
 |-
 |'''Alecto'''
-|"Je connais quelqu'un qui va pas tarder à mourir, saigneur ! ''Ohh'', j'ai hâte."
+|"Je connais quelqu'un qui va pas tarder à mourir, saigneur ! *Ohh*, j'ai hâte."
 |-
 ! colspan="2" |Fury 2 Misc Start 19
 |-
@@ -717,22 +717,22 @@
 ! colspan="2" |Fury 2 Misc Start 22
 |-
 |'''Alecto'''
-|"Qu'est-ce qui se passe, saigneur ? On ne t'entend plus. Je ne t'ai pas vexé, ''j'espère '' ?"
+|"Qu'est-ce qui se passe, saigneur ? On ne t'entend plus. Je ne t'ai pas vexé, *j'espère * ?"
 |-
 ! colspan="2" |Fury 2 Misc Start 23
 |-
 |'''Alecto'''
-|"''Ohh'', je vais te saigner jusqu'à la dernière goutte."
+|"*Ohh*, je vais te saigner jusqu'à la dernière goutte."
 |-
 ! colspan="2" |Fury 2 Misc Start 24
 |-
 |'''Alecto'''
-|"Tu reviens ''encore ''me défier, saigneur ? Eh bien, ''allons-y ''!"
+|"Tu reviens *encore *me défier, saigneur ? Eh bien, *allons-y *!"
 |-
 ! colspan="2" |Fury 2 Misc Start 25
 |-
 |'''Alecto'''
-|"Comment ça se fait que je te déteste autant, mais que je prenne toujours autant de plaisir à te ''tuer'', saigneur ?"
+|"Comment ça se fait que je te déteste autant, mais que je prenne toujours autant de plaisir à te *tuer*, saigneur ?"
 |-
 ! colspan="2" |Fury 2 Misc Start 26
 |-
@@ -767,7 +767,7 @@
 ! colspan="2" |Fury 2 Misc Start 30
 |-
 |'''Alecto'''
-|"J'en ai vraiment marre d'attendre, là, alors réglons ça ''vite fait'', saigneur !"
+|"J'en ai vraiment marre d'attendre, là, alors réglons ça *vite fait*, saigneur !"
 |-
 ! colspan="2" |Fury 2 Misc Start 31
 |-
@@ -782,7 +782,7 @@
 ! colspan="2" |Fury 2 Misc Start 33
 |-
 |'''Alecto'''
-|"''Ohh'', je sens qu'on va bien s'amuser tous les deux, saigneur !"
+|"*Ohh*, je sens qu'on va bien s'amuser tous les deux, saigneur !"
 |-
 ! colspan="2" |Fury 2 Misc Start 34
 |-

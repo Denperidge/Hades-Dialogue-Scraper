@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Megaera With Sisyphus 01
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Megaera'''
 |"...Se lo aiuti di nuovo, ci saranno mille frustate ad attenderti al nostro prossimo incontro. E quando farò ritorno, sarà meglio che questo sassolino sia là in cima, non qui. O saranno altre mille."
@@ -8,7 +8,7 @@
 |'''Sisyphus'''
 |"Ottimo, ottimo, signora, più che giusto davvero, la considero una promessa! Ci vediamo in giro!"
 |-
-! colspan="2" |Megaera With Sisyphus 02
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Megaera'''
 |"...E dedicati al tuo masso se ci tieni alla pelle, imbroglione che non sei altro. Non pensare che non ti stia guardando."
@@ -16,15 +16,15 @@
 |'''Sisyphus'''
 |"Apprezzo la sua vigilanza, signora, e stia pur certa che Pietro sarà in cima a questa collina in men che non si dica, sebbene l'impresa non mi sia finora mai riuscita!"
 |-
-! colspan="2" |Megaera With Sisyphus 03
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Megaera'''
 |"...E quando questa faccenda col principe sarà risolta, le cose torneranno esattamente com'erano. Fino ad allora, sarà meglio che io veda il tuo masso in cima a quella collina con regolarità."
 |-
 |'''Sisyphus'''
-|"Tutto perfettamente sensato, signora, e stia pur certa che spingerò Pietro, ''ehm'', voglio dire, questo masso qui, con regolarità, sempre avanti, come al solito! E ora, arrivederci!"
+|"Tutto perfettamente sensato, signora, e stia pur certa che spingerò Pietro, *ehm*, voglio dire, questo masso qui, con regolarità, sempre avanti, come al solito! E ora, arrivederci!"
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"...E, da ultimo, ti è categoricamente proibito offrire ulteriore aiuto al principe Zagreus. Sono stato abbastanza chiaro?"
@@ -35,7 +35,7 @@
 |'''Thanatos'''
 |"Basta così! Torna al lavoro, e io farò altrettanto."
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Afferrato, padron Thanatos, farò certamente come dice lei. Niente più aiuti al principe Zagreus, seriamente, potessi morire."
@@ -43,7 +43,7 @@
 |'''Thanatos'''
 |"Bene. Se ti beccassero di nuovo a mentire, ne andrebbe della tua testa e della mia. Vedi di fare in modo che non accada."
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"...Faresti bene a darmi ascolto questa volta, e a temere le conseguenze dei tuoi raggiri. La Morte può essere alquanto sgradevole, come ben sai."
@@ -85,7 +85,7 @@
 |"Voglio essere sincero con te, Sisifo: sto lasciando la Dimora. Ne ho avuto abbastanza, sono certo che capisci. Sono diretto in superficie."
 |-
 |'''Sisyphus'''
-|"''Fiuu'', questa sì che è un'impresa, Altezza. A dirla tutta, se parlassimo di qualcun altro la definirei una follia, ma... forse tu sei folle al punto giusto da riuscirci! Be', che dire? Ti auguro di farcela. Buona fortuna là fuori!"
+|"*Fiuu*, questa sì che è un'impresa, Altezza. A dirla tutta, se parlassimo di qualcun altro la definirei una follia, ma... forse tu sei folle al punto giusto da riuscirci! Be', che dire? Ti auguro di farcela. Buona fortuna là fuori!"
 |-
 ! colspan="2" |Sisyphus Meeting 03
 |-
@@ -107,7 +107,7 @@
 |"Sisifo, non vorrei che la prendessi a male, ma... perché hai deciso di aiutarmi? Mio padre ti ha schiaffato qui in preda ai tormenti per l'eternità, eppure tu mi saluti ogni volta col sorriso."
 |-
 |'''Sisyphus'''
-|"''Hah''! Ma dai, principe Z... sono fatto così, ecco tutto! E poi, tu non sei tuo padre, sia lode agli dèi! Mi sei sempre sembrato un bravo ragazzo. E se dici che vuoi uscire di qui, be', diciamo che posso capirti, ecco."
+|"*Hah*! Ma dai, principe Z... sono fatto così, ecco tutto! E poi, tu non sei tuo padre, sia lode agli dèi! Mi sei sempre sembrato un bravo ragazzo. E se dici che vuoi uscire di qui, be', diciamo che posso capirti, ecco."
 |-
 ! colspan="2" |Sisyphus Meeting About Fury 01
 |-
@@ -150,7 +150,7 @@
 |"Sai, Sisifo... a volte provo un po' di invidia per te e Pietro. Mi sembra che abbiate le idee chiare su quale sia il vostro posto nel mondo. Io, invece, mi complico sempre le cose da solo e poi non so a chi rivolgermi perché me ne tiri fuori."
 |-
 |'''Sisyphus'''
-|"Oh, ''hah''! È solo un brutto periodo, Altezza. Lo supererai, vedrai! E per quanto riguarda Pietro, be', non esitare a rivolgerti a lui, se credi! Io ho scaricato su di lui tutti i miei problemi un bel po' di tempo fa."
+|"Oh, *hah*! È solo un brutto periodo, Altezza. Lo supererai, vedrai! E per quanto riguarda Pietro, be', non esitare a rivolgerti a lui, se credi! Io ho scaricato su di lui tutti i miei problemi un bel po' di tempo fa."
 |-
 |'''Zagreus'''
 |"Dici che posso semplicemente... andare da lui e parlargli? Tutto qui?"
@@ -177,13 +177,13 @@
 ! colspan="2" |Sisyphus About Bouldy 04
 |-
 |'''Sisyphus'''
-|"Ehi, Altezza, ah... come dire... sai che Pietro è solo un normalissimo masso con qualche linea scolpita a mo' di faccia, vero? Non è una ''persona'', ecco. Solo perché tu non ti faccia idee sbagliate..."
+|"Ehi, Altezza, ah... come dire... sai che Pietro è solo un normalissimo masso con qualche linea scolpita a mo' di faccia, vero? Non è una *persona*, ecco. Solo perché tu non ti faccia idee sbagliate..."
 |-
 |'''Zagreus'''
 |"Suvvia, signore, sappiamo entrambi che Pietro è molto più che un semplice masso. Davvero pensi che io possa dubitare del suo potere, dopo che ne abbiamo passate tante insieme?"
 |-
 |'''Sisyphus'''
-|"''Ahahahah''! No, stavo solo facendo uno scherzo a Pietro, infatti. Guarda che faccia! Mi mette subito il muso, quando gli do del vecchio sasso! Ma poi mi risponde dandomi del vecchio poltrone, e per un po' siamo pari."
+|"*Ahahahah*! No, stavo solo facendo uno scherzo a Pietro, infatti. Guarda che faccia! Mi mette subito il muso, quando gli do del vecchio sasso! Ma poi mi risponde dandomi del vecchio poltrone, e per un po' siamo pari."
 |-
 ! colspan="2" |Sisyphus About Alecto 01
 |-
@@ -235,7 +235,7 @@
 |"La cosa potrebbe sorprenderti, Maestà, ma anch'io ho sangue reale. Non al tuo livello, beninteso, ma ero un sovrano a tutti gli effetti. Anche se, a essere onesti... non ero un granché, come re o come uomo."
 |-
 |'''Zagreus'''
-|"''Oh''! Mi sembrava di aver avvertito della regalità, in te! Anche se non riesco a immaginarti se non come un gentiluomo, così come ti conosco ora, amico mio."
+|"*Oh*! Mi sembrava di aver avvertito della regalità, in te! Anche se non riesco a immaginarti se non come un gentiluomo, così come ti conosco ora, amico mio."
 |-
 |'''Sisyphus'''
 |"Sei tremendamente gentile a dire così, ma temo che la mia punizione quaggiù non sia ingiustificata. Se non altro, ho avuto tempo in abbondanza per riflettere sulle mie malefatte!"
@@ -243,10 +243,10 @@
 ! colspan="2" |Sisyphus Backstory 03
 |-
 |'''Zagreus'''
-|"''Ehm'', Sisifo, ti secca se ti chiedo che cosa facesti in vita per meritare un tale castigo quaggiù? Insomma, spingere un masso per l'eternità e tutto il resto. Non ho mai sentito la tua versione dei fatti."
+|"*Ehm*, Sisifo, ti secca se ti chiedo che cosa facesti in vita per meritare un tale castigo quaggiù? Insomma, spingere un masso per l'eternità e tutto il resto. Non ho mai sentito la tua versione dei fatti."
 |-
 |'''Sisyphus'''
-|"Be', è una lunga storia, Altezza. La mia ora era giunta, ma io non mi sentivo pronto, se capisci cosa intendo. Tuo padre pensava di avermi in pugno, ma poi, ''vum''! Sono fuggito. Il suo tirapiedi, Thanatos, può confermarti tutto."
+|"Be', è una lunga storia, Altezza. La mia ora era giunta, ma io non mi sentivo pronto, se capisci cosa intendo. Tuo padre pensava di avermi in pugno, ma poi, *vum*! Sono fuggito. Il suo tirapiedi, Thanatos, può confermarti tutto."
 |-
 |'''Zagreus'''
 |"Superare in astuzia Thanatos... che roba! E che cosa accadde, poi?"
@@ -274,7 +274,7 @@
 |"Devo dire, Sisifo, che a volte mi piacerebbe saperne di più, sul tuo passato. Sarai stato un re davvero eccelso, immagino."
 |-
 |'''Sisyphus'''
-|"Be'... ''ah-hah'', il fatto è che non lo fui per niente, Altezza. E non lo dico per fare il modesto, va bene? Tutta acqua sotto i ponti, comunque. E gradirei non rivangare."
+|"Be'... *ah-hah*, il fatto è che non lo fui per niente, Altezza. E non lo dico per fare il modesto, va bene? Tutta acqua sotto i ponti, comunque. E gradirei non rivangare."
 |-
 |'''Zagreus'''
 |"Ricevuto, signore. Ma, qualsiasi cosa tu abbia fatto da mortale... hai già pagato abbastanza, ne sono certo. Però... un momento, è per questo che sei rimasto qui nel Tartaro? Credi di meritare tutto questo?"
@@ -476,7 +476,7 @@
 ! colspan="2" |Sisyphus Post Ending 01
 |-
 |'''Sisyphus'''
-|"E così, Altezza, per tutto questo tempo, ogni volta che ti arrampicavi in superficie... era per cercare ''lei'', è così? La regina?"
+|"E così, Altezza, per tutto questo tempo, ogni volta che ti arrampicavi in superficie... era per cercare *lei*, è così? La regina?"
 |-
 |'''Zagreus'''
 |"Esatto. Però, detto, tra noi, Sisifo... è importante che questo rimanga un secreto, per favore. Per caso, tu l'hai mai... incontrata di persona?"
@@ -501,7 +501,7 @@
 |"C'è solo una cosa che non capisco, se hai un minuto da dedicarmi, Altezza: se ora è tutto a posto, giù alla Dimora, allora... perché continui ad arrampicarti fino in superficie, ancora adesso?"
 |-
 |'''Zagreus'''
-|"Oh, sai com'è: non vorrei che mio padre si adagiasse troppo sugli allori, credendo che questo posto sia a prova d'evasione. Abbiamo una tremenda nomea da mantenere! ''Non c'è via di fuga''."
+|"Oh, sai com'è: non vorrei che mio padre si adagiasse troppo sugli allori, credendo che questo posto sia a prova d'evasione. Abbiamo una tremenda nomea da mantenere! *Non c'è via di fuga*."
 |-
 |'''Sisyphus'''
 |"Ah, mi pare sensato! Be', da un certo punto di vista. Fuggire ancora e ancora per dimostrare che non si può fuggire! Mi piace. Quand'è così, continuiamo entrambi a dare il massimo!"
@@ -509,7 +509,7 @@
 ! colspan="2" |Sisyphus Post Epilogue 03
 |-
 |'''Sisyphus'''
-|"Non stai lavorando ''troppo ''sodo di recente, vero, principe Z? Ricorda di fare una pausetta, di quando in quando!"
+|"Non stai lavorando *troppo *sodo di recente, vero, principe Z? Ricorda di fare una pausetta, di quando in quando!"
 |-
 |'''Zagreus'''
 |"Penso di cavarmela per ora, grazie. Anche se, all'epoca in cui Pietro era il tuo strumento di tortura, anziché un amico... non penso tu avessi molta scelta, no?"
@@ -537,7 +537,7 @@
 |"Grazie, signore. Mi è molto d'aiuto nelle mie traversate del regno, il che è proprio quel che ci vuole. Sicuro di non volerla indietro?"
 |-
 |'''Sisyphus'''
-|"''Ahahah''! Assolutamente no, anche se apprezzo il pensiero. Preferisco di gran lunga fissare la vecchia roccia, qui, anziché un memento del mio arrivo quaggiù, di cui non ho davvero ricordi gradevoli."
+|"*Ahahah*! Assolutamente no, anche se apprezzo il pensiero. Preferisco di gran lunga fissare la vecchia roccia, qui, anziché un memento del mio arrivo quaggiù, di cui non ho davvero ricordi gradevoli."
 |-
 ! colspan="2" |Sisyphus About About Singers Reunion Quest 01
 |-
@@ -548,7 +548,7 @@
 |"Sei bene informato, Sisifo! Orfeo si è finalmente ricongiunto alla sua musa. O perlomeno può farle visita di frequente, quando non è impegnato a casa di mio padre. E così, hai sentito parlare di loro?"
 |-
 |'''Sisyphus'''
-|"Oh, ne ho più che sentito parlare! Di certo saprai che Orfeo si avventurò quaggiù, dopo che Euridice perse la vita. Non dimenticherò mai il suo canto! Perfino le Furie ne furono ammaliate a tal punto da darmi un attimo di tregua. ''Ah'', bei tempi. Per me, almeno!"
+|"Oh, ne ho più che sentito parlare! Di certo saprai che Orfeo si avventurò quaggiù, dopo che Euridice perse la vita. Non dimenticherò mai il suo canto! Perfino le Furie ne furono ammaliate a tal punto da darmi un attimo di tregua. *Ah*, bei tempi. Per me, almeno!"
 |-
 ! colspan="2" |Sisyphus About Legendary 01
 |-
@@ -569,7 +569,7 @@
 |'''Sisyphus'''
 |"Be', Altezza, ti avevo detto che saremmo stati con te in spirito, no? Non si tratta soltanto dei poteri di Ombra, o miei, o di Pietro. È una prova della nostra amicizia, ecco. Voi dèi siete capaci di qualunque cosa!"
 |-
-! colspan="2" |Megaera With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Zagreus'''
 |"Se n'è andata... sei ancora tutto intero, Sisifo? Nessuna ferita grave?"
@@ -577,7 +577,7 @@
 |'''Sisyphus'''
 |"Oh, sto bene, Altezza, grazie per l'interessamento. Quella ragazza è una vera Furia, e anche parecchio forte. Scommetto che spingerebbe il vecchio Pietro anche meglio di me!"
 |-
-! colspan="2" |Megaera With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Zagreus'''
 |"Davvero non sei mai riuscito a spingere Pietro fino in cima?"
@@ -585,7 +585,7 @@
 |'''Sisyphus'''
 |"Mai arrivato in cima, nemmeno una volta. Rotola sempre giù all'ultimo secondo. Ho perso il conto dopo le prime diciannovemila volte, ma sai che ti dico? Una di queste sarà quella buona."
 |-
-! colspan="2" |Megaera With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Zagreus'''
 |"Sisifo, ho sentito bene? A quanto pare Megera ha promesso di lasciarvi stare per il momento, sia te che Pietro, è così?"
@@ -596,17 +596,17 @@
 |'''Zagreus'''
 |"Be', penso di poterla tenere occupata almeno un altro po'. È comunque una buona notizia, signore."
 |-
-! colspan="2" |Thanatos With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Sisyphus'''
 |"Oh, qui va tutto a meraviglia, grazie, Altezza. Non ho paura di lui; voglio dire, che cos'ho da perdere? Ma basta parlare di me, ecco, prendi questo."
 |-
-! colspan="2" |Thanatos With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Riesci a credere alla sua faccia tosta, Altezza? Ma è tutto chiacchiere, secondo me. Mi basta dirgli quello che vuole sentire! E comunque, non può costringermi a smettere di aiutarti. Sono già morto, che altro può farmi?"
 |-
-! colspan="2" |Thanatos With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Sisyphus'''
 |"Principe Z! Hai appena mancato il tuo accigliato collega. La senti, quella traccia d'inflessibilità nell'aria? Mi sa che non tornerà da queste parti tanto presto."

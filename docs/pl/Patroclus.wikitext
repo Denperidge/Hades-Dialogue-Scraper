@@ -28,7 +28,7 @@
 |"Zmierzam na powierzchnię. Choć twoi bracia próbują mnie spowolnić. Czy to dla chwały, czy na rozkaz mego ojca."
 |-
 |'''Patroclus'''
-|"Twojego ojca...? ''Ach'', racja, jesteś Księciem, prawda? Musisz zatem wyraźnie widzieć, co daje ci tutaj twoje pochodzenie: Nie jesteś lepszy od żadnego z nas tutaj obecnych. A teraz odejdź."
+|"Twojego ojca...? *Ach*, racja, jesteś Księciem, prawda? Musisz zatem wyraźnie widzieć, co daje ci tutaj twoje pochodzenie: Nie jesteś lepszy od żadnego z nas tutaj obecnych. A teraz odejdź."
 |-
 ! colspan="2" |Patroclus Meeting 04
 |-
@@ -181,7 +181,7 @@
 |"Szukam osoby o imieniu Achilles. Pośród żywych był dość sławny, choć nie wiem, jak to wygląda po śmierci. Myślałem, że go tu spotkam, ale tak się nie stało."
 |-
 |'''Zagreus'''
-|"...Achilles... Słyszałem wcześniej to imię. A, ''um'', czy mogę zapytać, czemu chcesz się o nim czegoś dowiedzieć? Na wypadek gdyby to pytanie zostało mi zadane."
+|"...Achilles... Słyszałem wcześniej to imię. A, *um*, czy mogę zapytać, czemu chcesz się o nim czegoś dowiedzieć? Na wypadek gdyby to pytanie zostało mi zadane."
 |-
 |'''Patroclus'''
 |"Ja po prostu... Po prostu za nim tęsknię, nieznajomy. Tylko tyle."
@@ -195,7 +195,7 @@
 |"Znasz Achillesa, prawda, szanowny panie? Jesteś Patrokles. Achilles... służy w moim domu. Wyszkolił mnie. Przesyła ci pozdrowienia i wyrazy miłości. Prosił, aby przekazać ci, że zawsze o tobie myśli."
 |-
 |'''Patroclus'''
-|"...To imię. Zatem widziałeś go, prawda? W domu twego ojca. I chcesz, żebym uwierzył, że on to wszystko powiedział? ''Tsk''. Wybacz mój lekki sceptycyzm. Za życia opuściłem Achillesa. A po śmierci on opuścił mnie. Jesteśmy kwita. I nie mamy sobie już nic do powiedzenia."
+|"...To imię. Zatem widziałeś go, prawda? W domu twego ojca. I chcesz, żebym uwierzył, że on to wszystko powiedział? *Tsk*. Wybacz mój lekki sceptycyzm. Za życia opuściłem Achillesa. A po śmierci on opuścił mnie. Jesteśmy kwita. I nie mamy sobie już nic do powiedzenia."
 |-
 |'''Zagreus'''
 |"Ale to nie może być prawda. Musiało dojść do jakiegoś nieporozumienia. Nie rozmawialiście odkąd umarłeś?"
@@ -209,7 +209,7 @@
 |"Patrokles. Wiem kim jesteś, szanowny panie. I znasz Achillesa. Służy w moim domu. Wyszkolił mnie. Przesyła ci pozdrowienia i wyrazy miłości. Prosił, aby przekazać ci, że zawsze o tobie myśli."
 |-
 |'''Patroclus'''
-|"...''Ach''. Zatem widziałeś go, prawda? W domu twego ojca. I chcesz, żebym uwierzył, że on to wszystko powiedział? ''Tsk''. Wybacz mój lekki sceptycyzm. Za życia opuściłem Achillesa. A po śmierci on opuścił mnie. Jesteśmy kwita. I nie mamy sobie już nic do powiedzenia."
+|"...*Ach*. Zatem widziałeś go, prawda? W domu twego ojca. I chcesz, żebym uwierzył, że on to wszystko powiedział? *Tsk*. Wybacz mój lekki sceptycyzm. Za życia opuściłem Achillesa. A po śmierci on opuścił mnie. Jesteśmy kwita. I nie mamy sobie już nic do powiedzenia."
 |-
 ! colspan="2" |Patroclus About Achilles 02
 |-
@@ -250,13 +250,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"Jest uparty jak zawsze, czyż nie? Nigdy nie chce się ruszyć. Mówił ci kiedyś o tej wojnie, w której walczyliśmy? ''Ja ''walczyłem, powinienem powiedzieć. On mógł ją zakończyć. Ale nie chciał walczyć."
+|"Jest uparty jak zawsze, czyż nie? Nigdy nie chce się ruszyć. Mówił ci kiedyś o tej wojnie, w której walczyliśmy? *Ja *walczyłem, powinienem powiedzieć. On mógł ją zakończyć. Ale nie chciał walczyć."
 |-
 |'''Zagreus'''
 |"Achilles nie był zbyt wylewny w kwestii jego śmiertelnych dni, nie. A zatem nie chciał walczyć? Słyszałem, że śmiertelnicy czasami krzywo na to patrzyli, ale... czemu powinien był walczyć, skoro nie wierzył w tę sprawę?"
 |-
 |'''Patroclus'''
-|"On ''podzielał ''ideały naszej sprawy! Cóż z tego, że nie była w pełni jego? Gdyby nie jego upartość, ja... cóż... myślę, że przybyłbym tu nieco później."
+|"On *podzielał *ideały naszej sprawy! Cóż z tego, że nie była w pełni jego? Gdyby nie jego upartość, ja... cóż... myślę, że przybyłbym tu nieco później."
 |-
 |'''Zagreus'''
 |"Obwinia się za to, co się z tobą stało, wiesz. Myślałem, że nie udało mu się ciebie obronić czy coś, a nie że... w ogóle nie walczył. Aczkolwiek powiedział coś o tym, że jak umarłeś, to niedługo potem podążył za tobą w szale..."
@@ -279,7 +279,7 @@
 |"Powinieneś wiedzieć, szanowny panie. Zostaliście razem pochowani. To znaczy wasze prochy. To było jego ostatnie życzenie. A jeżeli chodzi o to, jak znalazł się w domu mego ojca, myślę że on sam najlepiej to wyjaśni. A ja zrobię wszystko co w mojej mocy, by upewnić się, że ma ku temu okazję."
 |-
 |'''Patroclus'''
-|"...Nasze prochy powiadasz. Razem? ''Tsk. ''Głupiec. Mogliśmy żyć! A nie zostać sprowadzeni do karmy dla robali. Ale... doceniam tę informację, nieznajomy. A teraz... proszę, idź."
+|"...Nasze prochy powiadasz. Razem? *Tsk. *Głupiec. Mogliśmy żyć! A nie zostać sprowadzeni do karmy dla robali. Ale... doceniam tę informację, nieznajomy. A teraz... proszę, idź."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -290,7 +290,7 @@
 |"Nie musisz prosić mnie o wybaczenie, szanowny panie. Achilles jest jednym z moich najbliższych przyjaciół, ale... nie lubi mówić o sobie. O tamtych czasach. To musi być bardzo bolesne. Dla was obojga."
 |-
 |'''Patroclus'''
-|"Och, my wszyscy doświadczyliśmy już solidnej dawki cierpienia. Ale... wiedząc, że troszczył się o mnie, na końcu... ''po ''końcu... nieco je łagodzi, na chwilę. Tak jak te rozmowy, jak przypuszczam."
+|"Och, my wszyscy doświadczyliśmy już solidnej dawki cierpienia. Ale... wiedząc, że troszczył się o mnie, na końcu... *po *końcu... nieco je łagodzi, na chwilę. Tak jak te rozmowy, jak przypuszczam."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -304,12 +304,12 @@
 |"Jak znam mojego Achillesa, to jest raczej ostrożny w kwestii naszej obecnej sytuacji. Jak ktoś może być tak zuchwały, a jednocześnie nie znosić podejmowania niepotrzebnego ryzyka? Po prostu powiedz mu, żeby wszystko zaryzykował."
 |-
 |'''Zagreus'''
-|"Wszystko zaryzykował? ''Jakie ''wszystko? Chce dla ciebie tego co najlepsze. Nie chciałby, żeby cokolwiek się stało."
+|"Wszystko zaryzykował? *Jakie *wszystko? Chce dla ciebie tego co najlepsze. Nie chciałby, żeby cokolwiek się stało."
 |-
 |'''Patroclus'''
 |"Już minęło dużo czasu, odkąd się stało. Śmiem twierdzić, że teraz, zakładając, że to co powiedziałeś jest prawdą, to... wygląda na to, że teraz mamy więcej do zyskania, niż do stracenia. Czyż strach nie jest dla słabych?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"Tak myślałem, że możemy na ciebie wpaść, ale... jakże to dziwne stanąć tu z tobą twarzą w twarz, młodzieńcze. I samemu zobaczyć to miejsce. Wciąż nie do końca mogę w to wszystko uwierzyć..."
@@ -323,7 +323,7 @@
 |'''Patroclus'''
 |"Cóż, nie ma potrzeby się rozczulać, czyż nie? My myrmidonowie nie jesteśmy zbytnio uczuciowi. Achilles ma zwyczajnie przerwę, to wszystko. Od wymagającej pracy. Ty również masz wymagającą pracę, więc proszę! Mój zwyczajowy podarunek."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"No proszę, któż by inny jak nie stróż Achillesa przybył nas odwiedzić. Nie wiem jak mogę ci się kiedykolwiek odpłacić, nieznajomy. Jestem praktycznie pewien, że nie jest to możliwe."
@@ -337,7 +337,7 @@
 |'''Patroclus'''
 |"Miałem taki plan tak czy siak, aczkolwiek... jeżeli w którymś momencie przyjdzie ci do głowy coś innego, proszę, daj znać któremuś z nas."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Dobrze, tu jesteś, nieznajomy. Pomóż nam szybko coś ustalić, hm? Czy Achilles nie byłby doskonałym Czempionem Elizjum? Gdyż myślę, że niemalże każdy byłby lepszy niż ten obecny."
@@ -425,7 +425,7 @@
 |"Zawsze się zastanawiałem, szanowny panie. Jaki był Achilles...? Mam na myśli, gdy był młody. Jeśli możesz powiedzieć."
 |-
 |'''Patroclus'''
-|"''Ha''. W jaki sposób opisać, jaki ktoś był? Wszyscy, którzy widzieli go na polu bitwy, byli zgodni co do tego, że był wspaniały, nieznajomy. Zarówno jego sojusznicy, jak i jego wrogowie. Ale myślę, że było w nim coś więcej. Pewna postawa. Poczucie sprawiedliwości. Znałem go, zanim był wojownikiem. Jedyny powód, dla którego go lubiłem, jak sądzę."
+|"*Ha*. W jaki sposób opisać, jaki ktoś był? Wszyscy, którzy widzieli go na polu bitwy, byli zgodni co do tego, że był wspaniały, nieznajomy. Zarówno jego sojusznicy, jak i jego wrogowie. Ale myślę, że było w nim coś więcej. Pewna postawa. Poczucie sprawiedliwości. Znałem go, zanim był wojownikiem. Jedyny powód, dla którego go lubiłem, jak sądzę."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -919,7 +919,7 @@
 |"Hej, słuchaj, widzę, że się teraz zmagasz i... może nie jest to najlepszy sposób, aby ci pomóc, ale... chcę, żebyś to przyjął."
 |-
 |'''Patroclus'''
-|"''Ach'', czy ty się nade mną litujesz? Cóż, jak wielu innych w Elizjum, nie mam żadnej dumy, więc z chęcią ten prezent przyjmę. Choć niech to będzie uczciwa wymiana, dobrze?"
+|"*Ach*, czy ty się nade mną litujesz? Cóż, jak wielu innych w Elizjum, nie mam żadnej dumy, więc z chęcią ten prezent przyjmę. Choć niech to będzie uczciwa wymiana, dobrze?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -932,7 +932,7 @@
 ! colspan="2" |Patroclus Gift 03
 |-
 |'''Patroclus'''
-|"''Ach'', sposób na tymczasowe utopienie smutków. To dobrze. Muszę przyznać, że to całkiem miłe z twoje strony."
+|"*Ach*, sposób na tymczasowe utopienie smutków. To dobrze. Muszę przyznać, że to całkiem miłe z twoje strony."
 |-
 |'''Zagreus'''
 |"To nic takiego. Dziękuję, że nie próbowałeś mnie z miejsca zabić, a następnie się tym chełpić, jak zdawać by się mogło wszyscy inni w tej okolicy."
@@ -981,7 +981,7 @@
 |"Nie widzę nigdzie tej ostatniej butelki Ambrozji, co może jedynie oznaczać... że potrzebujesz kolejnej. Proszę, szanowny panie. Dziękuję, że mnie tu gościłeś w tych całych okolicznościach, raz za razem."
 |-
 |'''Patroclus'''
-|"Ty dziękujesz ''mnie'', nieznajomy? Myślę, że byłem tu już przez sporą ilość czasu... jednak muszę przyznać, że mimo to niektóre z twoich zwyczajów pozostają dla mnie całkiem dziwne. Zrobiłeś dla mnie więcej, niż mógłbym od kogokolwiek oczekiwać."
+|"Ty dziękujesz *mnie*, nieznajomy? Myślę, że byłem tu już przez sporą ilość czasu... jednak muszę przyznać, że mimo to niektóre z twoich zwyczajów pozostają dla mnie całkiem dziwne. Zrobiłeś dla mnie więcej, niż mógłbym od kogokolwiek oczekiwać."
 |-
 |'''Zagreus'''
 |"To tylko butelka Ambrozji, szanowny panie, nic wielkiego. Okej, dobrze, raczej trudno ją dostać, ale i tak!"

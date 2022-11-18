@@ -3,21 +3,21 @@
 ! colspan="2" |Boss Charon About Hermes Quest 01
 |-
 |'''Charon'''
-|"''Mmmrrrrnnn''..."
+|"*Mmmrrrrnnn*..."
 |-
 |'''Zagreus'''
 |"Tu sais, Charon, il paraît qu'Hermès, ton associé, a parié que je finirais un jour par te battre deux fois de suite, c'est vrai ? Je n'aimerais vraiment pas le décevoir, alors... sans rancune ?"
 |-
 |'''Charon'''
-|"''Nnnrrrraaaaaarrgggghhh ''!!"
+|"*Nnnrrrraaaaaarrgggghhh *!!"
 |-
 ! colspan="2" |Boss Charon Encounter 01
 |-
 |'''Charon'''
-|"''Haaahhhhh''..."
+|"*Haaahhhhh*..."
 |-
 |'''Zagreus'''
-|"''Euh'', écoute, Charon, je peux tout expliquer. C'est juste que j'ai pris l'habitude de ramasser tout ce que je trouve dans le royaume de mon père. Je ne cherchais pas à te voler quoi que ce soit, je te jure !"
+|"*Euh*, écoute, Charon, je peux tout expliquer. C'est juste que j'ai pris l'habitude de ramasser tout ce que je trouve dans le royaume de mon père. Je ne cherchais pas à te voler quoi que ce soit, je te jure !"
 |-
 |'''Zagreus'''
 |"Ce n'était pas un bruit de compréhension. Attends, pourquoi est-ce que tu brandis ta rame d'un air aussi menaçant ?"
@@ -28,73 +28,73 @@
 |"Tu me testes, Charon, pas vrai ? Je veux dire, quand tu places un grand sac rempli d'argent bien en évidence sur mon chemin, à quoi tu t'attends, franchement ?"
 |-
 |'''Charon'''
-|"Nrrnnhhh, hnnnn, hrrnn, ''hrrrrrnnn''..."
+|"Nrrnnhhh, hnnnn, hrrnn, *hrrrrrnnn*..."
 |-
 |'''Zagreus'''
-|"Je vois, l'ami... eh bien, la prochaine fois que je te volerai quelque chose, ce sera juste ma façon de dire ''« Charon, je souhaite me battre contre toi jusqu'à la mort, histoire de pimenter un peu les choses »''."
+|"Je vois, l'ami... eh bien, la prochaine fois que je te volerai quelque chose, ce sera juste ma façon de dire *« Charon, je souhaite me battre contre toi jusqu'à la mort, histoire de pimenter un peu les choses »*."
 |-
 ! colspan="2" |Boss Charon Misc Start 01
 |-
 |'''Charon'''
-|"''Hrrrnnnggghh''..."
+|"*Hrrrnnnggghh*..."
 |-
 ! colspan="2" |Boss Charon Misc Start 02
 |-
 |'''Charon'''
-|"''Grrnrnhh, rrraahhh ''!"
+|"*Grrnrnhh, rrraahhh *!"
 |-
 ! colspan="2" |Boss Charon Misc Start 03
 |-
 |'''Charon'''
-|"''Hrraaaahhhhhh ''!!"
+|"*Hrraaaahhhhhh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 04
 |-
 |'''Charon'''
-|"Hrrn... ''grrraaarrrggghh ''!!"
+|"Hrrn... *grrraaarrrggghh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 05
 |-
 |'''Charon'''
-|"Rrnn... ''hhrraaaarrrggghh ''!!"
+|"Rrnn... *hhrraaaarrrggghh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 06
 |-
 |'''Charon'''
-|"Grrr... ''nrrraarrrggghhh ''!!"
+|"Grrr... *nrrraarrrggghhh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 07
 |-
 |'''Charon'''
-|"Urrh... ''urraaarrrggghh ''!!"
+|"Urrh... *urraaarrrggghh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 08
 |-
 |'''Charon'''
-|"Krrr... ''krraarrrggghh ''!!"
+|"Krrr... *krraarrrggghh *!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 09
 |-
 |'''Charon'''
-|"Hhh, ''hrreehhhhh ''!!"
+|"Hhh, *hrreehhhhh *!!"
 |-
 ! colspan="2" |Boss Charon Outro 01
 |-
 |'''Charon'''
-|"Haahh, nrraugh, ''haaaaah ''!!"
+|"Haahh, nrraugh, *haaaaah *!!"
 |-
 ! colspan="2" |Boss Charon Hermes Quest Complete 01
 |-
 |'''Zagreus'''
-|"Je t'ai battu, l'ami ! Deux fois de suite. J'imagine qu'Hermès gagne son petit pari contre toi avec ça. Dis-lui ''hrrrrrnnnggghh ''de ma part !"
+|"Je t'ai battu, l'ami ! Deux fois de suite. J'imagine qu'Hermès gagne son petit pari contre toi avec ça. Dis-lui *hrrrrrnnnggghh *de ma part !"
 |-
 |'''Charon'''
-|"''Hrrrrrnnnggghh''..."
+|"*Hrrrrrnnnggghh*..."
 |-
 ! colspan="2" |Charon First Meeting
 |-
 |'''Charon'''
-|"''Ggeuhhhhhh''..."
+|"*Ggeuhhhhhh*..."
 |-
 |'''Zagreus'''
 |"Ça alors, quelle coïncidence, cher Charon ! Je faisais juste une petite promenade, histoire de me détendre un peu, je ne... tiens, mais qu’est-ce que c'est que tout ça, tu as des choses à vendre ? Dans ce cas, je vais jeter un petit coup d’œil."
@@ -102,10 +102,10 @@
 ! colspan="2" |Charon No Fast Travel 01
 |-
 |'''Zagreus'''
-|"''Euh'', Charon...? Tu as pensé à réfléchir à ma proposition de... tu sais, de m'emmener avec toi à la surface, par hasard ? Étant donné que c’est sur ton chemin."
+|"*Euh*, Charon...? Tu as pensé à réfléchir à ma proposition de... tu sais, de m'emmener avec toi à la surface, par hasard ? Étant donné que c’est sur ton chemin."
 |-
 |'''Charon'''
-|"''Rhhuuaaarrggghhh''..."
+|"*Rhhuuaaarrggghhh*..."
 |-
 ! colspan="2" |Charon Shop Meeting 02
 |-
@@ -113,12 +113,12 @@
 |"Content de vous voir, l’ami ! J’ai l’impression que vous vendez des objets intéressants, n’est-ce pas ?"
 |-
 |'''Charon'''
-|"''Urrrnn''gghhhhh..."
+|"*Urrrnn*gghhhhh..."
 |-
 ! colspan="2" |Charon Shop Meeting 03
 |-
 |'''Charon'''
-|"''Haaahhhhhhhhh''..."
+|"*Haaahhhhhhhhh*..."
 |-
 |'''Zagreus'''
 |"Bonne journée à vous aussi, l’ami ! Jetons un petit coup d’œil à ce que vous avez."
@@ -153,7 +153,7 @@
 |"Vous pouvez me renseigner sur les monstres que je vais rencontrer sur la prochaine île infernale, Charon ?"
 |-
 |'''Charon'''
-|"''Hheeehhhhhhh''..."
+|"*Hheeehhhhhhh*..."
 |-
 ! colspan="2" |Charon High Relationship 01
 |-
@@ -161,7 +161,7 @@
 |"Eh bien, Charon, vous m'avez l'air dans une forme... olympique ! Quelque chose a changé, en vous, mais je ne sais pas quoi. Peut-être votre coupe de cheveux ?"
 |-
 |'''Charon'''
-|"''Urrraaarrhggghh''..."
+|"*Urrraaarrhggghh*..."
 |-
 ! colspan="2" |Charon Post Fight You Won 01
 |-
@@ -169,7 +169,7 @@
 |"Charon, vous ne m'en voulez pas, pour notre dernière dispute ? Comme vous m'avez donné une de vos Cartes de fidélité, je me dis que tout doit bien aller, mais... sait-on jamais..."
 |-
 |'''Charon'''
-|"Krrr, ''krraarrrggghhhh '' !"
+|"Krrr, *krraarrrggghhhh * !"
 |-
 ! colspan="2" |Charon Post Fight You Lost 01
 |-
@@ -193,15 +193,15 @@
 |"Charon, j’avais toujours cru que les Olympiens ne fréquentaient pas les dieux chthoniens comme vous. Pourtant, Hermès a l’air d’être votre proche collègue. Vous ne... sauriez pas pourquoi il m’aide, par hasard ?"
 |-
 |'''Charon'''
-|"Grrrhhhooo''aaaaaahhhh''...!"
+|"Grrrhhhooo*aaaaaahhhh*...!"
 |-
 ! colspan="2" |Charon About Skelly 01
 |-
 |'''Zagreus'''
-|"Charon, je sais que vous voyez des morts en quantités innombrables et que vous ne pouvez pas vous souvenir de tous, mais... est-ce que le nom de ''Thados '' vous dit quelque chose ?"
+|"Charon, je sais que vous voyez des morts en quantités innombrables et que vous ne pouvez pas vous souvenir de tous, mais... est-ce que le nom de *Thados * vous dit quelque chose ?"
 |-
 |'''Charon'''
-|"...Tssss... hhhaaahhh... rrrrnngghhh... ''raarrrggghhh '' !!"
+|"...Tssss... hhhaaahhh... rrrrnngghhh... *raarrrggghhh * !!"
 |-
 ! colspan="2" |Charon About Customer Loyalty 01
 |-
@@ -209,7 +209,7 @@
 |"Charon ? En tant que client de longue date, je voulais vous remercier pour tous les services que vous m'avez rendus pendant mes tentatives pour sortir d'ici. En plus de mourir beaucoup plus vite, que serais-je devenu sans tous les objets que vous m'avez proposés ?"
 |-
 |'''Charon'''
-|"Hrrnngghh, grhhh, ''grhaaaaaaaahhhh''..."
+|"Hrrnngghh, grhhh, *grhaaaaaaaahhhh*..."
 |-
 ! colspan="2" |Charon About Secret Service 01
 |-
@@ -217,7 +217,7 @@
 |"Charon ? Je voulais juste vous dire que je vous suis très reconnaissant pour votre soutien. Vous vous êtes toujours contenté de faire votre travail... Je ne vous ai jamais vu à la Maison... mais je sais que vous êtes de mon côté ! Alors, merci."
 |-
 |'''Charon'''
-|"... Khhrraaa ''hhaaaaahhhh''..."
+|"... Khhrraaa *hhaaaaahhhh*..."
 |-
 ! colspan="2" |Charon Chat 03
 |-
@@ -277,7 +277,7 @@
 ! colspan="2" |Charon Chat 18
 |-
 |'''Charon'''
-|"Hhrrrnn, ''haahhhhh''..."
+|"Hhrrrnn, *haahhhhh*..."
 |-
 ! colspan="2" |Charon Chat 19
 |-
@@ -295,7 +295,7 @@
 |"Gggrrrnnngggghhhh..."
 |-
 |'''Charon'''
-|"''Heeehhh'', hohhhhh..."
+|"*Heeehhh*, hohhhhh..."
 |-
 ! colspan="2" |Charon Gift 01
 |-
@@ -303,7 +303,7 @@
 |"Charon, ça me fait tellement plaisir de te voir que je me suis dit que j’allais t'offrir quelque chose, en guise de remerciement."
 |-
 |'''Charon'''
-|"''Hrrrhhrooooh'', hnnnn..."
+|"*Hrrrhhrooooh*, hnnnn..."
 |-
 |'''Zagreus'''
 |"Attends, ce n'est pas la peine de me donner quelque chose en retour, c’est juste un cadeau...! Mais si tu insistes..."
@@ -327,7 +327,7 @@
 ! colspan="2" |Charon Gift 04
 |-
 |'''Charon'''
-|"''Hrrrn'', hhmmm hmmmm..."
+|"*Hrrrn*, hhmmm hmmmm..."
 |-
 |'''Zagreus'''
 |"Profite-en, Charon ! Et ne crois pas que j'essaye de te soudoyer pour que tu baisses tes prix, ce serait vraiment immoral !"
@@ -343,7 +343,7 @@
 ! colspan="2" |Charon Gift 06
 |-
 |'''Charon'''
-|"Hhhrrrrhh... ''hhhrrrnnnn''... hrrrrrhhh..."
+|"Hhhrrrrhh... *hhhrrrnnnn*... hrrrrrhhh..."
 |-
 |'''Zagreus'''
 |"Moi aussi, je suis content d’être ton ami, Charon. Tout le plaisir est pour moi."
@@ -354,6 +354,6 @@
 |"Charon, je me rends compte que vous êtes très occupé et que je ne mérite pas le temps que vous m'octroyez, mais... voici. Je voulais juste vous témoigner ma gratitude. Si un jour vous avez envie de parler, je serai là."
 |-
 |'''Charon'''
-|"''Hrrrnnnnnnnnn''...! Thhhrrrrrrrrnnnnnn... kkrrrrrrrrhhh...!"
+|"*Hrrrnnnnnnnnn*...! Thhhrrrrrrrrnnnnnn... kkrrrrrrrrhhh...!"
 |-
 |}

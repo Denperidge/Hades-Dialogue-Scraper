@@ -3,376 +3,376 @@
 ! colspan="2" |Inspect House 01
 |-
 |'''Storyteller'''
-|"''A Casa de Hades: Esse covil sombrio e luxuoso do Rei do Submundo é o lar não apenas dele, mas de seu filho obstinado.''"
+|"*A Casa de Hades: Esse covil sombrio e luxuoso do Rei do Submundo é o lar não apenas dele, mas de seu filho obstinado.*"
 |-
 ! colspan="2" |Inspect Lounge Closed 01
 |-
 |'''Storyteller'''
-|"''O que antes era uma pequena área de descanso na Casa de Hades agora está selada, completamente em ruínas desde que o Cérbero das três cabeças destruiu o cômodo, lamentando o desaparecimento do Príncipe.''"
+|"*O que antes era uma pequena área de descanso na Casa de Hades agora está selada, completamente em ruínas desde que o Cérbero das três cabeças destruiu o cômodo, lamentando o desaparecimento do Príncipe.*"
 |-
 ! colspan="2" |Inspect Shades 01
 |-
 |'''Storyteller'''
-|"''As sombras dos mortos vagam constantemente pela Casa, reclamando de suas desgraças e buscando a atenção de quem quiser ouvir.''"
+|"*As sombras dos mortos vagam constantemente pela Casa, reclamando de suas desgraças e buscando a atenção de quem quiser ouvir.*"
 |-
 ! colspan="2" |Inspect Lounge Open 01
 |-
 |'''Storyteller'''
-|"''A área de descanso da Casa de Hades é um lugar triste, apesar de ter sido criada para animar os sombrios habitantes da Casa.''"
+|"*A área de descanso da Casa de Hades é um lugar triste, apesar de ter sido criada para animar os sombrios habitantes da Casa.*"
 |-
 ! colspan="2" |Inspect Employee Of The Month 01
 |-
 |'''Storyteller'''
-|"''Um quadro comemorativo adorna uma das paredes pouco decoradas da área de descanso, celebrando e reafirmando as conquistas daqueles que melhor servem ao Lorde Hades.''"
+|"*Um quadro comemorativo adorna uma das paredes pouco decoradas da área de descanso, celebrando e reafirmando as conquistas daqueles que melhor servem ao Lorde Hades.*"
 |-
 ! colspan="2" |Inspect Cellar 01
 |-
 |'''Storyteller'''
-|"''Os antigos barris de vinho escondidos nas profundezas da Casa de Lorde Hades... poucos experimentaram a safra intoxicante que eles possuem, e menos ainda são autorizados a sequer se aproximarem deles.''"
+|"*Os antigos barris de vinho escondidos nas profundezas da Casa de Lorde Hades... poucos experimentaram a safra intoxicante que eles possuem, e menos ainda são autorizados a sequer se aproximarem deles.*"
 |-
 |'''Storyteller'''
-|"''Os robustos barris de vinho na Casa de Hades agora estão quase que completamente desprovidos de seu conteúdo, tendo bravamente enfrentado a sede combinada dos Olimpianos durante um certo banquete.''"
+|"*Os robustos barris de vinho na Casa de Hades agora estão quase que completamente desprovidos de seu conteúdo, tendo bravamente enfrentado a sede combinada dos Olimpianos durante um certo banquete.*"
 |-
 ! colspan="2" |Inspect Olympus Sculpture 01
 |-
 |'''Storyteller'''
-|"'' Uma majéstica estátua dourada do Olimpo, feita com extrema destreza da pedra da montanha. Ela agora eternamente ilumina até mesmo a escuridão da Casa de Hades — um presente de despedida da familia do Lorde Mestre.''"
+|"* Uma majéstica estátua dourada do Olimpo, feita com extrema destreza da pedra da montanha. Ela agora eternamente ilumina até mesmo a escuridão da Casa de Hades — um presente de despedida da familia do Lorde Mestre.*"
 |-
 ! colspan="2" |Inspect Mural 01
 |-
 |'''Storyteller'''
-|"''Um vasto e intricado mosaico retrata o Rei do Submundo governando sobre a enormidade de seu domínio, enquanto seus residentes ctônicos o observam em admiração.''"
+|"*Um vasto e intricado mosaico retrata o Rei do Submundo governando sobre a enormidade de seu domínio, enquanto seus residentes ctônicos o observam em admiração.*"
 |-
 ! colspan="2" |Inspect Throne 01
 |-
 |'''Storyteller'''
-|"''Raramente o altivo trono do sombrio Lorde Hades fica desocupado; assim, os habitantes da Casa seguem suas vidas, sem ousar questionar o acontecido.''"
+|"*Raramente o altivo trono do sombrio Lorde Hades fica desocupado; assim, os habitantes da Casa seguem suas vidas, sem ousar questionar o acontecido.*"
 |-
 ! colspan="2" |Inspect House Garden 01
 |-
 |'''Storyteller'''
-|"''O jardim da Rainha Perséfone, proibido ao príncipe por toda sua vida, agora enfim está diante dele, em todo seu esplendor.''"
+|"*O jardim da Rainha Perséfone, proibido ao príncipe por toda sua vida, agora enfim está diante dele, em todo seu esplendor.*"
 |-
 ! colspan="2" |Flashback 02
 |-
 |'''Storyteller'''
-|"''Ele se aventura rumo ao imponente trono de seu Lorde Pai, esperando de certa forma ser pego, mas sem saber o que está prestes a encontrar.''"
+|"*Ele se aventura rumo ao imponente trono de seu Lorde Pai, esperando de certa forma ser pego, mas sem saber o que está prestes a encontrar.*"
 |-
 ! colspan="2" |Flashback 03
 |-
 |'''Storyteller'''
-|"''Ele não sabe exatamente o que procura. Ele só sabe que sempre sentiu algo estranho, como se não pertencesse a este lugar. Quem é ele, afinal? Lorde Hades nunca toleraria esse tipo de perguntas. Então, o Príncipe Zagreu descobriria sozinho.''"
+|"*Ele não sabe exatamente o que procura. Ele só sabe que sempre sentiu algo estranho, como se não pertencesse a este lugar. Quem é ele, afinal? Lorde Hades nunca toleraria esse tipo de perguntas. Então, o Príncipe Zagreu descobriria sozinho.*"
 |-
 ! colspan="2" |Flashback 04
 |-
 |'''Storyteller'''
-|"''Ele vasculha pelas posses de seu Lorde Pai. Não há muito que lhe chame a atenção ali. Registros e demais papiradas administrativas. Correspondência do Olimpo que ele ignorou. Nenhum traço de qualquer referência a seu filho.''"
+|"*Ele vasculha pelas posses de seu Lorde Pai. Não há muito que lhe chame a atenção ali. Registros e demais papiradas administrativas. Correspondência do Olimpo que ele ignorou. Nenhum traço de qualquer referência a seu filho.*"
 |-
 ! colspan="2" |Flashback 05
 |-
 |'''Storyteller'''
-|"''Mas, então, ele encontra um bilhete... escrito delicadamente com uma letra e voz às quais o Príncipe jamais vira ou ouvira.''"
+|"*Mas, então, ele encontra um bilhete... escrito delicadamente com uma letra e voz às quais o Príncipe jamais vira ou ouvira.*"
 |-
 |'''Persephone'''
-|"''\"Hades: não aguento mais viver neste lugar. Então, estou indo embora, mesmo que isso me mate. Não retornarei ao Olimpo. Se há um lugar neste mundo que eu possa chamar de lar, deve estar em algum lugar entre o céu e o inferno. Talvez seja no litoral e tenha um pequeno jardim. Cuide do Cérbero; sentirei falta dele.\''"
+|"*\"Hades: não aguento mais viver neste lugar. Então, estou indo embora, mesmo que isso me mate. Não retornarei ao Olimpo. Se há um lugar neste mundo que eu possa chamar de lar, deve estar em algum lugar entre o céu e o inferno. Talvez seja no litoral e tenha um pequeno jardim. Cuide do Cérbero; sentirei falta dele.\*"
 |-
 |'''Storyteller'''
-|"''Assim, o Príncipe do Submundo, Zagreu, absorveu o conteúdo desta carta guardada, escrita pela mão de sua mãe.''"
+|"*Assim, o Príncipe do Submundo, Zagreu, absorveu o conteúdo desta carta guardada, escrita pela mão de sua mãe.*"
 |-
 |'''Zagreus'''
-|"''A mão de sua mãe''... a mão de minha mãe... espere, ''como assim''?! Você está dizendo que essa tal de Perséfone é... a minha mãe...? Mas meu Pai sempre disse que Nix era minha... aquele mentiroso. Ele mentiu para mim, ambos mentiram. Toda a minha vida!"
+|"''A mão de sua mãe''... a mão de minha mãe... espere, *como assim*?! Você está dizendo que essa tal de Perséfone é... a minha mãe...? Mas meu Pai sempre disse que Nix era minha... aquele mentiroso. Ele mentiu para mim, ambos mentiram. Toda a minha vida!"
 |-
 |'''Storyteller'''
-|"''Argh! Então o Príncipe descobriu, por acaso, a verdade bem guardada sobre sua linhagem. Algo totalmente por acaso...''"
+|"*Argh! Então o Príncipe descobriu, por acaso, a verdade bem guardada sobre sua linhagem. Algo totalmente por acaso...*"
 |-
 ! colspan="2" |Flashback 06
 |-
 |'''Storyteller'''
-|"''Perséfone... a única Rainha de todo o Submundo... aonde ela teria ido e por quê? Mergulhado em novas dúvidas e em sua fúria, o Príncipe decidiu confrontar seu Mestre e Senhor.''"
+|"*Perséfone... a única Rainha de todo o Submundo... aonde ela teria ido e por quê? Mergulhado em novas dúvidas e em sua fúria, o Príncipe decidiu confrontar seu Mestre e Senhor.*"
 |-
 ! colspan="2" |Flashback Day Night Job 02
 |-
 |'''Storyteller'''
-|"''Ignorando as responsabilidades, Zagreu atravessa caminhando o saguão de seu Pai, bem despreocupado com a urgência que esperam que sinta e aja em circunstâncias como esta.''"
+|"*Ignorando as responsabilidades, Zagreu atravessa caminhando o saguão de seu Pai, bem despreocupado com a urgência que esperam que sinta e aja em circunstâncias como esta.*"
 |-
 ! colspan="2" |Flashback Day Night Job 03
 |-
 |'''Storyteller'''
-|"''A porta da câmara administrativa o chama logo após o saguão. O príncipe talvez acredite que possa entrar silenciosamente, sem chamar atenção daqueles que trabalham lá.''"
+|"*A porta da câmara administrativa o chama logo após o saguão. O príncipe talvez acredite que possa entrar silenciosamente, sem chamar atenção daqueles que trabalham lá.*"
 |-
 ! colspan="2" |Inspect House Pillars 01
 |-
 |'''Storyteller'''
-|"''Dentre as inúmeras e esplêndidas joias ocultas sob a terra, muitas são usadas para decorar a Casa de Hades, deus dos mortos, deus das riquezas.''"
+|"*Dentre as inúmeras e esplêndidas joias ocultas sob a terra, muitas são usadas para decorar a Casa de Hades, deus dos mortos, deus das riquezas.*"
 |-
 ! colspan="2" |Inspect North Fountain 01
 |-
 |'''Storyteller'''
-|"''A água é a fonte da vida, ainda assim flui dentro dos recônditos mais obscuros do Submundo, enquanto as sombras inquietas dos mortais a observam e relembram os breves dias em que podiam bebê-la e respirar.''"
+|"*A água é a fonte da vida, ainda assim flui dentro dos recônditos mais obscuros do Submundo, enquanto as sombras inquietas dos mortais a observam e relembram os breves dias em que podiam bebê-la e respirar.*"
 |-
 ! colspan="2" |Inspect South Fountain 01
 |-
 |'''Storyteller'''
-|"''O Príncipe, carregado de joias, encomendou essa fonte tão refinada para a Casa. Desde então, todas as sombras que a admiram ainda pensam nele com bastante carinho.''"
+|"*O Príncipe, carregado de joias, encomendou essa fonte tão refinada para a Casa. Desde então, todas as sombras que a admiram ainda pensam nele com bastante carinho.*"
 |-
 ! colspan="2" |Inspect Cauldron 01
 |-
 |'''Storyteller'''
-|"''Os mortos não precisam comer, mas tentam se deleitar com a comida de qualquer maneira, como se o fato de imaginarem os costumes da vida mortal lhes trouxesse uma sensação de paz.''"
+|"*Os mortos não precisam comer, mas tentam se deleitar com a comida de qualquer maneira, como se o fato de imaginarem os costumes da vida mortal lhes trouxesse uma sensação de paz.*"
 |-
 ! colspan="2" |Inspect Kitchen Island
 |-
 |'''Storyteller'''
-|"''Tendo investido pesado na área de culinária da Casa de Hades, Zagreu, de estômago vazio, não consegue encontrar nada adequado para comer.''"
+|"*Tendo investido pesado na área de culinária da Casa de Hades, Zagreu, de estômago vazio, não consegue encontrar nada adequado para comer.*"
 |-
 ! colspan="2" |Inspect Poet Bust 01
 |-
 |'''Storyteller'''
-|"''Na galeria da Casa agora repousa o busto de um poeta de notoriedade, belo e severo em sua idade, que embora ainda não havia recebido sua fama destinada, deverá algum dia ser mais conhecido.''"
+|"*Na galeria da Casa agora repousa o busto de um poeta de notoriedade, belo e severo em sua idade, que embora ainda não havia recebido sua fama destinada, deverá algum dia ser mais conhecido.*"
 |-
 ! colspan="2" |Inspect Asphodel Statue 01
 |-
 |'''Storyteller'''
-|"''A aterrorizante representação dos pálidos guerreiros Ressecados agora decora o corredor por toda a eternidade, para sempre homenagear os selvagens servos do lorde da Casa.''"
+|"*A aterrorizante representação dos pálidos guerreiros Ressecados agora decora o corredor por toda a eternidade, para sempre homenagear os selvagens servos do lorde da Casa.*"
 |-
 ! colspan="2" |Inspect Warrior Statue 01
 |-
 |'''Storyteller'''
-|"''O físico perfeitamente esculpido de um dos maiores heróis de todos os tempos da Grécia agora adorna a galeria da Casa, lembrando à maior parte dos observadores as muitas formas que não podem se comparar a ele.''"
+|"*O físico perfeitamente esculpido de um dos maiores heróis de todos os tempos da Grécia agora adorna a galeria da Casa, lembrando à maior parte dos observadores as muitas formas que não podem se comparar a ele.*"
 |-
 ! colspan="2" |Inspect Main Hall Fireplace 01
 |-
 |'''Storyteller'''
-|"''A luz criada pelas chamas do mais profundo inferno ilumina a área de descanso com um leve brilho; e seu calor reconforta os poucos moradores e visitantes presentes.''"
+|"*A luz criada pelas chamas do mais profundo inferno ilumina a área de descanso com um leve brilho; e seu calor reconforta os poucos moradores e visitantes presentes.*"
 |-
 ! colspan="2" |Inspect Sundial 01
 |-
 |'''Storyteller'''
-|"''Tempo parece ficar perfeitamente imóvel dentro do reino eterno dos mortos, evidenciado até pelos meios que medem sua passagem.''"
+|"*Tempo parece ficar perfeitamente imóvel dentro do reino eterno dos mortos, evidenciado até pelos meios que medem sua passagem.*"
 |-
 ! colspan="2" |Flashback Mother 01
 |-
 |'''Storyteller'''
-|"''É a calada da noite, ou a sua aproximação, no reino de Hades. O Príncipe do Submundo, Zagreu, se levanta de um sono agitado, com muitas ideias travessas na cabeça.''"
+|"*É a calada da noite, ou a sua aproximação, no reino de Hades. O Príncipe do Submundo, Zagreu, se levanta de um sono agitado, com muitas ideias travessas na cabeça.*"
 |-
 ! colspan="2" |Flashback Day Night Job 01
 |-
 |'''Storyteller'''
-|"''O príncipe de sono pesado do Submundo se levanta, com o sentimento que o breve cochilo que havia planejado como descanso dos rigores do dia ou noite aparentemente acabou sendo não tão breve como esperava, nem de longe...''"
+|"*O príncipe de sono pesado do Submundo se levanta, com o sentimento que o breve cochilo que havia planejado como descanso dos rigores do dia ou noite aparentemente acabou sendo não tão breve como esperava, nem de longe...*"
 |-
 ! colspan="2" |Inspect Bedroom 01
 |-
 |'''Storyteller'''
-|"''Os aposentos do Príncipe Zagreu encontram-se em um estado perpétuo de completa desordem, apesar de seu Lorde Pai, o Mestre da Casa insistir muitas vezes para que ele arrumasse tudo.''"
+|"*Os aposentos do Príncipe Zagreu encontram-se em um estado perpétuo de completa desordem, apesar de seu Lorde Pai, o Mestre da Casa insistir muitas vezes para que ele arrumasse tudo.*"
 |-
 ! colspan="2" |Inspect Bedroom Trojan Arms
 |-
 |'''Storyteller'''
-|"''As armas destruídas do cerco de Ílion, agora reduzidas a decorações nos aposentos bagunçados do Príncipe.''"
+|"*As armas destruídas do cerco de Ílion, agora reduzidas a decorações nos aposentos bagunçados do Príncipe.*"
 |-
 ! colspan="2" |Inspect Bedroom Achilles Poster
 |-
 |'''Storyteller'''
-|"''A bravura do ousado Aquiles foi imortalizada na parede do Príncipe, como se isso pudesse dar mais coragem a ele.''"
+|"*A bravura do ousado Aquiles foi imortalizada na parede do Príncipe, como se isso pudesse dar mais coragem a ele.*"
 |-
 ! colspan="2" |Inspect Bedroom Aphrodite Poster
 |-
 |'''Storyteller'''
-|"''O rosto da deusa Afrodite agora enfeita os aposentos do Príncipe, talvez para servir de consolo após a sua morte.''"
+|"*O rosto da deusa Afrodite agora enfeita os aposentos do Príncipe, talvez para servir de consolo após a sua morte.*"
 |-
 ! colspan="2" |Inspect Bedroom Dionysus Poster
 |-
 |'''Storyteller'''
-|"''O sempre sorridente, e embriagado rosto do grandioso Lorde Dionísio agora adorna uma parede dos aposentos do Príncipe, irradiando uma influência questionável.''"
+|"*O sempre sorridente, e embriagado rosto do grandioso Lorde Dionísio agora adorna uma parede dos aposentos do Príncipe, irradiando uma influência questionável.*"
 |-
 ! colspan="2" |Inspect Bedroom Scrying Pool
 |-
 |'''Storyteller'''
-|"''Uma tigela lindamente decorada e encantada com sutileza, contendo vestígios das últimas tentativas infelizes do Príncipe de fugir do Submundo, agora acentua um canto particularmente bagunçado de seu aposento.''"
+|"*Uma tigela lindamente decorada e encantada com sutileza, contendo vestígios das últimas tentativas infelizes do Príncipe de fugir do Submundo, agora acentua um canto particularmente bagunçado de seu aposento.*"
 |-
 ! colspan="2" |Inspect Bedroom Lyre
 |-
 |'''Storyteller'''
-|"''Um instrumento musical delicadamente construído agora reside na bagunça dos aposentos do Príncipe, sem dúvida temendo, se pudesse, sua mão pesada.''"
+|"*Um instrumento musical delicadamente construído agora reside na bagunça dos aposentos do Príncipe, sem dúvida temendo, se pudesse, sua mão pesada.*"
 |-
 ! colspan="2" |Inspect Bedroom Gaming Table 01
 |-
 |'''Storyteller'''
-|"''Um objeto talhado das formas mais complexas com o solo intuito de entretenimento agora reside nos aposentos do príncipe hedonista, embora a falta de um oponente limite seu apelo.''"
+|"*Um objeto talhado das formas mais complexas com o solo intuito de entretenimento agora reside nos aposentos do príncipe hedonista, embora a falta de um oponente limite seu apelo.*"
 |-
 ! colspan="2" |Inspect Bedroom Rug 01
 |-
 |'''Storyteller'''
-|"''Grande parte da maciez do divinamente trançado tapete que o Príncipe adquiriu não pôde ser sentido sob seus pés flamejantes.''"
+|"*Grande parte da maciez do divinamente trançado tapete que o Príncipe adquiriu não pôde ser sentido sob seus pés flamejantes.*"
 |-
 ! colspan="2" |Inspect Bedroom Fancy Bed
 |-
 |'''Storyteller'''
-|"''Com sua suavidade no ponto certo, e seu bordado tematizado à morte, a nova roupa de cama do Príncipe Zagreu é a inveja de todos aqueles que desejam descansar em paz.''"
+|"*Com sua suavidade no ponto certo, e seu bordado tematizado à morte, a nova roupa de cama do Príncipe Zagreu é a inveja de todos aqueles que desejam descansar em paz.*"
 |-
 ! colspan="2" |Inspect Bedroom Couch 01
 |-
 |'''Storyteller'''
-|"''O sempre energético Príncipe continua incapaz de se sentar e relaxar, mesmo com tais macios, confortáveis assentos decorando seus aposentos.''"
+|"*O sempre energético Príncipe continua incapaz de se sentar e relaxar, mesmo com tais macios, confortáveis assentos decorando seus aposentos.*"
 |-
 ! colspan="2" |Inspect Bedroom Weights 01
 |-
 |'''Storyteller'''
-|"''Um gigantesco conjunto de pesos posicionados cuidadosamente à vista de qualquer visitante os farão sem dúvida pensar que o Príncipe é mais forte e em melhor forma que na realidade.''"
+|"*Um gigantesco conjunto de pesos posicionados cuidadosamente à vista de qualquer visitante os farão sem dúvida pensar que o Príncipe é mais forte e em melhor forma que na realidade.*"
 |-
 ! colspan="2" |Inspect Bedroom Quest Log
 |-
 |'''Storyteller'''
-|"''O Príncipe supersticioso quanto ao destino acredita que foi por sua própria escolha que comprou a Lista Profetizada das Pequenas Profecias, mas tudo já estava planejado.''"
+|"*O Príncipe supersticioso quanto ao destino acredita que foi por sua própria escolha que comprou a Lista Profetizada das Pequenas Profecias, mas tudo já estava planejado.*"
 |-
 ! colspan="2" |Flashback 01
 |-
 |'''Storyteller'''
-|"''Tudo está calmo no momento; o eterno sonhador Hipnos lançou um feitiço na Casa, a pedido do próprio Zagreu. Todos caíram no sono rapidamente, exceto pelo Príncipe. Exatamente como ele planejou.''"
+|"*Tudo está calmo no momento; o eterno sonhador Hipnos lançou um feitiço na Casa, a pedido do próprio Zagreu. Todos caíram no sono rapidamente, exceto pelo Príncipe. Exatamente como ele planejou.*"
 |-
 ! colspan="2" |Inspect Death Area Bedroom Hades Portrait 01
 |-
 |'''Storyteller'''
-|"''Nos aposentos extremamente restritos de seu Lorde Pai, Zagreu, o Príncipe que sempre remove todos os cadeados que encontra, descobriu uma belíssima e delicada pintura de ninguém menos que de Perséfone em pessoa. Uma camada de poeira sugere que permaneceu ali por algum tempo.''"
+|"*Nos aposentos extremamente restritos de seu Lorde Pai, Zagreu, o Príncipe que sempre remove todos os cadeados que encontra, descobriu uma belíssima e delicada pintura de ninguém menos que de Perséfone em pessoa. Uma camada de poeira sugere que permaneceu ali por algum tempo.*"
 |-
 ! colspan="2" |Inspect Death Area Bedroom Hades Capes 01
 |-
 |'''Storyteller'''
-|"''O estoico Lorde e Mestre da Casa possui riquezas além da compreensão, uma porção da qual ele usou para um fino conjunto de vestimentas para cada dia que passa.''"
+|"*O estoico Lorde e Mestre da Casa possui riquezas além da compreensão, uma porção da qual ele usou para um fino conjunto de vestimentas para cada dia que passa.*"
 |-
 ! colspan="2" |Inspect Death Area Office Teleporter 01
 |-
 |'''Storyteller'''
-|"''Nos recessos da câmara administrativa se encontra a Runa Ancestral do Mestre da Casa: um símbolo da autoridade, concedida pelas Moiras, que ele possui para governar sob a terra, e a forma pela qual ele pode rapidamente navegar os muitos recintos de seu reino sombrio.''"
+|"*Nos recessos da câmara administrativa se encontra a Runa Ancestral do Mestre da Casa: um símbolo da autoridade, concedida pelas Moiras, que ele possui para governar sob a terra, e a forma pela qual ele pode rapidamente navegar os muitos recintos de seu reino sombrio.*"
 |-
 ! colspan="2" |Inspect Death Area Office Water Cooler 01
 |-
 |'''Storyteller'''
-|"''As frescas e purificadas águas do Estige estão disponíveis em quantidade ilimitada para todos os servos do deus dos mortos autorizados a trabalhar eternamente na câmara administrativa da Casa.''"
+|"*As frescas e purificadas águas do Estige estão disponíveis em quantidade ilimitada para todos os servos do deus dos mortos autorizados a trabalhar eternamente na câmara administrativa da Casa.*"
 |-
 ! colspan="2" |Inspect Death Area Office Poster 01
 |-
 |'''Storyteller'''
-|"''As sempre esforçadas sombras na câmara administrativa continuam plenamente dedicadas a seu trabalho ingrato, tudo graças à representação inspiradora de quão dedicados todos deveriam ser.''"
+|"*As sempre esforçadas sombras na câmara administrativa continuam plenamente dedicadas a seu trabalho ingrato, tudo graças à representação inspiradora de quão dedicados todos deveriam ser.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 01
 |-
 |'''Storyteller'''
-|"''Entre os registros imortalizados em papiro dos mortos e punidos estão os documentos conhecidos como A Sentença do Rei-Trapaceiro, que força dito rei a empurrar uma rocha sem descanso por toda a eternidade.''"
+|"*Entre os registros imortalizados em papiro dos mortos e punidos estão os documentos conhecidos como A Sentença do Rei-Trapaceiro, que força dito rei a empurrar uma rocha sem descanso por toda a eternidade.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 02
 |-
 |'''Storyteller'''
-|"''Escondido entre as torres de papirada administrativa dos mortos-há-muito-tempo, está um velho documento sobre um pacto especial assinado por um músico antes vivo, que tentou em vão resgatar sua esposa da morte.''"
+|"*Escondido entre as torres de papirada administrativa dos mortos-há-muito-tempo, está um velho documento sobre um pacto especial assinado por um músico antes vivo, que tentou em vão resgatar sua esposa da morte.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 03
 |-
 |'''Storyteller'''
-|"''Enterrado profundamente dentre os arquivos, aonde residem muitos pactos contratuais entre Lorde Hades e os mortos, se encontra um velho pergaminho; um acordo com um extraordinário guerreiro, oferecendo sua eterna servidão em troca de eterna estadia de seu querido companheiro no Elísio.''"
+|"*Enterrado profundamente dentre os arquivos, aonde residem muitos pactos contratuais entre Lorde Hades e os mortos, se encontra um velho pergaminho; um acordo com um extraordinário guerreiro, oferecendo sua eterna servidão em troca de eterna estadia de seu querido companheiro no Elísio.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 01
 |-
 |'''Storyteller'''
-|"''As tarefas do dia (ou noite) são extremamente simples; pelo menos a princípio, como quando o príncipe bate o ponto para sinalizar o começo de seu turno.''"
+|"*As tarefas do dia (ou noite) são extremamente simples; pelo menos a princípio, como quando o príncipe bate o ponto para sinalizar o começo de seu turno.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 02
 |-
 |'''Storyteller'''
-|"''O frequentemente frustrado príncipe tenta categorizar registros da forma necessária para a manutenção ideal do domínio de seu pai.''"
+|"*O frequentemente frustrado príncipe tenta categorizar registros da forma necessária para a manutenção ideal do domínio de seu pai.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 03
 |-
 |'''Storyteller'''
-|"''Os esforços do príncipe despreparado em administrar aprovações para os termos de julgamento deixa muito a desejar.''"
+|"*Os esforços do príncipe despreparado em administrar aprovações para os termos de julgamento deixa muito a desejar.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 04
 |-
 |'''Storyteller'''
-|"''As sombras trabalhadoras responsáveis pela administração do reino do pai do príncipe meramente observam suas tristes tentativas de trabalhar.''"
+|"*As sombras trabalhadoras responsáveis pela administração do reino do pai do príncipe meramente observam suas tristes tentativas de trabalhar.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 05
 |-
 |'''Storyteller'''
-|"''O príncipe amante de sossego nunca prestou muita atenção em aprender da maneira correta como organizar os livros de registro de cada região do domínio de seu pai.''"
+|"*O príncipe amante de sossego nunca prestou muita atenção em aprender da maneira correta como organizar os livros de registro de cada região do domínio de seu pai.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 06
 |-
 |'''Storyteller'''
-|"''Este conjunto de delicadas responsabilidades é facilmente resolvido, pelo menos por alguém capaz e treinado o bastante para o serviço, ao contrário do normalmente distraído Príncipe do Submundo.''"
+|"*Este conjunto de delicadas responsabilidades é facilmente resolvido, pelo menos por alguém capaz e treinado o bastante para o serviço, ao contrário do normalmente distraído Príncipe do Submundo.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 07
 |-
 |'''Storyteller'''
-|"''Um cuidadoso registro precisa ser feito de todos os gastos realizados na Casa; um processo de tabulação complexo e sofisticado que o príncipe é despreparado para realizar com sucesso.''"
+|"*Um cuidadoso registro precisa ser feito de todos os gastos realizados na Casa; um processo de tabulação complexo e sofisticado que o príncipe é despreparado para realizar com sucesso.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 08
 |-
 |'''Storyteller'''
-|"''Um registro bem atualizado dos lucros da casa, na forma de brilhantes joias, diamantes, Escuridão e outras formas de pagamento está entre os aspectos do trabalho mais detestados pelo príncipe.''"
+|"*Um registro bem atualizado dos lucros da casa, na forma de brilhantes joias, diamantes, Escuridão e outras formas de pagamento está entre os aspectos do trabalho mais detestados pelo príncipe.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 09
 |-
 |'''Storyteller'''
-|"''Registros de renovações vencidas do Empreiteiro da Casa cobrem uma mesa na câmara administrativa, embora o príncipe não tenha qualquer vontade de organizá-las alfabeticamente, e por data.''"
+|"*Registros de renovações vencidas do Empreiteiro da Casa cobrem uma mesa na câmara administrativa, embora o príncipe não tenha qualquer vontade de organizá-las alfabeticamente, e por data.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 10
 |-
 |'''Storyteller'''
-|"''Registros de presença das sombras trabalhadoras que servem a Casa precisam ser verificadas; a remuneração devida a cada sombra, rapidamente aprovada; ainda assim o príncipe não consegue se lembrar de todas as etapas necessárias.''"
+|"*Registros de presença das sombras trabalhadoras que servem a Casa precisam ser verificadas; a remuneração devida a cada sombra, rapidamente aprovada; ainda assim o príncipe não consegue se lembrar de todas as etapas necessárias.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 11
 |-
 |'''Storyteller'''
-|"''O desordeiro Príncipe Zagreu encara as infinitas pilhas de rolos de papiro, cada um contendo detalhes de trabalho que devem ser registrados e devidamente organizados, e começa a sentir seu otimismo se esvair.''"
+|"*O desordeiro Príncipe Zagreu encara as infinitas pilhas de rolos de papiro, cada um contendo detalhes de trabalho que devem ser registrados e devidamente organizados, e começa a sentir seu otimismo se esvair.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 12
 |-
 |'''Storyteller'''
-|"''Príncipe Zagreu certamente deve ter algum tipo de tarefa que goste na câmara administrativa da Casa; mas definitivamente nenhuma delas estão incluídas entre as tarefas que demandam sua atenção no momento.''"
+|"*Príncipe Zagreu certamente deve ter algum tipo de tarefa que goste na câmara administrativa da Casa; mas definitivamente nenhuma delas estão incluídas entre as tarefas que demandam sua atenção no momento.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 13
 |-
 |'''Storyteller'''
-|"''Revisar listas de declarações de Sombras com queixas é um serviço de grande importância na Casa, ou pelo menos é o que Lorde Hades tentou convencer seu filho teimoso que era o caso.''"
+|"*Revisar listas de declarações de Sombras com queixas é um serviço de grande importância na Casa, ou pelo menos é o que Lorde Hades tentou convencer seu filho teimoso que era o caso.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 14
 |-
 |'''Storyteller'''
-|"''Uma pilha de queixas enviadas pelas sombras inquietas por todos o Submundo precisam ser avaliadas, organizadas e processadas, mas o Príncipe Zagreu nem sabe por onde começar.''"
+|"*Uma pilha de queixas enviadas pelas sombras inquietas por todos o Submundo precisam ser avaliadas, organizadas e processadas, mas o Príncipe Zagreu nem sabe por onde começar.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 15
 |-
 |'''Storyteller'''
-|"''Suprimentos em todas as escrivaninhas na câmara administrativa devem ser cuidadosamente organizados e mantidos de forma específica, forma essa que o príncipe esquecido não conseguiu decorar.''"
+|"*Suprimentos em todas as escrivaninhas na câmara administrativa devem ser cuidadosamente organizados e mantidos de forma específica, forma essa que o príncipe esquecido não conseguiu decorar.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 16
 |-
 |'''Storyteller'''
-|"''Relatórios de segurança sobre tentativas falhas de fuga do Tártaro necessitam de verificação ágil e uma resposta oficial, e nenhuma das opções Príncipe Zagreu está apto a dar.''"
+|"*Relatórios de segurança sobre tentativas falhas de fuga do Tártaro necessitam de verificação ágil e uma resposta oficial, e nenhuma das opções Príncipe Zagreu está apto a dar.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office Conclusion 01
 |-
 |'''Storyteller'''
-|"''Enfim, o príncipe ressentido de ter que trabalhar esboça um resumo dos resultados de suas tentativas de ser de qualquer utilidade nos trabalhos administrativos da Casa de seu sombrio pai.''"
+|"*Enfim, o príncipe ressentido de ter que trabalhar esboça um resumo dos resultados de suas tentativas de ser de qualquer utilidade nos trabalhos administrativos da Casa de seu sombrio pai.*"
 |-
 ! colspan="2" |Inspect Pre Run 01
 |-
 |'''Storyteller'''
-|"''O pátio da Casa de Hades é mantido limpo e organizado, ao contrário da terrível área que fica além do terreno.''"
+|"*O pátio da Casa de Hades é mantido limpo e organizado, ao contrário da terrível área que fica além do terreno.*"
 |-
 ! colspan="2" |Minotaur Autograph 01
 |-
 |'''Minotaur'''
-|"''Ah''. Sinto que outra batalha furiosa nos espera por aqui, baixinho. Embora você esteja mais curioso do que o normal..."
+|"*Ah*. Sinto que outra batalha furiosa nos espera por aqui, baixinho. Embora você esteja mais curioso do que o normal..."
 |-
 |'''Zagreus'''
-|"''Uhh'', ah! É que, eu tenho um pedido estranho. Sabe, o deus do sono, Hipnos? Meu colega. Grande fã. Ele precisa desesperadamente do seu autógrafo. Uma mensagem personalizada? Não sei se poderia fazer essa gentileza. Significaria muito para ele."
+|"*Uhh*, ah! É que, eu tenho um pedido estranho. Sabe, o deus do sono, Hipnos? Meu colega. Grande fã. Ele precisa desesperadamente do seu autógrafo. Uma mensagem personalizada? Não sei se poderia fazer essa gentileza. Significaria muito para ele."
 |-
 |'''Minotaur'''
 |"Autógrafo. Sei. Então, parece que alguns deuses me favorecem. Vou escrever algo para o seu colega, então."
 |-
 |'''Storyteller'''
-|"''O Minotauro escreve num pergaminho uma breve mensagem ao deus do sono, e o entrega ao príncipe.''"
+|"*O Minotauro escreve num pergaminho uma breve mensagem ao deus do sono, e o entrega ao príncipe.*"
 |-
 |'''Minotaur'''
 |"Baixinho, você sabe que esse favor é para você e não para Hipnos. Embora ele possa me desafiar, a qualquer momento."
@@ -383,7 +383,7 @@
 |"Ora, mal posso acreditar no que vejo. É você, garoto?! Cérbero, veja quem é, ele voltou!"
 |-
 |'''Storyteller'''
-|"''Cérbero lança um olhar pesaroso ao Príncipe.''"
+|"*Cérbero lança um olhar pesaroso ao Príncipe.*"
 |-
 |'''Zagreus'''
 |"Não precisa envolver o cachorro nisso, pai."
@@ -394,7 +394,7 @@
 ! colspan="2" |Cerberus Misc Meeting 01
 |-
 |'''Storyteller'''
-|"''O cão de guarda infernal, Cérbero, encara o Príncipe do Submundo com emoções confusas, da mais pura alegria à mais profunda melancolia.''"
+|"*O cão de guarda infernal, Cérbero, encara o Príncipe do Submundo com emoções confusas, da mais pura alegria à mais profunda melancolia.*"
 |-
 |'''Zagreus'''
 |"Vai cuidar das coisas para mim, não vai, garoto? Você sabe que eu te levaria se pudesse."
@@ -405,7 +405,7 @@
 |"Como você está, garoto, comendo bem ultimamente? Todas as três bocas cheias e felizes?"
 |-
 |'''Storyteller'''
-|"''Cada boca aterrorizante do cão de guarda infernal, Cérbero, responde afirmativamente, uma após a outra, como se quisesse tranquilizar o precavido príncipe.''"
+|"*Cada boca aterrorizante do cão de guarda infernal, Cérbero, responde afirmativamente, uma após a outra, como se quisesse tranquilizar o precavido príncipe.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 03
 |-
@@ -413,7 +413,7 @@
 |"Calma, garoto. Eu provavelmente voltarei aqui logo logo."
 |-
 |'''Storyteller'''
-|"''O cão de guarda, Cérbero, fica de mau humor em sua cama flexível.''"
+|"*O cão de guarda, Cérbero, fica de mau humor em sua cama flexível.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 04
 |-
@@ -421,7 +421,7 @@
 |"Fique de olho no pai para mim, garoto. Não deixe que ele azede o humor de todos."
 |-
 |'''Storyteller'''
-|"''Cérbero promete fazer exatamente isso, à sua maneira.''"
+|"*Cérbero promete fazer exatamente isso, à sua maneira.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 05
 |-
@@ -429,7 +429,7 @@
 |"Como tudo está indo ultimamente, garoto? Quais as novidades?"
 |-
 |'''Storyteller'''
-|"''O questionamento casual do Príncipe do Submundo serve apenas para frustrar o cão infernal, já que nenhuma de suas três cabeças possui o dom e a maldição da fala.''"
+|"*O questionamento casual do Príncipe do Submundo serve apenas para frustrar o cão infernal, já que nenhuma de suas três cabeças possui o dom e a maldição da fala.*"
 |-
 ! colspan="2" |Cerberus Run Progress 01
 |-
@@ -437,7 +437,7 @@
 |"Ei, garoto, sou eu de novo. Passei aqui para dizer que é muito perigoso lá fora, mesmo sem você de guarda o tempo todo."
 |-
 |'''Storyteller'''
-|"''O venerável cão do inferno mal reconhece a platitude do Príncipe de fala mansa, sabendo muito bem que o Submundo não é guardado com tanta vigilância quanto nas eras passadas.''"
+|"*O venerável cão do inferno mal reconhece a platitude do Príncipe de fala mansa, sabendo muito bem que o Submundo não é guardado com tanta vigilância quanto nas eras passadas.*"
 |-
 ! colspan="2" |Cerberus Run Progress 02
 |-
@@ -445,7 +445,7 @@
 |"Adivinhe só, garoto? Cheguei até Asfódelo da última vez! Eu entendo perfeitamente porque você nunca gostou de lá. Agora, de volta ao trabalho, eu acho. Tome cuidado!"
 |-
 |'''Storyteller'''
-|"''Apesar do otimismo do Príncipe do Submundo, seu velho companheiro Cérbero, o cão de várias cabeças, mantém uma atitude um pouco aborrecida por enquanto.''"
+|"*Apesar do otimismo do Príncipe do Submundo, seu velho companheiro Cérbero, o cão de várias cabeças, mantém uma atitude um pouco aborrecida por enquanto.*"
 |-
 ! colspan="2" |Cerberus Run Progress 03
 |-
@@ -453,7 +453,7 @@
 |"Ei, que bom vê-lo de novo aqui, garoto. Estou feliz por você estar de volta de guarda! Mesmo que isso signifique ter de passar por você. Eu sei que você só está fazendo seu trabalho."
 |-
 |'''Storyteller'''
-|"''O temeroso cão infernal olha inquieto para o Príncipe do Submundo, com seus seis olhos ferozes brilhando sob a luz fraca da Casa.''"
+|"*O temeroso cão infernal olha inquieto para o Príncipe do Submundo, com seus seis olhos ferozes brilhando sob a luz fraca da Casa.*"
 |-
 ! colspan="2" |Cerberus About Fast Travel 01
 |-
@@ -461,7 +461,7 @@
 |"Espero não estar te incomodando muito com todas estas visitas ao Templo ultimamente, garoto. Me diga, como você volta? O Caronte te dá carona?"
 |-
 |'''Storyteller'''
-|"''Assim perguntou o Príncipe ao guardião das portas do inferno, sabendo muito bem que o monstro de várias cabeças mantém distância do barqueiro, como todos que têm bom senso fazem.''"
+|"*Assim perguntou o Príncipe ao guardião das portas do inferno, sabendo muito bem que o monstro de várias cabeças mantém distância do barqueiro, como todos que têm bom senso fazem.*"
 |-
 ! colspan="2" |Cerberus About Ball 01
 |-
@@ -469,7 +469,7 @@
 |"Tá gostando de encarar a bola que te dei, garoto? Não é tão divertido quando não revidam, né?"
 |-
 |'''Storyteller'''
-|"'' O monstro infernal de várias cabeças não sente vontade nenhuma de gastar seu tempo precioso em simples brinquedos, preferindo conservar sua vasta reserva de energia se precisar devorar um invasor repentinamente.''"
+|"* O monstro infernal de várias cabeças não sente vontade nenhuma de gastar seu tempo precioso em simples brinquedos, preferindo conservar sua vasta reserva de energia se precisar devorar um invasor repentinamente.*"
 |-
 ! colspan="2" |Cerberus Lounge Closed 01
 |-
@@ -477,7 +477,7 @@
 |"Você deixou mesmo o saguão em pedaços, garoto? Espero que você não tenha se metido em muitos problemas. Sinto muito por deixá-lo preocupado assim."
 |-
 |'''Storyteller'''
-|"''O monstro culpado, Cérbero, admite ter cometido o crime, expressando algum remorso por ter implicado o incendiário Príncipe.''"
+|"*O monstro culpado, Cérbero, admite ter cometido o crime, expressando algum remorso por ter implicado o incendiário Príncipe.*"
 |-
 ! colspan="2" |Cerberus Lounge Open 01
 |-
@@ -485,7 +485,7 @@
 |"Ei, você viu, garoto? O saguão antigo está novinho novamente, você precisa dar uma olhada! Só, não destrua nada como fez da última vez."
 |-
 |'''Storyteller'''
-|"''Cada semblante selvagem de Cérbero brilha ao ouvir a notícia, sem dúvida começando a montar estratégias para devastar novamente o saguão.''"
+|"*Cada semblante selvagem de Cérbero brilha ao ouvir a notícia, sem dúvida começando a montar estratégias para devastar novamente o saguão.*"
 |-
 ! colspan="2" |Cerberus About Underworld Renovations 01
 |-
@@ -493,7 +493,7 @@
 |"Ei, garoto. Eu espero que todas as reformas por aqui ultimamente não estejam te incomodando muito. Mas veja só, o saguão está quase pronto pra você destruir tudo de novo!"
 |-
 |'''Storyteller'''
-|"''O Príncipe Zagreu deixa o cão vigia vicioso e impressionável do Submundo com um apetite por destruição a ser saciado em outra época.''"
+|"*O Príncipe Zagreu deixa o cão vigia vicioso e impressionável do Submundo com um apetite por destruição a ser saciado em outra época.*"
 |-
 ! colspan="2" |Cerberus About Being Best Boy 01
 |-
@@ -501,7 +501,7 @@
 |"Sabe que depois de morrer de forma horrível, acariciar meu bom garoto me ajuda a me recompor bastante. Obrigado por sempre estar aqui por mim."
 |-
 |'''Storyteller'''
-|"''As chamas nos olhos do monstruoso Cérbero, notório cão do inferno, revelam que ele também gosta dos carinhos dos quais o Príncipe do Submundo fala. E na verdade, é profundamente grato por receber tantos.''"
+|"*As chamas nos olhos do monstruoso Cérbero, notório cão do inferno, revelam que ele também gosta dos carinhos dos quais o Príncipe do Submundo fala. E na verdade, é profundamente grato por receber tantos.*"
 |-
 ! colspan="2" |Cerberus About Persephone 01
 |-
@@ -509,7 +509,7 @@
 |"Eu encontrei ela, garoto! Minha mãe! Perséfone, você se lembra dela, não é? Ela ficou feliz de ouvir notícias suas. Mas eu não pude ficar por muito tempo, e tenho que encontrá-la de novo, então... acho que te vejo no Templo, não é mesmo?"
 |-
 |'''Storyteller'''
-|"''As expressões ferozes do muitíssimo ultrajado cão do inferno todas se acalmaram instantaneamente ao ouvirem a menção de um certo nome; brevemente, então, o monstro ficou em paz.''"
+|"*As expressões ferozes do muitíssimo ultrajado cão do inferno todas se acalmaram instantaneamente ao ouvirem a menção de um certo nome; brevemente, então, o monstro ficou em paz.*"
 |-
 ! colspan="2" |Cerberus Post Ending 01
 |-
@@ -517,7 +517,7 @@
 |"Olha só pra você, garoto! Nunca te vi tão animado assim, em comparação, é claro - um rapaz grande e forte como você. Você deve ter sentido falta da Mãe assim como ela de você. Bom, agora você tem bastante tempo para colocar o papo em dia!"
 |-
 |'''Storyteller'''
-|"''A monstruosa besta de três cabeças de Hades talvez seria completamente arrebatada de pura emoção pelas felizes circunstâncias, se apenas fosse capaz de tal.''"
+|"*A monstruosa besta de três cabeças de Hades talvez seria completamente arrebatada de pura emoção pelas felizes circunstâncias, se apenas fosse capaz de tal.*"
 |-
 ! colspan="2" |Cerberus Post Ending 02
 |-
@@ -525,15 +525,15 @@
 |"Aposto que você está feliz em ver minha Mãe em casa de novo, hein, garoto? Só queria que pudesse ter me contado sobre ela antes."
 |-
 |'''Storyteller'''
-|"''O monstro infernal Cérbero se contenta em ignorar o comentário caloso e inconsiderado do Príncipe.''"
+|"*O monstro infernal Cérbero se contenta em ignorar o comentário caloso e inconsiderado do Príncipe.*"
 |-
 ! colspan="2" |Cerberus Extreme Measures Reaction 01
 |-
 |'''Zagreus'''
-|"''Ui'', você me deu uma lição lá em cima, garoto. Lá fora, com meu Pai? Sei que estava só brincando mas... pega leve comigo na próxima, tá bom?"
+|"*Ui*, você me deu uma lição lá em cima, garoto. Lá fora, com meu Pai? Sei que estava só brincando mas... pega leve comigo na próxima, tá bom?"
 |-
 |'''Storyteller'''
-|"''O obstinado monstro Cérbero é completamente incapaz de demonstrar autocontrole ou remorso por suas falhas.''"
+|"*O obstinado monstro Cérbero é completamente incapaz de demonstrar autocontrole ou remorso por suas falhas.*"
 |-
 ! colspan="2" |Cerberus Post Epilogue 01
 |-
@@ -541,142 +541,142 @@
 |"Estamos orgulhosos de você, garoto! Você se comportou muito bem no banquete. Eu estava morrendo de medo de algum dos tios te irritar em algum momento, mas você foi o cúmulo da paciência. Obrigado por ajudar a divertir nossa grande família!"
 |-
 |'''Storyteller'''
-|"''O motivo do atroz Cérbero, cão do inferno, conseguir manter-se civilizado durante todo o banquete continua um mistério para todos que participaram.''"
+|"*O motivo do atroz Cérbero, cão do inferno, conseguir manter-se civilizado durante todo o banquete continua um mistério para todos que participaram.*"
 |-
 ! colspan="2" |Cerberus Chat 02
 |-
 |'''Storyteller'''
-|"''O Príncipe e Cérbero trocam um olhar.''"
+|"*O Príncipe e Cérbero trocam um olhar.*"
 |-
 ! colspan="2" |Cerberus Chat 03
 |-
 |'''Storyteller'''
-|"''O cão de guarda Cérbero observa o Príncipe.''"
+|"*O cão de guarda Cérbero observa o Príncipe.*"
 |-
 ! colspan="2" |Cerberus Chat 04
 |-
 |'''Storyteller'''
-|"''Cérbero não pode ser incomodado no momento.''"
+|"*Cérbero não pode ser incomodado no momento.*"
 |-
 ! colspan="2" |Cerberus Chat 05
 |-
 |'''Storyteller'''
-|"''Cérbero está confortavelmente em repouso, observando tudo.''"
+|"*Cérbero está confortavelmente em repouso, observando tudo.*"
 |-
 ! colspan="2" |Cerberus Chat 06
 |-
 |'''Storyteller'''
-|"''Cérbero está, como sempre, ao pé do trono de seu Lorde e Mestre.''"
+|"*Cérbero está, como sempre, ao pé do trono de seu Lorde e Mestre.*"
 |-
 ! colspan="2" |Cerberus Chat 07
 |-
 |'''Storyteller'''
-|"''Cérbero não tenta se mover.''"
+|"*Cérbero não tenta se mover.*"
 |-
 ! colspan="2" |Cerberus Chat 08
 |-
 |'''Storyteller'''
-|"''Cérbero está ocupado considerando o que mais deve roer.''"
+|"*Cérbero está ocupado considerando o que mais deve roer.*"
 |-
 ! colspan="2" |Cerberus Chat 09
 |-
 |'''Storyteller'''
-|"''Cérbero está ocupado com suas coisas: roer, no caso.''"
+|"*Cérbero está ocupado com suas coisas: roer, no caso.*"
 |-
 ! colspan="2" |Cerberus Chat 10
 |-
 |'''Storyteller'''
-|"''Cérbero está entretido com coceiras e mordidas.''"
+|"*Cérbero está entretido com coceiras e mordidas.*"
 |-
 ! colspan="2" |Cerberus Chat 11
 |-
 |'''Storyteller'''
-|"''Cérbero não está interessado em conversar no momento.''"
+|"*Cérbero não está interessado em conversar no momento.*"
 |-
 ! colspan="2" |Cerberus Chat 12
 |-
 |'''Storyteller'''
-|"''O cão do inferno descansa tranquilamente em seu lugar preferido.''"
+|"*O cão do inferno descansa tranquilamente em seu lugar preferido.*"
 |-
 ! colspan="2" |Cerberus Chat 13
 |-
 |'''Storyteller'''
-|"''Todos os três semblantes aterrorizantes de Cérbero, o cão de guarda, cumprimentam o Príncipe.''"
+|"*Todos os três semblantes aterrorizantes de Cérbero, o cão de guarda, cumprimentam o Príncipe.*"
 |-
 ! colspan="2" |Cerberus Chat 14
 |-
 |'''Storyteller'''
-|"''O cruel cão de guarda dos portões da morte com três cabeças late para cumprimentá-lo.''"
+|"*O cruel cão de guarda dos portões da morte com três cabeças late para cumprimentá-lo.*"
 |-
 ! colspan="2" |Cerberus Chat 15
 |-
 |'''Storyteller'''
-|"''O sempre fiel Cérbero permanece descansando firmemente em seu lugar.''"
+|"*O sempre fiel Cérbero permanece descansando firmemente em seu lugar.*"
 |-
 ! colspan="2" |Cerberus Chat 16
 |-
 |'''Storyteller'''
-|"''Notoriamente cruel, Cérbero está assistindo em silêncio a corte de seu Mestre.''"
+|"*Notoriamente cruel, Cérbero está assistindo em silêncio a corte de seu Mestre.*"
 |-
 ! colspan="2" |Cerberus Chat 17
 |-
 |'''Storyteller'''
-|"''Uma das bocas assustadoras de Cérbero ativamente cuida das outras duas.''"
+|"*Uma das bocas assustadoras de Cérbero ativamente cuida das outras duas.*"
 |-
 ! colspan="2" |Cerberus Chat 18
 |-
 |'''Storyteller'''
-|"''O monstro de três cabeças Cérbero está obedientemente sentado lá como sempre.''"
+|"*O monstro de três cabeças Cérbero está obedientemente sentado lá como sempre.*"
 |-
 ! colspan="2" |Cerberus Chat 19
 |-
 |'''Storyteller'''
-|"''O Cérbero de muitas cabeças está ocupado pensando em sua próxima refeição saborosa.''"
+|"*O Cérbero de muitas cabeças está ocupado pensando em sua próxima refeição saborosa.*"
 |-
 ! colspan="2" |Cerberus Chat 20
 |-
 |'''Storyteller'''
-|"''Cérbero reconhece o Príncipe com um carinho nutrido com o tempo.''"
+|"*Cérbero reconhece o Príncipe com um carinho nutrido com o tempo.*"
 |-
 ! colspan="2" |Cerberus Chat 21
 |-
 |'''Storyteller'''
-|"''O diabólico cão de guarda rosna para as débeis Sombras que populam toda a corte.''"
+|"*O diabólico cão de guarda rosna para as débeis Sombras que populam toda a corte.*"
 |-
 ! colspan="2" |Cerberus Chat 22
 |-
 |'''Storyteller'''
-|"''O tão temido Cérbero lambe sem parar algo no chão.''"
+|"*O tão temido Cérbero lambe sem parar algo no chão.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 01
 |-
 |'''Storyteller'''
-|"''O cão do inferno mal considera a presença do Príncipe, estando saciado por hora.''"
+|"*O cão do inferno mal considera a presença do Príncipe, estando saciado por hora.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 02
 |-
 |'''Storyteller'''
-|"''O brutal Cérbero das três cabeças demonstra certo autocontrole, por enquanto.''"
+|"*O brutal Cérbero das três cabeças demonstra certo autocontrole, por enquanto.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 03
 |-
 |'''Storyteller'''
-|"''Cérbero está muito ocupado vivendo nos confortos e luxos para prestar atenção.''"
+|"*Cérbero está muito ocupado vivendo nos confortos e luxos para prestar atenção.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 04
 |-
 |'''Storyteller'''
-|"''O monstruoso Cérbero senta vigilantemente em sua cama.''"
+|"*O monstruoso Cérbero senta vigilantemente em sua cama.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 05
 |-
 |'''Storyteller'''
-|"''Cada mandíbula feroz de Cérbero saliva em antecipação à hora da comida.''"
+|"*Cada mandíbula feroz de Cérbero saliva em antecipação à hora da comida.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 06
 |-
 |'''Storyteller'''
-|"''O aterrorizante Cérbero está ocupado recuperando suas forças para a próxima vez que for bloquear o caminho do Príncipe.''"
+|"*O aterrorizante Cérbero está ocupado recuperando suas forças para a próxima vez que for bloquear o caminho do Príncipe.*"
 |-
 ! colspan="2" |Cerberus Gift 01
 |-
@@ -684,7 +684,7 @@
 |"Olha o que eu trouxe para você, garoto...!"
 |-
 |'''Storyteller'''
-|"''Enquanto uma das cabeças de Cérbero recebe o presente do Príncipe, outra espia algo em sua mão.''"
+|"*Enquanto uma das cabeças de Cérbero recebe o presente do Príncipe, outra espia algo em sua mão.*"
 |-
 ! colspan="2" |Cerberus Gift 02
 |-
@@ -692,7 +692,7 @@
 |"Bom garoto... sabia que você ia gostar disso!"
 |-
 |'''Storyteller'''
-|"''Cérbero está muito feliz por ter recebido tamanha guloseima.''"
+|"*Cérbero está muito feliz por ter recebido tamanha guloseima.*"
 |-
 ! colspan="2" |Cerberus Gift 03
 |-
@@ -700,7 +700,7 @@
 |"Só as melhores guloseimas para o meu melhor amigo, certo, garotão?"
 |-
 |'''Storyteller'''
-|"''Cérbero chora de alegria ao receber uma oferenda tão generosa.''"
+|"*Cérbero chora de alegria ao receber uma oferenda tão generosa.*"
 |-
 ! colspan="2" |Cerberus Gift 04
 |-
@@ -708,7 +708,7 @@
 |"É meu humilde dever agradar meu garotão favorito com todas as guloseimas que eu puder encontrar."
 |-
 |'''Storyteller'''
-|"''Conhecendo o apetite interminável do cão de guarda por guloseimas, o Príncipe o agrada.''"
+|"*Conhecendo o apetite interminável do cão de guarda por guloseimas, o Príncipe o agrada.*"
 |-
 ! colspan="2" |Cerberus Gift 05
 |-
@@ -716,7 +716,7 @@
 |"Você gosta desse negócio, não gosta, garotão? Então, que bom, porque eu gosto de te trazer escondido também!"
 |-
 |'''Storyteller'''
-|"''O delicioso gosto do Néctar é o bastante para brevemente satisfazer até mesmo o apetite feroz do cão do inferno.''"
+|"*O delicioso gosto do Néctar é o bastante para brevemente satisfazer até mesmo o apetite feroz do cão do inferno.*"
 |-
 ! colspan="2" |Cerberus Gift 06
 |-
@@ -724,7 +724,7 @@
 |"Esse Néctar não é chique o suficiente pra você, garoto? É isso? Você começou a ter o paladar delicado com essa sua idade!"
 |-
 |'''Storyteller'''
-|"''Apesar de ter pouco apetite pelo gosto leve do Néctar, o monstro de três cabeças do Submundo aceita.''"
+|"*Apesar de ter pouco apetite pelo gosto leve do Néctar, o monstro de três cabeças do Submundo aceita.*"
 |-
 ! colspan="2" |Cerberus Gift 07
 |-
@@ -732,7 +732,7 @@
 |"Isso mesmo, garoto... Ambrósia, só pra você. Você vai amar. Praticamente qualquer criatura, esteja viva ou morta, ama!"
 |-
 |'''Storyteller'''
-|"''Os seis olhos do terrível cão do Inferno se arregalam ao mesmo tempo ao receber de presente a rara Ambrósia Olímpica. A criatura está fora de si.''"
+|"*Os seis olhos do terrível cão do Inferno se arregalam ao mesmo tempo ao receber de presente a rara Ambrósia Olímpica. A criatura está fora de si.*"
 |-
 ! colspan="2" |Cerberus Gift 08
 |-
@@ -740,7 +740,7 @@
 |"Desce muito bem, não é garoto? Eu sei que essa situação te envolveu e te faz testar sua lealdade contra sua vontade. Sinto muito te fazer passar por isso."
 |-
 |'''Storyteller'''
-|"''A mais nova tentativa do Príncipe do Submundo de comprar ainda mais o afeto do monstruoso cão de três cabeças do inferno se mostra bem-sucedida, pois o presente majestoso de Ambrósia celestial é sem igual.''"
+|"*A mais nova tentativa do Príncipe do Submundo de comprar ainda mais o afeto do monstruoso cão de três cabeças do inferno se mostra bem-sucedida, pois o presente majestoso de Ambrósia celestial é sem igual.*"
 |-
 ! colspan="2" |Cerberus Gift 09
 |-
@@ -748,7 +748,7 @@
 |"Cérbero, não quero ficar todo sentimental contigo nem nada, mas... ah, quem estou enganando, olha... você esteve comigo minha vida toda! Eu sei que ainda está aqui, em parte, por causa de mim, não é?"
 |-
 |'''Storyteller'''
-|"''O laço entre um cão e seu mestre é mais forte que diamante. Cérbero, o temível monstro nascido do inferno, guardião de seus portões, atende em primeiro lugar ao pai do Príncipe. Mas parece que o príncipe é o segundo na fila.''"
+|"*O laço entre um cão e seu mestre é mais forte que diamante. Cérbero, o temível monstro nascido do inferno, guardião de seus portões, atende em primeiro lugar ao pai do Príncipe. Mas parece que o príncipe é o segundo na fila.*"
 |-
 |'''Zagreus'''
 |"Você é o melhor garoto do mundo. Mesmo que as cabeças Beta e Gama não gostem muito de carinho, não é? Eu tenho mais cafunés que o suficiente pra te dar. Pode acreditar."
@@ -756,16 +756,16 @@
 ! colspan="2" |Cerberus Styx Meeting 01
 |-
 |'''Storyteller'''
-|"''O Cérbero de várias cabeças permanece vigilante diante da entrada do Submundo; as histórias do que acontece com aqueles tolos o suficiente para tentar passar são muito vívidas para serem descritas.''"
+|"*O Cérbero de várias cabeças permanece vigilante diante da entrada do Submundo; as histórias do que acontece com aqueles tolos o suficiente para tentar passar são muito vívidas para serem descritas.*"
 |-
 |'''Zagreus'''
-|"Então é assim, garoto? Depois de tudo o que passamos. Bem, se é assim que tem de ser, não há mais nada a dizer. Exceto: ''Em guarda''!!"
+|"Então é assim, garoto? Depois de tudo o que passamos. Bem, se é assim que tem de ser, não há mais nada a dizer. Exceto: *Em guarda*!!"
 |-
 |'''Zagreus'''
-|"''Hahaha'', não, mas sério, garotão. Sei por que você está aqui. Deve haver uma maneira de fazer você me deixar passar. E se eu te ajudasse com o problema do sátiro, você me deixaria ir? Por favor. Preciso encontrar minha mãe. Você sabe como isso é importante para mim."
+|"*Hahaha*, não, mas sério, garotão. Sei por que você está aqui. Deve haver uma maneira de fazer você me deixar passar. E se eu te ajudasse com o problema do sátiro, você me deixaria ir? Por favor. Preciso encontrar minha mãe. Você sabe como isso é importante para mim."
 |-
 |'''Storyteller'''
-|"''Após um momento de hesitação e deliberação, o cão voraz do inferno late uma vez, afirmativamente, para o Príncipe, que parte em busca de algo que possa saciar o apetite do monstro.''"
+|"*Após um momento de hesitação e deliberação, o cão voraz do inferno late uma vez, afirmativamente, para o Príncipe, que parte em busca de algo que possa saciar o apetite do monstro.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock 01
 |-
@@ -773,294 +773,294 @@
 |"Tudo bem, garotão, eu trouxe sua guloseima favorita. Mas você precisa prometer que me deixará passar se eu entregá-la, combinado?"
 |-
 |'''Storyteller'''
-|"''O aterrorizante Cérbero aceita o saco fétido e examina a sala escura para encontrar o melhor lugar para consumir seu conteúdo de revirar o estômago.''"
+|"*O aterrorizante Cérbero aceita o saco fétido e examina a sala escura para encontrar o melhor lugar para consumir seu conteúdo de revirar o estômago.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 01
 |-
 |'''Storyteller'''
-|"''Cérbero aceita o saco novamente.''"
+|"*Cérbero aceita o saco novamente.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 02
 |-
 |'''Storyteller'''
-|"''O gigantesco Cérbero aceita a oferenda imunda do Príncipe.''"
+|"*O gigantesco Cérbero aceita a oferenda imunda do Príncipe.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 03
 |-
 |'''Storyteller'''
-|"''O temível Cérbero aceita o saco dos Sátiros.''"
+|"*O temível Cérbero aceita o saco dos Sátiros.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 04
 |-
 |'''Storyteller'''
-|"''O Príncipe convence o feroz guardião do Submundo a se afastar.''"
+|"*O Príncipe convence o feroz guardião do Submundo a se afastar.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 05
 |-
 |'''Storyteller'''
-|"''O Príncipe convence o cão de várias cabeças a deixá-lo passar.''"
+|"*O Príncipe convence o cão de várias cabeças a deixá-lo passar.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 06
 |-
 |'''Storyteller'''
-|"''Assim, o Príncipe convenceu novamente o temível Cérbero a sair do caminho.''"
+|"*Assim, o Príncipe convenceu novamente o temível Cérbero a sair do caminho.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 07
 |-
 |'''Storyteller'''
-|"''O cão do inferno aceita alegremente outro saco dos Sátiros.''"
+|"*O cão do inferno aceita alegremente outro saco dos Sátiros.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 08
 |-
 |'''Storyteller'''
-|"''A singular fraqueza do monstro, os Sacos dos Sátiros, mais uma vez demonstram-se extremamente eficazes.''"
+|"*A singular fraqueza do monstro, os Sacos dos Sátiros, mais uma vez demonstram-se extremamente eficazes.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 09
 |-
 |'''Storyteller'''
-|"''Cérbero, com suas presas à mostra, direciona todas suas três cabeças para observar o Saco dos Sátiros.''"
+|"*Cérbero, com suas presas à mostra, direciona todas suas três cabeças para observar o Saco dos Sátiros.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 10
 |-
 |'''Storyteller'''
-|"''O guardião do inferno enfim decidiu que chegou a hora de uma pequena pausa para um lanchinho.''"
+|"*O guardião do inferno enfim decidiu que chegou a hora de uma pequena pausa para um lanchinho.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 11
 |-
 |'''Storyteller'''
-|"''Príncipe Zagreu mais uma vez oferece a Cérbero um de seus petiscos favoritos.''"
+|"*Príncipe Zagreu mais uma vez oferece a Cérbero um de seus petiscos favoritos.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 12
 |-
 |'''Storyteller'''
-|"''Cérbero não permite a passagem de ninguém, mas por um Saco dos Sátiros ele pode fazer uma exceção.''"
+|"*Cérbero não permite a passagem de ninguém, mas por um Saco dos Sátiros ele pode fazer uma exceção.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 13
 |-
 |'''Storyteller'''
-|"''O atencioso Cérbero decide desviar o olhar, dessa vez.''"
+|"*O atencioso Cérbero decide desviar o olhar, dessa vez.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 14
 |-
 |'''Storyteller'''
-|"''Cada violento semblante de Cérbero concorda que o Saco dos Sátiros precisa ser destruído prontamente.''"
+|"*Cada violento semblante de Cérbero concorda que o Saco dos Sátiros precisa ser destruído prontamente.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 15
 |-
 |'''Storyteller'''
-|"''Após deliberar brevemente, Cérbero conclui que sim, ele irá aceitar o saco.''"
+|"*Após deliberar brevemente, Cérbero conclui que sim, ele irá aceitar o saco.*"
 |-
-! colspan="2" |Persephone With Cerberus 01
+! colspan="2" |Duo - Persephone and Cerberus (1)
 |-
 |'''Persephone'''
 |"Oh, Cérbero! Sem dúvida você merece os melhores agradecimentos por esta Casa ainda estar de pé, não é? Você gostou do presente que eu comprei pra você na superfície?"
 |-
 |'''Storyteller'''
-|"''O cão devorador de petiscos da superfície responde à Rainha da forma mais enfática possível.''"
+|"*O cão devorador de petiscos da superfície responde à Rainha da forma mais enfática possível.*"
 |-
 |'''Persephone'''
 |"Eu achei que você gostaria. Aposto que não dá para dizer que não é feito de carne! Vamos ver se conseguimos fazer você crescer um pouco mais."
 |-
-! colspan="2" |Persephone With Cerberus 02
+! colspan="2" |Duo - Persephone and Cerberus (2)
 |-
 |'''Persephone'''
 |"Você é um menino bonzinho, não é, Cérbero? É, sim, você é! Guardou o local enquanto eu estive fora. E até deixou o meu filho ir me visitar!"
 |-
 |'''Storyteller'''
-|"''O sempre vigilante e horripilante Cérbero simplesmente aceita o elogio.''"
+|"*O sempre vigilante e horripilante Cérbero simplesmente aceita o elogio.*"
 |-
 ! colspan="2" |Charon First Inspect
 |-
 |'''Storyteller'''
-|"''Escondido nos recônditos obscuros do Submundo está a terra de Érebo, onde os mortos aguardam a sentença eterna. Lá, eles anseiam pela atenção e pelas boas graças de seu mestre, Lorde Hades.''"
+|"*Escondido nos recônditos obscuros do Submundo está a terra de Érebo, onde os mortos aguardam a sentença eterna. Lá, eles anseiam pela atenção e pelas boas graças de seu mestre, Lorde Hades.*"
 |-
 ! colspan="2" |Charon Fight 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Uma parte oculta do inacabável rio Estige corta através do nevoento Érebo, oferecendo ao barqueiro Caronte um local no qual possa lidar com as almas mais indisciplinadas.''"
+|"*Uma parte oculta do inacabável rio Estige corta através do nevoento Érebo, oferecendo ao barqueiro Caronte um local no qual possa lidar com as almas mais indisciplinadas.*"
 |-
 ! colspan="2" |Inspect B Pre Boss 01 01
 |-
 |'''Storyteller'''
-|"''Depois de atravessar o rio flamejante, Flegetonte, para ganhar certa vantagem, o implacável Zagreu deve enfrentar um inimigo de selvageria inimaginável que está à sua frente, aguardando pacientemente a hora de atacar.''"
+|"*Depois de atravessar o rio flamejante, Flegetonte, para ganhar certa vantagem, o implacável Zagreu deve enfrentar um inimigo de selvageria inimaginável que está à sua frente, aguardando pacientemente a hora de atacar.*"
 |-
 ! colspan="2" |Inspect B Story 01 01
 |-
 |'''Storyteller'''
-|"''Muito além do rio flamejante está a escadaria oculta rumo ao ambiente mais resguardado e esplendoroso do Submundo: o celestial Elísio, lar eterno das maiores almas que já viveram.''"
+|"*Muito além do rio flamejante está a escadaria oculta rumo ao ambiente mais resguardado e esplendoroso do Submundo: o celestial Elísio, lar eterno das maiores almas que já viveram.*"
 |-
 |'''Storyteller'''
-|"''De dentro de uma humilde residência em Asfódelo, ecoa a voz sonora de Eurídice que, certa vez, tentou escapar do Submundo, e falhou totalmente, assim como o Príncipe Zagreu.''"
+|"*De dentro de uma humilde residência em Asfódelo, ecoa a voz sonora de Eurídice que, certa vez, tentou escapar do Submundo, e falhou totalmente, assim como o Príncipe Zagreu.*"
 |-
 ! colspan="2" |B Mini Boss 02 First Inspect
 |-
 |'''Storyteller'''
-|"''O ato de feitiçaria frequentemente termina com uma morte precoce e uma eternidade no Tártaro para almas descuidadas, embora algumas sejam capazes de aperfeiçoar a arte, e se estabelecer permanente em algum outro lugar...''"
+|"*O ato de feitiçaria frequentemente termina com uma morte precoce e uma eternidade no Tártaro para almas descuidadas, embora algumas sejam capazes de aperfeiçoar a arte, e se estabelecer permanente em algum outro lugar...*"
 |-
 ! colspan="2" |Inspect B Shop 01 01
 |-
 |'''Storyteller'''
-|"''As chamas e as cinzas do rio Flegetonte não significam nada para o barqueiro, Caronte, que viaja por todas as águas do Submundo, levando os mortos, os condenados e todos os seus pertences.''"
+|"*As chamas e as cinzas do rio Flegetonte não significam nada para o barqueiro, Caronte, que viaja por todas as águas do Submundo, levando os mortos, os condenados e todos os seus pertences.*"
 |-
 ! colspan="2" |Inspect B Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''Escondido bem no interior do inferno ilimitado do rio Flegetonte, de alguma forma, um fio de água que dá vida ainda permanece; como se fosse oferecido pelas próprias Moiras ao sortudo Príncipe.''"
+|"*Escondido bem no interior do inferno ilimitado do rio Flegetonte, de alguma forma, um fio de água que dá vida ainda permanece; como se fosse oferecido pelas próprias Moiras ao sortudo Príncipe.*"
 |-
 ! colspan="2" |Inspect B Intro 01 01
 |-
 |'''Storyteller'''
-|"''As planícies outrora verdejantes de Asfódelo agora estão envoltas em chamas cintilantes, depois de terem sido inundadas pelo rio Flegetonte, cujo fluido horrivelmente superaquecido pode levar rapidamente à morte até mesmo aqueles que resistem ao calor intenso.''"
+|"*As planícies outrora verdejantes de Asfódelo agora estão envoltas em chamas cintilantes, depois de terem sido inundadas pelo rio Flegetonte, cujo fluido horrivelmente superaquecido pode levar rapidamente à morte até mesmo aqueles que resistem ao calor intenso.*"
 |-
 ! colspan="2" |Inspect B Intro 02
 |-
 |'''Storyteller'''
-|"''Dentro do calor sufocante de Asfódelo reside a grande maioria dos que viveram e morreram na terra. Lá, eles permanecem até o final dos tempos.''"
+|"*Dentro do calor sufocante de Asfódelo reside a grande maioria dos que viveram e morreram na terra. Lá, eles permanecem até o final dos tempos.*"
 |-
 ! colspan="2" |Inspect C Pre Boss 01 01
 |-
 |'''Storyteller'''
-|"''A fachada magnificamente ameaçadora do grande Estádio de Elísio ergue-se acima do entusiasmado Príncipe, como se quisesse levá-lo a uma competição que ele não é capaz de vencer.''"
+|"*A fachada magnificamente ameaçadora do grande Estádio de Elísio ergue-se acima do entusiasmado Príncipe, como se quisesse levá-lo a uma competição que ele não é capaz de vencer.*"
 |-
 ! colspan="2" |Inspect C Shop 01 01
 |-
 |'''Storyteller'''
-|"''O barqueiro do rio, Caronte, cujos serviços são frequentemente oferecidos aos mais ricos de Elísio, acumula as vastas e inúmeras riquezas da superfície e do Submundo.''"
+|"*O barqueiro do rio, Caronte, cujos serviços são frequentemente oferecidos aos mais ricos de Elísio, acumula as vastas e inúmeras riquezas da superfície e do Submundo.*"
 |-
 ! colspan="2" |Inspect C Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''Dentro das construções delicadamente esculpidas de Elísio existem lugares pacíficos tão serenos e absolutos que os mortais raramente experimentam durante uma vida curta e muitas vezes dolorosa.''"
+|"*Dentro das construções delicadamente esculpidas de Elísio existem lugares pacíficos tão serenos e absolutos que os mortais raramente experimentam durante uma vida curta e muitas vezes dolorosa.*"
 |-
 ! colspan="2" |Inspect C Story 01 01
 |-
 |'''Storyteller'''
-|"''Em meio às câmaras cobertas de musgo do Elísio e esculpidas em pedra, há um número incontável de monumentos eternos em homenagem aos maiores heróis que a mortalidade pode oferecer, para honrá-los tanto na vida quanto na morte.''"
+|"*Em meio às câmaras cobertas de musgo do Elísio e esculpidas em pedra, há um número incontável de monumentos eternos em homenagem aos maiores heróis que a mortalidade pode oferecer, para honrá-los tanto na vida quanto na morte.*"
 |-
 ! colspan="2" |Inspect C Intro 01
 |-
 |'''Storyteller'''
-|"''Os raros esplendores celestiais de Elísio, reservados apenas à maior das almas mortais, espalham-se de maneira exuberante ao redor do Príncipe que caminha sobre o fogo.''"
+|"*Os raros esplendores celestiais de Elísio, reservados apenas à maior das almas mortais, espalham-se de maneira exuberante ao redor do Príncipe que caminha sobre o fogo.*"
 |-
 ! colspan="2" |Inspect C Intro 02
 |-
 |'''Storyteller'''
-|"''O rio escondido do esquecimento, Lete, flui pelos aposentos sagrados de Elísio, entorpecendo antigas dores e lembranças das sombras mais nobres que ali habitam.''"
+|"*O rio escondido do esquecimento, Lete, flui pelos aposentos sagrados de Elísio, entorpecendo antigas dores e lembranças das sombras mais nobres que ali habitam.*"
 |-
 ! colspan="2" |Inspect Room Secret 01 01
 |-
 |'''Storyteller'''
-|"''Os confins mais profundos do Submundo... o vazio do qual toda a vida e consciência surgiu durante o alvorecer dos tempos... o reino de Caos. Uma terra quase invisível até mesmo para os habitantes do reino da morte.''"
+|"*Os confins mais profundos do Submundo... o vazio do qual toda a vida e consciência surgiu durante o alvorecer dos tempos... o reino de Caos. Uma terra quase invisível até mesmo para os habitantes do reino da morte.*"
 |-
 ! colspan="2" |Inspect Room Secret 02 01
 |-
 |'''Storyteller'''
-|"''As terras escondidas nos cantos mais escuros do Submundo vão muito além da observação do próprio Lorde Hades; mesmo assim, o intrometido Príncipe de alguma maneira descobre uma passagem para lá.''"
+|"*As terras escondidas nos cantos mais escuros do Submundo vão muito além da observação do próprio Lorde Hades; mesmo assim, o intrometido Príncipe de alguma maneira descobre uma passagem para lá.*"
 |-
 ! colspan="2" |Inspect Room Secret 03 01
 |-
 |'''Storyteller'''
-|"''No abismos mais silencioso, solitário e sombrio do Submundo, há evidências ocultas do começo de todas as coisas, do Caos! O escultor mais antigo que moldou este mundo.''"
+|"*No abismos mais silencioso, solitário e sombrio do Submundo, há evidências ocultas do começo de todas as coisas, do Caos! O escultor mais antigo que moldou este mundo.*"
 |-
 ! colspan="2" |Inspect D Mini Boss 02 01
 |-
 |'''Storyteller'''
-|"''Dentro de cavernas imundas escavadas nas torres imponentes do Submundo jazem abominações tão terríveis que nem mesmo o sombrio Lorde Hades se dispõe a interagir.''"
+|"*Dentro de cavernas imundas escavadas nas torres imponentes do Submundo jazem abominações tão terríveis que nem mesmo o sombrio Lorde Hades se dispõe a interagir.*"
 |-
 ! colspan="2" |Inspect D Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''Nas profundezas do covil maculado dos Sátiros profanos jazem os fétidos restos de seus rituais proibidos, tão sórdidos quanto indescritíveis.''"
+|"*Nas profundezas do covil maculado dos Sátiros profanos jazem os fétidos restos de seus rituais proibidos, tão sórdidos quanto indescritíveis.*"
 |-
 ! colspan="2" |Inspect D Intro 01 01
 |-
 |'''Storyteller'''
-|"''Enfim o Príncipe determinado desbravou todo o caminho até a superfície do reino mortal, mas ele ainda está preso na própria terra: a porta de entrada para o Submundo, uma passagem da qual não há retorno, nem saída.''"
+|"*Enfim o Príncipe determinado desbravou todo o caminho até a superfície do reino mortal, mas ele ainda está preso na própria terra: a porta de entrada para o Submundo, uma passagem da qual não há retorno, nem saída.*"
 |-
 ! colspan="2" |Inspect D Hub 01
 |-
 |'''Storyteller'''
-|"''O vasto Templo do Estige e seus inúmeros perigos agora são tudo o que separa o Príncipe do Submundo da terra lá fora, que ele tão desesperadamente deseja ver.''"
+|"*O vasto Templo do Estige e seus inúmeros perigos agora são tudo o que separa o Príncipe do Submundo da terra lá fora, que ele tão desesperadamente deseja ver.*"
 |-
 ! colspan="2" |Inspect D Hub 02
 |-
 |'''Storyteller'''
-|"''Não muito longe daqui, os mortos começam sua jornada para o local do seu descanso final nas profundezas abaixo; assim como o barqueiro do rio, Caronte, que passa por ele frequentemente.''"
+|"*Não muito longe daqui, os mortos começam sua jornada para o local do seu descanso final nas profundezas abaixo; assim como o barqueiro do rio, Caronte, que passa por ele frequentemente.*"
 |-
 ! colspan="2" |Inspect D Hub 03
 |-
 |'''Storyteller'''
-|"''O Cérbero com várias cabeças, a sentinela extremamente temida do Submundo, preside a entrada deste reino, devorando todos os que forem tolos o suficiente para tentar fugir.''"
+|"*O Cérbero com várias cabeças, a sentinela extremamente temida do Submundo, preside a entrada deste reino, devorando todos os que forem tolos o suficiente para tentar fugir.*"
 |-
 ! colspan="2" |Inspect D Hub 04
 |-
 |'''Storyteller'''
-|"''Uma rede de túneis rústicos se espalha a partir de um dos gélidos flancos do Templo, contendo habitantes cruéis e indesejáveis neste reino, mesmo na morte.''"
+|"*Uma rede de túneis rústicos se espalha a partir de um dos gélidos flancos do Templo, contendo habitantes cruéis e indesejáveis neste reino, mesmo na morte.*"
 |-
 ! colspan="2" |Inspect E Intro 01 01
 |-
 |'''Storyteller'''
-|"''A superfície, varrida pelo vento, destruída pelo frio agourento, ainda assim atiça no príncipe um sentimento de admiração, de grandiosidade. Pois é completamente diferente de tudo o que havia visto.''"
+|"*A superfície, varrida pelo vento, destruída pelo frio agourento, ainda assim atiça no príncipe um sentimento de admiração, de grandiosidade. Pois é completamente diferente de tudo o que havia visto.*"
 |-
 |'''Storyteller'''
-|"''Todos os tipos de frutas e vegetais prosperam nos jardins secretos de Perséfone, a única Rainha de todo o Submundo. Um mundo de vida, longe do reino da morte.''"
+|"*Todos os tipos de frutas e vegetais prosperam nos jardins secretos de Perséfone, a única Rainha de todo o Submundo. Um mundo de vida, longe do reino da morte.*"
 |-
 ! colspan="2" |A Pre Boss 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Além do aposento atual, fica o perímetro mais externo do Tártaro, que promete perigos terríveis muito além da compreensão do Príncipe do Submundo.''"
+|"*Além do aposento atual, fica o perímetro mais externo do Tártaro, que promete perigos terríveis muito além da compreensão do Príncipe do Submundo.*"
 |-
 ! colspan="2" |A Boss 01 Inspect 01
 |-
 |'''Storyteller'''
-|"''As Erínias; também conhecidas como Fúrias, são sentinelas de confiança do Lorde Hades, encarregadas de torturar os piores dos mortais... e livrar o Submundo de qualquer tolo o suficiente de querer invadir onde não pertence.''"
+|"*As Erínias; também conhecidas como Fúrias, são sentinelas de confiança do Lorde Hades, encarregadas de torturar os piores dos mortais... e livrar o Submundo de qualquer tolo o suficiente de querer invadir onde não pertence.*"
 |-
 ! colspan="2" |A Post Boss 01 First Inspect
 |-
 |'''Storyteller'''
-|"''O caminho do Tártaro finalmente é exposto. Muito acima, já é possível sentir fracamente o calor de Flegetonte, o rio flamejante... com seus perigos à espera.''"
+|"*O caminho do Tártaro finalmente é exposto. Muito acima, já é possível sentir fracamente o calor de Flegetonte, o rio flamejante... com seus perigos à espera.*"
 |-
 ! colspan="2" |A Post Boss 01 Gears Inspect 01
 |-
 |'''Storyteller'''
-|"''Ninguém, além daqueles no círculo interno de Lorde Hades, são autorizados a adentrar as complexas câmaras que conectam as vastas regiões do Submundo; mas o Príncipe decide invadir, de qualquer forma.''"
+|"*Ninguém, além daqueles no círculo interno de Lorde Hades, são autorizados a adentrar as complexas câmaras que conectam as vastas regiões do Submundo; mas o Príncipe decide invadir, de qualquer forma.*"
 |-
 ! colspan="2" |A Mini Boss 03 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Os condenados mais violentos do Tártaro estão aprisionados e separados até mesmo de outras almas que foram condenadas a este lugar; seus únicos visitantes: aqueles tolos o bastante de tentarem escapar.''"
+|"*Os condenados mais violentos do Tártaro estão aprisionados e separados até mesmo de outras almas que foram condenadas a este lugar; seus únicos visitantes: aqueles tolos o bastante de tentarem escapar.*"
 |-
 ! colspan="2" |A Mini Boss 04 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Condenadas, almas perdidas sem qualquer outro lugar para irem se aglomeram nas profundezas do Tártaro, aonde se fundem com a própria terra em formas odiosas que desafiam descrições.''"
+|"*Condenadas, almas perdidas sem qualquer outro lugar para irem se aglomeram nas profundezas do Tártaro, aonde se fundem com a própria terra em formas odiosas que desafiam descrições.*"
 |-
 ! colspan="2" |A Reprieve 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Um lugar de tranquilidade e descanso, apesar de ser inimaginável no Submundo, pode ser encontrado ocasionalmente.''"
+|"*Um lugar de tranquilidade e descanso, apesar de ser inimaginável no Submundo, pode ser encontrado ocasionalmente.*"
 |-
 ! colspan="2" |Charon First Inspect
 |-
 |'''Storyteller'''
-|"''As mercadorias infernais do barqueiro do estige, Caronte, ficam espalhadas, disponíveis para venda a quem estiver disposto a saciar a grande sede do barqueiro por riquezas.''"
+|"*As mercadorias infernais do barqueiro do estige, Caronte, ficam espalhadas, disponíveis para venda a quem estiver disposto a saciar a grande sede do barqueiro por riquezas.*"
 |-
 |'''Storyteller'''
-|"''O Rio Estige flui de maneira infame pelo Submundo, oferecendo ao barqueiro Caronte viagens rápidas do reino dos mortais às profundezas mais baixas, onde muitas de suas sombras residem para sempre.''"
+|"*O Rio Estige flui de maneira infame pelo Submundo, oferecendo ao barqueiro Caronte viagens rápidas do reino dos mortais às profundezas mais baixas, onde muitas de suas sombras residem para sempre.*"
 |-
 ! colspan="2" |Opening First Inspect
 |-
 |'''Storyteller'''
-|"''Com inúmeros aposentos interligados que mudam constantemente, o Submundo de Lorde Hades praticamente garante a permanência dos mortos até o fim dos tempos.''"
+|"*Com inúmeros aposentos interligados que mudam constantemente, o Submundo de Lorde Hades praticamente garante a permanência dos mortos até o fim dos tempos.*"
 |-
 ! colspan="2" |Opening Proc Gen Hint
 |-
 |'''Storyteller'''
-|"''Cada vez que o Príncipe retorna ao Submundo, seus aposentos que mudam constantemente se realinham para frustrar suas tentativas de, talvez, mapeá-lo.''"
+|"*Cada vez que o Príncipe retorna ao Submundo, seus aposentos que mudam constantemente se realinham para frustrar suas tentativas de, talvez, mapeá-lo.*"
 |-
 ! colspan="2" |Inspect A Story 01 01
 |-
 |'''Storyteller'''
-|"''Nas profundezas de Tártaro, habita a mais abominável das figuras sombrias, movendo-se sorrateiramente em busca da eternidade no Submundo, cujo Senhor e Mestre dispensa qualquer simpatia para com os que tentam enganar a morte.''"
+|"*Nas profundezas de Tártaro, habita a mais abominável das figuras sombrias, movendo-se sorrateiramente em busca da eternidade no Submundo, cujo Senhor e Mestre dispensa qualquer simpatia para com os que tentam enganar a morte.*"
 |-
 |}

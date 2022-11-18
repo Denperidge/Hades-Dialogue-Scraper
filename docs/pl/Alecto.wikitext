@@ -9,13 +9,13 @@
 |"Megajra, Tyz - gotowe?"
 |-
 |'''Tisiphone'''
-|"''Mmorrrderca''!"
+|"*Mmorrrderca*!"
 |-
 |'''Zagreus'''
 |"Trzy na jednego. Nie wydaje się to być zbyt sportową zagrywką."
 |-
 |'''Megaera'''
-|"Wszystkie już dawno straciłyśmy ochotę na jakikolwiek sport. Zabijemy cię - niezależnie od tego, ile nas to będzie kosztować. Erynie! ''Teraz''."
+|"Wszystkie już dawno straciłyśmy ochotę na jakikolwiek sport. Zabijemy cię - niezależnie od tego, ile nas to będzie kosztować. Erynie! *Teraz*."
 |-
 ! colspan="2" |Fury Sister Union Single Sis 01
 |-
@@ -23,7 +23,7 @@
 |"Widzisz, Alekto? Jest na czas, tak jak mówiłam."
 |-
 |'''Alecto'''
-|"Megajro, ''wykrwaw ''go!"
+|"Megajro, *wykrwaw *go!"
 |-
 ! colspan="2" |Fury 2 Sister Union 01
 |-
@@ -35,18 +35,18 @@
 |'''Alecto'''
 |"Patrz, Siostro! Bóg śmieci tu jest. Zabierajmy się do pracy."
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 01
+! colspan="2" |Duo - Union and Meg (1)
 |-
 |'''Alecto'''
-|"''Uch'', no po prostu ''popatrzcie ''tylko na niego! To zadziorne spojrzenie, ta postawa, ''wszystko''! Proszę, powiedz mi, że nie tracisz głowy dla tego śmieciowego boga, Siostro."
+|"*Uch*, no po prostu *popatrzcie *tylko na niego! To zadziorne spojrzenie, ta postawa, *wszystko*! Proszę, powiedz mi, że nie tracisz głowy dla tego śmieciowego boga, Siostro."
 |-
 |'''Megaera'''
 |"Daj spokój, Alekto. Kiedy ostatnio pytałyśmy się wzajemnie o zdanie? Poza tym, dopóki go zabijamy, dlaczego miałoby cię to w ogóle obchodzić?"
 |-
 |'''Alecto'''
-|"Wiesz co, słuszna uwaga, Siostro. Bardzo ładnie powiedziane. ''Zabijmy go, teraz''!"
+|"Wiesz co, słuszna uwaga, Siostro. Bardzo ładnie powiedziane. *Zabijmy go, teraz*!"
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 02
+! colspan="2" |Duo - Union and Meg (2)
 |-
 |'''Alecto'''
 |"Spójrz na tego okropnego śmiecia, który ponownie przyszedł tu, by krwawić wszędzie po tej naszej ładnej, błyszczącej podłodze. Gotów, by walczyć z moją kochaną siostrą, czerwonokrwisty?"
@@ -55,7 +55,7 @@
 |"Nie jest taki okropny, gdy pozna się go lepiej, Siostro. Nie żeby to miało jakieś znaczenie wobec tego, co mamy zamiar zrobić."
 |-
 |'''Alecto'''
-|"Wy oboje napawacie mnie wstrętem, Meg, wiesz o tym? Weź się w garść i ''zabij ''go tym razem, niech cię szlag!"
+|"Wy oboje napawacie mnie wstrętem, Meg, wiesz o tym? Weź się w garść i *zabij *go tym razem, niech cię szlag!"
 |-
 ! colspan="2" |Fury 2 Pact Reaction 01
 |-
@@ -66,23 +66,23 @@
 |"Cóż, w rzeczy samej, tak. Choć nie widzę jak to może być twoja sprawa, Alekto."
 |-
 |'''Alecto'''
-|"Lubię pracować ''sama''! A wcale nie wygląda na to, żeby teraz tak było, czyż nie? Więc powiedziałabym, że to jest moja sprawa. Tak jak i zabijanie ''ciebie''!"
+|"Lubię pracować *sama*! A wcale nie wygląda na to, żeby teraz tak było, czyż nie? Więc powiedziałabym, że to jest moja sprawa. Tak jak i zabijanie *ciebie*!"
 |-
 ! colspan="2" |Fury 2 Pact Disabled Reaction 01
 |-
 |'''Alecto'''
-|"''Uff'', myślałam, że już nigdy nie zaznam odrobiny ciszy, wiesz, czerwonokrwisty? Ten cholerny Pakt, na który głupio przystałeś, zmusza mnie do ponownej współpracy z moimi siostrami. Dopadnę cię za to!"
+|"*Uff*, myślałam, że już nigdy nie zaznam odrobiny ciszy, wiesz, czerwonokrwisty? Ten cholerny Pakt, na który głupio przystałeś, zmusza mnie do ponownej współpracy z moimi siostrami. Dopadnę cię za to!"
 |-
 |'''Zagreus'''
-|"Wyczuwam pewien schemat, według którego nie potrzeba ci tak naprawdę zbyt wiele, abyś chciała mnie ''dopaść'', czyż nie?"
+|"Wyczuwam pewien schemat, według którego nie potrzeba ci tak naprawdę zbyt wiele, abyś chciała mnie *dopaść*, czyż nie?"
 |-
 |'''Alecto'''
-|"Och, jakie to zabawne! Jakże to mądre z twojej strony, jesteś ''mądry''! Wiesz co? Za to również cię dopadnę."
+|"Och, jakie to zabawne! Jakże to mądre z twojej strony, jesteś *mądry*! Wiesz co? Za to również cię dopadnę."
 |-
 ! colspan="2" |Fury 2 First Appearance
 |-
 |'''Alecto'''
-|"''Ach, ha ha, hohohohooo. ''Nareszcie. Czekałam na to! Naprawdę."
+|"*Ach, ha ha, hohohohooo. *Nareszcie. Czekałam na to! Naprawdę."
 |-
 |'''Zagreus'''
 |"Musisz być jedną z uroczych sióstr Megajry - nie wydaje mi się, żebyśmy mieli przyjemność się poznać. Na co dokładnie czekałaś?"
@@ -116,7 +116,7 @@
 |"Cóż, no wiesz, tak bardzo spodobały mi się spotkania z tobą, Alekto, że zrobiłem z tego coś w rodzaju regularnych wizyt. Wyrób dobre nawyki i się ich trzymaj, jak to mawiam!"
 |-
 |'''Alecto'''
-|"Nazywasz to dobrym nawykiem, co? Może dla mnie tak jest. Cóż, przychodź tu ile chcesz, a ja będę tu czekała, ''za każdym razem''! Albo przynajmniej jakoś tak raz na trzy spotkania."
+|"Nazywasz to dobrym nawykiem, co? Może dla mnie tak jest. Cóż, przychodź tu ile chcesz, a ja będę tu czekała, *za każdym razem*! Albo przynajmniej jakoś tak raz na trzy spotkania."
 |-
 ! colspan="2" |Fury 2 Post Epilogue 01
 |-
@@ -127,23 +127,23 @@
 |"Następnym razem, zdecydowanie, Alekto. Brakowało nam tam ciebie i szkoda, że nie udało ci się dotrzeć!"
 |-
 |'''Alecto'''
-|"''Hohoho'', z pewnością. Ale wiesz, praca przede wszystkim! Więc przejdźmy do rzeczy."
+|"*Hohoho*, z pewnością. Ale wiesz, praca przede wszystkim! Więc przejdźmy do rzeczy."
 |-
 ! colspan="2" |Fury 2 End Of Discussion 01
 |-
 |'''Alecto'''
-|"Hej, czerwonokrwisty, dużo myślałam i doszłam do wniosku, że chcę, abyś już ''nigdy ''więcej się do mnie nie odzywał. ''Przenigdy''. Załapałeś?"
+|"Hej, czerwonokrwisty, dużo myślałam i doszłam do wniosku, że chcę, abyś już *nigdy *więcej się do mnie nie odzywał. *Przenigdy*. Załapałeś?"
 |-
 |'''Zagreus'''
-|"...''Yyy'', nie wiem jak na to odpowiedzieć bez lekceważenia twojej prośby, Alekto. Ale na przyszłość - dobrze, będę posłuszny."
+|"...*Yyy*, nie wiem jak na to odpowiedzieć bez lekceważenia twojej prośby, Alekto. Ale na przyszłość - dobrze, będę posłuszny."
 |-
 |'''Alecto'''
-|"Będziesz ''martwy''! Nie ma sensu tak stać i kłapać naszymi dziobami, kiedy to możemy od razu przejść do zabijania się nawzajem. Dawaj!"
+|"Będziesz *martwy*! Nie ma sensu tak stać i kłapać naszymi dziobami, kiedy to możemy od razu przejść do zabijania się nawzajem. Dawaj!"
 |-
 ! colspan="2" |Fury 2 Low Health 01
 |-
 |'''Alecto'''
-|"''Ach'', spójrz na siebie, czerwonokrwisty. Jesteś już praktycznie martwy! To odbiera całą frajdę."
+|"*Ach*, spójrz na siebie, czerwonokrwisty. Jesteś już praktycznie martwy! To odbiera całą frajdę."
 |-
 |'''Zagreus'''
 |"Przykro mi, że cię rozczarowałem, Alekto. Wiem, że lubisz być odpowiedzialna za sto procent mojej rozlanej krwi."
@@ -171,7 +171,7 @@
 |"Natrafiłem na pewne komplikacje, jeśli musisz wiedzieć. Ale nie martw się, jestem pewien, że mam spory zapas do krwawienia."
 |-
 |'''Alecto'''
-|"Och, ''uff'', co za ulga! Tak bardzo się martwiłam, że tym razem to nie ja będę miała okazję cię zabić."
+|"Och, *uff*, co za ulga! Tak bardzo się martwiłam, że tym razem to nie ja będę miała okazję cię zabić."
 |-
 ! colspan="2" |Fury 2 Low Health 04
 |-
@@ -192,12 +192,12 @@
 |"Wygląda na to, że mnie rozgryzłaś. A myślałem, że wciąż się nawzajem poznajemy."
 |-
 |'''Alecto'''
-|"''Tsk''. Cóż. Chcesz wiedzieć, czego chcę? Proszę, pokażę ci."
+|"*Tsk*. Cóż. Chcesz wiedzieć, czego chcę? Proszę, pokażę ci."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 02
 |-
 |'''Alecto'''
-|"Wiesz, co w tobie lubię? To jak krwawisz. ''Mmm''."
+|"Wiesz, co w tobie lubię? To jak krwawisz. *Mmm*."
 |-
 |'''Zagreus'''
 |"To... nie jest typ pochlebstwa, do którego przywykłem. Musisz wiedzieć, że wprawiasz mnie w drobne zakłopotanie."
@@ -214,7 +214,7 @@
 |"Cóż, a ja na to, że nie podoba mi się, gdy nazywasz mnie czerwonokrwistym. Sprawiasz, że zaczyna mnie to krępować, wiesz."
 |-
 |'''Alecto'''
-|"''O hoho'', jesteś zabawny. Ale pękniesz. Wszyscy pękają."
+|"*O hoho*, jesteś zabawny. Ale pękniesz. Wszyscy pękają."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 04
 |-
@@ -225,7 +225,7 @@
 |"Co, chcesz powiedzieć, że Meg ci nigdy nie powiedziała? A myślałem, że jesteście ze sobą blisko."
 |-
 |'''Alecto'''
-|"''Ech'', dowiemy się i tak. Zostało mi jeszcze wiele pomysłów, które chciałabym wprowadzić w życie."
+|"*Ech*, dowiemy się i tak. Zostało mi jeszcze wiele pomysłów, które chciałabym wprowadzić w życie."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 05
 |-
@@ -241,13 +241,13 @@
 ! colspan="2" |Fury 2 Misc Encounter 06
 |-
 |'''Alecto'''
-|"''Hm''! Musisz naprawdę bardzo lubić ból, czerwonokrwisty. A może tylko mi się wydaje."
+|"*Hm*! Musisz naprawdę bardzo lubić ból, czerwonokrwisty. A może tylko mi się wydaje."
 |-
 |'''Zagreus'''
 |"Widzisz, Alekto? Okazuje się, że jednak mamy jedno wspólne zainteresowanie."
 |-
 |'''Alecto'''
-|"Czy ty właśnie--? ''Nigdy ''nie próbuj się ze mną więcej porównywać, ty śmieciu. Chcesz więcej bólu, z przyjemnością pomogę."
+|"Czy ty właśnie--? *Nigdy *nie próbuj się ze mną więcej porównywać, ty śmieciu. Chcesz więcej bólu, z przyjemnością pomogę."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 07
 |-
@@ -274,18 +274,18 @@
 ! colspan="2" |Fury 2 Misc Encounter 09
 |-
 |'''Alecto'''
-|"Wiesz co, czerwonokrwisty, moje zlecenia zazwyczaj nie przychodzą ''do mnie'', a tym bardziej nie raz za razem! Można by pomyśleć, że jestem tu, by dostarczyć ci rozrywki, co?!"
+|"Wiesz co, czerwonokrwisty, moje zlecenia zazwyczaj nie przychodzą *do mnie*, a tym bardziej nie raz za razem! Można by pomyśleć, że jestem tu, by dostarczyć ci rozrywki, co?!"
 |-
 |'''Zagreus'''
 |"Alekto, po prostu lubię widzieć, jak się złowieszczo uśmiechasz. I hej, walka z tobą od czasu do czasu bije na głowę nieustanną walkę z Meg."
 |-
 |'''Alecto'''
-|"''Cooo''?! Uważasz, że walka ''ze mną ''bije na głowę walkę z tym ''słabeuszem''? ''Graaah''!"
+|"*Cooo*?! Uważasz, że walka *ze mną *bije na głowę walkę z tym *słabeuszem*? *Graaah*!"
 |-
 ! colspan="2" |Fury 2 Misc Encounter 10
 |-
 |'''Alecto'''
-|"Ile to jeszcze razy, czerwonokrwisty? ''Ile''?! Powiedz mi! Jak możesz znosić to ciągłe natykanie się na mnie, wciąż i wciąż?"
+|"Ile to jeszcze razy, czerwonokrwisty? *Ile*?! Powiedz mi! Jak możesz znosić to ciągłe natykanie się na mnie, wciąż i wciąż?"
 |-
 |'''Zagreus'''
 |"Cóż, czasami trudno przełamać pewne nawyki. A co do tego ile razy, to naprawdę nie mam pojęcia. Choć wydaje mi się, że jest jeden sposób, aby się przekonać."
@@ -307,13 +307,13 @@
 ! colspan="2" |Fury 2 About Megaera Relationship 01
 |-
 |'''Alecto'''
-|"''Uch'', wciąż nie mogę uwierzyć, że Megajra się z tobą zadaje, czerwonokrwisty. Ze wszystkich jej słabości zawsze myślałam, że przynajmniej swoją pracę traktuje poważnie. ''Ech'', uczymy się całe życie!"
+|"*Uch*, wciąż nie mogę uwierzyć, że Megajra się z tobą zadaje, czerwonokrwisty. Ze wszystkich jej słabości zawsze myślałam, że przynajmniej swoją pracę traktuje poważnie. *Ech*, uczymy się całe życie!"
 |-
 |'''Zagreus'''
 |"Nie jestem zainteresowany twoimi nieprzyjemnymi przytykami na jej temat, Alekto. Choć jeżeli nadal będziesz je czynić, to ostrzegam cię, mogę się wściec."
 |-
 |'''Alecto'''
-|"''Ooo'', możesz się ''wściec''? Chcesz bronić honoru Megajry, jako że jest zbyt słaba, by sama to robić? Myślisz, że jest taka nieskazitelna, ''hahaha''! Jesteście obrzydliwi! Oboje."
+|"*Ooo*, możesz się *wściec*? Chcesz bronić honoru Megajry, jako że jest zbyt słaba, by sama to robić? Myślisz, że jest taka nieskazitelna, *hahaha*! Jesteście obrzydliwi! Oboje."
 |-
 ! colspan="2" |Fury 2 Win Streak 01
 |-
@@ -329,13 +329,13 @@
 ! colspan="2" |Fury 2 Win Streak 02
 |-
 |'''Alecto'''
-|"''Że jak''! Zwykle moje cele nie mają w zwyczaju próbować odszukać mnie po tym, jak z nimi skończę."
+|"*Że jak*! Zwykle moje cele nie mają w zwyczaju próbować odszukać mnie po tym, jak z nimi skończę."
 |-
 |'''Zagreus'''
 |"Cóż, potrafię to sobie wyobrazić. Problem w tym, że bardzo przywykłem do tych naszych małych wymian zdań."
 |-
 |'''Alecto'''
-|"''Uch'', cóż, nie chciałabym cię zawieść, czerwonokrwisty. Ale po prostu nie jesteś w moim typie. Może tym razem wreszcie wbiję ci to do łba."
+|"*Uch*, cóż, nie chciałabym cię zawieść, czerwonokrwisty. Ale po prostu nie jesteś w moim typie. Może tym razem wreszcie wbiję ci to do łba."
 |-
 ! colspan="2" |Fury 2 Lose Streak 01
 |-
@@ -346,7 +346,7 @@
 |"Wybaczenie może zabrać trochę czasu. Choć samokrytyka to zdrowy krok. Robimy postępy!"
 |-
 |'''Alecto'''
-|"Myślisz, że robimy postępy? Tutaj? ''A hah ha-hah ha-hah ha-hah'', och ty śmieciu! Już ja ci pokażę postępy."
+|"Myślisz, że robimy postępy? Tutaj? *A hah ha-hah ha-hah ha-hah*, och ty śmieciu! Już ja ci pokażę postępy."
 |-
 ! colspan="2" |Fury 2 Lose Streak 02
 |-
@@ -357,23 +357,23 @@
 |"Czy w takim razie przemyślałaś może kwestię... zostawienia mnie w spokoju i powrotu tam, skąd przyszłaś?"
 |-
 |'''Alecto'''
-|"Widzisz? To jest ''dokładnie ''to, co mam na myśli. Pomyśleć, że Megajra musiała cię znosić przez nie wiadomo jak długo."
+|"Widzisz? To jest *dokładnie *to, co mam na myśli. Pomyśleć, że Megajra musiała cię znosić przez nie wiadomo jak długo."
 |-
 ! colspan="2" |Fury 2 Lose Streak 03
 |-
 |'''Alecto'''
-|"Niech cię szlag, czerwonokrwisty. Sprawiasz, że źle wyglądam, wiesz? Sprawiasz, że źle się ''czuję''."
+|"Niech cię szlag, czerwonokrwisty. Sprawiasz, że źle wyglądam, wiesz? Sprawiasz, że źle się *czuję*."
 |-
 |'''Zagreus'''
 |"Alekto, nie prosiłem cię o to, żebyś raz za razem próbowała mnie zabić. Czego po mnie oczekiwałaś?"
 |-
 |'''Alecto'''
-|"''Ah-hahah-hahaha hahah'', wiesz co się dzieje, gdy sprawiasz, że źle się ''czuję'', prawda...?"
+|"*Ah-hahah-hahaha hahah*, wiesz co się dzieje, gdy sprawiasz, że źle się *czuję*, prawda...?"
 |-
 ! colspan="2" |Fury 2 Lose Streak 04
 |-
 |'''Alecto'''
-|"''Ho'', oto i bóg śmieci, po raz kolejny przybywa, by splugawić to miejsce! Stajesz się naprawdę przewidywalny, wiesz."
+|"*Ho*, oto i bóg śmieci, po raz kolejny przybywa, by splugawić to miejsce! Stajesz się naprawdę przewidywalny, wiesz."
 |-
 |'''Zagreus'''
 |"Biorąc pod uwagę, że cię pokonałem, gdy widzieliśmy się ostatnim razem, byłbym bardziej zaniepokojony twoją przewidywalnością niż moją."
@@ -384,7 +384,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 01
 |-
 |'''Alecto'''
-|"''Ooch'', tutaj jest, siostrzyczki. Czas trochę popracować."
+|"*Ooch*, tutaj jest, siostrzyczki. Czas trochę popracować."
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 03
 |-
@@ -414,7 +414,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 08
 |-
 |'''Alecto'''
-|"My wszystkie trzy przeciwko ''temu ''śmieciowi, siostrzyczki? W porządku!"
+|"My wszystkie trzy przeciwko *temu *śmieciowi, siostrzyczki? W porządku!"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 09
 |-
@@ -422,7 +422,7 @@
 |"Trzy furie razem przeciwko śmieciowemu bogu! Co za walka!"
 |-
 |'''Alecto'''
-|"O, ''hohohohoho'', spójrzcie na niego, siostry! Nie chcecie po prostu rozszarpać go na strzępy?!"
+|"O, *hohohohoho*, spójrzcie na niego, siostry! Nie chcecie po prostu rozszarpać go na strzępy?!"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 10
 |-
@@ -582,7 +582,7 @@
 ! colspan="2" |Fury 2 Misc Start Vs Fury Lose Streak 04
 |-
 |'''Alecto'''
-|"''Ha''! Oto bałagan Megajry. Sprzątnijmy cię zatem."
+|"*Ha*! Oto bałagan Megajry. Sprzątnijmy cię zatem."
 |-
 ! colspan="2" |Fury 2 Misc Start Vs Fury 3 Lose Streak 01
 |-
@@ -647,7 +647,7 @@
 ! colspan="2" |Fury 2 Misc Start 09
 |-
 |'''Alecto'''
-|"''Ooo'', przebyłeś taki kawał drogi, aby mnie zobaczyć! Schlebia mi to, czerwonokrwisty."
+|"*Ooo*, przebyłeś taki kawał drogi, aby mnie zobaczyć! Schlebia mi to, czerwonokrwisty."
 |-
 ! colspan="2" |Fury 2 Misc Start 10
 |-
@@ -697,7 +697,7 @@
 ! colspan="2" |Fury 2 Misc Start 18
 |-
 |'''Alecto'''
-|"Ktoś wkrótce umrze, czerwonokrwisty! ''Ooch'', nie mogę się doczekać."
+|"Ktoś wkrótce umrze, czerwonokrwisty! *Ooch*, nie mogę się doczekać."
 |-
 ! colspan="2" |Fury 2 Misc Start 19
 |-
@@ -717,22 +717,22 @@
 ! colspan="2" |Fury 2 Misc Start 22
 |-
 |'''Alecto'''
-|"O co chodzi, czerwonokrwisty? Strasznie ucichłeś. Czy jakoś cię uraziłam, ''co''?"
+|"O co chodzi, czerwonokrwisty? Strasznie ucichłeś. Czy jakoś cię uraziłam, *co*?"
 |-
 ! colspan="2" |Fury 2 Misc Start 23
 |-
 |'''Alecto'''
-|"''Ooch'', sprawię, że wykrwawisz się na śmierć."
+|"*Ooch*, sprawię, że wykrwawisz się na śmierć."
 |-
 ! colspan="2" |Fury 2 Misc Start 24
 |-
 |'''Alecto'''
-|"Chcesz ze mną zadrzeć ''ponownie'', czerwonokrwisty?! No to ''dawaj''!"
+|"Chcesz ze mną zadrzeć *ponownie*, czerwonokrwisty?! No to *dawaj*!"
 |-
 ! colspan="2" |Fury 2 Misc Start 25
 |-
 |'''Alecto'''
-|"Jak to możliwe, że tak bardzo mam dosyć ciebie, ale nigdy nie mam dosyć ''zabijania ''ciebie, czerwonokrwisty?"
+|"Jak to możliwe, że tak bardzo mam dosyć ciebie, ale nigdy nie mam dosyć *zabijania *ciebie, czerwonokrwisty?"
 |-
 ! colspan="2" |Fury 2 Misc Start 26
 |-
@@ -767,7 +767,7 @@
 ! colspan="2" |Fury 2 Misc Start 30
 |-
 |'''Alecto'''
-|"Mam naprawdę dosyć tego czekania tutaj, więc może załatwimy to ''naprawdę szybko'', czerwonokrwisty!"
+|"Mam naprawdę dosyć tego czekania tutaj, więc może załatwimy to *naprawdę szybko*, czerwonokrwisty!"
 |-
 ! colspan="2" |Fury 2 Misc Start 31
 |-
@@ -782,7 +782,7 @@
 ! colspan="2" |Fury 2 Misc Start 33
 |-
 |'''Alecto'''
-|"''Ooch'', będziemy się tu dobrze bawić, czerwonokrwisty!"
+|"*Ooch*, będziemy się tu dobrze bawić, czerwonokrwisty!"
 |-
 ! colspan="2" |Fury 2 Misc Start 34
 |-

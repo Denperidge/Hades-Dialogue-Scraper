@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Zeus With Ares 01
+! colspan="2" |Duo - Zeus and Ares (1)
 |-
 |'''Zeus'''
 |"Neffe! Kraft meiner göttlichen Autorität wird mein oft verkannter Sohn Ares dir nun ein kleines Zeichen seiner Macht leihen. Er soll sich nur nützlich machen!"
@@ -8,7 +8,7 @@
 |'''Ares'''
 |"Wie du es sagst, soll es geschehen, ehrwürdiger Vater. Deine Wünsche sind auch meine."
 |-
-! colspan="2" |Ares With Poseidon 01
+! colspan="2" |Duo - Ares and Poseidon (1)
 |-
 |'''Ares'''
 |"Nun, mein in der Hölle geborener Vetter, ich muss gestehen, manchmal wünschte ich mir, deinen Vater etwas besser kennengelernt zu haben, wenn ich das sagen darf. Mein Vater und mein Onkel ... ihre Veranlagung hat mit der meinen wenig gemein."
@@ -16,7 +16,7 @@
 |'''Poseidon'''
 |"Wenn du nicht ganz so seltsam wärst und dir mehr Mühe geben würdest, ein wenig umgänglicher zu sein, Ares, dann hätten wir vielleicht mehr gemeinsam, du und ich! Solltest du ein paar Tipps brauchen, sag einfach Bescheid!"
 |-
-! colspan="2" |Ares With Athena 01
+! colspan="2" |Duo - Ares and Athena (1)
 |-
 |'''Ares'''
 |"Ich wollte mit dir nur noch einmal unter vier Augen sprechen, mein Vetter, es ist nur ..."
@@ -30,7 +30,7 @@
 |'''Athena'''
 |"Du handelst ausschließlich nach eigenem Ermessen, ehrwürdiger Ares. Pass auf, dass du mit uns an einem Strang ziehst."
 |-
-! colspan="2" |Ares With Aphrodite 01
+! colspan="2" |Duo - Ares and Aphrodite (1)
 |-
 |'''Ares'''
 |"Ich kann den Tag kaum erwarten, an dem du endlich den Olymp erreichst. Unter uns sind nur wenige, die solche Interessen teilen."
@@ -38,7 +38,7 @@
 |'''Aphrodite'''
 |"Zumindest einige von uns hier teilen solche Interessen, ist es nicht so, ehrwürdiger Ares? Was dich angeht, mein Lieber, nimm dir alle Zeit der Welt!"
 |-
-! colspan="2" |Ares With Aphrodite 02
+! colspan="2" |Duo - Ares and Aphrodite (2)
 |-
 |'''Ares'''
 |"Kriege, der Liebe wegen angezettelt, mein Vetter ... kannst du dir das vorstellen? Die ehrwürdige Aphrodite und ich können endlos über derlei Fälle debattieren. Ich hoffe, dass du dir von Zeit zu Zeit die Frage stellst, warum du kämpfst. Nicht, dass du dazu einen Grund bräuchtest."
@@ -46,15 +46,15 @@
 |'''Aphrodite'''
 |"Oh, ehrwürdiger Ares, ist es wirklich nötig, die Gedanken und die Urteilskraft unseres kleinen Gottes mit derlei Bemerkungen zu trüben, hm? Geben wir ihm, was er will, und reden dann unter vier Augen weiter."
 |-
-! colspan="2" |Ares With Dionysus 01
+! colspan="2" |Duo - Ares and Dionysus (1)
 |-
 |'''Ares'''
 |"Ah, mein Vetter, ich habe gerade den ehrwürdigen Dionysos gefragt, unter welchen Umständen die Sterblichen ihre allergrößten Feste feiern? Ich hege da nämlich eine bestimmte Vermutung..."
 |-
 |'''Dionysus'''
-|"Ja, Ares, das muss man dir lassen, Mann. Nichts geht über ein Festgelage nach einem Krieg! Vorausgesetzt, man gehört zu den Überlebenden! Andernfalls werden die Feste hier unten mit ''dir ''gefeiert, Zag!"
+|"Ja, Ares, das muss man dir lassen, Mann. Nichts geht über ein Festgelage nach einem Krieg! Vorausgesetzt, man gehört zu den Überlebenden! Andernfalls werden die Feste hier unten mit *dir *gefeiert, Zag!"
 |-
-! colspan="2" |Ares With Demeter 01
+! colspan="2" |Duo - Ares and Demeter (1)
 |-
 |'''Ares'''
 |"Die Kälte des Todes steht der Göttin Demeter recht gut, meinst du nicht auch, mein todbringender Vetter? Sie scheint sich gut daran zu gewöhnen."
@@ -118,7 +118,7 @@
 ! colspan="2" |Ares About Demeter 01
 |-
 |'''Ares'''
-|"Ich spüre das Zeichen der Göttin Demeter an dir, ''hm''? Ihre Macht über die Fülle steht in mancher Hinsicht im Gegensatz zu meiner. In letzter Zeit lenkt sie sie jedoch auf eine Weise, die mir genehmer ist."
+|"Ich spüre das Zeichen der Göttin Demeter an dir, *hm*? Ihre Macht über die Fülle steht in mancher Hinsicht im Gegensatz zu meiner. In letzter Zeit lenkt sie sie jedoch auf eine Weise, die mir genehmer ist."
 |-
 ! colspan="2" |Ares About Hades Keepsake 01
 |-
@@ -168,7 +168,7 @@
 ! colspan="2" |Ares Run Progress 02
 |-
 |'''Ares'''
-|"''Ah'', mein Vetter, du hast unlängst frisches Blut vergossen, echtes sogar! Denn du hast Lebenden nahe der Oberfläche den Garaus gemacht, nicht wahr? Reines Ungeziefer, zugegeben, doch gut genug für mich."
+|"*Ah*, mein Vetter, du hast unlängst frisches Blut vergossen, echtes sogar! Denn du hast Lebenden nahe der Oberfläche den Garaus gemacht, nicht wahr? Reines Ungeziefer, zugegeben, doch gut genug für mich."
 |-
 ! colspan="2" |Ares Run Cleared 01
 |-
@@ -431,7 +431,7 @@
 ! colspan="2" |Ares Misc Pickup 02
 |-
 |'''Ares'''
-|"''Ah'', ich dachte mir, dass du die Quelle all des Blutvergießens unter der Erde gewesen sein musst. Vielleicht geht dir ja mit meiner Hilfe das Töten noch ein wenig leichter von der Hand."
+|"*Ah*, ich dachte mir, dass du die Quelle all des Blutvergießens unter der Erde gewesen sein musst. Vielleicht geht dir ja mit meiner Hilfe das Töten noch ein wenig leichter von der Hand."
 |-
 ! colspan="2" |Ares Misc Pickup 03
 |-
@@ -701,7 +701,7 @@
 ! colspan="2" |Ares Rejection 01
 |-
 |'''Ares'''
-|"Du weist mein großzügiges Hilfsangebot ab? ''Hahahaha'', offenbar kennst du mich nicht sehr gut. Der Tod kommt trotzdem, entweder zu deinen Feinden oder zu dir."
+|"Du weist mein großzügiges Hilfsangebot ab? *Hahahaha*, offenbar kennst du mich nicht sehr gut. Der Tod kommt trotzdem, entweder zu deinen Feinden oder zu dir."
 |-
 ! colspan="2" |Ares Rejection 02
 |-
@@ -879,7 +879,7 @@
 |'''Ares'''
 |"Ah, was für ein erlesenes Geschenk. Ja, die Zerstörung, die du sätest, das Blutbad, das du angerichtet hast ... das lässt sich wohl kaum übertreffen. Solltest du je in den Krieg ziehen, mein Vetter ... in einen echten Krieg, meine ich ... schau vorbei. Ich würde mich wohl auf deine Seite schlagen."
 |-
-! colspan="2" |Artemis With Ares 01
+! colspan="2" |Duo - Artemis and Ares (1)
 |-
 |'''Artemis'''
 |"Zagreus, ich wünschte, wir könnten dich alle hören. Dann ließe sich der gute ehrwürdige Ares vielleicht davon überzeugen, dass meine Kräfte für ganz andere Zwecke bestimmt sind als seine!"
@@ -887,7 +887,7 @@
 |'''Ares'''
 |"Möglich, dass unsere Fähigkeiten einst für verschiedene Zwecke gedacht waren, liebe Artemis; doch wer sind wir, das Ergebnis zu bezweifeln? Warte ab, was geschieht, wenn wir unsere vereinten Kräfte in den Dienst unseres Vetters stellen."
 |-
-! colspan="2" |Artemis With Ares 02
+! colspan="2" |Duo - Artemis and Ares (2)
 |-
 |'''Artemis'''
 |"Zagreus, ich wollte nur ein bisschen ungestört sein vor dieser Jagd. So hab ich's stets gehalten, nur dass der ehrwürdige Ares beim ersten Anzeichen von Jagdgerät sofort auftaucht, um herumzuschnüffeln!"
@@ -898,7 +898,7 @@
 |'''Artemis'''
 |"Hör mal, ehrwürdiger Ares, wenn ich dir bessere Treffsicherheit verleihe, meinst du, du könntest dann jemand anderen belästigen?"
 |-
-! colspan="2" |Aphrodite With Ares 01
+! colspan="2" |Duo - Aphrodite and Ares (1)
 |-
 |'''Aphrodite'''
 |"Mein Lieber, ich glaube, viele von uns überrascht es, wenn sie erfahren, dass Liebe und Krieg oft Hand in Hand gehen. Entgegengesetzte Kräfte, doch verbunden, nicht wahr? Die größten Leidenschaften der Götter und der Sterblichen. Ist es nicht so, ehrwürdiger Ares?"
@@ -906,7 +906,7 @@
 |'''Ares'''
 |"Sterbliche klammern sich so fest ans Leben, dass viele sogar dafür töten würden. Die Wallung der Gefühle, die sie erleben ... die Leidenschaften gleichen sich, liebe ehrwürdige Aphrodite."
 |-
-! colspan="2" |Dionysus With Ares 01
+! colspan="2" |Duo - Dionysus and Ares (1)
 |-
 |'''Dionysus'''
 |"Weißt du, Zag, wenn du hier bist, könntest du vielleicht den alten Ares ein wenig aufmuntern? Immer zieht er die Stimmung runter, redet von Blut und Abscheulichkeiten und all so Zeugs!"
@@ -914,7 +914,7 @@
 |'''Ares'''
 |"Aber, mein ehrwürdiger Dionysos! Ich begreife nicht, warum Gespräche solcher Art auf einem Festgelage fehl am Platz sein sollen. Ein erfolgreich geführter Krieg ist doch gewiss ein Grund zum Feiern, oder etwa nicht?"
 |-
-! colspan="2" |Poseidon With Ares 01
+! colspan="2" |Duo - Poseidon and Ares (1)
 |-
 |'''Poseidon'''
 |"Na, Klein-Hades, gewiss weißt du inzwischen, dass ich noch andere Neffen habe, oder? Da fällt mir zum Beispiel Ares ein, der Gott des Krieges! Es wurden schon große Kriege auf dem Meer geführt, nicht wahr?"
@@ -922,7 +922,7 @@
 |'''Ares'''
 |"In der Tat, guter Onkel Poseidon. Sterbliche sind sehr einfallsreich, wenn es um Kriege geht. Sie befördern ihren Sinn für Fortschritt, mehr als alles andere. Eines Tages werden sie vielleicht sogar in Vaters Himmel Krieg führen."
 |-
-! colspan="2" |Demeter With Ares 01
+! colspan="2" |Duo - Demeter and Ares (1)
 |-
 |'''Demeter'''
 |"Junger Zagreus, bitte sag dem ehrwürdigen Ares nach deiner Ankunft, dass seine große Macht ohne die meine nichts wert ist. Kriege haben ihre Ursachen, darunter viele, die von mir gesteuert werden."

@@ -116,11 +116,11 @@ OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|Orfeo, in pa
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|Oh, non saprei, amico mio. Una volta che la gente si mette in testa qualcosa... può essere difficile fargli capire che le cose stanno diversamente. Che vuoi farci?
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|Non so, magari... dirgli che si sbagliano? Con cortesia, o anche no, se serve? Oppure... dirgli la verità, ecco. Spargere la voce. Credi si possa fare?
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|Spargere la voce...? Temo che, in quanto musico di corte, la mia voce non raggiunga più una platea molto ampia. Tuttavia... suppongo che le ombre di passaggio siano anch'esse parte del mio pubblico. Mi accerterò che sappiano chi ha composto ciò che canto.
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|Devo confessarti una cosa, amico mio. La mia mente si sofferma ancora sovente su Euridice, e sui ricordi che ho di lei, malgrado i miei molti sforzi di voltare pagina. Temerei di morir d'amore, ma... suppongo di averlo già fatto.
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|Non torturarti così, amico. Ne hai già passate a sufficienza, e lo stesso vale per lei. Vi volete ancora bene, voi due. Solo, non sapete come dirvelo! Ma io credo di avere un'idea.
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|Un tempo anch'io avevo delle idee, Zagreus... idee e ispirazione. Ah, quant'era bello avere una musa...
-OrpheusProgressWithEurydice02|Orpheus Progress With Eurydice 02|Zagreus|Ho una cosetta per te, Orfeo. Una nuova canzone. Da parte di qualcuno che tiene ancora a te.
-OrpheusProgressWithEurydice02|Orpheus Progress With Eurydice 02|Orpheus|Amico mio, hai scritto una canzone per me...? Oh, ma... non è scritta da te, è da parte di... *Euridice*... io... sono senza parole, io... io...
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Orpheus|Devo confessarti una cosa, amico mio. La mia mente si sofferma ancora sovente su Euridice, e sui ricordi che ho di lei, malgrado i miei molti sforzi di voltare pagina. Temerei di morir d'amore, ma... suppongo di averlo già fatto.
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Zagreus|Non torturarti così, amico. Ne hai già passate a sufficienza, e lo stesso vale per lei. Vi volete ancora bene, voi due. Solo, non sapete come dirvelo! Ma io credo di avere un'idea.
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Orpheus|Un tempo anch'io avevo delle idee, Zagreus... idee e ispirazione. Ah, quant'era bello avere una musa...
+OrpheusProgressWithEurydice02|Duo - Progress and Eurydice (2)|Zagreus|Ho una cosetta per te, Orfeo. Una nuova canzone. Da parte di qualcuno che tiene ancora a te.
+OrpheusProgressWithEurydice02|Duo - Progress and Eurydice (2)|Orpheus|Amico mio, hai scritto una canzone per me...? Oh, ma... non è scritta da te, è da parte di... *Euridice*... io... sono senza parole, io... io...
 OrpheusSingsAgain03|Orpheus Sings Again 03|Zagreus|Canti meravigliosamente, amico mio. Se solo Euridice potesse sentirti cantare questo pezzo, ora...
 OrpheusSingsAgain03|Orpheus Sings Again 03|Orpheus|Oh. Grazie per il pensiero, amico mio, ma... quando intono questa sua canzone, qualcosa là dove un tempo si trovava il mio cuore mi sussurra che... forse può *davvero *sentirmi, ovunque lei sia.
 OrpheusAboutSingersReunionQuest01|Orpheus About Singers Reunion Quest 01|Orpheus|Zagreus! È accaduto il più incredibile dei miracoli. I termini del mio impiego sono stati alterati così che io... possa recarmi nell'Asfodelo, di quando in quando. Possa far visita a *lei*.
@@ -156,26 +156,26 @@ OrpheusMusicProgress03|Orpheus Music Progress 03|Orpheus|Il tuo strimpellare è 
 OrpheusMusicProgress03|Orpheus Music Progress 03|Zagreus|Ne dubito, amico, ma grazie per averlo notato. Creare musica è piuttosto appagante una volta che ci si prende la mano!
 OrpheusMusicProgress04|Orpheus Music Progress 04|Orpheus|Devo congratularmi per la splendida musica che odo provenire dalle tue stanze, amico mio. A quanto pare abbiamo un secondo musico di corte, ora.
 OrpheusMusicProgress04|Orpheus Music Progress 04|Zagreus|Grazie per avermi incoraggiato a provare, amico mio. E per le tue parole di supporto.
-OrpheusWithHades01|Orpheus With Hades 01|Orpheus|...Avete richiesto la presenza del vostro umile musico di corte, se non erro, Sommo Ade? Mi riferisco al sottoscritto, ovviamente.
-OrpheusWithHades01|Orpheus With Hades 01|Hades|Ebbene, Orfeo... se ne hai abbastanza delle profondità del Tartaro, ti rinnovo la mia richiesta: suonami qualcosa, una buona volta. In caso contrario, la tua prossima punizione non sarà altrettanto magnanima.
-OrpheusWithHades01|Orpheus With Hades 01|Orpheus|Oh, quello. Di nuovo mille scuse, Sommo Ade, ma il desiderio di cantare è in me ancora sopito, temo, malgrado la vostra notevole capacità di persuasione. Questa, ehm... è la mia ultima parola in materia. Per ora.
-OrpheusWithHades01|Orpheus With Hades 01|Hades|Ma davvero? In tal caso, attenderò. Se c'è una cosa che non mi difetta, è la pazienza.
-OrpheusWithHades02|Orpheus With Hades 02|Hades|Aiutami a capire una cosa, Orfeo. Per quale motivo mi ostino a impiegare un'ombra tanto inutile come mio musico di corte, visto che non riesco a cavarti di bocca una sola nota? Il fiato per blaterare non ti manca, a quanto vedo.
-OrpheusWithHades02|Orpheus With Hades 02|Orpheus|Se posso osare, mio signore... può darsi che la mera vista della mia persona susciti in voi il ricordo delle mie passate esibizioni? Sono lieto che le mie canzoni vi piacessero.
-OrpheusWithHades02|Orpheus With Hades 02|Hades|Un tempo tolleravo la tua insolenza. Ora non più. Ritrova la tua voce, e alla svelta! Ti do cento anni di tempo, non un istante di più.
-OrpheusWithHades03|Orpheus With Hades 03|Hades|Finalmente mostri un po' di giudizio, Orfeo. Un musico di corte che rifiuta di cantare! Che scempiaggine. Confido di non dovermi aspettare ulteriore insubordinatezza da parte tua in futuro, dico bene?
-OrpheusWithHades03|Orpheus With Hades 03|Orpheus|Mi rallegra che il mio canto ti commuova ancora, mio signore. Ma confesso che la mia decisione di tornare a cantare è dovuta in gran parte al principe. E alla mia musa, ovviamente.
-OrpheusWithHades03|Orpheus With Hades 03|Hades|Risparmiami i tuoi lamenti per la tua cosiddetta musa. A te e a Euridice diedi un'onesta occasione, che tu sprecasti. Sei qui, ora. I patti sono patti. Mi aspetto che tu onori i termini del nostro accordo.
-OrpheusWithHades04|Orpheus With Hades 04|Orpheus|...Sono lieto di sapere che la mia nuova flessibilità d'impiego è ancora di vostro gradimento, mio signore. Confesso di aver temuto che la mia assenza mi sarebbe costata un'altra sosta prolungata nei recessi del Tartaro.
-OrpheusWithHades04|Orpheus With Hades 04|Hades|Non darmi idee, Orfeo! Torna ai tuoi compiti, piuttosto, e suona una delle tue dannate canzoni quando le circostanze lo richiedono.
-OrpheusWithHades04|Orpheus With Hades 04|Orpheus|Ne sarò più che felice, mio signore. Euridice e io vi siamo grati per la vostra magnanimità.
-OrpheusWithAchilles01|Orpheus With Achilles 01|Orpheus|...Achille, lei è fin troppo modesto per un uomo con tante eroiche imprese e gloriose decapitazioni al proprio attivo! Dovrebbe prendere a esempio l'indole superba di Zagreus, e vantarsene di più!
-OrpheusWithAchilles01|Orpheus With Achilles 01|Achilles|Oh, a dire il vero, Orfeo, in vita fui alquanto pieno di me... e guarda dove mi ha portato. A ogni modo, non ho immaginazione a sufficienza per inventare racconti così fantasiosi come quelli del nostro caro principe.
-OrpheusWithAchilles02|Orpheus With Achilles 02|Orpheus|...A lei manca mai, signor Achille? L'aria fresca sul viso... il bisogno di un pasto, più volte al giorno. Cose del genere.
-OrpheusWithAchilles02|Orpheus With Achilles 02|Achilles|Ne ho solo vaghi ricordi, amico mio, benché il tuo canto mi rinfreschi la memoria, a volte. Ho ormai fatto l'abitudine a queste stanze, credo. Tu, invece, fatichi ancora ad ambientarti?
-OrpheusWithAchilles02|Orpheus With Achilles 02|Orpheus|Oh, al contrario, signore. Sono del tutto soddisfatto. Siamo fortunati ad avere impiego anche dopo la morte. Immagini di non far altro che oziare per l'eternità, quando si potrebbe essere al lavoro!
-OrpheusWithPersephone01|Orpheus With Persephone 01|Persephone|...*Ah*, ma il solo pensiero che il nostro stimato musico di corte sia proprio *tu*, Orfeo! In campo musicale, se non altro, i gusti miei e di Ade si somigliano. Non intendo rubarti altro tempo, in ogni caso!
-OrpheusWithPersephone01|Orpheus With Persephone 01|Orpheus|Sarà per me un onore eseguire per voi i miei brani, Vostra Grazia. E posso aggiungere che la mia signora condivide molti dei più affascinanti tratti di suo figlio? Ora comprendo da chi ha preso.
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Orpheus|...Avete richiesto la presenza del vostro umile musico di corte, se non erro, Sommo Ade? Mi riferisco al sottoscritto, ovviamente.
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Hades|Ebbene, Orfeo... se ne hai abbastanza delle profondità del Tartaro, ti rinnovo la mia richiesta: suonami qualcosa, una buona volta. In caso contrario, la tua prossima punizione non sarà altrettanto magnanima.
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Orpheus|Oh, quello. Di nuovo mille scuse, Sommo Ade, ma il desiderio di cantare è in me ancora sopito, temo, malgrado la vostra notevole capacità di persuasione. Questa, ehm... è la mia ultima parola in materia. Per ora.
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Hades|Ma davvero? In tal caso, attenderò. Se c'è una cosa che non mi difetta, è la pazienza.
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Hades|Aiutami a capire una cosa, Orfeo. Per quale motivo mi ostino a impiegare un'ombra tanto inutile come mio musico di corte, visto che non riesco a cavarti di bocca una sola nota? Il fiato per blaterare non ti manca, a quanto vedo.
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Orpheus|Se posso osare, mio signore... può darsi che la mera vista della mia persona susciti in voi il ricordo delle mie passate esibizioni? Sono lieto che le mie canzoni vi piacessero.
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Hades|Un tempo tolleravo la tua insolenza. Ora non più. Ritrova la tua voce, e alla svelta! Ti do cento anni di tempo, non un istante di più.
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Hades|Finalmente mostri un po' di giudizio, Orfeo. Un musico di corte che rifiuta di cantare! Che scempiaggine. Confido di non dovermi aspettare ulteriore insubordinatezza da parte tua in futuro, dico bene?
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Orpheus|Mi rallegra che il mio canto ti commuova ancora, mio signore. Ma confesso che la mia decisione di tornare a cantare è dovuta in gran parte al principe. E alla mia musa, ovviamente.
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Hades|Risparmiami i tuoi lamenti per la tua cosiddetta musa. A te e a Euridice diedi un'onesta occasione, che tu sprecasti. Sei qui, ora. I patti sono patti. Mi aspetto che tu onori i termini del nostro accordo.
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Orpheus|...Sono lieto di sapere che la mia nuova flessibilità d'impiego è ancora di vostro gradimento, mio signore. Confesso di aver temuto che la mia assenza mi sarebbe costata un'altra sosta prolungata nei recessi del Tartaro.
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Hades|Non darmi idee, Orfeo! Torna ai tuoi compiti, piuttosto, e suona una delle tue dannate canzoni quando le circostanze lo richiedono.
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Orpheus|Ne sarò più che felice, mio signore. Euridice e io vi siamo grati per la vostra magnanimità.
+OrpheusWithAchilles01|Duo - Orpheus and Achilles (1)|Orpheus|...Achille, lei è fin troppo modesto per un uomo con tante eroiche imprese e gloriose decapitazioni al proprio attivo! Dovrebbe prendere a esempio l'indole superba di Zagreus, e vantarsene di più!
+OrpheusWithAchilles01|Duo - Orpheus and Achilles (1)|Achilles|Oh, a dire il vero, Orfeo, in vita fui alquanto pieno di me... e guarda dove mi ha portato. A ogni modo, non ho immaginazione a sufficienza per inventare racconti così fantasiosi come quelli del nostro caro principe.
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Orpheus|...A lei manca mai, signor Achille? L'aria fresca sul viso... il bisogno di un pasto, più volte al giorno. Cose del genere.
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Achilles|Ne ho solo vaghi ricordi, amico mio, benché il tuo canto mi rinfreschi la memoria, a volte. Ho ormai fatto l'abitudine a queste stanze, credo. Tu, invece, fatichi ancora ad ambientarti?
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Orpheus|Oh, al contrario, signore. Sono del tutto soddisfatto. Siamo fortunati ad avere impiego anche dopo la morte. Immagini di non far altro che oziare per l'eternità, quando si potrebbe essere al lavoro!
+OrpheusWithPersephone01|Duo - Orpheus and Persephone (1)|Persephone|...*Ah*, ma il solo pensiero che il nostro stimato musico di corte sia proprio *tu*, Orfeo! In campo musicale, se non altro, i gusti miei e di Ade si somigliano. Non intendo rubarti altro tempo, in ogni caso!
+OrpheusWithPersephone01|Duo - Orpheus and Persephone (1)|Orpheus|Sarà per me un onore eseguire per voi i miei brani, Vostra Grazia. E posso aggiungere che la mia signora condivide molti dei più affascinanti tratti di suo figlio? Ora comprendo da chi ha preso.
 OrpheusChat01|Orpheus Chat 01|Orpheus|Mi spiace di non aver la forza di cantare, Zagreus.
 OrpheusChat02|Orpheus Chat 02|Orpheus|Mi imbarazza alquanto doverti rifiutare i miei servigi...!
 OrpheusChat03|Orpheus Chat 03|Orpheus|Rimango sempre il tuo umile musico di corte, Zagreus.
@@ -263,25 +263,25 @@ OrpheusGift08|Orpheus Gift 08|Zagreus|Ehi, Orfeo, sai che una volta ho strappato
 OrpheusGift08|Orpheus Gift 08|Orpheus|Ti prego, amico mio! Non merito tanta ininterrotta generosità da parte tua. Accetto questo dono, ma che sia l'ultimo, d'accordo? Confido che saprai perdonarmi?
 OrpheusGift08|Orpheus Gift 08|Zagreus|Amico, se è ciò che desideri, sarà mio piacere accontentarti. Possa allora questa singola bottiglia simboleggiare la nostra amicizia per tutta l'eternità a venire. Ho imparato davvero molto da te.
 OrpheusGift08|Orpheus Gift 08|Orpheus|Grazie, amico mio. Vorrei tanto poter trarre un po' di gioia dal tuo bel gesto.
-OrpheusWithEurydice01|Orpheus With Eurydice 01|Orpheus|Oh, Zagreus, che cosa magnifica vederti qui. Euridice e io stavamo recuperando il tempo trascorso lontani l'uno dall'altra.
-OrpheusWithEurydice01|Orpheus With Eurydice 01|Eurydice|Già. Quindi, se vuoi scusarci un momento, tesoro? Mi è rimasto ancora qualcosina da recuperare. Ma aspetta, prima di andare!
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Zagreus|Non ho mai udito nulla del genere, prima. Per quanto siate bravi ognuno per conto proprio, siete davvero magnifici assieme.
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Orpheus|Un complimento splendido, amico mio. Senza dubbio le Moire stesse tramarono affinché Euridice e io ci incontrassimo, cantassimo, e ci amassimo, per poi esser crudelmente seppur brevemente separati!
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Eurydice|Oh, non ricominciare, Orfeuccio. Abbiamo tutta la morte davanti! E un sacco di duetti arretrati.
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Orpheus|Cielo, ovviamente hai ragione, mia cara. Se vuoi scusarci, Zagreus? L'arte ci chiama.
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Zagreus|Ehi, voi due! Come sta andando di recente? Vi parlate di nuovo? O vi cantate, almeno?
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Orpheus|Oh, tutto sta andando meravigliosamente, amico mio. Non avrei mai pensato di rivedere Euridice, dopo che io...
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Eurydice|Orfeuccio continua a straziarsi riguardo a quella volta, tesoro. Ma stiamo facendo progressi. Grazie per averlo fatto passare di qua. Sono sicura che ci sia voluto un bel po' di incoraggiamento.
-OrpheusWithEurydiceEndTheme01|Orpheus With Eurydice End Theme 01|Zagreus|Ehi, alla fine stai cantando *\"Nel Sangue\" *, dopotutto, Orfeo! Grazie per aver accolto la mia richiesta!
-OrpheusWithEurydiceEndTheme01|Orpheus With Eurydice End Theme 01|Orpheus|Oh, per me è un piacere, Zagreus. Questa canzone mia e di Euridice ha un valore speciale, per me, suppongo. Mi fa affiorare tanti bei ricordi!
-OrpheusWithEurydiceMiscChat10|Orpheus With Eurydice Misc Chat 10|Orpheus|...Voglio che tu sappia che sei melodiosa come un tempo, mia cara!
-OrpheusWithEurydiceMiscChat11|Orpheus With Eurydice Misc Chat 11|Orpheus|Non è meravigliosa, amico mio?
-OrpheusWithEurydiceMiscChat12|Orpheus With Eurydice Misc Chat 12|Orpheus|Cantiamo e cantiamo, senza mai stancarci, Zagreus!
-OrpheusWithEurydiceMiscChat13|Orpheus With Eurydice Misc Chat 13|Orpheus|Non credevo l'avrei mai più rivista. Devo a te tutto questo, amico mio.
-OrpheusWithEurydiceMiscChat14|Orpheus With Eurydice Misc Chat 14|Orpheus|Quando cantiamo insieme, Zagreus, perdo del tutto la cognizione del tempo.
-OrpheusWithEurydiceMiscChat15|Orpheus With Eurydice Misc Chat 15|Orpheus|Il canto di Euridice non è forse quanto di più splendido tu abbia mai udito?
-OrpheusWithEurydiceMiscChat16|Orpheus With Eurydice Misc Chat 16|Orpheus|Potrà mai esistere voce più incantevole di quella di Euridice, amico mio?
-OrpheusWithEurydiceMiscChat17|Orpheus With Eurydice Misc Chat 17|Orpheus|Mi allieta che tu ti unisca a noi, amico mio.
-OrpheusWithEurydiceInTheBloodChat05|Orpheus With Eurydice In The Blood Chat 05|Orpheus|So che questo brano è di tuo gradimento, amico mio!
-OrpheusWithEurydiceInTheBloodChat06|Orpheus With Eurydice In The Blood Chat 06|Orpheus|Questa canzone mi rammenta i giorni mortali trascorsi con la mia Euridice...!
-OrpheusWithEurydiceInTheBloodChat07|Orpheus With Eurydice In The Blood Chat 07|Orpheus|Questa canzone godette di una certa popolarità, a suo tempo.
+OrpheusWithEurydice01|Duo - Orpheus and Eurydice (1)|Orpheus|Oh, Zagreus, che cosa magnifica vederti qui. Euridice e io stavamo recuperando il tempo trascorso lontani l'uno dall'altra.
+OrpheusWithEurydice01|Duo - Orpheus and Eurydice (1)|Eurydice|Già. Quindi, se vuoi scusarci un momento, tesoro? Mi è rimasto ancora qualcosina da recuperare. Ma aspetta, prima di andare!
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Zagreus|Non ho mai udito nulla del genere, prima. Per quanto siate bravi ognuno per conto proprio, siete davvero magnifici assieme.
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Orpheus|Un complimento splendido, amico mio. Senza dubbio le Moire stesse tramarono affinché Euridice e io ci incontrassimo, cantassimo, e ci amassimo, per poi esser crudelmente seppur brevemente separati!
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Eurydice|Oh, non ricominciare, Orfeuccio. Abbiamo tutta la morte davanti! E un sacco di duetti arretrati.
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Orpheus|Cielo, ovviamente hai ragione, mia cara. Se vuoi scusarci, Zagreus? L'arte ci chiama.
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Zagreus|Ehi, voi due! Come sta andando di recente? Vi parlate di nuovo? O vi cantate, almeno?
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Orpheus|Oh, tutto sta andando meravigliosamente, amico mio. Non avrei mai pensato di rivedere Euridice, dopo che io...
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Eurydice|Orfeuccio continua a straziarsi riguardo a quella volta, tesoro. Ma stiamo facendo progressi. Grazie per averlo fatto passare di qua. Sono sicura che ci sia voluto un bel po' di incoraggiamento.
+OrpheusWithEurydiceEndTheme01|Duo - Orpheus and Eurydice End Theme (1)|Zagreus|Ehi, alla fine stai cantando *\"Nel Sangue\" *, dopotutto, Orfeo! Grazie per aver accolto la mia richiesta!
+OrpheusWithEurydiceEndTheme01|Duo - Orpheus and Eurydice End Theme (1)|Orpheus|Oh, per me è un piacere, Zagreus. Questa canzone mia e di Euridice ha un valore speciale, per me, suppongo. Mi fa affiorare tanti bei ricordi!
+OrpheusWithEurydiceMiscChat10|Duo - Orpheus and Eurydice Misc Chat (10)|Orpheus|...Voglio che tu sappia che sei melodiosa come un tempo, mia cara!
+OrpheusWithEurydiceMiscChat11|Duo - Orpheus and Eurydice Misc Chat (11)|Orpheus|Non è meravigliosa, amico mio?
+OrpheusWithEurydiceMiscChat12|Duo - Orpheus and Eurydice Misc Chat (12)|Orpheus|Cantiamo e cantiamo, senza mai stancarci, Zagreus!
+OrpheusWithEurydiceMiscChat13|Duo - Orpheus and Eurydice Misc Chat (13)|Orpheus|Non credevo l'avrei mai più rivista. Devo a te tutto questo, amico mio.
+OrpheusWithEurydiceMiscChat14|Duo - Orpheus and Eurydice Misc Chat (14)|Orpheus|Quando cantiamo insieme, Zagreus, perdo del tutto la cognizione del tempo.
+OrpheusWithEurydiceMiscChat15|Duo - Orpheus and Eurydice Misc Chat (15)|Orpheus|Il canto di Euridice non è forse quanto di più splendido tu abbia mai udito?
+OrpheusWithEurydiceMiscChat16|Duo - Orpheus and Eurydice Misc Chat (16)|Orpheus|Potrà mai esistere voce più incantevole di quella di Euridice, amico mio?
+OrpheusWithEurydiceMiscChat17|Duo - Orpheus and Eurydice Misc Chat (17)|Orpheus|Mi allieta che tu ti unisca a noi, amico mio.
+OrpheusWithEurydiceInTheBloodChat05|Duo - Orpheus and Eurydice In The Blood Chat (5)|Orpheus|So che questo brano è di tuo gradimento, amico mio!
+OrpheusWithEurydiceInTheBloodChat06|Duo - Orpheus and Eurydice In The Blood Chat (6)|Orpheus|Questa canzone mi rammenta i giorni mortali trascorsi con la mia Euridice...!
+OrpheusWithEurydiceInTheBloodChat07|Duo - Orpheus and Eurydice In The Blood Chat (7)|Orpheus|Questa canzone godette di una certa popolarità, a suo tempo.

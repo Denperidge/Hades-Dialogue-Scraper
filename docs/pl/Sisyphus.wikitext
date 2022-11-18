@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Megaera With Sisyphus 01
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Megaera'''
 |"...Jeśli pomożesz mu ponownie, to przy naszym następnym spotkaniu dostaniesz tysiąc batów. A jak wrócę, to lepiej, żeby ten twój kamyczek był tam na górze, bo inaczej dostaniesz tysiąc więcej."
@@ -8,7 +8,7 @@
 |'''Sisyphus'''
 |"Brzmi dobrze, całkiem dobrze, szanowna Pani, to zdecydowanie sprawiedliwe. Trzymam za słowo! Do zobaczenia!"
 |-
-! colspan="2" |Megaera With Sisyphus 02
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Megaera'''
 |"...A jeśli wiesz, co dla ciebie dobre, to lepiej zajmij się swoim głazem, ty mały oszuście. Niech ci się nie wydaje, że cię nie obserwuję."
@@ -16,15 +16,15 @@
 |'''Sisyphus'''
 |"Doceniam twoją czujność, Szanowna Pani i z pewnością wepchnę Głazika na sam szczyt tego wzgórza - pomimo faktu, że jeszcze nigdy, przenigdy mi się to nie udało!"
 |-
-! colspan="2" |Megaera With Sisyphus 03
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Megaera'''
 |"...A kiedy ta cała sprawa z Księciem się zakończy, wrócimy do tego, jak było. Do tego czasu lepiej żebym regularnie widziała twój głaz na szczycie wzgórza."
 |-
 |'''Sisyphus'''
-|"W pełni to rozumiem, Szanowna Pani. Zapewniam, że Głazik, ''yyy'', to znaczy ten oto głaz - będę go regularnie pchał, ciągle do przodu, jak zawsze! No to do widzenia!"
+|"W pełni to rozumiem, Szanowna Pani. Zapewniam, że Głazik, *yyy*, to znaczy ten oto głaz - będę go regularnie pchał, ciągle do przodu, jak zawsze! No to do widzenia!"
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"...I na koniec, masz zakaz udzielania jakiejkolwiek dalszej pomocy Księciu Zagreusowi. Czy się rozumiemy?"
@@ -35,7 +35,7 @@
 |'''Thanatos'''
 |"Dość! Wracaj do pracy, a ja wrócę do swojej."
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Rozumiem cię, Panie Tanatosie i zrobię jak każesz. Nie będę już pomagał Księciu Zagreusowi, tym razem jestem śmiertelnie poważny."
@@ -43,7 +43,7 @@
 |'''Thanatos'''
 |"Dobrze. Obojgu nam się dostanie, jeżeli zostaniesz przyłapany na jednym ze swoich oszustw. Upewnij się, że to się nie wydarzy."
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"...Powinieneś być bardziej rozważny następnym razem i obawiać się konsekwencji unikania mnie. Śmierć może być bardzo nieprzyjemna, jak na pewno wiesz."
@@ -85,7 +85,7 @@
 |"Słuchaj, muszę być z tobą szczery, Syzyfie. Opuszczam Dom. Mam już dosyć. Z pewnością to rozumiesz. Udaję się na powierzchnię."
 |-
 |'''Sisyphus'''
-|"''Uff'', to całkiem niezłe przedsięwzięcie, Książę. Prawdę mówiąc, gdybyś to nie ty o tym mówił, uznałbym to za szaleństwo. Choć podejrzewam, że jesteś wystarczająco szalony, aby podołać temu zadaniu! No cóż, mam nadzieję, że ci się uda. Powodzenia!"
+|"*Uff*, to całkiem niezłe przedsięwzięcie, Książę. Prawdę mówiąc, gdybyś to nie ty o tym mówił, uznałbym to za szaleństwo. Choć podejrzewam, że jesteś wystarczająco szalony, aby podołać temu zadaniu! No cóż, mam nadzieję, że ci się uda. Powodzenia!"
 |-
 ! colspan="2" |Sisyphus Meeting 03
 |-
@@ -107,7 +107,7 @@
 |"Syzyfie, nie zrozum mnie źle, ale... czemu mi pomagasz? Mój ojciec umieścił cię tu na wieczne męki i cierpienia, a ty mimo to za każdym razem witasz mnie z szerokim uśmiechem."
 |-
 |'''Sisyphus'''
-|"''Ha''! Daj spokój, Książę Z., po prostu taki jestem! Poza tym, nie jesteś swoim ojcem - bogom niech będą dzięki! Zawsze wydawałeś mi się być przyzwoitym chłopakiem, a jeśli mówisz, że chcesz się stąd wydostać - cóż, myślę, że to rozumiem. To wszystko."
+|"*Ha*! Daj spokój, Książę Z., po prostu taki jestem! Poza tym, nie jesteś swoim ojcem - bogom niech będą dzięki! Zawsze wydawałeś mi się być przyzwoitym chłopakiem, a jeśli mówisz, że chcesz się stąd wydostać - cóż, myślę, że to rozumiem. To wszystko."
 |-
 ! colspan="2" |Sisyphus Meeting About Fury 01
 |-
@@ -150,7 +150,7 @@
 |"Wiesz, tak sobie myślałem, czcigodny panie... że czasami zazdroszczę tobie i Głazikowi. Wygląda na to, że macie wszystko ładnie poukładane. A jeżeli o mnie chodzi, to często się na siebie wściekam i nie zawsze wiem komu mogę się zwierzyć."
 |-
 |'''Sisyphus'''
-|"Och, ''ha''! Cóż, wydaje mi się, że ostatnio masz po prostu trudny okres, Książę. Ale poradzisz sobie! A jeżeli chodzi o Głazika, to nie wahaj się zwierzyć właśnie jemu, jeśli chcesz. Sam to uczyniłem już jakiś czas temu."
+|"Och, *ha*! Cóż, wydaje mi się, że ostatnio masz po prostu trudny okres, Książę. Ale poradzisz sobie! A jeżeli chodzi o Głazika, to nie wahaj się zwierzyć właśnie jemu, jeśli chcesz. Sam to uczyniłem już jakiś czas temu."
 |-
 |'''Zagreus'''
 |"Czyli mogę... po prostu podejść i porozmawiać z nim? I to wszystko?"
@@ -177,13 +177,13 @@
 ! colspan="2" |Sisyphus About Bouldy 04
 |-
 |'''Sisyphus'''
-|"Hej, Książę, a, więc... wiesz, że Głazik to zwykły, stary głaz z kilkoma liniami przypominającymi twarz, które zostały w niego wciosane, prawda? Wciosane w ''to'', znaczy się. Żebyś nie nabrał mylnego wrażenia..."
+|"Hej, Książę, a, więc... wiesz, że Głazik to zwykły, stary głaz z kilkoma liniami przypominającymi twarz, które zostały w niego wciosane, prawda? Wciosane w *to*, znaczy się. Żebyś nie nabrał mylnego wrażenia..."
 |-
 |'''Zagreus'''
 |"No coś ty, czcigodny panie, oboje dobrze wiemy, że Głazik jest kimś więcej. Naprawdę myślisz, że wątpię w moc Głazika po tym wszystkim, co przeszliśmy?"
 |-
 |'''Sisyphus'''
-|"''Hahahaha'', nie. To był tylko żart, kosztem Głazika. Spójrz na niego, tak się denerwuje, kiedy w ten sposób nazywam go zwykłym, starym kamieniem! Ale potem nazywa mnie starym leniwym bałwanem, a potem przez jakiś czas jesteśmy kwita."
+|"*Hahahaha*, nie. To był tylko żart, kosztem Głazika. Spójrz na niego, tak się denerwuje, kiedy w ten sposób nazywam go zwykłym, starym kamieniem! Ale potem nazywa mnie starym leniwym bałwanem, a potem przez jakiś czas jesteśmy kwita."
 |-
 ! colspan="2" |Sisyphus About Alecto 01
 |-
@@ -235,7 +235,7 @@
 |"Może cię to zaskoczyć, Wasza Wysokość, ale sam mam w sobie nieco godności królewskiej. Oczywiście, nie aż tak jak ty, ale byłem w rzeczy samej królem. Choć będę szczery, ja... nie byłem zbyt dobrym człowiekiem."
 |-
 |'''Zagreus'''
-|"''No proszę''! Tak coś czułem, że jest w tobie królewskość! Choć ciężko mi sobie wyobrazić ciebie jako kogokolwiek innego, niż jako dżentelmena, mój przyjacielu."
+|"*No proszę*! Tak coś czułem, że jest w tobie królewskość! Choć ciężko mi sobie wyobrazić ciebie jako kogokolwiek innego, niż jako dżentelmena, mój przyjacielu."
 |-
 |'''Sisyphus'''
 |"Cóż, to bardzo miłe słowa z twojej strony. Choć uważam, że moja kara tutaj nie była nieuzasadniona. Przynajmniej miałem mnóstwo czasu, żeby wszystko tu przemyśleć!"
@@ -243,10 +243,10 @@
 ! colspan="2" |Sisyphus Backstory 03
 |-
 |'''Zagreus'''
-|"''Umm'', Syzyfie, czy mogę cię zapytać, co takiego zrobiłeś, żeby znaleźć się w tej sytuacji? No wiesz, pchanie głazu przez całą wieczność. Nigdy nie usłyszałem tego od ciebie samego."
+|"*Umm*, Syzyfie, czy mogę cię zapytać, co takiego zrobiłeś, żeby znaleźć się w tej sytuacji? No wiesz, pchanie głazu przez całą wieczność. Nigdy nie usłyszałem tego od ciebie samego."
 |-
 |'''Sisyphus'''
-|"Cóż, to dość długa historia, Książę. Nadszedł mój czas, a ja nie byłem gotowy - można by tak rzec. Twój ojciec myślał, że już ma mnie w swoich szponach, a wtedy ja ''siup''! Wymknąłem mu się! Poplecznik twojego ojca, Tanatos, może to potwierdzić."
+|"Cóż, to dość długa historia, Książę. Nadszedł mój czas, a ja nie byłem gotowy - można by tak rzec. Twój ojciec myślał, że już ma mnie w swoich szponach, a wtedy ja *siup*! Wymknąłem mu się! Poplecznik twojego ojca, Tanatos, może to potwierdzić."
 |-
 |'''Zagreus'''
 |"Przechytrzyłeś Tanatosa? To niesamowite... co się stało później?"
@@ -274,7 +274,7 @@
 |"Muszę ci coś powiedzieć, Syzyfie. Czasami chciałbym wiedzieć więcej o twojej przeszłości. Musiałeś być świetnym królem."
 |-
 |'''Sisyphus'''
-|"Cóż, ''ach-ha'', rzecz w tym, że nie byłem Wasza Wysokość. I nie przemawia przeze mnie skromność, wiesz? Wszystko już za mną. I byłbym wdzięczny, gdybyśmy mogli to tak pozostawić."
+|"Cóż, *ach-ha*, rzecz w tym, że nie byłem Wasza Wysokość. I nie przemawia przeze mnie skromność, wiesz? Wszystko już za mną. I byłbym wdzięczny, gdybyśmy mogli to tak pozostawić."
 |-
 |'''Zagreus'''
 |"Rozumiem, czcigodny panie. Choć cokolwiek takiego zrobiłeś za swoich śmiertelnych dni... od tamtego czasu zapłaciłeś za to z nawiązką, jestem pewien... Moment, czy to dlatego wciąż jesteś tutaj, w Tartarze? Ponieważ myślisz, że na to zasługujesz?"
@@ -476,7 +476,7 @@
 ! colspan="2" |Sisyphus Post Ending 01
 |-
 |'''Sisyphus'''
-|"Zatem, przez cały ten czas, Książę, przez który walczyłeś, aby dostać się tam na powierzchnię i w ogóle... szukałeś ''jej'', czyż nie? Królowej?"
+|"Zatem, przez cały ten czas, Książę, przez który walczyłeś, aby dostać się tam na powierzchnię i w ogóle... szukałeś *jej*, czyż nie? Królowej?"
 |-
 |'''Zagreus'''
 |"Tak. Choć, tak między nami, szanowny panie, ważne jest, abyś zachował to w tajemnicy, proszę. Czy... udało ci się ją kiedykolwiek spotkać?"
@@ -501,7 +501,7 @@
 |"Jest jedna rzecz, której nie rozumiem, Książę Z., jeśli masz chwilę, aby mi to wyjaśnić. Skoro wszystko dla ciebie się dobrze ułożyło w Domu, to... dlaczego wciąż walczysz, aby dostać się na powierzchnię?"
 |-
 |'''Zagreus'''
-|"Och, no wiesz. Nie chciałbym, aby Ojciec spoczął na laurach myśląc, że to miejsce jest niezawodne. Ma przerażająco złowieszczą reputację do utrzymania! ''Nie ma ucieczki''."
+|"Och, no wiesz. Nie chciałbym, aby Ojciec spoczął na laurach myśląc, że to miejsce jest niezawodne. Ma przerażająco złowieszczą reputację do utrzymania! *Nie ma ucieczki*."
 |-
 |'''Sisyphus'''
 |"Jasne, ma to sens! Cóż, z pewnego punktu widzenia. Uciekanie raz za razem, aby dowieść, że nie da się tego zrobić. Podoba mi się to. Cóż, zatem obaj trzymajmy tak dalej!"
@@ -509,7 +509,7 @@
 ! colspan="2" |Sisyphus Post Epilogue 03
 |-
 |'''Sisyphus'''
-|"Mam nadzieję, że nie pracujesz ostatnio ''zbyt ''ciężko, czyż nie, Książę Z.? Pamiętasz, aby robić sobie od czasu od czasu przerwy i w ogóle?"
+|"Mam nadzieję, że nie pracujesz ostatnio *zbyt *ciężko, czyż nie, Książę Z.? Pamiętasz, aby robić sobie od czasu od czasu przerwy i w ogóle?"
 |-
 |'''Zagreus'''
 |"Myślę, że daję sobie radę, dzięki, czcigodny panie. Jednakże wtedy, kiedy jeszcze jedynie pchałeś Głazika, a nie rozmawiałeś z nim... przypuszczam, że nie miałeś zbyt wielkiego wyboru, czyż nie?"
@@ -537,7 +537,7 @@
 |"Dzięki, szanowny panie. Były naprawdę przydatne podczas moich powtarzanych wycieczek w te rejony, wszystko dzięki tobie. Na pewno nie chcesz ich z powrotem?"
 |-
 |'''Sisyphus'''
-|"''Hahahahah''! Ależ nie, choć doceniam twój gest. Bardziej wolę patrzeć na ten oto wierny głaz, niż na symbol moich pierwszych chwil tutaj, kiedy to nie radziłem sobie zbyt dobrze."
+|"*Hahahahah*! Ależ nie, choć doceniam twój gest. Bardziej wolę patrzeć na ten oto wierny głaz, niż na symbol moich pierwszych chwil tutaj, kiedy to nie radziłem sobie zbyt dobrze."
 |-
 ! colspan="2" |Sisyphus About About Singers Reunion Quest 01
 |-
@@ -548,7 +548,7 @@
 |"Dobrze słyszałeś, Syzyfie! Orfeusz nareszcie ponownie zjednoczył się ze swoją muzą. A przynajmniej może ją regularnie odwiedzać, gdy nie jest zajęty w domu mojego ojca. A więc słyszałeś o nich, tak?"
 |-
 |'''Sisyphus'''
-|"O, nawet więcej, niż słyszałem! Z pewnością wiesz, że Orfeusz pewnego razu zapuścił się aż tu na dół, po tym jak Eurydyka umarła. Nigdy nie zapomnę jego pieśni! Nawet Siostry Furie dały mi odpocząć, tak bardzo były nią wtedy poruszone. ''Ach'', dobre czasy. A przynajmniej dla mnie!"
+|"O, nawet więcej, niż słyszałem! Z pewnością wiesz, że Orfeusz pewnego razu zapuścił się aż tu na dół, po tym jak Eurydyka umarła. Nigdy nie zapomnę jego pieśni! Nawet Siostry Furie dały mi odpocząć, tak bardzo były nią wtedy poruszone. *Ach*, dobre czasy. A przynajmniej dla mnie!"
 |-
 ! colspan="2" |Sisyphus About Legendary 01
 |-
@@ -569,7 +569,7 @@
 |'''Sisyphus'''
 |"Cóż, Książę, powiedziałem ci przecież, że będziemy z tobą duchem, prawda? To nie jest żadna moc Zjawusia ani też ukryta siła Głazika, czy też moja. To po prostu dowód naszej przyjaźni. Wy bogowie jesteście w stanie zrobić wszystko!"
 |-
-! colspan="2" |Megaera With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (1)
 |-
 |'''Zagreus'''
 |"Zniknęła... Wciąż w jednym kawałku, Syzyfie? Nie jesteś ranny, ani nic?"
@@ -577,7 +577,7 @@
 |'''Sisyphus'''
 |"Och, wszystko w porządku, dziękuję, Książę. Ta Siostra Furia, cóż za niesamowita kobieta... i muszę przyznać, że bardzo, bardzo silna. Założę się, że pchanie Głazika wychodziłoby jej o wiele lepiej niż mnie!"
 |-
-! colspan="2" |Megaera With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (2)
 |-
 |'''Zagreus'''
 |"Nigdy nie udało ci się wepchnąć Głazika na sam szczyt?"
@@ -585,7 +585,7 @@
 |'''Sisyphus'''
 |"Nigdy mi się to nie udało, ani razu. Zawsze stacza się na dół przy samym szczycie. Straciłem rachubę przy 19-tysięcznym podejściu czy coś koło tego, ale wiesz co? Idę o zakład, że pewnego dnia mi się uda."
 |-
-! colspan="2" |Megaera With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Megaera and Sisyphus (3)
 |-
 |'''Zagreus'''
 |"Syzyfie, czy dobrze słyszałem, że Megajra przyrzekła zostawić cię w spokoju? I to zarówno ciebie, jak i Głazika?"
@@ -596,17 +596,17 @@
 |'''Zagreus'''
 |"Cóż, idę o zakład, że jestem w stanie zajmować jej czas jeszcze przez jakiś czas. Potraktuję to jako dobre wieści, czcigodny panie."
 |-
-! colspan="2" |Thanatos With Sisyphus 01 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Sisyphus'''
 |"Och, u mnie wszystko w porządku, Książę, dzięki. Nie boję się go, znaczy, co mam do stracenia? A teraz proszę, chciałem ci to dać."
 |-
-! colspan="2" |Thanatos With Sisyphus 02 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Ależ on ma tupet, dasz wiarę, Książę? Nic tylko się przechwala, więc mówię mu dokładnie to, co chce usłyszeć! Poza tym nie powstrzyma mnie przed udzielaniem ci pomocy. I tak już nie żyję, więc co może zrobić?"
 |-
-! colspan="2" |Thanatos With Sisyphus 03 Follow Up
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Sisyphus'''
 |"Książę Z.! Minąłeś się ze swoim kolegą o surowym obliczu - czujesz to napięcie wiszące w powietrzu? Wygląda na to, że przez jakiś czas nie będzie mnie sprawdzał."

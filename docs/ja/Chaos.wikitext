@@ -377,7 +377,7 @@
 |"我は、ハデスの息子の到着を予期していた。この者を\n通じて… 正確には、この者が帯びる全能の武具を\n通じて。その原型は、世界開闢時に我より生じた。\nこの者が携えるそれは、当時の姿に極めて近しい。\n回答を求める。"
 |-
 |'''Zagreus'''
-|"混沌の盾… つまり、''カオスの''盾。これほど見事な、\n存在感のある武具はない。あなたから生じた原型は、\nもっと立派だったはずだ。"
+|"混沌の盾… つまり、*カオスの*盾。これほど見事な、\n存在感のある武具はない。あなたから生じた原型は、\nもっと立派だったはずだ。"
 |-
 |'''Chaos'''
 |"好ましい回答。我も、その武具を通じ、\nこの広大な領域を直に目の当たりに\nすることが叶い、幸いと感じる。"
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"この者を、大いに歓迎する。"
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"我は通常、ハデスの息子の訪問を歓迎する。\nしかし今は、ニュクスのみとの接触を望む。"
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"ニュクスと我は、互いの記憶を交換中。\n我は、ニュクスのみとの接触を望む。"
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"女神ニュクスのわが元への帰還を、我は歓迎する。"
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"我はハデスの息子に許しを請う。我は女神ニュクスとの会話続行を望む。"
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"女神ニュクスとの前接触から、長い時が流れた。"
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"複数の他者との接触は、我にとっては、非常。"
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"わが娘は現在、ハデスの館にて生じた事象について、\n我に報告中。"
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"女神ニュクスと我は現在、会話を続行中。\nハデスの息子の目にも、明白と推測する。"

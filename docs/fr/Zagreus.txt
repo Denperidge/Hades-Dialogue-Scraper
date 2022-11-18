@@ -110,7 +110,7 @@ Thanatos: À beaucoup de choses. Et il va falloir t'y habituer, Zag. Enfin, je v
 Zagreus: Ça me va. Ça me va.
 
 
---- Megaera With Thanatos Bedroom 01 ---
+--- Duo - Megaera and Thanatos Bedroom (1) ---
 Megaera: Zagreus, ta chambre n'a pas de porte. Pourquoi tu as toujours l'air aussi surpris ?
 Zagreus: *Euh*, Meg, Than, qu'est-ce que vous... qu'est-ce qui se passe ? Quoi que ce soit, je peux tout expliquer... oh, non, vous souriez tous les deux... oh. Euh, laissez-moi juste... laissez-moi juste une seconde.
 Megaera: Tu nous sous-estimes beaucoup trop, Zag. Thanatos et moi, on se connaît depuis bien avant ta naissance.
@@ -1232,7 +1232,7 @@ Zagreus: Ainsi, nous sommes en quelque sorte enfermés dans un cycle de violence
 Theseus: Retire ce que tu as dit sur l’Élysée ! Non, mieux encore : je vais te faire avaler ces remarques déplacées et impudentes ! Viens, Astérion, *à l’attaque *!
 
 
---- Theseus With Asterius 04 ---
+--- Duo - Theseus and Asterius (4) ---
 Zagreus: Thésée, avant que tu ne gaspilles encore ta salive spectrale à mon égard, j’aimerais entendre ce bon Astérion cette fois ! Tu monopolises toujours la parole, il ne peut pas prononcer un mot.
 Minotaur: Le roi parle pour nous deux, minus. Toutefois, si tu souhaites m’entendre dire quelque chose, je veux bien t'accorder cette faveur.
 Theseus: Moi aussi, j’ai une faveur à rendre ! Une faveur à rendre à ma loyale lance qui se languit de pénétrer ta chair tendre et vulnérable, et d’une pâleur extrême ! Meurs, maintenant !
@@ -4487,7 +4487,7 @@ Zagreus: Nyx, tu as vraiment donné à Dusa l'édition epsilon d'un Compagnon Ch
 Nyx: La tête de gorgone tranchée n'est pas sans qualités, mon enfant. Même si je m'attendais à ce que ce compagnon arrive tôt ou tard jusqu'à toi, au vu de l'attachement grandissant que vous éprouviez l'un pour l'autre. Ainsi, en une action, vous avez trouvé tous deux de la motivation.
 
 
---- Nyx With Hades 04 ---
+--- Duo - Nyx and Hades (4) ---
 Hades: Et maintenant, Nyx ? Te rends-tu compte du danger auquel tu l'as exposée, à présent ? Tu dis tenir à elle, mais maintenant, elle risque d'être découverte... *ils *risquent de tout découvrir !
 Nyx: Hadès. Y a-t-il eu un seul instant où je ne savais pas exactement ce que je faisais ? Aucun mal ne s'abattra sur la Reine, ou sur ton fils.
 Zagreus: ...Du mal à la Reine...? Attendez, de quoi vous parlez, là ?
@@ -4986,7 +4986,7 @@ Zagreus: Je dirais que oui, pour l'instant. Mais bon, tu sais comment ils sont..
 Thanatos: *Hah *! Ça, oui, je le sais. Bon, eh bien, comme diraient les mortels, profites-en tant que ça dure. On se retrouve dehors.
 
 
---- Thanatos With Hades 04 ---
+--- Duo - Thanatos and Hades (4) ---
 Thanatos: Vous vouliez à nouveau me voir, mon seigneur ? Cela fait... longtemps que je n'ai pas eu une audience avec vous.
 Hades: En effet. Rappelle-moi ce que tu avais dit, la dernière fois ? Qu'il doit y avoir une solution au *problème *entre moi et mon fils ? Eh bien, sache qu'il est réglé, maintenant. N'est-ce pas, fils ?
 Zagreus: Oui, enfin, tu te donnes toujours un mal fou pour m'empêcher de m'échapper de ton royaume, alors je ne sais pas si on peut dire que le problème est *réglé*, mais... effectivement, c'est différent, maintenant.
@@ -5928,13 +5928,13 @@ Zagreus: Je ne sais pas... on pourrait leur dire qu'ils se trompent ? Poliment, 
 Orpheus: Répandre la vérité...? Mais je suis le musicien de cette cour. Je n'ai plus beaucoup d'auditeurs, ces temps-ci. Quoique... toutes ces ombres qui errent ici-bas... je suppose qu'elles aussi font partie de mon public. Je ferai en sorte qu'elles sachent de qui sont les chants que je chante.
 
 
---- Orpheus Progress With Eurydice 01 ---
+--- Duo - Progress and Eurydice (1) ---
 Orpheus: Je dois t'avouer quelque chose, mon ami. Je repense encore souvent à Eurydice et à ce que nous avons vécu ensemble, malgré tous mes efforts pour tourner la page sur ce chapitre de ma vie. J'appellerais bien cela un défaut mortel, mais... je suis déjà mort, vois-tu.
 Zagreus: Ne te torture pas comme ça, l’ami. Tu as déjà assez souffert comme ça. Et elle aussi ! Vous vous aimez encore, c'est juste que vous n’arrivez pas à l'exprimer correctement. Mais j’ai une idée.
 Orpheus: Moi aussi, j’avais des idées, Zagreus... des idées, et des inspirations. Oh, c'était tellement merveilleux d’avoir une muse...
 
 
---- Orpheus Progress With Eurydice 02 ---
+--- Duo - Progress and Eurydice (2) ---
 Zagreus: J'ai quelque chose pour toi, Orphée. C’est une nouvelle chanson. De la part de quelqu’un qui tient encore à toi.
 Orpheus: Mon ami, tu m'as écrit une chanson...? Oh, mais elle n'est pas de toi, elle est de... *Eurydice*... Je, non, je ne sais pas quoi dire, je... je...
 
@@ -6063,20 +6063,20 @@ Zagreus: L'ami, si tel est ton souhait, alors je m'y soumettrai volontiers. Mais
 Orpheus: Merci, mon ami. Si seulement j'étais capable d'en tirer un peu de joie.
 
 
---- Orpheus With Eurydice 02 ---
+--- Duo - Orpheus and Eurydice (2) ---
 Zagreus: Je n'ai jamais rien entendu de tel. Si vos talents respectifs de chanteurs sont indéniables, vous sonnez absolument merveilleux une fois réunis.
 Orpheus: Quel merveilleux compliment, mon ami. Il est évident que les Moires en personne se sont arrangées pour qu'Eurydice et moi nous rencontrions, chantions ensemble, tombions amoureux l'un de l'autre... avant de nous séparer cruellement un long moment !
 Eurydice: Oh, je t'en prie, ne recommence pas avec ça, tu m'entends, Orphi ? On a toute notre vie dans l'au-delà devant nous ! Et beaucoup de chansons à rattraper.
 Orpheus: Bien sûr, tu as raison, ma chère. Si tu veux bien nous excuser, Zagreus ? Notre passion nous appelle.
 
 
---- Orpheus With Eurydice 03 ---
+--- Duo - Orpheus and Eurydice (3) ---
 Zagreus: Coucou vous deux, ça va ? Toujours en pleine discussion ? Ou en pleine création musicale ?
 Orpheus: Oh, tout va merveilleusement bien, mon ami. Je n'aurais jamais pensé revoir Eurydice, après...
 Eurydice: Orphi ne peut toujours pas s'empêcher de parler de ça, mon chou. Mais on progresse ! Merci de l'avoir fait venir ici. Je suis sûre qu'il avait besoin d'une bonne dose d'encouragement.
 
 
---- Orpheus With Eurydice End Theme 01 ---
+--- Duo - Orpheus and Eurydice End Theme (1) ---
 Zagreus: Hé, mais tu chantes *Dans le Sang *finalement, Orphée ! Merci d'avoir accédé à ma demande !
 Orpheus: Oh, tout le plaisir est pour moi, Zagreus. Je suis très attaché à ce chant d'Eurydice et de moi. Il me rappelle tant de bons souvenirs !
 
@@ -6750,23 +6750,23 @@ Zagreus: Sisyphe, savez-vous comment fonctionne Ombros ? Je peux vous faire sort
 Sisyphus: Eh bien, Prince, ne vous ai-je pas dit que je serais avec vous par la pensée ? Ce n’est pas par l’intermédiaire d'Ombros, ni de Pierrot, ni par ma force cachée. C’est juste une preuve de notre amitié. Vous êtes capables de tout, vous les dieux !
 
 
---- Megaera With Sisyphus 01 Follow Up ---
+--- Duo - Megaera and Sisyphus (1) ---
 Zagreus: Elle est partie... ça va, vous êtes encore en un seul morceau, Sisyphe ? Vous n’êtes pas blessé ni rien ?
 Sisyphus: Oh, je vais bien, merci, Prince. Cette Érinye, c’est un sacré personnage, je dois dire, et quelle force ! Je parie qu'elle serait bien plus douée que moi pour pousser ce bon vieux Pierrot !
 
 
---- Megaera With Sisyphus 02 Follow Up ---
+--- Duo - Megaera and Sisyphus (2) ---
 Zagreus: Vous n'avez vraiment jamais réussi à pousser Pierrot jusqu'au sommet ?
 Sisyphus: Je n'ai jamais réussi à pousser ce vieux rocher jusqu'en haut, non. Il finit toujours par dévaler la colline à quelques pas du sommet. J'ai arrêté de compter après la dix-neuf mille centième fois, je crois, mais vous savez quoi ? Je parie qu'il va enfin y arriver, un de ces jours.
 
 
---- Megaera With Sisyphus 03 Follow Up ---
+--- Duo - Megaera and Sisyphus (3) ---
 Zagreus: Sisyphe, ai-je bien entendu que Mégère a décidé de vous laisser un peu tranquilles, Pierrot et vous ?
 Sisyphus: Ma foi, vous avez bien entendu, je crois, Votre Altesse ! Il semble que les Moires m'accordent un répit. Mais, la sœur Érinye a affirmé qu'elle reviendrait me hanter une fois qu'elle en aura fini avec vous...
 Zagreus: Eh bien, je dois pouvoir l'occuper un moment. Je prends ça comme une bonne nouvelle, monsieur.
 
 
---- Thanatos With Sisyphus 03 Follow Up ---
+--- Duo - Thanatos and Sisyphus (3) ---
 Sisyphus: Prince Z ! Vous venez à peine de rater votre collègue, vous sentez cette immobilité dans l'air ? J'ai l'impression qu'il ne reviendra pas ici de sitôt.
 Zagreus: Thanatos n'est vraiment pas si méchant une fois qu'on le connaît, vous savez. Mais j'ai bien peur que vous devrez vous contenter de me faire confiance là-dessus.
 Sisyphus: Oh, mais je vous fais confiance, Votre Altesse. Semer la mort doit être un travail bien triste. Peut-être que pousser un rocher lui ferait du bien !
@@ -7127,21 +7127,21 @@ Zagreus: Tout risquer ? Mais risquer *quoi *? Il ne veut que ce qu'il y a de mie
 Patroclus: Il est un peu tard pour s'inquiéter de ça. En partant du principe que ce que tu m'as dit est vrai... j'ose dire qu'il semble que nous avons plus à gagner qu'à perdre, sur ce coup-là. Après tout, la peur n'est-elle pas pour les faibles ?
 
 
---- Patroclus With Achilles 01 ---
+--- Duo - Patroclus and Achilles (1) ---
 Achilles: Je savais qu'on finirait par te croiser, mais... comme c'est étrange de nous retrouver ici, mon garçon. De voir cet endroit de mes propres yeux. Je n'en reviens toujours pas...
 Patroclus: Vraiment, il n'y a rien à faire. Pourtant, je n'arrête pas de lui dire que c'est la réalité. On n'obtient rien sans prendre de risques, pas vrai ? Oh, mais nous devons te remercier, étranger. Rien ne t'obligeait à te préoccuper de nos problèmes.
 Zagreus: Je vous en prie, monsieur. Vous êtes mon ami. Et Achille... je ne sais pas ce que je serais sans vous.
 Patroclus: Allons, inutile de la jouer sentimental. Nous autres Myrmidons, nous ne sommes pas de ce genre-là. Achille fait simplement une pause après un travail exigeant, c'est tout. Toi aussi, ton travail est exigeant, alors tiens ! Mon petit cadeau habituel.
 
 
---- Patroclus With Achilles 02 ---
+--- Duo - Patroclus and Achilles (2) ---
 Patroclus: Tiens donc, le disciple d'Achille est venu nous rendre visite. Je ne sais pas comment je pourrai te remercier pour ce que tu as fait, étranger. En fait, je crois bien que c'est impossible.
 Achilles: J'en étais plus ou moins arrivé à la même conclusion, Pat.
 Zagreus: Et si vous continuiez de me proposer tous ces objets de grande qualité dont vous n'avez pas besoin quand je passe par ici ? Je pense que ça suffira pour qu'on soit quittes. Ça vous dit ?
 Patroclus: C'est ce que je comptais faire de toute façon, mais... si jamais tu penses à autre chose, n'hésite pas à nous le faire savoir.
 
 
---- Patroclus With Achilles 03 ---
+--- Duo - Patroclus and Achilles (3) ---
 Patroclus: Ah, te voilà, étranger. Donne-nous ton avis, s'il te plaît. Tu ne crois pas qu'Achille ferait un excellent Champion de l'Élysée ? Parce que moi, je crois que n'importe qui serait meilleur que le champion actuel.
 Achilles: Je crois que je préférerais surveiller un couloir pratiquement désert plutôt qu'affronter toutes les ombres de l’Élysée, Pat.
 Zagreus: Moi aussi, je préférerais de loin me mesurer à Thésée plutôt qu'à vous, Achille. Mais ça ne veut pas dire que je ne pense pas que pratiquement tout le monde serait un bien meilleur champion que lui.
@@ -7362,26 +7362,26 @@ Zagreus: Je... je ne sais pas encore. Mais vous savez quoi ? Ce n'est pas moi q
 Eurydice: Je ne crois pas que je le reverrai de sitôt, vu notre situation. Mais tu es le petit Hadès ! Si tu veux tirer quelques ficelles pour nous, eh bien, ne te gêne pas. Mais je ne me fais pas d'idées. Pas pour autre chose que des paroles de chansons, en tout cas.
 
 
---- Eurydice Progress With Orpheus 01 ---
+--- Duo - Progress and Orpheus (1) ---
 Eurydice: Dis-moi, *euh*... comment va Orphée, ces temps-ci ? Il a toujours ses jolies petites boucles ? Ça ne m'étonnerait pas qu'il ait perdu son teint bronzé, depuis le temps.
 Zagreus: Des boucles ? *Euh*, pas vraiment, non. Mais il va bien ! Enfin, tout est relatif. Il s’est remis à chanter, récemment ! Ç’a été un grand pas. Avant, il refusait de le faire, sous prétexte qu’il avait perdu sa muse.
 Eurydice: Et maintenant, il sait que je suis encore là, hm. C’est... enfin, merci pour ces nouvelles, mon chou. Il a un vrai don pour la musique. Je suis contente qu’il n’ait pas tout laissé tomber.
 
 
---- Eurydice Progress With Orpheus 02 ---
+--- Duo - Progress and Orpheus (2) ---
 Zagreus: Eurydice, est-ce que je peux vous demander quelque chose ? Je sais que vous ne me devez rien, mais je me suis dit que vous m'écouteriez quand même...?
 Eurydice: Bien sûr, mon chou ! Tout ce que tu veux, tant que ça ne concerne pas mes recettes. Ça, ce sont des secrets de famille ! Je dirais même que je les emporterai avec moi dans ma tombe, mais... ouais.
 Zagreus: Il ne s’agit pas de vos recettes, bien qu’elles soient fantastiques. Il s’agit de votre chanson. Je suis sûr qu'elle aurait beaucoup de succès à la Maison ! Et je connais quelqu’un qui aurait vraiment besoin de l’entendre. Vous n'en auriez pas une copie pour moi, par hasard ?
 Eurydice: Majesté, tu veux ma *chanson *? Tu es conscient qu’elle s’appelle *« Bon Débarras » *pas vrai ? *Tsk... *eh, pourquoi pas. Si de la musique doit se faire entendre dans ta Maison, autant qu’elle soit bonne. Et tiens, laisse-moi te donner un petit quelque chose en plus avec ça.
 
 
---- Eurydice Progress With Orpheus Song Reaction 01 ---
+--- Duo - Progress and Orpheus Song Reaction (1) ---
 Eurydice: ...Alors, qu'est-ce qu'il a dit, mon chou ? Sur le chant ? Je parie qu'il a aimé ! Mais... je n'en suis pas complètement sûre. En fait, je n'arrête pas de me poser la question, depuis quelque temps.
 Zagreus: Ce n'est plus la peine de vous inquiéter. Il la chante dans la Maison parfois, et c'est magnifique. Elle... elle sonne plus triste quand c'est lui qui la chante, mais... vous lui avez redonné de l’inspiration. Comme vous l'avez déjà fait à maintes reprises, si je comprends bien.
 Eurydice: Oh. Alors c’est un succès. Je m’en doutais. Enfin, je veux dire... parfois, on invente des paroles, et on sait tout de suite qu’elles ont quelque chose de spécial.
 
 
---- Eurydice Progress With Orpheus 03 ---
+--- Duo - Progress and Orpheus (3) ---
 Eurydice: ...Et maintenant, mon chou...? Je veux dire... tu m’as réhabituée à penser à Orphée, alors... qu’est-ce que je suis censée faire, maintenant ?
 Zagreus: Même si vous ne pouvez pas être ensemble pour le moment, j’espère que ça vous rassure de savoir à quel point il tient à vous. Et j’essaierai de tirer des ficelles, comme vous l'avez dit l'autre fois. Je ne peux rien vous promettre, mais... je ferai tout mon possible pour vous aider.
 Eurydice: Eh bien, que dire de plus ? Merci, Majesté. Pour moi ça veut dire beaucoup. Mais pas de pression. Je m’en suis très bien sortie sans lui tout ce temps, et ça continuera comme ça quoi qu’il arrive. Si seulement il pouvait en dire autant.

@@ -6,7 +6,7 @@
 |"...Ja... Meg, to mi naprawdę schlebia i jesteś mi bardzo bliska, ale... to nie tego oczekuję od naszej relacji. Obawiam się, że musiałem cię zwieść. Wybacz mi. Proszę, powiedz, że nadal będziesz moją przyjaciółką?"
 |-
 |'''Megaera'''
-|"...Naprawdę tego pragniesz...? Aby być moim przyjacielem? ''Heh. ''Ciężko cię czasami rozgryźć, Zag. Ale wiesz co, próbowaliśmy różnych rzeczy. Czemu mielibyśmy nie spróbować tego, co proponujesz? A zatem, widzimy się w terenie."
+|"...Naprawdę tego pragniesz...? Aby być moim przyjacielem? *Heh. *Ciężko cię czasami rozgryźć, Zag. Ale wiesz co, próbowaliśmy różnych rzeczy. Czemu mielibyśmy nie spróbować tego, co proponujesz? A zatem, widzimy się w terenie."
 |-
 |'''Megaera'''
 |"...Jesteś pewien? Słuchaj, ja... to naprawdę w porządku. Widzimy się zatem w terenie."
@@ -21,10 +21,10 @@
 |"...Tak, widzimy się później."
 |-
 |'''Zagreus'''
-|"Tan... ''hahaha'', tak się cieszę! Tylko... wiesz, że Megajra też tutaj była...?"
+|"Tan... *hahaha*, tak się cieszę! Tylko... wiesz, że Megajra też tutaj była...?"
 |-
 |'''Thanatos'''
-|"''Tsk. ''Znam Megajrę znacznie dłużej niż ty. Jak myślisz, kto mnie do tego namówił?"
+|"*Tsk. *Znam Megajrę znacznie dłużej niż ty. Jak myślisz, kto mnie do tego namówił?"
 |-
 |'''Zagreus'''
 |"Ha! Ona, czyż nie? To dobrze! To dobrze."
@@ -56,10 +56,10 @@
 |"Ja tylko... nie chcę cię popędzać, Tan. Wiem, że to wszystko to całkiem sporo. I chcę, żebyś wiedział... to nie jest z mojej żadnej strony jakiś tam impuls. Będę na ciebie czekał tak długo ile będzie trzeba."
 |-
 |'''Thanatos'''
-|"''Khh! ''Nie masz pojęcia, za którymi impulsami trzeba podążać, a które trzeba kontrolować. Mówisz, że będziesz czekać, pozwól więc, że zapytam: Na co czekasz? Na co czekasz, skoro już tu jestem? Prawda...?"
+|"*Khh! *Nie masz pojęcia, za którymi impulsami trzeba podążać, a które trzeba kontrolować. Mówisz, że będziesz czekać, pozwól więc, że zapytam: Na co czekasz? Na co czekasz, skoro już tu jestem? Prawda...?"
 |-
 |'''Zagreus'''
-|"Tan...! ''Hahaha'', no tak, masz rację!"
+|"Tan...! *Hahaha*, no tak, masz rację!"
 |-
 |'''Zagreus'''
 |"Hej, Tan, słuchaj... powiedz już coś. Nie lubię, gdy zbyt długo się nie odzywasz, co ci chodzi po głowie?"
@@ -70,13 +70,13 @@
 |'''Zagreus'''
 |"Jest. Jest."
 |-
-! colspan="2" |Megaera With Thanatos Bedroom 01
+! colspan="2" |Duo - Megaera and Thanatos Bedroom (1)
 |-
 |'''Megaera'''
 |"Zagreusie, nie masz żadnych drzwi. Dlaczego zawsze jesteś zaskoczony?"
 |-
 |'''Zagreus'''
-|"''Yyy'', Meg, Tan, co... co wy dwoje... co się dzieje? Cokolwiek to jest, mogę wyjaśnić albo... moment, oboje się uśmiechacie. Och... pozwólcie... dajcie mi chwilę."
+|"*Yyy*, Meg, Tan, co... co wy dwoje... co się dzieje? Cokolwiek to jest, mogę wyjaśnić albo... moment, oboje się uśmiechacie. Och... pozwólcie... dajcie mi chwilę."
 |-
 |'''Megaera'''
 |"Nie doceniasz Tanatosa i mnie, Zag. Znamy się dłużej, niż ty żyjesz na tym świecie."
@@ -88,7 +88,7 @@
 |"Nie widzisz, że jesteśmy teraz po służbie, Zagreusie?"
 |-
 |'''Zagreus'''
-|"''Ha''! No cóż... jeśli okaże się, że to był pewnego rodzaju sen, będę bardzo, bardzo zły. Choć... zdaje się, że jest jeden dobry sposób, by się przekonać."
+|"*Ha*! No cóż... jeśli okaże się, że to był pewnego rodzaju sen, będę bardzo, bardzo zły. Choć... zdaje się, że jest jeden dobry sposób, by się przekonać."
 |-
 |'''Zagreus'''
 |"Uff, cóż, więc, um, co to ja..."
@@ -97,9 +97,9 @@
 |"Cóż! Wydaje mi się, że doszliśmy do porozumienia. Powinnam już iść. Do następnego, Zag. Tanatosie."
 |-
 |'''Zagreus'''
-|"Uff, no, to było... to było... ''ekhm''."
+|"Uff, no, to było... to było... *ekhm*."
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"...I na koniec, masz zakaz udzielania jakiejkolwiek dalszej pomocy Księciu Zagreusowi. Czy się rozumiemy?"
@@ -110,7 +110,7 @@
 |'''Thanatos'''
 |"Dość! Wracaj do pracy, a ja wrócę do swojej."
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"Rozumiem cię, Panie Tanatosie i zrobię jak każesz. Nie będę już pomagał Księciu Zagreusowi, tym razem jestem śmiertelnie poważny."
@@ -118,7 +118,7 @@
 |'''Thanatos'''
 |"Dobrze. Obojgu nam się dostanie, jeżeli zostaniesz przyłapany na jednym ze swoich oszustw. Upewnij się, że to się nie wydarzy."
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"...Powinieneś być bardziej rozważny następnym razem i obawiać się konsekwencji unikania mnie. Śmierć może być bardzo nieprzyjemna, jak na pewno wiesz."
@@ -177,7 +177,7 @@
 |"Nie. Ale nie mogę się doczekać, aż przekonam się na własnej skórze."
 |-
 |'''Thanatos'''
-|"''Tsk'', cóż. Zobaczymy, co na ten temat do powiedzenia mają Mojry. Może zjawa Dedala będzie mogła ci przygotować jakieś ochraniacze na oczy czy coś."
+|"*Tsk*, cóż. Zobaczymy, co na ten temat do powiedzenia mają Mojry. Może zjawa Dedala będzie mogła ci przygotować jakieś ochraniacze na oczy czy coś."
 |-
 ! colspan="2" |Thanatos Home Run Progress 02
 |-
@@ -213,13 +213,13 @@
 |"Naprawdę zapraszasz mnie na drinka...? A w sumie... Wiesz co? Chętnie. Praca może poczekać."
 |-
 |'''Thanatos'''
-|"...W pewien sposób wiedziałem, wiesz. Zawsze wiedziałem, że tutaj nie zostaniesz. Byłeś tutaj... tak bardzo niespokojny. Potrzebowałeś jedynie powodu, by odejść. I miałem nadzieję, że nie znajdziesz go zbyt szybko. ''Uuch''. Co ja mówię? Nie masz pojęcia."
+|"...W pewien sposób wiedziałem, wiesz. Zawsze wiedziałem, że tutaj nie zostaniesz. Byłeś tutaj... tak bardzo niespokojny. Potrzebowałeś jedynie powodu, by odejść. I miałem nadzieję, że nie znajdziesz go zbyt szybko. *Uuch*. Co ja mówię? Nie masz pojęcia."
 |-
 |'''Zagreus'''
 |"Nie, doskonale rozumiem, o czym mówisz, Tan. Wybacz, że stawiam cię w takiej sytuacji, po prostu... to jest coś, co muszę zrobić. Ale cieszę się, że wiemy teraz o mnie prawdę. Może dzięki temu możemy iść dalej."
 |-
 |'''Thanatos'''
-|"''Tsk''... Zawsze brakowało mi twojego optymizmu, Zag. W każdym razie... praca czekała już wystarczająco długo - muszę do niej wracać. Dzięki za drinka."
+|"*Tsk*... Zawsze brakowało mi twojego optymizmu, Zag. W każdym razie... praca czekała już wystarczająco długo - muszę do niej wracać. Dzięki za drinka."
 |-
 |'''Thanatos'''
 |"...Uważaj tam na siebie, Zagreusie. Muszę iść."
@@ -247,7 +247,7 @@
 |"Widzą życie jaką swoją jedyną szansę. Wyobraź sobie, że po śmierci znikasz i tyle. Wracasz do niezmierzonego Chaosu. Wszystkie aspekty ciebie. Wracają do stanu sprzed twojego pojawienia się."
 |-
 |'''Zagreus'''
-|"Ale to przecież absurd. Jedno życie? Chociaż... ''uch''. Nawet myślenie o tym jest straszne."
+|"Ale to przecież absurd. Jedno życie? Chociaż... *uch*. Nawet myślenie o tym jest straszne."
 |-
 |'''Thanatos'''
 |"Prawda? Niektórzy z nich wiedzą, że sprawa wygląda inaczej i próbują wyjaśniać innym to, co tu robimy, ale... rozpowszechnianie informacji idzie bardzo powoli. W każdym razie! Jestem wysłannikiem dobrych wieści."
@@ -261,7 +261,7 @@
 |"Żyją pełnią życia, a przynajmniej próbują. Myślę, że coś w tym jest, szczerze mówiąc. Chociaż niektórzy sobie z tym nie radzą. Ci trafiają tutaj bez mojej pomocy. Samodzielnie, w szponach rozpaczy. Gdyby tylko wiedzieli, co twój ojciec zawsze mówi na ten temat."
 |-
 |'''Zagreus'''
-|"Co, masz na myśli ''"nie ma ucieczki"''? Od czego? Śmiertelnicy są tam na górze, nie tutaj. Przynajmniej wtedy, kiedy są żywi, w ich rozumieniu."
+|"Co, masz na myśli *"nie ma ucieczki"*? Od czego? Śmiertelnicy są tam na górze, nie tutaj. Przynajmniej wtedy, kiedy są żywi, w ich rozumieniu."
 |-
 |'''Thanatos'''
 |"Mam na myśli to, że nie możesz uciec przed swoimi problemami, Zagreusie. Możesz uciec od swojej rodziny, ale nie możesz uciec od wszystkiego. Nie masz innego wyjścia, niż stawić temu czoła i pracować nad problemami, prędzej czy później, tak czy inaczej. Zarówno ty, jak i my wszyscy."
@@ -366,7 +366,7 @@
 |"Jestem pewien! Jego pomocnik, Kostek, jest o wiele bardziej rozmowny i wreszcie się wygadał. Jednakże, nie był w stanie mi powiedzieć, czemu Charon zrobił coś takiego, znaczy się... nigdy nie byliśmy blisko..."
 |-
 |'''Thanatos'''
-|"''Hmm''. Jedyne co mi przychodzi do głowy, to... Charon jest bardzo oddany temu Domowi. Jak niektórzy z nas. Może pomyślał... że mógłby pomóc wyjaśnić sprawy między tobą a twoim ojcem, w ten czy inny sposób."
+|"*Hmm*. Jedyne co mi przychodzi do głowy, to... Charon jest bardzo oddany temu Domowi. Jak niektórzy z nas. Może pomyślał... że mógłby pomóc wyjaśnić sprawy między tobą a twoim ojcem, w ten czy inny sposób."
 |-
 ! colspan="2" |Thanatos About Charon Fight 01
 |-
@@ -412,7 +412,7 @@
 ! colspan="2" |Thanatos About Sisyphus Liberation Quest Complete 01
 |-
 |'''Thanatos'''
-|"Słyszałem, że odroczyłeś wyrok szelmowskiego króla. Powinienem być na ciebie wściekły. Syzyf musi być jedynym śmiertelnikiem, który mnie ''kiedykolwiek ''upokorzył. Ale Matka Nyks, ona... musiała cię poprzeć, czyż nie..."
+|"Słyszałem, że odroczyłeś wyrok szelmowskiego króla. Powinienem być na ciebie wściekły. Syzyf musi być jedynym śmiertelnikiem, który mnie *kiedykolwiek *upokorzył. Ale Matka Nyks, ona... musiała cię poprzeć, czyż nie..."
 |-
 |'''Zagreus'''
 |"Zrobiliśmy to, co trzeba było zrobić. O ile Ojciec lubi robić przykład z nędznych zjaw, o tyle wieczny wyrok wydawał się nieco na wyrost w tym przypadku. Poza tym... Syzyf i tak nie odchodzi. Wygląda na to, że znalazł swój kąt."
@@ -479,7 +479,7 @@
 ! colspan="2" |Thanatos About Being Close With Megaera 01
 |-
 |'''Zagreus'''
-|"Tan, chciałbym ci o czymś powiedzieć. A właściwie o coś zapytać. Jesteś blisko z Megajrą, więc... chodzi mi o to, że... wiesz ''o nas'', prawda?"
+|"Tan, chciałbym ci o czymś powiedzieć. A właściwie o coś zapytać. Jesteś blisko z Megajrą, więc... chodzi mi o to, że... wiesz *o nas*, prawda?"
 |-
 |'''Thanatos'''
 |"Tak, oczywiście. Dlaczego pytasz?"
@@ -650,7 +650,7 @@
 |"Co? Orfeusz to mój kumpel, Tan. I tak się składa, że poznałem również jego muzę, Eurydykę. Nadal coś do siebie czuli, ale nie mieli jak się ze sobą skontaktować."
 |-
 |'''Thanatos'''
-|"Zatem postanowiłeś wkroczyć do akcji. ''Tsk''. Myślę, że moje odczucia w tej sprawie nie są takie same, jak twoje. Wiem, że miałeś dobre intencje, ale... wiesz co, zapomnij o tym."
+|"Zatem postanowiłeś wkroczyć do akcji. *Tsk*. Myślę, że moje odczucia w tej sprawie nie są takie same, jak twoje. Wiem, że miałeś dobre intencje, ale... wiesz co, zapomnij o tym."
 |-
 ! colspan="2" |Thanatos About Quest Log 01
 |-
@@ -683,7 +683,7 @@
 |"Zostaję. Pomyślałem sobie, że to jedyny sposób, aby nadal przeszkadzać ci w wykonywaniu twojej pracy. Zbyt ciężko pracujesz, Tan, skorzystaj trochę z życia, dobrze?"
 |-
 |'''Thanatos'''
-|"''Heh''. Cóż, zobaczę, co uda mi się z tym zrobić. Ale musisz mi pokazać, co rozumiesz przez ''"skorzystaj trochę z życia"''."
+|"*Heh*. Cóż, zobaczę, co uda mi się z tym zrobić. Ale musisz mi pokazać, co rozumiesz przez *"skorzystaj trochę z życia"*."
 |-
 ! colspan="2" |Thanatos About Persephone Meeting 02
 |-
@@ -691,13 +691,13 @@
 |"Muszę ci coś powiedzieć, Tan. Moja rodzona matka... ona mnie nie porzuciła. Albo przynajmniej... nie myślała, że to zrobiła."
 |-
 |'''Thanatos'''
-|"Nie ''myślała'', że to zrobiła? O czym ty mówisz, Zag? Opuściła cię, gdy się urodziłeś. Nigdy więcej jej nie widziano, ani o niej nie mówiono, do momentu tej całej sytuacji z tobą."
+|"Nie *myślała*, że to zrobiła? O czym ty mówisz, Zag? Opuściła cię, gdy się urodziłeś. Nigdy więcej jej nie widziano, ani o niej nie mówiono, do momentu tej całej sytuacji z tobą."
 |-
 |'''Zagreus'''
 |"Cóż wychodzi na to... że nigdy nie wiedziała, że w ogóle żyję. Komplikacje po moich narodzinach. I tak już było jej tutaj ciężko i ta cała sytuacja to było za dużo, jak sądzę. Gdy Nyks przywróciła mi życie... mojej matki już dawno tu nie było."
 |-
 |'''Thanatos'''
-|"''Co''? Ale Matka Nyks i twój ojciec, oni... mogli za nią posłać, dać jej znać... musieli wiedzieć dokąd poszła!"
+|"*Co*? Ale Matka Nyks i twój ojciec, oni... mogli za nią posłać, dać jej znać... musieli wiedzieć dokąd poszła!"
 |-
 |'''Zagreus'''
 |"Nyks wiedziała. Ale Ojciec musiał przekonać ją, że moja matka... że najlepiej będzie, jak nigdy się o tym nie dowie. O mnie. Aby mogła żyć w spokoju. Z dala od tego wszystkiego. I z dala od Olimpu."
@@ -795,9 +795,9 @@
 |"Póki co myślę, że jest. Ale wiesz jacy oni są. Jacy my wszyscy jesteśmy, jak sądzę."
 |-
 |'''Thanatos'''
-|"''Ha''! Tak, w rzeczy samej. No cóż. Ciesz się tym, dopóki to trwa, jak to czasem mawiają śmiertelni. Do zobaczenia w terenie."
+|"*Ha*! Tak, w rzeczy samej. No cóż. Ciesz się tym, dopóki to trwa, jak to czasem mawiają śmiertelni. Do zobaczenia w terenie."
 |-
-! colspan="2" |Thanatos With Hades 01
+! colspan="2" |Duo - Thanatos and Hades (1)
 |-
 |'''Hades'''
 |"Takiego opóźnienia można spodziewać się po twoim bracie, ale po tobie, Tanatosie? Jesteś praktycznie bogiem punktualności."
@@ -811,30 +811,30 @@
 |'''Thanatos'''
 |"Dziękuję ci, mój Panie. Jestem do twoich usług. Wracam zatem do moich obowiązków."
 |-
-! colspan="2" |Thanatos With Hades 03
+! colspan="2" |Duo - Thanatos and Hades (3)
 |-
 |'''Hades'''
-|"Pomagasz mu, Tanatosie. Za moimi plecami! Zdrada. Muszę zapytać ''dlaczego''. A zatem?"
+|"Pomagasz mu, Tanatosie. Za moimi plecami! Zdrada. Muszę zapytać *dlaczego*. A zatem?"
 |-
 |'''Thanatos'''
 |"Mój Panie, on i ja... proszę. Zamknij mnie w Tartarze albo ukarz mnie tak, jak uznasz za stosowne. Jednakże moja lojalność nie ulegnie zmianie. I nie mogę patrzeć na wasze kłótnie. Sprawa między tobą i Zagreusem... musi być jakieś rozwiązanie."
 |-
 |'''Hades'''
-|"Śmiesz mnie pouczać? ''Tsk''. Wydaje mi się, że ostatnio liczba moich lojalnych poddanych spada. To ''twoja ''domena, nie moja. Nie wrzucę cię do tego przeklętego dołu. Poza tym, nie mam nikogo, kto mógłby cię zastąpić. Zejdź mi zatem z oczu."
+|"Śmiesz mnie pouczać? *Tsk*. Wydaje mi się, że ostatnio liczba moich lojalnych poddanych spada. To *twoja *domena, nie moja. Nie wrzucę cię do tego przeklętego dołu. Poza tym, nie mam nikogo, kto mógłby cię zastąpić. Zejdź mi zatem z oczu."
 |-
 |'''Thanatos'''
 |"Błagam o wybaczenie, panie..."
 |-
-! colspan="2" |Thanatos With Hades 04
+! colspan="2" |Duo - Thanatos and Hades (4)
 |-
 |'''Thanatos'''
 |"Chciałeś mnie ponownie zobaczyć, mój lordzie? Minęło... trochę czasu, odkąd miałem u ciebie audiencję."
 |-
 |'''Hades'''
-|"Minęło. Co powiedziałeś ostatnim razem? Że musi być jakieś rozwiązanie tej ''sprawy'', jak to nazwałeś, z moim synem? Cóż, zostało to już rozwiązane. Czyż nie, chłopcze?"
+|"Minęło. Co powiedziałeś ostatnim razem? Że musi być jakieś rozwiązanie tej *sprawy*, jak to nazwałeś, z moim synem? Cóż, zostało to już rozwiązane. Czyż nie, chłopcze?"
 |-
 |'''Zagreus'''
-|"No wiesz, nadal próbujesz mnie powstrzymać od ucieczki z twojego królestwa tak samo jak zawsze, więc nie wiem, czy nazwałbym tę sprawę ''rozwiązaną''. Ale... teraz wydaje się być inaczej."
+|"No wiesz, nadal próbujesz mnie powstrzymać od ucieczki z twojego królestwa tak samo jak zawsze, więc nie wiem, czy nazwałbym tę sprawę *rozwiązaną*. Ale... teraz wydaje się być inaczej."
 |-
 |'''Hades'''
 |"Także widzisz... chciałbym kontynuować utrzymując dobrą relację. Ten Dom może funkcjonować tylko wtedy, gdy zarząd wyższego szczebla się ze sobą zgadza. Co na to powiesz?"
@@ -845,7 +845,7 @@
 |'''Hades'''
 |"Zatem, wróć do swych obowiązków. Możesz odejść."
 |-
-! colspan="2" |Thanatos With Hypnos 01
+! colspan="2" |Duo - Thanatos and Hypnos (1)
 |-
 |'''Thanatos'''
 |"Hypnosie, naprawdę, to najgorszy pomysł jaki kiedykolwiek słyszałem. Czy ty zdajesz sobie sprawę, jak mało ma to sensu?"
@@ -856,7 +856,7 @@
 |'''Thanatos'''
 |"Naprawdę, nie wiem czemu zawracam sobie tobą głowę. Wracaj do pracy i pozwól mi na to samo."
 |-
-! colspan="2" |Thanatos With Hypnos 02
+! colspan="2" |Duo - Thanatos and Hypnos (2)
 |-
 |'''Thanatos'''
 |"Nie możesz tak zasypiać na posterunku, Hypnosie. To kompletnie nieakceptowalne."
@@ -867,7 +867,7 @@
 |'''Thanatos'''
 |"Nie podsuwaj mi takich pomysłów. Weź się w garść i przestań się obijać. Dom potrzebuje pomocy, a ty masz pracę do wykonania. Bierz się za nią!"
 |-
-! colspan="2" |Thanatos With Hypnos 03
+! colspan="2" |Duo - Thanatos and Hypnos (3)
 |-
 |'''Thanatos'''
 |"...Hypnosie, ta lista ma kilka zadań sprzed nie wiadomo jak dawna, znaczy się... przyjąłem kilka z nich w zeszłym roku! I już złożyłeś rejestracje z tego tygodnia, dlaczego to nie zostało zaznaczone jako zrobione?"
@@ -879,45 +879,45 @@
 |"Musisz się skupić, Bracie. Albo Lord Hades znowu cię upomni, a to nie jest coś, czego byś chciał."
 |-
 |'''Hypnos'''
-|"O, nie wydaje mi się, ostatnim razem jak rozmawiałem z Panem, to dał mi ''całkiem jasno ''do zrozumienia, że już nigdy więcej nie chce ze mną rozmawiać!"
+|"O, nie wydaje mi się, ostatnim razem jak rozmawiałem z Panem, to dał mi *całkiem jasno *do zrozumienia, że już nigdy więcej nie chce ze mną rozmawiać!"
 |-
-! colspan="2" |Thanatos With Hypnos 04
+! colspan="2" |Duo - Thanatos and Hypnos (4)
 |-
 |'''Thanatos'''
 |"Hypnosie, nie jesteś niezastąpiony, rozumiesz? Jeżeli nie weźmiesz się w garść i to szybko, to ktoś inny będzie wykonywał twoją pracę."
 |-
 |'''Hypnos'''
-|"Och, słyszę cię głośno i wyraźnie, Tanatosie. I powiem ci coś, ten ktoś będzie miał ''najlepszą robotę w całych Podziemiach''!"
+|"Och, słyszę cię głośno i wyraźnie, Tanatosie. I powiem ci coś, ten ktoś będzie miał *najlepszą robotę w całych Podziemiach*!"
 |-
 |'''Thanatos'''
 |"Wydaje mi się, że nie dociera do ciebie to, co mówię, Bracie. Cóż, po tym jak wydarzy się nieuchronne, nie mów mi, że nie próbowałem."
 |-
-! colspan="2" |Thanatos With Hypnos 05
+! colspan="2" |Duo - Thanatos and Hypnos (5)
 |-
 |'''Thanatos'''
 |"...Cóż, jak często konsultujesz te listy zadań, które sporządzasz? Jeżeli spędzasz zbyt dużo czasu tworząc listy, nie zostawiasz sobie dużo czasu, aby cokolwiek zrobić."
 |-
 |'''Hypnos'''
-|"Och, ja ''uwielbiam ''sporządzać moje listy... zawsze ozdabiam krawędzie, każda jest ''wyjątkowa''! W ten sposób ktokolwiek będzie przeglądał to dzieło, to czeka go niezwykłe ''doświadczenie'', wiesz? Ale... zdaje się, że faktycznie zabiera to mnóstwo czasu."
+|"Och, ja *uwielbiam *sporządzać moje listy... zawsze ozdabiam krawędzie, każda jest *wyjątkowa*! W ten sposób ktokolwiek będzie przeglądał to dzieło, to czeka go niezwykłe *doświadczenie*, wiesz? Ale... zdaje się, że faktycznie zabiera to mnóstwo czasu."
 |-
 |'''Thanatos'''
 |"Musisz obejść ograniczenia swoich obowiązków. Bierzesz sobie przerwy, czyż nie? Przed każdą przerwą, a także po niej - może to jest czas, aby upewnić się, że twoja własna lista priorytetów jest aktualna."
 |-
 |'''Hypnos'''
-|"Moment, moja własna lista priorytetów...? Ale... mówisz, że mogę zwyczajnie sporządzić listę... dla mnie? Ha. Łał. ''Łał''..."
+|"Moment, moja własna lista priorytetów...? Ale... mówisz, że mogę zwyczajnie sporządzić listę... dla mnie? Ha. Łał. *Łał*..."
 |-
-! colspan="2" |Thanatos With Hypnos 06
+! colspan="2" |Duo - Thanatos and Hypnos (6)
 |-
 |'''Thanatos'''
 |"Słyszałem, że twoje ostatnie raporty były nieskazitelne, Hypnosie. Muszę wiedzieć - kto ci z nimi pomaga? To nie może być Zagreus."
 |-
 |'''Hypnos'''
-|"Och, ''haha'', nie, on nie pomaga. Po prostu zacząłem sporządzać listę wyłącznie istotnych spraw i spędzam nieco więcej czasu nad najważniejszymi raportami i... zdaje się, że to działa!"
+|"Och, *haha*, nie, on nie pomaga. Po prostu zacząłem sporządzać listę wyłącznie istotnych spraw i spędzam nieco więcej czasu nad najważniejszymi raportami i... zdaje się, że to działa!"
 |-
 |'''Thanatos'''
 |"Słuchaj, jakikolwiek jest powód... praca się poprawiła. Zostało to zauważone. Powinieneś tak trzymać."
 |-
-! colspan="2" |Thanatos With Hypnos 07
+! colspan="2" |Duo - Thanatos and Hypnos (7)
 |-
 |'''Thanatos'''
 |"...Aczkolwiek, chcę przez to powiedzieć, że... przepraszam, Hypnosie. Jesteś moim bratem, ale nie zawsze traktowałem cię w ten sposób. Czy byłbyś skłonny mi wybaczyć?"
@@ -928,7 +928,7 @@
 |'''Thanatos'''
 |"No, nie przesadzajmy z tym wszystkim. Każdy z nas ma ważną pracę do wykonania. Nieprawdaż, Bracie?"
 |-
-! colspan="2" |Thanatos With Hypnos 08
+! colspan="2" |Duo - Thanatos and Hypnos (8)
 |-
 |'''Thanatos'''
 |"...Gratulacje, Bracie! Widziałem, że wreszcie udało ci się pojawić na tablicy. Napawasz nas dumą."
@@ -939,7 +939,7 @@
 |'''Thanatos'''
 |"Zdecydowanie znam to uczucie. No cóż, oby tak dalej, my obaj, w porządku?"
 |-
-! colspan="2" |Thanatos With Nyx 01
+! colspan="2" |Duo - Thanatos and Nyx (1)
 |-
 |'''Thanatos'''
 |"Matko, czy jest coś, co mogę zrobić, by ci pomóc z tym wszystkim? Za dużo czasu spędzam poza Domem. Powiedz, proszę."
@@ -950,7 +950,7 @@
 |'''Thanatos'''
 |"Rozumiem i zrobię co w mojej mocy. Dziękuję, że dbasz o wszystko. Ufam ci niezmiernie, Matko. I temu Domowi. Żegnaj."
 |-
-! colspan="2" |Thanatos With Nyx 02
+! colspan="2" |Duo - Thanatos and Nyx (2)
 |-
 |'''Thanatos'''
 |"Czy tylko mi się wydaje, Matko, czy w tym Domu ostatnio wszystko gładko idzie? Chociaż wiem, że muszę kusić Trzy Mojry ujmując to w ten sposób."
@@ -961,10 +961,10 @@
 |'''Thanatos'''
 |"Cóż... wiedz, że jestem wdzięczny po wsze czasy, Matko. I bardzo cię kocham. Gdzie byśmy teraz byli gdyby nie ty? Doceniam wszystko, co dla nas zrobiłaś, tak jak wszyscy tutaj. Możesz być tego pewna."
 |-
-! colspan="2" |Thanatos With Megaera 01
+! colspan="2" |Duo - Thanatos and Megaera (1)
 |-
 |'''Megaera'''
-|"...Ale to było dawno temu, a teraz mamy pracę do wykonania... ''Uch'', w każdym razie, Tan, wydaje mi się, że lepiej będzie, jak dokończymy tę dyskusję kiedy indziej."
+|"...Ale to było dawno temu, a teraz mamy pracę do wykonania... *Uch*, w każdym razie, Tan, wydaje mi się, że lepiej będzie, jak dokończymy tę dyskusję kiedy indziej."
 |-
 |'''Thanatos'''
 |"Przeszkadzasz w prywatnej rozmowie, Zagreusie. Zostaw nas samych."
@@ -972,7 +972,7 @@
 |'''Megaera'''
 |"Nie, niech zostanie, jeśli tego właśnie chce. Jakie to ma znaczenie? Technicznie rzecz biorąc ma pozwolenie, by przebywać w tym miejscu, choć musi wiedzieć, że nie jest już mile widziany."
 |-
-! colspan="2" |Thanatos With Persephone 01
+! colspan="2" |Duo - Thanatos and Persephone (1)
 |-
 |'''Thanatos'''
 |"Królowo Persefono. Wszyscy bardzo cieszymy się, że wróciłaś. Jeżeli jest coś, co mogę zrobić, aby ułatwić ci przyzwyczajanie się do tego Domu, jedyne co musisz zrobić, to dać mi znać."
@@ -983,7 +983,7 @@
 |'''Thanatos'''
 |"Twój syn, on... jest w stanie doskonale sam się o siebie zatroszczyć, jak się okazuje. Choć staram się go wspierać, tak na wszelki wypadek. Ale wybacz mi, Królowo. Ktoś na powierzchni mnie teraz oczekuje."
 |-
-! colspan="2" |Thanatos With Persephone 02
+! colspan="2" |Duo - Thanatos and Persephone (2)
 |-
 |'''Thanatos'''
 |"...Dziękuję ci za twoje błogosławieństwo, Królowo Persefono. Twój syn i ja... zawsze byliśmy sobie bliscy, ale przez to całe doświadczenie, staliśmy się chyba nierozłączni."
@@ -1272,7 +1272,7 @@
 |'''Thanatos'''
 |"Mm. Chyba powinienem wrócić już do swoich obowiązków."
 |-
-! colspan="2" |Thanatos Chat With Megaera 01
+! colspan="2" |Duo - Chat and Megaera (1)
 |-
 |'''Megaera'''
 |"To prywatna rozmowa, wybacz, Zag."
@@ -1280,7 +1280,7 @@
 |'''Thanatos'''
 |"Zobaczymy się później w terenie, Zagreusie."
 |-
-! colspan="2" |Thanatos Chat With Megaera 02
+! colspan="2" |Duo - Chat and Megaera (2)
 |-
 |'''Thanatos'''
 |"Tylko omawiam najnowsze sprawy z Megajrą, Zag."
@@ -1288,7 +1288,7 @@
 |'''Megaera'''
 |"Właśnie o tobie rozmawialiśmy, Zagreusie."
 |-
-! colspan="2" |Thanatos Chat With Megaera 03
+! colspan="2" |Duo - Chat and Megaera (3)
 |-
 |'''Megaera'''
 |"No proszę, oto nasz wspólny przyjaciel."
@@ -1296,7 +1296,7 @@
 |'''Thanatos'''
 |"Naciesz się z nami ciszą i spokojem, Zag."
 |-
-! colspan="2" |Thanatos Chat With Megaera 04
+! colspan="2" |Duo - Chat and Megaera (4)
 |-
 |'''Megaera'''
 |"Właśnie nadrabiam zaległości z Tanatosem, wybacz."
@@ -1304,7 +1304,7 @@
 |'''Thanatos'''
 |"Omawiamy tematy związane z pracą, Zagreusie."
 |-
-! colspan="2" |Thanatos Chat With Megaera 05
+! colspan="2" |Duo - Chat and Megaera (5)
 |-
 |'''Megaera'''
 |"Spójrz, któż to się zjawił, Tan. Zagreus."
@@ -1312,37 +1312,37 @@
 |'''Thanatos'''
 |"Wymienialiśmy się informacjami na temat naszych ostatnich zadań."
 |-
-! colspan="2" |Thanatos Chat With Hypnos 01
+! colspan="2" |Duo - Chat and Hypnos (1)
 |-
 |'''Thanatos'''
 |"...Wygląda na to, że masz wszystko pod kontrolą. Dobra robota, Hypnosie."
 |-
-! colspan="2" |Thanatos Chat With Hypnos 02
+! colspan="2" |Duo - Chat and Hypnos (2)
 |-
 |'''Thanatos'''
 |"...Sporo czasu na spanie jak tylko skończy się twoja zmiana, racja, Bracie?"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 03
+! colspan="2" |Duo - Chat and Hypnos (3)
 |-
 |'''Thanatos'''
 |"...Słyszałem, że twoje ostatnie raporty wyglądały dobrze, Hypnosie. Tak trzymaj."
 |-
-! colspan="2" |Thanatos Chat With Hypnos 04
+! colspan="2" |Duo - Chat and Hypnos (4)
 |-
 |'''Thanatos'''
 |"...W każdym razie, dobrze, że to dostrzegłeś, Hypnosie."
 |-
-! colspan="2" |Thanatos Chat With Hypnos 05
+! colspan="2" |Duo - Chat and Hypnos (5)
 |-
 |'''Thanatos'''
 |"...To ostatni z nowych wpisów, ale wkrótce powinienem mieć ich więcej."
 |-
-! colspan="2" |Thanatos Chat With Hypnos 06
+! colspan="2" |Duo - Chat and Hypnos (6)
 |-
 |'''Thanatos'''
 |"...W porządku, lepiej już pójdę. Uważaj na siebie, Bracie."
 |-
-! colspan="2" |Thanatos Chat With Nyx 01
+! colspan="2" |Duo - Chat and Nyx (1)
 |-
 |'''Nyx'''
 |"...Mamy dla ciebie kolejne zadanie."
@@ -1350,12 +1350,12 @@
 |'''Thanatos'''
 |"Jak sobie życzysz, Matko. Zostanie zatem zrealizowane bezzwłocznie."
 |-
-! colspan="2" |Thanatos Chat With Nyx 02
+! colspan="2" |Duo - Chat and Nyx (2)
 |-
 |'''Thanatos'''
 |"...Zrozumiałem, Matko. Natychmiast rozpoczynam zadanie."
 |-
-! colspan="2" |Thanatos Chat With Nyx 03
+! colspan="2" |Duo - Chat and Nyx (3)
 |-
 |'''Nyx'''
 |"...Po raz kolejny potrzebna jest twoja biegłość."
@@ -1363,47 +1363,47 @@
 |'''Thanatos'''
 |"Zatem, dobrze, Matko. Rozpocznę od razu i wkrótce powrócę."
 |-
-! colspan="2" |Thanatos Chat With Nyx 04
+! colspan="2" |Duo - Chat and Nyx (4)
 |-
 |'''Thanatos'''
 |"...Rozumiem, Matko i jestem posłuszny. Wrócę, gdy zadanie zostanie wykonane."
 |-
-! colspan="2" |Thanatos Chat With Nyx 05
+! colspan="2" |Duo - Chat and Nyx (5)
 |-
 |'''Thanatos'''
 |"Dziękuję ci, że o mnie pomyślałaś przy tym zadaniu. Wykonam je prędko."
 |-
-! colspan="2" |Thanatos Chat With Nyx 06
+! colspan="2" |Duo - Chat and Nyx (6)
 |-
 |'''Thanatos'''
 |"...To zadanie jest dla mnie jasne, Matko. Ruszam. Twoja wola zostanie wypełniona."
 |-
-! colspan="2" |Thanatos Chat With Hades 01
+! colspan="2" |Duo - Chat and Hades (1)
 |-
 |'''Thanatos'''
 |"...Będzie tak, jak mówisz, mój panie. Wkrótce złożę raport."
 |-
-! colspan="2" |Thanatos Chat With Hades 02
+! colspan="2" |Duo - Chat and Hades (2)
 |-
 |'''Thanatos'''
 |"...Tak, mój panie. Od razu zaczynam i nie powrócę dopóki sprawa nie zostanie zakończona."
 |-
-! colspan="2" |Thanatos Chat With Hades 03
+! colspan="2" |Duo - Chat and Hades (3)
 |-
 |'''Thanatos'''
 |"...Jeśli to wszystko, mój panie, to udam się teraz na powierzchnię."
 |-
-! colspan="2" |Thanatos Chat With Hades 04
+! colspan="2" |Duo - Chat and Hades (4)
 |-
 |'''Thanatos'''
 |"...Rozumiem, mój panie. Wiem gdzie są i wkrótce ich tutaj sprowadzę."
 |-
-! colspan="2" |Thanatos Chat With Hades 05
+! colspan="2" |Duo - Chat and Hades (5)
 |-
 |'''Thanatos'''
 |"...Doceniam twoją wiarę we mnie, mój panie. Wybacz mi, proszę."
 |-
-! colspan="2" |Thanatos Chat With Hades 06
+! colspan="2" |Duo - Chat and Hades (6)
 |-
 |'''Thanatos'''
 |"...Ta sprawa zostanie załatwiona natychmiast, panie. Oczekuję, że niedługo wrócę."
@@ -1456,7 +1456,7 @@
 ! colspan="2" |Thanatos Gift 06
 |-
 |'''Thanatos'''
-|"Chyba żartujesz. Nie żartujesz...? ''Ech'', wiesz co, dobrze - wezmę to i oboje zajmiemy się swoimi sprawami. Choć nie rozumiem, po co to robisz."
+|"Chyba żartujesz. Nie żartujesz...? *Ech*, wiesz co, dobrze - wezmę to i oboje zajmiemy się swoimi sprawami. Choć nie rozumiem, po co to robisz."
 |-
 |'''Zagreus'''
 |"Po co to robię? Cóż, a jak inaczej mogę okazywać ci moje uczucia, jak tylko wręczając te butelki od czasu do czasu?"
@@ -1473,7 +1473,7 @@
 |"Mówisz tak, jakby to było coś złego. Trochę przybytku od czasu do czasu jeszcze nikomu nie zaszkodziło, jestem pewien."
 |-
 |'''Thanatos'''
-|"''Och'', zdziwiłbyś się. Choć jeżeli masz mnie zawstydzać, to wiesz co, odwdzięczę ci się. ''Spójrz''!"
+|"*Och*, zdziwiłbyś się. Choć jeżeli masz mnie zawstydzać, to wiesz co, odwdzięczę ci się. *Spójrz*!"
 |-
 ! colspan="2" |Thanatos Gift 08
 |-
@@ -1492,7 +1492,7 @@
 ! colspan="2" |Thanatos Gift 09
 |-
 |'''Zagreus'''
-|"Mam nadzieję, że jesteś przygotowany na kolejny specjał, Tan, bo udało mi się go dla ciebie zdobyć i nie przyjmę żadnego ''"Tsk, co to jest, Zag" ''za odpowiedź."
+|"Mam nadzieję, że jesteś przygotowany na kolejny specjał, Tan, bo udało mi się go dla ciebie zdobyć i nie przyjmę żadnego *"Tsk, co to jest, Zag" *za odpowiedź."
 |-
 |'''Thanatos'''
 |"Uch, co to jest? Daj spokój, Zagreusie, droczysz się ze mną, prawda? Jak w ogóle zdobyłeś tego więcej i czemu zdecydowałeś się wręczyć to właśnie mnie?"
@@ -1501,7 +1501,7 @@
 |"W kolejności: nie, nie żartuję; przez plądrowanie królestwa mojego ojca raz za razem; i dlatego, że cię lubię, Tanatosie. Gdybyś nadal miał na ten temat jakieś wątpliwości."
 |-
 |'''Thanatos'''
-|"Ty mnie ''lubisz'', Zagreusie...? Nigdy bym nie pomyślał, ja... nie wiem dlaczego to brzmi tak dziwnie, gdy pochodzi z twych ust. Biorąc pod uwagę wszystko co się ostatnio wydarzyło."
+|"Ty mnie *lubisz*, Zagreusie...? Nigdy bym nie pomyślał, ja... nie wiem dlaczego to brzmi tak dziwnie, gdy pochodzi z twych ust. Biorąc pod uwagę wszystko co się ostatnio wydarzyło."
 |-
 |'''Zagreus'''
 |"Tak. Słuchaj, jeśli nie czujesz tego samego, to wolałbym to teraz wiedzieć. Skończymy wtedy z tą kokieteryjną wymianą prezentów i w ogóle."
@@ -1515,7 +1515,7 @@
 |"Tanatosie, chciałem przeprosić za ostatni raz, gdy dawałem ci butelkę tego specjału i spróbować tej całej wymiany zdań jeszcze raz. Może tak być?"
 |-
 |'''Thanatos'''
-|"''Hmf''. Pytasz o pozwolenie na wręczenie mi kolejnego hojnego prezentu? Pewnie! Pozwolenie przyznane. Ale na jakiej podstawie myślisz, że tym razem twoja próba zakończy się sukcesem?"
+|"*Hmf*. Pytasz o pozwolenie na wręczenie mi kolejnego hojnego prezentu? Pewnie! Pozwolenie przyznane. Ale na jakiej podstawie myślisz, że tym razem twoja próba zakończy się sukcesem?"
 |-
 |'''Zagreus'''
 |"Nie wiem, czy tak będzie. Nigdy nie jestem do końca pewien na czym stoimy. Ale wiem, co czuję. I wolę być z tobą szczery, nawet jeśli naraża to naszą relację w jej obecnej formie."
@@ -1527,7 +1527,7 @@
 |"Tak, właśnie to mam na myśli, Tan. Nie powinienem odchodzić w taki sposób - nie dając ci znać. Ale kiedy mnie odnalazłeś, to chyba wtedy... wtedy zrozumiałem. Albo zacząłem sobie uświadamiać, wiesz?"
 |-
 |'''Thanatos'''
-|"Ja... tak. Wiem - tak mi się wydaje - bo... kiedy usłyszałem, że odchodzisz, gniew, który poczułem... nie spodziewałem się tego. Więc... ''uch''. Co teraz zrobimy?"
+|"Ja... tak. Wiem - tak mi się wydaje - bo... kiedy usłyszałem, że odchodzisz, gniew, który poczułem... nie spodziewałem się tego. Więc... *uch*. Co teraz zrobimy?"
 |-
 |'''Zagreus'''
 |"Może nie powinniśmy się spieszyć? W przeciwieństwie do tego oto specjału, to akurat czasu nam nie brakuje. Tylko wiedz, że... jeśli czujesz to, co ja... wiesz, gdzie mnie znaleźć. A jeśli nie... to i tak jestem wdzięczny."
@@ -1760,7 +1760,7 @@
 ! colspan="2" |Thanatos Field Misc Meeting 02
 |-
 |'''Thanatos'''
-|"Co to za spojrzenie? Miałeś ręce pełne roboty, a teraz już nie masz - dzięki mnie... ''Tsk'', wygląda na to, że sam sobie muszę podziękować, skoro ty jesteś na to zbyt dumny."
+|"Co to za spojrzenie? Miałeś ręce pełne roboty, a teraz już nie masz - dzięki mnie... *Tsk*, wygląda na to, że sam sobie muszę podziękować, skoro ty jesteś na to zbyt dumny."
 |-
 ! colspan="2" |Thanatos Field Misc Meeting 03
 |-
@@ -1801,12 +1801,12 @@
 |"...Tan. Dom już nigdy nie będzie dla mnie taki sam. Nie ma sensu udawać. Muszę iść."
 |-
 |'''Thanatos'''
-|"Wcale nie ''musisz ''tego robić. Nie masz pojęcia, jak dobrze tu miałeś. Być może pewnego dnia to zrozumiesz."
+|"Wcale nie *musisz *tego robić. Nie masz pojęcia, jak dobrze tu miałeś. Być może pewnego dnia to zrozumiesz."
 |-
 ! colspan="2" |Thanatos Field Building Trust 01
 |-
 |'''Thanatos'''
-|"Po raz kolejny mnie tam pokonałeś, co. ''Tsk''. Muszę przyznać że nie jesteś aż tak słaby, jak się spodziewałem. Kiedy odnalazłem cię po raz pierwszy, byłem przekonany, że nie masz żadnych szans."
+|"Po raz kolejny mnie tam pokonałeś, co. *Tsk*. Muszę przyznać że nie jesteś aż tak słaby, jak się spodziewałem. Kiedy odnalazłem cię po raz pierwszy, byłem przekonany, że nie masz żadnych szans."
 |-
 |'''Zagreus'''
 |"Najwyraźniej mam w sobie coś takiego, co sprawia, że łatwo jest mnie nie doceniać - podsumowując na podstawie sporej części moich relacji. W każdym razie, zawsze miło cię tu widzieć. Wiem, że to nie jest dla ciebie łatwe, Tan."
@@ -1837,7 +1837,7 @@
 |"Odnośnie naszej ostatniej rozmowy. Jesteś dla mnie ważny, Tanatosie. Bardzo. Aczkolwiek spytałeś kim dla mnie jesteś... jak ja mam na to w ogóle odpowiedzieć?"
 |-
 |'''Thanatos'''
-|"''Uch'', nie wiem. Czasami brakuje mi nieodczuwania niczego. Nie zawsze można ufać uczuciom. Zastanawiam się, czy jesteśmy jedynie przyjaciółmi, czy... słuchaj, to jest zawstydzające."
+|"*Uch*, nie wiem. Czasami brakuje mi nieodczuwania niczego. Nie zawsze można ufać uczuciom. Zastanawiam się, czy jesteśmy jedynie przyjaciółmi, czy... słuchaj, to jest zawstydzające."
 |-
 |'''Zagreus'''
 |"Pomyśleć, że rozmawianie o uczuciach będzie jeszcze trudniejsze, niż unicestwianie zastępów Ojca. Ale... zadaję sobie to samo pytanie, Tan. Jeżeli jest to jakieś pocieszenie."

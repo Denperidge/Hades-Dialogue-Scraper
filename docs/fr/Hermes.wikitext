@@ -48,7 +48,7 @@
 ! colspan="2" |Hermes Beat Charon Quest Complete
 |-
 |'''Hermes'''
-|"Tu as réussi, couz ! Tu as ''réussi '' à vaincre mon associé réputé invincible, qui se croyait un dur de dur parmi les hôtes des enfers ! Il ne t'en pensait pas capable, et si je puis dire, moi non plus !"
+|"Tu as réussi, couz ! Tu as *réussi * à vaincre mon associé réputé invincible, qui se croyait un dur de dur parmi les hôtes des enfers ! Il ne t'en pensait pas capable, et si je puis dire, moi non plus !"
 |-
 ! colspan="2" |Hermes About Plume 02
 |-
@@ -68,10 +68,10 @@
 ! colspan="2" |Hermes Post Ending 01
 |-
 |'''Hermes'''
-|"Il paraît que quelqu'un est revenu vivre avec vous en bas, couz ? Je dirais que c'est une excellente nouvelle, sauf que ce n'est ''pas '' une nouvelle, du moins pas encore ! Mais si à un moment tu veux que ça se sache, tu sais à qui t'adresser !"
+|"Il paraît que quelqu'un est revenu vivre avec vous en bas, couz ? Je dirais que c'est une excellente nouvelle, sauf que ce n'est *pas * une nouvelle, du moins pas encore ! Mais si à un moment tu veux que ça se sache, tu sais à qui t'adresser !"
 |-
 |'''Hermes'''
-|"Alors, ''tu '' passes ton temps à t'échapper de là, sans arrêt, pour que ''ton père '' trouve le moyen de te compliquer la tâche ? Quelque chose comme ça ? Intéressant, comme mission, couz !"
+|"Alors, *tu * passes ton temps à t'échapper de là, sans arrêt, pour que *ton père * trouve le moyen de te compliquer la tâche ? Quelque chose comme ça ? Intéressant, comme mission, couz !"
 |-
 ! colspan="2" |Hermes About Olympian Reunion Quest 01
 |-
@@ -79,7 +79,7 @@
 |"Cette fois, c'est moi le messager. Au nom d'Hadès ! Olympe, ceci est un message officiel ! Seigneur Hermès ? Je suis venu aussi vite que j'ai pu."
 |-
 |'''Hermes'''
-|"Quoi ? Un message juste pour ''moi '' ? Ça alors, je n'ai pas l'habitude ! On dirait un genre d'invitation. Tu es sûr que c'est bien pour moi, étant donné que je ne suis pas officiellement impliqué ?"
+|"Quoi ? Un message juste pour *moi * ? Ça alors, je n'ai pas l'habitude ! On dirait un genre d'invitation. Tu es sûr que c'est bien pour moi, étant donné que je ne suis pas officiellement impliqué ?"
 |-
 ! colspan="2" |Hermes Post Epilogue 01
 |-
@@ -129,7 +129,7 @@
 ! colspan="2" |Hermes About Poseidon 01
 |-
 |'''Hermes'''
-|"Chef, faut que je te dise un truc. Si oncle Poséidon t'a contacté avant moi, c’est parce que je l’ai laissé faire. Il s'imagine qu'il est le dieu le plus vif du coin ! ''Hah !''"
+|"Chef, faut que je te dise un truc. Si oncle Poséidon t'a contacté avant moi, c’est parce que je l’ai laissé faire. Il s'imagine qu'il est le dieu le plus vif du coin ! *Hah !*"
 |-
 ! colspan="2" |Hermes About Athena 01
 |-
@@ -164,7 +164,7 @@
 ! colspan="2" |Hermes About Hades Keepsake 01
 |-
 |'''Hermes'''
-|"Dis, ce serait pas la bénédiction de ton père sur toi, couz ?! Je peine à y croire, mais tu as fait un tel travail, qu'il est quasiment ''obligé ''d'approuver !"
+|"Dis, ce serait pas la bénédiction de ton père sur toi, couz ?! Je peine à y croire, mais tu as fait un tel travail, qu'il est quasiment *obligé *d'approuver !"
 |-
 ! colspan="2" |Hermes Backstory 01
 |-
@@ -174,7 +174,7 @@
 ! colspan="2" |Hermes Backstory 02
 |-
 |'''Hermes'''
-|"Chef, tu t'es sûrement déjà dit : ''Bon sang, c'est fou à quel point Hermès est rapide ! Pourquoi a-t-il donc mis tant de temps à se manifester ? '' Eh bien, désolé, mais ça ne te regarde pas. Cela dit... Ce n'était pas parce que j'étais en retard. Je ne suis jamais en retard."
+|"Chef, tu t'es sûrement déjà dit : *Bon sang, c'est fou à quel point Hermès est rapide ! Pourquoi a-t-il donc mis tant de temps à se manifester ? * Eh bien, désolé, mais ça ne te regarde pas. Cela dit... Ce n'était pas parce que j'étais en retard. Je ne suis jamais en retard."
 |-
 ! colspan="2" |Hermes Backstory 03
 |-
@@ -189,12 +189,12 @@
 ! colspan="2" |Hermes Backstory 05
 |-
 |'''Hermes'''
-|"Tu connais le proverbe ''"Rien ne sert de courir..."'', chef ? C’est moi qui l’ai inventé. Je te jure ! C’est mon petit truc pour tromper la concurrence, je me donne des airs de grand sage. Ces idiots de mortels croient tout ce qu’on leur dit !"
+|"Tu connais le proverbe *"Rien ne sert de courir..."*, chef ? C’est moi qui l’ai inventé. Je te jure ! C’est mon petit truc pour tromper la concurrence, je me donne des airs de grand sage. Ces idiots de mortels croient tout ce qu’on leur dit !"
 |-
 ! colspan="2" |Hermes Backstory 06
 |-
 |'''Hermes'''
-|"Je ne sais pas ''exactement ''ce que tu fais, couz, et je ne crois pas que quiconque sur l'Olympe soit au courant. À moins qu'ils sachent et qu'ils ne disent rien, ce qui est exactement ce que je fais !"
+|"Je ne sais pas *exactement *ce que tu fais, couz, et je ne crois pas que quiconque sur l'Olympe soit au courant. À moins qu'ils sachent et qu'ils ne disent rien, ce qui est exactement ce que je fais !"
 |-
 ! colspan="2" |Hermes Backstory 07
 |-
@@ -219,7 +219,7 @@
 ! colspan="2" |Hermes About Secret Service 01
 |-
 |'''Hermes'''
-|"Bon, alors comme ça, tu m'as démasqué, couz ? C'est le batelier qui me l'a dit. Eh bien, tant mieux ! On est contents d'être à ton service. Et ''on ''sait plein de choses sur ''toi'', alors de ton côté aussi, motus sur nos affaires. Capiche ?"
+|"Bon, alors comme ça, tu m'as démasqué, couz ? C'est le batelier qui me l'a dit. Eh bien, tant mieux ! On est contents d'être à ton service. Et *on *sait plein de choses sur *toi*, alors de ton côté aussi, motus sur nos affaires. Capiche ?"
 |-
 ! colspan="2" |Hermes About Secret Service 02
 |-
@@ -249,32 +249,32 @@
 ! colspan="2" |Hermes Message 01
 |-
 |'''Hermes'''
-|"Message de l’Olympe pour toi, chef ! Ça dit : ''« On est bien tranquilles là-haut sur notre montagne, à ne pas avoir besoin de s’échapper des Enfers. Viens donc nous rejoindre ! »''"
+|"Message de l’Olympe pour toi, chef ! Ça dit : *« On est bien tranquilles là-haut sur notre montagne, à ne pas avoir besoin de s’échapper des Enfers. Viens donc nous rejoindre ! »*"
 |-
 ! colspan="2" |Hermes Message 02
 |-
 |'''Hermes'''
-|"Message pour toi, chef. Ça dit : ''« Tu te traînes. Si seulement quelqu'un pouvait te donner un coup de main. » '' Ça alors, quelle coïncidence !"
+|"Message pour toi, chef. Ça dit : *« Tu te traînes. Si seulement quelqu'un pouvait te donner un coup de main. » * Ça alors, quelle coïncidence !"
 |-
 ! colspan="2" |Hermes Message 03
 |-
 |'''Hermes'''
-|"J’ai un message pour toi, couz. Il dit, ''ahem '': ''« Dépêche-toi de sortir de là, bon sang ! » ''Ça vient de la surface, regarde, c'est écrit juste là."
+|"J’ai un message pour toi, couz. Il dit, *ahem *: *« Dépêche-toi de sortir de là, bon sang ! » *Ça vient de la surface, regarde, c'est écrit juste là."
 |-
 ! colspan="2" |Hermes Message 04
 |-
 |'''Hermes'''
-|"Encore un autre message ! Il dit, ''« Une petite cuillère d’origan séché, deux cuillères d’huile d’olive extra vierge, un gros oignon émincé, et une pincée de sel pour le goût, » ''ah, attends, c'est pas pour toi. N'empêche que tu devrais essayer un jour, si t'arrives à sortir de là !"
+|"Encore un autre message ! Il dit, *« Une petite cuillère d’origan séché, deux cuillères d’huile d’olive extra vierge, un gros oignon émincé, et une pincée de sel pour le goût, » *ah, attends, c'est pas pour toi. N'empêche que tu devrais essayer un jour, si t'arrives à sortir de là !"
 |-
 ! colspan="2" |Hermes Message 05
 |-
 |'''Hermes'''
-|"Message pour toi, couz, ça dit : ''« De la part de tout l'Olympe, nous aimerions te remercier d'avoir offert cette délicieuse bouteille d'Ambroisie au dieu des voyages, Hermès, qui en a apprécié chaque gorgée. » ''Cordialement, moi !"
+|"Message pour toi, couz, ça dit : *« De la part de tout l'Olympe, nous aimerions te remercier d'avoir offert cette délicieuse bouteille d'Ambroisie au dieu des voyages, Hermès, qui en a apprécié chaque gorgée. » *Cordialement, moi !"
 |-
 ! colspan="2" |Hermes Message 06
 |-
 |'''Hermes'''
-|"Encore un message pour toi, couz. Il dit : ''« Salut, l'ami ! Si jamais tu arrives au sommet de notre montagne, passe me voir, d'accord ? Je te ferai tout visiter. » '' Ton ami, Hermès."
+|"Encore un message pour toi, couz. Il dit : *« Salut, l'ami ! Si jamais tu arrives au sommet de notre montagne, passe me voir, d'accord ? Je te ferai tout visiter. » * Ton ami, Hermès."
 |-
 ! colspan="2" |Hermes Max Relationship 01
 |-
@@ -323,13 +323,13 @@
 ! colspan="2" |Hermes Squelch 02
 |-
 |'''Hermes'''
-|"''Hum ''! Désolé pour l'interruption, chef. Dis-moi juste si tu préfères m'entendre papoter comme avant la prochaine fois, tu veux ?"
+|"*Hum *! Désolé pour l'interruption, chef. Dis-moi juste si tu préfères m'entendre papoter comme avant la prochaine fois, tu veux ?"
 |-
 |'''Zagreus'''
 |"Nos conversations me manquent, Hermès. J'aimerais qu'on discute à nouveau comme avant."
 |-
 |'''Hermes'''
-|"''Hah'', avec plaisir, cousin. C’est chouette de se parler, de temps en temps !"
+|"*Hah*, avec plaisir, cousin. C’est chouette de se parler, de temps en temps !"
 |-
 ! colspan="2" |Hermes Squelch 03
 |-
@@ -340,7 +340,7 @@
 |"Eh bien oui, Hermès, reprenons nos passionnantes conversations. C’est une bonne idée."
 |-
 |'''Hermes'''
-|"''Hah'', nickel ! J’aime bien nos petites conversations ! Bon, bah, à plus tard, chef."
+|"*Hah*, nickel ! J’aime bien nos petites conversations ! Bon, bah, à plus tard, chef."
 |-
 ! colspan="2" |Hermes About Hades 01
 |-
@@ -390,7 +390,7 @@
 ! colspan="2" |Hermes About Enemy Speed Condition 01
 |-
 |'''Hermes'''
-|"Toutes les misérables ombres du royaume de ton père sont en rogne à cause de la ''Cadence Infernale '' qu'il a imposé, pas vrai, couz ? Eh bien, si elles veulent que les choses soient faites en vitesse, je suis sûr que tu pourras leur faire plaisir avec ça !"
+|"Toutes les misérables ombres du royaume de ton père sont en rogne à cause de la *Cadence Infernale * qu'il a imposé, pas vrai, couz ? Eh bien, si elles veulent que les choses soient faites en vitesse, je suis sûr que tu pourras leur faire plaisir avec ça !"
 |-
 ! colspan="2" |Hermes About Enemy Speed Condition 02
 |-
@@ -415,7 +415,7 @@
 ! colspan="2" |Hermes About Timer 01
 |-
 |'''Hermes'''
-|"''Hah ! ''J'ai pas pu m'empêcher de voir que tu te chronométrais, chef ! C'est une bonne initiative, ça. Garde un œil là-dessus, c'est la clé pour aller encore et toujours vite ! Par contre, pour aller plus vite que moi, c'est une autre histoire."
+|"*Hah ! *J'ai pas pu m'empêcher de voir que tu te chronométrais, chef ! C'est une bonne initiative, ça. Garde un œil là-dessus, c'est la clé pour aller encore et toujours vite ! Par contre, pour aller plus vite que moi, c'est une autre histoire."
 |-
 ! colspan="2" |Hermes About Timer 02
 |-
@@ -440,7 +440,7 @@
 ! colspan="2" |Hermes First Run Cleared 01
 |-
 |'''Hermes'''
-|"Encore un message de l'Olympe, chef. Ça dit '''Zagreus, prenez absolument tout votre temps pour nous rejoindre. Nous savons que le chemin est semé d'embûches et nous vous assurons notre soutien quel que soit le temps qu'il vous faudra.' '' Alors, qu'est-ce que tu dis de ça ?!"
+|"Encore un message de l'Olympe, chef. Ça dit *'Zagreus, prenez absolument tout votre temps pour nous rejoindre. Nous savons que le chemin est semé d'embûches et nous vous assurons notre soutien quel que soit le temps qu'il vous faudra.' * Alors, qu'est-ce que tu dis de ça ?!"
 |-
 ! colspan="2" |Hermes Run Cleared 01
 |-
@@ -505,7 +505,7 @@
 ! colspan="2" |Hermes Post Epilogue 04
 |-
 |'''Hermes'''
-|"Je sais que certains membres de la famille ne t'ont pas du tout aidé, mais ne le prends pas personnellement, d'accord ? Dis-toi bien que ''jamais '' nous n'avons été unis et réunis à ce point !"
+|"Je sais que certains membres de la famille ne t'ont pas du tout aidé, mais ne le prends pas personnellement, d'accord ? Dis-toi bien que *jamais * nous n'avons été unis et réunis à ce point !"
 |-
 ! colspan="2" |Hermes About Persephone Visit 01
 |-
@@ -530,17 +530,17 @@
 ! colspan="2" |Hermes Legendary Pick Up 01
 |-
 |'''Hermes'''
-|"Oh, t'es prêt, chef ? Je t'ai pris la version ''Premium Express '' cette fois. Le top du top ! Tu vas aller loin avec ça, je te le dis."
+|"Oh, t'es prêt, chef ? Je t'ai pris la version *Premium Express * cette fois. Le top du top ! Tu vas aller loin avec ça, je te le dis."
 |-
 ! colspan="2" |Hermes Legendary Pick Up 02
 |-
 |'''Hermes'''
-|"Couz, tu devineras jamais. Je t'ai préparé le ''top du top ''rien que pour toi, en provenance directe de la meilleure des montagnes ! Tu vas adorer."
+|"Couz, tu devineras jamais. Je t'ai préparé le *top du top *rien que pour toi, en provenance directe de la meilleure des montagnes ! Tu vas adorer."
 |-
 ! colspan="2" |Hermes Legendary Pick Up 03
 |-
 |'''Hermes'''
-|"Message express pour toi, couz. Ça dit : ''« Félicitations ! Vous êtes notre centième client de la journée. » '' Tiens, voilà ta récompense !"
+|"Message express pour toi, couz. Ça dit : *« Félicitations ! Vous êtes notre centième client de la journée. » * Tiens, voilà ta récompense !"
 |-
 ! colspan="2" |Hermes Low Health 01
 |-
@@ -550,7 +550,7 @@
 ! colspan="2" |Hermes Low Health 02
 |-
 |'''Hermes'''
-|"''Ouhla ''! Ta vie a pas dû être facile depuis la dernière fois qu'on s'est vus, couz. Enfin bon, tu sais ce que je dis toujours, quand on est au fond du trou, il faut se dépêcher d'en sortir !"
+|"*Ouhla *! Ta vie a pas dû être facile depuis la dernière fois qu'on s'est vus, couz. Enfin bon, tu sais ce que je dis toujours, quand on est au fond du trou, il faut se dépêcher d'en sortir !"
 |-
 ! colspan="2" |Hermes Low Health 03
 |-
@@ -570,7 +570,7 @@
 ! colspan="2" |Hermes Low Health 06
 |-
 |'''Hermes'''
-|"''Ouf ''! Mais qu'est-ce qui t'est arrivé, chef ? Attends, laisse-moi deviner : tu t'es fait fouetter, brûler, rouer de coups de massue... quelque chose dans ce genre, pas vrai ?"
+|"*Ouf *! Mais qu'est-ce qui t'est arrivé, chef ? Attends, laisse-moi deviner : tu t'es fait fouetter, brûler, rouer de coups de massue... quelque chose dans ce genre, pas vrai ?"
 |-
 ! colspan="2" |Hermes Low Health 07
 |-
@@ -598,12 +598,12 @@
 ! colspan="2" |Hermes Misc Pickup 03
 |-
 |'''Hermes'''
-|"OK couz, livraison spéciale pour... mais ''t'es où'', là ? Enfin bref, prends ça et file !"
+|"OK couz, livraison spéciale pour... mais *t'es où*, là ? Enfin bref, prends ça et file !"
 |-
 ! colspan="2" |Hermes Misc Pickup 04
 |-
 |'''Hermes'''
-|"Je sais que tu es un peu pressé, chef. Mais laisse-moi te montrer une seconde ce que ça veut dire de ''vraiment ''se presser !"
+|"Je sais que tu es un peu pressé, chef. Mais laisse-moi te montrer une seconde ce que ça veut dire de *vraiment *se presser !"
 |-
 ! colspan="2" |Hermes Misc Pickup 05
 |-
@@ -638,17 +638,17 @@
 ! colspan="2" |Hermes Misc Pickup 11
 |-
 |'''Hermes'''
-|"Et si on accélérait la cadence un ''tout ''petit peu, couz ? Ou peut-être même beaucoup ! C'est toi qui vois, franchement."
+|"Et si on accélérait la cadence un *tout *petit peu, couz ? Ou peut-être même beaucoup ! C'est toi qui vois, franchement."
 |-
 ! colspan="2" |Hermes Misc Pickup 12
 |-
 |'''Hermes'''
-|"J'ai vraiment aucune envie de te faire perdre du temps, chef, alors assez bavardé. Fais ton choix et vas-y. ''Allez ''!"
+|"J'ai vraiment aucune envie de te faire perdre du temps, chef, alors assez bavardé. Fais ton choix et vas-y. *Allez *!"
 |-
 ! colspan="2" |Hermes Misc Pickup 13
 |-
 |'''Hermes'''
-|"Tu as encore beaucoup de chemin devant toi, chef. Mais la bonne nouvelle, c’est que la partie la plus lente du voyage se termine... ''maintenant '' !"
+|"Tu as encore beaucoup de chemin devant toi, chef. Mais la bonne nouvelle, c’est que la partie la plus lente du voyage se termine... *maintenant * !"
 |-
 ! colspan="2" |Hermes Misc Pickup 14
 |-
@@ -688,7 +688,7 @@
 ! colspan="2" |Hermes Misc Pickup Extra 01
 |-
 |'''Hermes'''
-|"Il n'y a pas grand-chose de nouveau à signaler là-haut. Par contre, ''toi'', t'as l'air d'avoir de quoi t'occuper là-dessous, chef !"
+|"Il n'y a pas grand-chose de nouveau à signaler là-haut. Par contre, *toi*, t'as l'air d'avoir de quoi t'occuper là-dessous, chef !"
 |-
 ! colspan="2" |Hermes Misc Pickup Extra 02
 |-
@@ -738,7 +738,7 @@
 ! colspan="2" |Hermes Misc Pickup 29
 |-
 |'''Hermes'''
-|"Message pour toi, couz. Il dit ''« Sers-toi, c’est gratuit ! »''"
+|"Message pour toi, couz. Il dit *« Sers-toi, c’est gratuit ! »*"
 |-
 ! colspan="2" |Hermes Misc Pickup 30
 |-
@@ -778,7 +778,7 @@
 ! colspan="2" |Hermes Misc Pickup 37
 |-
 |'''Hermes'''
-|"Bah alors, couz, reste pas là à te tourner les pouces, prends-en donc une et ''file ''!"
+|"Bah alors, couz, reste pas là à te tourner les pouces, prends-en donc une et *file *!"
 |-
 ! colspan="2" |Hermes Misc Pickup 38
 |-
@@ -813,12 +813,12 @@
 ! colspan="2" |Hermes Misc Pickup 44
 |-
 |'''Hermes'''
-|"Message pour toi, chef. Ça dit : ''« Tiens, prends-en un, et file ! » ''"
+|"Message pour toi, chef. Ça dit : *« Tiens, prends-en un, et file ! » *"
 |-
 ! colspan="2" |Hermes Misc Pickup 45
 |-
 |'''Hermes'''
-|"Encore un message pour toi ! Celui-là dit : ''« Salut chef ! Tiens, prends ça ! »''"
+|"Encore un message pour toi ! Celui-là dit : *« Salut chef ! Tiens, prends ça ! »*"
 |-
 ! colspan="2" |Hermes Misc Pickup 46
 |-
@@ -928,7 +928,7 @@
 ! colspan="2" |Hermes Loot Bought 05
 |-
 |'''Hermes'''
-|"Ça alors, chef ! J'étais juste en train de remettre quelques infortunés mortels à mon associé, et qui voilà ? ''Toi '' !"
+|"Ça alors, chef ! J'étais juste en train de remettre quelques infortunés mortels à mon associé, et qui voilà ? *Toi * !"
 |-
 ! colspan="2" |Hermes Loot Bought 06
 |-
@@ -948,7 +948,7 @@
 ! colspan="2" |Hermes Loot Bought 09
 |-
 |'''Hermes'''
-|"Message pour toi, chef, de la part de mon associé qui tient à ce que tu saches que, et je cite, ''« Hhhrrrrnnnngggggghhhhhh »''."
+|"Message pour toi, chef, de la part de mon associé qui tient à ce que tu saches que, et je cite, *« Hhhrrrrnnnngggggghhhhhh »*."
 |-
 ! colspan="2" |Hermes Loot Bought 10
 |-
@@ -976,7 +976,7 @@
 |"Seigneur Hermès, veuillez accepter ce cadeau en gage de ma reconnaissance. Merci de toujours me garder sur le qui-vive."
 |-
 |'''Hermes'''
-|"''Oh ''! C’est drôlement gentil à toi de laisser un pourboire, chef. Et moi j’ai un conseil pour toi : ne lambine pas ! Et voici quelque chose qui j'espère t'y aidera."
+|"*Oh *! C’est drôlement gentil à toi de laisser un pourboire, chef. Et moi j’ai un conseil pour toi : ne lambine pas ! Et voici quelque chose qui j'espère t'y aidera."
 |-
 ! colspan="2" |Hermes Gift 02
 |-
@@ -1024,12 +1024,12 @@
 |"Je te salue, seigneur Hermès, par cette rare délicatesse ! Rare en ces lieux, en tout cas. Tu n'en parles jamais, mais j'imagine le mal que tu te donnes pour me soutenir. Merci, l'ami !"
 |-
 |'''Hermes'''
-|"Tu sais, la première fois qu'on m'a offert de l'Ambroisie des Enfers, eh bien, c'était... ''maintenant ''! C'est gentil de ta part. Tu aurais pu prendre mes services comme acquis et je ne m'en serais pas du tout plaint ! Merci, couz."
+|"Tu sais, la première fois qu'on m'a offert de l'Ambroisie des Enfers, eh bien, c'était... *maintenant *! C'est gentil de ta part. Tu aurais pu prendre mes services comme acquis et je ne m'en serais pas du tout plaint ! Merci, couz."
 |-
 ! colspan="2" |Hermes Gift 08
 |-
 |'''Zagreus'''
-|"Message pour vous, Seigneur Hermès ! Il dit : ''« Cette offrande est dédiée à l'incomparable dieu de la rapidité, porteur exclusivement d'excellentes nouvelles, parce que c'est lui qui les apporte. Vous êtes un vrai ami, vous savez ? Je vous dois une fière chandelle. » '' Zagreus."
+|"Message pour vous, Seigneur Hermès ! Il dit : *« Cette offrande est dédiée à l'incomparable dieu de la rapidité, porteur exclusivement d'excellentes nouvelles, parce que c'est lui qui les apporte. Vous êtes un vrai ami, vous savez ? Je vous dois une fière chandelle. » * Zagreus."
 |-
 |'''Hermes'''
 |"Écoute, couz, j'accepte une dernière fois cette ambroisie de choix, d'accord ? Mais ensuite, je tiens à redevenir entièrement professionnel, et je ne pourrai m'en tenir qu'aux affaires qui nous concernent ! À part ça, je tenais à ce que tu saches que je te considère comme un véritable ami."

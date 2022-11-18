@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"Wyczuwam, że nie rozmawiałeś jeszcze z wszechwidzącym artefaktem, którego nazywasz Egidą. Zadzieraj z zamysłami Mojr ile chcesz. Ale jeśli zmienisz zdanie, przemów do niego: ''Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża.''"
+|"Wyczuwam, że nie rozmawiałeś jeszcze z wszechwidzącym artefaktem, którego nazywasz Egidą. Zadzieraj z zamysłami Mojr ile chcesz. Ale jeśli zmienisz zdanie, przemów do niego: *Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Nie użyłeś jeszcze wybudzającego zdania, które zostało przeze mnie przekazane? A może po prostu postanowiłeś nie przedstawiać mi wyniku. Pragnę go w pewnym momencie zobaczyć. Pamiętaj, synu Hadesa: Przemów do wszechwidzącego artefaktu, ''Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża.''"
+|"Nie użyłeś jeszcze wybudzającego zdania, które zostało przeze mnie przekazane? A może po prostu postanowiłeś nie przedstawiać mi wyniku. Pragnę go w pewnym momencie zobaczyć. Pamiętaj, synu Hadesa: Przemów do wszechwidzącego artefaktu, *Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"Wyczuwam, że coś jest na rzeczy, Synu Hadesa. Mów więc, co ci chodzi po głowie? Jestem w stanie część z tego rozszyfrować bez twoich wyjaśnień, aczkolwiek wolałbym usłyszeć to od ciebie dobrowolnie."
 |-
 |'''Zagreus'''
-|"''Um'', Mistrzu Chaosie? Bogini Nyks, ona... chyba chce z tobą ponownie porozmawiać. Zastanawiam się, czy może jesteś w stanie się z nią kiedyś skontaktować? Wydaje się być przekonana, że po twojej stronie leży wykonanie tego ruchu, jeżeli tak sobie zażyczysz."
+|"*Um*, Mistrzu Chaosie? Bogini Nyks, ona... chyba chce z tobą ponownie porozmawiać. Zastanawiam się, czy może jesteś w stanie się z nią kiedyś skontaktować? Wydaje się być przekonana, że po twojej stronie leży wykonanie tego ruchu, jeżeli tak sobie zażyczysz."
 |-
 |'''Chaos'''
 |"Bogini Nyks chce ze mną porozmawiać...? Cóż, jest to niespodziewane, Synu Hadesa, i zastanawiam się, czy to przypadkiem nie jest żart z twojej strony. Twoje intencje są jednak wyraźnie szczere. Nie mogę w tej kwestii nic obiecać, poza tym, że... zastanowię się nad tym."
@@ -249,7 +249,7 @@
 |"Wyczuwam twoją konsternację, Synu Hadesa, gdy tak się tu rozglądasz; masz kolejne pytanie i możesz je zadać."
 |-
 |'''Zagreus'''
-|"Och, to tylko... zastanawiam się, Mistrzu Chaosie... jeśli stworzyłeś to wszystko, to... kto stworzył ''ciebie''? Czym było to miejsce, zanim się pojawiłeś?"
+|"Och, to tylko... zastanawiam się, Mistrzu Chaosie... jeśli stworzyłeś to wszystko, to... kto stworzył *ciebie*? Czym było to miejsce, zanim się pojawiłeś?"
 |-
 |'''Chaos'''
 |"Wszystko to po prostu się stało, tak jak ja, prawdopodobnie po tym, jak dawne czasy wreszcie się skończyły. Nie jestem pewien, czy był to akt woli. Bardziej nagła zmiana, jak wtedy, gdy z iskry następuje pożar. Pojawiłem się właśnie w takim czasie, a następnie pojawiło się wszystko inne, ze mnie."
@@ -377,7 +377,7 @@
 |"Spodziewałem się twego przybycia, Synu Hadesa. Jako że jestem w stanie przejrzeć cię na wylot. A to za sprawą wszechwidzącego artefaktu, który narodził się ze mnie po świcie czasu, a teraz przypomina, w twych rękach, jego pierwszą formę. Odpowiedz."
 |-
 |'''Zagreus'''
-|"Co, musisz mieć na myśli tę Tarczę Chaosu? ''Twoją ''tarczę, Mistrzu Chaosie, powinienem powiedzieć. To niesamowity artefakt. Robi ogromne wrażenie! Twoje oryginalne dzieła musiały być niesamowite."
+|"Co, musisz mieć na myśli tę Tarczę Chaosu? *Twoją *tarczę, Mistrzu Chaosie, powinienem powiedzieć. To niesamowity artefakt. Robi ogromne wrażenie! Twoje oryginalne dzieła musiały być niesamowite."
 |-
 |'''Chaos'''
 |"Twoja odpowiedź jest do przyjęcia. I jestem wdzięczny za to, że mogłem ostatnio osobiście podziwiać to rozległe królestwo."
@@ -390,10 +390,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Niosę dla ciebie wiadomość, Synu Hadesa. Taką, która została zarejestrowana w czasach, gdy pewne pojęcia, które opisuje, jeszcze nie istniały. Pamiętaj o tym: ''Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża. ''Wybudzające zdanie, na które ty i wszechwidzący artefakt mojego stworzenia możecie odpowiedzieć."
+|"Niosę dla ciebie wiadomość, Synu Hadesa. Taką, która została zarejestrowana w czasach, gdy pewne pojęcia, które opisuje, jeszcze nie istniały. Pamiętaj o tym: *Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża. *Wybudzające zdanie, na które ty i wszechwidzący artefakt mojego stworzenia możecie odpowiedzieć."
 |-
 |'''Zagreus'''
-|"Wybudzające zdanie... i wszystko widzący artefakt, masz na myśli Egidę, racja? Więc, muszę jej powiedzieć, ''Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża... ''i od razu się wybudzi. Ale czy możesz powiedzieć mi co to oznacza, lub kogo?"
+|"Wybudzające zdanie... i wszystko widzący artefakt, masz na myśli Egidę, racja? Więc, muszę jej powiedzieć, *Widzę cię trzymającego gardę naprzeciw ziejącego ogniem węża... *i od razu się wybudzi. Ale czy możesz powiedzieć mi co to oznacza, lub kogo?"
 |-
 |'''Chaos'''
 |"Och, mogę powiedzieć ci prawie wszystko. Jednakże wolałabym, abyś sam poznał większość odpowiedzi, których szukasz."
@@ -401,13 +401,13 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"To nie jest ktoś, kogo rozpoznaję... a zatem - w imię Hadesa! ''Yyy'', halo? Mogę zapytać, kto dzwoni?"
+|"To nie jest ktoś, kogo rozpoznaję... a zatem - w imię Hadesa! *Yyy*, halo? Mogę zapytać, kto dzwoni?"
 |-
 |'''Chaos'''
 |"...Bogowie Olimpu stali się słabi... czyż nie zgodzisz się z tym stwierdzeniem?"
 |-
 |'''Zagreus'''
-|"''Yyy''... czy my się znamy?"
+|"*Yyy*... czy my się znamy?"
 |-
 |'''Chaos'''
 |"Och, tak, znamy się, w pewien sposób. Znam każdego - tutaj i tam. Chcesz opuścić to miejsce? Zatem moim życzeniem jest uczynić twoje poczynania nieco bardziej interesującymi... a jeśli któregoś dnia spotkasz bogów Olimpu, przekaż im moje pozdrowienia."
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"Jesteś tu bardzo mile widziany."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"Twoja obecność jest doceniona, Synu Hadesa, ale proszę, zostaw nas samych, na ten moment."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Wybacz nam, Synu Hadesa, jako że jesteśmy w trakcie wymieniania się wspomnieniami."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Synu Hadesa, jestem zadowolony, że bogini Nyks do mnie powróciła."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Wybacz mi, Synu Hadesa, ale muszę kontynuować dyskusję z boginią Nyks."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"Nie widziałem bogini Nyks już od dawien dawna."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"Jestem nieprzyzwyczajony, by mieć tak liczne towarzystwo ostatnimi czasy."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"Moja córka była właśnie w trakcie opowiadania mi o ostatnich wydarzeniach w twoim Domu."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"Jak jesteś w stanie zauważyć, bogini Nyks i ja jesteśmy teraz w trakcie rozmowy."

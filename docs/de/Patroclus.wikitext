@@ -181,7 +181,7 @@
 |"Ich suche jemanden namens Achilles. Unter den Lebenden war er einst recht berühmt, aber unter den Toten, wer weiß. Ich dachte, er wäre hier, aber dem ist nicht so."
 |-
 |'''Zagreus'''
-|"...Achilles... Der Name kommt mir bekannt vor. Und, ''ähm'', darf ich fragen, warum du dich nach ihm erkundigst? Nur für den Fall, dass es zur Sprache kommt."
+|"...Achilles... Der Name kommt mir bekannt vor. Und, *ähm*, darf ich fragen, warum du dich nach ihm erkundigst? Nur für den Fall, dass es zur Sprache kommt."
 |-
 |'''Patroclus'''
 |"Es ist nur... Ich vermisse ihn ganz einfach, Fremder. Das ist alles."
@@ -195,7 +195,7 @@
 |"Du kennst Achilles, nicht wahr, Herr. Du bist Patroklos. Achilles ... dient bei uns zu Hause. Er trainierte mich. Er lässt dich herzlich grüßen. Er trug mir auf, dir zu sagen, er denke stets an dich."
 |-
 |'''Patroclus'''
-|"...Jener Name. Dann hast du ihn also gesehen. Im Haus deines Vaters. Und ich soll dir glauben, er hätte all das gesagt? ''Tss''. Du wirst es mir nachsehen, wenn ich ein wenig skeptisch bin. Im Leben verließ ich Achilles. Und im Tod verließ er mich. Wir sind quitt. Und wir haben uns jetzt nichts mehr zu sagen."
+|"...Jener Name. Dann hast du ihn also gesehen. Im Haus deines Vaters. Und ich soll dir glauben, er hätte all das gesagt? *Tss*. Du wirst es mir nachsehen, wenn ich ein wenig skeptisch bin. Im Leben verließ ich Achilles. Und im Tod verließ er mich. Wir sind quitt. Und wir haben uns jetzt nichts mehr zu sagen."
 |-
 |'''Zagreus'''
 |"Aber das kann doch nicht wahr sein. Da muss irgendein Missverständnis vorliegen. Ihr habt seit eurem Tod nicht mehr miteinander gesprochen?"
@@ -209,7 +209,7 @@
 |"Patroklos. Ich weiß, wer du bist, Herr. Und du kennst Achilles. Er dient bei uns zu Hause. Er trainierte mich. Er lässt dich herzlich grüßen. Er trug mir auf, dir zu sagen, er denke stets an dich."
 |-
 |'''Patroclus'''
-|"...''Ah''. Dann hast du ihn also gesehen. Im Haus deines Vaters. Und ich soll dir glauben, er hätte all das gesagt? ''Tss''. Du wirst es mir nachsehen, wenn ich ein wenig skeptisch bin. Im Leben verließ ich Achilles. Und im Tod verließ er mich. Wir sind quitt. Und wir haben uns jetzt nichts mehr zu sagen."
+|"...*Ah*. Dann hast du ihn also gesehen. Im Haus deines Vaters. Und ich soll dir glauben, er hätte all das gesagt? *Tss*. Du wirst es mir nachsehen, wenn ich ein wenig skeptisch bin. Im Leben verließ ich Achilles. Und im Tod verließ er mich. Wir sind quitt. Und wir haben uns jetzt nichts mehr zu sagen."
 |-
 ! colspan="2" |Patroclus About Achilles 02
 |-
@@ -250,13 +250,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"Er ist bestimmt so starrsinnig wie immer, richtig? Konnte noch nie nachgeben. Hat er je von dem Krieg berichtet, in dem wir kämpften? Oder vielmehr: in dem ''ich '' kämpfte. Er hätte ihn beenden können. Aber er weigerte sich, zu den Waffen zu greifen."
+|"Er ist bestimmt so starrsinnig wie immer, richtig? Konnte noch nie nachgeben. Hat er je von dem Krieg berichtet, in dem wir kämpften? Oder vielmehr: in dem *ich * kämpfte. Er hätte ihn beenden können. Aber er weigerte sich, zu den Waffen zu greifen."
 |-
 |'''Zagreus'''
 |"Achilles redet nicht sonderlich gern über seine sterblichen Tage, nein. Er weigerte sich also zu kämpfen? Ich habe gehört, dass die Sterblichen dies manchmal verwerflich finden. Aber warum hätte er kämpfen sollen, wenn er nicht an die Sache glaubte?"
 |-
 |'''Patroclus'''
-|"Er ''teilte '' unsere Sache! Es war unwichtig, ob er vollkommen daran glaubte. Wenn er nicht so starrsinnig gewesen wäre, dann... nun... dann wäre ich wahrscheinlich etwas später hierher gelangt."
+|"Er *teilte * unsere Sache! Es war unwichtig, ob er vollkommen daran glaubte. Wenn er nicht so starrsinnig gewesen wäre, dann... nun... dann wäre ich wahrscheinlich etwas später hierher gelangt."
 |-
 |'''Zagreus'''
 |"Er macht sich Vorwürfe wegen dir, musst du wissen. Ich dachte, er sei bei dem Versuch gescheitert, dich zu schützen, aber nicht... dass er gar nicht kämpfte. Er hat aber erwähnt, dass er dir recht schnell in den Tod folgte, rasend vor Wut..."
@@ -279,7 +279,7 @@
 |"Du musst eines wissen, Herr. Ihr wurdet zusammen begraben. Das heißt eure beider Asche. Es war sein letzter Wunsch. Wie er zum Haus meines Vaters kam, kann er selbst am besten erklären. Und ich werde alles tun, was ich kann, damit er die Chance dazu erhält."
 |-
 |'''Patroclus'''
-|"...Unserer beider Asche, sagst du. Zusammen? ''Tss. ''Der Narr. Wir hätten leben können. Statt zum Fraß der Würmer zu werden. Aber... danke für die Information, Fremder. Nun... geh bitte."
+|"...Unserer beider Asche, sagst du. Zusammen? *Tss. *Der Narr. Wir hätten leben können. Statt zum Fraß der Würmer zu werden. Aber... danke für die Information, Fremder. Nun... geh bitte."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -290,7 +290,7 @@
 |"Du brauchst nicht um Verzeihung zu bitten, Herr. Achilles ist einer meiner engsten Freunde, aber ... er spricht nicht gern über sich selbst. Über jene Zeiten. Es muss sehr schmerzhaft sein. Für euch beide."
 |-
 |'''Patroclus'''
-|"Oh, wir alle haben schon Schmerzhaftes erlebt. Aber... zu wissen, dass ich ihm am Ende so viel bedeutete.... ''nach ''dem Ende... verschafft mir für kurze Zeit etwas Linderung. Wie auch diese Gespräche."
+|"Oh, wir alle haben schon Schmerzhaftes erlebt. Aber... zu wissen, dass ich ihm am Ende so viel bedeutete.... *nach *dem Ende... verschafft mir für kurze Zeit etwas Linderung. Wie auch diese Gespräche."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -304,12 +304,12 @@
 |"So wie ich meinen Achilles kenne, redet er nicht gern über die missliche Lage, in der wir uns befinden. Wie kann jemand nur so unbesonnen sein und es doch geradezu hassen, unnötige Risiken einzugehen? Richte ihm einfach von mir aus, alles zu riskieren."
 |-
 |'''Zagreus'''
-|"Alles riskieren? ''Was ''alles riskieren? Er möchte das Beste für dich. Er würde nicht wollen, dass irgendwas passiert."
+|"Alles riskieren? *Was *alles riskieren? Er möchte das Beste für dich. Er würde nicht wollen, dass irgendwas passiert."
 |-
 |'''Patroclus'''
 |"Es ist doch längst schon passiert. Wenn stimmt, was du mir erzählt hast, dann wage ich zu behaupten, dass wir mehr zu gewinnen als zu verlieren haben. Ist Furcht nicht für die Schwachen?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"Ich dachte mir schon, dass wir dir eventuell begegnen würden, aber... wie merkwürdig, dir hier draußen gegenüberzustehen. Diesen Ort mit eigenen Augen zu sehen. Ich kann es immer noch nicht so ganz glauben..."
@@ -323,7 +323,7 @@
 |'''Patroclus'''
 |"Na, wir wollen jetzt aber nicht zu gefühlsduselig werden, ja? Wir Myrmidonen sind nicht eben zartfühlend. Achilles ruht sich einfach gerade ein wenig aus. Von einer anspruchsvollen Arbeit. Du hast auch eine anspruchsvolle Arbeit, drum hier! Mein übliches Geschenk."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"Na, wenn das nicht Achilles' Schützling ist, der da bei uns vorbeischaut. Ich weiß nicht, wie ich dir deine Hilfe je vergelten kann. Ich bin ziemlich sicher, dass es nicht möglich ist."
@@ -337,7 +337,7 @@
 |'''Patroclus'''
 |"Das hatte ich ohnehin vor, aber... wenn dir sonst noch etwas einfallen sollte, lass es einen von uns wissen."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Gut, da bist du ja, Fremder. Du musst für uns kurz das Zünglein an der Waage spielen, ja? Wäre Achilles nicht der perfekte Recke des Elysions? Ich meine nämlich, dass so ziemlich jeder besser wäre als der jetzige Inhaber dieses Titels."
@@ -425,7 +425,7 @@
 |"Ich möchte dich gern etwas fragen, Herr, was mich schon länger beschäftigt. Wie war Achilles ...? In seiner Jugend, meine ich. Sofern es kein Geheimnis ist."
 |-
 |'''Patroclus'''
-|"''Hah''. Wie beschreibt man jemandem am besten? Alle, die ihn auf dem Schlachtfeld erlebten, bezeichneten ihn als überwältigend, Fremder. Sowohl seine Mitstreiter, als auch seine Gegner. Aber ich glaube, in ihm steckte viel mehr. Eine gewisse Einstellung. Ein Sinn für Gerechtigkeit. Ich kannte ihn, ehe er ein Krieger war. Wohl der einzige Grund, warum ich ihn mochte."
+|"*Hah*. Wie beschreibt man jemandem am besten? Alle, die ihn auf dem Schlachtfeld erlebten, bezeichneten ihn als überwältigend, Fremder. Sowohl seine Mitstreiter, als auch seine Gegner. Aber ich glaube, in ihm steckte viel mehr. Eine gewisse Einstellung. Ein Sinn für Gerechtigkeit. Ich kannte ihn, ehe er ein Krieger war. Wohl der einzige Grund, warum ich ihn mochte."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -919,7 +919,7 @@
 |"He, hör mal, ich sehe, dass du dich im Augenblick quälst, und vielleicht ist dies nicht die Art von Hilfe, die du brauchst, aber... Ich möchte, dass du das hast."
 |-
 |'''Patroclus'''
-|"''Ah'', du hast also Mitleid mit mir? Nun, ich bin nicht hochmütig, wie so viele andere hier, also nehme ich es an. Aber du sollst auch nicht leer ausgehen, richtig?"
+|"*Ah*, du hast also Mitleid mit mir? Nun, ich bin nicht hochmütig, wie so viele andere hier, also nehme ich es an. Aber du sollst auch nicht leer ausgehen, richtig?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -981,7 +981,7 @@
 |"Ich kann die letzte Flasche Ambrosia nirgends sehen, und das kann wohl nur eines bedeuten... du brauchst eine neue. Hier, Herr. Danke für den Beistand, den du mir schon so oft gewährt hast."
 |-
 |'''Patroclus'''
-|"Du dankst ''mir'', Fremder? Ich bin hier schon eine ganze Weile, glaube ich, und dennoch finde ich manche eurer Bräuche immer noch recht befremdlich. Du hast mehr für mich getan, als ich je zu hoffen gewagt hätte. Mehr als jeder andere."
+|"Du dankst *mir*, Fremder? Ich bin hier schon eine ganze Weile, glaube ich, und dennoch finde ich manche eurer Bräuche immer noch recht befremdlich. Du hast mehr für mich getan, als ich je zu hoffen gewagt hätte. Mehr als jeder andere."
 |-
 |'''Zagreus'''
 |"Es ist bloß eine Flasche Ambrosia, Herr, und nicht wirklich der Rede wert. Na gut, es ist recht schwierig, sie aufzutreiben, aber trotzdem!"

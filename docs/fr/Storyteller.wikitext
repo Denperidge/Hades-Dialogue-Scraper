@@ -3,376 +3,376 @@
 ! colspan="2" |Inspect House 01
 |-
 |'''Storyteller'''
-|"''La Maison d’Hadès : ce repaire sombre et somptueusement aménagé est la demeure du roi des Enfers, mais également de sa progéniture à forte tête.''"
+|"*La Maison d’Hadès : ce repaire sombre et somptueusement aménagé est la demeure du roi des Enfers, mais également de sa progéniture à forte tête.*"
 |-
 ! colspan="2" |Inspect Lounge Closed 01
 |-
 |'''Storyteller'''
-|"''Ce qui était autrefois un petit salon au sein de la Maison d’Hadès est aujourd’hui interdit d’accès, laissé sens dessus dessous depuis que le Cerbère à plusieurs têtes, en proie au désarroi suite à la disparition du Prince, a ravagé l’endroit.''"
+|"*Ce qui était autrefois un petit salon au sein de la Maison d’Hadès est aujourd’hui interdit d’accès, laissé sens dessus dessous depuis que le Cerbère à plusieurs têtes, en proie au désarroi suite à la disparition du Prince, a ravagé l’endroit.*"
 |-
 ! colspan="2" |Inspect Shades 01
 |-
 |'''Storyteller'''
-|"''Les ombres des morts errent sans cesse dans les couloirs de la Maison, à la recherche d'une oreille attentive à leurs interminables lamentations.''"
+|"*Les ombres des morts errent sans cesse dans les couloirs de la Maison, à la recherche d'une oreille attentive à leurs interminables lamentations.*"
 |-
 ! colspan="2" |Inspect Lounge Open 01
 |-
 |'''Storyteller'''
-|"''Le salon de la Maison d'Hadès est en réalité un espace tout à fait lugubre en dépit de sa fonction première, laquelle étant d'apporter un peu de gaieté aux tristes habitants de la Maison.''"
+|"*Le salon de la Maison d'Hadès est en réalité un espace tout à fait lugubre en dépit de sa fonction première, laquelle étant d'apporter un peu de gaieté aux tristes habitants de la Maison.*"
 |-
 ! colspan="2" |Inspect Employee Of The Month 01
 |-
 |'''Storyteller'''
-|"''Une plaque commémorative orne l’un des murs du salon, célébrant et proclamant les hauts faits de ceux qui servent le Seigneur Hadès de manière exemplaire.''"
+|"*Une plaque commémorative orne l’un des murs du salon, célébrant et proclamant les hauts faits de ceux qui servent le Seigneur Hadès de manière exemplaire.*"
 |-
 ! colspan="2" |Inspect Cellar 01
 |-
 |'''Storyteller'''
-|"''Les tonneaux de vin ancien cachés dans les recoins de la Maison du Seigneur Hadès... rares sont ceux qui ont consommé leur contenu enivrant, et plus rares encore sont ceux qui sont autorisés à s'en approcher.''"
+|"*Les tonneaux de vin ancien cachés dans les recoins de la Maison du Seigneur Hadès... rares sont ceux qui ont consommé leur contenu enivrant, et plus rares encore sont ceux qui sont autorisés à s'en approcher.*"
 |-
 |'''Storyteller'''
-|"''Les tonneaux de vin robustes de la Maison d'Hadès sont maintenant presque entièrement vides, victimes de la soif combinée des Olympiens lors d'un certain festin.''"
+|"*Les tonneaux de vin robustes de la Maison d'Hadès sont maintenant presque entièrement vides, victimes de la soif combinée des Olympiens lors d'un certain festin.*"
 |-
 ! colspan="2" |Inspect Olympus Sculpture 01
 |-
 |'''Storyteller'''
-|"''Un magnifique monument doré représentant le mont Olympe, construit minutieusement avec la pierre de la montagne sacrée, brille désormais pour l'éternité dans la pénombre de la Maison d'Hadès, en guise d'offrande de la part de la famille du Maître.''"
+|"*Un magnifique monument doré représentant le mont Olympe, construit minutieusement avec la pierre de la montagne sacrée, brille désormais pour l'éternité dans la pénombre de la Maison d'Hadès, en guise d'offrande de la part de la famille du Maître.*"
 |-
 ! colspan="2" |Inspect Mural 01
 |-
 |'''Storyteller'''
-|"''Une gigantesque mosaïque soigneusement réalisée immortalise le Roi des Enfers régnant sur l'énormité de son domaine, sous le regard admiratif de ses sujets chthoniens.''"
+|"*Une gigantesque mosaïque soigneusement réalisée immortalise le Roi des Enfers régnant sur l'énormité de son domaine, sous le regard admiratif de ses sujets chthoniens.*"
 |-
 ! colspan="2" |Inspect Throne 01
 |-
 |'''Storyteller'''
-|"''Il est rare que le trône imposant du sinistre Seigneur Hadès reste ainsi inoccupé ; malgré cela, les habitants de la Maison continuent de vaquer à leurs occupations, n’osant guère demander pourquoi.''"
+|"*Il est rare que le trône imposant du sinistre Seigneur Hadès reste ainsi inoccupé ; malgré cela, les habitants de la Maison continuent de vaquer à leurs occupations, n’osant guère demander pourquoi.*"
 |-
 ! colspan="2" |Inspect House Garden 01
 |-
 |'''Storyteller'''
-|"''Le jardin de la Reine Perséphone, dont l'accès était interdit au Prince tout au long de sa vie, s'étend enfin devant lui dans toute sa splendeur.''"
+|"*Le jardin de la Reine Perséphone, dont l'accès était interdit au Prince tout au long de sa vie, s'étend enfin devant lui dans toute sa splendeur.*"
 |-
 ! colspan="2" |Flashback 02
 |-
 |'''Storyteller'''
-|"''Il s’aventura vers l'imposant trône de son Seigneur et Père, s’attendant à se faire repérer, mais bien loin d'imaginer ce qu’il s’apprêtait à découvrir.''"
+|"*Il s’aventura vers l'imposant trône de son Seigneur et Père, s’attendant à se faire repérer, mais bien loin d'imaginer ce qu’il s’apprêtait à découvrir.*"
 |-
 ! colspan="2" |Flashback 03
 |-
 |'''Storyteller'''
-|"''Il ne sait pas exactement ce qu’il cherche. Il sait seulement qu’il a toujours eu ce sentiment de ne pas appartenir à cet endroit. Qui est-il, vraiment ? Le Seigneur Hadès ne répondrait jamais à de telles questions ; par conséquent, le Prince Zagreus devra trouver les réponses par lui-même.''"
+|"*Il ne sait pas exactement ce qu’il cherche. Il sait seulement qu’il a toujours eu ce sentiment de ne pas appartenir à cet endroit. Qui est-il, vraiment ? Le Seigneur Hadès ne répondrait jamais à de telles questions ; par conséquent, le Prince Zagreus devra trouver les réponses par lui-même.*"
 |-
 ! colspan="2" |Flashback 04
 |-
 |'''Storyteller'''
-|"''Il fouilla dans les affaires de son Seigneur et Père. Il n’y trouva rien de bien important ; seulement des registres et des parchemins administratifs, ou encore de la correspondance provenant de l’Olympe que le Maître avait ignorée. Aucune trace d'un quelconque document faisant référence à son fils.''"
+|"*Il fouilla dans les affaires de son Seigneur et Père. Il n’y trouva rien de bien important ; seulement des registres et des parchemins administratifs, ou encore de la correspondance provenant de l’Olympe que le Maître avait ignorée. Aucune trace d'un quelconque document faisant référence à son fils.*"
 |-
 ! colspan="2" |Flashback 05
 |-
 |'''Storyteller'''
-|"''Mais c’est alors qu’il découvrit cette lettre... écrite avec délicatesse d’une main et d’une voix que le Prince n’avait jamais vue ou entendue.''"
+|"*Mais c’est alors qu’il découvrit cette lettre... écrite avec délicatesse d’une main et d’une voix que le Prince n’avait jamais vue ou entendue.*"
 |-
 |'''Persephone'''
-|"'''Hadès : je ne supporte plus de vivre ici. Alors, je pars, même si cela me tue. Je ne retournerai pas sur l'Olympe. Si j'ai bien une place dans ce monde, alors elle doit être quelque part entre les cieux et les Enfers. Peut-être sur la côte, avec un petit jardin. Prends bien soin de Cerbère ; il me manquera.'''"
+|"*'Hadès : je ne supporte plus de vivre ici. Alors, je pars, même si cela me tue. Je ne retournerai pas sur l'Olympe. Si j'ai bien une place dans ce monde, alors elle doit être quelque part entre les cieux et les Enfers. Peut-être sur la côte, avec un petit jardin. Prends bien soin de Cerbère ; il me manquera.'*"
 |-
 |'''Storyteller'''
-|"''C’est ainsi que Zagreus, le Prince des Enfers, assimila le contenu de cette lettre jusqu'alors tenue secrète, écrite de la main de sa mère.''"
+|"*C’est ainsi que Zagreus, le Prince des Enfers, assimila le contenu de cette lettre jusqu'alors tenue secrète, écrite de la main de sa mère.*"
 |-
 |'''Zagreus'''
-|"La main de sa mère, la main de ma mère... attends, ''quoi ''?! Tu dis que cette Perséphone est... ma mère...? Mais... mais Père a toujours dit que Nyx était ma... ce menteur ! Il m’a menti, ils m’ont tous les deux menti. Toute ma vie !"
+|"La main de sa mère, la main de ma mère... attends, *quoi *?! Tu dis que cette Perséphone est... ma mère...? Mais... mais Père a toujours dit que Nyx était ma... ce menteur ! Il m’a menti, ils m’ont tous les deux menti. Toute ma vie !"
 |-
 |'''Storyteller'''
-|"''Euhhh hrm, et c’est ainsi que le Prince découvrit par inadvertance le secret bien gardé sur ses origines. Tout à fait par hasard, bien sûr...''"
+|"*Euhhh hrm, et c’est ainsi que le Prince découvrit par inadvertance le secret bien gardé sur ses origines. Tout à fait par hasard, bien sûr...*"
 |-
 ! colspan="2" |Flashback 06
 |-
 |'''Storyteller'''
-|"''Perséphone... l'ancienne Reine des Enfers... où était-elle partie, et pourquoi ? Submergé par de nouvelles questions et sa rancœur, le Prince décida alors de confronter son Seigneur et Maître.''"
+|"*Perséphone... l'ancienne Reine des Enfers... où était-elle partie, et pourquoi ? Submergé par de nouvelles questions et sa rancœur, le Prince décida alors de confronter son Seigneur et Maître.*"
 |-
 ! colspan="2" |Flashback Day Night Job 02
 |-
 |'''Storyteller'''
-|"''Zagreus le négligent arpente les couloirs de la Maison de son père, sans se soucier guère de l'urgence dont il est censé faire preuve dans de telles circonstances.''"
+|"*Zagreus le négligent arpente les couloirs de la Maison de son père, sans se soucier guère de l'urgence dont il est censé faire preuve dans de telles circonstances.*"
 |-
 ! colspan="2" |Flashback Day Night Job 03
 |-
 |'''Storyteller'''
-|"''La porte de la chambre administrative se profile de l'autre côté du couloir. Le Prince, quant à lui, espère pouvoir entrer discrètement, sans attirer l'attention de tous ceux qui y travaillent.''"
+|"*La porte de la chambre administrative se profile de l'autre côté du couloir. Le Prince, quant à lui, espère pouvoir entrer discrètement, sans attirer l'attention de tous ceux qui y travaillent.*"
 |-
 ! colspan="2" |Inspect House Pillars 01
 |-
 |'''Storyteller'''
-|"''Parmi l'innombrable quantité de pierres précieuses enfouies sous la surface, beaucoup ornent de leur splendeur la Maison d’Hadès, dieu des morts, dieu des richesses.''"
+|"*Parmi l'innombrable quantité de pierres précieuses enfouies sous la surface, beaucoup ornent de leur splendeur la Maison d’Hadès, dieu des morts, dieu des richesses.*"
 |-
 ! colspan="2" |Inspect North Fountain 01
 |-
 |'''Storyteller'''
-|"''L'eau, bien que source de vie, s'écoule malgré tout dans les recoins les plus obscurs des Enfers, tandis que les ombres tourmentées des mortels qui la contemplent se remémorent la brève époque où ils pouvaient encore en boire et soupirer de bonheur.''"
+|"*L'eau, bien que source de vie, s'écoule malgré tout dans les recoins les plus obscurs des Enfers, tandis que les ombres tourmentées des mortels qui la contemplent se remémorent la brève époque où ils pouvaient encore en boire et soupirer de bonheur.*"
 |-
 ! colspan="2" |Inspect South Fountain 01
 |-
 |'''Storyteller'''
-|"''Le Prince collectionneur de pierres précieuses commanda pour la Maison une fontaine si sophistiquée, que toutes les ombres qui la contemplèrent lui vouent depuis une certaine affection.''"
+|"*Le Prince collectionneur de pierres précieuses commanda pour la Maison une fontaine si sophistiquée, que toutes les ombres qui la contemplèrent lui vouent depuis une certaine affection.*"
 |-
 ! colspan="2" |Inspect Cauldron 01
 |-
 |'''Storyteller'''
-|"''Les morts n’ont nullement besoin de nourriture ; néanmoins, ils cherchent encore à s'en procurer, comme si faire perdurer les habitudes de leur vie passée les aidait à trouver un semblant de paix.''"
+|"*Les morts n’ont nullement besoin de nourriture ; néanmoins, ils cherchent encore à s'en procurer, comme si faire perdurer les habitudes de leur vie passée les aidait à trouver un semblant de paix.*"
 |-
 ! colspan="2" |Inspect Kitchen Island
 |-
 |'''Storyteller'''
-|"''Malgré ses investissements considérables dans la cuisine de la Maison d’Hadès, Zagreus l’affamé n'y trouve toujours pas de quoi remplir son estomac.''"
+|"*Malgré ses investissements considérables dans la cuisine de la Maison d’Hadès, Zagreus l’affamé n'y trouve toujours pas de quoi remplir son estomac.*"
 |-
 ! colspan="2" |Inspect Poet Bust 01
 |-
 |'''Storyteller'''
-|"''Au sein de la galerie de la Maison repose à présent le buste d'un poète remarquable et à la beauté sauvage dans sa vieillesse, qui sera probablement plus connu un jour, quand son heure de gloire aura sonné.''"
+|"*Au sein de la galerie de la Maison repose à présent le buste d'un poète remarquable et à la beauté sauvage dans sa vieillesse, qui sera probablement plus connu un jour, quand son heure de gloire aura sonné.*"
 |-
 ! colspan="2" |Inspect Asphodel Statue 01
 |-
 |'''Storyteller'''
-|"''L'effigie terrifiante d'un guerrier Décharné décore maintenant le couloir pour toujours, en hommage éternel aux féroces serviteurs du seigneur de cette Maison.''"
+|"*L'effigie terrifiante d'un guerrier Décharné décore maintenant le couloir pour toujours, en hommage éternel aux féroces serviteurs du seigneur de cette Maison.*"
 |-
 ! colspan="2" |Inspect Warrior Statue 01
 |-
 |'''Storyteller'''
-|"''Le physique parfaitement sculpté de l'un des plus grands héros de Grèce décore maintenant la galerie de la Maison, rappelant à la plupart des curieux de bien des aspects dans lesquels ils ne font que piètre figure.''"
+|"*Le physique parfaitement sculpté de l'un des plus grands héros de Grèce décore maintenant la galerie de la Maison, rappelant à la plupart des curieux de bien des aspects dans lesquels ils ne font que piètre figure.*"
 |-
 ! colspan="2" |Inspect Main Hall Fireplace 01
 |-
 |'''Storyteller'''
-|"''La lumière émise par les flammes des Enfers baigne le salon d'une douce lueur, et leur chaleur apaise les quelques habitués de l'endroit.''"
+|"*La lumière émise par les flammes des Enfers baigne le salon d'une douce lueur, et leur chaleur apaise les quelques habitués de l'endroit.*"
 |-
 ! colspan="2" |Inspect Sundial 01
 |-
 |'''Storyteller'''
-|"''Le temps semble incapable de suivre son cours dans le royaume éternel des morts, comme l'indiquent les divers instruments servant à mesurer son passage.''"
+|"*Le temps semble incapable de suivre son cours dans le royaume éternel des morts, comme l'indiquent les divers instruments servant à mesurer son passage.*"
 |-
 ! colspan="2" |Flashback Mother 01
 |-
 |'''Storyteller'''
-|"''Nous sommes au beau milieu de la nuit, ou de ce qui s’en rapproche le plus dans le royaume d’Hadès. Le Prince des Enfers, Zagreus, se réveille d’un sommeil agité, avec de la malice plein les idées.''"
+|"*Nous sommes au beau milieu de la nuit, ou de ce qui s’en rapproche le plus dans le royaume d’Hadès. Le Prince des Enfers, Zagreus, se réveille d’un sommeil agité, avec de la malice plein les idées.*"
 |-
 ! colspan="2" |Flashback Day Night Job 01
 |-
 |'''Storyteller'''
-|"''Le Prince des Enfers au sommeil lourd s'éveille, avec le sentiment que la brève sieste qu'il s'était accordée pour se reposer des rigueurs du jour ou de la nuit ne fut en définitive pas si brève que cela...''"
+|"*Le Prince des Enfers au sommeil lourd s'éveille, avec le sentiment que la brève sieste qu'il s'était accordée pour se reposer des rigueurs du jour ou de la nuit ne fut en définitive pas si brève que cela...*"
 |-
 ! colspan="2" |Inspect Bedroom 01
 |-
 |'''Storyteller'''
-|"''Les appartements du Prince Zagreus sont dans un capharnaüm perpétuel, et ce malgré les demandes insistantes et répétées du Seigneur et Maître de la Maison d’y mettre de l’ordre.''"
+|"*Les appartements du Prince Zagreus sont dans un capharnaüm perpétuel, et ce malgré les demandes insistantes et répétées du Seigneur et Maître de la Maison d’y mettre de l’ordre.*"
 |-
 ! colspan="2" |Inspect Bedroom Trojan Arms
 |-
 |'''Storyteller'''
-|"''Les armes brisées du siège d’Ilion ne sont désormais plus que de simples éléments de décoration au milieu du désordre perpétuel régnant dans les appartements du Prince.''"
+|"*Les armes brisées du siège d’Ilion ne sont désormais plus que de simples éléments de décoration au milieu du désordre perpétuel régnant dans les appartements du Prince.*"
 |-
 ! colspan="2" |Inspect Bedroom Achilles Poster
 |-
 |'''Storyteller'''
-|"''La bravoure d'Achille, le héros impavide, est immortalisée sur les murs du Prince, comme pour inspirer quelque courage.''"
+|"*La bravoure d'Achille, le héros impavide, est immortalisée sur les murs du Prince, comme pour inspirer quelque courage.*"
 |-
 ! colspan="2" |Inspect Bedroom Aphrodite Poster
 |-
 |'''Storyteller'''
-|"''Le visage de la déesse Aphrodite orne désormais les appartements du Prince, peut-être pour lui procurer un certain réconfort la prochaine fois qu'il trouvera la mort.''"
+|"*Le visage de la déesse Aphrodite orne désormais les appartements du Prince, peut-être pour lui procurer un certain réconfort la prochaine fois qu'il trouvera la mort.*"
 |-
 ! colspan="2" |Inspect Bedroom Dionysus Poster
 |-
 |'''Storyteller'''
-|"''Le visage toujours souriant et aviné du grand Seigneur Dionysos orne désormais un des murs de la chambre du Prince, exerçant sur lui une influence plus que douteuse.''"
+|"*Le visage toujours souriant et aviné du grand Seigneur Dionysos orne désormais un des murs de la chambre du Prince, exerçant sur lui une influence plus que douteuse.*"
 |-
 ! colspan="2" |Inspect Bedroom Scrying Pool
 |-
 |'''Storyteller'''
-|"''Une coupe joliment décorée, contenant des traces des tentatives d'évasion des Enfers ratées du Prince, orne désormais un coin particulièrement surchargé de sa chambre.''"
+|"*Une coupe joliment décorée, contenant des traces des tentatives d'évasion des Enfers ratées du Prince, orne désormais un coin particulièrement surchargé de sa chambre.*"
 |-
 ! colspan="2" |Inspect Bedroom Lyre
 |-
 |'''Storyteller'''
-|"''Un instrument de musique délicatement ouvragé trône désormais dans la chambre du Prince bruyant, redoutant sans aucun doute, si cela lui était possible, son doigté maladroit.''"
+|"*Un instrument de musique délicatement ouvragé trône désormais dans la chambre du Prince bruyant, redoutant sans aucun doute, si cela lui était possible, son doigté maladroit.*"
 |-
 ! colspan="2" |Inspect Bedroom Gaming Table 01
 |-
 |'''Storyteller'''
-|"''Un objet soigneusement sculpté à des fins récréatives trône à présent dans la chambre du Prince avide de divertissement, mais son utilité s'en trouve réduite par le manque d'adversaires à affronter.''"
+|"*Un objet soigneusement sculpté à des fins récréatives trône à présent dans la chambre du Prince avide de divertissement, mais son utilité s'en trouve réduite par le manque d'adversaires à affronter.*"
 |-
 ! colspan="2" |Inspect Bedroom Rug 01
 |-
 |'''Storyteller'''
-|"''La douceur du tapis soigneusement tissé que le Prince s'est procuré ne peut être pleinement appréciée par ses pieds enflammés.''"
+|"*La douceur du tapis soigneusement tissé que le Prince s'est procuré ne peut être pleinement appréciée par ses pieds enflammés.*"
 |-
 ! colspan="2" |Inspect Bedroom Fancy Bed
 |-
 |'''Storyteller'''
-|"''Avec la perfection de son moelleux et ses broderies funèbres, la nouvelle literie du Prince Zagreus est le rêve de toute âme désirant reposer en paix.''"
+|"*Avec la perfection de son moelleux et ses broderies funèbres, la nouvelle literie du Prince Zagreus est le rêve de toute âme désirant reposer en paix.*"
 |-
 ! colspan="2" |Inspect Bedroom Couch 01
 |-
 |'''Storyteller'''
-|"''Le Prince débordant d'énergie demeure hélas incapable de rester tranquille, même avec un siège aussi souple et confortable dans ses appartements.''"
+|"*Le Prince débordant d'énergie demeure hélas incapable de rester tranquille, même avec un siège aussi souple et confortable dans ses appartements.*"
 |-
 ! colspan="2" |Inspect Bedroom Weights 01
 |-
 |'''Storyteller'''
-|"''Un assortiment d'haltères imposants soigneusement placés à la vue de tous fera certainement croire que le Prince est bien plus fort et en bien meilleure forme qu'il ne l'est réellement.''"
+|"*Un assortiment d'haltères imposants soigneusement placés à la vue de tous fera certainement croire que le Prince est bien plus fort et en bien meilleure forme qu'il ne l'est réellement.*"
 |-
 ! colspan="2" |Inspect Bedroom Quest Log
 |-
 |'''Storyteller'''
-|"''Le prince encouragé par le destin pense s’être procuré la Liste Destinée des Prophéties Mineures par sa propre volonté, mais il n’en est rien.''"
+|"*Le prince encouragé par le destin pense s’être procuré la Liste Destinée des Prophéties Mineures par sa propre volonté, mais il n’en est rien.*"
 |-
 ! colspan="2" |Flashback 01
 |-
 |'''Storyteller'''
-|"''Tout est calme à cette heure : Hypnos, éternel rêveur, a lancé un sort sur la Maison, comme le lui a demandé l’obstiné Zagreus. Tous dorment à poings fermés, à l’exception du prince. Tout se passe comme il l'a prévu.''"
+|"*Tout est calme à cette heure : Hypnos, éternel rêveur, a lancé un sort sur la Maison, comme le lui a demandé l’obstiné Zagreus. Tous dorment à poings fermés, à l’exception du prince. Tout se passe comme il l'a prévu.*"
 |-
 ! colspan="2" |Inspect Death Area Bedroom Hades Portrait 01
 |-
 |'''Storyteller'''
-|"''Au sein des appartements très privés de son père, Zagreus l'indiscret découvre un portrait finement exécuté de Perséphone elle-même. La couche de poussière qui le recouvre suggère qu'il est ici depuis un certain temps.''"
+|"*Au sein des appartements très privés de son père, Zagreus l'indiscret découvre un portrait finement exécuté de Perséphone elle-même. La couche de poussière qui le recouvre suggère qu'il est ici depuis un certain temps.*"
 |-
 ! colspan="2" |Inspect Death Area Bedroom Hades Capes 01
 |-
 |'''Storyteller'''
-|"''La richesse du Seigneur et Maître de la Maison dépasse l'entendement. Une infime partie de sa fortune a servi à acheter une somptueuse tenue pour chaque jour qui passe.''"
+|"*La richesse du Seigneur et Maître de la Maison dépasse l'entendement. Une infime partie de sa fortune a servi à acheter une somptueuse tenue pour chaque jour qui passe.*"
 |-
 ! colspan="2" |Inspect Death Area Office Teleporter 01
 |-
 |'''Storyteller'''
-|"''Tout au fond de la chambre administrative se trouve le Sceau Ancestral de la Maison du Maître : un symbole de l'autorité conférée par le destin de régner sous la terre, et un moyen de voyager partout dans ce domaine de ténèbres.''"
+|"*Tout au fond de la chambre administrative se trouve le Sceau Ancestral de la Maison du Maître : un symbole de l'autorité conférée par le destin de régner sous la terre, et un moyen de voyager partout dans ce domaine de ténèbres.*"
 |-
 ! colspan="2" |Inspect Death Area Office Water Cooler 01
 |-
 |'''Storyteller'''
-|"''Les eaux fraîches et purifiées du Styx sont disponibles en accès illimité pour tous les serviteurs du dieu des morts autorisés à travailler sans relâche dans la chambre administrative de la Maison.''"
+|"*Les eaux fraîches et purifiées du Styx sont disponibles en accès illimité pour tous les serviteurs du dieu des morts autorisés à travailler sans relâche dans la chambre administrative de la Maison.*"
 |-
 ! colspan="2" |Inspect Death Area Office Poster 01
 |-
 |'''Storyteller'''
-|"''Les ombres travaillant sans relâche au sein de la chambre administrative restent entièrement dévouées à leur tâche ingrate, considérant que le dévouement dont elles doivent faire preuve passe par un abandon total.''"
+|"*Les ombres travaillant sans relâche au sein de la chambre administrative restent entièrement dévouées à leur tâche ingrate, considérant que le dévouement dont elles doivent faire preuve passe par un abandon total.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 01
 |-
 |'''Storyteller'''
-|"''Parmi les archives des morts se trouvent des documents scellés intitulés « Sentence du Roi Déchu », lesquels forcent ledit roi à pousser un rocher en haut d'une colline jusqu'à la fin des temps.''"
+|"*Parmi les archives des morts se trouvent des documents scellés intitulés « Sentence du Roi Déchu », lesquels forcent ledit roi à pousser un rocher en haut d'une colline jusqu'à la fin des temps.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 02
 |-
 |'''Storyteller'''
-|"''Niché dans la montagne de parchemins administratifs des défunts de longue date, se trouve un vieux document traitant d'un pacte spécial signé par un musicien de cour qui tenta autrefois, en vain, de sauver son épouse de la mort.''"
+|"*Niché dans la montagne de parchemins administratifs des défunts de longue date, se trouve un vieux document traitant d'un pacte spécial signé par un musicien de cour qui tenta autrefois, en vain, de sauver son épouse de la mort.*"
 |-
 ! colspan="2" |Inspect Death Area Office Sealed Contract 03
 |-
 |'''Storyteller'''
-|"''Enfoui au fin fond des archives, dont les étagères regorgent de pactes établis entre le Seigneur Hadès et les défunts, se trouve un accord ancien ; les services d'un guerrier exceptionnel, en échange d'une éternité à l’Élysée pour son partenaire bien-aimé.''"
+|"*Enfoui au fin fond des archives, dont les étagères regorgent de pactes établis entre le Seigneur Hadès et les défunts, se trouve un accord ancien ; les services d'un guerrier exceptionnel, en échange d'une éternité à l’Élysée pour son partenaire bien-aimé.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 01
 |-
 |'''Storyteller'''
-|"''Les tâches du jour ou de la nuit sont d'une simplicité absolue ; du moins à première vue, comme quand le Prince s'enregistre simplement pour signifier le début de son service.''"
+|"*Les tâches du jour ou de la nuit sont d'une simplicité absolue ; du moins à première vue, comme quand le Prince s'enregistre simplement pour signifier le début de son service.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 02
 |-
 |'''Storyteller'''
-|"''Le Prince inepte tente de trier la multitude de registres comptables de sorte à assurer une gestion efficace du royaume de son père.''"
+|"*Le Prince inepte tente de trier la multitude de registres comptables de sorte à assurer une gestion efficace du royaume de son père.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 03
 |-
 |'''Storyteller'''
-|"''Les efforts déployés par le Prince inexpérimenté pour approuver les modalités de diverses sentences laissent finalement beaucoup à désirer.''"
+|"*Les efforts déployés par le Prince inexpérimenté pour approuver les modalités de diverses sentences laissent finalement beaucoup à désirer.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 04
 |-
 |'''Storyteller'''
-|"''Les ombres laborieuses responsables de l'administration du royaume se contentent d'observer les efforts maladroits du Prince.''"
+|"*Les ombres laborieuses responsables de l'administration du royaume se contentent d'observer les efforts maladroits du Prince.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 05
 |-
 |'''Storyteller'''
-|"''Le Prince amateur de relaxation n'a jamais prêté suffisamment d'attention à ce qui lui a été appris pour organiser correctement les archives des diverses régions du royaume de son père.''"
+|"*Le Prince amateur de relaxation n'a jamais prêté suffisamment d'attention à ce qui lui a été appris pour organiser correctement les archives des diverses régions du royaume de son père.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 06
 |-
 |'''Storyteller'''
-|"''Ces tâches particulières sont facilement accomplies, du moins par quelqu'un de compétent et formé au travail, ce qui n'est pas le cas du Prince des Enfers aisément distrait.''"
+|"*Ces tâches particulières sont facilement accomplies, du moins par quelqu'un de compétent et formé au travail, ce qui n'est pas le cas du Prince des Enfers aisément distrait.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 07
 |-
 |'''Storyteller'''
-|"''Un archivage minutieux de toutes les dépenses réalisées au sein de la Maison doit être effectué en permanence. Ce processus de tabulation demande beaucoup de finesse ; de ce fait, le Prince n'est pas tout à fait apte à en accepter la charge.''"
+|"*Un archivage minutieux de toutes les dépenses réalisées au sein de la Maison doit être effectué en permanence. Ce processus de tabulation demande beaucoup de finesse ; de ce fait, le Prince n'est pas tout à fait apte à en accepter la charge.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 08
 |-
 |'''Storyteller'''
-|"''La tenue régulière d'un registre des revenus de la Maison, sous forme de gemmes brillantes, diamants, Obsidiennes et autres objets précieux, fait partie des aspects de son travail que le Prince apprécie le moins.''"
+|"*La tenue régulière d'un registre des revenus de la Maison, sous forme de gemmes brillantes, diamants, Obsidiennes et autres objets précieux, fait partie des aspects de son travail que le Prince apprécie le moins.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 09
 |-
 |'''Storyteller'''
-|"''Des archives de rénovations expirées du Contremaître recouvrent un bureau de la chambre administrative, mais actuellement, le Prince n'a absolument aucun désir de les organiser par ordre alphabétique et chronologique.''"
+|"*Des archives de rénovations expirées du Contremaître recouvrent un bureau de la chambre administrative, mais actuellement, le Prince n'a absolument aucun désir de les organiser par ordre alphabétique et chronologique.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 10
 |-
 |'''Storyteller'''
-|"''Le registre de présence des ombres qui s'échinent pour la Maison doit être vérifié, et l'indemnisation desdites ombres doit être rapidement approuvée... mais le Prince ne parvient pas à se rappeler toutes les étapes nécessaires au bon déroulement de cette tâche.''"
+|"*Le registre de présence des ombres qui s'échinent pour la Maison doit être vérifié, et l'indemnisation desdites ombres doit être rapidement approuvée... mais le Prince ne parvient pas à se rappeler toutes les étapes nécessaires au bon déroulement de cette tâche.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 11
 |-
 |'''Storyteller'''
-|"''Prince Zagreus le désordonné contemple les immenses piles de parchemins, lesquels contiennent diverses informations à enregistrer et à organiser avec minutie, et commence à voir son optimisme faiblir.''"
+|"*Prince Zagreus le désordonné contemple les immenses piles de parchemins, lesquels contiennent diverses informations à enregistrer et à organiser avec minutie, et commence à voir son optimisme faiblir.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 12
 |-
 |'''Storyteller'''
-|"''Le Prince Zagreus a certainement des tâches qu'il affectionne particulièrement dans la chambre administrative de la Maison ; mais celles demandant actuellement son attention n'en font manifestement pas partie.''"
+|"*Le Prince Zagreus a certainement des tâches qu'il affectionne particulièrement dans la chambre administrative de la Maison ; mais celles demandant actuellement son attention n'en font manifestement pas partie.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 13
 |-
 |'''Storyteller'''
-|"''L'étude des listes de doléances des ombres est une tâche très importante ; du moins, c'est ce que le Seigneur Hadès a autrefois essayé de faire comprendre à son fils obstiné.''"
+|"*L'étude des listes de doléances des ombres est une tâche très importante ; du moins, c'est ce que le Seigneur Hadès a autrefois essayé de faire comprendre à son fils obstiné.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 14
 |-
 |'''Storyteller'''
-|"''Une litanie de doléances soumises par des ombres tourmentées aux quatre coins des Enfers doit être évaluée, organisée et traitée, mais le Prince Zagreus ne sait même pas par où commencer.''"
+|"*Une litanie de doléances soumises par des ombres tourmentées aux quatre coins des Enfers doit être évaluée, organisée et traitée, mais le Prince Zagreus ne sait même pas par où commencer.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 15
 |-
 |'''Storyteller'''
-|"''Les fournitures de l'ensemble des bureaux de la chambre administrative doivent être entretenues avec précaution et soigneusement rangées d'une façon bien particulière, que le prince étourdi n'a pas encore tout à fait mémorisée.''"
+|"*Les fournitures de l'ensemble des bureaux de la chambre administrative doivent être entretenues avec précaution et soigneusement rangées d'une façon bien particulière, que le prince étourdi n'a pas encore tout à fait mémorisée.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office 16
 |-
 |'''Storyteller'''
-|"''Des rapports de sécurité détaillant des tentatives d'évasion ratées du Tartare requièrent une vérification dans les plus brefs délais ainsi qu'une réponse officielle, choses que le prince Zagreus est incapable d'effectuer lui-même.''"
+|"*Des rapports de sécurité détaillant des tentatives d'évasion ratées du Tartare requièrent une vérification dans les plus brefs délais ainsi qu'une réponse officielle, choses que le prince Zagreus est incapable d'effectuer lui-même.*"
 |-
 ! colspan="2" |Flashback Day Night Job Office Conclusion 01
 |-
 |'''Storyteller'''
-|"''Enfin, le Prince, dont l'aversion pour le travail est forte, élabore un rapport sur les résultats de ses tentatives d'être d'une quelconque utilité dans l'administration de la Maison de son sombre père.''"
+|"*Enfin, le Prince, dont l'aversion pour le travail est forte, élabore un rapport sur les résultats de ses tentatives d'être d'une quelconque utilité dans l'administration de la Maison de son sombre père.*"
 |-
 ! colspan="2" |Inspect Pre Run 01
 |-
 |'''Storyteller'''
-|"''La cour de la Maison d’Hadès est toujours en ordre et régulièrement entretenue, contrairement aux régions terrifiantes qui s’étendent au loin.''"
+|"*La cour de la Maison d’Hadès est toujours en ordre et régulièrement entretenue, contrairement aux régions terrifiantes qui s’étendent au loin.*"
 |-
 ! colspan="2" |Minotaur Autograph 01
 |-
 |'''Minotaur'''
-|"''Ah'', je sens qu’un autre combat féroce nous attend, minus. Mais on dirait que tu as quelque chose à me demander..."
+|"*Ah*, je sens qu’un autre combat féroce nous attend, minus. Mais on dirait que tu as quelque chose à me demander..."
 |-
 |'''Zagreus'''
-|"''Euhh'', oh ! C’est juste que j’ai une demande un peu spéciale. Tu connais Hypnos, le dieu du sommeil ? C'est un de mes collègues. Un grand fan. Il voudrait avoir un autographe de ta part, genre, un petit message personnalisé. Tu pourrais faire ça pour moi ? Ça lui ferait tellement plaisir."
+|"*Euhh*, oh ! C’est juste que j’ai une demande un peu spéciale. Tu connais Hypnos, le dieu du sommeil ? C'est un de mes collègues. Un grand fan. Il voudrait avoir un autographe de ta part, genre, un petit message personnalisé. Tu pourrais faire ça pour moi ? Ça lui ferait tellement plaisir."
 |-
 |'''Minotaur'''
 |"Un autographe. Je vois. Il y a donc des dieux qui m’apprécient. Dans ce cas, je vais dédicacer un morceau de parchemin pour ton collègue. Un instant."
 |-
 |'''Storyteller'''
-|"''Le Minotaure inscrit alors un bref message à l'attention du dieu du sommeil sur un parchemin, qu'il remit ensuite au Prince.''"
+|"*Le Minotaure inscrit alors un bref message à l'attention du dieu du sommeil sur un parchemin, qu'il remit ensuite au Prince.*"
 |-
 |'''Minotaur'''
 |"Sache, minus, que c’est à toi que j’accorde cette faveur, et non à Hypnos. Cela dit, il peut venir me défier ici lui-même à tout moment."
@@ -383,7 +383,7 @@
 |"Ça alors, je n’en crois pas mes yeux ! Est-ce bien toi, fils ?! Cerbère, regarde qui est de retour !"
 |-
 |'''Storyteller'''
-|"''Cerbère regarde le Prince d’un air triste.''"
+|"*Cerbère regarde le Prince d’un air triste.*"
 |-
 |'''Zagreus'''
 |"Pas la peine de mêler le chien à tout ça, Père."
@@ -394,7 +394,7 @@
 ! colspan="2" |Cerberus Misc Meeting 01
 |-
 |'''Storyteller'''
-|"''Cerbère, le molosse gardien des Enfers, éprouve diverses émotions en regardant le Prince, allant de la joie la plus pure à la mélancolie la plus profonde.''"
+|"*Cerbère, le molosse gardien des Enfers, éprouve diverses émotions en regardant le Prince, allant de la joie la plus pure à la mélancolie la plus profonde.*"
 |-
 |'''Zagreus'''
 |"Surveille les lieux pour moi, d’accord, mon chien ? Tu sais que je t’emmènerais avec moi, si je pouvais."
@@ -405,7 +405,7 @@
 |"Comment tu te sens, mon chien, tu manges bien ces derniers temps ? Tes trois gueules sont bien remplies, bien contentes ?"
 |-
 |'''Storyteller'''
-|"''Chacune des trois terrifiantes gueules du gardien des Enfers répond affirmativement, l’une après l’autre, comme si pour rassurer le Prince inquiet.''"
+|"*Chacune des trois terrifiantes gueules du gardien des Enfers répond affirmativement, l’une après l’autre, comme si pour rassurer le Prince inquiet.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 03
 |-
@@ -413,7 +413,7 @@
 |"Ne t'inquiète pas, mon chien. Je serai sûrement très vite de retour ici."
 |-
 |'''Storyteller'''
-|"''Le chien de garde Cerbère se contente de bouder sur son tapis.''"
+|"*Le chien de garde Cerbère se contente de bouder sur son tapis.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 04
 |-
@@ -421,7 +421,7 @@
 |"Garde un œil sur Père pour moi, mon chien. Ne le laisse pas gâcher l’humeur de tout le monde."
 |-
 |'''Storyteller'''
-|"''À sa manière, Cerbère promet d’obéir.''"
+|"*À sa manière, Cerbère promet d’obéir.*"
 |-
 ! colspan="2" |Cerberus Misc Meeting 05
 |-
@@ -429,7 +429,7 @@
 |"Comment ça va, mon chien ? Qu’est-ce que tu racontes de beau ?"
 |-
 |'''Storyteller'''
-|"''La question innocente du Prince des Enfers ne fait que frustrer le molosse infernal, car aucune de ses trois gueules n’est dotée de la parole.''"
+|"*La question innocente du Prince des Enfers ne fait que frustrer le molosse infernal, car aucune de ses trois gueules n’est dotée de la parole.*"
 |-
 ! colspan="2" |Cerberus Run Progress 01
 |-
@@ -437,7 +437,7 @@
 |"Salut, mon chien, c’est encore moi. Je suis venu te dire que c’est plutôt dangereux dehors, même quand tu n'es pas là-bas à monter la garde tout le temps."
 |-
 |'''Storyteller'''
-|"''Le vénérable molosse infernal, parfaitement conscient du fait que les Enfers ne sont plus aussi bien gardés que par le passé, ne prête que peu d'attention aux douces platitudes du Prince.''"
+|"*Le vénérable molosse infernal, parfaitement conscient du fait que les Enfers ne sont plus aussi bien gardés que par le passé, ne prête que peu d'attention aux douces platitudes du Prince.*"
 |-
 ! colspan="2" |Cerberus Run Progress 02
 |-
@@ -445,7 +445,7 @@
 |"Devine quoi, mon chien ? J’ai réussi à aller jusqu’à l’Asphodèle la dernière fois ! Je comprends très bien maintenant pourquoi tu n'aimes pas cet endroit. Bon, eh bien, j’y retourne. Prends soin de toi !"
 |-
 |'''Storyteller'''
-|"''Malgré l'optimisme du Prince des Enfers, son vieux compagnon Cerbère, le molosse à trois têtes, demeure d'une humeur quelque peu maussade.''"
+|"*Malgré l'optimisme du Prince des Enfers, son vieux compagnon Cerbère, le molosse à trois têtes, demeure d'une humeur quelque peu maussade.*"
 |-
 ! colspan="2" |Cerberus Run Progress 03
 |-
@@ -453,7 +453,7 @@
 |"Ça fait du bien de te retrouver à la maison, mon chien. Je suis content de voir que tu montes à nouveau la garde ! Même si ça veut dire que je vais devoir m'arranger pour que tu me laisses passer. Je sais que tu ne fais que ton travail."
 |-
 |'''Storyteller'''
-|"''Les six yeux terrifiants du molosse, tous brillants dans la faible lumière de la Maison, observent le Prince des Enfers avec une certaine appréhension.''"
+|"*Les six yeux terrifiants du molosse, tous brillants dans la faible lumière de la Maison, observent le Prince des Enfers avec une certaine appréhension.*"
 |-
 ! colspan="2" |Cerberus About Fast Travel 01
 |-
@@ -461,7 +461,7 @@
 |"J'espère que je ne t'embête pas trop avec toutes mes allées et venues au Temple, mon chien. Au fait, tu rentres comment ? C'est Charon qui te dépose ici ?"
 |-
 |'''Storyteller'''
-|"''Ainsi s'adresse le Prince au gardien des Enfers, sachant très bien que le canidé tricéphale garde autant que possible ses distances avec le batelier, comme tout un chacun.''"
+|"*Ainsi s'adresse le Prince au gardien des Enfers, sachant très bien que le canidé tricéphale garde autant que possible ses distances avec le batelier, comme tout un chacun.*"
 |-
 ! colspan="2" |Cerberus About Ball 01
 |-
@@ -469,7 +469,7 @@
 |"Ça te plaît de contempler la balle que je t'ai trouvée, mon chien ? J'imagine que ce n'est pas drôle si elle ne se défend pas, hein..."
 |-
 |'''Storyteller'''
-|"''Le monstre tricéphale ne ressent pas le besoin de consacrer son temps précieux à de simples jouets, préférant conserver ses vastes réserves d'énergie pour poursuivre et dévorer d'éventuels intrus.''"
+|"*Le monstre tricéphale ne ressent pas le besoin de consacrer son temps précieux à de simples jouets, préférant conserver ses vastes réserves d'énergie pour poursuivre et dévorer d'éventuels intrus.*"
 |-
 ! colspan="2" |Cerberus Lounge Closed 01
 |-
@@ -477,7 +477,7 @@
 |"C'est vraiment toi qui as saccagé le salon, mon chien ? J’espère que tu ne t’es pas attiré trop d’ennuis. Je suis désolé de t’avoir inquiété comme ça."
 |-
 |'''Storyteller'''
-|"''Le monstrueux Cerbère, rongé par le remords, reconnaît être l'auteur du crime et regrette d’avoir fait culpabiliser le Prince incendiaire.''"
+|"*Le monstrueux Cerbère, rongé par le remords, reconnaît être l'auteur du crime et regrette d’avoir fait culpabiliser le Prince incendiaire.*"
 |-
 ! colspan="2" |Cerberus Lounge Open 01
 |-
@@ -485,7 +485,7 @@
 |"Hé, tu as vu, mon chien ? Le salon a été refait à neuf, tu devrais aller y jeter un œil ! Juste, évite de le réduire en miettes comme la dernière fois."
 |-
 |'''Storyteller'''
-|"''L’instinct sauvage de Cerbère s’éveille devant ces propos, alors qu’il commence certainement à imaginer des stratagèmes pour rééditer l’exploit du saccage du salon.''"
+|"*L’instinct sauvage de Cerbère s’éveille devant ces propos, alors qu’il commence certainement à imaginer des stratagèmes pour rééditer l’exploit du saccage du salon.*"
 |-
 ! colspan="2" |Cerberus About Underworld Renovations 01
 |-
@@ -493,7 +493,7 @@
 |"Salut, mon chien. J'espère que tous ces travaux et autres rénovations ne te dérangent pas trop. Ne t'inquiète pas, le salon sera bientôt prêt à être complètement ravagé une nouvelle fois !"
 |-
 |'''Storyteller'''
-|"''Le prince Zagreus inspire à l'influençable et vicieux gardien des Enfers un nouvel appétit de destruction, qu'il n'assouvira que lors d'un autre âge.''"
+|"*Le prince Zagreus inspire à l'influençable et vicieux gardien des Enfers un nouvel appétit de destruction, qu'il n'assouvira que lors d'un autre âge.*"
 |-
 ! colspan="2" |Cerberus About Being Best Boy 01
 |-
@@ -501,7 +501,7 @@
 |"Tu sais, ça m'aide vraiment à retrouver le moral de caresser mon bon chien après m'être fait tuer lamentablement. Merci d'être là pour moi."
 |-
 |'''Storyteller'''
-|"''Le regard embrasé du monstrueux Cerbère, célèbre molosse des Enfers, révèle que lui aussi est sensible aux caresses dont parle le Prince, et qu'il lui est reconnaissant de leur abondance.''"
+|"*Le regard embrasé du monstrueux Cerbère, célèbre molosse des Enfers, révèle que lui aussi est sensible aux caresses dont parle le Prince, et qu'il lui est reconnaissant de leur abondance.*"
 |-
 ! colspan="2" |Cerberus About Persephone 01
 |-
@@ -509,7 +509,7 @@
 |"Je l'ai trouvée, mon chien ! Ma mère ! Perséphone, tu te souviens d'elle, pas vrai ? Elle était tellement contente d'avoir de tes nouvelles. Mais je n'ai pas pu rester là-haut très longtemps, et je dois retourner la voir, alors... on se revoit au Temple ?"
 |-
 |'''Storyteller'''
-|"''Les traits morbides du chien des Enfers si redouté se détendent soudain lorsqu'il entend un certain nom. Il trouve un apaisement momentané.''"
+|"*Les traits morbides du chien des Enfers si redouté se détendent soudain lorsqu'il entend un certain nom. Il trouve un apaisement momentané.*"
 |-
 ! colspan="2" |Cerberus Post Ending 01
 |-
@@ -517,7 +517,7 @@
 |"Regarde-toi, mon chien ! Je ne t'ai jamais vu d'humeur aussi légère. Enfin, pour un grand gaillard pareil, c'est une façon de parler, bien sûr. Mère a dû te manquer autant que tu lui as manqué. Vous avez tout le temps de vous retrouver, désormais !"
 |-
 |'''Storyteller'''
-|"''La monstrueuse bête tricéphale d'Hadès se laisserait peut-être envahir par la joie contagieuse des circonstances si elle en était capable.''"
+|"*La monstrueuse bête tricéphale d'Hadès se laisserait peut-être envahir par la joie contagieuse des circonstances si elle en était capable.*"
 |-
 ! colspan="2" |Cerberus Post Ending 02
 |-
@@ -525,7 +525,7 @@
 |"Je parie que tu es content que Mère soit de retour, hein, mon chien ? Si seulement tu avais pu me parler d'elle avant."
 |-
 |'''Storyteller'''
-|"''Le monstre de l'enfer Cerbère ignore superbement la remarque perçante et inconsidérée du Prince.''"
+|"*Le monstre de l'enfer Cerbère ignore superbement la remarque perçante et inconsidérée du Prince.*"
 |-
 ! colspan="2" |Cerberus Extreme Measures Reaction 01
 |-
@@ -533,7 +533,7 @@
 |"Oomph, tu m'as flanqué une bonne leçon, mon chien. Tu sais, avec Père, à la surface ? Je sais que tu ne faisais que jouer, mais... vas-y plus doucement la prochaine fois, d'accord ?"
 |-
 |'''Storyteller'''
-|"''L'impénitent monstre Cerbère est incapable de la moindre retenue ou du moindre remords.''"
+|"*L'impénitent monstre Cerbère est incapable de la moindre retenue ou du moindre remords.*"
 |-
 ! colspan="2" |Cerberus Post Epilogue 01
 |-
@@ -541,142 +541,142 @@
 |"On est tous très fiers de toi, mon chien ! Tu t'es très bien tenu au festin. Et moi qui m'inquiétais qu'un oncle finisse par t'énerver, mais non, tu as été la patience incarnée. Merci d'avoir aidé le reste de la famille à passer un bon moment !"
 |-
 |'''Storyteller'''
-|"''Comment Cerbère, le molosse infernal, a pu conserver une attitude civilisée tout au long des festivités reste un mystère pour tous les convives.''"
+|"*Comment Cerbère, le molosse infernal, a pu conserver une attitude civilisée tout au long des festivités reste un mystère pour tous les convives.*"
 |-
 ! colspan="2" |Cerberus Chat 02
 |-
 |'''Storyteller'''
-|"''Cerbère et le Prince échangent un regard.''"
+|"*Cerbère et le Prince échangent un regard.*"
 |-
 ! colspan="2" |Cerberus Chat 03
 |-
 |'''Storyteller'''
-|"''Cerbère observe attentivement le Prince.''"
+|"*Cerbère observe attentivement le Prince.*"
 |-
 ! colspan="2" |Cerberus Chat 04
 |-
 |'''Storyteller'''
-|"''Cerbère ne souhaite pas être dérangé pour le moment.''"
+|"*Cerbère ne souhaite pas être dérangé pour le moment.*"
 |-
 ! colspan="2" |Cerberus Chat 05
 |-
 |'''Storyteller'''
-|"''Cerbère se repose confortablement, observant la situation.''"
+|"*Cerbère se repose confortablement, observant la situation.*"
 |-
 ! colspan="2" |Cerberus Chat 06
 |-
 |'''Storyteller'''
-|"''Comme toujours, Cerbère est allongé au pied du trône du Seigneur Hadès.''"
+|"*Comme toujours, Cerbère est allongé au pied du trône du Seigneur Hadès.*"
 |-
 ! colspan="2" |Cerberus Chat 07
 |-
 |'''Storyteller'''
-|"''Cerbère n’esquisse pas un geste.''"
+|"*Cerbère n’esquisse pas un geste.*"
 |-
 ! colspan="2" |Cerberus Chat 08
 |-
 |'''Storyteller'''
-|"''Cerbère cherche attentivement du regard une autre chose à ronger.''"
+|"*Cerbère cherche attentivement du regard une autre chose à ronger.*"
 |-
 ! colspan="2" |Cerberus Chat 09
 |-
 |'''Storyteller'''
-|"''Cerbère s’occupe de ses affaires, c’est-à-dire à ronger quelque chose.''"
+|"*Cerbère s’occupe de ses affaires, c’est-à-dire à ronger quelque chose.*"
 |-
 ! colspan="2" |Cerberus Chat 10
 |-
 |'''Storyteller'''
-|"''Cerbère est occupé à se gratter et à se mordre.''"
+|"*Cerbère est occupé à se gratter et à se mordre.*"
 |-
 ! colspan="2" |Cerberus Chat 11
 |-
 |'''Storyteller'''
-|"''Cerbère ne souhaite pas discuter pour le moment.''"
+|"*Cerbère ne souhaite pas discuter pour le moment.*"
 |-
 ! colspan="2" |Cerberus Chat 12
 |-
 |'''Storyteller'''
-|"''Le molosse infernal se repose tranquillement à son endroit préféré.''"
+|"*Le molosse infernal se repose tranquillement à son endroit préféré.*"
 |-
 ! colspan="2" |Cerberus Chat 13
 |-
 |'''Storyteller'''
-|"''Les trois gueules terrifiantes de Cerbère accueillent le Prince des Enfers.''"
+|"*Les trois gueules terrifiantes de Cerbère accueillent le Prince des Enfers.*"
 |-
 ! colspan="2" |Cerberus Chat 14
 |-
 |'''Storyteller'''
-|"''Le cruel chien de garde à trois gueules aboie brièvement en guise de bienvenue.''"
+|"*Le cruel chien de garde à trois gueules aboie brièvement en guise de bienvenue.*"
 |-
 ! colspan="2" |Cerberus Chat 15
 |-
 |'''Storyteller'''
-|"''Cerbère, toujours aussi fidèle, reste à sa place, dans un profond repos.''"
+|"*Cerbère, toujours aussi fidèle, reste à sa place, dans un profond repos.*"
 |-
 ! colspan="2" |Cerberus Chat 16
 |-
 |'''Storyteller'''
-|"''Le réputé cruel Cerbère regarde calmement la cour de son maître.''"
+|"*Le réputé cruel Cerbère regarde calmement la cour de son maître.*"
 |-
 ! colspan="2" |Cerberus Chat 17
 |-
 |'''Storyteller'''
-|"''L’une des effrayantes gueules de Cerbère est occupée à faire la toilette des deux autres.''"
+|"*L’une des effrayantes gueules de Cerbère est occupée à faire la toilette des deux autres.*"
 |-
 ! colspan="2" |Cerberus Chat 18
 |-
 |'''Storyteller'''
-|"''Cerbère le monstre à trois têtes est assis à son poste, fidèle comme toujours.''"
+|"*Cerbère le monstre à trois têtes est assis à son poste, fidèle comme toujours.*"
 |-
 ! colspan="2" |Cerberus Chat 19
 |-
 |'''Storyteller'''
-|"''Cerbère est occupé à penser à son prochain repas.''"
+|"*Cerbère est occupé à penser à son prochain repas.*"
 |-
 ! colspan="2" |Cerberus Chat 20
 |-
 |'''Storyteller'''
-|"''Cerbère salue le prince d’une affection tempérée par le temps.''"
+|"*Cerbère salue le prince d’une affection tempérée par le temps.*"
 |-
 ! colspan="2" |Cerberus Chat 21
 |-
 |'''Storyteller'''
-|"''Le molosse infernal montre ses dents aux innombrables Ombres rassemblées dans le hall.''"
+|"*Le molosse infernal montre ses dents aux innombrables Ombres rassemblées dans le hall.*"
 |-
 ! colspan="2" |Cerberus Chat 22
 |-
 |'''Storyteller'''
-|"''Le redoutable Cerbère lèche quelque chose au sol avec entrain.''"
+|"*Le redoutable Cerbère lèche quelque chose au sol avec entrain.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 01
 |-
 |'''Storyteller'''
-|"''Le molosse des Enfers ne prête que peu d'attention au Prince, étant rassasié pour l'heure.''"
+|"*Le molosse des Enfers ne prête que peu d'attention au Prince, étant rassasié pour l'heure.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 02
 |-
 |'''Storyteller'''
-|"''Cerbère, le redoutable chien tricéphale, fait pour l'heure preuve d'une certaine retenue.''"
+|"*Cerbère, le redoutable chien tricéphale, fait pour l'heure preuve d'une certaine retenue.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 03
 |-
 |'''Storyteller'''
-|"''Cerbère est trop occupé à profiter du luxe de son environnement quotidien pour prêter attention au Prince.''"
+|"*Cerbère est trop occupé à profiter du luxe de son environnement quotidien pour prêter attention au Prince.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 04
 |-
 |'''Storyteller'''
-|"''Le monstrueux Cerbère observe le hall avec vigilance depuis son tapis.''"
+|"*Le monstrueux Cerbère observe le hall avec vigilance depuis son tapis.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 05
 |-
 |'''Storyteller'''
-|"''Chacune des gueules de Cerbère salive à l'idée du repas qui approche.''"
+|"*Chacune des gueules de Cerbère salive à l'idée du repas qui approche.*"
 |-
 ! colspan="2" |Cerberus Chat Extra 06
 |-
 |'''Storyteller'''
-|"''Le terrifiant Cerbère est occupé à reprendre des forces pour lorsque viendra le moment de barrer la route au Prince.''"
+|"*Le terrifiant Cerbère est occupé à reprendre des forces pour lorsque viendra le moment de barrer la route au Prince.*"
 |-
 ! colspan="2" |Cerberus Gift 01
 |-
@@ -684,7 +684,7 @@
 |"Regarde ce que je t’ai trouvé, mon chien...!"
 |-
 |'''Storyteller'''
-|"''Tandis que l’une des gueules de Cerbère accueille le cadeau du Prince, une autre place quelque chose dans sa main.''"
+|"*Tandis que l’une des gueules de Cerbère accueille le cadeau du Prince, une autre place quelque chose dans sa main.*"
 |-
 ! colspan="2" |Cerberus Gift 02
 |-
@@ -692,7 +692,7 @@
 |"Ça, c’est un bon chien. Je savais que ça te plairait !"
 |-
 |'''Storyteller'''
-|"''Cerbère est ravi de recevoir une friandise aussi délicieuse.''"
+|"*Cerbère est ravi de recevoir une friandise aussi délicieuse.*"
 |-
 ! colspan="2" |Cerberus Gift 03
 |-
@@ -700,7 +700,7 @@
 |"Mon meilleur ami ne mérite que les meilleures friandises, hein, mon chien ?"
 |-
 |'''Storyteller'''
-|"''Cerbère jappe de joie à la réception du cadeau.''"
+|"*Cerbère jappe de joie à la réception du cadeau.*"
 |-
 ! colspan="2" |Cerberus Gift 04
 |-
@@ -708,7 +708,7 @@
 |"Ce n’est que mon humble devoir de satisfaire mon fidèle compagnon avec les meilleures friandises des Enfers."
 |-
 |'''Storyteller'''
-|"''C'est ainsi que, connaissant l’appétit insatiable du chien de garde pour les friandises, le Prince lui en offre une.''"
+|"*C'est ainsi que, connaissant l’appétit insatiable du chien de garde pour les friandises, le Prince lui en offre une.*"
 |-
 ! colspan="2" |Cerberus Gift 05
 |-
@@ -716,7 +716,7 @@
 |"Tu aimes bien ça, hein mon chien ? Tant mieux, parce que j'aime bien t'en refiler en douce !"
 |-
 |'''Storyteller'''
-|"''Le goût délectable du Nectar suffit à rassasier brièvement l'appétit féroce du molosse des Enfers.''"
+|"*Le goût délectable du Nectar suffit à rassasier brièvement l'appétit féroce du molosse des Enfers.*"
 |-
 ! colspan="2" |Cerberus Gift 06
 |-
@@ -724,7 +724,7 @@
 |"Ce nectar n'est pas assez bon pour toi, mon chien ? Tu as un palais bien délicat pour une créature de ton âge !"
 |-
 |'''Storyteller'''
-|"''Bien qu'ayant peu d'appétit à accorder au divin nectar, le monstre tricéphale se laisse néanmoins tenter.''"
+|"*Bien qu'ayant peu d'appétit à accorder au divin nectar, le monstre tricéphale se laisse néanmoins tenter.*"
 |-
 ! colspan="2" |Cerberus Gift 07
 |-
@@ -732,7 +732,7 @@
 |"Mais oui, mon chien... De l'ambroisie rien que pour toi. Tu vas adorer. Toutes les créatures, mortes ou vivantes, adorent !"
 |-
 |'''Storyteller'''
-|"''Les six yeux de l'infâme molosse des Enfers s'écarquillent à la réception d'un cadeau aussi inestimable. La créature est aux anges.''"
+|"*Les six yeux de l'infâme molosse des Enfers s'écarquillent à la réception d'un cadeau aussi inestimable. La créature est aux anges.*"
 |-
 ! colspan="2" |Cerberus Gift 08
 |-
@@ -740,7 +740,7 @@
 |"Ça fait du bien par où ça passe, pas vrai mon chien ? Je sais que tu n'as jamais demandé à te retrouver embarqué dans cette histoire, et voir ta fidélité éprouvée ainsi. Désolé de te faire subir tout ça."
 |-
 |'''Storyteller'''
-|"''La nouvelle tentative du prince de séduire davantage la créature tricéphale porte ses fruits, tant la divine ambroisie est délectable.''"
+|"*La nouvelle tentative du prince de séduire davantage la créature tricéphale porte ses fruits, tant la divine ambroisie est délectable.*"
 |-
 ! colspan="2" |Cerberus Gift 09
 |-
@@ -748,7 +748,7 @@
 |"Cerbère, ce n'est pas pour me la jouer sentimental, mais... tu me connais depuis que je suis né. Je sais que tu es là en partie à cause de moi, pas vrai ?"
 |-
 |'''Storyteller'''
-|"''Le lien qui unit un chien à son maître est solide comme le diamant. Cerbère, le redoutable gardien des Enfers, obéit avant tout au père du Prince, mais il demeure toutefois extrêmement proche du Prince lui-même.''"
+|"*Le lien qui unit un chien à son maître est solide comme le diamant. Cerbère, le redoutable gardien des Enfers, obéit avant tout au père du Prince, mais il demeure toutefois extrêmement proche du Prince lui-même.*"
 |-
 |'''Zagreus'''
 |"Tu es le meilleur chien au monde. Même si les têtes bêta et gamma ne s'intéressent pas beaucoup aux caresses, pas vrai ? Mais j'en ai encore plein pour toi, ne t'inquiète pas."
@@ -756,16 +756,16 @@
 ! colspan="2" |Cerberus Styx Meeting 01
 |-
 |'''Storyteller'''
-|"''Cerbère et ses trois têtes montent la garde devant l’entrée des Enfers ; les histoires de ce qu'il advient des inconscients osant tenter de passer sont bien trop violentes pour être racontées ici.''"
+|"*Cerbère et ses trois têtes montent la garde devant l’entrée des Enfers ; les histoires de ce qu'il advient des inconscients osant tenter de passer sont bien trop violentes pour être racontées ici.*"
 |-
 |'''Zagreus'''
-|"Alors, on en est vraiment arrivés là, mon chien ? Après tout ce qu’on a vécu ensemble... eh bien, si c'est comme ça, alors nous n'avons plus rien à nous dire. Si ce n’est... ''en garde ''!!"
+|"Alors, on en est vraiment arrivés là, mon chien ? Après tout ce qu’on a vécu ensemble... eh bien, si c'est comme ça, alors nous n'avons plus rien à nous dire. Si ce n’est... *en garde *!!"
 |-
 |'''Zagreus'''
-|"''Hahaha'', non, je plaisante, mon chien. Je sais pourquoi tu es ici. Il doit y avoir un moyen de te convaincre de me laisser passer. Tiens, et si je t’aidais à régler le problème des Satyres ? S’il te plaît. Je dois retrouver Perséphone... ma mère. Tu sais à quel point c'est important pour moi."
+|"*Hahaha*, non, je plaisante, mon chien. Je sais pourquoi tu es ici. Il doit y avoir un moyen de te convaincre de me laisser passer. Tiens, et si je t’aidais à régler le problème des Satyres ? S’il te plaît. Je dois retrouver Perséphone... ma mère. Tu sais à quel point c'est important pour moi."
 |-
 |'''Storyteller'''
-|"''Après un moment d’hésitation et de délibération, le molosse infernal émet un aboiement affirmatif à l’intention du Prince, lequel part alors à la recherche de quelque chose pouvant combler l’appétit du monstre.''"
+|"*Après un moment d’hésitation et de délibération, le molosse infernal émet un aboiement affirmatif à l’intention du Prince, lequel part alors à la recherche de quelque chose pouvant combler l’appétit du monstre.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock 01
 |-
@@ -773,294 +773,294 @@
 |"Tiens, mon chien, j’ai ta friandise préférée. Mais tu dois me promettre de me laisser passer si je te la donne, d’accord ?"
 |-
 |'''Storyteller'''
-|"''Le terrifiant Cerbère accepte le sac nauséabond, et scrute le sombre hall du regard à la recherche de l’endroit le plus approprié à la consommation de son immonde contenu.''"
+|"*Le terrifiant Cerbère accepte le sac nauséabond, et scrute le sombre hall du regard à la recherche de l’endroit le plus approprié à la consommation de son immonde contenu.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 01
 |-
 |'''Storyteller'''
-|"''Cerbère accepte de nouveau le sac.''"
+|"*Cerbère accepte de nouveau le sac.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 02
 |-
 |'''Storyteller'''
-|"''Le gigantesque Cerbère accepte l’immonde offrande du Prince.''"
+|"*Le gigantesque Cerbère accepte l’immonde offrande du Prince.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 03
 |-
 |'''Storyteller'''
-|"''L’effroyable Cerbère accepte le sac de Satyre.''"
+|"*L’effroyable Cerbère accepte le sac de Satyre.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 04
 |-
 |'''Storyteller'''
-|"''Le Prince persuade le féroce gardien des Enfers de s’écarter.''"
+|"*Le Prince persuade le féroce gardien des Enfers de s’écarter.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 05
 |-
 |'''Storyteller'''
-|"''Le Prince contraint le molosse à trois têtes de le laisser passer.''"
+|"*Le Prince contraint le molosse à trois têtes de le laisser passer.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 06
 |-
 |'''Storyteller'''
-|"''C'est ainsi que le Prince parvint une fois de plus à persuader le redoutable Cerbère de s’écarter de son chemin.''"
+|"*C'est ainsi que le Prince parvint une fois de plus à persuader le redoutable Cerbère de s’écarter de son chemin.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 07
 |-
 |'''Storyteller'''
-|"''Le gardien des Enfers accepte joyeusement un autre sac de Satyre.''"
+|"*Le gardien des Enfers accepte joyeusement un autre sac de Satyre.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 08
 |-
 |'''Storyteller'''
-|"''Les sacs de Satyre, unique point faible du monstre, se montrent une fois de plus très efficaces.''"
+|"*Les sacs de Satyre, unique point faible du monstre, se montrent une fois de plus très efficaces.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 09
 |-
 |'''Storyteller'''
-|"''Cerbère dirige ses trois attentions vers le sac de Satyre.''"
+|"*Cerbère dirige ses trois attentions vers le sac de Satyre.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 10
 |-
 |'''Storyteller'''
-|"''Le gardien des Enfers décide alors qu'il est temps de faire une petite pause gourmande.''"
+|"*Le gardien des Enfers décide alors qu'il est temps de faire une petite pause gourmande.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 11
 |-
 |'''Storyteller'''
-|"''Le Prince Zagreus offre une nouvelle fois à Cerbère l'une de ses friandises préférées.''"
+|"*Le Prince Zagreus offre une nouvelle fois à Cerbère l'une de ses friandises préférées.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 12
 |-
 |'''Storyteller'''
-|"''Cerbère ne cède jamais le passage à personne, mais pour un sac de Satyre, il peut faire une exception.''"
+|"*Cerbère ne cède jamais le passage à personne, mais pour un sac de Satyre, il peut faire une exception.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 13
 |-
 |'''Storyteller'''
-|"''Le vigilant Cerbère décide de regarder ailleurs pour cette fois.''"
+|"*Le vigilant Cerbère décide de regarder ailleurs pour cette fois.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 14
 |-
 |'''Storyteller'''
-|"''Chacune des terrifiantes têtes de Cerbère sont d'accord sur le fait que le sac de Satyre doit être détruit sans délai.''"
+|"*Chacune des terrifiantes têtes de Cerbère sont d'accord sur le fait que le sac de Satyre doit être détruit sans délai.*"
 |-
 ! colspan="2" |Cerberus Boss Door Unlock Repeatable 15
 |-
 |'''Storyteller'''
-|"''Après un bref moment de réflexion, Cerbère conclut que oui, il peut accepter le sac.''"
+|"*Après un bref moment de réflexion, Cerbère conclut que oui, il peut accepter le sac.*"
 |-
-! colspan="2" |Persephone With Cerberus 01
+! colspan="2" |Duo - Persephone and Cerberus (1)
 |-
 |'''Persephone'''
 |"Oh, Cerbère ! C'est bien grâce à toi que cette Maison tient encore debout. Tu as aimé la friandise que je t'ai rapportée de la surface ?"
 |-
 |'''Storyteller'''
-|"''Le molosse des Enfers, dévoreur de friandises de surface, donne une réponse tout à fait affirmative à la Reine.''"
+|"*Le molosse des Enfers, dévoreur de friandises de surface, donne une réponse tout à fait affirmative à la Reine.*"
 |-
 |'''Persephone'''
 |"Je le savais. On croirait vraiment que c'est de la viande, non ? Je vais voir si on peut en faire pousser ici pour toi."
 |-
-! colspan="2" |Persephone With Cerberus 02
+! colspan="2" |Duo - Persephone and Cerberus (2)
 |-
 |'''Persephone'''
 |"Tu es vraiment un bon chien, hein, mon Cerbère ? Mais oui ! Tu as gardé le royaume pendant mon absence. Et tu as même laissé mon fils me rendre visite !"
 |-
 |'''Storyteller'''
-|"''Le vigilant et terrifiant Cerbère accepte modestement les éloges de la Reine.''"
+|"*Le vigilant et terrifiant Cerbère accepte modestement les éloges de la Reine.*"
 |-
 ! colspan="2" |Charon First Inspect
 |-
 |'''Storyteller'''
-|"''Dans les abîmes les plus obscurs des Enfers se niche l’Érèbe, où les morts attendent leur condamnation éternelle. C'est ici qu'ils espèrent obtenir l’attention et les bonnes grâces de leur maître, le Seigneur Hadès.''"
+|"*Dans les abîmes les plus obscurs des Enfers se niche l’Érèbe, où les morts attendent leur condamnation éternelle. C'est ici qu'ils espèrent obtenir l’attention et les bonnes grâces de leur maître, le Seigneur Hadès.*"
 |-
 ! colspan="2" |Charon Fight 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Un bras caché du Styx traverse les brumes de l’Érèbe, fournissant ainsi à Charon, le nocher, un endroit discret où s'occuper des âmes les moins dociles.''"
+|"*Un bras caché du Styx traverse les brumes de l’Érèbe, fournissant ainsi à Charon, le nocher, un endroit discret où s'occuper des âmes les moins dociles.*"
 |-
 ! colspan="2" |Inspect B Pre Boss 01 01
 |-
 |'''Storyteller'''
-|"''Ayant rejoint ce point d'observation après une traversée mouvementée du Phlégéthon, l'indomptable Zagreus doit maintenant affronter un ennemi d’une sauvagerie inimaginable, lequel attend patiemment son heure pour frapper.''"
+|"*Ayant rejoint ce point d'observation après une traversée mouvementée du Phlégéthon, l'indomptable Zagreus doit maintenant affronter un ennemi d’une sauvagerie inimaginable, lequel attend patiemment son heure pour frapper.*"
 |-
 ! colspan="2" |Inspect B Story 01 01
 |-
 |'''Storyteller'''
-|"''Au-delà du fleuve de feu se cachent les escaliers menant à la région la mieux gardée et la plus magnifique des Enfers : l’Élysée, cette demeure paradisiaque où résident pour l'éternité les plus grandes âmes ayant jamais existé.''"
+|"*Au-delà du fleuve de feu se cachent les escaliers menant à la région la mieux gardée et la plus magnifique des Enfers : l’Élysée, cette demeure paradisiaque où résident pour l'éternité les plus grandes âmes ayant jamais existé.*"
 |-
 |'''Storyteller'''
-|"''Depuis l’intérieur d’une humble résidence au sein des prés de l’Asphodèle résonne la voix cristalline d’Eurydice, la nymphe qui tenta autrefois de s’échapper des Enfers, mais échoua lamentablement, comme le Prince Zagreus.''"
+|"*Depuis l’intérieur d’une humble résidence au sein des prés de l’Asphodèle résonne la voix cristalline d’Eurydice, la nymphe qui tenta autrefois de s’échapper des Enfers, mais échoua lamentablement, comme le Prince Zagreus.*"
 |-
 ! colspan="2" |B Mini Boss 02 First Inspect
 |-
 |'''Storyteller'''
-|"''Pour les âmes imprudentes, la pratique de la sorcellerie aboutit souvent à une mort prématurée et un séjour éternel dans le Tartare ; mais certaines parviennent malgré tout à en perfectionner l'usage, et à prendre résidence permanente ailleurs...''"
+|"*Pour les âmes imprudentes, la pratique de la sorcellerie aboutit souvent à une mort prématurée et un séjour éternel dans le Tartare ; mais certaines parviennent malgré tout à en perfectionner l'usage, et à prendre résidence permanente ailleurs...*"
 |-
 ! colspan="2" |Inspect B Shop 01 01
 |-
 |'''Storyteller'''
-|"''Le nocher Charon n’a que faire des flammes torrides et des cendres du fleuve Phlégéthon ; il vogue sur tous les fleuves des Enfers, transportant les morts, les damnés et tous leurs atours.''"
+|"*Le nocher Charon n’a que faire des flammes torrides et des cendres du fleuve Phlégéthon ; il vogue sur tous les fleuves des Enfers, transportant les morts, les damnés et tous leurs atours.*"
 |-
 ! colspan="2" |Inspect B Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''Niché au cœur du brasier sans fin du fleuve Phlégéthon, un filet d’eau vivifiante a étonnamment résisté, tel un don des Moires au prince chanceux.''"
+|"*Niché au cœur du brasier sans fin du fleuve Phlégéthon, un filet d’eau vivifiante a étonnamment résisté, tel un don des Moires au prince chanceux.*"
 |-
 ! colspan="2" |Inspect B Intro 01 01
 |-
 |'''Storyteller'''
-|"''Les plaines autrefois verdoyantes d’Asphodèle sont aujourd’hui la proie de flammes scintillantes, après avoir été submergées par le fleuve Phlégéthon, dont le contenu horriblement ardent peut entraîner une mort rapide même chez ceux capables de résister aux plus grandes chaleurs.''"
+|"*Les plaines autrefois verdoyantes d’Asphodèle sont aujourd’hui la proie de flammes scintillantes, après avoir été submergées par le fleuve Phlégéthon, dont le contenu horriblement ardent peut entraîner une mort rapide même chez ceux capables de résister aux plus grandes chaleurs.*"
 |-
 ! colspan="2" |Inspect B Intro 02
 |-
 |'''Storyteller'''
-|"''Au sein de la chaleur étouffante d’Asphodèle est réunie la majeure partie de ceux qui ont vécu sur terre et qui sont morts. C’est ici qu’ils résident jusqu’à la fin des temps.''"
+|"*Au sein de la chaleur étouffante d’Asphodèle est réunie la majeure partie de ceux qui ont vécu sur terre et qui sont morts. C’est ici qu’ils résident jusqu’à la fin des temps.*"
 |-
 ! colspan="2" |Inspect C Pre Boss 01 01
 |-
 |'''Storyteller'''
-|"''La façade à la fois menaçante et magnifique du grand Stade de l’Élysée se dresse devant le Prince agitateur, comme pour l’inciter à participer à une compétition dont il ne peut espérer sortir victorieux.''"
+|"*La façade à la fois menaçante et magnifique du grand Stade de l’Élysée se dresse devant le Prince agitateur, comme pour l’inciter à participer à une compétition dont il ne peut espérer sortir victorieux.*"
 |-
 ! colspan="2" |Inspect C Shop 01 01
 |-
 |'''Storyteller'''
-|"''Les vastes richesses de la surface et des Enfers sont accumulées par le nocher, Charon, dont les services sont souvent offerts aux âmes les plus fortunées de l’Élysée.''"
+|"*Les vastes richesses de la surface et des Enfers sont accumulées par le nocher, Charon, dont les services sont souvent offerts aux âmes les plus fortunées de l’Élysée.*"
 |-
 ! colspan="2" |Inspect C Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''L'architecture délicatement ouvragée de l’Élysée abrite des lieux où règne un calme serein et absolu tel que les mortels ne connaissent que rarement durant leur courte et souvent douloureuse existence.''"
+|"*L'architecture délicatement ouvragée de l’Élysée abrite des lieux où règne un calme serein et absolu tel que les mortels ne connaissent que rarement durant leur courte et souvent douloureuse existence.*"
 |-
 ! colspan="2" |Inspect C Story 01 01
 |-
 |'''Storyteller'''
-|"''Au sein de la mousse et de la pierre taillée des chambres de l’Élysée se dressent d'innombrables monuments en hommage éternel aux plus grands héros que la mortalité ait jamais offert, afin que leur gloire puisse perdurer même dans l'au-delà.''"
+|"*Au sein de la mousse et de la pierre taillée des chambres de l’Élysée se dressent d'innombrables monuments en hommage éternel aux plus grands héros que la mortalité ait jamais offert, afin que leur gloire puisse perdurer même dans l'au-delà.*"
 |-
 ! colspan="2" |Inspect C Intro 01
 |-
 |'''Storyteller'''
-|"''Les splendeurs paradisiaques de l’Élysée, réservées aux plus grandes âmes mortelles, s’étendent avec luxuriance autour du Prince aux pieds ardents.''"
+|"*Les splendeurs paradisiaques de l’Élysée, réservées aux plus grandes âmes mortelles, s’étendent avec luxuriance autour du Prince aux pieds ardents.*"
 |-
 ! colspan="2" |Inspect C Intro 02
 |-
 |'''Storyteller'''
-|"''La brume du Léthé, le fleuve de l'oubli, circule à travers les chambres sacrées de l’Élysée, endormant les vieilles souffrances et les souvenirs des nobles ombres qui y résident.''"
+|"*La brume du Léthé, le fleuve de l'oubli, circule à travers les chambres sacrées de l’Élysée, endormant les vieilles souffrances et les souvenirs des nobles ombres qui y résident.*"
 |-
 ! colspan="2" |Inspect Room Secret 01 01
 |-
 |'''Storyteller'''
-|"''Les profondeurs les plus obscures des Enfers... le néant d’où a jailli toute vie et conscience à l’aube des temps... le domaine du Chaos. Une terre quasi inconnue, même des habitants du royaume des morts.''"
+|"*Les profondeurs les plus obscures des Enfers... le néant d’où a jailli toute vie et conscience à l’aube des temps... le domaine du Chaos. Une terre quasi inconnue, même des habitants du royaume des morts.*"
 |-
 ! colspan="2" |Inspect Room Secret 02 01
 |-
 |'''Storyteller'''
-|"''Les contrées insondables du Chaos, cachées dans les recoins les plus sombres des Enfers, s'étendent bien au-delà de la perception du Seigneur Hadès lui-même ; malgré cela, le Prince importun parvint à s'y introduire.''"
+|"*Les contrées insondables du Chaos, cachées dans les recoins les plus sombres des Enfers, s'étendent bien au-delà de la perception du Seigneur Hadès lui-même ; malgré cela, le Prince importun parvint à s'y introduire.*"
 |-
 ! colspan="2" |Inspect Room Secret 03 01
 |-
 |'''Storyteller'''
-|"''Dans les couloirs les plus sombres, silencieux et isolés des Enfers, se cache la preuve du commencement de toute chose : Chaos, le sculpteur primordial, modeleur de ce monde.''"
+|"*Dans les couloirs les plus sombres, silencieux et isolés des Enfers, se cache la preuve du commencement de toute chose : Chaos, le sculpteur primordial, modeleur de ce monde.*"
 |-
 ! colspan="2" |Inspect D Mini Boss 02 01
 |-
 |'''Storyteller'''
-|"''Les immondes repaires creusés à même les imposants édifices des Enfers abritent des créatures si abominables que même le sinistre Seigneur Hadès ne souhaite pas en parler.''"
+|"*Les immondes repaires creusés à même les imposants édifices des Enfers abritent des créatures si abominables que même le sinistre Seigneur Hadès ne souhaite pas en parler.*"
 |-
 ! colspan="2" |Inspect D Reprieve 01 01
 |-
 |'''Storyteller'''
-|"''Dans les profondeurs immondes du repaire des Satyres profanateurs gisent les restes infâmes de leurs rituels impies ; un mélange si répugnant qu'il en est indescriptible.''"
+|"*Dans les profondeurs immondes du repaire des Satyres profanateurs gisent les restes infâmes de leurs rituels impies ; un mélange si répugnant qu'il en est indescriptible.*"
 |-
 ! colspan="2" |Inspect D Intro 01 01
 |-
 |'''Storyteller'''
-|"''Grâce à sa détermination sans faille, le Prince réussit enfin à s'aventurer jusqu’à la surface du monde des mortels, et pourtant le voici encore entouré de terre ; le voici aux portes des Enfers, un seuil qu’il est impossible de franchir.''"
+|"*Grâce à sa détermination sans faille, le Prince réussit enfin à s'aventurer jusqu’à la surface du monde des mortels, et pourtant le voici encore entouré de terre ; le voici aux portes des Enfers, un seuil qu’il est impossible de franchir.*"
 |-
 ! colspan="2" |Inspect D Hub 01
 |-
 |'''Storyteller'''
-|"''Le vaste Temple du Styx et ses innombrables dangers sont désormais tout ce qui sépare le Prince des Enfers du monde de la surface qu’il cherche désespérément à atteindre.''"
+|"*Le vaste Temple du Styx et ses innombrables dangers sont désormais tout ce qui sépare le Prince des Enfers du monde de la surface qu’il cherche désespérément à atteindre.*"
 |-
 ! colspan="2" |Inspect D Hub 02
 |-
 |'''Storyteller'''
-|"''Non loin de là, les morts débutent leur voyage vers leur ultime demeure dans les entrailles de la terre, justifiant les fréquentes allées et venues de Charon, le nocher.''"
+|"*Non loin de là, les morts débutent leur voyage vers leur ultime demeure dans les entrailles de la terre, justifiant les fréquentes allées et venues de Charon, le nocher.*"
 |-
 ! colspan="2" |Inspect D Hub 03
 |-
 |'''Storyteller'''
-|"''Le redouté Cerbère à maintes têtes, sentinelle des Enfers, surveille avec vigilance l’entrée du royaume, dévorant quiconque serait suffisamment stupide pour tenter de s’enfuir.''"
+|"*Le redouté Cerbère à maintes têtes, sentinelle des Enfers, surveille avec vigilance l’entrée du royaume, dévorant quiconque serait suffisamment stupide pour tenter de s’enfuir.*"
 |-
 ! colspan="2" |Inspect D Hub 04
 |-
 |'''Storyteller'''
-|"''Dans l'un des flancs du Temple glacial s'ouvre un réseau de tunnels grossièrement taillés, où habitent de féroces créatures indésirables même dans le royaume des morts.''"
+|"*Dans l'un des flancs du Temple glacial s'ouvre un réseau de tunnels grossièrement taillés, où habitent de féroces créatures indésirables même dans le royaume des morts.*"
 |-
 ! colspan="2" |Inspect E Intro 01 01
 |-
 |'''Storyteller'''
-|"''La surface, balayée par les vents et battue par le froid glacial, suscite néanmoins chez le Prince un certain émerveillement, car il n'avait encore jamais rien vu de semblable.''"
+|"*La surface, balayée par les vents et battue par le froid glacial, suscite néanmoins chez le Prince un certain émerveillement, car il n'avait encore jamais rien vu de semblable.*"
 |-
 |'''Storyteller'''
-|"''Une myriade de variétés de fruits et de légumes prospèrent au sein des jardins cachés de Perséphone, l'ancienne Reine des Enfers. Un monde de vie, loin du royaume de la mort.''"
+|"*Une myriade de variétés de fruits et de légumes prospèrent au sein des jardins cachés de Perséphone, l'ancienne Reine des Enfers. Un monde de vie, loin du royaume de la mort.*"
 |-
 ! colspan="2" |A Pre Boss 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Au-delà de cette chambre s’étend la frontière du Tartare, promesse de terribles dangers dépassant l'imagination du Prince des Enfers.''"
+|"*Au-delà de cette chambre s’étend la frontière du Tartare, promesse de terribles dangers dépassant l'imagination du Prince des Enfers.*"
 |-
 ! colspan="2" |A Boss 01 Inspect 01
 |-
 |'''Storyteller'''
-|"''Les Érinyes ; également appelées les Furies, elles sont les fidèles sentinelles du Seigneur Hadès, chargées de torturer le pire de ce que les mortels ont à offrir... et de débarrasser les Enfers de quiconque serait assez fou pour s'introduire là où ils n'ont rien à faire.''"
+|"*Les Érinyes ; également appelées les Furies, elles sont les fidèles sentinelles du Seigneur Hadès, chargées de torturer le pire de ce que les mortels ont à offrir... et de débarrasser les Enfers de quiconque serait assez fou pour s'introduire là où ils n'ont rien à faire.*"
 |-
 ! colspan="2" |A Post Boss 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Le chemin au-delà du Tartare est enfin révélé. La chaleur du Phlégéthon, le fleuve de feu s'écoulant dans les strates supérieures, peut déjà être ressentie... tel un avant-goût des dangers qui y guettent.''"
+|"*Le chemin au-delà du Tartare est enfin révélé. La chaleur du Phlégéthon, le fleuve de feu s'écoulant dans les strates supérieures, peut déjà être ressentie... tel un avant-goût des dangers qui y guettent.*"
 |-
 ! colspan="2" |A Post Boss 01 Gears Inspect 01
 |-
 |'''Storyteller'''
-|"''Nul autre que ceux faisant partie du cercle de confiance du Seigneur Hadès sont autorisés à pénétrer dans les chambres reliant les vastes régions des Enfers entre elles, mais le Prince décide de s'y aventurer malgré tout.''"
+|"*Nul autre que ceux faisant partie du cercle de confiance du Seigneur Hadès sont autorisés à pénétrer dans les chambres reliant les vastes régions des Enfers entre elles, mais le Prince décide de s'y aventurer malgré tout.*"
 |-
 ! colspan="2" |A Mini Boss 03 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Les misérables les plus violents du Tartare sont tenus à l'écart des autres condamnés. Leurs seuls visiteurs sont les inconscients qui tentent de mettre un terme à leur séjour éternel au sein des Enfers.''"
+|"*Les misérables les plus violents du Tartare sont tenus à l'écart des autres condamnés. Leurs seuls visiteurs sont les inconscients qui tentent de mettre un terme à leur séjour éternel au sein des Enfers.*"
 |-
 ! colspan="2" |A Mini Boss 04 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Les âmes damnées, perdues, qui n'ont plus aucun endroit où aller, se rassemblent au plus profond du Tartare, où elles fusionnent avec la terre elle-même pour former d'immondes masses indescriptibles.''"
+|"*Les âmes damnées, perdues, qui n'ont plus aucun endroit où aller, se rassemblent au plus profond du Tartare, où elles fusionnent avec la terre elle-même pour former d'immondes masses indescriptibles.*"
 |-
 ! colspan="2" |A Reprieve 01 First Inspect
 |-
 |'''Storyteller'''
-|"''Aussi inconcevable que cela puisse paraître, les Enfers ne sont en réalité pas tout à fait dépourvus de havres de paix et de tranquillité.''"
+|"*Aussi inconcevable que cela puisse paraître, les Enfers ne sont en réalité pas tout à fait dépourvus de havres de paix et de tranquillité.*"
 |-
 ! colspan="2" |Charon First Inspect
 |-
 |'''Storyteller'''
-|"''Les marchandises récupérées dans les Enfers par le nocher stygien Charon sont là étalées, prêtes à être vendues à quiconque sera prêt à satisfaire la soif insatiable du nocher pour davantage de richesses.''"
+|"*Les marchandises récupérées dans les Enfers par le nocher stygien Charon sont là étalées, prêtes à être vendues à quiconque sera prêt à satisfaire la soif insatiable du nocher pour davantage de richesses.*"
 |-
 |'''Storyteller'''
-|"''Le tristement célèbre fleuve du Styx traverse les Enfers, permettant ainsi à Charon, le nocher, de voyager avec diligence entre le royaume des mortels et les entrailles de la terre, où résident pour l’éternité bon nombre de leurs ombres.''"
+|"*Le tristement célèbre fleuve du Styx traverse les Enfers, permettant ainsi à Charon, le nocher, de voyager avec diligence entre le royaume des mortels et les entrailles de la terre, où résident pour l’éternité bon nombre de leurs ombres.*"
 |-
 ! colspan="2" |Opening First Inspect
 |-
 |'''Storyteller'''
-|"''Composés d’innombrables chambres en perpétuel réarrangement, les Enfers du Seigneur Hadès offrent la garantie que les morts y resteront jusqu’à la fin des temps.''"
+|"*Composés d’innombrables chambres en perpétuel réarrangement, les Enfers du Seigneur Hadès offrent la garantie que les morts y resteront jusqu’à la fin des temps.*"
 |-
 ! colspan="2" |Opening Proc Gen Hint
 |-
 |'''Storyteller'''
-|"''À chaque fois que le Prince s'aventure dans les Enfers, les chambres qui les composent se réorganisent afin de contrarier ses tentatives de cartographier les lieux.''"
+|"*À chaque fois que le Prince s'aventure dans les Enfers, les chambres qui les composent se réorganisent afin de contrarier ses tentatives de cartographier les lieux.*"
 |-
 ! colspan="2" |Inspect A Story 01 01
 |-
 |'''Storyteller'''
-|"''Dans les profondeurs du Tartare réside la plus misérable des ombres errant pour l’éternité dans les Enfers, à qui le Seigneur et Maître fait payer chèrement sa tentative de tromper la mort.''"
+|"*Dans les profondeurs du Tartare réside la plus misérable des ombres errant pour l’éternité dans les Enfers, à qui le Seigneur et Maître fait payer chèrement sa tentative de tromper la mort.*"
 |-
 |}

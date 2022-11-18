@@ -68,10 +68,10 @@
 ! colspan="2" |Hermes Post Ending 01
 |-
 |'''Hermes'''
-|"Ho sentito dire che una certa dea è tornata a casa, lì da voi, cugino! La chiamerei una splendida notizia, se non fosse che ''non è ''una notizia; non ancora! Ma se mai volessi spargere la voce, sai chi chiamare!"
+|"Ho sentito dire che una certa dea è tornata a casa, lì da voi, cugino! La chiamerei una splendida notizia, se non fosse che *non è *una notizia; non ancora! Ma se mai volessi spargere la voce, sai chi chiamare!"
 |-
 |'''Hermes'''
-|"Perciò, ''tu ''continuerai a evadere da lì, ancora e ancora, così che ''tuo padre ''possa trovare nuovi modi di rendere la fuga più impossibile, ho capito bene? Lavoretto interessante, cugino!"
+|"Perciò, *tu *continuerai a evadere da lì, ancora e ancora, così che *tuo padre *possa trovare nuovi modi di rendere la fuga più impossibile, ho capito bene? Lavoretto interessante, cugino!"
 |-
 ! colspan="2" |Hermes About Olympian Reunion Quest 01
 |-
@@ -79,7 +79,7 @@
 |"Stavolta tocca a me giocare al messaggero. Nel nome di Ade! Olimpo, questo è un messaggio ufficiale! Ci sei, dio Ermes? Sono arrivato più in fretta che ho potuto."
 |-
 |'''Hermes'''
-|"Però, a quanto pare hai una missiva apposta per ''me ''stavolta, che cosa speciale, eh, capo? Un qualche genere di invito, si direbbe. Sei sicuro che sia io il destinatario, visto che non sono ufficialmente coinvolto?"
+|"Però, a quanto pare hai una missiva apposta per *me *stavolta, che cosa speciale, eh, capo? Un qualche genere di invito, si direbbe. Sei sicuro che sia io il destinatario, visto che non sono ufficialmente coinvolto?"
 |-
 ! colspan="2" |Hermes Post Epilogue 01
 |-
@@ -129,7 +129,7 @@
 ! colspan="2" |Hermes About Poseidon 01
 |-
 |'''Hermes'''
-|"Voglio renderti partecipe di una cosa, capo. La ragione per cui zio Poseidone ti ha raggiunto prima di me è che... gliel'ho lasciato fare. Crede di essere veloce come un tempo! ''Hah!''"
+|"Voglio renderti partecipe di una cosa, capo. La ragione per cui zio Poseidone ti ha raggiunto prima di me è che... gliel'ho lasciato fare. Crede di essere veloce come un tempo! *Hah!*"
 |-
 ! colspan="2" |Hermes About Athena 01
 |-
@@ -164,7 +164,7 @@
 ! colspan="2" |Hermes About Hades Keepsake 01
 |-
 |'''Hermes'''
-|"Ehi, non è il favore di tuo padre quello che ti porti appresso, cuginetto?! Stento a crederci, ma d'altronde hai fatto un così buon lavoro che sarebbe proprio ''assurdo ''se lui non approvasse!"
+|"Ehi, non è il favore di tuo padre quello che ti porti appresso, cuginetto?! Stento a crederci, ma d'altronde hai fatto un così buon lavoro che sarebbe proprio *assurdo *se lui non approvasse!"
 |-
 ! colspan="2" |Hermes Backstory 01
 |-
@@ -174,7 +174,7 @@
 ! colspan="2" |Hermes Backstory 02
 |-
 |'''Hermes'''
-|"Capo, probabilmente avrai pensato: \"Quell'Ermes è proprio una scheggia! Come mai ci ha messo tanto a farsi vivo?\" Be', temo proprio di non potertelo dire. Ma di certo non è perché ero in ritardo! Io non sono ''mai ''in ritardo."
+|"Capo, probabilmente avrai pensato: \"Quell'Ermes è proprio una scheggia! Come mai ci ha messo tanto a farsi vivo?\" Be', temo proprio di non potertelo dire. Ma di certo non è perché ero in ritardo! Io non sono *mai *in ritardo."
 |-
 ! colspan="2" |Hermes Backstory 03
 |-
@@ -189,12 +189,12 @@
 ! colspan="2" |Hermes Backstory 05
 |-
 |'''Hermes'''
-|"Capo, conosci il detto ''\"non essere precipitoso\"''? Una mia idea. Giuro! Un modo semplice per battere la concorrenza, mascherato da perla di saggezza. Quegli stupidi mortali si bevono qualsiasi cosa!"
+|"Capo, conosci il detto *\"non essere precipitoso\"*? Una mia idea. Giuro! Un modo semplice per battere la concorrenza, mascherato da perla di saggezza. Quegli stupidi mortali si bevono qualsiasi cosa!"
 |-
 ! colspan="2" |Hermes Backstory 06
 |-
 |'''Hermes'''
-|"Non che io sappia a cosa miri ''di preciso'', cuginetto, ma se anche fosse, dubito che qualcuno sull'Olimpo ne sia al corrente. O, se lo sono, stanno tenendo la bocca chiusa. Proprio come me!"
+|"Non che io sappia a cosa miri *di preciso*, cuginetto, ma se anche fosse, dubito che qualcuno sull'Olimpo ne sia al corrente. O, se lo sono, stanno tenendo la bocca chiusa. Proprio come me!"
 |-
 ! colspan="2" |Hermes Backstory 07
 |-
@@ -219,7 +219,7 @@
 ! colspan="2" |Hermes About Secret Service 01
 |-
 |'''Hermes'''
-|"E così mi hai scoperto, eh, cuginetto? L'ho saputo dal vecchio barcaiolo in persona. Be', tanto meglio! Lieti di essere d'aiuto. E ''noi ''abbiamo un sacco di materiale compromettente sul ''tuo ''conto, perciò acqua in bocca, intesi?"
+|"E così mi hai scoperto, eh, cuginetto? L'ho saputo dal vecchio barcaiolo in persona. Be', tanto meglio! Lieti di essere d'aiuto. E *noi *abbiamo un sacco di materiale compromettente sul *tuo *conto, perciò acqua in bocca, intesi?"
 |-
 ! colspan="2" |Hermes About Secret Service 02
 |-
@@ -239,7 +239,7 @@
 ! colspan="2" |Hermes About Charon Fight 02
 |-
 |'''Hermes'''
-|"E così ti sei scontrato col mio caro socio in affari, eh, cuginetto? E gliele hai pure suonate, al vecchio barcaiolo! Sapevo che eri tosto, ma non ''così ''tosto. Sono molto impressionato! E anche lui, eh. Non se l'è neanche presa!"
+|"E così ti sei scontrato col mio caro socio in affari, eh, cuginetto? E gliele hai pure suonate, al vecchio barcaiolo! Sapevo che eri tosto, ma non *così *tosto. Sono molto impressionato! E anche lui, eh. Non se l'è neanche presa!"
 |-
 ! colspan="2" |Hermes Beat Charon Quest 01
 |-
@@ -249,32 +249,32 @@
 ! colspan="2" |Hermes Message 01
 |-
 |'''Hermes'''
-|"Messaggio per te dall'Olimpo, capo! Dice: ''\"Si sta proprio bene qui sui monti, senza dover fuggire dagli abissi dell'Oltretomba! Raggiungici presto, ti va?\"''"
+|"Messaggio per te dall'Olimpo, capo! Dice: *\"Si sta proprio bene qui sui monti, senza dover fuggire dagli abissi dell'Oltretomba! Raggiungici presto, ti va?\"*"
 |-
 ! colspan="2" |Hermes Message 02
 |-
 |'''Hermes'''
-|"Messaggio per te, capo. Dice: ''\"Sei piuttosto lento. Se solo qualcuno potesse darti una spinta...\" ''Oh, ma pensa un po', che coincidenza!"
+|"Messaggio per te, capo. Dice: *\"Sei piuttosto lento. Se solo qualcuno potesse darti una spinta...\" *Oh, ma pensa un po', che coincidenza!"
 |-
 ! colspan="2" |Hermes Message 03
 |-
 |'''Hermes'''
-|"Ho qui un messaggio per te, cuginetto. Vediamo un po', ''ahem'': ''\"Datti una mossa a venir fuori di lì\". ''Viene dalla superficie, eh? Sta scritto proprio qui."
+|"Ho qui un messaggio per te, cuginetto. Vediamo un po', *ahem*: *\"Datti una mossa a venir fuori di lì\". *Viene dalla superficie, eh? Sta scritto proprio qui."
 |-
 ! colspan="2" |Hermes Message 04
 |-
 |'''Hermes'''
-|"Un altro messaggio in arrivo! Dice: ''\"Un cucchiaino di origano essiccato, due cucchiai di olio extravergine d'oliva, cipolla tritata, un pizzico di sale\"''... un momento, questa non è per te. Ma magari provala, se ne esci vivo!"
+|"Un altro messaggio in arrivo! Dice: *\"Un cucchiaino di origano essiccato, due cucchiai di olio extravergine d'oliva, cipolla tritata, un pizzico di sale\"*... un momento, questa non è per te. Ma magari provala, se ne esci vivo!"
 |-
 ! colspan="2" |Hermes Message 05
 |-
 |'''Hermes'''
-|"Messaggio per te, cugino: ''\"A nome dell'Olimpo, la informiamo che l'ultima bottiglia d'Ambrosia che ha offerto a Ermes, dio dei viaggi, era davvero squisita, e che lui se l'è scolata fino all'ultima goccia\". ''Cordiali saluti, il sottoscritto!"
+|"Messaggio per te, cugino: *\"A nome dell'Olimpo, la informiamo che l'ultima bottiglia d'Ambrosia che ha offerto a Ermes, dio dei viaggi, era davvero squisita, e che lui se l'è scolata fino all'ultima goccia\". *Cordiali saluti, il sottoscritto!"
 |-
 ! colspan="2" |Hermes Message 06
 |-
 |'''Hermes'''
-|"Un altro messaggio per te, cuginetto! Dice: ''\"Ehi, amico! Se mai riuscissi ad arrivare in cima a questa montagna, passiamo un po' di tempo insieme, ti va? Posso farti da guida turistica\". ''Il tuo amicone Ermes."
+|"Un altro messaggio per te, cuginetto! Dice: *\"Ehi, amico! Se mai riuscissi ad arrivare in cima a questa montagna, passiamo un po' di tempo insieme, ti va? Posso farti da guida turistica\". *Il tuo amicone Ermes."
 |-
 ! colspan="2" |Hermes Max Relationship 01
 |-
@@ -323,13 +323,13 @@
 ! colspan="2" |Hermes Squelch 02
 |-
 |'''Hermes'''
-|"''A-hem''! Perdona l'interruzione, capo. Fammi solo sapere se un'altra volta ti va di fare un po' di conversazione, come ai vecchi tempi!"
+|"*A-hem*! Perdona l'interruzione, capo. Fammi solo sapere se un'altra volta ti va di fare un po' di conversazione, come ai vecchi tempi!"
 |-
 |'''Zagreus'''
 |"Mi mancano le nostre chiacchierate, Ermes. Rimettiamo le cose come stavano."
 |-
 |'''Hermes'''
-|"''Hah''. Come vuoi, capo. È bello fare due chiacchiere di tanto in tanto!"
+|"*Hah*. Come vuoi, capo. È bello fare due chiacchiere di tanto in tanto!"
 |-
 ! colspan="2" |Hermes Squelch 03
 |-
@@ -340,7 +340,7 @@
 |"Sai che c'è? Sì, torniamo a fare conversazione, Ermes. Mi pare un'ottima idea."
 |-
 |'''Hermes'''
-|"''Hah'', bene! Adoro le nostre chiacchierate! Stammi bene, capo."
+|"*Hah*, bene! Adoro le nostre chiacchierate! Stammi bene, capo."
 |-
 ! colspan="2" |Hermes About Hades 01
 |-
@@ -390,12 +390,12 @@
 ! colspan="2" |Hermes About Enemy Speed Condition 01
 |-
 |'''Hermes'''
-|"Con quegli ''Straordinari Coatti ''hai proprio dato la carica a quei lumaconi degli sgherri di tuo padre, eh, cuginetto? Be', se hanno voglia di concludere le cose in fretta, sono sicuro che hai da insegnarli una cosetta o due!"
+|"Con quegli *Straordinari Coatti *hai proprio dato la carica a quei lumaconi degli sgherri di tuo padre, eh, cuginetto? Be', se hanno voglia di concludere le cose in fretta, sono sicuro che hai da insegnarli una cosetta o due!"
 |-
 ! colspan="2" |Hermes About Enemy Speed Condition 02
 |-
 |'''Hermes'''
-|"A quanto pare quei reietti senza vita con cui fai a gara hanno proprio le ali ai piedi ''stavolta'', eh, capo? Be', pazienza: tu sei più veloce, ci scommetto!"
+|"A quanto pare quei reietti senza vita con cui fai a gara hanno proprio le ali ai piedi *stavolta*, eh, capo? Be', pazienza: tu sei più veloce, ci scommetto!"
 |-
 ! colspan="2" |Hermes About Biome Speed Condition 01
 |-
@@ -415,7 +415,7 @@
 ! colspan="2" |Hermes About Timer 01
 |-
 |'''Hermes'''
-|"''Hah! ''Non ho potuto fare a meno di notare che ti stai cronometrando, capo! Buona abitudine. Tieni d'occhio il tempo e vedrai che sarai sempre più veloce! Non veloce quanto me, però."
+|"*Hah! *Non ho potuto fare a meno di notare che ti stai cronometrando, capo! Buona abitudine. Tieni d'occhio il tempo e vedrai che sarai sempre più veloce! Non veloce quanto me, però."
 |-
 ! colspan="2" |Hermes About Timer 02
 |-
@@ -440,7 +440,7 @@
 ! colspan="2" |Hermes First Run Cleared 01
 |-
 |'''Hermes'''
-|"Altra missiva dall'Olimpo, capo. Dice: ''\"Zagreus, prenditi tutto il tempo che ti serve per raggiungerci; sappiamo che la strada è irta di ostacoli, e ti assicuriamo il nostro appoggio, per tutto il tempo necessario". ''Che cosa carina!"
+|"Altra missiva dall'Olimpo, capo. Dice: *\"Zagreus, prenditi tutto il tempo che ti serve per raggiungerci; sappiamo che la strada è irta di ostacoli, e ti assicuriamo il nostro appoggio, per tutto il tempo necessario". *Che cosa carina!"
 |-
 ! colspan="2" |Hermes Run Cleared 01
 |-
@@ -505,7 +505,7 @@
 ! colspan="2" |Hermes Post Epilogue 04
 |-
 |'''Hermes'''
-|"So che alcuni membri della famiglia non ti hanno offerto alcun aiuto, ma non prenderla come un fatto personale, intesi? Vedila così: non ho mai visto nessun altro far collaborare una così gran parte dell'Olimpo come ''te''!"
+|"So che alcuni membri della famiglia non ti hanno offerto alcun aiuto, ma non prenderla come un fatto personale, intesi? Vedila così: non ho mai visto nessun altro far collaborare una così gran parte dell'Olimpo come *te*!"
 |-
 ! colspan="2" |Hermes About Persephone Visit 01
 |-
@@ -530,17 +530,17 @@
 ! colspan="2" |Hermes Legendary Pick Up 01
 |-
 |'''Hermes'''
-|"Ok, sei pronto, capo? Stavolta ho per te davvero il ''meglio ''del catalogo. Solo mercanzia di prima qualità! Con questi ne farai di strada, vedrai."
+|"Ok, sei pronto, capo? Stavolta ho per te davvero il *meglio *del catalogo. Solo mercanzia di prima qualità! Con questi ne farai di strada, vedrai."
 |-
 ! colspan="2" |Hermes Legendary Pick Up 02
 |-
 |'''Hermes'''
-|"Indovina un po', cugino? È in arrivo un carico di merce esclusiva solo per ''te'', direttamente dalla più ricca delle nostre vette! Credo proprio che ti piacerà."
+|"Indovina un po', cugino? È in arrivo un carico di merce esclusiva solo per *te*, direttamente dalla più ricca delle nostre vette! Credo proprio che ti piacerà."
 |-
 ! colspan="2" |Hermes Legendary Pick Up 03
 |-
 |'''Hermes'''
-|"Consegna espressa per te, cugino! Il messaggio dice: ''\"Congratulazioni! Sei il mio centesimo cliente di quest'oggi\"''. Ed ecco qui il tuo premio!"
+|"Consegna espressa per te, cugino! Il messaggio dice: *\"Congratulazioni! Sei il mio centesimo cliente di quest'oggi\"*. Ed ecco qui il tuo premio!"
 |-
 ! colspan="2" |Hermes Low Health 01
 |-
@@ -550,7 +550,7 @@
 ! colspan="2" |Hermes Low Health 02
 |-
 |'''Hermes'''
-|"''Fiuuu'', pare che il tempo non sia stato clemente con te dal nostro ultimo incontro, cuginetto. Be', quando la vita si fa dura, supera in fretta le parti più brutte, dico io!"
+|"*Fiuuu*, pare che il tempo non sia stato clemente con te dal nostro ultimo incontro, cuginetto. Be', quando la vita si fa dura, supera in fretta le parti più brutte, dico io!"
 |-
 ! colspan="2" |Hermes Low Health 03
 |-
@@ -560,7 +560,7 @@
 ! colspan="2" |Hermes Low Health 04
 |-
 |'''Hermes'''
-|"C'è una linea sottile tra il fare in fretta e il fare ''troppo ''in fretta, capo, ma visto quanto sei conciato male, mi sa che farai meglio ad affrettarti il più possibile!"
+|"C'è una linea sottile tra il fare in fretta e il fare *troppo *in fretta, capo, ma visto quanto sei conciato male, mi sa che farai meglio ad affrettarti il più possibile!"
 |-
 ! colspan="2" |Hermes Low Health 05
 |-
@@ -570,7 +570,7 @@
 ! colspan="2" |Hermes Low Health 06
 |-
 |'''Hermes'''
-|"''Ooh''! Che ti è successo venendo qui, capo? Lasciami indovinare: ti hanno frustrato, bruciato, pestato con mazze spettrali... cose del genere, sì?"
+|"*Ooh*! Che ti è successo venendo qui, capo? Lasciami indovinare: ti hanno frustrato, bruciato, pestato con mazze spettrali... cose del genere, sì?"
 |-
 ! colspan="2" |Hermes Low Health 07
 |-
@@ -598,12 +598,12 @@
 ! colspan="2" |Hermes Misc Pickup 03
 |-
 |'''Hermes'''
-|"Orbene, cuginetto, consegna espressa per... ''dov'è ''che ti trovi, al momento? Poco importa, prendi uno di questi e torna alle tue faccende!"
+|"Orbene, cuginetto, consegna espressa per... *dov'è *che ti trovi, al momento? Poco importa, prendi uno di questi e torna alle tue faccende!"
 |-
 ! colspan="2" |Hermes Misc Pickup 04
 |-
 |'''Hermes'''
-|"So che hai una certa fretta, capo, ma se hai un momento, lascia che ti mostri che cosa significa andare ''davvero ''di corsa!"
+|"So che hai una certa fretta, capo, ma se hai un momento, lascia che ti mostri che cosa significa andare *davvero *di corsa!"
 |-
 ! colspan="2" |Hermes Misc Pickup 05
 |-
@@ -628,7 +628,7 @@
 ! colspan="2" |Hermes Misc Pickup 09
 |-
 |'''Hermes'''
-|"Temo che nessuno da queste parti sia più lesto di me, cuginetto. La buona notizia è che ''tu ''stai per ridurre un po' il distacco!"
+|"Temo che nessuno da queste parti sia più lesto di me, cuginetto. La buona notizia è che *tu *stai per ridurre un po' il distacco!"
 |-
 ! colspan="2" |Hermes Misc Pickup 10
 |-
@@ -638,17 +638,17 @@
 ! colspan="2" |Hermes Misc Pickup 11
 |-
 |'''Hermes'''
-|"Che ne dici se allunghiamo il passo ''giusto ''un po', cuginetto? O magari un sacco, a seconda di come ti gira al momento."
+|"Che ne dici se allunghiamo il passo *giusto *un po', cuginetto? O magari un sacco, a seconda di come ti gira al momento."
 |-
 ! colspan="2" |Hermes Misc Pickup 12
 |-
 |'''Hermes'''
-|"L'ultima cosa che voglio fare è rallentarti, capo. Bando alle ciance, dunque. Prendi questo e vai. ''Vai''!"
+|"L'ultima cosa che voglio fare è rallentarti, capo. Bando alle ciance, dunque. Prendi questo e vai. *Vai*!"
 |-
 ! colspan="2" |Hermes Misc Pickup 13
 |-
 |'''Hermes'''
-|"Ne hai di strada da percorrere, capo. La buona notizia è che la parte più lenta di questa scampagnata finisce proprio... ''ora''!"
+|"Ne hai di strada da percorrere, capo. La buona notizia è che la parte più lenta di questa scampagnata finisce proprio... *ora*!"
 |-
 ! colspan="2" |Hermes Misc Pickup 14
 |-
@@ -673,7 +673,7 @@
 ! colspan="2" |Hermes Misc Pickup 18
 |-
 |'''Hermes'''
-|"Vorrei poter piombare laggiù e portarti via, cuginetto, ma ci sono leggi che nemmeno io posso infrangere. Ma mi fa piacere vederti ''provare'', comunque!"
+|"Vorrei poter piombare laggiù e portarti via, cuginetto, ma ci sono leggi che nemmeno io posso infrangere. Ma mi fa piacere vederti *provare*, comunque!"
 |-
 ! colspan="2" |Hermes Misc Pickup 19
 |-
@@ -688,7 +688,7 @@
 ! colspan="2" |Hermes Misc Pickup Extra 01
 |-
 |'''Hermes'''
-|"Non c'è molto di nuovo da riferire quassù, ma pare che laggiù da ''voi ''stia succedendo di tutto, capo!"
+|"Non c'è molto di nuovo da riferire quassù, ma pare che laggiù da *voi *stia succedendo di tutto, capo!"
 |-
 ! colspan="2" |Hermes Misc Pickup Extra 02
 |-
@@ -738,7 +738,7 @@
 ! colspan="2" |Hermes Misc Pickup 29
 |-
 |'''Hermes'''
-|"Messaggio per te, cuginetto: dice ''\"Prendine uno. Goditelo, è gratis!\"''"
+|"Messaggio per te, cuginetto: dice *\"Prendine uno. Goditelo, è gratis!\"*"
 |-
 ! colspan="2" |Hermes Misc Pickup 30
 |-
@@ -778,7 +778,7 @@
 ! colspan="2" |Hermes Misc Pickup 37
 |-
 |'''Hermes'''
-|"Non stare lì impalato, cuginetto, prendi uno di questi e ''vai''!"
+|"Non stare lì impalato, cuginetto, prendi uno di questi e *vai*!"
 |-
 ! colspan="2" |Hermes Misc Pickup 38
 |-
@@ -813,12 +813,12 @@
 ! colspan="2" |Hermes Misc Pickup 44
 |-
 |'''Hermes'''
-|"Messaggio per te, capo. Dice: ''\"To', scegline uno e riparti subito!\"''"
+|"Messaggio per te, capo. Dice: *\"To', scegline uno e riparti subito!\"*"
 |-
 ! colspan="2" |Hermes Misc Pickup 45
 |-
 |'''Hermes'''
-|"Un altro messaggio per te! Questo dice: ''\"Ehi, capo! Prendi questo!\"''"
+|"Un altro messaggio per te! Questo dice: *\"Ehi, capo! Prendi questo!\"*"
 |-
 ! colspan="2" |Hermes Misc Pickup 46
 |-
@@ -928,7 +928,7 @@
 ! colspan="2" |Hermes Loot Bought 05
 |-
 |'''Hermes'''
-|"Quando si dice il caso, capo! Mi stavo facendo gli affari miei, consegnando un po' di povere anime trapassate al mio socio in affari, quando salti fuori tu proprio ''tu''! Che coincidenza!"
+|"Quando si dice il caso, capo! Mi stavo facendo gli affari miei, consegnando un po' di povere anime trapassate al mio socio in affari, quando salti fuori tu proprio *tu*! Che coincidenza!"
 |-
 ! colspan="2" |Hermes Loot Bought 06
 |-
@@ -943,12 +943,12 @@
 ! colspan="2" |Hermes Loot Bought 08
 |-
 |'''Hermes'''
-|"Ti chiederei di non fare troppe domande al mio buon socio in affari laggiù, ma chi vogliamo prendere in ''giro'', capo? Non è che otterresti una risposta, in ogni caso!"
+|"Ti chiederei di non fare troppe domande al mio buon socio in affari laggiù, ma chi vogliamo prendere in *giro*, capo? Non è che otterresti una risposta, in ogni caso!"
 |-
 ! colspan="2" |Hermes Loot Bought 09
 |-
 |'''Hermes'''
-|"Messaggio per te, capo, da parte del mio socio in affari! Vuole che ti dica, e cito: ''\"Hhhrrrrnnnngggggghhhhhh\"''."
+|"Messaggio per te, capo, da parte del mio socio in affari! Vuole che ti dica, e cito: *\"Hhhrrrrnnnngggggghhhhhh\"*."
 |-
 ! colspan="2" |Hermes Loot Bought 10
 |-
@@ -976,7 +976,7 @@
 |"Nobile Ermes, ti prego di accettare questo piccolo pegno della mia stima. Sono grato che tu mi tenga sempre sull'attenti."
 |-
 |'''Hermes'''
-|"''Oh''! Gran bel gesto da parte tua darmi una mancia, capo. Fatti dare una dritta, in cambio: non essere lento! Magari questo può aiutare."
+|"*Oh*! Gran bel gesto da parte tua darmi una mancia, capo. Fatti dare una dritta, in cambio: non essere lento! Magari questo può aiutare."
 |-
 ! colspan="2" |Hermes Gift 02
 |-
@@ -1024,12 +1024,12 @@
 |"Con questa rara prelibatezza io ti rendo omaggio, sommo Ermes! Be', rara quaggiù, a ogni modo. Non lo dai mai a vedere, ma posso solo immaginare quanta fatica ti costi aiutarmi. Alla salute, amico!"
 |-
 |'''Hermes'''
-|"Sai, cugino? L'ultima volta che mi hanno offerto Ambrosia dall'Oltretomba è stato... ''mai'', prima d'ora! Gran bel gesto da parte tua. In realtà avresti potuto dare per scontati i miei servigi e non me la sarei affatto presa! Ma grazie mille, comunque."
+|"Sai, cugino? L'ultima volta che mi hanno offerto Ambrosia dall'Oltretomba è stato... *mai*, prima d'ora! Gran bel gesto da parte tua. In realtà avresti potuto dare per scontati i miei servigi e non me la sarei affatto presa! Ma grazie mille, comunque."
 |-
 ! colspan="2" |Hermes Gift 08
 |-
 |'''Zagreus'''
-|"Messaggio per te, sommo Ermes! Dice: ''\"Questa offerta è dedicata all'impareggiabile dio della lestezza, la cui presenza è sufficiente a render buona qualsiasi notizia. Sei un vero amico, sai? Ti sono debitore\". ''Firmato, Zagreus."
+|"Messaggio per te, sommo Ermes! Dice: *\"Questa offerta è dedicata all'impareggiabile dio della lestezza, la cui presenza è sufficiente a render buona qualsiasi notizia. Sei un vero amico, sai? Ti sono debitore\". *Firmato, Zagreus."
 |-
 |'''Hermes'''
 |"Senti, cuginetto, accetterò quest'ultima Ambrosia da te e poi basta, va bene? D'ora in poi, intendo far valere i miei princìpi di serio professionista. Solo rapporti di lavoro, tra noi due! Ma, detto fra noi, sei uno dei miei migliori amici. Ci tengo a fartelo sapere."
