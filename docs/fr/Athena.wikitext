@@ -1,6 +1,6 @@
 {| class="wikitable"
 |+
-! colspan="2" |Zeus With Athena 01
+! colspan="2" |Duo - Zeus and Athena (1)
 |-
 |'''Zeus'''
 |"Regarde, Zagreus, voici la courageuse Athéna, la première de ma famille à t'avoir tendu la main dans toute sa sagacité. Ma fille, tu es si proactive que tu as contacté Zagreus avant même de m'informer de la situation !"
@@ -8,7 +8,7 @@
 |'''Athena'''
 |"Cher père, si seulement il m'était possible de régler de telles affaires encore plus promptement et discrètement, pour que seules les plus graves captent votre attention. Cela dit, je suis certaine que Zagreus et moi vous sommes très reconnaissants de votre intervention."
 |-
-! colspan="2" |Ares With Athena 01
+! colspan="2" |Duo - Ares and Athena (1)
 |-
 |'''Ares'''
 |"J'espérais pouvoir te parler à nouveau en privé, cher parent, mais vois-tu..."
@@ -22,7 +22,7 @@
 |'''Athena'''
 |"Tu fais toujours comme bon te semble, cher Arès. Veille seulement à garder le même cap que nous tous."
 |-
-! colspan="2" |Aphrodite With Athena 01
+! colspan="2" |Duo - Aphrodite and Athena (1)
 |-
 |'''Aphrodite'''
 |"Tu dois nous excuser, petit dieu. Je parle de notre grande famille sur l'Olympe ! Certains d'entre nous sont terriblement coincés, et rendent les choses bien plus compliquées qu'elles n'ont besoin de l'être."
@@ -33,7 +33,7 @@
 |'''Aphrodite'''
 |"Oh, tu sais que je ferais bien plus que ça à ta face, ma chère Athéna ! Pour être tout à fait franche, il y a de quoi faire !"
 |-
-! colspan="2" |Aphrodite With Athena 02
+! colspan="2" |Duo - Aphrodite and Athena (2)
 |-
 |'''Aphrodite'''
 |"Mon chéri, tu dois savoir que la déesse Athéna et moi-même ne sommes pas toujours du même avis. Peut-être parce qu'elle passe son temps à trop réfléchir, tandis que moi, je suis mon cœur !"
@@ -41,15 +41,15 @@
 |'''Athena'''
 |"Je suis contente de voir que nous avons pu nous mettre d'accord pour cette fois, alors. Ce serait fort embarrassant de nous chamailler devant Zagreus."
 |-
-! colspan="2" |Dionysus With Athena 01
+! colspan="2" |Duo - Dionysus and Athena (1)
 |-
 |'''Dionysus'''
-|"Hé, Zag ! Quand tu seras là, ça sera vraiment super, mec. Je te promets ! Même Athéna ici présente se détendra un peu, elle détachera ses cheveux, mettra une tenue un peu plus relax... Ouais, ça va être un truc de ''dingue '' !"
+|"Hé, Zag ! Quand tu seras là, ça sera vraiment super, mec. Je te promets ! Même Athéna ici présente se détendra un peu, elle détachera ses cheveux, mettra une tenue un peu plus relax... Ouais, ça va être un truc de *dingue * !"
 |-
 |'''Athena'''
 |"Parfois, je me dis qu'en vérité, c'est peut-être le seigneur Dionysos qui est le vrai dieu de la stratégie, car il semble étrangement toujours au courant de mon prochain coup. Enfin, quoi qu'il en soit, je tâcherai de rester concentrée sur ta situation. Pas sur son banquet."
 |-
-! colspan="2" |Athena With Zeus 01
+! colspan="2" |Duo - Athena and Zeus (1)
 |-
 |'''Athena'''
 |"Noble cousin, mon auguste père s'intéresse à votre quête et cherche maintenant à vous aider avec rien de moins que le tonnerre des cieux. Et vous avez aussi mon soutien, bien sûr."
@@ -57,15 +57,15 @@
 |'''Zeus'''
 |"Je te remercie pour ta généreuse présentation, Athéna, et je me réjouis toujours de t'avoir à mes côtés. Je suis sûr que notre double protection garantit à Zagreus de réussir !"
 |-
-! colspan="2" |Athena With Poseidon 01
+! colspan="2" |Duo - Athena and Poseidon (1)
 |-
 |'''Athena'''
 |"Quand j'ai informé le seigneur Zeus et d'autres membres de notre famille de votre existence, Zagreus, c'est oncle Poséidon qui s'est manifesté en premier en vous accordant la bienveillance de la mer et de la terre. N'est-ce pas, mon oncle ?"
 |-
 |'''Poseidon'''
-|"Exactement, Athéna, avec cette excellente mémoire qui te caractérise ! Parce que ce n'est pas tous les jours qu'on apprend que son triste frère Hadès a engendré un bon fils ! Il ignore la chance qu'il a ! Et ''toi'', mon neveu, mérite tellement ''mieux ''!"
+|"Exactement, Athéna, avec cette excellente mémoire qui te caractérise ! Parce que ce n'est pas tous les jours qu'on apprend que son triste frère Hadès a engendré un bon fils ! Il ignore la chance qu'il a ! Et *toi*, mon neveu, mérite tellement *mieux *!"
 |-
-! colspan="2" |Athena With Aphrodite 01
+! colspan="2" |Duo - Athena and Aphrodite (1)
 |-
 |'''Athena'''
 |"Ta situation a rassemblé tous les membres de notre famille dans le désir de te soutenir, cousin. Même ceux qui, d'ordinaire, ne pensent qu'à eux-mêmes."
@@ -76,7 +76,7 @@
 |'''Athena'''
 |"Le monde n'est pas que mensonges et tromperies comme tu le prétends, Aphrodite. Parfois, l'entraide se fait sans arrière-pensées. Maintenant, aide Zagreus ou va-t'en."
 |-
-! colspan="2" |Athena With Artemis 01
+! colspan="2" |Duo - Athena and Artemis (1)
 |-
 |'''Athena'''
 |"Est-ce que tu as un moment, Zagreus ? Un membre de ma famille m’accuse de ne pas lui accorder assez de temps avec toi. Je l’ai donc amené ici avec moi."
@@ -87,7 +87,7 @@
 |'''Athena'''
 |"Bon, j’imagine que c’est réglé, alors. Je crains que ce genre d’interactions ne soit pas rare dans ma famille, mais bon, qu'est-ce qu'une famille sans ses petits défauts ?"
 |-
-! colspan="2" |Athena With Dionysus 01
+! colspan="2" |Duo - Athena and Dionysus (1)
 |-
 |'''Athena'''
 |"Certains membres de notre famille ne comprennent pas encore totalement la précarité de ta situation, cousin. Le Seigneur Dionysos, par exemple, la considère même comme un motif de réjouissances !"
@@ -95,7 +95,7 @@
 |'''Dionysus'''
 |"Oh, allez, Athéna, tu vas quand même pas me dire que découvrir l'existence d'un parent oublié n'est pas une excellente raison de faire la fête, si ? Non, parce que si Zag n'est pas un motif de réjouissances, alors moi, je sais pas ce qu'il nous reste !"
 |-
-! colspan="2" |Athena With Demeter 01
+! colspan="2" |Duo - Athena and Demeter (1)
 |-
 |'''Athena'''
 |"J'amène avec moi Dame Déméter, cousin. Je lui ai assuré que nous avions la situation bien en main, mais elle a malgré tout insisté pour t'apporter son soutien, dans son infinie compassion !"
@@ -119,7 +119,7 @@
 ! colspan="2" |Athena Post Epilogue 01
 |-
 |'''Athena'''
-|"Ce fut un honneur de visiter la Maison de ton père, et de ''te '' voir brièvement en personne, Zagreus. Nyx et ta mère sont très rusées ; peut-être que c'est d'elles que tu tiens ton intelligence. Quant à tes nouvelles responsabilités... exposer les vulnérabilités dans une défense est ma spécialité."
+|"Ce fut un honneur de visiter la Maison de ton père, et de *te * voir brièvement en personne, Zagreus. Nyx et ta mère sont très rusées ; peut-être que c'est d'elles que tu tiens ton intelligence. Quant à tes nouvelles responsabilités... exposer les vulnérabilités dans une défense est ma spécialité."
 |-
 ! colspan="2" |Athena About Zeus 01
 |-
@@ -365,7 +365,7 @@
 ! colspan="2" |Athena First Pick Up
 |-
 |'''Zagreus'''
-|"Ça doit être elle. Bon, alors c'est parti... ''Hum ''! Au nom d’Hadès ! Olympe, j’accepte ce message."
+|"Ça doit être elle. Bon, alors c'est parti... *Hum *! Au nom d’Hadès ! Olympe, j’accepte ce message."
 |-
 |'''Athena'''
 |"Salutations, noble Cousin. À présent, faisons en sorte que tu t'échappes de ce misérable taudis. Je veillerai à ce que nous tous sur l’Olympe venions à ton secours, à commencer par moi-même dès maintenant."
@@ -836,7 +836,7 @@
 |'''Athena'''
 |"Zagreus ? Quand Nyx s'est révélée à moi et qu'elle m'a parlé de vous, j'ai vu la chose comme une occasion de construire un pont entre l'Olympe et le royaume de votre père. Mais les quelques aperçus que j'ai pu avoir de votre personnalité m'ont convaincue que c'est d'autant plus un honneur d'avoir entamé cette association avec vous."
 |-
-! colspan="2" |Poseidon With Athena 01
+! colspan="2" |Duo - Poseidon and Athena (1)
 |-
 |'''Poseidon'''
 |"Comme tu le vois maintenant, nous sommes une grande et intelligente famille, p'tit Hadès ! Mais ma nièce Athéna est la plus intelligente de tous. On a du mal à croire qu'elle n'ait pas d'enfants, dévouée et attentionnée envers nous tous comme elle est !"
@@ -844,7 +844,7 @@
 |'''Athena'''
 |"Mon intelligence me vient sûrement de votre frère et de vous, ô oncle Poséidon. Et j'ajouterais que nous avons bien assez d'enfants dans cette famille, et qu'il n'est pas la peine d'en faire d'autres pour le moment."
 |-
-! colspan="2" |Demeter With Athena 01
+! colspan="2" |Duo - Demeter and Athena (1)
 |-
 |'''Demeter'''
 |"Quand je pense, jeune pousse, que notre stratège, la déesse Athéna, est née de la tête de Zeus ! Je ne m'attendais pas à ce qu'une quelconque forme d'intelligence sorte un jour d'un endroit pareil."

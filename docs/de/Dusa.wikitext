@@ -9,7 +9,7 @@
 |"Ich, äh, wollte nur sagen, dass der Salon wundervoll aussieht, fast wie neu. Besser! Ich hoffe, es war nicht allzu schwierig, alles wieder in Ordnung zu bringen."
 |-
 |'''Dusa'''
-|"Ichichich''aaah'', Ich muss die Dachsperren reinigen, ich...!"
+|"Ichichich*aaah*, Ich muss die Dachsperren reinigen, ich...!"
 |-
 ! colspan="2" |Dusa Misc Meeting 02
 |-
@@ -19,15 +19,15 @@
 ! colspan="2" |Dusa Misc Meeting 02 Extra
 |-
 |'''Zagreus'''
-|"''Äh'', Dusa? Ich werde nun doch wohl hin und wieder hier hereinschauen, so wie jetzt. Aber du brauchst mein Gemach nicht aufzuräumen. Ich bleibe nicht lange."
+|"*Äh*, Dusa? Ich werde nun doch wohl hin und wieder hier hereinschauen, so wie jetzt. Aber du brauchst mein Gemach nicht aufzuräumen. Ich bleibe nicht lange."
 |-
 |'''Dusa'''
-|"Oh, ''hahaha'', natürlich! Aber ich werde doch hin und wieder einen Blick hineinwerfen, für den Fall, dass du es dir anders überlegst, ähm, also auf Wiedersehen!"
+|"Oh, *hahaha*, natürlich! Aber ich werde doch hin und wieder einen Blick hineinwerfen, für den Fall, dass du es dir anders überlegst, ähm, also auf Wiedersehen!"
 |-
 ! colspan="2" |Dusa Misc Meeting 03
 |-
 |'''Dusa'''
-|"''Ähm'', Prinz, dein Vater, ich, ich glaube er ist im Augenblick recht ungehalten über etwas, und vielleicht könntest du dich von ihm fernhalten? Oder ich könnte ihm sagen, dass du nicht hier bist?"
+|"*Ähm*, Prinz, dein Vater, ich, ich glaube er ist im Augenblick recht ungehalten über etwas, und vielleicht könntest du dich von ihm fernhalten? Oder ich könnte ihm sagen, dass du nicht hier bist?"
 |-
 |'''Zagreus'''
 |"Das ist schon in Ordnung, Dusa. Ich habe keine Angst vor ihm. Und du solltest das auch nicht. Du bist die beste Hausangestellte, die er je gefunden hat."
@@ -38,7 +38,7 @@
 ! colspan="2" |Dusa Misc Meeting 04
 |-
 |'''Dusa'''
-|"Oh, ''ähm'', ja, hallo, Prinz. Hast du einen Wunsch, oder soll ich vielleicht noch ein bisschen aufräumen, oder, da fällt mir ein, möchtest du etwas zu trinken? Irgendwann?"
+|"Oh, *ähm*, ja, hallo, Prinz. Hast du einen Wunsch, oder soll ich vielleicht noch ein bisschen aufräumen, oder, da fällt mir ein, möchtest du etwas zu trinken? Irgendwann?"
 |-
 |'''Zagreus'''
 |"Oh! Ein Getränk irgendwann klingt wunderbar, Dusa, vielleicht morgen, sofern ich bis dahin nicht hier herausgekommen bin...?"
@@ -65,19 +65,19 @@
 ! colspan="2" |Dusa Date 01
 |-
 |'''Zagreus'''
-|"''Ähm'', Fräulein Dusa, ich wollte dich, ''äh'', herzlich zu einem Ausflug in den Salon einladen? Du hattest mich doch gefragt, ob ich etwas trinken möchte?"
+|"*Ähm*, Fräulein Dusa, ich wollte dich, *äh*, herzlich zu einem Ausflug in den Salon einladen? Du hattest mich doch gefragt, ob ich etwas trinken möchte?"
 |-
 |'''Dusa'''
-|"''Aaah! ''Oh, oh, oh, wirklich, was du meinst jetzt, du... Ich... Ich denke, ich müsste längst mal wieder eine Pause machen..."
+|"*Aaah! *Oh, oh, oh, wirklich, was du meinst jetzt, du... Ich... Ich denke, ich müsste längst mal wieder eine Pause machen..."
 |-
 |'''Dusa'''
 |"...Und, na ja, weil ich nicht gerade eine traditionelle Gorgone bin, denn ich habe ja keinen Körper, fiel es mir schwer, eine Arbeit zu finden! Bis der ehrwürdige Hades mich in seine Dienste nahm, und dann lernte ich dich kennen, und, na ja, ich liebe diese Stelle!!"
 |-
 |'''Zagreus'''
-|"''Oh''! Ja, ich kann mich auf jeden Fall in manche dieser Sachen hineinversetzen."
+|"*Oh*! Ja, ich kann mich auf jeden Fall in manche dieser Sachen hineinversetzen."
 |-
 |'''Dusa'''
-|"''<Seufzen> ''Ich, ich, ich, danke, eure Hoheit. Prinz. Prinz Zagreus!"
+|"*<Seufzen> *Ich, ich, ich, danke, eure Hoheit. Prinz. Prinz Zagreus!"
 |-
 ! colspan="2" |Dusa Date Aftermath 01
 |-
@@ -88,7 +88,7 @@
 |"Oh, es ist nichts, um das du dir Sorgen machten müsstest, Dusa. Ich hatte bloß nicht erwartet, dass es so verflucht schwierig sein würde, mir den Weg hinaus zu erkämpfen. Wenn ich das so unverblümt sagen darf."
 |-
 |'''Dusa'''
-|"''Oh'', ich... vielleicht bin ich einfältig, aber ich hätte nicht gedacht, dass ''dich '' jemand bezwingen könnte, du bist doch der Prinz? Größer als der mächtige Achilles, listiger als sein Vater, flinker als Hermes! Aber... du musst dich plagen, so wie ich?"
+|"*Oh*, ich... vielleicht bin ich einfältig, aber ich hätte nicht gedacht, dass *dich * jemand bezwingen könnte, du bist doch der Prinz? Größer als der mächtige Achilles, listiger als sein Vater, flinker als Hermes! Aber... du musst dich plagen, so wie ich?"
 |-
 |'''Zagreus'''
 |"Das ist richtig. Und die Dinge, die du über mich gehört hast, stimmen nicht."
@@ -102,13 +102,13 @@
 |"Ich bin's! Dusa, ich bin beeindruckt, dass du es fertigbringst, den Salon ganz allein in Ordnung zu halten. Wie schaffst du das, was ist dein Geheimnis?"
 |-
 |'''Dusa'''
-|"''Hahaha'', Geheimnis? Ich liege bei diesem Gemach gut zwei Wochen im Rückstand, wenn nicht mehr! Zum Glück scheint hier niemand sonderlich genau auf die Zeit zu achten, drum hat sich noch niemand bei mir beschwert, aber... oh, du wirst mich doch nicht verpetzen?"
+|"*Hahaha*, Geheimnis? Ich liege bei diesem Gemach gut zwei Wochen im Rückstand, wenn nicht mehr! Zum Glück scheint hier niemand sonderlich genau auf die Zeit zu achten, drum hat sich noch niemand bei mir beschwert, aber... oh, du wirst mich doch nicht verpetzen?"
 |-
 |'''Zagreus'''
 |"Natürlich nicht. Was genau ist denn im Rückstand? Hier sieht es nicht schlimmer aus als sonst."
 |-
 |'''Dusa'''
-|"Ja eben! Fräulein Nyx betraute mich vor einiger Zeit mit einem recht großen Projekt. Ich soll dafür sorgen, dass dieses Gemach ''seines Namens würdig '' aussieht, und das heißt... Ich habe noch wahnsinnig viel zu tun, ich muss alles fertig machen, bitte entschuldige mich, Prinz!"
+|"Ja eben! Fräulein Nyx betraute mich vor einiger Zeit mit einem recht großen Projekt. Ich soll dafür sorgen, dass dieses Gemach *seines Namens würdig * aussieht, und das heißt... Ich habe noch wahnsinnig viel zu tun, ich muss alles fertig machen, bitte entschuldige mich, Prinz!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 02
 |-
@@ -119,13 +119,13 @@
 |"Dusa, warte, ehe du davonfliegst... Es muss doch irgendwas geben, das ich dir abnehmen könnte? Egal, wie gut du bist, was du da beschreibst, geht doch über die Kräfte eines Einzelnen hinaus!"
 |-
 |'''Dusa'''
-|"Eure Hoheit, bitte! Ich weiß, du meinst es gut, aber ich habe alles unter Kontrolle! Ich wünschte, es würden nicht immer alle an mir zweifeln. Wie der Baumeister, der einfach herumstehen darf und auf Arbeitsaufträge wartet! Es sei denn, sie kommen von mir, dann heißt es nur ''nöööh''."
+|"Eure Hoheit, bitte! Ich weiß, du meinst es gut, aber ich habe alles unter Kontrolle! Ich wünschte, es würden nicht immer alle an mir zweifeln. Wie der Baumeister, der einfach herumstehen darf und auf Arbeitsaufträge wartet! Es sei denn, sie kommen von mir, dann heißt es nur *nöööh*."
 |-
 |'''Zagreus'''
 |"Der Baumeister zieht nicht mit dir an einem Strang, soso. Kein Wunder, dass so viele Renovierungsarbeiten im Salon ins Stocken geraten sind. Vielleicht könnte ich etwas Öl ins Getriebe gießen?"
 |-
 |'''Dusa'''
-|"''AAH'', das habe ich vollkommen vergessen!! Ich muss noch Öl für den Küchenchef besorgen! Ich muss gehen!!"
+|"*AAH*, das habe ich vollkommen vergessen!! Ich muss noch Öl für den Küchenchef besorgen! Ich muss gehen!!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 02 Alt
 |-
@@ -133,7 +133,7 @@
 |"Ohh, das könnte an mir liegen. Ich halte den Baumeister mit allerhand Arbeit auf Trab. Einige der Salonaufträge müssen wohl von dir stammen, oder? Hier sieht es schon viel besser aus!"
 |-
 |'''Dusa'''
-|"Wa-wa-was, dann hast du all diese Verbesserungen genehmigt?! Oh je, oh je, ''aaaah''!"
+|"Wa-wa-was, dann hast du all diese Verbesserungen genehmigt?! Oh je, oh je, *aaaah*!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 03
 |-
@@ -141,7 +141,7 @@
 |"Der Salon nimmt in letzter Zeit so langsam Form an, Dusa! All deine harte Arbeit macht sich wirklich bezahlt!"
 |-
 |'''Dusa'''
-|"''Hah''! Tja, danke, Prinz, es ist bloß so, dass der Baumeister in letzter Zeit zwar ein klein wenig umgänglicher ist und vielleicht etwas schneller arbeitet, aber es gibt noch viel zu tun, also, mach dich auf was gefasst!"
+|"*Hah*! Tja, danke, Prinz, es ist bloß so, dass der Baumeister in letzter Zeit zwar ein klein wenig umgänglicher ist und vielleicht etwas schneller arbeitet, aber es gibt noch viel zu tun, also, mach dich auf was gefasst!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest Complete
 |-
@@ -152,7 +152,7 @@
 |"Warte, nein, ich habe jetzt Zeit, natürlich, was gibt es denn, Dusa? Ich bin übrigens nicht sonderlich beschäftigt und habe immer Zeit für ein Schwätzchen. Warte, ist etwas nicht in Ordnung?"
 |-
 |'''Dusa'''
-|"Nein, ''nein nein nein'', ganz im Gegenteil, ich... kann es nicht fassen, dass du mir geholfen hast, mit dem Salon. Ich glaube, ''niemand ''hat mir ''jemals ''so wie du geholfen, mit der Verwüstung, die Kerberos hinterlässt, und dem neuen Teppich und der neuen Küche und einfach allem!"
+|"Nein, *nein nein nein*, ganz im Gegenteil, ich... kann es nicht fassen, dass du mir geholfen hast, mit dem Salon. Ich glaube, *niemand *hat mir *jemals *so wie du geholfen, mit der Verwüstung, die Kerberos hinterlässt, und dem neuen Teppich und der neuen Küche und einfach allem!"
 |-
 |'''Zagreus'''
 |"Es war mir wirklich ein Vergnügen. Wir alle benutzen doch den Salon, oder nicht? Dieses Haus kann einem über den Kopf wachsen, aber im Salon hier sind die Dinge ein bisschen einfacher, meine ich. Ich bin froh, dass du dich um ihn kümmerst."
@@ -178,7 +178,7 @@
 |"Es tut mir leid, Dusa, ich... habe dir viel zugemutet, und... vielleicht hätte ich das besser bleiben lassen, weil ich der Prinz bin und überhaupt, wie du schon sagst, und... manchmal vergesse ich mich. Ich würde dich nie unter Druck setzen, es ist nur... ich dachte, du hegtest die gleichen Gefühle für mich."
 |-
 |'''Dusa'''
-|"Ich ''habe ''Gefühle für dich, Dummerchen. Das ist es doch, was ich dir zu sagen versuche, es ist nur... es ist nur..."
+|"Ich *habe *Gefühle für dich, Dummerchen. Das ist es doch, was ich dir zu sagen versuche, es ist nur... es ist nur..."
 |-
 |'''Zagreus'''
 |"Es ist nur was...? Was es auch sei, es ist in Ordnung. Du kannst bei mir ganz du selbst sein, Dusa. Das verspreche ich."
@@ -187,10 +187,10 @@
 |"Es freut mich, dass du es so sagst. Ich.. ich bin nicht auf der Suche nach einer intimen Beziehung. Du bist die gütigste Seele im ganzen Haus. Und ich habe so viel von dir gelernt! Aber, wenn ich ernsthaft über meine Gefühle nachdenke... Ich fühle mich einfach nicht auf diese Art zu dir hingezogen. Es tut mir leid. Du bist ein wirklich netter Typ!"
 |-
 |'''Zagreus'''
-|"Oh, ''hahaha'', da gibt's nichts zu entschuldigen, nein, gar nichts. Ehrlich gesagt... ich bin erleichtert. Auch ich habe viel von dir gelernt, und ich schätze unsere Freundschaft, so wie sie jetzt ist. Meinst du... wir können Freunde bleiben? Oder wäre es dir lieber, mich nicht mehr zu sehen...?"
+|"Oh, *hahaha*, da gibt's nichts zu entschuldigen, nein, gar nichts. Ehrlich gesagt... ich bin erleichtert. Auch ich habe viel von dir gelernt, und ich schätze unsere Freundschaft, so wie sie jetzt ist. Meinst du... wir können Freunde bleiben? Oder wäre es dir lieber, mich nicht mehr zu sehen...?"
 |-
 |'''Dusa'''
-|"Sag doch nicht ''sowas''! Aber ich wollte dich das Gleiche fragen. Ich würde mich wirklich freuen, wenn du mein Freund wärst! Aber meine Karriere hat Vorrang, also... keine Extrawürste, versprochen? Ich will sehen, wie weit ich ohne fremde Hilfe komme."
+|"Sag doch nicht *sowas*! Aber ich wollte dich das Gleiche fragen. Ich würde mich wirklich freuen, wenn du mein Freund wärst! Aber meine Karriere hat Vorrang, also... keine Extrawürste, versprochen? Ich will sehen, wie weit ich ohne fremde Hilfe komme."
 |-
 |'''Zagreus'''
 |"Das respektiere ich zutiefst und ja, ich verspreche es, Dusa. So, dann... Freunde? Auf ewig?"
@@ -204,7 +204,7 @@
 |"He, Zagreus, ich... wollte gern nochmal mit dir reden, ich... wollte nur sagen, ich hoffe, dass ich nicht deine Gefühle verletzt habe, weil... Du würdest es mir doch sicher sagen, wenn es so wäre?"
 |-
 |'''Zagreus'''
-|"Dusa, bitte! ''Freunde auf ewig'', weißt du nicht mehr? Das ist eine lange Zeit, also gibt es nichts daran zu rütteln. Ich bin froh, dass wir das klären konnten."
+|"Dusa, bitte! *Freunde auf ewig*, weißt du nicht mehr? Das ist eine lange Zeit, also gibt es nichts daran zu rütteln. Ich bin froh, dass wir das klären konnten."
 |-
 |'''Dusa'''
 |"Oh, na dann, dann bin ich erleichtert, aber... nur noch eine Sache, damit ich wieder ein reines Gewissen haben kann. Ich habe die Ambrosia, die du mir geschenkt hast, nicht angerührt, und ich dachte, weil... ich nicht gemerkt hatte, was du fühltest? Ich bin manchmal ein bisschen schwer von Begriff! Ich habe sie hier. Und ich möchte sie dir zurückgeben. Ist das in Ordnung?"
@@ -224,21 +224,21 @@
 |"Ah, na gut, ich... musste einfach fragen, also nochmals danke. Ich wollte bloß sichergehen! Ich hoffe, wir können sie irgendwann im Salon genießen!! Dann werde ich sie mal wegstellen. Nicht trinken!! Sondern vorläufig sicher aufbewahren, OK?"
 |-
 |'''Zagreus'''
-|"Wie wäre es mit ''Im Blute''? Das ist doch einer deiner alten Hits, nicht wahr?"
+|"Wie wäre es mit *Im Blute*? Das ist doch einer deiner alten Hits, nicht wahr?"
 |-
 |'''Zagreus'''
-|"Wie wäre es mit ''Argonauten''? Bist du nicht damals mit ihnen über die Meere gefahren?"
+|"Wie wäre es mit *Argonauten*? Bist du nicht damals mit ihnen über die Meere gefahren?"
 |-
 ! colspan="2" |Became Close With Dusa Aftermath 02
 |-
 |'''Dusa'''
-|"He, ''ähm'', Zagreus, ich wollte nur sagen, dass es sehr lieb von dir war, mir zu gestatten, all die Ambrosia aufzubewahren, die du mir bisher gegeben hast? Sie befindet sich jetzt an einem sicheren Ort! Abgesehen von einer Flasche... sie entschlüpfte mir, sozusagen, und zerbrach. Aber dadurch konnte ich das Zeug wenigstens einmal kosten!"
+|"He, *ähm*, Zagreus, ich wollte nur sagen, dass es sehr lieb von dir war, mir zu gestatten, all die Ambrosia aufzubewahren, die du mir bisher gegeben hast? Sie befindet sich jetzt an einem sicheren Ort! Abgesehen von einer Flasche... sie entschlüpfte mir, sozusagen, und zerbrach. Aber dadurch konnte ich das Zeug wenigstens einmal kosten!"
 |-
 |'''Zagreus'''
 |"Oh, du konntest sie schließlich doch noch probieren? Was meinst du, ist sie so gut wie alle immer behaupten?"
 |-
 |'''Dusa'''
-|"Sie war un''glaub''lich. Nie habe ich etwas Ähnliches genossen! Und dank meiner gespaltenen Zunge konnte ich sie gleichzeitig zweimal schmecken! Also, ähm... falls mir eine weitere Flasche entschlüpfen und zerbrechen sollte... das würde dir doch nichts ausmachen, oder?"
+|"Sie war un*glaub*lich. Nie habe ich etwas Ähnliches genossen! Und dank meiner gespaltenen Zunge konnte ich sie gleichzeitig zweimal schmecken! Also, ähm... falls mir eine weitere Flasche entschlüpfen und zerbrechen sollte... das würde dir doch nichts ausmachen, oder?"
 |-
 ! colspan="2" |Became Close With Dusa Aftermath 03
 |-
@@ -246,7 +246,7 @@
 |"Dusa, ich werde dieses Gefühl einfach nicht los, dass ich mich bei dir entschuldigen müsste, weil... Ich glaube, bei unserer ersten Begegnung habe ich... einfach nicht richtig reagiert. Ich hatte noch nie einen Fan gehabt! Ich wollte deiner Vorstellung von mir gerecht werden."
 |-
 |'''Dusa'''
-|"Oh, Prinz, Zagreus, mach dir darum keine Sorgen! Ich wusste ja selbst nicht, was mit mir los war. Als ich anfänglich hier arbeitete, war ich einfach ''so ''beeindruckt von dir... Du warst doch der Einzige, der es wagte, deinem Vater die Stirn zu bieten! Ich dachte ständig an dich!"
+|"Oh, Prinz, Zagreus, mach dir darum keine Sorgen! Ich wusste ja selbst nicht, was mit mir los war. Als ich anfänglich hier arbeitete, war ich einfach *so *beeindruckt von dir... Du warst doch der Einzige, der es wagte, deinem Vater die Stirn zu bieten! Ich dachte ständig an dich!"
 |-
 |'''Zagreus'''
 |"Aber du kanntest mich doch noch gar nicht. Es dauerte eine gefühlte Ewigkeit, bis wir miteinander ins Gespräch kamen. Du bist manchmal schwer zu finden! Im Gegensatz zu dir kann ich ja nicht einfach in die Dachsparren hochfliegen."
@@ -285,7 +285,7 @@
 ! colspan="2" |Dusa About Pressure 01
 |-
 |'''Zagreus'''
-|"''Ugh'', Dusa... manchmal wird mir da draußen alles ein bisschen zu viel, muss ich zugeben. Der Druck ist zwar anders als hier, aber trotzdem."
+|"*Ugh*, Dusa... manchmal wird mir da draußen alles ein bisschen zu viel, muss ich zugeben. Der Druck ist zwar anders als hier, aber trotzdem."
 |-
 |'''Dusa'''
 |"Oh, verliere nicht die Hoffnung, Prinz Zagreus! Du wirst mit allem fertig, da ich bin mir sicher! Du bist genauso hart wie dein Vater, aber im Gegensatz zu ihm auch noch nett! Und du gibst niemals klein bei. Du schaffst das!"
@@ -302,7 +302,7 @@
 |"Darf ich dir ein paar rein rhetorische Fragen stellen, Dusa? Erstens: Was habe ich mir nur eingebrockt...? Und zweitens: Was mache ich bloß...?"
 |-
 |'''Dusa'''
-|"Glaub mir, ich kenne das Gefühl, bis über beide Ohren in Schwierigkeiten zu stecken. Aber wenn ich einen Ausweg aus meiner Bredouille finden kann, dann kannst du das auch, das ''weiß '' ich einfach! Ich habe keine Ahnung, was du machen sollst, aber du findest bei mir immer ein offenes Ohr."
+|"Glaub mir, ich kenne das Gefühl, bis über beide Ohren in Schwierigkeiten zu stecken. Aber wenn ich einen Ausweg aus meiner Bredouille finden kann, dann kannst du das auch, das *weiß * ich einfach! Ich habe keine Ahnung, was du machen sollst, aber du findest bei mir immer ein offenes Ohr."
 |-
 ! colspan="2" |Dusa About Achilles 01
 |-
@@ -323,10 +323,10 @@
 ! colspan="2" |Dusa About Gorgons 01
 |-
 |'''Zagreus'''
-|"''Ähm'', Fräulein Dusa, mir sind draußen in Asphodel feindliche Gorgonen über den Weg gelaufen, die dir ähnlich sahen. Natürlich nur ganz entfernt! Jedenfalls hatten sie keinerlei Liebreiz oder Manieren. Ich hoffe, du bist nicht mit ihnen verwandt, weil ich, naja... du weißt schon."
+|"*Ähm*, Fräulein Dusa, mir sind draußen in Asphodel feindliche Gorgonen über den Weg gelaufen, die dir ähnlich sahen. Natürlich nur ganz entfernt! Jedenfalls hatten sie keinerlei Liebreiz oder Manieren. Ich hoffe, du bist nicht mit ihnen verwandt, weil ich, naja... du weißt schon."
 |-
 |'''Dusa'''
-|"Oh, ''hahaha'', die ollen Gestalten? Das sind Verwandte im allerweitesten Sinne... Stell dir vor, du hättest scheußliche, fast stumpfsinnige Geschwister, die ganz deinem eigenen Blut entsprungen sind. Hast du eine Ahnung, wie schwer es mir wegen ihnen gefallen ist, einen festen Arbeitsplatz zu ergattern?"
+|"Oh, *hahaha*, die ollen Gestalten? Das sind Verwandte im allerweitesten Sinne... Stell dir vor, du hättest scheußliche, fast stumpfsinnige Geschwister, die ganz deinem eigenen Blut entsprungen sind. Hast du eine Ahnung, wie schwer es mir wegen ihnen gefallen ist, einen festen Arbeitsplatz zu ergattern?"
 |-
 |'''Zagreus'''
 |"Dann erlaubst du es mir also, derartige Gorgonen ungestraft niederzustechen?"
@@ -337,7 +337,7 @@
 |"Ich hatte noch eine Frage über deine Beziehungen mit anderen Gorgonen, Dusa. Mir ist aufgefallen, dass du beim Sprechen keine zischenden, schlangenähnlichen Geräusche von dir gibst? Ist das eine spezielle Gorgonensprache oder so?"
 |-
 |'''Dusa'''
-|"Nein, ähm, kann man nicht sagen, Prinz! Es ist einfach das, wonach es klingt,''hrrrsssss''!! Ganz einfach angsteinflößendes Zischen. Sich das abzugewöhnen, ist nicht leicht, wenn man eine gespaltene Zunge hat! Ich wollte wie alle anderen sein. He, und was ist mit dir? Ich habe mich schon immer gefragt, warum du einen Oberwelt-Akzent hast. Wurdest du nicht hier geboren?"
+|"Nein, ähm, kann man nicht sagen, Prinz! Es ist einfach das, wonach es klingt,*hrrrsssss*!! Ganz einfach angsteinflößendes Zischen. Sich das abzugewöhnen, ist nicht leicht, wenn man eine gespaltene Zunge hat! Ich wollte wie alle anderen sein. He, und was ist mit dir? Ich habe mich schon immer gefragt, warum du einen Oberwelt-Akzent hast. Wurdest du nicht hier geboren?"
 |-
 |'''Zagreus'''
 |"Oh, was, ich? Darüber habe ich mir noch nie Gedanken gemacht. Vermutlich habe ich ihn von meinem Vater. Er bestand darauf, mir höchstpersönlich das Sprechen beizubringen. Vielleicht liegt es mir im Blut."
@@ -353,7 +353,7 @@
 ! colspan="2" |Dusa About Gorgons 03 Aftermath 01
 |-
 |'''Zagreus'''
-|"Fräulein Dusa, ich, ''ähm'', wollte mich dafür entschuldigen, dass ich in deiner Vergangenheit herumgeschnüffelt habe. Ich wollte dich einfach besser kennenlernen. Aber es war taktlos, und es tut mir leid. Bitte vergib mir."
+|"Fräulein Dusa, ich, *ähm*, wollte mich dafür entschuldigen, dass ich in deiner Vergangenheit herumgeschnüffelt habe. Ich wollte dich einfach besser kennenlernen. Aber es war taktlos, und es tut mir leid. Bitte vergib mir."
 |-
 |'''Dusa'''
 |"Oh, eure Hoheit, Zagreus, komm schon! Mach dir darüber keine Gedanken! Ich hatte es längst vergessen, war wirklich kein Problem. Es ist nur, dass mir mein früheres Ich... irgendwie selbst ganz fremd ist. So wie ich jetzt bin, bin ich. Ich bin froh, hier zu sein."
@@ -364,7 +364,7 @@
 |"Weißt du, es muss recht praktisch sein, andere versteinern zu können. Kannst du das tun, wann immer es dir beliebt, ähnlich wie... die Zunge herauszustrecken?"
 |-
 |'''Dusa'''
-|"Nein, ganz so leicht ist es nicht! Man muss sich ziemlich aufregen und das, was man sieht, als eine Art Bild... ähm, ausmalen, und dann ''schwuppdiwupp''! Eine steinerne Statue. Es mag kurios klingen, aber ich dachte früher tatsächlich, das könnte jeder!"
+|"Nein, ganz so leicht ist es nicht! Man muss sich ziemlich aufregen und das, was man sieht, als eine Art Bild... ähm, ausmalen, und dann *schwuppdiwupp*! Eine steinerne Statue. Es mag kurios klingen, aber ich dachte früher tatsächlich, das könnte jeder!"
 |-
 ! colspan="2" |Dusa About Singers Reunion Quest 01
 |-
@@ -385,18 +385,18 @@
 ! colspan="2" |Dusa About Meg Relationship 01
 |-
 |'''Dusa'''
-|"Hey, Prinz, ist... ist es wirklich wahr? Das mit Fräulein Meg und dir, also, dass ihr, du weißt schon, ähm? Du weißt schon!! Wenn es stimmt, dann möchte ich nämlich sagen, dass ''ich mich so für euch beide freue''! Das mit euch beiden ist wundervoll!! Oh, ich bin so froh!"
+|"Hey, Prinz, ist... ist es wirklich wahr? Das mit Fräulein Meg und dir, also, dass ihr, du weißt schon, ähm? Du weißt schon!! Wenn es stimmt, dann möchte ich nämlich sagen, dass *ich mich so für euch beide freue*! Das mit euch beiden ist wundervoll!! Oh, ich bin so froh!"
 |-
 |'''Zagreus'''
-|"''Ähm'', danke, Dusa. Ich weiß, dass du und Fräulein Meg euch nahesteht, drum bin ich froh, dass wir deinen Segen haben. Obwohl wir die Sache eigentlich... nicht unbedingt an die große Glocke hängen wollten. Würdest du es also bitte... für dich behalten?"
+|"*Ähm*, danke, Dusa. Ich weiß, dass du und Fräulein Meg euch nahesteht, drum bin ich froh, dass wir deinen Segen haben. Obwohl wir die Sache eigentlich... nicht unbedingt an die große Glocke hängen wollten. Würdest du es also bitte... für dich behalten?"
 |-
 |'''Dusa'''
-|"Oh, darauf kannst du dich verlassen, kein Sterbenswörtchen werde ich sagen, ''nein''! Ich werde einfach ganz allein sehr, sehr froh sein, jawohl, dann mach's gut!"
+|"Oh, darauf kannst du dich verlassen, kein Sterbenswörtchen werde ich sagen, *nein*! Ich werde einfach ganz allein sehr, sehr froh sein, jawohl, dann mach's gut!"
 |-
 ! colspan="2" |Dusa About Than Relationship 01
 |-
 |'''Dusa'''
-|"He, ich sah dich und Thanatos kürzlich, Prinz! Ihr beide seid, wenn ich das so sagen darf, ein wirklich bemerkenswertes Paar, ihr solltet euch mal sehen! Ihr seid, ''oha''...! Mir wird ganz schwindlig, wenn ich nur daran denke! So, muss los, mach's gut!"
+|"He, ich sah dich und Thanatos kürzlich, Prinz! Ihr beide seid, wenn ich das so sagen darf, ein wirklich bemerkenswertes Paar, ihr solltet euch mal sehen! Ihr seid, *oha*...! Mir wird ganz schwindlig, wenn ich nur daran denke! So, muss los, mach's gut!"
 |-
 ! colspan="2" |Dusa About Work 01
 |-
@@ -417,7 +417,7 @@
 |"Sag mal, Dusa, ist dir bei deiner Arbeit im und ums Haus zufällig ein gewisser Skelly begegnet, da draußen im Hof?"
 |-
 |'''Dusa'''
-|"''Oh''! Nicht so richtig, ähm, weil ich ja im Haus selbst arbeite und der Hof, nun ja, sozusagen draußen ist und ich drinnen bleiben soll. Aber ich glaube, ich weiß, wen du meinst! Ich habe ihn unweit der Türen zu deinen Gemächern herumstehen sehen. Warum, geht es ihm gut?"
+|"*Oh*! Nicht so richtig, ähm, weil ich ja im Haus selbst arbeite und der Hof, nun ja, sozusagen draußen ist und ich drinnen bleiben soll. Aber ich glaube, ich weiß, wen du meinst! Ich habe ihn unweit der Türen zu deinen Gemächern herumstehen sehen. Warum, geht es ihm gut?"
 |-
 ! colspan="2" |Dusa About Lounge Clean Up 01
 |-
@@ -439,15 +439,15 @@
 |"Dusa, es gibt etwas, das du über mich wissen musst. Über mich und Nyx vielmehr. Sie ist nicht meine leibliche Mutter...! Das habe ich erst kürzlich erfahren. Meine richtige Mutter heißt Persephone. Sie ist irgendwo da draußen. An der Oberfläche. Deswegen bin ich gegangen. Moment mal, du lachst?"
 |-
 |'''Dusa'''
-|"''Haha'' oh, äh, nein, es ist nur, ''äh''... Es tut mir wirklich, wirklich, wirklich leid, ich kann nicht anders, ich, ''ähm'', wollte dir nicht ins Wort fallen, aber ich wusste das alles schon irgendwie? Äh, das heißt, ich hatte davon gehört, denn alle reden doch, von Zeit zu Zeit? Aber ich hoffe, dass du sie bald finden wirst!"
+|"*Haha* oh, äh, nein, es ist nur, *äh*... Es tut mir wirklich, wirklich, wirklich leid, ich kann nicht anders, ich, *ähm*, wollte dir nicht ins Wort fallen, aber ich wusste das alles schon irgendwie? Äh, das heißt, ich hatte davon gehört, denn alle reden doch, von Zeit zu Zeit? Aber ich hoffe, dass du sie bald finden wirst!"
 |-
 ! colspan="2" |Dusa About Persephone 01 B
 |-
 |'''Zagreus'''
-|"Ich vertraue darauf, dass du dies niemandem im Haus sagen wirst, aber ... ''hab ich''. Sie gefunden, meine ich! Ich... versuche immer noch herauszufinden, was als Nächstes passiert. Kann da noch nicht wirklich drüber reden also... hab etwas Geduld mit mir?"
+|"Ich vertraue darauf, dass du dies niemandem im Haus sagen wirst, aber ... *hab ich*. Sie gefunden, meine ich! Ich... versuche immer noch herauszufinden, was als Nächstes passiert. Kann da noch nicht wirklich drüber reden also... hab etwas Geduld mit mir?"
 |-
 |'''Dusa'''
-|"''Ohh'', wie interessant, wie ist sie denn so? Ist sie groß? Hat sie deine Augen? Wo wohnt sie? Was macht sie? Hat sie eine Stelle? Welche Haarfarbe hat sie? Ist sie, du weißt schon, mit jemandem zusammen?"
+|"*Ohh*, wie interessant, wie ist sie denn so? Ist sie groß? Hat sie deine Augen? Wo wohnt sie? Was macht sie? Hat sie eine Stelle? Welche Haarfarbe hat sie? Ist sie, du weißt schon, mit jemandem zusammen?"
 |-
 ! colspan="2" |Dusa Run Cleared 01
 |-
@@ -455,7 +455,7 @@
 |"Whoa, na sowas, Prinz, du bist... Moment, du bist wieder da? Ich dachte doch...! Ich hörte doch...! Wieso bist du denn noch immer hier?"
 |-
 |'''Zagreus'''
-|"Oh, ''hah'', ja. Ich bin recht weit gekommen, das hast du ganz richtig gehört, Dusa. Aber... ich habe hier nun doch noch einige Dinge zu erledigen, drum... werde ich wohl hin und wieder auftauchen."
+|"Oh, *hah*, ja. Ich bin recht weit gekommen, das hast du ganz richtig gehört, Dusa. Aber... ich habe hier nun doch noch einige Dinge zu erledigen, drum... werde ich wohl hin und wieder auftauchen."
 |-
 |'''Dusa'''
 |"Oh, wow, na, das ist wunderbar! Ich meine, ich hoffe, es ist wunderbar? Ich meine, wenn du es wunderbar findeest, dann finde ich es auch wunderbar! Sofern das in Ordnung ist?"
@@ -474,13 +474,13 @@
 |"Dusa, woher hattest du den Gefährten Fidi, den du mir geschenkt hast? Weißt du, wie wertvoll das Ding ist? Jedenfalls für mich. Ich weiß nicht, ob es noch andere Sammler gibt, aber ich bin definitiv einer!"
 |-
 |'''Dusa'''
-|"''Oh'', ich bin froh, dass du sie magst, Prinz! Ich wusste, es gibt niemanden, der sich besser um sie kümmern würde, und am allerbesten ist... dass sie dich an mich erinnert! Aber woher ich sie hatte, das wird dich überraschen.... Kannst du es erraten?"
+|"*Oh*, ich bin froh, dass du sie magst, Prinz! Ich wusste, es gibt niemanden, der sich besser um sie kümmern würde, und am allerbesten ist... dass sie dich an mich erinnert! Aber woher ich sie hatte, das wird dich überraschen.... Kannst du es erraten?"
 |-
 |'''Zagreus'''
-|"Moment, warte, du meinst doch nicht etwa... nein, von Nyx, höchstpersönlich? Dusa, du hast sie dir doch wohl nicht... wie soll ich sagen, bei Nyx ''ausgeliehen''?"
+|"Moment, warte, du meinst doch nicht etwa... nein, von Nyx, höchstpersönlich? Dusa, du hast sie dir doch wohl nicht... wie soll ich sagen, bei Nyx *ausgeliehen*?"
 |-
 |'''Dusa'''
-|"''Haha'', nein! Zufällig liegt mir was an meiner Stelle hier und auch an anderen Aspekten meines Wohlbefindens, aber... Nach dem Salon-Auftrag erhielt ich eine Belobigung von Nyx selbst, und zur Belohnung gab sie mir Fidi! Aber wahrscheinlich ahnte sie schon, dass ich sie dir schenken würde!"
+|"*Haha*, nein! Zufällig liegt mir was an meiner Stelle hier und auch an anderen Aspekten meines Wohlbefindens, aber... Nach dem Salon-Auftrag erhielt ich eine Belobigung von Nyx selbst, und zur Belohnung gab sie mir Fidi! Aber wahrscheinlich ahnte sie schon, dass ich sie dir schenken würde!"
 |-
 ! colspan="2" |Dusa Vs Nyx 01
 |-
@@ -494,7 +494,7 @@
 |"He, nein, nein, nein, nichts dergleichen. Ich hatte einfach... so ein Gefühl, nachdem ich verschiedene Gesprächsfetzen zwischen euch beiden erhascht hatte. Ich habe mich nicht immer mit Nyx vertragen, aber ich weiß, dass ihr dieses Haus und alle seine Bewohner sehr wichtig sind. Und dazu gehörst auch du."
 |-
 |'''Dusa'''
-|"''Hahaha'', nun, gut zu wissen! Meine Arbeitsleistung ist ihr sehr wichtig, da gibt's keinen Zweifel, und ich tue, was ich kann, um ihre Erwartungen zu erfüllen und zu übertreffen, sag ihr das!"
+|"*Hahaha*, nun, gut zu wissen! Meine Arbeitsleistung ist ihr sehr wichtig, da gibt's keinen Zweifel, und ich tue, was ich kann, um ihre Erwartungen zu erfüllen und zu übertreffen, sag ihr das!"
 |-
 ! colspan="2" |Dusa Vs Nyx 02
 |-
@@ -527,7 +527,7 @@
 |"Das sind doch recht vernünftige Ziele. Ich wünschte nur, Nyx wäre fähig, dir all dies sagen, ohne dich vor den Kopf zu stoßen. Bitte pass gut auf dich auf, Dusa, ja?"
 |-
 |'''Dusa'''
-|"...Und außerdem sagte sie, ich solle nicht mit dir sprechen, das hat sie auch noch gesagt, oh, ich werde eine Menge Ärger bekommen, ''aah''!"
+|"...Und außerdem sagte sie, ich solle nicht mit dir sprechen, das hat sie auch noch gesagt, oh, ich werde eine Menge Ärger bekommen, *aah*!"
 |-
 ! colspan="2" |Dusa Vs Nyx 04
 |-
@@ -585,12 +585,12 @@
 |"Dusa, he, ich wollte dir gratulieren!! Wie ich sehe, wurdest du zur vorbildlichen Arbeiterin des Hauses ernannt. Und im Salon hängt sogar ein Porträt von dir, wo alle es sehen können! Das ist eine große Ehre!"
 |-
 |'''Dusa'''
-|"Oh, ''haha'', das ist doch nicht der Rede wert, Prinz, das könnte doch jeder, man muss nur Feuer und Flamme sein, stets sein Aller-Allerbestes geben und dabei eine positive Einstellung haben und sich keine Sorgen um den schier erdrückenden Berg Arbeit machen, der noch erledigt werden muss!"
+|"Oh, *haha*, das ist doch nicht der Rede wert, Prinz, das könnte doch jeder, man muss nur Feuer und Flamme sein, stets sein Aller-Allerbestes geben und dabei eine positive Einstellung haben und sich keine Sorgen um den schier erdrückenden Berg Arbeit machen, der noch erledigt werden muss!"
 |-
 ! colspan="2" |Dusa Post Ending 01
 |-
 |'''Dusa'''
-|"Oh, Prinz, Persephone, deine Mutter, wow, sie ist, ''woww''...! Kein Wunder, dass du sie finden wolltest, sie ist etwas ganz Besonderes! Obwohl du das wahrscheinlich nicht wusstest, bis du ihr gegenüber standest, huh, aber trotzdem!"
+|"Oh, Prinz, Persephone, deine Mutter, wow, sie ist, *woww*...! Kein Wunder, dass du sie finden wolltest, sie ist etwas ganz Besonderes! Obwohl du das wahrscheinlich nicht wusstest, bis du ihr gegenüber standest, huh, aber trotzdem!"
 |-
 |'''Zagreus'''
 |"Es ist schon eine Umstellung, dass meine Mutter hier ist. Besonders für sie! Ich bin froh, dass ihr zwei gut miteinander auskommt. Ich denke, jetzt wird sich Vieles verändern, aber... hoffentlich zum Besseren, nicht wahr?"
@@ -607,13 +607,13 @@
 |"Ich... nun, wenn du es so ausdrückst, dann ja, es stimmt! Wir werden jedenfalls versuchen, ob wir das so hinbekommen."
 |-
 |'''Dusa'''
-|"Du weißt schon, was das bedeutet, oder? Wir sind jetzt ''offiziell Kollegen''!! Ist das nicht aufregend? Wir können unsere neuesten Erkenntnisse austauschen, über unsere Herausforderungen plaudern, uns im Flur über den Weg laufen..."
+|"Du weißt schon, was das bedeutet, oder? Wir sind jetzt *offiziell Kollegen*!! Ist das nicht aufregend? Wir können unsere neuesten Erkenntnisse austauschen, über unsere Herausforderungen plaudern, uns im Flur über den Weg laufen..."
 |-
 |'''Zagreus'''
 |"Dusa... alles, was du gerade genannt hast, machen wir doch schon die ganze Zeit."
 |-
 |'''Dusa'''
-|"Aber es ist ''nicht ''dasselbe! Es fühlt sich jetzt vollkommen anders an! Du wirst es schon merken! Also gut!! Bis bald!"
+|"Aber es ist *nicht *dasselbe! Es fühlt sich jetzt vollkommen anders an! Du wirst es schon merken! Also gut!! Bis bald!"
 |-
 ! colspan="2" |Dusa Post Ending 03
 |-
@@ -629,23 +629,23 @@
 |"Dusa, hier sieht es ja überall makellos aus! Obwohl der gesamte Olymp hier war und mit uns ein gigantisches Gelage gefeiert hat? Wie hast du nur alles so schnell wieder sauber bekommen?"
 |-
 |'''Dusa'''
-|"Oh, ''ha-hah''! Tja! Ich habe so meine Methoden, Prinz. Manchmal wird dir eine Aufgabe zugeteilt und du willst einfach nur all deine Kraft hineinstecken, verstehst du? Ich habe viele Aufgaben dieser Art! Wie Kerberos zu suchen oder die Dachsparren zu reinigen! Aber diese Aufgabe? Ich wusste einfach, dass niemand sie besser erledigen würde als ich!"
+|"Oh, *ha-hah*! Tja! Ich habe so meine Methoden, Prinz. Manchmal wird dir eine Aufgabe zugeteilt und du willst einfach nur all deine Kraft hineinstecken, verstehst du? Ich habe viele Aufgaben dieser Art! Wie Kerberos zu suchen oder die Dachsparren zu reinigen! Aber diese Aufgabe? Ich wusste einfach, dass niemand sie besser erledigen würde als ich!"
 |-
-! colspan="2" |Dusa With Hypnos 01
+! colspan="2" |Duo - Dusa and Hypnos (1)
 |-
 |'''Hypnos'''
 |"Oh, äh, he, Dusa! Was gibt's Neues von deiner endlosen Plackerei?"
 |-
 |'''Dusa'''
-|"''Um'', Herr Hypnos, könntest du, naja... vielleicht, du weißt schon, ''äh'', ein Auge auf die Warteschlange vor dem ehrwürdigen Hades werfen? So wie es halt dein Job ist...?"
+|"*Um*, Herr Hypnos, könntest du, naja... vielleicht, du weißt schon, *äh*, ein Auge auf die Warteschlange vor dem ehrwürdigen Hades werfen? So wie es halt dein Job ist...?"
 |-
 |'''Hypnos'''
 |"Oh! Ähm, kein Problem, ich kann das definitiv tun, ich schreibe es einfach auf die Liste!"
 |-
 |'''Dusa'''
-|"''Ähm'', okay! Gut, dass wir eine Chance zum Reden hatten. Jetzt schau vielleicht, dass du etwas Schlaf bekommst. Du siehst ziemlich erledigt aus...?"
+|"*Ähm*, okay! Gut, dass wir eine Chance zum Reden hatten. Jetzt schau vielleicht, dass du etwas Schlaf bekommst. Du siehst ziemlich erledigt aus...?"
 |-
-! colspan="2" |Dusa With Hypnos 02
+! colspan="2" |Duo - Dusa and Hypnos (2)
 |-
 |'''Dusa'''
 |"Herr Hypnos, ich, äh, wollte nur wieder mal kurz vorbeischauen, wegen der Prozessionsschlange... direkt vor dir, da drüben, sie... bewegt sich ziemlich langsam."
@@ -654,7 +654,7 @@
 |"Ich weiß! Diese Schatten sind schlimme Quasselstrippen und reden endlos, ohne Punkt und Komma, über dies und das. Es ist unbegreiflich, wie der Ehrwürdige Hades es ertragen kann, sich das jeden Tag oder jede Nacht anzuhören!"
 |-
 |'''Dusa'''
-|"''Ähm''... es ist nur so, du sollst eigentlich dafür sorgen, dass sie schön gleichmäßig weitergehen. Wenn sie also zu lange brauchen, dann könntest du womöglich irgendwas sagen oder... hast du vielleicht eine Idee?"
+|"*Ähm*... es ist nur so, du sollst eigentlich dafür sorgen, dass sie schön gleichmäßig weitergehen. Wenn sie also zu lange brauchen, dann könntest du womöglich irgendwas sagen oder... hast du vielleicht eine Idee?"
 |-
 |'''Hypnos'''
 |"Das ist eine harte Nuss, Dusa, denn ich finde, dass jeder Schatten, der geduldig wartet, bis er an der Reihe ist, auch die Gelegenheit haben sollte, alles zu sagen, was er sagen möchte! Aber das ist schon eine wirklich schwierige Sache, die du zur Sprache bringst, und ich werde Folgendes tun: Ich werde sie überschlafen! Und mich dann bei dir melden!"
@@ -662,7 +662,7 @@
 |'''Dusa'''
 |"OK, na ja... wenn ich nichts von dir höre, werde ich später wieder vorbeischauen, ja? Denn mir wurde befohlen, mich zu kümmern... also... ähm... bis bald..."
 |-
-! colspan="2" |Dusa With Hypnos 03
+! colspan="2" |Duo - Dusa and Hypnos (3)
 |-
 |'''Hypnos'''
 |"Hallo, Dusa, lass mich raten! Du bist wegen der Prozession dieser Schatten gekommen, die hier schon eine ganze Weile herumstehen und den Flur ganz schön verstopfen... sie haben sich kaum bewegt!"
@@ -676,24 +676,24 @@
 |'''Dusa'''
 |"Ja, das stimmt, ich... muss gehen, ähm, ich hoffe, du wirst dich etwas ausruhen, ja?"
 |-
-! colspan="2" |Dusa With Hypnos 04
+! colspan="2" |Duo - Dusa and Hypnos (4)
 |-
 |'''Dusa'''
-|"Ich kann es nicht fassen, Herr Hypnos, wie... ''hast du das nur geschafft''? Alle Schatten, die in der Schlange stehen, sie... haben sich ein ganzes Stück weiterbewegt!"
+|"Ich kann es nicht fassen, Herr Hypnos, wie... *hast du das nur geschafft*? Alle Schatten, die in der Schlange stehen, sie... haben sich ein ganzes Stück weiterbewegt!"
 |-
 |'''Hypnos'''
-|"Weißt du was, du hast Recht, ''das haben sie''! Ganz klar. Es fällt nicht unbedingt sofort auf, weil sie langsam sind, aber ich habe ein scharfes Auge. Und du auch! Dir fiel es noch vor mir auf. Was hattest du mich nochmal gefragt?"
+|"Weißt du was, du hast Recht, *das haben sie*! Ganz klar. Es fällt nicht unbedingt sofort auf, weil sie langsam sind, aber ich habe ein scharfes Auge. Und du auch! Dir fiel es noch vor mir auf. Was hattest du mich nochmal gefragt?"
 |-
 |'''Dusa'''
 |"Ich fragte, wie du es geschafft hast, den Verkehr etwas schneller fließen zu lassen, und... es liegt an den Sarkophagen, nicht wahr? Da im Flur! Die Schatten trauen sich nicht, herumzustehen! Das ist genial, Herr Hypnos, ich bin beeindruckt!"
 |-
 |'''Hypnos'''
-|"Oh, ''hahaha'', das ist doch wirklich nicht der Rede wert, Dusa! Aber eines sag ich dir! Es ist gut zu wissen, dass du von mir beeindruckt bist!"
+|"Oh, *hahaha*, das ist doch wirklich nicht der Rede wert, Dusa! Aber eines sag ich dir! Es ist gut zu wissen, dass du von mir beeindruckt bist!"
 |-
 |'''Dusa'''
-|"Ich, ''haha'', würde vielleicht nicht ganz so weit gehen, ähm, egal! Ich werde dies als geklärt abhaken!"
+|"Ich, *haha*, würde vielleicht nicht ganz so weit gehen, ähm, egal! Ich werde dies als geklärt abhaken!"
 |-
-! colspan="2" |Dusa With Nyx 01
+! colspan="2" |Duo - Dusa and Nyx (1)
 |-
 |'''Nyx'''
 |"...Und danach, Dusa, machst du erneut die Sparren sauber und stutzt im Garten alles zurecht. Wenn du damit fertig bist, müsste es an der Zeit sein, die Küchenarbeit zu erledigen und den Salon ein zweites Mal zu fegen..."
@@ -701,7 +701,7 @@
 |'''Dusa'''
 |"J-ja, sofort!"
 |-
-! colspan="2" |Dusa With Nyx 02
+! colspan="2" |Duo - Dusa and Nyx (2)
 |-
 |'''Nyx'''
 |"...Und zu guter Letzt, Dusa, ist es dir nicht gestattet, den Prinzen anzusprechen, es sei denn, er richtet das Wort an dich. Du bist für ihn unsichtbar. Verstehen wir uns?"
@@ -709,18 +709,18 @@
 |'''Dusa'''
 |"Ja, Fräulein Nyx, wir verstehen uns, ich meine... Ich verstehe. Ich, ich gehe dann."
 |-
-! colspan="2" |Dusa With Nyx 03
+! colspan="2" |Duo - Dusa and Nyx (3)
 |-
 |'''Dusa'''
-|"Fräulein Nyx, du...? Möchte ich meine Stelle zurückhaben, ich...''wa-''... ja, unbedingt! Diese Stelle, sie bedeutet mir alles, denn ich arbeite ja für ''dich''? Du bist die Nacht selbst!! Dieser Ort und ihr alle, das alles ist so überwältigend für mich und ich... ich möchte einfach helfen! Bitte gib mir noch eine letzte Chance!"
+|"Fräulein Nyx, du...? Möchte ich meine Stelle zurückhaben, ich...*wa-*... ja, unbedingt! Diese Stelle, sie bedeutet mir alles, denn ich arbeite ja für *dich*? Du bist die Nacht selbst!! Dieser Ort und ihr alle, das alles ist so überwältigend für mich und ich... ich möchte einfach helfen! Bitte gib mir noch eine letzte Chance!"
 |-
 |'''Nyx'''
 |"Deine letzte Chance ist mit bestimmten Auflagen verbunden, Dusa. Wenn du es für nötig hältst, mehr Zeit für deine Pflichten aufzuwenden als vorgesehen, dann erwarte ich von dir, dass du mich um Zustimmung bittest. Das Schicksal dieses Hauses lastet nicht nur auf deinen Schultern. Dein Einsatz für deine Arbeit ist so wichtig wie das Endergebnis. Nun denn... ich bitte dich, auf deinen Posten zurückzukehren."
 |-
 |'''Dusa'''
-|"Was, Ich, Fräulein Nyx, ihr meint ... ich solle jetzt direkt anfangen? Jetzt sofort? Ich meine, ich habe keine drängenden Aufgaben, also mache ich es, ''ja''!! Ich akzeptiere! Ich bin so froh, wieder zurück zu sein! Wo soll ich nur anfangen? Ich könnte den Salon in Augenschein nehmen, die Spinnweben entfernen, mit Kerberos Gassi gehen, die Vorratskammer überprüfen, ah, okay, ich bin schon weg!!"
+|"Was, Ich, Fräulein Nyx, ihr meint ... ich solle jetzt direkt anfangen? Jetzt sofort? Ich meine, ich habe keine drängenden Aufgaben, also mache ich es, *ja*!! Ich akzeptiere! Ich bin so froh, wieder zurück zu sein! Wo soll ich nur anfangen? Ich könnte den Salon in Augenschein nehmen, die Spinnweben entfernen, mit Kerberos Gassi gehen, die Vorratskammer überprüfen, ah, okay, ich bin schon weg!!"
 |-
-! colspan="2" |Dusa With Nyx 04
+! colspan="2" |Duo - Dusa and Nyx (4)
 |-
 |'''Nyx'''
 |"... und in Anerkennung deiner Sorgfalt und Leistung und deiner großen Fortschritte... ernenne ich dich kraft meines Amtes als Nacht selbst zur Haupt-Hausmeisterin des Hauses des Hades und gewähre dir die damit verbundenen Privilegien. Trage die Verantwortung mit Ehre, Dusa."
@@ -731,18 +731,18 @@
 |'''Nyx'''
 |"Es war mir ein Vergnügen. Die Ordnung in diesem Haus spiegelt das Reich als Ganzes wider. Du hast dies verinnerlicht und begriffen, dass eine disziplinierte Arbeitsweise wertvoller ist als lediglich Mühe und Anstrengung. Du weißt jedoch, dass auch Anstrengung notwendig ist."
 |-
-! colspan="2" |Dusa With Megaera 01
+! colspan="2" |Duo - Dusa and Megaera (1)
 |-
 |'''Megaera'''
 |"...Und dann versuchten alle sieben dieser elenden Kreaturen, sich in der Prozessionsschlange nach vorn zu drängeln, ist das nicht unverschämt? Als ob sie auf diese Weise eine Audienz erhielten."
 |-
 |'''Dusa'''
-|"''Ha, hahaha'', was für Dummköpfe! Was haben sie sich wohl dabei gedacht, sich nach vorn zu drängeln, und das vor ''deinen '' Augen?"
+|"*Ha, hahaha*, was für Dummköpfe! Was haben sie sich wohl dabei gedacht, sich nach vorn zu drängeln, und das vor *deinen * Augen?"
 |-
 |'''Megaera'''
 |"Na ja, falls sie unserem ehrwürdigen Hades noch weitere Beschwerden vortragen möchten, müssen sie sich auf eine sehr, sehr lange Wartezeit einstellen."
 |-
-! colspan="2" |Dusa With Megaera 02
+! colspan="2" |Duo - Dusa and Megaera (2)
 |-
 |'''Megaera'''
 |"...Du hast unbestritten recht, was für ein Dummkopf...! Aber ich muss wieder an die Arbeit. Die nächste Runde gebe ich aus, Dusa, und mach's gut."
@@ -750,7 +750,7 @@
 |'''Dusa'''
 |"Du auch, Fräulein Meg, und danke für den Trank! Bis dann...!"
 |-
-! colspan="2" |Dusa With Megaera 03
+! colspan="2" |Duo - Dusa and Megaera (3)
 |-
 |'''Megaera'''
 |"...Folge deinem Herzen? Ein merkwürdiger Rat, besonders von dir. Aber nichts für ungut."
@@ -761,7 +761,7 @@
 |'''Megaera'''
 |"Ich glaube nicht, dass Eile geboten ist. Es ist ja nicht so, als würden wir innerhalb von 40 Jahren runzlig werden und dahinscheiden, so wie die Sterblichen. Aber ich weiß, was du meinst. Ich werde darüber nachdenken, Dusa. Danke."
 |-
-! colspan="2" |Dusa With Megaera 04
+! colspan="2" |Duo - Dusa and Megaera (4)
 |-
 |'''Megaera'''
 |"...Wir waren uns von Anfang nicht grün. Das ist wohl normal, wenn man Titanenblut entsprungen ist. Es ist gut, dass wir uns seitdem nicht häufig über den Weg gelaufen sind."
@@ -772,13 +772,13 @@
 |'''Megaera'''
 |"Du stehst mir wesentlich näher als meine Schwestern, Dusa. Ich bin nicht immer mit dem Ehrwürdigen Hades einer Meinung, aber ich bin dankbar, dass sie dieses Haus nicht betreten dürfen."
 |-
-! colspan="2" |Dusa With Megaera High Affinity 01
+! colspan="2" |Duo - Dusa and Megaera High Affinity (1)
 |-
 |'''Megaera'''
 |"... Ist dir das alles auch wirklich recht? Es ist nur... ich möchte nicht, dass du das Gefühl hast, zwischen zwei Stühlen zu sitzen. Wenn du sagst, lass die Finger davon..."
 |-
 |'''Dusa'''
-|"Nein, ''nein, nein, nein, nein'', nein, Meg, nein! Nein, Meg! Komm schon, soll das ein Scherz sein? Ich freue mich doch wirklich von Herzen! Du hast das verdient! Was zählt, ist einzig, dass du glücklich bist!"
+|"Nein, *nein, nein, nein, nein*, nein, Meg, nein! Nein, Meg! Komm schon, soll das ein Scherz sein? Ich freue mich doch wirklich von Herzen! Du hast das verdient! Was zählt, ist einzig, dass du glücklich bist!"
 |-
 |'''Megaera'''
 |"Na gut, danke, Dusa. Du warst schon immer so lieb. Ich weiß gar nicht, was ich sagen soll."
@@ -786,7 +786,7 @@
 |'''Dusa'''
 |"He, das ist doch mein Wahlspruch! So, ich mache mich besser auf den Weg, aber erst will ich dir noch sagen, dass das großartige Neuigkeiten sind! Danke, dass du es mir erzählt hast!"
 |-
-! colspan="2" |Dusa With Hades 01
+! colspan="2" |Duo - Dusa and Hades (1)
 |-
 |'''Hades'''
 |"...Wenn doch nur alle meine Untertanen eine solche Pünktlichkeit an den Tag legen würden. Dann deinen Bericht, wenn ich bitten darf, Dusa?"
@@ -795,12 +795,12 @@
 |"Herr! In der Kanzlei läuft zurzeit alles wie geschmiert, Herr! Salonbesuche sind um achtundzwanzig Prozent angestiegen, und die Besucherbewertungen liegen im achtzigsten Perzentil. Derzeit gibt es keine Probleme zu melden."
 |-
 |'''Hades'''
-|"Sieh zu, dass wir ''dreißig '' Prozent vor der Äonenwende erzielen, Aufseherin des Hauses. Abgesehen davon... ein zufriedenstellender Bericht. Nun, fahre fort."
+|"Sieh zu, dass wir *dreißig * Prozent vor der Äonenwende erzielen, Aufseherin des Hauses. Abgesehen davon... ein zufriedenstellender Bericht. Nun, fahre fort."
 |-
-! colspan="2" |Dusa With Persephone 01
+! colspan="2" |Duo - Dusa and Persephone (1)
 |-
 |'''Dusa'''
-|"''Ähm'', es ist mir eine große Ehre, Euch kennen zu lernen. Bitte nennt mich Dusa! Ich, ich bin Eure Hausmeisterin. Und ich stehe Euch zu Diensten! Wenn Ihr etwas braucht, ruft mich einfach, ja?"
+|"*Ähm*, es ist mir eine große Ehre, Euch kennen zu lernen. Bitte nennt mich Dusa! Ich, ich bin Eure Hausmeisterin. Und ich stehe Euch zu Diensten! Wenn Ihr etwas braucht, ruft mich einfach, ja?"
 |-
 |'''Persephone'''
 |"Dusa! Wie wunderbar, dich kennen zu lernen! Dieses Haus ist makellos! Ein Unterschied wie Tag und Nacht im Vergleich zu früher. Jetzt weiß ich, wem ich dafür zu danken habe."
@@ -879,7 +879,7 @@
 ! colspan="2" |Dusa Chat 14
 |-
 |'''Dusa'''
-|"Oh, ''ähm'', hey! Ist... alles in Ordnung bei euch, Prinz?"
+|"Oh, *ähm*, hey! Ist... alles in Ordnung bei euch, Prinz?"
 |-
 ! colspan="2" |Dusa Chat 15
 |-
@@ -914,7 +914,7 @@
 ! colspan="2" |Dusa Chat 21
 |-
 |'''Dusa'''
-|"Ah tut mir leid, Entschuldigung, ich muss diesen Bericht ausfüllen, denn er ist ''sehr '' spät dran!"
+|"Ah tut mir leid, Entschuldigung, ich muss diesen Bericht ausfüllen, denn er ist *sehr * spät dran!"
 |-
 ! colspan="2" |Dusa Chat 22
 |-
@@ -934,7 +934,7 @@
 ! colspan="2" |Dusa Chat 25
 |-
 |'''Dusa'''
-|"Ich gebe immer 110%, ''hah, hahah''!"
+|"Ich gebe immer 110%, *hah, hahah*!"
 |-
 ! colspan="2" |Dusa Chat 26
 |-
@@ -949,7 +949,7 @@
 ! colspan="2" |Dusa Chat Extra 02
 |-
 |'''Dusa'''
-|"''Ah! Haha'', du hast mich wieder erschreckt, Prinz, also wirklich, sich so anzuschleichen!"
+|"*Ah! Haha*, du hast mich wieder erschreckt, Prinz, also wirklich, sich so anzuschleichen!"
 |-
 ! colspan="2" |Dusa Chat Extra 03
 |-
@@ -1089,7 +1089,7 @@
 ! colspan="2" |Dusa Max Chat 16
 |-
 |'''Dusa'''
-|"Oh, ''haha'', du hast mich erschreckt, Prinz!"
+|"Oh, *haha*, du hast mich erschreckt, Prinz!"
 |-
 ! colspan="2" |Dusa Max Chat 17
 |-
@@ -1126,7 +1126,7 @@
 |'''Dusa'''
 |"Aus den Berichten, die ich gesehen habe, lässt sich schließen, dass du da draußen großartige Arbeitet leistest!"
 |-
-! colspan="2" |Dusa Chat With Megaera 01
+! colspan="2" |Duo - Chat and Megaera (1)
 |-
 |'''Megaera'''
 |"Nicht jetzt, Zag. Vertrauliches Gespräch."
@@ -1134,7 +1134,7 @@
 |'''Dusa'''
 |"Verausgabe dich nicht völlig, ja, Hoheit?"
 |-
-! colspan="2" |Dusa Chat With Megaera 02
+! colspan="2" |Duo - Chat and Megaera (2)
 |-
 |'''Dusa'''
 |"Bitte denke daran, auch einmal eine Pause einzulegen, ja?"
@@ -1142,37 +1142,37 @@
 |'''Megaera'''
 |"Wir werden hier ein andermal plaudern müssen, Zag."
 |-
-! colspan="2" |Dusa Chat With Megaera 03
+! colspan="2" |Duo - Chat and Megaera (3)
 |-
 |'''Dusa'''
 |"Ruhe dich hin und wieder aus, mir zuliebe, ja?"
 |-
-! colspan="2" |Dusa Chat With Megaera 04
+! colspan="2" |Duo - Chat and Megaera (4)
 |-
 |'''Dusa'''
 |"Ich hoffe, du wirst Fräulein Meg nächstes Mal da draußen sehen!"
 |-
-! colspan="2" |Dusa Chat With Megaera 05
+! colspan="2" |Duo - Chat and Megaera (5)
 |-
 |'''Dusa'''
 |"Ich hoffe, du wirst Thanatos bald wiedersehen!"
 |-
-! colspan="2" |Dusa Chat With Cerberus 01
+! colspan="2" |Duo - Chat and Cerberus (1)
 |-
 |'''Dusa'''
 |"So, bitteschön, Kerbie! Und, ähm, bitte friss mich nicht, ja?"
 |-
-! colspan="2" |Dusa Chat With Cerberus 02
+! colspan="2" |Duo - Chat and Cerberus (2)
 |-
 |'''Dusa'''
 |"Ähm, bitteschön, mein Hündchen! Drei Portionen, ganz nach deinem Geschmack!"
 |-
-! colspan="2" |Dusa Chat With Cerberus 03
+! colspan="2" |Duo - Chat and Cerberus (3)
 |-
 |'''Dusa'''
 |"...Sei diesmal vorsichtig, wohin auch immer du gehst, nachdem du all das gefressen hast, ja, Kerbie?"
 |-
-! colspan="2" |Dusa Chat With Cerberus 04
+! colspan="2" |Duo - Chat and Cerberus (4)
 |-
 |'''Dusa'''
 |"Oh, komm schon, Kerbie, friss schon! So schlecht kann das Zeug doch gar nicht schmecken! Oder... vielleicht doch?"
@@ -1180,7 +1180,7 @@
 ! colspan="2" |Dusa Gift 01
 |-
 |'''Zagreus'''
-|"''Ähm'', Fräulein Dusa? Ich wollte dir nur das hier geben. Es ist nichts großes, wirklich, einfach nur... für deine harte Arbeit."
+|"*Ähm*, Fräulein Dusa? Ich wollte dir nur das hier geben. Es ist nichts großes, wirklich, einfach nur... für deine harte Arbeit."
 |-
 |'''Dusa'''
 |"P-P-Prinz, ich bin wirklich dankbar, wirklich, und ich dachte, ich habe auch etwas für dich...?"
@@ -1188,7 +1188,7 @@
 ! colspan="2" |Dusa Gift 02
 |-
 |'''Dusa'''
-|"''W-waaas'', a-aber, das muss ein Irrtum sein, ich, Prinz, du gibt ''mir '' das...?"
+|"*W-waaas*, a-aber, das muss ein Irrtum sein, ich, Prinz, du gibt *mir * das...?"
 |-
 |'''Zagreus'''
 |"Ich möchte dir deutlich machen, dass wir alle dich zu schätzen wissen, Dusa. Plage dich nicht allzu sehr ab für mich, OK?"
@@ -1196,7 +1196,7 @@
 ! colspan="2" |Dusa Gift 03
 |-
 |'''Dusa'''
-|"''Ohh'', oh, oh, oh du meine Güte, eure Hoheit, bist du... bist du wirklich sicher, dass du mir ''das '' geben möchtest?"
+|"*Ohh*, oh, oh, oh du meine Güte, eure Hoheit, bist du... bist du wirklich sicher, dass du mir *das * geben möchtest?"
 |-
 |'''Zagreus'''
 |"Das bin ich, Dusa. Ich hoffe, es macht dir Freude."
@@ -1221,7 +1221,7 @@
 |"Oh, mehr musst du auch nicht sagen! Wollte dich nicht in Verlegenheit bringen. Ich bin bloß froh, dass wir eine Gelegenheit hatten, einander kennenzulernen."
 |-
 |'''Dusa'''
-|"Ich... bin ebenfalls froh, dass wir die Gelegenheit hatten, einander kennenzulernen. Danke für den Nektar! Ich merke schon, er ist wirklich, wirklich gut. ''Ähm'', dann mach's gut!"
+|"Ich... bin ebenfalls froh, dass wir die Gelegenheit hatten, einander kennenzulernen. Danke für den Nektar! Ich merke schon, er ist wirklich, wirklich gut. *Ähm*, dann mach's gut!"
 |-
 ! colspan="2" |Dusa Gift 06
 |-
@@ -1235,7 +1235,7 @@
 |"Bitte, sie gehört dir! Außerdem müsstest du doch bald etwas Freizeit haben, in der du sie genießen kannst?"
 |-
 |'''Dusa'''
-|"''Oh'', ja, vielleicht? Ich glaube, das könnte sein, bloß hat mir niemand etwas hierüber gesagt, und überhaupt, es gibt überall im Haus noch so viel zu tun, ich kann nicht einfach alles stehen und liegen lassen!!"
+|"*Oh*, ja, vielleicht? Ich glaube, das könnte sein, bloß hat mir niemand etwas hierüber gesagt, und überhaupt, es gibt überall im Haus noch so viel zu tun, ich kann nicht einfach alles stehen und liegen lassen!!"
 |-
 ! colspan="2" |Dusa Gift 07
 |-
@@ -1243,7 +1243,7 @@
 |"He, Dusa? Herzlichen Glückwunsch zum Abschluss deines Auftrags im Salon. Was für ein Anblick! Besser denn je. Alles dank deiner Mühe und deines Engagements. Hier, das ist für dich. Etwas Besonderes, das zu diesem Anlass passt."
 |-
 |'''Dusa'''
-|"''Wow'', ich, das, das ist ''Ambrosia'', Prinz! Aber sie ist doch für ''Götter''...! Sie ist nicht für... jemand wie mich? Aber warte, warte, warte, nein, hier, ich tu's, ich tu's, hier, nimm ''dies''!! Ich habe es für dich besorgt, also nimm es, bitte! Lebe wohl!!"
+|"*Wow*, ich, das, das ist *Ambrosia*, Prinz! Aber sie ist doch für *Götter*...! Sie ist nicht für... jemand wie mich? Aber warte, warte, warte, nein, hier, ich tu's, ich tu's, hier, nimm *dies*!! Ich habe es für dich besorgt, also nimm es, bitte! Lebe wohl!!"
 |-
 ! colspan="2" |Dusa Gift 08
 |-
@@ -1263,7 +1263,7 @@
 |"Du solltest dieses Gefühl häufiger als nur manchmal haben, finde ich. Mir ist... noch nie jemand wie du begegnet. Mein Vater ermahnte mich immer, nicht so viel zu lächeln, aber... du bist wie ich."
 |-
 |'''Dusa'''
-|"Was, weil ich lächele, ''haha''? Lächeln ist doch nur eine kleine Sache, die mir hilft, leichter durch den Tag zu kommen! Aber, oh, ''das '' meintest du, ich... oh, ich verstehe. Ich, hör mal, das ist ein bisschen viel, ich, ich gehe jetzt besser...! Ich werde aber jeden Tropfen der Ambrosia genießen, ja?!"
+|"Was, weil ich lächele, *haha*? Lächeln ist doch nur eine kleine Sache, die mir hilft, leichter durch den Tag zu kommen! Aber, oh, *das * meintest du, ich... oh, ich verstehe. Ich, hör mal, das ist ein bisschen viel, ich, ich gehe jetzt besser...! Ich werde aber jeden Tropfen der Ambrosia genießen, ja?!"
 |-
 ! colspan="2" |Dusa Gift 09
 |-
@@ -1271,7 +1271,7 @@
 |"Ich habe wieder Ambrosia für dich besorgt, Dusa, and ich hoffe, das ist in Ordnung. Ich dachte, du könntest sie vielleicht für den Salon gebrauchen? Besondere Anlässe, besondere Gäste, so etwas in der Art?"
 |-
 |'''Dusa'''
-|"... Es tut mir leid, dass ich beim letzten Mal einfach davongeflogen bin, als du mir so etwas brachtest, Prinz... ich meine, Zagreus. Es kommt mir merkwürdig vor, dich mit deinem Namen anzusprechen, ich... Als ich hier anfing, wies man mich an, niemals mit dir zu sprechen, und jetzt, ''äh''... Tja, jetzt sieht es wohl so aus...!"
+|"... Es tut mir leid, dass ich beim letzten Mal einfach davongeflogen bin, als du mir so etwas brachtest, Prinz... ich meine, Zagreus. Es kommt mir merkwürdig vor, dich mit deinem Namen anzusprechen, ich... Als ich hier anfing, wies man mich an, niemals mit dir zu sprechen, und jetzt, *äh*... Tja, jetzt sieht es wohl so aus...!"
 |-
 |'''Zagreus'''
 |"Na, weißt du, wenn ich immer auf alles hörte, was man mir sagt, dann würde mein Leben ganz anders aussehen und wäre nach meiner Ansicht viel schlimmer! Daher... wen kümmert's, was andere sagen? Ich verbringe gern Zeit mit dir."
@@ -1283,7 +1283,7 @@
 |"Ich erinnere mich an unsere erste Begegnung. Du trugst drei Schüsseln für Kerberos und pralltest mit mir zusammen. Alles flog durch die Luft, aber du fingst mindestens die Hälfte davon so geschickt auf, dass nur wenig auf dem Boden landete. Dann flogst du davon, ehe ich dich nach deinem Namen fragen konnte. Ich dachte, wir würden uns nie wiedersehen."
 |-
 |'''Dusa'''
-|"Es war mir ''so '' peinlich. Und schlimmer noch... ich dachte, ich sei hier erledigt. Aber ich bekam noch eine Chance. Das habe ich sicher dir zu verdanken. Du hast die ganze Zeit auf mich aufgepasst. Das ist so nett von dir. Ich... ich weiß nicht, wie ich dir danken soll, ich... ich... ich verstaue die Ambrosia jetzt wohl besser an einem sicheren Ort, ja?"
+|"Es war mir *so * peinlich. Und schlimmer noch... ich dachte, ich sei hier erledigt. Aber ich bekam noch eine Chance. Das habe ich sicher dir zu verdanken. Du hast die ganze Zeit auf mich aufgepasst. Das ist so nett von dir. Ich... ich weiß nicht, wie ich dir danken soll, ich... ich... ich verstaue die Ambrosia jetzt wohl besser an einem sicheren Ort, ja?"
 |-
 ! colspan="2" |Dusa Gift 10
 |-
@@ -1291,13 +1291,13 @@
 |"Dusa, dieses Ambrosia-Sortiment müsste dem Salon eine ganze Weile über die Runden helfen! Und für eine rundum lebhaftere Atmosphäre sorgen. Bitte nimm dir auch eine Flasche für dich selbst, ja? Als Zeichen meiner Zuneigung."
 |-
 |'''Dusa'''
-|"''Oh''! D-du sagtest ''Zuneigung'', huh, ich... wow! Ich... mag dich auch sehr, Zagreus. Schon vom ersten Tag an! Du bist so anders als dein Vater und Fräulein Nyx, und ich wusste gleich, aber... Moment, was rede ich da, ich bin ein solcher Dummkopf, du bist einfach nur nett zu mir, oder...?"
+|"*Oh*! D-du sagtest *Zuneigung*, huh, ich... wow! Ich... mag dich auch sehr, Zagreus. Schon vom ersten Tag an! Du bist so anders als dein Vater und Fräulein Nyx, und ich wusste gleich, aber... Moment, was rede ich da, ich bin ein solcher Dummkopf, du bist einfach nur nett zu mir, oder...?"
 |-
 |'''Zagreus'''
 |"Ich wäre gern mehr als das, wenn es dir recht ist. Du bist wirklich wundervoll, und... du bringst einen Funken Helligkeit in dieses Haus. Aber ich würde nie unsere Freundschaft riskieren. Wenn du hier also eine Grenze ziehen möchtest, dann lass es mich bitte einfach wissen."
 |-
 |'''Dusa'''
-|"''Ähm''... warte, warte mal. Warte mal, warte. Hast du gesagt ich bin... ''wunderbar''?"
+|"*Ähm*... warte, warte mal. Warte mal, warte. Hast du gesagt ich bin... *wunderbar*?"
 |-
 |'''Zagreus'''
 |"Ja, das ist richtig, und ich bin froh, es mir endlich von der Seele geredet zu haben, musst du wissen. Aber... was ist mit dir? Was fühlst du?"
@@ -1306,10 +1306,10 @@
 |"Ich, wow, ich, ich hätte nie gedacht, dass du... derartige Gefühle für jemanden wie mich hegen könntest. Es tut wirklich gut, das zu hören. Es gibt mir das Gefühl, vollständig zu sein. Aber, ähm, Zagreus, ich weiß nicht, ob ich dir geben kann, was du brauchst? Moment. Du warst doch wohl nicht die ganze Zeit über bloß nett zu mir, weil...?"
 |-
 |'''Zagreus'''
-|"''Was''? Nein, nein Dusa, natürlich nicht, ich... ''Ach'', warum ist es nur so verdammt schwierig, seine Gefühle mit jemand anderem zu teilen? Ich möchte nicht zerstören, was wir haben. Könntest du doch nur in mein Herz sehen."
+|"*Was*? Nein, nein Dusa, natürlich nicht, ich... *Ach*, warum ist es nur so verdammt schwierig, seine Gefühle mit jemand anderem zu teilen? Ich möchte nicht zerstören, was wir haben. Könntest du doch nur in mein Herz sehen."
 |-
 |'''Dusa'''
-|"Oh, ''hahaha'', ich wollte nur auf Nummer sicher gehen, mach dir keinen Kummer, OK? Du scheinst gar nicht fähig, zu verbergen, was in deinem Herzen ist. Und ich meine das im allerbesten Sinne. Ich bin so glücklich! Es ist nur... all dies ist ein bisschen viel, und ich bin gerade im Dienst, aber... wir sehen uns bald...?"
+|"Oh, *hahaha*, ich wollte nur auf Nummer sicher gehen, mach dir keinen Kummer, OK? Du scheinst gar nicht fähig, zu verbergen, was in deinem Herzen ist. Und ich meine das im allerbesten Sinne. Ich bin so glücklich! Es ist nur... all dies ist ein bisschen viel, und ich bin gerade im Dienst, aber... wir sehen uns bald...?"
 |-
 ! colspan="2" |Dusa Gift 05
 |-

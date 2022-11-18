@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"Sinto que você ainda não falou com o artefato que tudo vê, chamado de Aegis. Interfira com os desígnios das Moiras o quanto quiser, então. Mas se você mudar de ideia, diga ao artefato as palavras a seguir: ''Eu te vejo se mantendo firme contra a chama da serpente.''"
+|"Sinto que você ainda não falou com o artefato que tudo vê, chamado de Aegis. Interfira com os desígnios das Moiras o quanto quiser, então. Mas se você mudar de ideia, diga ao artefato as palavras a seguir: *Eu te vejo se mantendo firme contra a chama da serpente.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Você ainda não usou a frase de despertar que transmiti? Ou, talvez, você simplesmente optou por não mostrar-me o resultado. Eu gostaria de ver isso em algum momento. Lembre-se, Filho de Hades: diga ao artefato que tudo vê, ''Eu te vejo se mantendo firme contra a chama da serpente.''"
+|"Você ainda não usou a frase de despertar que transmiti? Ou, talvez, você simplesmente optou por não mostrar-me o resultado. Eu gostaria de ver isso em algum momento. Lembre-se, Filho de Hades: diga ao artefato que tudo vê, *Eu te vejo se mantendo firme contra a chama da serpente.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"Sinto que algo está errado, Filho de Hades. Então, diga no que você está pensando? Posso adivinhar algumas coisas sem que precise me contar, mas prefiro ouvir de você, voluntariamente."
 |-
 |'''Zagreus'''
-|"''Err'', Mestre Caos? A deusa Nix, ela... parece querer falar com você novamente. Me pergunto, você gostaria de falar com ela algum dia? Ela parece convencida de que você precisa tomar a iniciativa, se você quiser."
+|"*Err*, Mestre Caos? A deusa Nix, ela... parece querer falar com você novamente. Me pergunto, você gostaria de falar com ela algum dia? Ela parece convencida de que você precisa tomar a iniciativa, se você quiser."
 |-
 |'''Chaos'''
 |"A deusa Nix deseja falar comigo...? Agora isso é inesperado, Filho de Hades, e eu me pergunto se isso, talvez, não seria uma brincadeira sua. Embora, suas intenções sejam claramente sinceras. Então, não posso fazer nenhuma promessa sobre este assunto, exceto que... estou considerando a possibilidade."
@@ -377,7 +377,7 @@
 |"Eu esperava a sua chegada, Filho de Hades. Pois eu consigo ver através de você. Ou melhor, através do artefato que-tudo-vê, que saiu de mim após a aurora do tempo, e agora relembra, em suas mãos, sua forma primeira. Responda."
 |-
 |'''Zagreus'''
-|"O que, você quer dizer o Escudo do Caos, aqui? ''Seu ''escudo, Mestre Caos, devo dizer. É um artefato extraordinário. Imponente, também! Suas criações originais devem ter sido assombrosas."
+|"O que, você quer dizer o Escudo do Caos, aqui? *Seu *escudo, Mestre Caos, devo dizer. É um artefato extraordinário. Imponente, também! Suas criações originais devem ter sido assombrosas."
 |-
 |'''Chaos'''
 |"A sua resposta é aceitável. E eu estou grato por ter tido meus primeiros vislumbres recentes deste vasto domínio."
@@ -390,10 +390,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Eu tenho uma mensagem para você, Filho de Hades. Uma que foi gravada em um tempo em que determinados conceitos descritos ainda não existiam. Lembre-se disso: ''Eu te vejo se mantendo firme contra a chama da serpente. ''Uma frase de despertar, à qual você e o artefato que-tudo-vê de minha criação podem responder."
+|"Eu tenho uma mensagem para você, Filho de Hades. Uma que foi gravada em um tempo em que determinados conceitos descritos ainda não existiam. Lembre-se disso: *Eu te vejo se mantendo firme contra a chama da serpente. *Uma frase de despertar, à qual você e o artefato que-tudo-vê de minha criação podem responder."
 |-
 |'''Zagreus'''
-|"Uma frase de despertar... e um artefato que-tudo-vê, você quer dizer o Aegis, não é mesmo? Então eu devo dizer a ele, ''Eu te vejo se mantendo firme contra a chama da serpente'', e ele despertará sem demora. Mas, você pode me dizer o que significa, ou quem?"
+|"Uma frase de despertar... e um artefato que-tudo-vê, você quer dizer o Aegis, não é mesmo? Então eu devo dizer a ele, *Eu te vejo se mantendo firme contra a chama da serpente*, e ele despertará sem demora. Mas, você pode me dizer o que significa, ou quem?"
 |-
 |'''Chaos'''
 |"Ah, eu posso lhe dizer quase tudo. Contudo, eu gostaria muito mais se você aprendesse a maioria das respostas de que precisa sozinho."
@@ -401,7 +401,7 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"Não reconheço este aí... então, em nome de Hades! ''Err'', olá? Posso perguntar quem está me invocando?"
+|"Não reconheço este aí... então, em nome de Hades! *Err*, olá? Posso perguntar quem está me invocando?"
 |-
 |'''Chaos'''
 |"...Os deuses do Olimpo ficaram moles... não concorda?"
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"Você é bem-vindo aqui."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"Sua presença é apreciada, Filho de Hades, mas por favor, deixe-nos deixar a sós, por ora."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Perdoe-nos, Filho de Hades, pois estamos trocando lembranças."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Filho de Hades, muito me agrada que a deusa Nix tenha retornado ao meu convívio."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Perdoe-me, Filho de Hades, mas devo continuar esta discussão com a deusa Nix."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"Eu não via a deusa Nix há muito tempo."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"Perdi o hábito de receber tantas visitas ultimamente."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"Minha filha estava no meio de um relato sobre as ocorrências recentes em sua Casa."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"Como você pode observar, a deusa Nix e eu estamos no meio de uma conversa no momento."

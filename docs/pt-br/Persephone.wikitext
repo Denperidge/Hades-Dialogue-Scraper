@@ -18,7 +18,7 @@
 |"Hades... você parece cansado. Entretanto, eu não sou a única a quem você deveria pedir desculpas."
 |-
 |'''Hades'''
-|"Eu sei. Eu sei, eu... por que você voltou? Se o Olimpo... se sua mãe descobrir o que aconteceu, nem mesmo Zeus, nem mesmo ''ele ''poderia impedir o que aconteceria, aqui!"
+|"Eu sei. Eu sei, eu... por que você voltou? Se o Olimpo... se sua mãe descobrir o que aconteceu, nem mesmo Zeus, nem mesmo *ele *poderia impedir o que aconteceria, aqui!"
 |-
 |'''Persephone'''
 |"Ah, eu tenho algumas ideias sobre como poderemos resolver isso. Entretanto, precisarei que você e o Zagreu cooperem comigo numa solução. Ou, se você preferir, eu poderia voltar para o lugar de onde vim."
@@ -39,7 +39,7 @@
 |"...Mm. Zagreu? Você já conheceu a Perséfone, nossa Rainha. Eu espero que você demonstre respeito a ela, a todo momento!"
 |-
 |'''Zagreus'''
-|"Uau, Pai, você me chamou pelo meu nome! Que sensação estranha é esta que estou sentindo? Será que é esse o ''respeito ''a que você se refere?"
+|"Uau, Pai, você me chamou pelo meu nome! Que sensação estranha é esta que estou sentindo? Será que é esse o *respeito *a que você se refere?"
 |-
 |'''Persephone'''
 |"Ah, parem, vocês dois. Não faça eu me arrepender, Hades. Fale com ele honestamente. Sobre você, não eu. Vai lá."
@@ -78,32 +78,32 @@
 |"Talvez passe também pela minha cabaninha no caminho? Cuidar do jardim não daria muito trabalho. Eu gostaria de manter aquele lugar em bom estado. Caso eu não aguente a sofrência deste lugar por muito tempo."
 |-
 |'''Zagreus'''
-|"''Hahaha'', bom! Vou ver o que posso fazer, eu acho."
+|"*Hahaha*, bom! Vou ver o que posso fazer, eu acho."
 |-
 |'''Persephone'''
 |"Faça o melhor que puder. E, claramente, também tenho trabalho para fazer. Eu diria que temos muito à nossa frente. Então, devemos começar?"
 |-
 |'''Zagreus'''
-|"''Depois de todo esse tempo'', foram apenas alguns dias! Mas tem sido bom. Minha Mãe e meu Pai estão juntos novamente, fizeram alguns amigos novos, consegui essa pintura chique! Fácil. Está tudo bem no Submundo!"
+|"*Depois de todo esse tempo*, foram apenas alguns dias! Mas tem sido bom. Minha Mãe e meu Pai estão juntos novamente, fizeram alguns amigos novos, consegui essa pintura chique! Fácil. Está tudo bem no Submundo!"
 |-
 ! colspan="2" |Flashback 05
 |-
 |'''Storyteller'''
-|"''Mas, então, ele encontra um bilhete... escrito delicadamente com uma letra e voz às quais o Príncipe jamais vira ou ouvira.''"
+|"*Mas, então, ele encontra um bilhete... escrito delicadamente com uma letra e voz às quais o Príncipe jamais vira ou ouvira.*"
 |-
 |'''Persephone'''
-|"''\"Hades: não aguento mais viver neste lugar. Então, estou indo embora, mesmo que isso me mate. Não retornarei ao Olimpo. Se há um lugar neste mundo que eu possa chamar de lar, deve estar em algum lugar entre o céu e o inferno. Talvez seja no litoral e tenha um pequeno jardim. Cuide do Cérbero; sentirei falta dele.\''"
+|"*\"Hades: não aguento mais viver neste lugar. Então, estou indo embora, mesmo que isso me mate. Não retornarei ao Olimpo. Se há um lugar neste mundo que eu possa chamar de lar, deve estar em algum lugar entre o céu e o inferno. Talvez seja no litoral e tenha um pequeno jardim. Cuide do Cérbero; sentirei falta dele.\*"
 |-
 |'''Storyteller'''
-|"''Assim, o Príncipe do Submundo, Zagreu, absorveu o conteúdo desta carta guardada, escrita pela mão de sua mãe.''"
+|"*Assim, o Príncipe do Submundo, Zagreu, absorveu o conteúdo desta carta guardada, escrita pela mão de sua mãe.*"
 |-
 |'''Zagreus'''
-|"''A mão de sua mãe''... a mão de minha mãe... espere, ''como assim''?! Você está dizendo que essa tal de Perséfone é... a minha mãe...? Mas meu Pai sempre disse que Nix era minha... aquele mentiroso. Ele mentiu para mim, ambos mentiram. Toda a minha vida!"
+|"''A mão de sua mãe''... a mão de minha mãe... espere, *como assim*?! Você está dizendo que essa tal de Perséfone é... a minha mãe...? Mas meu Pai sempre disse que Nix era minha... aquele mentiroso. Ele mentiu para mim, ambos mentiram. Toda a minha vida!"
 |-
 |'''Storyteller'''
-|"''Argh! Então o Príncipe descobriu, por acaso, a verdade bem guardada sobre sua linhagem. Algo totalmente por acaso...''"
+|"*Argh! Então o Príncipe descobriu, por acaso, a verdade bem guardada sobre sua linhagem. Algo totalmente por acaso...*"
 |-
-! colspan="2" |Achilles With Persephone 01
+! colspan="2" |Duo - Achilles and Persephone (1)
 |-
 |'''Persephone'''
 |"...Honrada em conhecê-lo, Grande Aquiles, nosso guarda real! É sempre bom saber com quem contar caso algo suspeito ocorra por aqui. Então, foi você quem treinou meu filho em combate?"
@@ -112,12 +112,12 @@
 |"De fato, Vossa Graça. Ele era um aluno talentoso. Com certeza a senhora ficaria muito orgulhosa se pudesse ter observado seu progresso."
 |-
 |'''Persephone'''
-|"Eu ''estou ''orgulhosa! Sabe que seu nome já era bem conhecido na época que eu vivi no Olimpo. Eu creio que sua lenda se espalhou ainda mais desde então!"
+|"Eu *estou *orgulhosa! Sabe que seu nome já era bem conhecido na época que eu vivi no Olimpo. Eu creio que sua lenda se espalhou ainda mais desde então!"
 |-
 |'''Achilles'''
 |"Ah, eu duvido... mas muito obrigado, Vossa Graça."
 |-
-! colspan="2" |Nyx With Persephone 01
+! colspan="2" |Duo - Nyx and Persephone (1)
 |-
 |'''Nyx'''
 |"...Perséfone, minha Rainha... já faz tempo demais. Embora, o tempo tenha passado muito gentilmente para você. É uma honra vê-la novamente."
@@ -137,7 +137,7 @@
 |'''Persephone'''
 |"Bem, tendo eu mesma construído uma casinha lá em cima, acho que estou preparada para qualquer coisa! Você sabe como são essas coisas."
 |-
-! colspan="2" |Thanatos With Persephone 01
+! colspan="2" |Duo - Thanatos and Persephone (1)
 |-
 |'''Thanatos'''
 |"Rainha Perséfone. Todos nós estamos muitíssimo felizes de tê-la de volta. Se há algo que eu possa fazer para facilitar sua adaptação a esta Casa, você precisa apenas pedir."
@@ -148,7 +148,7 @@
 |'''Thanatos'''
 |"Seu filho, ele... é muito capaz de cuidar de si mesmo, afinal. Embora eu tente estar presente por ele, no caso de ele precisar. Contudo, preciso rogar sua licença, Rainha. Alguém me espera na superfície agora."
 |-
-! colspan="2" |Thanatos With Persephone 02
+! colspan="2" |Duo - Thanatos and Persephone (2)
 |-
 |'''Thanatos'''
 |"...Eu te agradeço por suas bençãos, Rainha Perséfone. Seu filho e eu... sempre fomos bem próximos, mas em toda esta bagunça, nos tornamos inseparáveis, acredito."
@@ -159,10 +159,10 @@
 |'''Thanatos'''
 |"Como desejar, Rainha. Quero dizer, tudo bem."
 |-
-! colspan="2" |Dusa With Persephone 01
+! colspan="2" |Duo - Dusa and Persephone (1)
 |-
 |'''Dusa'''
-|"''Hm'', é meu grande prazer te conhecer. Me chame de Dusa, por favor! Eu... eu sou governanta sua e da Casa? Sempre a seu dispor! Qualquer coisa que precisar, é só chamar, okay?"
+|"*Hm*, é meu grande prazer te conhecer. Me chame de Dusa, por favor! Eu... eu sou governanta sua e da Casa? Sempre a seu dispor! Qualquer coisa que precisar, é só chamar, okay?"
 |-
 |'''Persephone'''
 |"Dusa! Que bom te conhecer! Esta Casa está impecável! Uma diferença da noite para o dia. Agora eu sei exatamente quem elogiar."
@@ -170,21 +170,21 @@
 |'''Dusa'''
 |"Muito obrigado! Eu não a decepcionarei!!"
 |-
-! colspan="2" |Orpheus With Persephone 01
+! colspan="2" |Duo - Orpheus and Persephone (1)
 |-
 |'''Persephone'''
-|"...Ah, mas pensar que o nosso estimado músico da corte não é outro senão ''você'', Orfeu! No que se refere a música, pelo menos, Hades e eu temos gostos semelhantes. De qualquer forma, não quero tomar o seu tempo!"
+|"...Ah, mas pensar que o nosso estimado músico da corte não é outro senão *você*, Orfeu! No que se refere a música, pelo menos, Hades e eu temos gostos semelhantes. De qualquer forma, não quero tomar o seu tempo!"
 |-
 |'''Orpheus'''
 |"Ficarei honrado em executar minhas canções, Vossa Graça. E, devo adicionar, Vossa Graça apresenta muitos dos admiráveis traços de seu filho? Entendo agora de onde ele recebeu o seu charme."
 |-
-! colspan="2" |Megaera With Persephone 01
+! colspan="2" |Duo - Megaera and Persephone (1)
 |-
 |'''Megaera'''
 |"...Era meu dever impedi-lo de ir além. Se eu conseguisse... ele jamais a teria encontrado. Então, por essa única vez, fico feliz por não ter conseguido. Espero que saiba disso, minha Rainha."
 |-
 |'''Persephone'''
-|"Eu tinha esperança, mas não sabia com certeza até você mesma me contar agora, Supervisora Megaira! E, se me permite? Entendo que você conquistou muita coisa desde que eu tirei minha, ''erm'', licença desta Casa. Vejo porque Nix e Hades depositam sua confiança em você!"
+|"Eu tinha esperança, mas não sabia com certeza até você mesma me contar agora, Supervisora Megaira! E, se me permite? Entendo que você conquistou muita coisa desde que eu tirei minha, *erm*, licença desta Casa. Vejo porque Nix e Hades depositam sua confiança em você!"
 |-
 |'''Megaera'''
 |"Obrigada, minha Rainha. Então, se houver algo mais que eu possa fazer para ajudá-la a se reaclimatar, estou sempre ao seu dispor. Seja muito bem-vinda aqui."
@@ -198,22 +198,22 @@
 |"Dá pra explicar quem é você, vagando por aqui? Saiba que você está invadindo uma propriedade particular. Fale agora!"
 |-
 |'''Zagreus'''
-|"''Uhm'', você deve ser... Perséfone. Meu nome é Zagreu e... eu acho que posso ser seu filho."
+|"*Uhm*, você deve ser... Perséfone. Meu nome é Zagreu e... eu acho que posso ser seu filho."
 |-
 |'''Persephone'''
-|"''O quê''?! Como ousa...? Saia daqui! Vá embora, ou vou te forçar a ir!! Saia já!"
+|"*O quê*?! Como ousa...? Saia daqui! Vá embora, ou vou te forçar a ir!! Saia já!"
 |-
 |'''Zagreus'''
-|"Não!! Então você ''é ''ela. Eu, eu não me importo se você me odeia. Mas não vou sair daqui até eu ter algumas respostas! Eu nunca soube que você existia. Por que você me abandonou?"
+|"Não!! Então você *é *ela. Eu, eu não me importo se você me odeia. Mas não vou sair daqui até eu ter algumas respostas! Eu nunca soube que você existia. Por que você me abandonou?"
 |-
 |'''Persephone'''
 |"Você morreu! Você morreu...! Esses pés em chamas, eles... foram pulverizados quando você nasceu. Mas... como é possível você estar de pé aqui na minha frente. Como...?"
 |-
 |'''Zagreus'''
-|"Eu morri? Eu morri... quê? Você quer dizer que eu morri ''permanentemente '', mas... eu estou vivo! Ai deuses... você nem sequer sabia que eu existia, também."
+|"Eu morri? Eu morri... quê? Você quer dizer que eu morri *permanentemente *, mas... eu estou vivo! Ai deuses... você nem sequer sabia que eu existia, também."
 |-
 |'''Persephone'''
-|"Vivo! Zagreu, ele... manteve até o seu nome. Você vive, como pode ser isso, você, vivo? ''Você está vivo''...! Ah... as Moiras são tão cruéis, meu filho!"
+|"Vivo! Zagreu, ele... manteve até o seu nome. Você vive, como pode ser isso, você, vivo? *Você está vivo*...! Ah... as Moiras são tão cruéis, meu filho!"
 |-
 |'''Zagreus'''
 |"...Resumindo, eu derrotei ele, finalmente, mas ele fez de tudo o que podia para me impedir de nos encontrarmos aqui. Mas existe algo que ele queria que eu lhe dissesse, no final. Ele falou para eu contar a você que o Cérbero está indo muito bem."
@@ -222,13 +222,13 @@
 |"Ah. Ele te disse isso, então? Isso é bom. Isso é bom! Mas me diga uma coisa, Zagreu. Como... como que me encontrou? Você viajou tão longe até aqui, mal posso acreditar.... Zagreu?"
 |-
 |'''Zagreus'''
-|"''Uhh''... Oh, é que... acho que eu estou um pouco cansado, é só isso. Não estou acostumado com o clima, como você pareceu chamar isso."
+|"*Uhh*... Oh, é que... acho que eu estou um pouco cansado, é só isso. Não estou acostumado com o clima, como você pareceu chamar isso."
 |-
 |'''Persephone'''
 |"Não... não, não é isso, é que... você não pode ficar neste lugar. Você não pode ficar aqui."
 |-
 |'''Zagreus'''
-|"É sério, você está... ''heh''... me expulsando? Por quê?"
+|"É sério, você está... *heh*... me expulsando? Por quê?"
 |-
 |'''Persephone'''
 |"As Moiras são cruéis, Zagreu. Você está preso àquele lugar... assim como seu pai. Então querem que digamos adeus, por enquanto. Meu coração está nas alturas, sabendo que você vive. Aí se despedaça, com nosso tempo juntos sendo tão curto."
@@ -275,7 +275,7 @@
 |"De acordo com elas, sim. De acordo com o seu pai e com Nix. E mesmo sabendo... eu arrisquei mesmo assim. Mas quando você nasceu morto... foi demais pra mim. Eu fugi e vim morar aqui. Um nível acima e longe da atenção do Submundo. Um nível abaixo e longe da atenção do Olimpo."
 |-
 |'''Zagreus'''
-|"''Urgh''... mas... por que o Pai mentiria para você? Se ele nunca quis ter você... ou nunca quis ter a mim... com certeza ele tinha como saber."
+|"*Urgh*... mas... por que o Pai mentiria para você? Se ele nunca quis ter você... ou nunca quis ter a mim... com certeza ele tinha como saber."
 |-
 |'''Persephone'''
 |"Eu não sei. Também fico pensando a mesma coisa. Mas, ah, olha pra você, Zagreu! Estamos ficando sem tempo. Está acontecendo novamente! Fique comigo, por favor?"
@@ -298,7 +298,7 @@
 |"Porque... ele pensou que fosse verdade. As Moiras lhe deram poder sobre todo o Submundo, mas ele que nunca teria um herdeiro, ou foi o que ele entendeu que aconteceria. Ele nunca imaginou que eu nasceria, muito menos que sobreviveria."
 |-
 |'''Persephone'''
-|"Ele jamais pensou que você sobreviveria? Então, me perdoe por perguntar, mas... por que você sobreviveu? ''Como ''sobreviveu? As Moiras não são conhecidas por cometer erros quando se trata dessas coisas."
+|"Ele jamais pensou que você sobreviveria? Então, me perdoe por perguntar, mas... por que você sobreviveu? *Como *sobreviveu? As Moiras não são conhecidas por cometer erros quando se trata dessas coisas."
 |-
 |'''Zagreus'''
 |"Nix salvou a minha vida. Ou me deu uma nova vida, eu acho. Depois, me criou durante a sua ausência. As Moiras são filhas dela, certo? Talvez ela as tenha convencido a pegar leve comigo? Ela não pode me contar nada. Seja como for, parece que levou muito tempo para ela me reviver... e quando ela conseguiu, você já havia partido."
@@ -307,13 +307,13 @@
 |"Nix... é claro que ela estava envolvida. Eu só consegui escapar por causa dela. Então, ela restaurou a vida do meu filho natimorto e cuidou dele? E eu nunca saberia, a não ser que essa criança, já um adulto e ciente da verdade, desafiasse o pai e depois me encontrasse aqui?"
 |-
 |'''Zagreus'''
-|"Sim. Mas ainda não sabemos por que o Pai e Nix não mandaram te buscar. Embora, ''ungh'', deixe-me perguntar, Mãe, se você me permite. Se você houvesse descoberto... que eu tinha nascido e estava vivo e bem... você teria voltado?"
+|"Sim. Mas ainda não sabemos por que o Pai e Nix não mandaram te buscar. Embora, *ungh*, deixe-me perguntar, Mãe, se você me permite. Se você houvesse descoberto... que eu tinha nascido e estava vivo e bem... você teria voltado?"
 |-
 |'''Persephone'''
 |"Se eu teria retornado... para ver meu único filho? Se eu soubesse que você estava vivo... eu teria voltado para o inferno de todo bom grado para poder te ver, Zagreu. É claro que eu teria retornado."
 |-
 |'''Zagreus'''
-|"Então... e se... ''urgh''... e se meu Pai... não quisesse... que você... fizesse isso?"
+|"Então... e se... *urgh*... e se meu Pai... não quisesse... que você... fizesse isso?"
 |-
 |'''Persephone'''
 |"Mas e se ele não quisesse que eu voltasse para ele? Ou te ver? Ah não, você está morrendo de novo, Zagreu. Você se esforçou demais! Mas o que você quis dizer com o que disse?"
@@ -333,7 +333,7 @@
 |"Especialmente já que nenhum dos dois tem sido muito direto e honesto comigo até mesmo agora, certo? Ainda assim, eu tenho essa sensação que tem mais detalhes nessa história, Mãe. O jeito com o qual meu Pai e Nix falam sobre você... eu acho... que se preocupam contigo."
 |-
 |'''Persephone'''
-|"''Ah, hahaha''! Bem, eles têm uma forma engraçada de demonstrar, eu acho. Seu pai, então... você tem que passar por ''ele ''toda vez que você vem ''me ''visitar?"
+|"*Ah, hahaha*! Bem, eles têm uma forma engraçada de demonstrar, eu acho. Seu pai, então... você tem que passar por *ele *toda vez que você vem *me *visitar?"
 |-
 |'''Zagreus'''
 |"Eu preciso, Mãe. E se... e se meu Pai pensar que está te protegendo? Você já... considerou isso?"
@@ -342,7 +342,7 @@
 |"Me protegendo? Oras, Zagreu, o que você quer dizer com isso? Como pode ver, posso me virar sozinha."
 |-
 |'''Zagreus'''
-|"Bem... ''urgh''... você vem do Olimpo, não é? Mas.... os deuses, nenhum deles parece saber... que você... está aqui... então..."
+|"Bem... *urgh*... você vem do Olimpo, não é? Mas.... os deuses, nenhum deles parece saber... que você... está aqui... então..."
 |-
 |'''Persephone'''
 |"O quê? Como você saberia de uma coisa dessas? Zagreu? Ah, malditas sejam as Moiras, você está me deixando de novo..."
@@ -356,10 +356,10 @@
 |"Acho que já sei muita coisa agora. Tenho estado em contato constante com Atena, Zeus e com outros membros da família desde a primeira vez em que saí da Casa do Pai... eles têm me ajudado a vir aqui."
 |-
 |'''Persephone'''
-|"Não... Zagreu, o que foi que você fez? Você os trouxe ''aqui''?"
+|"Não... Zagreu, o que foi que você fez? Você os trouxe *aqui*?"
 |-
 |'''Zagreus'''
-|"Não, não, eles acham... pensam que estou tentando fugir o Pai para poder ficar com eles no alto da montanha. Pelo menos eu ''acho ''que é isso no que eles acreditam. A maioria deles, pelo menos."
+|"Não, não, eles acham... pensam que estou tentando fugir o Pai para poder ficar com eles no alto da montanha. Pelo menos eu *acho *que é isso no que eles acreditam. A maioria deles, pelo menos."
 |-
 |'''Persephone'''
 |"Mas então... o Hades sabe sobre isso? Que o Olimpo está envolvido?"
@@ -374,10 +374,10 @@
 |"Isso mesmo. Mais ou menos. Nix e o Pai parecem tolerar um ao outro. Parece que eles não têm muita escolha. Contudo, desde que eu soube sobre você, Nix tem me ajudado a encontrá-la... já o Pai, vem tentando me impedir."
 |-
 |'''Persephone'''
-|"Aquele idiota... o que ele estava pensando...? O que ele ''está ''pensando...? Você acha... que ele pensa estar me protegendo ''deles''? Ah, não..."
+|"Aquele idiota... o que ele estava pensando...? O que ele *está *pensando...? Você acha... que ele pensa estar me protegendo *deles*? Ah, não..."
 |-
 |'''Zagreus'''
-|"Eu... ''urgh''... eu acho que talvez ele ache isso... porque, agora conhecendo meus parentes do Olimpo, eu... consigo ver como eles podem ser meio... vingativos com as coisas."
+|"Eu... *urgh*... eu acho que talvez ele ache isso... porque, agora conhecendo meus parentes do Olimpo, eu... consigo ver como eles podem ser meio... vingativos com as coisas."
 |-
 |'''Persephone'''
 |"Vingança corre no sangue da família, meu filho. Então, se o Olimpo está envolvido, isso explica muita coisa. Eu estou aqui, e não lá com eles, como você pode ver. Mas, oh, parece que vamos precisar conversar mais um pouco, na próxima vez que você voltar..."
@@ -394,13 +394,13 @@
 |"Aquele tolo está tentando me proteger até mesmo agora. Não foi ele que fugiu comigo, meu filho. E é até mais complicado do que isso. Eu estava contente de partir. Disposta a viver no Submundo. Com seu pai."
 |-
 |'''Zagreus'''
-|"Eu não me atrevo a perguntar ''quem ''te levou até meu Pai, então. Então, basicamente, você fugiu de casa, para morar com ele? Não quero faltar com respeito, mas... você pensou no que estava se metendo?"
+|"Eu não me atrevo a perguntar *quem *te levou até meu Pai, então. Então, basicamente, você fugiu de casa, para morar com ele? Não quero faltar com respeito, mas... você pensou no que estava se metendo?"
 |-
 |'''Persephone'''
 |"Temos a tendência de sermos impetuosos quando somos jovens, Zagreu. Eu havia ouvido falar muito sobre seu pai antes de nos conhecermos. Admirei quadros dele. Foi realmente muito estranho, no começo. Mas ele tinha essa indelicadeza que eu adorava. Um senso de princípios. Eu tinha preferência muito maior por ele do que pelos irmãos, isso eu posso garantir."
 |-
 |'''Zagreus'''
-|"Então... ''urgh''... então você saiu do Monte Olimpo em segredo para ficar com o deus dos mortos no Submundo. E o Olimpo nunca descobriu. O que você acha que eles fariam... se descobrissem?"
+|"Então... *urgh*... então você saiu do Monte Olimpo em segredo para ficar com o deus dos mortos no Submundo. E o Olimpo nunca descobriu. O que você acha que eles fariam... se descobrissem?"
 |-
 |'''Persephone'''
 |"...Eu acho... que, se eles descobrissem, ocorreria uma guerra entre o Olimpo e seu pai, Zagreu. Especialmente agora. Depois de tudo isso. E após todo esse tempo. Eles mataram os pais uma vez. Se os Titãs puderam ser apagados deste mundo, nós também podemos."
@@ -429,13 +429,13 @@
 |"Nix pode estar te ocultando deles assim como me ocultou quando eu fugi para cá, tanto tempo atrás. Mas nem mesmo ela tem poderes infalíveis. Toda vez que você me visita, você corre um risco. Apenas um pequeno deslize, e eles me encontrarão. Descobrirão suas mentiras. Vá para casa, Zagreu. Por favor."
 |-
 |'''Zagreus'''
-|"Vá para casa ''comigo'', Mãe! Você veio para cá pelos motivos errados. Eu não lutei até aqui, vezes sem conta, só para dar meia volta agora. Eu preciso de você na minha vida! Como você pode apenas... me rejeitar dessa forma?"
+|"Vá para casa *comigo*, Mãe! Você veio para cá pelos motivos errados. Eu não lutei até aqui, vezes sem conta, só para dar meia volta agora. Eu preciso de você na minha vida! Como você pode apenas... me rejeitar dessa forma?"
 |-
 |'''Persephone'''
 |"Oh, Zagreu... eu não posso voltar. Depois de tudo o que aconteceu entre Hades, eu, e todos os outros... não posso sequer considerar a ideia. Além disso... os riscos que estamos correndo seriam ainda mais altos se o Olimpo me encontrasse lá, com ele. E com você."
 |-
 |'''Zagreus'''
-|"Então... ''ungh''... você só... vai ficar aqui? Sozinha, no meio do nada, nesse jardim... para sempre? Depois que nós nos separarmos, desse jeito?"
+|"Então... *ungh*... você só... vai ficar aqui? Sozinha, no meio do nada, nesse jardim... para sempre? Depois que nós nos separarmos, desse jeito?"
 |-
 |'''Persephone'''
 |"Meu filho... eu sei que você fez algumas escolhas difíceis e sacrifícios para estar aqui comigo. E sou eternamente grata por ter finalmente te conhecido. Mas esta é minha casa agora, entenda. E sua casa é lá embaixo. Por favor, se não pelo seu bem, faça pelo meu... e não retorne. Eu te amo, Zagreu. Adeus."
@@ -461,13 +461,13 @@
 |"O que você quer dizer com ele ainda me ama, Zagreu...? Como você saberia?"
 |-
 |'''Zagreus'''
-|"Porque... ''unhh''... eu sou o maldito do filho dele, é por isso que eu sei! Mas ''acredite em mim'', nada nunca está bom o suficiente, eu também sei disso. Eu vou provar a você, Mãe! Espere e verá."
+|"Porque... *unhh*... eu sou o maldito do filho dele, é por isso que eu sei! Mas *acredite em mim*, nada nunca está bom o suficiente, eu também sei disso. Eu vou provar a você, Mãe! Espere e verá."
 |-
 |'''Persephone'''
 |"Você está desaparecendo, Filho... você não precisa provar nada para mim. Por favor, não faça nenhuma bobagem. Todos nós fizemos as nossas escolhas. Agora temos que viver com elas. Não é o suficiente saber que estou a salvo? Que eu estou feliz em ficar sozinha?"
 |-
 |'''Zagreus'''
-|"Não... ''urgh''... não é... não é o suficiente para mim, porque... esta família maldita... não pode continuar escondendo os problemas! Fugindo deles! Estamos presos uns aos outros, nós... precisamos fazer tudo o que for possível... uns pelos outros!"
+|"Não... *urgh*... não é... não é o suficiente para mim, porque... esta família maldita... não pode continuar escondendo os problemas! Fugindo deles! Estamos presos uns aos outros, nós... precisamos fazer tudo o que for possível... uns pelos outros!"
 |-
 |'''Persephone'''
 |"Eu... ah, meu filhinho querido..."
@@ -478,7 +478,7 @@
 |"...De todas as coisas que existem naquela Casa sombria, é do Cérbero que eu sinto mais falta, eu acho. Mas também sinto falta de outras coisas. A pouca luz era mais gentil à minha pele. Não passar tanto frio. E a Nix e seus filhos pequenos. Era tudo muito estranho, mas..."
 |-
 |'''Zagreus'''
-|"Mãe... nos aposentos do Pai... veja bem, não tem quase nada lá, só fileiras bem organizadas de todas as capas idênticas dele... mas na mesa de cabeceira... há um retrato ''seu''. Usando uma coroa real de louros vermelhos. Uma Rainha. A Rainha ''dele''."
+|"Mãe... nos aposentos do Pai... veja bem, não tem quase nada lá, só fileiras bem organizadas de todas as capas idênticas dele... mas na mesa de cabeceira... há um retrato *seu*. Usando uma coroa real de louros vermelhos. Uma Rainha. A Rainha *dele*."
 |-
 |'''Persephone'''
 |"Aquelas vestes foram feitas sob medida para mim, logo que cheguei. Elas... não eram do estilo que eu estava acostumada. Então, Hades ainda tem um retrato meu. Por que ele voltaria a exibi-lo agora?"
@@ -496,7 +496,7 @@
 |"Tudo o que eu queria era sair do Olimpo. Eu não fugi, exatamente. Duvido que teria outra opção, mas eu fui por vontade própria. Talvez Zeus soubesse como eu me sentia e pensou que estaria me fazendo um favor. Quanto ao Hades... eu aprendi a amá-lo com o tempo, sim. Ele sempre respeitou o meu espaço."
 |-
 |'''Zagreus'''
-|"Você não... ''urgh''... você poderia falar com ele, por favor? Ou visitar o Cérbero outra vez, ou a Nix? Quanto ao Olimpo... com certeza todos vocês... conseguiriam resolver tudo isso...?"
+|"Você não... *urgh*... você poderia falar com ele, por favor? Ou visitar o Cérbero outra vez, ou a Nix? Quanto ao Olimpo... com certeza todos vocês... conseguiriam resolver tudo isso...?"
 |-
 |'''Persephone'''
 |"...Eu não sei, meu filho. O Olimpo ficou no meu passado. E o Submundo... não consigo imaginar que eu seria bem-vinda lá, depois de todo esse tempo."
@@ -516,7 +516,7 @@
 |"Da minha chegada. Estou voltando. Para a sua casa. Para o Cérbero. Nix. Para o seu pai."
 |-
 |'''Zagreus'''
-|"Você... ''isso é sério''?! Mãe... você... está falando sério?"
+|"Você... *isso é sério*?! Mãe... você... está falando sério?"
 |-
 |'''Persephone'''
 |"Estou. Agora, se você puder me ajudar a embalar o resto dos meus pertences? Só algumas coisas avulsas que eu vou levar, caso eu precise. Se nos apressarmos, talvez você possa ir comigo, em vez de voltar do jeito que está acostumado. Não é algo que uma mãe queira ver alguma vez."
@@ -531,7 +531,7 @@
 |"Sem dúvida, ele tem assuntos urgentes para resolver. Então, não vamos mantê-lo esperando mais, Filho. Vamos, então!"
 |-
 |'''Zagreus'''
-|"''<Suspiro> ''...eu ainda estou vivo... mas, como?"
+|"*<Suspiro> *...eu ainda estou vivo... mas, como?"
 |-
 |'''Persephone'''
 |"Você está no Rio Estige. Não está mais inteiramente no reino dos mortais."
@@ -639,7 +639,7 @@
 |"Eu, erm... não consegui completar o caminho até lá, Mãe. É que... sem a sua presença na superfície, eu não aguento ficar lá por muito tempo."
 |-
 |'''Persephone'''
-|"''Ah'', era o que eu temia. Bem, não se desespere. Eu coloquei um feitiço nas minhas mudinhas que deve mantê-las florescendo bem sozinhas. A sua tarefa agora é simplesmente escapar. Continue fazendo isso!"
+|"*Ah*, era o que eu temia. Bem, não se desespere. Eu coloquei um feitiço nas minhas mudinhas que deve mantê-las florescendo bem sozinhas. A sua tarefa agora é simplesmente escapar. Continue fazendo isso!"
 |-
 ! colspan="2" |Persephone About Hades 01
 |-
@@ -666,7 +666,7 @@
 ! colspan="2" |Persephone About Hades 03
 |-
 |'''Zagreus'''
-|"''Err'', então como estão as coisas entre você e meu Pai...? Tudo bem por enquanto?"
+|"*Err*, então como estão as coisas entre você e meu Pai...? Tudo bem por enquanto?"
 |-
 |'''Persephone'''
 |"As coisas estão indo bem, Zagreu. Eu venho do Olimpo... todos os relacionamentos que eu já vi são do tipo complicado. Mas com o seu pai... a despeito dos nossos temperamentos e interesses diferentes... debaixo disso tudo, compartilhamos um objetivo simples."
@@ -716,7 +716,7 @@
 |"Mãe, me perdoe por perguntar, mas... a sua mãe costumava chamar você por outro nome, não é?"
 |-
 |'''Persephone'''
-|"''Ah'', nem me lembre. Imagine se eu chamasse você de ''Zaguinho ''desde que você nasceu até este exato momento; é assim que esse nome me faz sentir. Eu prefiro o nome que o meu pai me deu."
+|"*Ah*, nem me lembre. Imagine se eu chamasse você de *Zaguinho *desde que você nasceu até este exato momento; é assim que esse nome me faz sentir. Eu prefiro o nome que o meu pai me deu."
 |-
 |'''Zagreus'''
 |"Seu pai mortal, certo...? Então ele lhe deu o nome de Perséfone. Como ele era?"
@@ -760,7 +760,7 @@
 ! colspan="2" |Persephone About Singers Reunion Quest 01
 |-
 |'''Persephone'''
-|"Então, o Orfeu finalmente conseguiu se reunir a Eurídice por sua causa, meu filho? ''Ah'', estou tão feliz! O acordo entre ele e o seu pai era muito rígido. Mas ele realmente exigiu muito, que uma alma mortal retornasse à terra dos vivos..."
+|"Então, o Orfeu finalmente conseguiu se reunir a Eurídice por sua causa, meu filho? *Ah*, estou tão feliz! O acordo entre ele e o seu pai era muito rígido. Mas ele realmente exigiu muito, que uma alma mortal retornasse à terra dos vivos..."
 |-
 |'''Zagreus'''
 |"Mas é possível que o Pai consiga devolver um mortal à vida, se ele quiser? Basta deixar a sombra da pessoa fugir, ou algo assim?"
@@ -769,7 +769,7 @@
 |"Oh, eu não faço ideia, provavelmente não? Mas ficamos tão emocionados com o pedido e a canção do Orfeu que, bem... acho que o seu pai ficou com pena dele."
 |-
 |'''Zagreus'''
-|"Espera aí, ''nós ''ficamos emocionados? Você estava presente quando o Orfeu veio tentar resgatar Eurídice?"
+|"Espera aí, *nós *ficamos emocionados? Você estava presente quando o Orfeu veio tentar resgatar Eurídice?"
 |-
 |'''Persephone'''
 |"Estava. O seu pai sabia como eu amava as canções deles. Imagine a minha surpresa vê-lo aqui, como nosso músico da corte!"
@@ -878,13 +878,13 @@
 |"Excelente, Zagreu! Dê os parabéns a ele, Hades! Pelo trabalho bem feito."
 |-
 |'''Hades'''
-|"''Grr. ''Perséfone, como você pode ter tanta certeza de que o seu pedido foi executado atendendo as suas especificações?"
+|"*Grr. *Perséfone, como você pode ter tanta certeza de que o seu pedido foi executado atendendo as suas especificações?"
 |-
 |'''Persephone'''
 |"É o que se chama de confiança, Hades. Ou de fé? São conceitos semelhantes. Tente adotar um deles, um dia desses! Vai lhe fazer bem. Quanto ao que faremos em seguida... oras, vamos dar uma grande festa e precisamos nos preparar!"
 |-
 |'''Hades'''
-|"Esta Casa não é um lugar adequado a esses tipos de convidados! O Dionísio, sozinho, vai trazer a ruína a este lugar! Ou... ''urgh''... a coisa da fé que você falou."
+|"Esta Casa não é um lugar adequado a esses tipos de convidados! O Dionísio, sozinho, vai trazer a ruína a este lugar! Ou... *urgh*... a coisa da fé que você falou."
 |-
 |'''Persephone'''
 |"Isso, muito bom! Agora, então... temos muito trabalho a fazer por aqui, então, porque não chamamos todos os funcionários, os colocamos a par dos acontecimentos e distribuímos as responsabilidades adequadas, tudo bem?"
@@ -899,7 +899,7 @@
 |"Tudo bem!"
 |-
 |'''Persephone'''
-|"...''Ufa''! Eu diria que tudo ocorreu tão bem quando poderíamos querer! E a limpeza não foi tão ruim. Na maior parte do tempo."
+|"...*Ufa*! Eu diria que tudo ocorreu tão bem quando poderíamos querer! E a limpeza não foi tão ruim. Na maior parte do tempo."
 |-
 |'''Zagreus'''
 |"Temos sorte que Tio Zeus parece ter entendido na hora, e agiu de acordo. Mas toda essa história elaborada que você contou... eu lembro quão traído me senti quando descobri que meu Pai havia mentido para mim sobre você. E agora estamos mentindo para o Olimpo. E se descobrirem? Mesmo que não descubram... eu não gosto disso."
@@ -920,7 +920,7 @@
 |"Bem, vamos ver. Meus ressentimos não são nada em comparação à alegria de ter meu filho de volta em minha vida. Seu pai nunca imaginou que seu relacionamento comigo pudesse vir a público. E minha mãe... ela só está feliz que estou viva."
 |-
 |'''Zagreus'''
-|"E o Tio Zeus está feliz que as coisas não ficaram piores ''para ele''. Eu tenho a impressão de que ele age meio impulsivamente, às vezes, e se preocupa com as consequências só depois."
+|"E o Tio Zeus está feliz que as coisas não ficaram piores *para ele*. Eu tenho a impressão de que ele age meio impulsivamente, às vezes, e se preocupa com as consequências só depois."
 |-
 |'''Persephone'''
 |"O que posso dizer, Zagreu? Somos família. Você próprio me disse isso antes: ''Estamos presos uns aos outros''. Que gostemos nem que um pouquinho uns dos outros... é um milagre, eu acho."
@@ -934,7 +934,7 @@
 |"Mãe, preciso dizer que foi um plano muito inteligente. Convencer o Pai a, finalmente, deixar alguém se divertir um pouco por aqui."
 |-
 |'''Persephone'''
-|"''Haha'', bem! Fico feliz que tudo tenha dado certo no final. Há apenas um fato que aconteceu e eu tenho que contar a você sobre ele, Filho. Nada de segredos entre nós, e tudo mais. Isso... é muito difícil para eu dizer."
+|"*Haha*, bem! Fico feliz que tudo tenha dado certo no final. Há apenas um fato que aconteceu e eu tenho que contar a você sobre ele, Filho. Nada de segredos entre nós, e tudo mais. Isso... é muito difícil para eu dizer."
 |-
 |'''Zagreus'''
 |"É sobre a Deméter, não é? Vocês duas passaram boa parte da noite conversando. Ela quer que você volte para casa com ela, não é verdade? Que você sempre será a menininha dela, ou alguma coisa assim?"
@@ -958,7 +958,7 @@
 |"Não creio que... eu possa ir com você, posso?"
 |-
 |'''Persephone'''
-|"''Tsc'', você sabe que a superfície não lhe faz bem! Além disso, você é necessário aqui. Mas, se você quiser mesmo saber como é por lá, quem sabe? Talvez, um dia, possamos descobrir um jeito."
+|"*Tsc*, você sabe que a superfície não lhe faz bem! Além disso, você é necessário aqui. Mas, se você quiser mesmo saber como é por lá, quem sabe? Talvez, um dia, possamos descobrir um jeito."
 |-
 |'''Zagreus'''
 |"Vou sentir saudades suas, Mãe."
@@ -977,7 +977,7 @@
 |'''Persephone'''
 |"Eu perguntei. Ela disse que sim. O calor retornará à superfície. Durante parte do tempo, pelo menos. Provavelmente em uma programação bem rígida, se bem a conheço. E, talvez, não nas proximidades do nosso domínio. Ela não é do tipo de perdoar e simplesmente esquecer."
 |-
-! colspan="2" |Persephone With Hades 01
+! colspan="2" |Duo - Persephone and Hades (1)
 |-
 |'''Persephone'''
 |"...Ah, por favor, Hades! Os mortais são muito mais resistentes que isso! O que, você pensa que eles vão aparecer do nada nos seus portões, todos de uma vez? Eles têm nossa família cuidando deles."
@@ -992,18 +992,18 @@
 |"Mas eles nunca estão satisfeitos! Sempre implorando para darmos mais e mais a eles."
 |-
 |'''Persephone'''
-|"Eles ''gostam ''de nós, Hades! Eles nos louvam, falam sobre nós entre si. O que você esperava? Você preferiria que eles se esquecessem de nós?"
+|"Eles *gostam *de nós, Hades! Eles nos louvam, falam sobre nós entre si. O que você esperava? Você preferiria que eles se esquecessem de nós?"
 |-
 |'''Hades'''
-|"...Não. Não, acho que não. Mas eles ''precisam ''de nós!"
+|"...Não. Não, acho que não. Mas eles *precisam *de nós!"
 |-
-! colspan="2" |Persephone With Hades 02
+! colspan="2" |Duo - Persephone and Hades (2)
 |-
 |'''Hades'''
 |"...E quanto às reclamações de Elísio? Eles queriam que os jardins fossem completamente aparados para as competições de atletismo."
 |-
 |'''Persephone'''
-|"Já foi resolvido. Contudo, a enchente em Asfódelo, ''hm'', não me parece ser algo que vamos conseguir limpar durante um bom tempo. Felizmente, os residentes parece que estão se acostumando."
+|"Já foi resolvido. Contudo, a enchente em Asfódelo, *hm*, não me parece ser algo que vamos conseguir limpar durante um bom tempo. Felizmente, os residentes parece que estão se acostumando."
 |-
 |'''Hades'''
 |"Poucos relatórios têm chegado sobre isso ultimamente. E o problema com os Sátiros? As malditas criaturas ainda estão desenfreadas lá em cima."
@@ -1011,7 +1011,7 @@
 |'''Persephone'''
 |"Bom, eles provavelmente foram contidos aqui, pelo menos. E o Zagreu os está mantendo sob controle, não está?"
 |-
-! colspan="2" |Persephone With Hades 03
+! colspan="2" |Duo - Persephone and Hades (3)
 |-
 |'''Hades'''
 |"...Bem, seja como for... se eles incomodarem você de alguma forma, me avise e farei com que cuidem deles rapidamente."
@@ -1023,15 +1023,15 @@
 |"Você tem certeza de que as suas necessidades têm sido satisfeitas? Porque, se houver algo que você precisar..."
 |-
 |'''Persephone'''
-|"''Precisar''? Olhe para esse lugar, Hades. Olhe para ''mim''! Eu tenho tudo! E você também. Tente não se preocupar tanto. E tenha paciência com o seu filho. É só o que peço."
+|"*Precisar*? Olhe para esse lugar, Hades. Olhe para *mim*! Eu tenho tudo! E você também. Tente não se preocupar tanto. E tenha paciência com o seu filho. É só o que peço."
 |-
 |'''Hades'''
-|"Perséfone, não posso lhe prometer tais coisas, elas... não são meus pontos fortes. Além disso, tenho uma reputação a zelar! ''Deus dos mortos''! Se os malditos não tiverem medo de mim, ou de ''você'', nesse caso... quais as consequências?"
+|"Perséfone, não posso lhe prometer tais coisas, elas... não são meus pontos fortes. Além disso, tenho uma reputação a zelar! *Deus dos mortos*! Se os malditos não tiverem medo de mim, ou de *você*, nesse caso... quais as consequências?"
 |-
 |'''Persephone'''
 |"Eu não vou dizer a você como equilibrar o seu trabalho, o seu casamento e as suas responsabilidades paternas. Não acho que ninguém no Olimpo ou aqui embaixo sabe como fazer isso da melhor forma. Contanto que façamos o nosso melhor."
 |-
-! colspan="2" |Persephone With Hades 04
+! colspan="2" |Duo - Persephone and Hades (4)
 |-
 |'''Hades'''
 |"...Às vezes, eu... ainda não consigo acreditar que você está aqui. De volta para nós. A sua luminosidade em toda essa escuridão... você deve estar sentindo falta do litoral."
@@ -1045,7 +1045,7 @@
 |'''Persephone'''
 |"O coração pode nos levar a fazer as coisas mais estranhas, não pode?"
 |-
-! colspan="2" |Persephone With Nyx 01
+! colspan="2" |Duo - Persephone and Nyx (1)
 |-
 |'''Persephone'''
 |"...Então, se houver alguma coisa que eu possa fazer por você, Nix, você só precisa pedir, tudo bem? Planejo fazer a minha parte."
@@ -1056,10 +1056,10 @@
 |'''Persephone'''
 |"Obrigada, minha amiga. Preciso lhe dizer que... é bom estar de volta."
 |-
-! colspan="2" |Persephone With Nyx 02
+! colspan="2" |Duo - Persephone and Nyx (2)
 |-
 |'''Persephone'''
-|"...Eu só não sei como posso começar a te recompensar. Por tê-lo criado. Por ''tudo''. Depois que parti... além do velho Cérbero, acredito que senti sua falta mais que de qualquer um."
+|"...Eu só não sei como posso começar a te recompensar. Por tê-lo criado. Por *tudo*. Depois que parti... além do velho Cérbero, acredito que senti sua falta mais que de qualquer um."
 |-
 |'''Nyx'''
 |"Consigo lembrar de sentir emoções semelhantes na época. Entretanto, é desnecessário me agradecer dessa forma. Você é a Rainha, que retornou em segurança ao lugar a que pertence. Eu fiz o que qualquer um faria no meu lugar."
@@ -1067,24 +1067,24 @@
 |'''Persephone'''
 |"Qualquer um teria criado com amor meu filho perdido, mantido ele seguro, e eventualmente orquestrado um elaborado plano para reuni-lo comigo, para que um dia eu pudesse voltar, e beber Néctar com ele no Salão?"
 |-
-! colspan="2" |Persephone With Cerberus 01
+! colspan="2" |Duo - Persephone and Cerberus (1)
 |-
 |'''Persephone'''
 |"Oh, Cérbero! Sem dúvida você merece os melhores agradecimentos por esta Casa ainda estar de pé, não é? Você gostou do presente que eu comprei pra você na superfície?"
 |-
 |'''Storyteller'''
-|"''O cão devorador de petiscos da superfície responde à Rainha da forma mais enfática possível.''"
+|"*O cão devorador de petiscos da superfície responde à Rainha da forma mais enfática possível.*"
 |-
 |'''Persephone'''
 |"Eu achei que você gostaria. Aposto que não dá para dizer que não é feito de carne! Vamos ver se conseguimos fazer você crescer um pouco mais."
 |-
-! colspan="2" |Persephone With Cerberus 02
+! colspan="2" |Duo - Persephone and Cerberus (2)
 |-
 |'''Persephone'''
 |"Você é um menino bonzinho, não é, Cérbero? É, sim, você é! Guardou o local enquanto eu estive fora. E até deixou o meu filho ir me visitar!"
 |-
 |'''Storyteller'''
-|"''O sempre vigilante e horripilante Cérbero simplesmente aceita o elogio.''"
+|"*O sempre vigilante e horripilante Cérbero simplesmente aceita o elogio.*"
 |-
 ! colspan="2" |Persephone Chat 01
 |-
@@ -1246,62 +1246,62 @@
 |'''Persephone'''
 |"Que vista agradável depois de todos os picos de montanhas cobertos de neve."
 |-
-! colspan="2" |Persephone Chat With Nyx 01
+! colspan="2" |Duo - Chat and Nyx (1)
 |-
 |'''Persephone'''
 |"Ah, estamos ocupadas maquinando juntas mais alguns dos nossos esquemas sombrios, Zagreu."
 |-
-! colspan="2" |Persephone Chat With Nyx 02
+! colspan="2" |Duo - Chat and Nyx (2)
 |-
 |'''Persephone'''
 |"A Nix, aqui presente, revelou-se uma fonte de conselhos maternos!"
 |-
-! colspan="2" |Persephone Chat With Nyx 03
+! colspan="2" |Duo - Chat and Nyx (3)
 |-
 |'''Persephone'''
 |"A Nix estava só me contando um pouco mais sobre quando você era pequeno, meu filho."
 |-
-! colspan="2" |Persephone Chat With Nyx 04
+! colspan="2" |Duo - Chat and Nyx (4)
 |-
 |'''Persephone'''
 |"Parece que, mais uma vez, não consegui persuadir a Nix de tirar uns dias de folga!"
 |-
-! colspan="2" |Persephone Chat With Hades 01
+! colspan="2" |Duo - Chat and Hades (1)
 |-
 |'''Persephone'''
 |"Queira desculpar o seu pai e eu por um momento, Zagreu."
 |-
-! colspan="2" |Persephone Chat With Hades 02
+! colspan="2" |Duo - Chat and Hades (2)
 |-
 |'''Persephone'''
 |"Vá em frente, Hades. Experimente fazer um elogio a ele, para variar."
 |-
-! colspan="2" |Persephone Chat With Hades 03
+! colspan="2" |Duo - Chat and Hades (3)
 |-
 |'''Persephone'''
 |"Seu pai e eu ainda temos bastante trabalho para terminar aqui."
 |-
-! colspan="2" |Persephone Chat With Hades 04
+! colspan="2" |Duo - Chat and Hades (4)
 |-
 |'''Persephone'''
 |"Com certeza o trabalho não para nunca, Zagreu!"
 |-
-! colspan="2" |Persephone Chat With Hades 05
+! colspan="2" |Duo - Chat and Hades (5)
 |-
 |'''Persephone'''
 |"Papelada mais do que suficiente por um bom tempo!"
 |-
-! colspan="2" |Persephone Chat With Hades 06
+! colspan="2" |Duo - Chat and Hades (6)
 |-
 |'''Persephone'''
 |"Temos papelada que baste para nos ocupar, isso eu posso garantir, Zagreu!"
 |-
-! colspan="2" |Persephone Chat With Hades 07
+! colspan="2" |Duo - Chat and Hades (7)
 |-
 |'''Persephone'''
 |"Não sejam duros demais um com o outro, OK?"
 |-
-! colspan="2" |Persephone Chat With Hades 08
+! colspan="2" |Duo - Chat and Hades (8)
 |-
 |'''Persephone'''
 |"Ouvi dizer que você está se saindo muito bem por aí ultimamente, Zagreu."
@@ -1309,7 +1309,7 @@
 ! colspan="2" |Persephone Gift 01
 |-
 |'''Zagreus'''
-|"''Err'', Mãe? Sempre foi costume na Casa do meu Pai presentear com Néctar as pessoas de quem gostamos? Acho que também era o hábito no Olimpo. Olha, eu quero que você aceite isso. Estou tão feliz por ter te encontrado."
+|"*Err*, Mãe? Sempre foi costume na Casa do meu Pai presentear com Néctar as pessoas de quem gostamos? Acho que também era o hábito no Olimpo. Olha, eu quero que você aceite isso. Estou tão feliz por ter te encontrado."
 |-
 |'''Persephone'''
 |"Ah, Zagreu, você é tão prestativo, de verdade! O seu pai nunca permitiu o consumo público de Néctar, então eu quase tinha me esquecido do sabor. Mas espere, só um momento, eu também tenho um presente para você!"
@@ -1341,7 +1341,7 @@
 ! colspan="2" |Persephone Gift 05
 |-
 |'''Persephone'''
-|"''Oh'', isso é maravilhoso, só que... estou devastada de tanta culpa por não ter nada de valor para oferecer a você em retribuição. Você nem chegou a receber de mim o amor de mãe."
+|"*Oh*, isso é maravilhoso, só que... estou devastada de tanta culpa por não ter nada de valor para oferecer a você em retribuição. Você nem chegou a receber de mim o amor de mãe."
 |-
 |'''Zagreus'''
 |"Por favor, não diga isso, é só um presente, OK? Além disso... nós não podemos começar agora? A fazer coisas de mãe e filho. Se você quiser."
@@ -1372,7 +1372,7 @@
 |"É sim, é sim, é claro! E eu espero sinceramente que, em algum momento a partir de agora, quando você estiver relaxando com uma garrafa de ambrosia, ouso até dizer que talvez com o meu Pai... que essas recordações estejam entre as que vêm à sua mente."
 |-
 |'''Persephone'''
-|"''Ah'', meu filho... certamente eu não precisarei de Ambrosia para pensar em quando nos conhecemos com todo o carinho de meu coração. Obrigado, muito obrigado."
+|"*Ah*, meu filho... certamente eu não precisarei de Ambrosia para pensar em quando nos conhecemos com todo o carinho de meu coração. Obrigado, muito obrigado."
 |-
 ! colspan="2" |Persephone Gift 08
 |-
@@ -1386,7 +1386,7 @@
 |"Ela é sua para você dispor do jeito que quiser."
 |-
 |'''Persephone'''
-|"''Haha'', quase soou como um ''não ''para mim!"
+|"*Haha*, quase soou como um *não *para mim!"
 |-
 |'''Zagreus'''
 |"Não! Quero dizer, sim, por favor, compartilhe com meu Pai, se ele estiver disposto... Eu imagino que quaisquer que sejam as poucas recordações agradáveis que ele tem, são todas de você."
@@ -1412,7 +1412,7 @@
 |"Tenho toda a certeza! E se ele não tolerar, acho que sobra mais para mim."
 |-
 |'''Zagreus'''
-|"''Haha'', bom! Desde que alguém faça bom proveito."
+|"*Haha*, bom! Desde que alguém faça bom proveito."
 |-
 |'''Persephone'''
 |"...Você sabia que eu sempre quis ser mãe, Zagreu? Mas depois que você nasceu... eu tinha certeza que tinha perdido a minha chance. Então, em uma bela manhã, você entrou na minha vida. E aqui estamos. Ainda não consigo acreditar inteiramente. O que eu quero dizer é... que eu te amo, Filho. Estou fazendo o melhor que posso."

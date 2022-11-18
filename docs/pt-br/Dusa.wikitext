@@ -3,13 +3,13 @@
 ! colspan="2" |Dusa First Meeting
 |-
 |'''Dusa'''
-|"''Oh''! O príncipe em pessoa, você, deseja falar comigo...? Eu?! Oh, nossa, oh nossa!!"
+|"*Oh*! O príncipe em pessoa, você, deseja falar comigo...? Eu?! Oh, nossa, oh nossa!!"
 |-
 |'''Zagreus'''
 |"Eu só queria dizer, o saguão parece maravilhoso, novinho em folha. Melhor! Espero que não tenha sido muito difícil consertar."
 |-
 |'''Dusa'''
-|"Eu, eu, eu... ''aah''... eu tenho que limpar as vigas, eu...!"
+|"Eu, eu, eu... *aah*... eu tenho que limpar as vigas, eu...!"
 |-
 ! colspan="2" |Dusa Misc Meeting 02
 |-
@@ -19,15 +19,15 @@
 ! colspan="2" |Dusa Misc Meeting 02 Extra
 |-
 |'''Zagreus'''
-|"''Err'', Dusa? Parece que vou acabar voltando de tempos em tempos, como agora. Mas, por favor, não se preocupe em arrumar meu quarto. Eu não vou ficar aqui por muito tempo."
+|"*Err*, Dusa? Parece que vou acabar voltando de tempos em tempos, como agora. Mas, por favor, não se preocupe em arrumar meu quarto. Eu não vou ficar aqui por muito tempo."
 |-
 |'''Dusa'''
-|"Ah, ''hahaha'', claro! Mas vou ficar de olho nas coisas por ali, de vez em quando, caso você mude de ideia, um, então, tchau tchau!"
+|"Ah, *hahaha*, claro! Mas vou ficar de olho nas coisas por ali, de vez em quando, caso você mude de ideia, um, então, tchau tchau!"
 |-
 ! colspan="2" |Dusa Misc Meeting 03
 |-
 |'''Dusa'''
-|"''Hm'', Príncipe? Seu pai, eu... eu acho que ele está bem irritado sobre alguma coisa. Então, então você talvez poderia não se aproximar dele dessa vez? Ou... eu poderia dizer que você não está aqui?"
+|"*Hm*, Príncipe? Seu pai, eu... eu acho que ele está bem irritado sobre alguma coisa. Então, então você talvez poderia não se aproximar dele dessa vez? Ou... eu poderia dizer que você não está aqui?"
 |-
 |'''Zagreus'''
 |"Tudo bem, Dusa. Não tenho medo dele, e você também não deveria. Você é a melhor ajuda que ele já encontrou."
@@ -38,7 +38,7 @@
 ! colspan="2" |Dusa Misc Meeting 04
 |-
 |'''Dusa'''
-|"Ah, ''hm'', bem, oi Príncipe! Então, tem alguma coisa que eu possa fazer por você, talvez arrumar mais um pouco, ou... você poderia querer beber alguma coisa? Alguma hora?"
+|"Ah, *hm*, bem, oi Príncipe! Então, tem alguma coisa que eu possa fazer por você, talvez arrumar mais um pouco, ou... você poderia querer beber alguma coisa? Alguma hora?"
 |-
 |'''Zagreus'''
 |"Ah! Seria maravilhoso uma bebida, Dusa. Talvez amanhã, considerando que eu ainda não tenha saído daqui até lá...?"
@@ -65,19 +65,19 @@
 ! colspan="2" |Dusa Date 01
 |-
 |'''Zagreus'''
-|"''Err'', Senhorita Dusa, eu queria, ''uhm'', convidá-la cordialmente para um passeio no saguão? Lembra quando você me perguntou sobre uma bebida?"
+|"*Err*, Senhorita Dusa, eu queria, *uhm*, convidá-la cordialmente para um passeio no saguão? Lembra quando você me perguntou sobre uma bebida?"
 |-
 |'''Dusa'''
-|"''Aaah! ''Oh, oh, oh, sério, o que você quer dizer, agora, você... Eu... Acho que estou cansada de dar um tempo..."
+|"*Aaah! *Oh, oh, oh, sério, o que você quer dizer, agora, você... Eu... Acho que estou cansada de dar um tempo..."
 |-
 |'''Dusa'''
 |"...E bem, como eu não me encaixo bem no padrão da sua górgona tradicional, quero dizer - sem corpo por exemplo, tenho dificuldades em arrumar trabalho! Era assim antes de Lorde Hades ter me recebido, e aí... eu te conheci, e bem... eu realmente amo esse trabalho!!"
 |-
 |'''Zagreus'''
-|"''Ah''! Eu posso entender pelo menos parte disso, sem dúvidas."
+|"*Ah*! Eu posso entender pelo menos parte disso, sem dúvidas."
 |-
 |'''Dusa'''
-|"''<Suspiro> ''Eu, eu, eu, muito obrigado, Vossa Alteza. Príncipe. Príncipe Zagreu!"
+|"*<Suspiro> *Eu, eu, eu, muito obrigado, Vossa Alteza. Príncipe. Príncipe Zagreu!"
 |-
 ! colspan="2" |Dusa Date Aftermath 01
 |-
@@ -102,13 +102,13 @@
 |"Sou eu mesmo! Dusa, estou impressionado que você é capaz de cuidar desse saguão todo sozinha. Como você consegue, qual é o seu segredo?"
 |-
 |'''Dusa'''
-|"''Hahaha'', segredo? Estou duas semanas atrasada no cronograma desse lugar, pelo menos! Felizmente, ninguém aqui é muito bom em perceber a passagem do tempo, então ninguém brigou comigo ainda, mas... ah, você não vai contar, vai?"
+|"*Hahaha*, segredo? Estou duas semanas atrasada no cronograma desse lugar, pelo menos! Felizmente, ninguém aqui é muito bom em perceber a passagem do tempo, então ninguém brigou comigo ainda, mas... ah, você não vai contar, vai?"
 |-
 |'''Zagreus'''
 |"Claro que não. Mas o que é que está atrasado no cronograma? Este lugar não parece nem um pouco pior que o normal."
 |-
 |'''Dusa'''
-|"Bem, é exatamente isso! A senhorita Nix, ela me deu um projeto bem grande e importante a um tempo atrás, de fazer este lugar ''digno de seu nome'', o que significa... ai, tem tanto a se fazer ainda, preciso deixar tudo pronto, então... com sua licença, Príncipe!"
+|"Bem, é exatamente isso! A senhorita Nix, ela me deu um projeto bem grande e importante a um tempo atrás, de fazer este lugar *digno de seu nome*, o que significa... ai, tem tanto a se fazer ainda, preciso deixar tudo pronto, então... com sua licença, Príncipe!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 02
 |-
@@ -119,13 +119,13 @@
 |"Dusa, espere... antes que voe para longe... deve ter algo que eu possa fazer, dar uma mãozinha? Não importa o quão boa você é no seu trabalho, o que você está descrevendo... é mais que uma única pessoa pode fazer!"
 |-
 |'''Dusa'''
-|"Vossa Alteza, por favor! Eu sei que tem boas intenções, mas eu consigo! Eu realmente queria que todo mundo parasse de duvidar de mim o tempo todo assim, como aquele Empreiteiro da Casa, só fica parado no canto dele, esperando novas ordens de serviço! A menos que elas venham de mim, aí ''nãããããão''."
+|"Vossa Alteza, por favor! Eu sei que tem boas intenções, mas eu consigo! Eu realmente queria que todo mundo parasse de duvidar de mim o tempo todo assim, como aquele Empreiteiro da Casa, só fica parado no canto dele, esperando novas ordens de serviço! A menos que elas venham de mim, aí *nãããããão*."
 |-
 |'''Zagreus'''
 |"O Empreiteiro da Casa não está cooperando com você, huh. Não me impressiona que tantas renovações do saguão estão presas naquela lista dele. Talvez eu possa facilitar um pouco o processo?"
 |-
 |'''Dusa'''
-|"''AAH'', eu me esqueci completamente!! Eu preciso trazer mais banha pro Cozinheiro Chefe! Eu tenho que ir!!"
+|"*AAH*, eu me esqueci completamente!! Eu preciso trazer mais banha pro Cozinheiro Chefe! Eu tenho que ir!!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 02 Alt
 |-
@@ -133,7 +133,7 @@
 |"Aah, isso pode ter sido culpa minha. Eu tenho dado muitas ordens de serviço ao Empreiteiro. Algumas dessas ordens para o saguão devem terem vindo de você, certo? Esse lugar está realmente ficando interessante!"
 |-
 |'''Dusa'''
-|"Q-que... espera, então é você quem tem autorizado todas as melhorias?! Ai meus... ai meus deuses... ''aaaah''!"
+|"Q-que... espera, então é você quem tem autorizado todas as melhorias?! Ai meus... ai meus deuses... *aaaah*!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest 03
 |-
@@ -141,7 +141,7 @@
 |"O saguão está começando a ficar bonito ultimamente, Dusa! Todo seu trabalho duro está mostrando resultados!"
 |-
 |'''Dusa'''
-|"''Hah''! Nossa, muito obrigada, Príncipe, é só que... ultimamente, o Empreiteiro da Casa tem sido levemente mais cooperativo, eu acho, trabalhado um pouco mais rápido, talvez... mas ainda tem muito a ser feito, então, só espere pra ver!"
+|"*Hah*! Nossa, muito obrigada, Príncipe, é só que... ultimamente, o Empreiteiro da Casa tem sido levemente mais cooperativo, eu acho, trabalhado um pouco mais rápido, talvez... mas ainda tem muito a ser feito, então, só espere pra ver!"
 |-
 ! colspan="2" |Dusa Lounge Renovation Quest Complete
 |-
@@ -152,7 +152,7 @@
 |"Espera... não, agora é uma boa hora. É claro, o que quer me dizer, Dusa? Não sou tão ocupado, por sinal, fico sempre contente de ver como você está. Espera, tem algum problema?"
 |-
 |'''Dusa'''
-|"Não, ''nãonãonãonão'', o oposto na verdade, eu... não acredito que você me ajudou, com o saguão. Eu acho que ''ninguém ''havia me ajudado antes, ''nunca ''alguém me ajudou tanto como você fez, limpando o estrago do Cérbero, e o tapete novo, e a cozinha, e, tudo, tudo isso!"
+|"Não, *nãonãonãonão*, o oposto na verdade, eu... não acredito que você me ajudou, com o saguão. Eu acho que *ninguém *havia me ajudado antes, *nunca *alguém me ajudou tanto como você fez, limpando o estrago do Cérbero, e o tapete novo, e a cozinha, e, tudo, tudo isso!"
 |-
 |'''Zagreus'''
 |"Foi um prazer, sério. Todos nós usamos o saguão, não é mesmo? Essa Casa pode ter um ar pesado, mas aqui no saguão, as coisas ficam mais simples e leves, eu acho. Estou tão feliz que temos você pra ficar de olho nas coisas por aqui."
@@ -178,7 +178,7 @@
 |"Me desculpe, Dusa... eu... eu te dei muita coisa para fazer e para pensar, e... talvez eu não deveria, já que sou o príncipe e tudo mais, como você relembrou, e... às vezes esqueço minha posição. Eu nunca a pressionaria, é só... pensei que também tivesse esses sentimentos por mim."
 |-
 |'''Dusa'''
-|"Eu ''tenho ''sentimentos por você, seu bobo! É isso que eu tenho tentado te contar, é só... é só que..."
+|"Eu *tenho *sentimentos por você, seu bobo! É isso que eu tenho tentado te contar, é só... é só que..."
 |-
 |'''Zagreus'''
 |"É só o que...? O que quer que seja, está tudo bem. Você pode ser você mesma comigo, Dusa, eu prometo."
@@ -187,10 +187,10 @@
 |"Fico feliz que tenha dito isso assim. Eu... não estou procurando por um relacionamento íntimo. Você tem a alma mais bondosa dessa Casa inteira. E tenho aprendido tanto com você! Mas... quando penso nos meus sentimentos... eu só... não me sinto atraída a você dessa forma. Sinto muito. Você é um cara muito legal!"
 |-
 |'''Zagreus'''
-|"Ah... ''hahaha'', olha, não tem nada para se desculpar, nadinha. Na verdade... é meio que um alívio. Eu aprendi tanto com você também, e aprecio muito nossa amizade como ela é. Você... você acha que ainda podemos ser amigos? Ou é melhor que não nos víssemos mais...?"
+|"Ah... *hahaha*, olha, não tem nada para se desculpar, nadinha. Na verdade... é meio que um alívio. Eu aprendi tanto com você também, e aprecio muito nossa amizade como ela é. Você... você acha que ainda podemos ser amigos? Ou é melhor que não nos víssemos mais...?"
 |-
 |'''Dusa'''
-|"Nem pense ''nisso''! Eu também ia te pedir a mesma coisa. Eu gostaria muito se você fosse meu amigo! Mas minha carreira vem em primeiro lugar então... eu não quero você fazendo favorezinhos pra mim, promete? Eu preciso ver o quão longe posso ir sozinha."
+|"Nem pense *nisso*! Eu também ia te pedir a mesma coisa. Eu gostaria muito se você fosse meu amigo! Mas minha carreira vem em primeiro lugar então... eu não quero você fazendo favorezinhos pra mim, promete? Eu preciso ver o quão longe posso ir sozinha."
 |-
 |'''Zagreus'''
 |"Eu tenho muito respeito por isso, e sim, eu prometo Dusa. Bem... então... amigos? Por toda a eternidade?"
@@ -204,7 +204,7 @@
 |"Ei, Zagreu, eu... queria falar com você de novo, eu... o que quero dizer é... eu só... espero não ter machucado seus sentimentos porque... se eu tiver, você me contaria, não contaria?"
 |-
 |'''Zagreus'''
-|"Dusa, por favor! Se lembra de ''''amigos por toda a eternidade''''? Esse é um longo tempo, então... não precisa ficar se duvidando. Fico feliz de termos uma chance de conversar."
+|"Dusa, por favor! Se lembra de *''amigos por toda a eternidade''*? Esse é um longo tempo, então... não precisa ficar se duvidando. Fico feliz de termos uma chance de conversar."
 |-
 |'''Dusa'''
 |"Ah bem, que bom! É um alívio ouvir isso, mas... uma última coisa, para eu ficar de consciência limpa, eu... eu guardei toda a ambrosia que você me deu e pensei que, já que... eu não tinha percebido, você sabe... como você se sentia? Eu posso ser um pouco lenta às vezes! Eu tenho uma aqui. E queria te retribuir. Tudo bem com isso?"
@@ -224,21 +224,21 @@
 |"Ah, tudo bem, eu... tinha que perguntar, então, obrigado de novo. Só queria ter certeza! Espero que a gente possa experimentar juntos no saguão alguma hora!! Melhor eu guardar. Não beber! Guardar em segurança, por enquanto, ok?"
 |-
 |'''Zagreus'''
-|"Que tal ''No Sangue''? Esse é um dos seus sucessos, correto?"
+|"Que tal *No Sangue*? Esse é um dos seus sucessos, correto?"
 |-
 |'''Zagreus'''
-|"E que tal ''Argonautas'', você não navegou com eles?"
+|"E que tal *Argonautas*, você não navegou com eles?"
 |-
 ! colspan="2" |Became Close With Dusa Aftermath 02
 |-
 |'''Dusa'''
-|"Ei, ''hm'', Zagreu? Eu queria dizer, foi muito gentil da sua parte, me deixar ficar com toda a Ambrósia que tinha me dado antes? Ela tá guardada agora! Exceto uma garrafa... ela meio que escorregou.... e quebrou. Mas isso me deu uma chance de provar um pouquinho!"
+|"Ei, *hm*, Zagreu? Eu queria dizer, foi muito gentil da sua parte, me deixar ficar com toda a Ambrósia que tinha me dado antes? Ela tá guardada agora! Exceto uma garrafa... ela meio que escorregou.... e quebrou. Mas isso me deu uma chance de provar um pouquinho!"
 |-
 |'''Zagreus'''
 |"Ah, você teve a chance de provar, então? O que achou, é tudo o que dizem?"
 |-
 |'''Dusa'''
-|"Estava in''crí''vel. Eu nunca experimentei algo como aquilo! É tão bom ter uma língua bifurcada, significa que pude provar duas vezes ao mesmo tempo! Então, uhm... se uma das outras garrafas escorregasse e quebrasse... você não ligaria, né?"
+|"Estava in*crí*vel. Eu nunca experimentei algo como aquilo! É tão bom ter uma língua bifurcada, significa que pude provar duas vezes ao mesmo tempo! Então, uhm... se uma das outras garrafas escorregasse e quebrasse... você não ligaria, né?"
 |-
 ! colspan="2" |Became Close With Dusa Aftermath 03
 |-
@@ -246,7 +246,7 @@
 |"Dusa, não consigo tirar isso da minha cabeça, eu queria pedir desculpas pra você, porque... Eu acho que quando a gente se conheceu, eu só... Eu acho que não entendi direito. Eu nunca tive uma fã antes! Eu queria atender à sua expectativa de mim."
 |-
 |'''Dusa'''
-|"Ah, Príncipe, Zagreu, não se preocupe com isso! Nem eu sabia o que tava acontecendo comigo. Quando eu comecei a trabalhar aqui, eu estava ''tão ''impressionada com você, quero dizer... você era o único que enfrentaria seu pai! Eu pensei em você o tempo todo!"
+|"Ah, Príncipe, Zagreu, não se preocupe com isso! Nem eu sabia o que tava acontecendo comigo. Quando eu comecei a trabalhar aqui, eu estava *tão *impressionada com você, quero dizer... você era o único que enfrentaria seu pai! Eu pensei em você o tempo todo!"
 |-
 |'''Zagreus'''
 |"Mas você nem me conhecia, ainda. A gente não começou a se falar por o que pareciam eras. Você pode ser difícil de encontrar! Já que eu não posso voar até os caibros que nem você."
@@ -285,7 +285,7 @@
 ! colspan="2" |Dusa About Pressure 01
 |-
 |'''Zagreus'''
-|"''Ungh'', Dusa... as coisas lá foram às vezes são demais para mim, admito. Estresses diferentes dos daqui, mas ainda assim estresses."
+|"*Ungh*, Dusa... as coisas lá foram às vezes são demais para mim, admito. Estresses diferentes dos daqui, mas ainda assim estresses."
 |-
 |'''Dusa'''
 |"Ah, não perca as esperanças, Príncipe Zagreu! Não há nada que você não consiga lidar, eu sei disso! Você é tão durão como o seu pai, exceto, que você é legal! E você nunca desiste de nada. Você consegue!"
@@ -302,7 +302,7 @@
 |"Posso te perguntar umas duas perguntinhas completamente hipotéticas, Dusa? Primeiro: no que eu me meti...? E segundo: o que eu vou fazer...?"
 |-
 |'''Dusa'''
-|"Pode acreditar, conheço bem esse sentimento, costumo ir de cabeça sem pensar também! Mas, se eu conseguir arranjar um jeito de arrumar a confusão que causei, aí eu sei, eu ''realmente sei'', que você pode sem dúvida alguma! Eu não sei o que você precisa fazer, mas eu sempre vou estar aqui para escutar."
+|"Pode acreditar, conheço bem esse sentimento, costumo ir de cabeça sem pensar também! Mas, se eu conseguir arranjar um jeito de arrumar a confusão que causei, aí eu sei, eu *realmente sei*, que você pode sem dúvida alguma! Eu não sei o que você precisa fazer, mas eu sempre vou estar aqui para escutar."
 |-
 ! colspan="2" |Dusa About Achilles 01
 |-
@@ -323,10 +323,10 @@
 ! colspan="2" |Dusa About Gorgons 01
 |-
 |'''Zagreus'''
-|"''Err'', Senhorita Dusa, eu me encontrei com algumas górgonas hostis que me lembraram de você lá fora no Asfódelo. Me lembraram somente da forma mais vaga possível, quero dizer, elas não tinham seu charme ou graça social. Eu só... espero que você não seja parente delas, já que eu meio que... você sabe."
+|"*Err*, Senhorita Dusa, eu me encontrei com algumas górgonas hostis que me lembraram de você lá fora no Asfódelo. Me lembraram somente da forma mais vaga possível, quero dizer, elas não tinham seu charme ou graça social. Eu só... espero que você não seja parente delas, já que eu meio que... você sabe."
 |-
 |'''Dusa'''
-|"Ah, ''hahaha'', aquelas velhas? Elas só são tecnicamente parentes, tipo... digamos que é como se você tivesse umas irmãs desagradáveis, quase sem cérebro, que nasceram diremente do seu próprio sangue, ou algo do tipo? Você tem ideia do quão difícil foi conseguir um emprego estável por causa delas?"
+|"Ah, *hahaha*, aquelas velhas? Elas só são tecnicamente parentes, tipo... digamos que é como se você tivesse umas irmãs desagradáveis, quase sem cérebro, que nasceram diremente do seu próprio sangue, ou algo do tipo? Você tem ideia do quão difícil foi conseguir um emprego estável por causa delas?"
 |-
 |'''Zagreus'''
 |"Então eu tenho sua permissão para continuar acabando com tais górgonas com toda a impunidade no submundo?"
@@ -337,7 +337,7 @@
 |"Eu tinha outra pergunta sobre seu relacionamento com outras górgonas, Dusa. Bem... eu percebi que você não costuma silvar, tipo fazer barulhos de cobrinha quando você fala, e tudo mais? É algum tipo de linguagem especial de górgonas ou algo parecido?"
 |-
 |'''Dusa'''
-|"Não, uhm, não exatamente, Príncipe! É o que parece mesmo, tipo, ''hrrrsssss''!! Só, um sibilo assustador mesmo, realmente, precisa de muita prática pra não soar desse jeito com uma língua bifurcada! Eu realmente queria me encaixar. Ei, e você? Sempre me perguntei como é que você tem um sotaque da superfície. Você não nasceu aqui?"
+|"Não, uhm, não exatamente, Príncipe! É o que parece mesmo, tipo, *hrrrsssss*!! Só, um sibilo assustador mesmo, realmente, precisa de muita prática pra não soar desse jeito com uma língua bifurcada! Eu realmente queria me encaixar. Ei, e você? Sempre me perguntei como é que você tem um sotaque da superfície. Você não nasceu aqui?"
 |-
 |'''Zagreus'''
 |"Ah, pera, eu? Eu nunca pensei sobre isso. Eu... acho que vem do meu pai. Insistiu que ele mesmo me ensinaria como falar. Talvez isso está no sangue."
@@ -353,7 +353,7 @@
 ! colspan="2" |Dusa About Gorgons 03 Aftermath 01
 |-
 |'''Zagreus'''
-|"Srta. Dusa, eu, ''err'', queria pedir desculpas por ficar perguntando sobre seu passado. Eu só queria te conhecer melhor, mas... fui insensível, e eu sinto muito."
+|"Srta. Dusa, eu, *err*, queria pedir desculpas por ficar perguntando sobre seu passado. Eu só queria te conhecer melhor, mas... fui insensível, e eu sinto muito."
 |-
 |'''Dusa'''
 |"Ah, Vossa Alteza, Zagreu, deixa disso! Nem precisa se preocupar! Eu já esqueci, não é nada de mais. É só que, o meu eu do passado, é como... se não fosse eu. Esta sou eu, agora! E estou feliz de estar aqui."
@@ -364,7 +364,7 @@
 |"Sabe, deve ser bem útil, poder transformar alguém em pedra. É algo que você pode fazer a qualquer hora, tipo... sei lá, mostrando sua língua ou algo parecido?"
 |-
 |'''Dusa'''
-|"Não é tão fácil assim, mas não muito difícil! Você tem que se esforçar bastante até, e desenhar na sua mente o que você está vendo como um... bem, uhm, como um desenho, na verdade, e então, ''fwoop''! Estátua de pedra. É engraçado, eu costumava pensar que todo mundo podia fazer isso!"
+|"Não é tão fácil assim, mas não muito difícil! Você tem que se esforçar bastante até, e desenhar na sua mente o que você está vendo como um... bem, uhm, como um desenho, na verdade, e então, *fwoop*! Estátua de pedra. É engraçado, eu costumava pensar que todo mundo podia fazer isso!"
 |-
 ! colspan="2" |Dusa About Singers Reunion Quest 01
 |-
@@ -385,18 +385,18 @@
 ! colspan="2" |Dusa About Meg Relationship 01
 |-
 |'''Dusa'''
-|"Ei, Príncipe, é-é verdade? Sobre a Senhorita Meg e você, digo, que vocês, sabe, uhm, eu? Você sabe!! Porque, se for, então quero que saiba, que ''eu estou muito feliz por vocês dois''! É maravilhoso, vocês dois!! Ah, eu fico feliz!"
+|"Ei, Príncipe, é-é verdade? Sobre a Senhorita Meg e você, digo, que vocês, sabe, uhm, eu? Você sabe!! Porque, se for, então quero que saiba, que *eu estou muito feliz por vocês dois*! É maravilhoso, vocês dois!! Ah, eu fico feliz!"
 |-
 |'''Zagreus'''
-|"''Err'', obrigado, Dusa, eu sei que você e a Senhorita Meg são próximas, então, fico grato por termos sua aprovação. Mas, a gente meio que... não quer fazer isso abertamente, então será que você poderia, só... não falar muito sobre isso?"
+|"*Err*, obrigado, Dusa, eu sei que você e a Senhorita Meg são próximas, então, fico grato por termos sua aprovação. Mas, a gente meio que... não quer fazer isso abertamente, então será que você poderia, só... não falar muito sobre isso?"
 |-
 |'''Dusa'''
-|"Oh, você pode acreditar que eu não vou contar para ninguém, ''ninguém''! Eu só vou ficar muito, muito feliz comigo mesma! Tudo certo, então! Tchau!"
+|"Oh, você pode acreditar que eu não vou contar para ninguém, *ninguém*! Eu só vou ficar muito, muito feliz comigo mesma! Tudo certo, então! Tchau!"
 |-
 ! colspan="2" |Dusa About Than Relationship 01
 |-
 |'''Dusa'''
-|"Ei, eu vi você e o Tânato recentemente, Príncipe! Vocês dois, se não se importar comigo dizendo isso, são um belo casalzinho, digo, vocês tinham que se ver! Vocês são, ''whew''...! Me deixa tontinha só de lembrar! Bem, lá vou eu, então, tchau!"
+|"Ei, eu vi você e o Tânato recentemente, Príncipe! Vocês dois, se não se importar comigo dizendo isso, são um belo casalzinho, digo, vocês tinham que se ver! Vocês são, *whew*...! Me deixa tontinha só de lembrar! Bem, lá vou eu, então, tchau!"
 |-
 ! colspan="2" |Dusa About Work 01
 |-
@@ -417,7 +417,7 @@
 |"Então, Dusa, no seu trabalho aqui pela Casa, você por acaso não teria se encontrado com um indivíduo chamado Zé Caveira, lá no pátio, teria?"
 |-
 |'''Dusa'''
-|"''Oh''! Na verdade, não, porque... meu trabalho é dentro da Casa em si, e bem... o pátio é... tecnicamente... é meio que bem do lado de fora, então... me mandaram sempre ficar entre quatro paredes. Mas, eu acho que sei de quem você está falando! Eu já vi ele, de pé parado logo após as portas dos seus aposentos. Porque? Ele está bem?"
+|"*Oh*! Na verdade, não, porque... meu trabalho é dentro da Casa em si, e bem... o pátio é... tecnicamente... é meio que bem do lado de fora, então... me mandaram sempre ficar entre quatro paredes. Mas, eu acho que sei de quem você está falando! Eu já vi ele, de pé parado logo após as portas dos seus aposentos. Porque? Ele está bem?"
 |-
 ! colspan="2" |Dusa About Lounge Clean Up 01
 |-
@@ -439,7 +439,7 @@
 |"Dusa, tem algo que você deveria saber sobre mim. Sobre eu e a Nix, na verdade. Ela não é minha mãe verdadeira...! Minha mãe verdadeira chama-se Perséfone. Ela está lá fora, em algum lugar. Na superfície. Foi por isso que eu saí. Espera, só um pouco, você está rindo?"
 |-
 |'''Dusa'''
-|"''Haha'', ah, eh, não, é que, uhh... Eu sinto muito, muito, muito mesmo, eu não consegui segurar, eu, uhm, não queria interromper, porque, eu meio que já sabia? Uhm, quer dizer, eu soube, todo mundo fala sobre isso, sabe, de vez em quando? Mas eu só... espero que a encontre logo!"
+|"*Haha*, ah, eh, não, é que, uhh... Eu sinto muito, muito, muito mesmo, eu não consegui segurar, eu, uhm, não queria interromper, porque, eu meio que já sabia? Uhm, quer dizer, eu soube, todo mundo fala sobre isso, sabe, de vez em quando? Mas eu só... espero que a encontre logo!"
 |-
 ! colspan="2" |Dusa About Persephone 01 B
 |-
@@ -447,7 +447,7 @@
 |"Eu confio a você que não comente sobre isso com outras pessoas da Casa, mas... eu consegui. Encontrar-la, digo! Eu estou... tentando descobrir o que fazer agora. Não posso falar muito sobre isso ainda, então... só aguarde um pouco, tá bom?"
 |-
 |'''Dusa'''
-|"''Uoou'', isso é empolgante, como que ela é? Ela é alta? Ela tem seus olhos? Onde ela mora? O que ela faz? Ela tem um emprego? Qual a cor do cabelo dela? Ela está, sabe, com alguém?"
+|"*Uoou*, isso é empolgante, como que ela é? Ela é alta? Ela tem seus olhos? Onde ela mora? O que ela faz? Ela tem um emprego? Qual a cor do cabelo dela? Ela está, sabe, com alguém?"
 |-
 ! colspan="2" |Dusa Run Cleared 01
 |-
@@ -455,7 +455,7 @@
 |"Uou, ora, Príncipe, você está... espera, você está de volta? Quero dizer, eu pensei que...! Eu soube que...! Como que você ainda está aqui?"
 |-
 |'''Zagreus'''
-|"Ah, ''hah'', sim! Eu cheguei bem longe! Nessa parte você está certa, Dusa, mas... acontece que tenho assuntos inacabados por aqui, então... eu devo estar aparecendo por aqui desse jeito de vez em quando."
+|"Ah, *hah*, sim! Eu cheguei bem longe! Nessa parte você está certa, Dusa, mas... acontece que tenho assuntos inacabados por aqui, então... eu devo estar aparecendo por aqui desse jeito de vez em quando."
 |-
 |'''Dusa'''
 |"Ah uau, bom, isso é ótimo!! Quero dizer, eu espero que seja ótimo? Quero dizer, se você concorda que seja ótimo, então eu também acho que seja ótimo! Se for OK?"
@@ -474,13 +474,13 @@
 |"Dusa, onde que conseguiu aquela Companheira Fidi que você me deu? Sabe quanto que aquela coisa vale? Pra mim pelo menos, eu não sei quem coleciona essas coisas ainda, mas eu com certeza coleciono!"
 |-
 |'''Dusa'''
-|"''Ah'', fico feliz que tenha gostado dela, Príncipe! Não consegui pensar em ninguém melhor para cuidar dela, e o melhor de tudo... ela vai fazer você lembrar de mim! Mas sobre onde eu a consegui, você não vai acreditar... consegue adivinhar?"
+|"*Ah*, fico feliz que tenha gostado dela, Príncipe! Não consegui pensar em ninguém melhor para cuidar dela, e o melhor de tudo... ela vai fazer você lembrar de mim! Mas sobre onde eu a consegui, você não vai acreditar... consegue adivinhar?"
 |-
 |'''Zagreus'''
-|"O que, pera, você não quer dizer... não, não foi da Nix, foi? Você por acaso, pera, Dusa... você não, como que eu falo isso, ''pegou emprestado ''da Nix, pegou?"
+|"O que, pera, você não quer dizer... não, não foi da Nix, foi? Você por acaso, pera, Dusa... você não, como que eu falo isso, *pegou emprestado *da Nix, pegou?"
 |-
 |'''Dusa'''
-|"''Haha'', não! Eu dou valor ao meu trabalho aqui, e à outras coisas relacionadas ao meu bem-estar, mas... depois da tarefa do saguão, a própria Nix me parabenizou, e me deu a Fidi como uma bela recompensa! Porém, ela provavelmente sabia que eu acabaria dando ela pra você!"
+|"*Haha*, não! Eu dou valor ao meu trabalho aqui, e à outras coisas relacionadas ao meu bem-estar, mas... depois da tarefa do saguão, a própria Nix me parabenizou, e me deu a Fidi como uma bela recompensa! Porém, ela provavelmente sabia que eu acabaria dando ela pra você!"
 |-
 ! colspan="2" |Dusa Vs Nyx 01
 |-
@@ -494,7 +494,7 @@
 |"Ei, não, não, não- não é isso, é só... uma sensação que eu tive das poucas vezes que vi vocês interagindo. Eu nem sempre me dou bem com a Nix, mas sei que ela se importa muito com essa Casa e todos que vivem nela. Incluindo você."
 |-
 |'''Dusa'''
-|"''Hahaha'', bem, bom saber! Ela se importa com a minha performance no trabalho, sem dúvida alguma, e estou fazendo tudo que posso para atender, e exceder, suas expectativas, diga isso à ela!"
+|"*Hahaha*, bem, bom saber! Ela se importa com a minha performance no trabalho, sem dúvida alguma, e estou fazendo tudo que posso para atender, e exceder, suas expectativas, diga isso à ela!"
 |-
 ! colspan="2" |Dusa Vs Nyx 02
 |-
@@ -527,7 +527,7 @@
 |"Parecem objetivos razoáveis, mas só queria que a Nix encontrasse um jeito de te dizer isso sem soar tão chateada. Será que você poderia se cuidar melhor, Dusa, por favor?"
 |-
 |'''Dusa'''
-|"...E mais, ela disse que eu não deveria falar com você, ela disse isso também, ah, eu vou estar muito encrencada, ''aah''!"
+|"...E mais, ela disse que eu não deveria falar com você, ela disse isso também, ah, eu vou estar muito encrencada, *aah*!"
 |-
 ! colspan="2" |Dusa Vs Nyx 04
 |-
@@ -585,12 +585,12 @@
 |"Dusa, ei, eu queria te parabenizar! Vi que foi escolhida como serva de destaque ca Casa, tendo seu retrato ali no saguão para todos verem! É uma honra e tanto!"
 |-
 |'''Dusa'''
-|"Ah, ''haha'', não é nada, Príncipe, é algo que qualquer um conseguiria fazer, contanto que eles estivessem animados a dar seus melhores, melhores mesmo, a todo momento, com uma atitude positiva, e sem se preocupar com a exorbitante quantidade de trabalho que precisa ser feito!"
+|"Ah, *haha*, não é nada, Príncipe, é algo que qualquer um conseguiria fazer, contanto que eles estivessem animados a dar seus melhores, melhores mesmo, a todo momento, com uma atitude positiva, e sem se preocupar com a exorbitante quantidade de trabalho que precisa ser feito!"
 |-
 ! colspan="2" |Dusa Post Ending 01
 |-
 |'''Dusa'''
-|"Ah, Príncipe! Perséfone, sua mãe, uau, ela é, ''uauu''...! Não é a toa que você queria encontrá-la. Ela é extraordinária! Embora, eu acho que você não sabia disso até a conhecer, huh? Mas ainda assim!"
+|"Ah, Príncipe! Perséfone, sua mãe, uau, ela é, *uauu*...! Não é a toa que você queria encontrá-la. Ela é extraordinária! Embora, eu acho que você não sabia disso até a conhecer, huh? Mas ainda assim!"
 |-
 |'''Zagreus'''
 |"Sem dúvida será um período de adaptação, com minha mãe por aqui. Especialmente para ela! Fico feliz que vocês duas estão se dando bem. Acho que as coisas serão diferentes, agora, mas... com sorte, é para melhor, né?"
@@ -607,13 +607,13 @@
 |"Eu... bom, quando você coloca dessa forma, sim, eu acho que sim! Vamos tentar fazer funcionar desse jeito, por agora."
 |-
 |'''Dusa'''
-|"Bem, você sabe o que isso significa, não sabe? Nós agora somos ''oficialmente colegas de trabalho''!! Não é empolgante? Nós poderemos compartilhar nossos aprendizados, comparar anotações sobre os nossos desafios, topar com o outro no salão..."
+|"Bem, você sabe o que isso significa, não sabe? Nós agora somos *oficialmente colegas de trabalho*!! Não é empolgante? Nós poderemos compartilhar nossos aprendizados, comparar anotações sobre os nossos desafios, topar com o outro no salão..."
 |-
 |'''Zagreus'''
 |"Dusa... a gente têm feito tudo isso que você disse esse tempo todo."
 |-
 |'''Dusa'''
-|"Mas ''não ''é a mesma coisa! A sensação é completamente diferente agora! Você vai ver! Então, OK!! Tchau!"
+|"Mas *não *é a mesma coisa! A sensação é completamente diferente agora! Você vai ver! Então, OK!! Tchau!"
 |-
 ! colspan="2" |Dusa Post Ending 03
 |-
@@ -629,23 +629,23 @@
 |"Dusa, todo este lugar, parece impecável! E isso mesmo depois de todo o Olimpo descer aqui para aquele banquete gigante? Como que conseguiu limpar tudo tão rápido?"
 |-
 |'''Dusa'''
-|"Ah, ''ha-hah''! Bem! Acho que tenho minhas manhas, Príncipe. As vezes você recebe um daqueles trabalhos que você simplesmente quer dar o seu melhor, sabe? Eu recebo vários trabalhos assim! Alimentar o Cérbero, limpar os caibros! Mas este? Eu sabia que era o trabalho perfeito para mim!"
+|"Ah, *ha-hah*! Bem! Acho que tenho minhas manhas, Príncipe. As vezes você recebe um daqueles trabalhos que você simplesmente quer dar o seu melhor, sabe? Eu recebo vários trabalhos assim! Alimentar o Cérbero, limpar os caibros! Mas este? Eu sabia que era o trabalho perfeito para mim!"
 |-
-! colspan="2" |Dusa With Hypnos 01
+! colspan="2" |Duo - Dusa and Hypnos (1)
 |-
 |'''Hypnos'''
 |"Oh, hmm, eae, Dusa! Como tá indo com seu serviço interminável?"
 |-
 |'''Dusa'''
-|"''Hm'', Senhor Hipnos, você... talvez você poderia... sabe... ''uh'', ficar de olho na linha de procissão perante Lorde Hades? Como era para você fazer...?"
+|"*Hm*, Senhor Hipnos, você... talvez você poderia... sabe... *uh*, ficar de olho na linha de procissão perante Lorde Hades? Como era para você fazer...?"
 |-
 |'''Hypnos'''
 |"Oh! Hum, sem problema, eu definitivamente posso fazer isso, vou adicionar isso à lista!"
 |-
 |'''Dusa'''
-|"''Hm'', que bom, então! Que bom que tivemos uma chance de conversar. Agora, talvez durma um pouquinho ou alguma coisa assim. Você parece... meio cansado...?"
+|"*Hm*, que bom, então! Que bom que tivemos uma chance de conversar. Agora, talvez durma um pouquinho ou alguma coisa assim. Você parece... meio cansado...?"
 |-
-! colspan="2" |Dusa With Hypnos 02
+! colspan="2" |Duo - Dusa and Hypnos (2)
 |-
 |'''Dusa'''
 |"Senhor Hipnos, eu... uh, queria checar com você de novo, sobre a fila de espera que está... bem na sua frente, bem ali, e.... está se movendo bem devagar."
@@ -654,7 +654,7 @@
 |"Eu sei! Essas Sombras, elas continuam e continuam e continuam, pra sempre e sempre, reclamando disso e daquilo! Digo, é um milagre que Lorde Hades consegue aguentar, ficar ouvindo eles todo dia ou noite!"
 |-
 |'''Dusa'''
-|"''Hm'', bem, é só que... eu acho que era para você manter as coisas fluindo, então... se está demorando muito, acho que talvez você deveria dizer alguma coisa ou... alguma ideia brilhante?"
+|"*Hm*, bem, é só que... eu acho que era para você manter as coisas fluindo, então... se está demorando muito, acho que talvez você deveria dizer alguma coisa ou... alguma ideia brilhante?"
 |-
 |'''Hypnos'''
 |"Essa é dificilzinha, Dusa, porque eu acho importante que as Sombras que esperam sua vez, oras, que elas possam ter uma chance de dizerem o que precisam! Mas é realmente uma situação bem complicada que você trouxe à tona, então... deixa eu te dizer o que eu vou fazer: vou matutar enquanto durmo! E, depois, eu te respondo!"
@@ -662,7 +662,7 @@
 |'''Dusa'''
 |"Ok, bem... se não falar comigo, eu vou voltar e te perguntar disso de novo, depois, eu acho? Porque, eu estou recebendo ordens, então... hmm.... tchau..."
 |-
-! colspan="2" |Dusa With Hypnos 03
+! colspan="2" |Duo - Dusa and Hypnos (3)
 |-
 |'''Hypnos'''
 |"E aí Dusa, deixa eu adivinhar! Você está aqui por causa do processo dessas sombras, que estão aqui paradas faz um tempo já, obstruindo um pouco o salão... elas mal se mexeram!"
@@ -676,24 +676,24 @@
 |'''Dusa'''
 |"Com certeza tem, eu... eu tenho que ir, uhm, espero que descanse um pouco, OK?"
 |-
-! colspan="2" |Dusa With Hypnos 04
+! colspan="2" |Duo - Dusa and Hypnos (4)
 |-
 |'''Dusa'''
-|"Eu não acredito, Senhor Hipnos, como... ''como que você conseguiu''? Todas as sombras que têm se alinhado, elas... elas estão se movendo!"
+|"Eu não acredito, Senhor Hipnos, como... *como que você conseguiu*? Todas as sombras que têm se alinhado, elas... elas estão se movendo!"
 |-
 |'''Hypnos'''
-|"Sabe, você está certa, ''elas estão''! Elas definitivamente estão. É meio difícil de notar, já que são lentas, mas eu tenho um olho afiado. E você também! Você notou antes de mim, nesse caso. O que você disse que era sua dúvida mesmo?"
+|"Sabe, você está certa, *elas estão*! Elas definitivamente estão. É meio difícil de notar, já que são lentas, mas eu tenho um olho afiado. E você também! Você notou antes de mim, nesse caso. O que você disse que era sua dúvida mesmo?"
 |-
 |'''Dusa'''
 |"Eu perguntei como você conseguiu, fez o fluxo do tráfego se mover mais rápido, e... são as coisinhas de sarcófagos, não são? No fundo do salão! As sombras, elas têm medo de ficar paradas por aí! É brilhante, Senhor Hipnos, estou impressionada!"
 |-
 |'''Hypnos'''
-|"Ah, ''hahaha'', isso, bem, sério, não foi nada, Dusa! Mas, devo dizer! É bom saber que está impressionada comigo!"
+|"Ah, *hahaha*, isso, bem, sério, não foi nada, Dusa! Mas, devo dizer! É bom saber que está impressionada comigo!"
 |-
 |'''Dusa'''
-|"Eu, ''haha'', não sei se eu faria algo desse nível mas, uhm, tudo bem! Vou considerar isso como resolvido!"
+|"Eu, *haha*, não sei se eu faria algo desse nível mas, uhm, tudo bem! Vou considerar isso como resolvido!"
 |-
-! colspan="2" |Dusa With Nyx 01
+! colspan="2" |Duo - Dusa and Nyx (1)
 |-
 |'''Nyx'''
 |"...E depois disso, Dusa, você deve limpar as vigas novamente, e podar todo o jardim. Em seguida, cuide das cozinhas e varra a área do saguão pela segunda vez..."
@@ -701,7 +701,7 @@
 |'''Dusa'''
 |"Si, sim, imediatamente!"
 |-
-! colspan="2" |Dusa With Nyx 02
+! colspan="2" |Duo - Dusa and Nyx (2)
 |-
 |'''Nyx'''
 |"...Por último, Dusa, você não tem permissão para se dirigir ao Príncipe, a menos que ele fale primeiro. Você é invisível para ele. Agora, estamos entendidas?"
@@ -709,18 +709,18 @@
 |'''Dusa'''
 |"Sim, Senhora Nix, estamos entendidas, digo... Entendo. Eu, vou embora, então."
 |-
-! colspan="2" |Dusa With Nyx 03
+! colspan="2" |Duo - Dusa and Nyx (3)
 |-
 |'''Dusa'''
-|"Senhora Nix, você...? Se eu quero meu emprego de volta, eu... ''o que'', eu, mais do que tudo! Este emprego, ele, ele significa tudo pra mim, quero dizer, trabalhar com ''você''? Você é a Própria Noite! Este lugar, e todos vocês, tudo, é tão incrível pra mim, e eu só... eu, só quero ajudar! Só, me dá mais uma chance!"
+|"Senhora Nix, você...? Se eu quero meu emprego de volta, eu... *o que*, eu, mais do que tudo! Este emprego, ele, ele significa tudo pra mim, quero dizer, trabalhar com *você*? Você é a Própria Noite! Este lugar, e todos vocês, tudo, é tão incrível pra mim, e eu só... eu, só quero ajudar! Só, me dá mais uma chance!"
 |-
 |'''Nyx'''
 |"Sua 'mais uma chance' tem certas condições, Dusa. Se achar que é necessário exceder seu tempo alocado para suas responsabilidades, eu quero que você peça. Você não é a única encarregada do destino desta Casa. Seu temperamento em relação ao trabalho é tão importante quando o resultado final em si. Agora... gostaria de pedir que retorne ao seu posto."
 |-
 |'''Dusa'''
-|"O que, eu, Senhora Nix, você quer dizer... tipo, começar agora mesmo? ''Agora ''agora? Quero dizer, eu, eu não tenho muitas outras obrigações urgentes, então, eu vou, ''sim''!! Eu aceito! Estou tão empolgada de estar de volta! Por onde eu começo, eu posso inspecionar o saguão, varrer as teias de aranha, passear com o Cérbero, verificar a despensa, ah, OK, vou indo!!"
+|"O que, eu, Senhora Nix, você quer dizer... tipo, começar agora mesmo? *Agora *agora? Quero dizer, eu, eu não tenho muitas outras obrigações urgentes, então, eu vou, *sim*!! Eu aceito! Estou tão empolgada de estar de volta! Por onde eu começo, eu posso inspecionar o saguão, varrer as teias de aranha, passear com o Cérbero, verificar a despensa, ah, OK, vou indo!!"
 |-
-! colspan="2" |Dusa With Nyx 04
+! colspan="2" |Duo - Dusa and Nyx (4)
 |-
 |'''Nyx'''
 |"...e, portanto, por sua diligência e serviço, e por ter demonstrado tal melhoria... pela minha autoridade como a Própria Noite, eu a nomeio Zeladora Chefe da Casa de Hades, e designo a você os privilégios implícitos. Carregue esta responsabilidade com honra, Dusa."
@@ -731,18 +731,18 @@
 |'''Nyx'''
 |"Não há de quê. A ordem das coisas nesta Casa é reflexo do reino como um todo. Você internalizou isso, e entendeu que uma abordagem disciplinada em relação ao trabalho é muito mais valiosa do que o mero excesso de esforço. Entretanto, você entende a necessidade do esforço também."
 |-
-! colspan="2" |Dusa With Megaera 01
+! colspan="2" |Duo - Dusa and Megaera (1)
 |-
 |'''Megaera'''
 |"...E então, todos os sete malditos tentaram furar a fila da procissão para ficar na frente, pode acreditar na audácia? Como se tivessem uma audiência assim."
 |-
 |'''Dusa'''
-|"''Ha, hahaha'', que monte de idiotas! No que eles estavam pensando, furar a fila, na ''sua ''frente?"
+|"*Ha, hahaha*, que monte de idiotas! No que eles estavam pensando, furar a fila, na *sua *frente?"
 |-
 |'''Megaera'''
 |"Digamos apenas que, se eles ainda tiverem alguma reclamação para nosso Lorde Hades, terão de esperar por muito, muito tempo antes de terem a chance de trazê-las à tona."
 |-
-! colspan="2" |Dusa With Megaera 02
+! colspan="2" |Duo - Dusa and Megaera (2)
 |-
 |'''Megaera'''
 |"...Você tem mesmo razão, esse aí é um idiota...! Mesmo assim, é melhor eu voltar ao trabalho. A próxima rodada é por minha conta, Dusa, e cuide-se."
@@ -750,7 +750,7 @@
 |'''Dusa'''
 |"Cuide-se você também, Senhora Meg. Muito obrigada pela bebida! Até mais...!"
 |-
-! colspan="2" |Dusa With Megaera 03
+! colspan="2" |Duo - Dusa and Megaera (3)
 |-
 |'''Megaera'''
 |"...Seguir seu coração? É um conselho estranho, especialmente vindo de você. Sem querer ofender."
@@ -761,7 +761,7 @@
 |'''Megaera'''
 |"Eu não acho que há pressa pra isso. Nós não vamos encolher e morrer em quarenta anos, como os mortais. Mas eu entendo o que quer dizer. Vou pensar nisso, Dusa. Obrigada."
 |-
-! colspan="2" |Dusa With Megaera 04
+! colspan="2" |Duo - Dusa and Megaera (4)
 |-
 |'''Megaera'''
 |"...Nós começamos com o pé errado desde o primeiro momento. Acho que é o que acontece quando se nasce de sangue derramado dos titãs. Foi bom não termos nos encontrado."
@@ -772,13 +772,13 @@
 |'''Megaera'''
 |"Te considero mais minha irmã do que elas, Dusa. Nem sempre concordo com Lorde Hades, mas felizmente elas não são permitidas nesta Casa."
 |-
-! colspan="2" |Dusa With Megaera High Affinity 01
+! colspan="2" |Duo - Dusa and Megaera High Affinity (1)
 |-
 |'''Megaera'''
 |"...Você tem certeza que está bem, com tudo isso? Eu só... não gostaria que fosse envolvida nessa situação toda. Se você quiser que eu cancele é só dizer..."
 |-
 |'''Dusa'''
-|"Não, ''nãonãonãonão'', não, Meg, não! Não, Meg! Qual é, você tá brincando? Quero dizer, eu não poderia estar mais feliz com isso, sério! Você merece! Contanto que você esteja feliz, certo?"
+|"Não, *nãonãonãonão*, não, Meg, não! Não, Meg! Qual é, você tá brincando? Quero dizer, eu não poderia estar mais feliz com isso, sério! Você merece! Contanto que você esteja feliz, certo?"
 |-
 |'''Megaera'''
 |"Bem, obrigada, Dusa. Você é sempre tão gentil. Eu não sei bem o que dizer."
@@ -786,7 +786,7 @@
 |'''Dusa'''
 |"Ei, essa é minha fala! Olha, é melhor eu ir, mas, só queria dizer que essas são ótimas notícias, ok? Obrigada por me contar!"
 |-
-! colspan="2" |Dusa With Hades 01
+! colspan="2" |Duo - Dusa and Hades (1)
 |-
 |'''Hades'''
 |"...Quem dera todos meus súditos demonstrassem tal proatividade. Seu relatório então, por favor, Dusa?"
@@ -795,12 +795,12 @@
 |"Senhor! O escritório está funcionando perfeitamente, senhor! O atendimento do saguão subiu em vinte e oito porcento, com avaliações de satisfação dos clientes lá nos oitenta porcento. Nenhum problema a relatar no momento."
 |-
 |'''Hades'''
-|"Certifique que alcancemos ''trinta ''por cento antes do próximo éon, Governanta Chefe. Além disto... um relatório satisfatório. Agora, continue."
+|"Certifique que alcancemos *trinta *por cento antes do próximo éon, Governanta Chefe. Além disto... um relatório satisfatório. Agora, continue."
 |-
-! colspan="2" |Dusa With Persephone 01
+! colspan="2" |Duo - Dusa and Persephone (1)
 |-
 |'''Dusa'''
-|"''Hm'', é meu grande prazer te conhecer. Me chame de Dusa, por favor! Eu... eu sou governanta sua e da Casa? Sempre a seu dispor! Qualquer coisa que precisar, é só chamar, okay?"
+|"*Hm*, é meu grande prazer te conhecer. Me chame de Dusa, por favor! Eu... eu sou governanta sua e da Casa? Sempre a seu dispor! Qualquer coisa que precisar, é só chamar, okay?"
 |-
 |'''Persephone'''
 |"Dusa! Que bom te conhecer! Esta Casa está impecável! Uma diferença da noite para o dia. Agora eu sei exatamente quem elogiar."
@@ -854,7 +854,7 @@
 ! colspan="2" |Dusa Chat 09
 |-
 |'''Dusa'''
-|"Ah, ''hahaha'', muito obrigado por falar comigo, Príncipe, eu preciso ir!"
+|"Ah, *hahaha*, muito obrigado por falar comigo, Príncipe, eu preciso ir!"
 |-
 ! colspan="2" |Dusa Chat 10
 |-
@@ -864,7 +864,7 @@
 ! colspan="2" |Dusa Chat 11
 |-
 |'''Dusa'''
-|"''Ha-haha'', você me surpreendeu, Vossa Alteza...!"
+|"*Ha-haha*, você me surpreendeu, Vossa Alteza...!"
 |-
 ! colspan="2" |Dusa Chat 12
 |-
@@ -879,7 +879,7 @@
 ! colspan="2" |Dusa Chat 14
 |-
 |'''Dusa'''
-|"Oh, ''hm'', oi! Está... está tudo bem aí, Príncipe?"
+|"Oh, *hm*, oi! Está... está tudo bem aí, Príncipe?"
 |-
 ! colspan="2" |Dusa Chat 15
 |-
@@ -914,7 +914,7 @@
 ! colspan="2" |Dusa Chat 21
 |-
 |'''Dusa'''
-|"Com licença, desculpa, eu só preciso encaminhar esse relatório, está ''muito ''atrasado!"
+|"Com licença, desculpa, eu só preciso encaminhar esse relatório, está *muito *atrasado!"
 |-
 ! colspan="2" |Dusa Chat 22
 |-
@@ -934,7 +934,7 @@
 ! colspan="2" |Dusa Chat 25
 |-
 |'''Dusa'''
-|"Estou sempre em 110%, ''hah, hahah''!"
+|"Estou sempre em 110%, *hah, hahah*!"
 |-
 ! colspan="2" |Dusa Chat 26
 |-
@@ -949,7 +949,7 @@
 ! colspan="2" |Dusa Chat Extra 02
 |-
 |'''Dusa'''
-|"''Ah! Haha'', me pegou de novo, Príncipe, chegando de fininho desse jeito!"
+|"*Ah! Haha*, me pegou de novo, Príncipe, chegando de fininho desse jeito!"
 |-
 ! colspan="2" |Dusa Chat Extra 03
 |-
@@ -1089,7 +1089,7 @@
 ! colspan="2" |Dusa Max Chat 16
 |-
 |'''Dusa'''
-|"Ah, ''haha'', você me assustou, Príncipe!"
+|"Ah, *haha*, você me assustou, Príncipe!"
 |-
 ! colspan="2" |Dusa Max Chat 17
 |-
@@ -1126,7 +1126,7 @@
 |'''Dusa'''
 |"Pelos relatórios que eu vi, parece que você está se saindo bem lá fora!"
 |-
-! colspan="2" |Dusa Chat With Megaera 01
+! colspan="2" |Duo - Chat and Megaera (1)
 |-
 |'''Megaera'''
 |"Agora não, Zag. Reunião particular."
@@ -1134,7 +1134,7 @@
 |'''Dusa'''
 |"Não se esforce demais, OK, Alteza?"
 |-
-! colspan="2" |Dusa Chat With Megaera 02
+! colspan="2" |Duo - Chat and Megaera (2)
 |-
 |'''Dusa'''
 |"Se lembre de fazer umas pausas, OK?"
@@ -1142,37 +1142,37 @@
 |'''Megaera'''
 |"Nós teremos que conversar outra hora, aqui, Zag."
 |-
-! colspan="2" |Dusa Chat With Megaera 03
+! colspan="2" |Duo - Chat and Megaera (3)
 |-
 |'''Dusa'''
 |"Descanse um pouco de tempos em tempos, por mim, OK?"
 |-
-! colspan="2" |Dusa Chat With Megaera 04
+! colspan="2" |Duo - Chat and Megaera (4)
 |-
 |'''Dusa'''
 |"Espero que consiga se encontrar com a Senhorita Meg lá fora da próxima vez!"
 |-
-! colspan="2" |Dusa Chat With Megaera 05
+! colspan="2" |Duo - Chat and Megaera (5)
 |-
 |'''Dusa'''
 |"Espero que se encontre com o Tânato novamente em breve!"
 |-
-! colspan="2" |Dusa Chat With Cerberus 01
+! colspan="2" |Duo - Chat and Cerberus (1)
 |-
 |'''Dusa'''
 |"Pronto, aqui está, Cerbinho! E, uhm, não me coma, por favor?"
 |-
-! colspan="2" |Dusa Chat With Cerberus 02
+! colspan="2" |Duo - Chat and Cerberus (2)
 |-
 |'''Dusa'''
-|"''Uhm'', aqui está, garoto! Um prato triplo, do jeito que você gosta!"
+|"*Uhm*, aqui está, garoto! Um prato triplo, do jeito que você gosta!"
 |-
-! colspan="2" |Dusa Chat With Cerberus 03
+! colspan="2" |Duo - Chat and Cerberus (3)
 |-
 |'''Dusa'''
 |"...Só, por favor tome cuidado aonde você vai depois de comer isso tudo, desta vez, OK, Cerbinho?"
 |-
-! colspan="2" |Dusa Chat With Cerberus 04
+! colspan="2" |Duo - Chat and Cerberus (4)
 |-
 |'''Dusa'''
 |"Ah, vamos lá, Cerbinho, come logo! Isso não pode ser tão ruim assim! Ou... será que pode?"
@@ -1180,7 +1180,7 @@
 ! colspan="2" |Dusa Gift 01
 |-
 |'''Zagreus'''
-|"''Err'', Senhorita Dusa? Eu queria que você recebesse isso. Não é nada demais, só... por todo seu trabalho duro."
+|"*Err*, Senhorita Dusa? Eu queria que você recebesse isso. Não é nada demais, só... por todo seu trabalho duro."
 |-
 |'''Dusa'''
 |"P-P-Príncipe, estou muito grata por isso, de verdade, e eu pensei, eu, meio que tenho algo para você...?"
@@ -1188,7 +1188,7 @@
 ! colspan="2" |Dusa Gift 02
 |-
 |'''Dusa'''
-|"''Qu-queeeee'', m-mas... tem que haver algum erro, eu, Príncipe, você está dando isso para ''mim''...?"
+|"*Qu-queeeee*, m-mas... tem que haver algum erro, eu, Príncipe, você está dando isso para *mim*...?"
 |-
 |'''Zagreus'''
 |"Eu quero que você saiba que todos nós apreciamos você, Dusa. Não trabalhe demais só para me agradar, ok?"
@@ -1196,7 +1196,7 @@
 ! colspan="2" |Dusa Gift 03
 |-
 |'''Dusa'''
-|"Ohh, meu deus, Vossa Alteza, você... quer mesmo que eu fique com ''isto''?"
+|"Ohh, meu deus, Vossa Alteza, você... quer mesmo que eu fique com *isto*?"
 |-
 |'''Zagreus'''
 |"Quero sim, Dusa. Espero que você goste."
@@ -1221,7 +1221,7 @@
 |"Ah, você já disse tudo! Não queria te colocar numa situação difícil ou algo do tipo. Só estou grato por termos tido a chance de conhecer um ao outro."
 |-
 |'''Dusa'''
-|"Eu... eu estou grata por termos tido uma chance de conhecer um ao outro também. Obrigada pelo Néctar! Consigo ver que é muito, muito bom! ''Uhm'', OK, tchau!"
+|"Eu... eu estou grata por termos tido uma chance de conhecer um ao outro também. Obrigada pelo Néctar! Consigo ver que é muito, muito bom! *Uhm*, OK, tchau!"
 |-
 ! colspan="2" |Dusa Gift 06
 |-
@@ -1235,7 +1235,7 @@
 |"Não, por favor, é seu! Além do mais, você deve ter uma folga chegando em algum momento para aproveitar, não?"
 |-
 |'''Dusa'''
-|"''Ah''! Não sei, talvez? Eu acho que tenho, só que ninguém me contou nada sobre isso e, além do mais, tem muito trabalho que precisa ser feito pela Casa, eu não posso deixar as coisas assim!!"
+|"*Ah*! Não sei, talvez? Eu acho que tenho, só que ninguém me contou nada sobre isso e, além do mais, tem muito trabalho que precisa ser feito pela Casa, eu não posso deixar as coisas assim!!"
 |-
 ! colspan="2" |Dusa Gift 07
 |-
@@ -1243,7 +1243,7 @@
 |"Ei, Dusa? Parabéns em concluir sua tarefa no saguão. Olha pra esse lugar! Está melhor que nunca. Tudo graças ao seu esforço e dedicação. Tome, isso é pra você. Algo especial para a ocasião."
 |-
 |'''Dusa'''
-|"''Uou'', eu, isto, isto é ''Ambrosia'', Príncipe! Mas, isto é para os ''deuses''...! Isto não é para... alguém como eu? Mas, pera, pera pera, não, tá, eu consigo, eu consigo, aqui, pegue ''isto''!! Eu peguei, só para você, então, pegue, por favor! Adeus!!"
+|"*Uou*, eu, isto, isto é *Ambrosia*, Príncipe! Mas, isto é para os *deuses*...! Isto não é para... alguém como eu? Mas, pera, pera pera, não, tá, eu consigo, eu consigo, aqui, pegue *isto*!! Eu peguei, só para você, então, pegue, por favor! Adeus!!"
 |-
 ! colspan="2" |Dusa Gift 08
 |-
@@ -1263,7 +1263,7 @@
 |"Deveriam ser mais do que 'às vezes' que você se sente assim, na minha opinião. Eu só... eu nunca conheci alguém como você antes. Meu pai sempre me disse para não sorrir tanto, mas... você é como eu."
 |-
 |'''Dusa'''
-|"O que, porque eu sorrio, ''haha''? Sorrir é só uma coisinha que me ajuda a lidar com o dia! Embora, ah, ''é isso ''que você queria dizer, eu... ah, entendo. Eu, olha, isso é meio que bastante, eu, eu deveria ir...! Mas eu vou apreciar a Ambrosia, OK?!"
+|"O que, porque eu sorrio, *haha*? Sorrir é só uma coisinha que me ajuda a lidar com o dia! Embora, ah, *é isso *que você queria dizer, eu... ah, entendo. Eu, olha, isso é meio que bastante, eu, eu deveria ir...! Mas eu vou apreciar a Ambrosia, OK?!"
 |-
 ! colspan="2" |Dusa Gift 09
 |-
@@ -1271,7 +1271,7 @@
 |"Eu tenho mais Ambrosia pra você, Dusa, e espero que esteja tudo OK. Eu imaginei que talvez você poderia ter algum uso para isto no saguão? Eventos especiais, convidados, esse tipo de coisa?"
 |-
 |'''Dusa'''
-|"...Me desculpe por ter saído voando da última vez que me trouxe isso, Príncipe... quero dizer, Zagreu. É bem estranho te chamar pelo nome, eu... quando eu comecei a trabalhar aqui, eles me disseram pra nem falar com você, e agora, ''uh''... aqui estamos nós...!"
+|"...Me desculpe por ter saído voando da última vez que me trouxe isso, Príncipe... quero dizer, Zagreu. É bem estranho te chamar pelo nome, eu... quando eu comecei a trabalhar aqui, eles me disseram pra nem falar com você, e agora, *uh*... aqui estamos nós...!"
 |-
 |'''Zagreus'''
 |"Bem, olha, se eu desse ouvidos a tudo que me dizem, minha vida teria sido bem diferente, e bem pior, eu acho! Então... quem se importa com o que eles dizem? Eu gosto da sua companhia."
@@ -1283,7 +1283,7 @@
 |"Eu me lembro da primeira vez que nos conhecemos. Você estava carregando três tigelas para o Cérbero e esbarrou em mim. Foi tudo pelos ares, mas você limpou metade antes mesmo de encostar no chão. E então saiu voando antes que eu pudesse saber seu nome. Pensei que nem te veria mais."
 |-
 |'''Dusa'''
-|"Eu estava ''tão ''envergonhada! Pior... eu pensei que era meu fim aqui. Mas, consegui outra chance. Aquilo foi coisa sua, né. Você tem cuidado de mim, por todo este tempo. É tanta consideração da sua parte, eu... eu não sei como te agradecer, é... é, é melhor eu guardar esta Ambrosia, para depois, OK?"
+|"Eu estava *tão *envergonhada! Pior... eu pensei que era meu fim aqui. Mas, consegui outra chance. Aquilo foi coisa sua, né. Você tem cuidado de mim, por todo este tempo. É tanta consideração da sua parte, eu... eu não sei como te agradecer, é... é, é melhor eu guardar esta Ambrosia, para depois, OK?"
 |-
 ! colspan="2" |Dusa Gift 10
 |-
@@ -1291,13 +1291,13 @@
 |"Dusa, eu estava pensando, que esse lote de Ambrosia deve sustentar o saguão por um tempo! Mantém as coisas mais animadas para todo mundo. E, por favor, fique com uma das garrafas para você? Como um sinal do meu afeto."
 |-
 |'''Dusa'''
-|"''Ah''! V-você disse seu ''afeto'', hein, eu... uau! Eu... gosto bastante de você também, Zagreu. Eu gosto de você desde sempre! Você era tão diferente do seu pai, e da Senhora Nix, dava pra ver, mas... espera, o que eu tô falando, eu tô sendo uma tola! Você só está sendo amigável comigo, não é...?"
+|"*Ah*! V-você disse seu *afeto*, hein, eu... uau! Eu... gosto bastante de você também, Zagreu. Eu gosto de você desde sempre! Você era tão diferente do seu pai, e da Senhora Nix, dava pra ver, mas... espera, o que eu tô falando, eu tô sendo uma tola! Você só está sendo amigável comigo, não é...?"
 |-
 |'''Zagreus'''
 |"Eu seria mais que isso, se te agrada. Você é muito maravilhosa, e... você ilumina esta Casa. Mas eu nunca arriscaria nossa amizade, então, se é aqui onde traçamos o limite, por favor, me avise."
 |-
 |'''Dusa'''
-|"''Hm''... espera, espera. Espera aí. Você acabou de dizer que eu sou... ''maravilhosa''?"
+|"*Hm*... espera, espera. Espera aí. Você acabou de dizer que eu sou... *maravilhosa*?"
 |-
 |'''Zagreus'''
 |"Sim, eu disse. E estou feliz por ter tirado isto do meu peito, se quer saber! Mas... e você? Como você se sente?"
@@ -1306,10 +1306,10 @@
 |"Eu, uau, eu, eu nunca pensei que você... teria esses tipos de sentimentos, por alguém como eu. É muito bom ouvir isso! Me faz sentir completa. Mas, uhm, Zagreu, eu não sei se posso ser o que você precisa? Espera. Você não estava, você não estava só sendo legal comigo por todo esse tempo, porque...?"
 |-
 |'''Zagreus'''
-|"''O quê''? Não, não, Dusa, claro que não, eu... ''uuh'', por que é tão difícil compartilhar os sentimentos de alguém com outra pessoa? Eu não quero arruinar o que nós temos. Se apenas pudesse ver o que há no meu coração."
+|"*O quê*? Não, não, Dusa, claro que não, eu... *uuh*, por que é tão difícil compartilhar os sentimentos de alguém com outra pessoa? Eu não quero arruinar o que nós temos. Se apenas pudesse ver o que há no meu coração."
 |-
 |'''Dusa'''
-|"Ah, ''hahaha'', eu estava só conferindo, não se sinta mal, OK? Você não parece ser capaz de esconder o que tem no seu coração. E eu digo isso na melhor maneira possível. Estou tão feliz, é só que... é muita coisa, e, eu estou trabalhando agora, mas... te vejo mais tarde...?"
+|"Ah, *hahaha*, eu estava só conferindo, não se sinta mal, OK? Você não parece ser capaz de esconder o que tem no seu coração. E eu digo isso na melhor maneira possível. Estou tão feliz, é só que... é muita coisa, e, eu estou trabalhando agora, mas... te vejo mais tarde...?"
 |-
 ! colspan="2" |Dusa Gift 05
 |-

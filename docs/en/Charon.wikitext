@@ -3,24 +3,24 @@
 ! colspan="2" |Boss Charon About Hermes Quest 01
 |-
 |'''Charon'''
-|"''Mmmrrrrnnn''...."
+|"*Mmmrrrrnnn*...."
 |-
 |'''Zagreus'''
 |"You know, Charon, your associate Hermes apparently had a wager with you that I could beat you twice in a row at some point? I'd hate to disappoint him, so... no hard feelings?"
 |-
 |'''Charon'''
-|"''Nnnrrrraaaaaauugggghhh''!!"
+|"*Nnnrrrraaaaaauugggghhh*!!"
 |-
 ! colspan="2" |Boss Charon Encounter 01
 |-
 |'''Charon'''
-|"''Haaahhhhh''...."
+|"*Haaahhhhh*...."
 |-
 |'''Zagreus'''
-|"''Erm'', Charon, look, I can explain. It's just, I've grown very accustomed to taking stuff throughout my father's realm. I wasn't stealing from you, honestly!"
+|"*Erm*, Charon, look, I can explain. It's just, I've grown very accustomed to taking stuff throughout my father's realm. I wasn't stealing from you, honestly!"
 |-
 |'''Charon'''
-|"Mmnnn''rraaauuugggghhh''!!"
+|"Mmnnn*rraaauuugggghhh*!!"
 |-
 |'''Zagreus'''
 |"That was not an understanding sound. Wait, why are you brandishing your oar in such a menacing way?"
@@ -28,79 +28,79 @@
 ! colspan="2" |Boss Charon Encounter 02
 |-
 |'''Charon'''
-|"''Haaahhhhh''...."
+|"*Haaahhhhh*...."
 |-
 |'''Zagreus'''
 |"You're just testing me, here, right, Charon? I mean, when you place a huge sum of coin conspicuously within my reach, what do you expect me to do?"
 |-
 |'''Charon'''
-|"Nrrnnhhh, hnnnn, hrrnn, ''hrrrrrnnn''..."
+|"Nrrnnhhh, hnnnn, hrrnn, *hrrrrrnnn*..."
 |-
 |'''Zagreus'''
-|"Sounds good, mate, when I rob you from now on it's just my way of saying ''Charon, I would like to battle you to the death right now for a quick change of pace''."
+|"Sounds good, mate, when I rob you from now on it's just my way of saying *Charon, I would like to battle you to the death right now for a quick change of pace*."
 |-
 ! colspan="2" |Boss Charon Misc Start 01
 |-
 |'''Charon'''
-|"''Hrrrnnnggghh''...."
+|"*Hrrrnnnggghh*...."
 |-
 ! colspan="2" |Boss Charon Misc Start 02
 |-
 |'''Charon'''
-|"''Grrnrnhh, rrraahhh''!"
+|"*Grrnrnhh, rrraahhh*!"
 |-
 ! colspan="2" |Boss Charon Misc Start 03
 |-
 |'''Charon'''
-|"''Hrraaaahhhhhh''!!"
+|"*Hrraaaahhhhhh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 04
 |-
 |'''Charon'''
-|"Hrrn... ''grrraaauuuggghh''!!"
+|"Hrrn... *grrraaauuuggghh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 05
 |-
 |'''Charon'''
-|"Rrnn... ''hhrraaaauuuggghh''!!"
+|"Rrnn... *hhrraaaauuuggghh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 06
 |-
 |'''Charon'''
-|"Grrr... ''nrrraauuuggghhh''!!"
+|"Grrr... *nrrraauuuggghhh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 07
 |-
 |'''Charon'''
-|"Urrh... ''urraaauuuggghh''!!"
+|"Urrh... *urraaauuuggghh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 08
 |-
 |'''Charon'''
-|"Krrr... ''krraauuuggghh''!!"
+|"Krrr... *krraauuuggghh*!!"
 |-
 ! colspan="2" |Boss Charon Misc Start 09
 |-
 |'''Charon'''
-|"Hhh, ''hrreehhhhh''!!"
+|"Hhh, *hrreehhhhh*!!"
 |-
 ! colspan="2" |Boss Charon Outro 01
 |-
 |'''Charon'''
-|"Haahh, nrraugh, ''haaaaah''!!"
+|"Haahh, nrraugh, *haaaaah*!!"
 |-
 ! colspan="2" |Boss Charon Hermes Quest Complete 01
 |-
 |'''Zagreus'''
-|"Got you, mate! Twice in a row. I guess Hermes wins his little wager with you, then. You tell him I said ''hrrrrrnnnggghh''!"
+|"Got you, mate! Twice in a row. I guess Hermes wins his little wager with you, then. You tell him I said *hrrrrrnnnggghh*!"
 |-
 |'''Charon'''
-|"''Hrrrrrnnnggghh''..."
+|"*Hrrrrrnnnggghh*..."
 |-
 ! colspan="2" |Charon First Meeting
 |-
 |'''Charon'''
-|"''Gguhhhhhh''...."
+|"*Gguhhhhhh*...."
 |-
 |'''Zagreus'''
 |"Why good to see you, Charon mate! Just minding my own business, taking in the sights, and, hey what's that you got, some sort of wares for sale? Then, I'll just have a look around."
@@ -108,7 +108,7 @@
 ! colspan="2" |Charon First Meeting Alt
 |-
 |'''Charon'''
-|"''Gguhhhhhh''...."
+|"*Gguhhhhhh*...."
 |-
 |'''Zagreus'''
 |"Why good to see you, Charon mate! Just minding my own business, taking in the sights, and, sure is awfully convenient to be running into you like this! I'd all this coin I wanted to get rid of."
@@ -119,15 +119,15 @@
 |"Charon mate, now hypothetically, if I provided you with, say, a thousand coins, would you be willing to give me a ride in your beautiful boat? Upriver, I should say, specifically."
 |-
 |'''Charon'''
-|"Nrrnnhhh, hnnnn, ''hrrnn'', hrrrrrnnn...."
+|"Nrrnnhhh, hnnnn, *hrrnn*, hrrrrrnnn...."
 |-
 ! colspan="2" |Charon No Fast Travel 01
 |-
 |'''Zagreus'''
-|"''Erm'', Charon, mate...? I don't suppose you've given any further thought to my proposal to, just, you know... ferry me up to the surface? Seeing as it's not out of your way."
+|"*Erm*, Charon, mate...? I don't suppose you've given any further thought to my proposal to, just, you know... ferry me up to the surface? Seeing as it's not out of your way."
 |-
 |'''Charon'''
-|"''Rhhuuaaauuggghhh''...."
+|"*Rhhuuaaauuggghhh*...."
 |-
 ! colspan="2" |Charon Shop Meeting 01
 |-
@@ -143,12 +143,12 @@
 |"Hey good to see you out here, mate! And looks as though you've got some fine wares up for sale, don't you?"
 |-
 |'''Charon'''
-|"''Urrrnn''gghhhhh...."
+|"*Urrrnn*gghhhhh...."
 |-
 ! colspan="2" |Charon Shop Meeting 03
 |-
 |'''Charon'''
-|"''Haaahhhhhhhhh''...."
+|"*Haaahhhhhhhhh*...."
 |-
 |'''Zagreus'''
 |"Fine day to you as well, there, mate! Now let's have a look at your supply, shall we?"
@@ -183,7 +183,7 @@
 |"Care to provide me any insight as to just what sort of hideous monstrosity awaits me over on the next infernal island, Charon mate?"
 |-
 |'''Charon'''
-|"''Hheeehhhhhhh''...."
+|"*Hheeehhhhhhh*...."
 |-
 ! colspan="2" |Charon High Relationship 01
 |-
@@ -191,7 +191,7 @@
 |"Well, look at you, Charon mate, you're looking well! Something's different about you, can't quite put my finger on it. Have you done something with your hair?"
 |-
 |'''Charon'''
-|"''Urrraaauuhggghh''..."
+|"*Urrraaauuhggghh*..."
 |-
 ! colspan="2" |Charon About Hourglass 01
 |-
@@ -199,7 +199,7 @@
 |"Hey, Charon mate, wanted to thank you once again for the fine hourglass you gave to me before! It's been very handy with those Wells of yours."
 |-
 |'''Charon'''
-|"''Hheeehhhhhhh''...."
+|"*Hheeehhhhhhh*...."
 |-
 ! colspan="2" |Charon Post Fight You Won 01
 |-
@@ -207,7 +207,7 @@
 |"Hey Charon, you're not angry with me after we had it out last time, are you, I mean... I figured since you gave me one of your Loyalty Cards, must mean everything's fine, but... I'm... just making sure."
 |-
 |'''Charon'''
-|"Krrr, ''krraauuuggghhhh''...!"
+|"Krrr, *krraauuuggghhhh*...!"
 |-
 ! colspan="2" |Charon Post Fight You Lost 01
 |-
@@ -231,7 +231,7 @@
 |"Charon, I always thought Olympians never consorted with chthonic gods such as yourself. But it sounds like Hermes is a close colleague of yours. You wouldn't... happen to know why he's helping me, would you?"
 |-
 |'''Charon'''
-|"Grrrhhhooo''aaaaaahhhh''...!"
+|"Grrrhhhooo*aaaaaahhhh*...!"
 |-
 ! colspan="2" |Charon About Hermes 03
 |-
@@ -239,15 +239,15 @@
 |"Charon, Hermes told me that the other Olympians are unaware he's lending his support to me. I'm curious to know what's going on. Thinking of asking Nyx. Figured I'd check with you first."
 |-
 |'''Charon'''
-|"Mmnnn''rraaauuugggghhh''!!"
+|"Mmnnn*rraaauuugggghhh*!!"
 |-
 ! colspan="2" |Charon About Skelly 01
 |-
 |'''Zagreus'''
-|"Charon mate, I know you meet an awful lot of dead, and it probably gets very difficult to remember them all, but... I don't suppose the name ''Skelly ''means anything to you, does it?"
+|"Charon mate, I know you meet an awful lot of dead, and it probably gets very difficult to remember them all, but... I don't suppose the name *Skelly *means anything to you, does it?"
 |-
 |'''Charon'''
-|"...Ssss... kkkhhh... rrrrnngghhh... ''raauuuggghhh''!!"
+|"...Ssss... kkkhhh... rrrrnngghhh... *raauuuggghhh*!!"
 |-
 ! colspan="2" |Charon About Customer Loyalty 01
 |-
@@ -255,7 +255,7 @@
 |"Charon mate? As a longtime customer, I just wanted to take a moment to thank you again for your invaluable service as a part of my repeated attempts at getting out of here. What would I have done without your wares all these many times? Besides dying a lot faster."
 |-
 |'''Charon'''
-|"Hrrnngghh, grhhh, ''grhaaaaaaaahhhh''..."
+|"Hrrnngghh, grhhh, *grhaaaaaaaahhhh*..."
 |-
 ! colspan="2" |Charon Post Ending 01
 |-
@@ -263,7 +263,7 @@
 |"Charon, mate? Wanted to thank you very, very much for bringing Mother and me home. Your boat's quite comfortable, you know! Though, I suppose you won't be making a habit of giving me a ride, will you?"
 |-
 |'''Charon'''
-|"Hrrrhh''haaaaauuugghhh''...!"
+|"Hrrrhh*haaaaauuugghhh*...!"
 |-
 ! colspan="2" |Charon Post Ending 02
 |-
@@ -271,7 +271,7 @@
 |"Charon, as I know you serve the realm, I just wanted to say I look forward to continuing to work with you in a somewhat more official capacity. I'll still be breaking out of here like always, but... well, you've probably heard."
 |-
 |'''Charon'''
-|"''Nnnrrraaaauggghhhh''...."
+|"*Nnnrrraaaauggghhhh*...."
 |-
 ! colspan="2" |Charon Post Epilogue 01
 |-
@@ -279,7 +279,7 @@
 |"Hope you enjoyed the feast with the Olympians, Charon! We didn't have much of a chance to chat, though it looked like you and Hermes were having a good time."
 |-
 |'''Charon'''
-|"Krrhh, ''hrraaaahhh''...!"
+|"Krrhh, *hrraaaahhh*...!"
 |-
 ! colspan="2" |Charon About Secret Service 01
 |-
@@ -287,7 +287,7 @@
 |"Charon? Unrelated to anything whatsoever, I just wanted to say... I'm very grateful to have your support. You've always done your own thing... I never get to see you at the House. But I know you care! An awful lot. So, cheers."
 |-
 |'''Charon'''
-|"...Khhrraaa ''hhaaaaahhhh''..."
+|"...Khhrraaa *hhaaaaahhhh*..."
 |-
 ! colspan="2" |Charon Chat 03
 |-
@@ -347,7 +347,7 @@
 ! colspan="2" |Charon Chat 18
 |-
 |'''Charon'''
-|"Hhrrrnn, ''haahhhhh''...."
+|"Hhrrrnn, *haahhhhh*...."
 |-
 ! colspan="2" |Charon Chat 19
 |-
@@ -365,7 +365,7 @@
 |"Gggrrrnnngggghhhh...."
 |-
 |'''Charon'''
-|"''Heeehhh'', hohhhhh...."
+|"*Heeehhh*, hohhhhh...."
 |-
 ! colspan="2" |Charon Gift 01
 |-
@@ -373,7 +373,7 @@
 |"Charon, you've been such a reassuring sight, I thought I'd offer you a token of my gratitude."
 |-
 |'''Charon'''
-|"''Hrrrhhrooooh'', hnnnn...."
+|"*Hrrrhhrooooh*, hnnnn...."
 |-
 |'''Zagreus'''
 |"Wait, you don't have to give me something in return, it was a gift! Though, you're insisting, aren't you."
@@ -397,7 +397,7 @@
 ! colspan="2" |Charon Gift 04
 |-
 |'''Charon'''
-|"''Hrrrn'', hhmmm hmmmm...."
+|"*Hrrrn*, hhmmm hmmmm...."
 |-
 |'''Zagreus'''
 |"Enjoy it, Charon mate! Don't go thinking I'm just being kind to get you to lower your prices for me, that would be unconscionable!"
@@ -413,7 +413,7 @@
 ! colspan="2" |Charon Gift 06
 |-
 |'''Charon'''
-|"Hhhrrrrhh... ''hhhrrrnnnn''... hrrrrrhhh..."
+|"Hhhrrrrhh... *hhhrrrnnnn*... hrrrrrhhh..."
 |-
 |'''Zagreus'''
 |"I'm pleased to have you as a friend as well, Charon. The pleasure's mine."
@@ -424,6 +424,6 @@
 |"Charon, I realize you have a very busy schedule and certainly needn't keep going out of your way for me like this, so here. Just a small token of my appreciation for you. If you ever want to talk, know that I'm here."
 |-
 |'''Charon'''
-|"''Hrrrnnnnnnnnn''...! Thhhrrrrrrrrnnnnnn... kkrrrrrrrrhhh...!"
+|"*Hrrrnnnnnnnnn*...! Thhhrrrrrrrrnnnnnn... kkrrrrrrrrhhh...!"
 |-
 |}

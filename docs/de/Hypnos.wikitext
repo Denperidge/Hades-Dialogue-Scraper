@@ -3,7 +3,7 @@
 ! colspan="2" |Hypnos First Meeting
 |-
 |'''Hypnos'''
-|"Willkommen im Haus des Hades, wo... Moment mal, ich kenne ''dich '' doch. Das heißt dann wohl, dass du da draußen gestorben bist, hm? Na ja, sei nicht traurig, denn so ziemlich jeder stirbt irgendwann!"
+|"Willkommen im Haus des Hades, wo... Moment mal, ich kenne *dich * doch. Das heißt dann wohl, dass du da draußen gestorben bist, hm? Na ja, sei nicht traurig, denn so ziemlich jeder stirbt irgendwann!"
 |-
 ! colspan="2" |Hypnos Misc Meeting 01
 |-
@@ -18,7 +18,7 @@
 ! colspan="2" |Hypnos Misc Meeting 03
 |-
 |'''Hypnos'''
-|"Oh! Hallo. ''Ähm'', willkommen zu Hause, wieder mal, geh einfach weiter, ich glaube, dein Vater ist wegen irgendwas zornig."
+|"Oh! Hallo. *Ähm*, willkommen zu Hause, wieder mal, geh einfach weiter, ich glaube, dein Vater ist wegen irgendwas zornig."
 |-
 ! colspan="2" |Hypnos Misc Meeting 04
 |-
@@ -36,27 +36,27 @@
 ! colspan="2" |Hypnos Misc Meeting 06
 |-
 |'''Hypnos'''
-|"''Oh'', toll, du hast diesmal Asphodel erreicht, das ist doch was! Bist zwar trotzdem gestorben und so, aber nicht so schnell wie früher, das ist doch ein Fortschritt, oder?"
+|"*Oh*, toll, du hast diesmal Asphodel erreicht, das ist doch was! Bist zwar trotzdem gestorben und so, aber nicht so schnell wie früher, das ist doch ein Fortschritt, oder?"
 |-
 ! colspan="2" |Hypnos Run Progress 01 A
 |-
 |'''Hypnos'''
-|"He, wow, du hast es geschafft! Auf meiner Liste hier steht, du hättest sage und schreibe fünfzig Mal das Leben gelassen, ''wenn nicht mehr''! Häufiger als du ist hier meines Wissen keiner gestorben!"
+|"He, wow, du hast es geschafft! Auf meiner Liste hier steht, du hättest sage und schreibe fünfzig Mal das Leben gelassen, *wenn nicht mehr*! Häufiger als du ist hier meines Wissen keiner gestorben!"
 |-
 ! colspan="2" |Hypnos Run Progress 01
 |-
 |'''Hypnos'''
-|"He, darf ich als Erster sagen: ''Herzlichen Glückwunsch''! Du bist hundertmal gestorben, seitdem ich mitzähle. Seitdem ich darüber Buch führe. Dafür gibt's keinen Preis oder so, aber der Weg ist das Ziel oder was auch immer, nicht wahr?"
+|"He, darf ich als Erster sagen: *Herzlichen Glückwunsch*! Du bist hundertmal gestorben, seitdem ich mitzähle. Seitdem ich darüber Buch führe. Dafür gibt's keinen Preis oder so, aber der Weg ist das Ziel oder was auch immer, nicht wahr?"
 |-
 ! colspan="2" |Hypnos Run Progress 02
 |-
 |'''Hypnos'''
-|"Du wirst es nicht glauben, hier, bist du bereit? Drei... Hundert... ''Mal''!! Genau! Dreihundert Mal bist du schon gestorben! Das ist ja... mehr als ein ganzes Dorf nach einem Erdbeben, und du hast das ganz allein hingebracht!"
+|"Du wirst es nicht glauben, hier, bist du bereit? Drei... Hundert... *Mal*!! Genau! Dreihundert Mal bist du schon gestorben! Das ist ja... mehr als ein ganzes Dorf nach einem Erdbeben, und du hast das ganz allein hingebracht!"
 |-
 ! colspan="2" |Hypnos Run Progress 03
 |-
 |'''Hypnos'''
-|"Oh, ich kann es nicht fassen, aber ich weiß ja, dass meine Liste hier niemals falsch ist! Und hier steht, dass du sage und schreibe fünf''hundert ''Mal gestorben bist! ''Fünfhundert''!! Eine noch höhere Zahl will mir gar nicht einfallen!"
+|"Oh, ich kann es nicht fassen, aber ich weiß ja, dass meine Liste hier niemals falsch ist! Und hier steht, dass du sage und schreibe fünf*hundert *Mal gestorben bist! *Fünfhundert*!! Eine noch höhere Zahl will mir gar nicht einfallen!"
 |-
 ! colspan="2" |Hypnos Meg Defeated 01
 |-
@@ -77,18 +77,18 @@
 ! colspan="2" |Hypnos About Thanatos 02
 |-
 |'''Hypnos'''
-|"He, hast du das gesehen? Mein Bruder, er ist wieder da! Er ist hier! Irgendwo, glaube ich! Der gute alte Thanatos. Vor lauter Arbeit hat er nie Zeit für einen Schwatz mit mir! Bestimmt geht es ''dir '' mit deinem Papa ähnlich!"
+|"He, hast du das gesehen? Mein Bruder, er ist wieder da! Er ist hier! Irgendwo, glaube ich! Der gute alte Thanatos. Vor lauter Arbeit hat er nie Zeit für einen Schwatz mit mir! Bestimmt geht es *dir * mit deinem Papa ähnlich!"
 |-
 ! colspan="2" |Hypnos About Thanatos 03
 |-
 |'''Hypnos'''
-|"''Waaas''! Oh, hah, du hast mich bloß erschreckt, ich war nur gerade... ähm... ich..."
+|"*Waaas*! Oh, hah, du hast mich bloß erschreckt, ich war nur gerade... ähm... ich..."
 |-
 |'''Zagreus'''
 |"He, äh, alles klar, Hypnos?"
 |-
 |'''Hypnos'''
-|"Oh, natürlich! Alles ist ''definitiv ''in bester Ordnung. Es ist bloß... es ist Thanatos. Er hat ein paar Dinge gesagt, und.... jetzt bin ich nicht mehr so sicher, dass ich tatsächlich mein Bestes gebe, weißt du?"
+|"Oh, natürlich! Alles ist *definitiv *in bester Ordnung. Es ist bloß... es ist Thanatos. Er hat ein paar Dinge gesagt, und.... jetzt bin ich nicht mehr so sicher, dass ich tatsächlich mein Bestes gebe, weißt du?"
 |-
 |'''Zagreus'''
 |"Ich bin sicher, er wollte nicht deine Gefühle verletzen! Moment, was rede ich denn da. Er geht doch schon immer hart mit dir ins Gericht?"
@@ -99,7 +99,7 @@
 ! colspan="2" |Hypnos About Thanatos 04
 |-
 |'''Hypnos'''
-|"Oh, hallo! Ähm, das ist jetzt vielleicht ein bisschen merkwürdig, aber ich, ''äh''... danke. Du hast doch mit Thanatos über mich gesprochen, nicht wahr? Zuerst dachte ich, er benimmt sich bloß eigenartig. Aber er ist in letzter Zeit definitiv viel netter zu mir!"
+|"Oh, hallo! Ähm, das ist jetzt vielleicht ein bisschen merkwürdig, aber ich, *äh*... danke. Du hast doch mit Thanatos über mich gesprochen, nicht wahr? Zuerst dachte ich, er benimmt sich bloß eigenartig. Aber er ist in letzter Zeit definitiv viel netter zu mir!"
 |-
 |'''Zagreus'''
 |"Komm schon, Hypnos, damit hatte ich nichts zu tun. Du scheinst doch in letzter Zeit besonders hart zu arbeiten und viele der Kommentare zu beherzigen, die du zu hören bekommst. Ich glaube, Thanatos weiß so etwas wirklich zu schätzen. Wer tut das auch nicht?"
@@ -110,7 +110,7 @@
 ! colspan="2" |Hypnos About Thanatos Relationship 01
 |-
 |'''Hypnos'''
-|"He, da bist du ja! Es stimmt also wirklich?! Du weiß schon, die Sache mit dir und Thanatos? Er hat es mir nämlich erzählt, und ich sagte daraufhin ''ohaaa'', aber dann fiel es mir wie Schuppen von den Augen?"
+|"He, da bist du ja! Es stimmt also wirklich?! Du weiß schon, die Sache mit dir und Thanatos? Er hat es mir nämlich erzählt, und ich sagte daraufhin *ohaaa*, aber dann fiel es mir wie Schuppen von den Augen?"
 |-
 |'''Zagreus'''
 |"Was auch immer er gesagt hat, entspricht vollkommen der Wahrheit, ja, Hypnos."
@@ -126,7 +126,7 @@
 |"He, Hypnos, was muss ich tun, damit du mich durch die verriegelte Tür unten im Flur schlüpfen lässt?"
 |-
 |'''Hypnos'''
-|"Oh, ''hahaha'', du Witzbold, du weißt doch, ich darf dich nicht mehr in die Privatgemächer deines Papas lassen, seitdem du sein Vertrauen verspielt hast und von zu Hause weggelaufen bist! Tut mir leid, Befehl des Gebieters!"
+|"Oh, *hahaha*, du Witzbold, du weißt doch, ich darf dich nicht mehr in die Privatgemächer deines Papas lassen, seitdem du sein Vertrauen verspielt hast und von zu Hause weggelaufen bist! Tut mir leid, Befehl des Gebieters!"
 |-
 ! colspan="2" |Hypnos Post Ending 01
 |-
@@ -137,12 +137,12 @@
 |"He, Vorsicht, Hypnos, du redest immerhin über meine Mutter!"
 |-
 |'''Hypnos'''
-|"Was, wirklich? Huh! Ja, dann verbringt ''deine ''Mutter auch keine Zeit mit dir! Wir haben etwas gemeinsam!"
+|"Was, wirklich? Huh! Ja, dann verbringt *deine *Mutter auch keine Zeit mit dir! Wir haben etwas gemeinsam!"
 |-
 ! colspan="2" |Hypnos Post Ending 02
 |-
 |'''Hypnos'''
-|"Warte, warte, warte, was habe ich gehört, du ''arbeitest ''hier? Ich dachte, du wärest gefeuert worden und hättest dich deshalb davongemacht!"
+|"Warte, warte, warte, was habe ich gehört, du *arbeitest *hier? Ich dachte, du wärest gefeuert worden und hättest dich deshalb davongemacht!"
 |-
 |'''Zagreus'''
 |"Hypnos... glaubst du wirklich, ich hätte so oft das Leben gelassen, weil ich über den Verlust meiner armseligen Stelle verärgert war?"
@@ -164,7 +164,7 @@
 |"He, Hypnos. Hier ist etwas für all die wohlmeinenden Ratschläge, die du mir gegeben hast. Ein Kleinigkeit von einem gewissen riesigen Kerl mit Doppelaxt und Stierkopf, den du bewunderst?"
 |-
 |'''Hypnos'''
-|"Zeig her, die Schrift ist etwas unleserlich, da steht, ich glaub's nicht... ''An Hypnos, meinen größten Bewunderer. Bleibe wachsam. Asterios. ''Da ist... sogar ein kleines Bild von einem Stier. Du ... Ich... wow... ''wow''!"
+|"Zeig her, die Schrift ist etwas unleserlich, da steht, ich glaub's nicht... *An Hypnos, meinen größten Bewunderer. Bleibe wachsam. Asterios. *Da ist... sogar ein kleines Bild von einem Stier. Du ... Ich... wow... *wow*!"
 |-
 ! colspan="2" |Hypnos Consolation 01
 |-
@@ -194,22 +194,22 @@
 ! colspan="2" |Hypnos Consolation 03
 |-
 |'''Hypnos'''
-|"''Och'', sieht aus, als wärest du in eine Sprengfalle einer elenden Plage getappt. Kleine Wesen, sehen wie Urnen aus? Hast du mal versucht, nicht in die Dinger reinzulaufen?"
+|"*Och*, sieht aus, als wärest du in eine Sprengfalle einer elenden Plage getappt. Kleine Wesen, sehen wie Urnen aus? Hast du mal versucht, nicht in die Dinger reinzulaufen?"
 |-
 ! colspan="2" |Hypnos Consolation 04
 |-
 |'''Hypnos'''
-|"''Ooh, wow'', also Megaira hat dich beim letzten Mal erwischt, das war gewiss heftig! Sie ist schnell und stark und schön und... ähm... egal, ich hoffe, die Schicksalsgöttinnen sind nächstes Mal gnädiger mit dir!"
+|"*Ooh, wow*, also Megaira hat dich beim letzten Mal erwischt, das war gewiss heftig! Sie ist schnell und stark und schön und... ähm... egal, ich hoffe, die Schicksalsgöttinnen sind nächstes Mal gnädiger mit dir!"
 |-
 ! colspan="2" |Hypnos Consolation 04 B
 |-
 |'''Hypnos'''
-|"''Hah'', Megaira, die Erinye, hat dich wieder erwischt! Sie ist einfach nicht zu stoppen, oder? Einmal versuchte ich, sie auf dem Weg zu einem Schwatz mit deinem Papa anzuhalten, und sie sah mich nicht einmal an! ''<Seufzen...>"
+|"*Hah*, Megaira, die Erinye, hat dich wieder erwischt! Sie ist einfach nicht zu stoppen, oder? Einmal versuchte ich, sie auf dem Weg zu einem Schwatz mit deinem Papa anzuhalten, und sie sah mich nicht einmal an! *<Seufzen...>"
 |-
 ! colspan="2" |Hypnos Consolation 04 C
 |-
 |'''Hypnos'''
-|"Megaira, die Erinye, hat dich ''gegeißelt''! Eh?! Das wollte ich schon immer mal sagen. Gegeißelt, du weißt schon? Eine Anspielung auf deine große Niederlage UND auf die schimmernd violette Geißel, mit der sie mir immer droht, wenn ich mit ihr zu reden versuche?"
+|"Megaira, die Erinye, hat dich *gegeißelt*! Eh?! Das wollte ich schon immer mal sagen. Gegeißelt, du weißt schon? Eine Anspielung auf deine große Niederlage UND auf die schimmernd violette Geißel, mit der sie mir immer droht, wenn ich mit ihr zu reden versuche?"
 |-
 ! colspan="2" |Hypnos Consolation 05
 |-
@@ -219,12 +219,12 @@
 ! colspan="2" |Hypnos Consolation 06
 |-
 |'''Hypnos'''
-|"''Ooh'', sieht aus, als hätte dich beim letzten Mal eine Pfeilfalle erwischt, ''das ''hat sicher weh getan! Hast du versucht, in Deckung zu gehen?"
+|"*Ooh*, sieht aus, als hätte dich beim letzten Mal eine Pfeilfalle erwischt, *das *hat sicher weh getan! Hast du versucht, in Deckung zu gehen?"
 |-
 ! colspan="2" |Hypnos Consolation 07
 |-
 |'''Hypnos'''
-|"''Autsch'', sieht aus, als wärest du beim letzten Mal von einer explosiven Urne in die Luft gesprengt worden! Wir haben ein paar wirklich fiese Schatten darin eingesperrt, aber eine leichte Berührung reicht und ''RUMS''! Hah!"
+|"*Autsch*, sieht aus, als wärest du beim letzten Mal von einer explosiven Urne in die Luft gesprengt worden! Wir haben ein paar wirklich fiese Schatten darin eingesperrt, aber eine leichte Berührung reicht und *RUMS*! Hah!"
 |-
 ! colspan="2" |Hypnos Consolation 08
 |-
@@ -234,7 +234,7 @@
 ! colspan="2" |Hypnos Consolation 09
 |-
 |'''Hypnos'''
-|"''Aua'', diesmal hat dich wohl die Knochen-Hydra Asphodels totgetrampelt, hm? Jeder Kopf soll ja eigene fiese Tricks auf Lager haben. Das muss hart sein!"
+|"*Aua*, diesmal hat dich wohl die Knochen-Hydra Asphodels totgetrampelt, hm? Jeder Kopf soll ja eigene fiese Tricks auf Lager haben. Das muss hart sein!"
 |-
 ! colspan="2" |Hypnos Consolation 09 B
 |-
@@ -249,12 +249,12 @@
 ! colspan="2" |Hypnos Consolation 10
 |-
 |'''Hypnos'''
-|"''Och'', ein elender Flegel hat dich diesmal getötet, so ein fieser, alter Schlägertyp? Töte sie doch bevor sie doch erwischen oder so, keine Ahnung!"
+|"*Och*, ein elender Flegel hat dich diesmal getötet, so ein fieser, alter Schlägertyp? Töte sie doch bevor sie doch erwischen oder so, keine Ahnung!"
 |-
 ! colspan="2" |Hypnos Consolation 10 B
 |-
 |'''Hypnos'''
-|"''Ooh'', hier steht, ein elender Flegel hätte dich wieder zu Tode geprügelt, das ist hart! Hast du versucht, mit ihm zu reden oder so... nicht das ich es besser wüsste!"
+|"*Ooh*, hier steht, ein elender Flegel hätte dich wieder zu Tode geprügelt, das ist hart! Hast du versucht, mit ihm zu reden oder so... nicht das ich es besser wüsste!"
 |-
 ! colspan="2" |Hypnos Consolation 11
 |-
@@ -274,7 +274,7 @@
 ! colspan="2" |Hypnos Consolation 16
 |-
 |'''Hypnos'''
-|"''Huch'', einer dieser kleinen Hohlköpfe da draußen hat wohl ein bisschen zu kräftig zugebissen, hm. Wenn du nicht so lecker wärest, würden sie dich vielleicht in Ruhe lassen! Würd ich nämlich auch!"
+|"*Huch*, einer dieser kleinen Hohlköpfe da draußen hat wohl ein bisschen zu kräftig zugebissen, hm. Wenn du nicht so lecker wärest, würden sie dich vielleicht in Ruhe lassen! Würd ich nämlich auch!"
 |-
 ! colspan="2" |Hypnos Consolation 16 B
 |-
@@ -284,7 +284,7 @@
 ! colspan="2" |Hypnos Consolation 16 C
 |-
 |'''Hypnos'''
-|"''Oh hohoh, ''dich hat ein Knalltänzer in die Luft gejagt, dein Gesicht spricht Bände! Und es steht auch in meiner Liste, die enthält nämlich jedermanns Todesursache. Mitunter sind recht makabre Sachen dabei! Wie dem auch sei, mach's gut!"
+|"*Oh hohoh, *dich hat ein Knalltänzer in die Luft gejagt, dein Gesicht spricht Bände! Und es steht auch in meiner Liste, die enthält nämlich jedermanns Todesursache. Mitunter sind recht makabre Sachen dabei! Wie dem auch sei, mach's gut!"
 |-
 ! colspan="2" |Hypnos Consolation 17
 |-
@@ -299,27 +299,27 @@
 ! colspan="2" |Hypnos Consolation 19
 |-
 |'''Hypnos'''
-|"''Pff'', dazu fällt mir spontan nur eines ein: ''autsch''! Denn hier in der Liste steht, dass dich ein Schädelbrecher in Asphodel plattgemacht hat, wie eine Flunder! Nur weiter so, dann bist du irgendwann noch kürzer''haha''!"
+|"*Pff*, dazu fällt mir spontan nur eines ein: *autsch*! Denn hier in der Liste steht, dass dich ein Schädelbrecher in Asphodel plattgemacht hat, wie eine Flunder! Nur weiter so, dann bist du irgendwann noch kürzer*haha*!"
 |-
 ! colspan="2" |Hypnos Consolation Hit And Run Unit
 |-
 |'''Hypnos'''
-|"''Hm'', du siehst aus wie jemand, der gerade von der Megagorgone Asphodels erst versteinert und dann zu einem blutigen Klumpen zerquetscht wurde, stimmt's? Tut mir leid, sowas zu hören, und ehe du mich darum bittest: Ich sage Dusa nichts davon, keine Sorge!"
+|"*Hm*, du siehst aus wie jemand, der gerade von der Megagorgone Asphodels erst versteinert und dann zu einem blutigen Klumpen zerquetscht wurde, stimmt's? Tut mir leid, sowas zu hören, und ehe du mich darum bittest: Ich sage Dusa nichts davon, keine Sorge!"
 |-
 ! colspan="2" |Hypnos Consolation 20
 |-
 |'''Hypnos'''
-|"Oh, den Blick kenne ich! Das ist der Blick von jemandem, der kürzlich auf äußerst bedauerliche Weise sein Leben gelassen hat, dank der berüchtigten Blutlosen Wellenmacher!! Wie machen sie denn diese Wellen, und warum tun sie so ''ungeheuer ''weh? Du hast ja jetzt genug Zeit, darüber nachzudenken!"
+|"Oh, den Blick kenne ich! Das ist der Blick von jemandem, der kürzlich auf äußerst bedauerliche Weise sein Leben gelassen hat, dank der berüchtigten Blutlosen Wellenmacher!! Wie machen sie denn diese Wellen, und warum tun sie so *ungeheuer *weh? Du hast ja jetzt genug Zeit, darüber nachzudenken!"
 |-
 ! colspan="2" |Hypnos Consolation 21
 |-
 |'''Hypnos'''
-|"Sieht aus, als hätte einer dieser Blutlosen Brandwerfer dir da draußen ''kräftig '' eingeheizt, oder? Ich weiß, wie groß die Versuchung ist, die feurigen, explosiven Bomben zu fangen, die sie werfen. Aber darf ich dir einen klitzekleinen Rat geben? Du solltest das wirklich bleiben lassen."
+|"Sieht aus, als hätte einer dieser Blutlosen Brandwerfer dir da draußen *kräftig * eingeheizt, oder? Ich weiß, wie groß die Versuchung ist, die feurigen, explosiven Bomben zu fangen, die sie werfen. Aber darf ich dir einen klitzekleinen Rat geben? Du solltest das wirklich bleiben lassen."
 |-
 ! colspan="2" |Hypnos Consolation 22
 |-
 |'''Hypnos'''
-|"Oh, ''wow'', Alekto hat sich deiner angenommen...? Normalerweise tötet sie niemanden, sie... lässt sie gern leben, eine ganze Weile lang. Tut ihnen trotzdem weh! Aber tötet sie nicht. Sie kann dich dann wohl absolut nicht leiden, huh!"
+|"Oh, *wow*, Alekto hat sich deiner angenommen...? Normalerweise tötet sie niemanden, sie... lässt sie gern leben, eine ganze Weile lang. Tut ihnen trotzdem weh! Aber tötet sie nicht. Sie kann dich dann wohl absolut nicht leiden, huh!"
 |-
 ! colspan="2" |Hypnos Consolation Tisiphone 01
 |-
@@ -334,12 +334,12 @@
 ! colspan="2" |Hypnos Consolation 24
 |-
 |'''Hypnos'''
-|"Hier steht, dich hat ein Erhabener Langspeer wie ein Stück Fleisch aufgespießt, ''wow, '' ich wette, das hat sehr wehgetan! Schade, dass du keine dicke, ledrige Haut oder sonst etwas hast, das dich in einer solchen Situation schützen könnte. Was soll's!"
+|"Hier steht, dich hat ein Erhabener Langspeer wie ein Stück Fleisch aufgespießt, *wow, * ich wette, das hat sehr wehgetan! Schade, dass du keine dicke, ledrige Haut oder sonst etwas hast, das dich in einer solchen Situation schützen könnte. Was soll's!"
 |-
 ! colspan="2" |Hypnos Consolation 25
 |-
 |'''Hypnos'''
-|"Sieht aus, als hätte dich gerade ein Erhabener Großschild vernichtend geschlagen, huh. Hattest du versucht, ihn in einem Augenblick der Unachtsamkeit anzugreifen? Oder war er einfach zu keiner Zeit unachtsam. ''Oh''..."
+|"Sieht aus, als hätte dich gerade ein Erhabener Großschild vernichtend geschlagen, huh. Hattest du versucht, ihn in einem Augenblick der Unachtsamkeit anzugreifen? Oder war er einfach zu keiner Zeit unachtsam. *Oh*..."
 |-
 ! colspan="2" |Hypnos Consolation 26
 |-
@@ -359,7 +359,7 @@
 ! colspan="2" |Hypnos Consolation 29
 |-
 |'''Hypnos'''
-|"Klingt, als wärest du im Elysion beim Begaffen einer Phalanx-Statue im wahrsten Sinne des Wortes ''hängen geblieben''! Das muss man deinem Papa lassen: Die sehen auch gut aus, wenn sie Eindringlinge wie dich erstechen!"
+|"Klingt, als wärest du im Elysion beim Begaffen einer Phalanx-Statue im wahrsten Sinne des Wortes *hängen geblieben*! Das muss man deinem Papa lassen: Die sehen auch gut aus, wenn sie Eindringlinge wie dich erstechen!"
 |-
 ! colspan="2" |Hypnos Consolation 30
 |-
@@ -369,12 +369,12 @@
 ! colspan="2" |Hypnos Consolation 31
 |-
 |'''Hypnos'''
-|"''Woow'', nicht zu fassen, du bist gegen den Minotauros angetreten! Kein Wunder, dass du wieder hier bist! Er ist nicht aufzuhalten, das weiß doch jeder. Besonders ich! He, könntest du ihn für mich um ein Autogramm bitten, wenn du ihm das nächste Mal begegnest?"
+|"*Woow*, nicht zu fassen, du bist gegen den Minotauros angetreten! Kein Wunder, dass du wieder hier bist! Er ist nicht aufzuhalten, das weiß doch jeder. Besonders ich! He, könntest du ihn für mich um ein Autogramm bitten, wenn du ihm das nächste Mal begegnest?"
 |-
 ! colspan="2" |Hypnos Consolation 31 B
 |-
 |'''Hypnos'''
-|"Der Minotauros hat dich wieder getötet, das war sicher aufregend, huh!! ''Also'', hast du ihn zufällig für mich um ein Autogramm gebeten, ehe er dich niedermetzelte?"
+|"Der Minotauros hat dich wieder getötet, das war sicher aufregend, huh!! *Also*, hast du ihn zufällig für mich um ein Autogramm gebeten, ehe er dich niedermetzelte?"
 |-
 ! colspan="2" |Hypnos Consolation 31 C
 |-
@@ -404,7 +404,7 @@
 ! colspan="2" |Hypnos Consolation 34
 |-
 |'''Hypnos'''
-|"So, ein Flammenrad kollidierte mit dir, explodierte und tötete euch beide. Ist das richtig? Na ja, die Sache hat auch ihr Gutes, denn ''theoretisch '' hattest du dann ja schon deine Rache!"
+|"So, ein Flammenrad kollidierte mit dir, explodierte und tötete euch beide. Ist das richtig? Na ja, die Sache hat auch ihr Gutes, denn *theoretisch * hattest du dann ja schon deine Rache!"
 |-
 ! colspan="2" |Hypnos Consolation 35
 |-
@@ -419,7 +419,7 @@
 ! colspan="2" |Hypnos Consolation 37
 |-
 |'''Hypnos'''
-|"''Igitt'', hier steht, eine wilde Horde Kriecher sei über dich hergefallen, nur einen Katzensprung vom Ausgang aus dem Reich deines Papas entfernt? Gleichermaßen schmerzlich für Ego und Körper, huh?"
+|"*Igitt*, hier steht, eine wilde Horde Kriecher sei über dich hergefallen, nur einen Katzensprung vom Ausgang aus dem Reich deines Papas entfernt? Gleichermaßen schmerzlich für Ego und Körper, huh?"
 |-
 ! colspan="2" |Hypnos Consolation 38
 |-
@@ -449,32 +449,32 @@
 ! colspan="2" |Hypnos Consolation 41
 |-
 |'''Hypnos'''
-|"In der Liste steht, eines dieser gigantischen Tempel-Sägeblätter hat dich mitten in die Brust getroffen, huh? ''Ugh''... Wenigstens bist du wieder in einem Stück!"
+|"In der Liste steht, eines dieser gigantischen Tempel-Sägeblätter hat dich mitten in die Brust getroffen, huh? *Ugh*... Wenigstens bist du wieder in einem Stück!"
 |-
 ! colspan="2" |Hypnos Consolation 42
 |-
 |'''Hypnos'''
-|"Was ist los mit dir, hat dir eine der gigantischen herabfallenden Äxte im Tempel des Styx ''penetrante ''Kopfschmerzen verursacht? Na, dagegen kenne ich ein gutes Mittel: Lass dich nicht von ihnen erwischen!"
+|"Was ist los mit dir, hat dir eine der gigantischen herabfallenden Äxte im Tempel des Styx *penetrante *Kopfschmerzen verursacht? Na, dagegen kenne ich ein gutes Mittel: Lass dich nicht von ihnen erwischen!"
 |-
 ! colspan="2" |Hypnos Consolation Poison Trap
 |-
 |'''Hypnos'''
-|"Na, da ist wohl ''jemand '' geradewegs in eine Giftgaswolke marschiert, huh! Danach musst du wohl ziemlich schnell dein Leben ausgehaucht haben! Beim nächsten Mal weißt du, dass das Zeug äußerst fatal ist, weil es dich getötet hat! Und weil es grün ist!"
+|"Na, da ist wohl *jemand * geradewegs in eine Giftgaswolke marschiert, huh! Danach musst du wohl ziemlich schnell dein Leben ausgehaucht haben! Beim nächsten Mal weißt du, dass das Zeug äußerst fatal ist, weil es dich getötet hat! Und weil es grün ist!"
 |-
 ! colspan="2" |Hypnos Consolation Biome Timer
 |-
 |'''Hypnos'''
-|"So, du hast einfach zu lange gebraucht und bist gestorben, ganz im Sinne des Strafpakts, huh? Na, das ist doch mal eine echt ''mörderische '' Zeitvorgabe, ''hahahaha''!"
+|"So, du hast einfach zu lange gebraucht und bist gestorben, ganz im Sinne des Strafpakts, huh? Na, das ist doch mal eine echt *mörderische * Zeitvorgabe, *hahahaha*!"
 |-
 ! colspan="2" |Hypnos Consolation Gun Grenade Drop Trait
 |-
 |'''Hypnos'''
-|"Na sowas, hier steht, du hast dich diesmal einfach in die Luft gejagt, mit dem merkwürdigen infernalen Schießdings, das du geklaut hast? Denk nächstes Mal daran, die ''anderen ''Typen zu erschießen!"
+|"Na sowas, hier steht, du hast dich diesmal einfach in die Luft gejagt, mit dem merkwürdigen infernalen Schießdings, das du geklaut hast? Denk nächstes Mal daran, die *anderen *Typen zu erschießen!"
 |-
 ! colspan="2" |Hypnos Consolation Mini Boss Crawler 01
 |-
 |'''Hypnos'''
-|"Boah, warte warte warte, das kann doch nicht stimmen, hier steht... ''hahahahah''. Du wurdest von einem winzigen Nager besiegt? Oh, ''haha'', tut mir leid, ich, äh, du hast mein Mitgefühl."
+|"Boah, warte warte warte, das kann doch nicht stimmen, hier steht... *hahahahah*. Du wurdest von einem winzigen Nager besiegt? Oh, *haha*, tut mir leid, ich, äh, du hast mein Mitgefühl."
 |-
 ! colspan="2" |Hypnos Consolation Died Early 01
 |-
@@ -484,12 +484,12 @@
 ! colspan="2" |Hypnos Consolation Wringer 01
 |-
 |'''Hypnos'''
-|"''Oh'', ein Wringer hat dich erdrosselt, hat dich sicher einfach geschnappt und wie eine Traube zerquetscht! Du weißt doch sicher, was Trauben sind? Sie sind wie Granatapfelkerne, nur größer und matschiger."
+|"*Oh*, ein Wringer hat dich erdrosselt, hat dich sicher einfach geschnappt und wie eine Traube zerquetscht! Du weißt doch sicher, was Trauben sind? Sie sind wie Granatapfelkerne, nur größer und matschiger."
 |-
 ! colspan="2" |Hypnos Consolation Heavy Ranged Splitter 01
 |-
 |'''Hypnos'''
-|"''Ah'', du bist offenbar draußen im Tartaros geradewegs in den Untergangsstein geprallt, echt gruselig, das Ding! Versuch beim nächsten Mal, stockstill zu stehen. Dann bringst du es wesentlich schneller hinter dich!"
+|"*Ah*, du bist offenbar draußen im Tartaros geradewegs in den Untergangsstein geprallt, echt gruselig, das Ding! Versuch beim nächsten Mal, stockstill zu stehen. Dann bringst du es wesentlich schneller hinter dich!"
 |-
 ! colspan="2" |Hypnos Consolation Wretch Assassin 01
 |-
@@ -499,22 +499,22 @@
 ! colspan="2" |Hypnos Consolation Ranged Burrower 01
 |-
 |'''Hypnos'''
-|"So, lass mich raten, du gingst da draußen in Asphodel ruhig deiner Wege und dann, von einer Sekunde zur nächsten, taucht genau vor dir einer dieser Drachen auf und ''pfui''! Bringt er dich mit seinem giftigen, ätzenden Atem glatt um. ''Na ja, '' kommt vor, nicht wahr?"
+|"So, lass mich raten, du gingst da draußen in Asphodel ruhig deiner Wege und dann, von einer Sekunde zur nächsten, taucht genau vor dir einer dieser Drachen auf und *pfui*! Bringt er dich mit seinem giftigen, ätzenden Atem glatt um. *Na ja, * kommt vor, nicht wahr?"
 |-
 ! colspan="2" |Hypnos Consolation Bloodless Berserker 01
 |-
 |'''Hypnos'''
-|"Deine direkte Konfrontation mit einem dieser Blutlosen Knochenharker lief wohl nicht gut, ''huh''? Wenn dich beim nächsten Mal einer in Stücke zerfetzt, nimm es als Zeichen, dass du dich aus dem Staub machen solltest!"
+|"Deine direkte Konfrontation mit einem dieser Blutlosen Knochenharker lief wohl nicht gut, *huh*? Wenn dich beim nächsten Mal einer in Stücke zerfetzt, nimm es als Zeichen, dass du dich aus dem Staub machen solltest!"
 |-
 ! colspan="2" |Hypnos Consolation Bullet Hell Witches 01
 |-
 |'''Hypnos'''
-|"''Wow'', du bist da draußen in Asphodel einfach in den Hexenzirkel hineingeplatzt? Und die haben dich prompt bis zum Rand mit diesen stechenden, lilafarbenen Kugeln aufgefüllt und umgebracht, huh? Du kannst doch nicht einfach auftauchen und erwarten, dass sie dich in ihren Club aufnehmen! Du must erst mal ''jahrelang '' Hexerei studieren!"
+|"*Wow*, du bist da draußen in Asphodel einfach in den Hexenzirkel hineingeplatzt? Und die haben dich prompt bis zum Rand mit diesen stechenden, lilafarbenen Kugeln aufgefüllt und umgebracht, huh? Du kannst doch nicht einfach auftauchen und erwarten, dass sie dich in ihren Club aufnehmen! Du must erst mal *jahrelang * Hexerei studieren!"
 |-
 ! colspan="2" |Hypnos Consolation Charon 01
 |-
 |'''Hypnos'''
-|"He, mein Bruder Charon hat dich getötet, sehe ich richtig? Er war noch nie sonderlich nett zu ''mir''! Hat mir mit seinem Ruder ein paarmal eins übergebraten, aber ''so ''schlimm war es nie. Sicher ein Missverständnis. Hast du mit ihm geredet?"
+|"He, mein Bruder Charon hat dich getötet, sehe ich richtig? Er war noch nie sonderlich nett zu *mir*! Hat mir mit seinem Ruder ein paarmal eins übergebraten, aber *so *schlimm war es nie. Sicher ein Missverständnis. Hast du mit ihm geredet?"
 |-
 ! colspan="2" |Hypnos Consolation Charon 02
 |-
@@ -529,25 +529,25 @@
 ! colspan="2" |Hypnos Consolation Run Cleared 01
 |-
 |'''Hypnos'''
-|"Woah, was ist denn mit dir passiert, bist du einfach... gestorben? Du bist einfach''gestorben'', kein Erstechen, kein Erschlagen, kein Gift, Verbrennung, Zerschmettern, nichts hat dich in Stücke zerfetzt, dich zu Stein verwandelt und doch... bist du wieder hier! Muss wohl einer dieser ''Natürlichen Umstände '' sein, von denen die Sterblichen immer reden!"
+|"Woah, was ist denn mit dir passiert, bist du einfach... gestorben? Du bist einfach*gestorben*, kein Erstechen, kein Erschlagen, kein Gift, Verbrennung, Zerschmettern, nichts hat dich in Stücke zerfetzt, dich zu Stein verwandelt und doch... bist du wieder hier! Muss wohl einer dieser *Natürlichen Umstände * sein, von denen die Sterblichen immer reden!"
 |-
 ! colspan="2" |Hypnos Consolation Run Cleared 02
 |-
 |'''Hypnos'''
-|"Natürliche Umstände haben dich wieder erwischt, hm? Das ist echt eine ziemliche Schande, ich meine, stell dir mal vor, du genießt dein Leben in vollen Zügen bis plötzlich ''ack''!! Und du bist ''tot''! Aber ich schätze mal, ''du '' musst dir das nicht so vorstellen, wie ''ich '' es muss!"
+|"Natürliche Umstände haben dich wieder erwischt, hm? Das ist echt eine ziemliche Schande, ich meine, stell dir mal vor, du genießt dein Leben in vollen Zügen bis plötzlich *ack*!! Und du bist *tot*! Aber ich schätze mal, *du * musst dir das nicht so vorstellen, wie *ich * es muss!"
 |-
 ! colspan="2" |Hypnos Consolation Run Cleared 03
 |-
 |'''Hypnos'''
-|"Ah, verfluchte Natürliche Umstände schon wieder am Werk, oder? Naja, beim nächsten Mal zeigst du's ihnen! Kannst du das für mich machen, ''hm''?"
+|"Ah, verfluchte Natürliche Umstände schon wieder am Werk, oder? Naja, beim nächsten Mal zeigst du's ihnen! Kannst du das für mich machen, *hm*?"
 |-
-! colspan="2" |Hypnos With Hades 01
+! colspan="2" |Duo - Hypnos and Hades (1)
 |-
 |'''Hades'''
 |"...Dein Bericht ist überfällig, Hypnos. Schon wieder. Schon wieder! Die Toten können natürlich warten, aber ich bin weniger geduldig. Erkläre dich auf der Stelle."
 |-
 |'''Hypnos'''
-|"''Oh''! Na ja, ich wachte auf, keine Ahnung wann, und sorgte dafür, dass alle Schatten erfasst wurden, wie ich das immer mache, aber ich konnte meine Liste erst nicht finden, ist das zu fassen? Ich dachte, mein Bruder hätte mir vielleicht einen Streich gespielt, also..."
+|"*Oh*! Na ja, ich wachte auf, keine Ahnung wann, und sorgte dafür, dass alle Schatten erfasst wurden, wie ich das immer mache, aber ich konnte meine Liste erst nicht finden, ist das zu fassen? Ich dachte, mein Bruder hätte mir vielleicht einen Streich gespielt, also..."
 |-
 |'''Hades'''
 |"Komm endlich zur Sache, ich habe nicht den ganzen Tag! Oder die ganze Nacht. Urgh! Dein Bericht, wo ist er?"
@@ -558,18 +558,18 @@
 |'''Hades'''
 |"Genug!! Blut und Finsternis, kein Wort mehr... sieh nur zu, dass das Buch der Toten korrekt ist, und gehe zurück an deinen Posten. Ugh, wärest du nur ein bisschen wie dein Bruder."
 |-
-! colspan="2" |Hypnos With Hades 02
+! colspan="2" |Duo - Hypnos and Hades (2)
 |-
 |'''Hades'''
 |"...Deine Berichte sind in letzter Zeit wesentlich pünklicher, Hypnos. Das ist nur zu erwarten. Aber... die verzierten Ränder... sehr klug. Dadurch lassen sich bestimmte Berichte jetzt leicht in einem Stapel Pergamentrollen finden."
 |-
 |'''Hypnos'''
-|"Oh, danke, Gebieter, wie schön, dass sie dir gefallen! Nachdem Thanatos mir unmissverständlich zu verstehen gegeben hatte, dass mir die Entlassung drohte, legte ich eine Liste meiner ''eigenen ''Aufgaben an. Die gehe ich nun täglich durch, entscheide über Prioritäten, schätze die Bearbeitungszeit, führe eine Kosten-Nutzen-Analyse durch..."
+|"Oh, danke, Gebieter, wie schön, dass sie dir gefallen! Nachdem Thanatos mir unmissverständlich zu verstehen gegeben hatte, dass mir die Entlassung drohte, legte ich eine Liste meiner *eigenen *Aufgaben an. Die gehe ich nun täglich durch, entscheide über Prioritäten, schätze die Bearbeitungszeit, führe eine Kosten-Nutzen-Analyse durch..."
 |-
 |'''Hades'''
 |"Ja, schön. Zweifellos hast du eine Reihe von Aufgaben, die deine Aufmerksamkeit verlangen. Sei weiterhin so sorgfältig."
 |-
-! colspan="2" |Hypnos With Hades 03
+! colspan="2" |Duo - Hypnos and Hades (3)
 |-
 |'''Hypnos'''
 |"Gebieter, ich weiß gar nicht, wie ich dir dafür danken soll, dass du mein Bild auf der Tafel im Salon aufgehängt hast! Wie ich hörte, ist es ein gutes Bild! Ich hatte noch nicht die Zeit, es mir anzusehen, aber ich werde das noch tun, es steht auf der Liste!"
@@ -578,9 +578,9 @@
 |"Hypnos... das wäre alles. Damit ich deine Belobigung nicht doch noch widerrufe und dich hinauswerfe."
 |-
 |'''Hypnos'''
-|"...Ähm, könntest du das wiederholen, Gebieter, denn das hörte sich in meinen Ohren irgendwie ''schlimm '' an?"
+|"...Ähm, könntest du das wiederholen, Gebieter, denn das hörte sich in meinen Ohren irgendwie *schlimm * an?"
 |-
-! colspan="2" |Hypnos With Nyx 01
+! colspan="2" |Duo - Hypnos and Nyx (1)
 |-
 |'''Hypnos'''
 |"...Ich werde manchmal einfach schläfrig, Mutti, denn weißt du, ich habe in letzter Zeit sehr hart gearbeitet, gleich da drüben? Du hast wahrscheinlich gesehen, wie ich Schatten begrüße, meine Liste erstelle, eine einladende Atmosphäre schaffe..."
@@ -588,27 +588,27 @@
 |'''Nyx'''
 |"Denke daran, was wir kürzlich besprochen haben, Hypnos. Sprich mich nicht mit diesem Namen an, wenn wir hier sind. Verhalte dich so, wie es sich für einen Diener des Hauses des Hades geziehmt... und bitte arbeite weiterhin daran, selbstständiger zu werden."
 |-
-! colspan="2" |Hypnos With Nyx 02
+! colspan="2" |Duo - Hypnos and Nyx (2)
 |-
 |'''Nyx'''
 |"Du hast dich bei der Erfüllung deiner Pflichten als durchgehend kompetent erwiesen, Hypnos. Es freut mich, messbare Fortschritte zu sehen. Für deine Bemühungen gebührt dir Lob."
 |-
 |'''Hypnos'''
-|"Ah, wow, ''danke''! Eine Belobigung von wem? Megaira? Thanatos? Vielleicht Dusa! Oder etwa vom Gebieter selbst?!"
+|"Ah, wow, *danke*! Eine Belobigung von wem? Megaira? Thanatos? Vielleicht Dusa! Oder etwa vom Gebieter selbst?!"
 |-
 |'''Nyx'''
 |"Eine Belobigung von mir. Ich kann mich nicht immer um alle meine Kinder kümmern, wie du weißt. Sie müssen sich um sich selbst und um ihre Pflichten gegenüber unserem Reich kümmern. Als deine Mutter... ist es beruhigend zu sehen, dass du tüchtig bist."
 |-
 |'''Hypnos'''
-|"Tüchtig? Ich? Ah, Mutti... ich meine, ähm, ''Mutter Nyx''! Noch ''nie ''hat mich jemand als tüchtig bezeichnet!"
+|"Tüchtig? Ich? Ah, Mutti... ich meine, ähm, *Mutter Nyx*! Noch *nie *hat mich jemand als tüchtig bezeichnet!"
 |-
 |'''Nyx'''
 |"Du bist mein Sohn. Es wird von dir erwartet. Aber... ich weiß, dass es Mühe kostet, nützlich zu sein. Strenge dich weiter an. Ich werde dich im Auge behalten."
 |-
-! colspan="2" |Hypnos With Persephone 01
+! colspan="2" |Duo - Hypnos and Persephone (1)
 |-
 |'''Hypnos'''
-|"...Und solltest du jemals etwas benötigen, eure Königlichkeit, so findest du mich da drüben stets hellwach vor! Obwohl ich meinen Posten eigentlich nicht verlassen darf! Nicht einmal für ''dich''!"
+|"...Und solltest du jemals etwas benötigen, eure Königlichkeit, so findest du mich da drüben stets hellwach vor! Obwohl ich meinen Posten eigentlich nicht verlassen darf! Nicht einmal für *dich*!"
 |-
 ! colspan="2" |Hypnos Chat 01
 |-
@@ -643,7 +643,7 @@
 ! colspan="2" |Hypnos Chat 07
 |-
 |'''Hypnos'''
-|"Oh hey, hab gar nicht gesehen wie du reingekommen bist, ''öh''... willkommen zurück!"
+|"Oh hey, hab gar nicht gesehen wie du reingekommen bist, *öh*... willkommen zurück!"
 |-
 ! colspan="2" |Hypnos Chat 08
 |-
@@ -788,7 +788,7 @@
 ! colspan="2" |Hypnos High Relationship Chat 14 A
 |-
 |'''Hypnos'''
-|"Ich will, dass du dort rausgehst und auf irgendeine andere Weise ''stirbst''!"
+|"Ich will, dass du dort rausgehst und auf irgendeine andere Weise *stirbst*!"
 |-
 ! colspan="2" |Hypnos High Relationship Chat 14
 |-
@@ -798,7 +798,7 @@
 ! colspan="2" |Hypnos High Relationship Chat 15
 |-
 |'''Hypnos'''
-|"Du ''schaffst '' das! Was auch immer es ist, das du tust!"
+|"Du *schaffst * das! Was auch immer es ist, das du tust!"
 |-
 ! colspan="2" |Hypnos Gift 01
 |-
@@ -806,7 +806,7 @@
 |"Überraschung, Hypnos! Ich habe hier etwas für dich."
 |-
 |'''Hypnos'''
-|"Whoa whoa ''whoa'', das kannst du hier nicht reinbringen! Hah, kleiner Scherz, danke! Aber warte, ich habe auch was für dich, schau!"
+|"Whoa whoa *whoa*, das kannst du hier nicht reinbringen! Hah, kleiner Scherz, danke! Aber warte, ich habe auch was für dich, schau!"
 |-
 ! colspan="2" |Hypnos Gift 02
 |-
@@ -819,7 +819,7 @@
 ! colspan="2" |Hypnos Gift 03
 |-
 |'''Hypnos'''
-|"Oh, toll, ''ähm'', danke!!! Es ist doch eigentlich nicht so schlimm, dass du immer wieder zurückkehrst, oder? Jedenfalls nicht für mich!"
+|"Oh, toll, *ähm*, danke!!! Es ist doch eigentlich nicht so schlimm, dass du immer wieder zurückkehrst, oder? Jedenfalls nicht für mich!"
 |-
 |'''Zagreus'''
 |"Ich gewöhne mich daran. Aber ich glaube, ich würde mich hier nicht mehr sonderlich wohl fühlen, wenn du nicht wärst, Hypnos."
@@ -827,7 +827,7 @@
 ! colspan="2" |Hypnos Gift 04
 |-
 |'''Hypnos'''
-|"''Boaaa'', du musst da draußen ziemlich weit gekommen sein, sonst hättest du das nicht für mich besorgen können! Wow und danke fürs Vorbeischauen!"
+|"*Boaaa*, du musst da draußen ziemlich weit gekommen sein, sonst hättest du das nicht für mich besorgen können! Wow und danke fürs Vorbeischauen!"
 |-
 |'''Zagreus'''
 |"Wegen dir nehme ich mein häufiges frühzeitiges Ableben etwas leichter, Hypnos."
@@ -835,7 +835,7 @@
 ! colspan="2" |Hypnos Gift 05
 |-
 |'''Hypnos'''
-|"Hah, na, ich muss wohl träumen, das heißt, wie kommt es, dass du immer so ungeheuer nett zu mir bist? Wie dem auch sei, ''ähm'', danke!"
+|"Hah, na, ich muss wohl träumen, das heißt, wie kommt es, dass du immer so ungeheuer nett zu mir bist? Wie dem auch sei, *ähm*, danke!"
 |-
 |'''Zagreus'''
 |"Keine Ursache, Hypnos! Bedien‘ dich."
@@ -854,7 +854,7 @@
 |"Hypnos, wollte dir sagen, dass der Gedanke, nach jedem schmerzvollen Tod immer wieder hierher zurückzukehren, mir wegen dir nicht vollkommen zuwider ist. Deine Begrüßungen muntern mich wirklich auf! Und deswegen möchte ich dir das hier geben."
 |-
 |'''Hypnos'''
-|"Aber, aber, aber, Moment, das ist ja ''Ambrosia''! Das ist hier aber nicht erlaubt! Wir könnten viel Ärger bekommen, und ich meine ''richtig viel '' Ärger, wenn uns einer dabei erwischt, wie du mir etwas absolut Verbotenes überreichst!"
+|"Aber, aber, aber, Moment, das ist ja *Ambrosia*! Das ist hier aber nicht erlaubt! Wir könnten viel Ärger bekommen, und ich meine *richtig viel * Ärger, wenn uns einer dabei erwischt, wie du mir etwas absolut Verbotenes überreichst!"
 |-
 |'''Zagreus'''
 |"Wie ich sehe, hast du mir die Flasche noch nicht zurückgegeben. Daraus schließe ich, dass du sie zu behalten gedenkst."
@@ -873,7 +873,7 @@
 |'''Hypnos'''
 |"... Ich glaube, du könntest mein bester Freund sein! Hast du... versucht, mein bester Freund zu sein?"
 |-
-! colspan="2" |Thanatos With Hypnos 01
+! colspan="2" |Duo - Thanatos and Hypnos (1)
 |-
 |'''Thanatos'''
 |"Hypnos, wirklich, das ist die wohl schlechteste Idee, die ich je gehört habe. Siehst du nicht, wie unsinnig das ist?"
@@ -884,7 +884,7 @@
 |'''Thanatos'''
 |"Ich weiß ehrlich nicht, warum ich mich mit dir abgebe. Geh wieder an die Arbeit, und halte mich nicht länger auf."
 |-
-! colspan="2" |Thanatos With Hypnos 02
+! colspan="2" |Duo - Thanatos and Hypnos (2)
 |-
 |'''Thanatos'''
 |"Du kannst doch nicht während der Arbeit ständig einschlafen, Hypnos. Das ist in keinster Weise in Ordnung."
@@ -895,7 +895,7 @@
 |'''Thanatos'''
 |"Bring mich nicht auf dumme Gedanken. Reiß dich zusammen und hör auf zu trödeln. Das Haus braucht Hilfe, und du hast eine Aufgabe zu erledigen. Nun mach schon!"
 |-
-! colspan="2" |Thanatos With Hypnos 03
+! colspan="2" |Duo - Thanatos and Hypnos (3)
 |-
 |'''Thanatos'''
 |"...Hypnos, auf dieser Liste stehen ein paar Aufgaben von vor ich weiß nicht wie langer Zeit... Einige davon hatte ich dir schon letztes Jahr abgenommen! Und du hast doch schon die Anmeldungen für diese Woche eingereicht. Wieso hast du das denn nicht als erledigt gekennzeichnet?"
@@ -907,45 +907,45 @@
 |"Du musst dich konzentrieren, Bruder. Oder der Ehrwürdige Hades wird dich wieder zurechtweisen, und das solltest du tunlichst vermeiden."
 |-
 |'''Hypnos'''
-|"Oh, da bin ich mir nicht so sicher. Bei meinem letzten Gespräch mit dem Gebieter sagte er ''in aller Deutlichkeit'', er wolle nie wieder ein Wort mit mir wechseln!"
+|"Oh, da bin ich mir nicht so sicher. Bei meinem letzten Gespräch mit dem Gebieter sagte er *in aller Deutlichkeit*, er wolle nie wieder ein Wort mit mir wechseln!"
 |-
-! colspan="2" |Thanatos With Hypnos 04
+! colspan="2" |Duo - Thanatos and Hypnos (4)
 |-
 |'''Thanatos'''
 |"Hypnos, du bist nicht unersetzlich, begreifst du das nicht? Wenn du dich nicht bald am Riemen reißt, wirst du deine Stelle an einen anderen verlieren."
 |-
 |'''Hypnos'''
-|"Oh, ich höre dich laut und deutlich, Thanatos! Und ich kann nur sagen, dass er oder sie die ''beste Stelle in der ganzen Unterwelt '' haben wird!"
+|"Oh, ich höre dich laut und deutlich, Thanatos! Und ich kann nur sagen, dass er oder sie die *beste Stelle in der ganzen Unterwelt * haben wird!"
 |-
 |'''Thanatos'''
 |"Mir scheint, du verstehst mich nicht wirklich, Bruder. Na, wenn das Unvermeidliche eintritt, kannst du wenigstens nicht behaupten, ich hätte dich nicht gewarnt."
 |-
-! colspan="2" |Thanatos With Hypnos 05
+! colspan="2" |Duo - Thanatos and Hypnos (5)
 |-
 |'''Thanatos'''
 |"...Sag mal, wie oft schaust du eigentlich in die Listen, die du aufstellst? Wenn du zu viel Zeit damit verbringst, Listen zu machen, dann hast du nicht genügend Zeit, irgendwas davon zu erledigen."
 |-
 |'''Hypnos'''
-|"Oh, ich ''liebe ''es, Listen zu machen... Ich verziere alle Ränder, dadurch ist jede von ihnen ein ''Unikat''! Wenn dann jemand die Arbeit prüft, erwartet ihn ein richtiges ''Erlebnis'', weißt du? Aber... es stimmt schon, es nimmt viel Zeit in Anspruch."
+|"Oh, ich *liebe *es, Listen zu machen... Ich verziere alle Ränder, dadurch ist jede von ihnen ein *Unikat*! Wenn dann jemand die Arbeit prüft, erwartet ihn ein richtiges *Erlebnis*, weißt du? Aber... es stimmt schon, es nimmt viel Zeit in Anspruch."
 |-
 |'''Thanatos'''
 |"Du wirst versuchen müssen, deine Pflichten zu erfüllen und ansonsten effizienter zu arbeiten. Du machst doch sicher Pausen? Vielleicht könntest du vor und nach jeder Pause prüfen, ob deine eigene Prioritätenliste auf dem aktuellen Stand ist."
 |-
 |'''Hypnos'''
-|"Was denn, meine eigene Prioritätenliste...? Aber das heißt dann ja, dass ich ganz einfach eine Liste ... für mich selbst aufstellen kann? Huh. Boah. ''Boah''...."
+|"Was denn, meine eigene Prioritätenliste...? Aber das heißt dann ja, dass ich ganz einfach eine Liste ... für mich selbst aufstellen kann? Huh. Boah. *Boah*...."
 |-
-! colspan="2" |Thanatos With Hypnos 06
+! colspan="2" |Duo - Thanatos and Hypnos (6)
 |-
 |'''Thanatos'''
 |"Wie ich höre, sind deine Berichte in letzer Zeit makellos, Hypnos. Ich muss dich einfach fragen: Wer hilft dir dabei? Zagreus kann es doch sicher nicht sein."
 |-
 |'''Hypnos'''
-|"Oh, ''haha'', nein, er hilft nicht. Ich habe mir einfach angewöhnt, nur die wirklich wichtigen Dinge ganz oben auf die Liste zu setzen und ein klein wenig mehr Zeit auf die vorrangigen Berichte aufzuwenden. Und... anscheinend funktioniert es!"
+|"Oh, *haha*, nein, er hilft nicht. Ich habe mir einfach angewöhnt, nur die wirklich wichtigen Dinge ganz oben auf die Liste zu setzen und ein klein wenig mehr Zeit auf die vorrangigen Berichte aufzuwenden. Und... anscheinend funktioniert es!"
 |-
 |'''Thanatos'''
 |"Wie dem auch sei... die Arbeit hat sich gebessert. Das ist sogar aufgefallen. Du solltest so weitermachen."
 |-
-! colspan="2" |Thanatos With Hypnos 07
+! colspan="2" |Duo - Thanatos and Hypnos (7)
 |-
 |'''Thanatos'''
 |"... Aber was ich eigentlich sagen will, ist... Es tut mir leid, Hypnos. Du bist mein Bruder, aber ich habe dich nicht immer entsprechend behandelt. Wärest du gewillt, mir zu vergeben?"
@@ -956,7 +956,7 @@
 |'''Thanatos'''
 |"Na ja, wir wollen nicht übertreiben. Wir habe beide eine wichtige Arbeit zu erledigen. Stimmt's, Bruder?"
 |-
-! colspan="2" |Thanatos With Hypnos 08
+! colspan="2" |Duo - Thanatos and Hypnos (8)
 |-
 |'''Thanatos'''
 |"... Meinen Glückwunsch, Bruder. Wie ich sehe, stehst du endlich auf der Tafel. Wir sind stolz auf dich."
@@ -967,21 +967,21 @@
 |'''Thanatos'''
 |"Das Gefühl kenne ich nur zu gut. Na gut, dann lass uns beide so weitermachen, ja?"
 |-
-! colspan="2" |Dusa With Hypnos 01
+! colspan="2" |Duo - Dusa and Hypnos (1)
 |-
 |'''Hypnos'''
 |"Oh, äh, he, Dusa! Was gibt's Neues von deiner endlosen Plackerei?"
 |-
 |'''Dusa'''
-|"''Um'', Herr Hypnos, könntest du, naja... vielleicht, du weißt schon, ''äh'', ein Auge auf die Warteschlange vor dem ehrwürdigen Hades werfen? So wie es halt dein Job ist...?"
+|"*Um*, Herr Hypnos, könntest du, naja... vielleicht, du weißt schon, *äh*, ein Auge auf die Warteschlange vor dem ehrwürdigen Hades werfen? So wie es halt dein Job ist...?"
 |-
 |'''Hypnos'''
 |"Oh! Ähm, kein Problem, ich kann das definitiv tun, ich schreibe es einfach auf die Liste!"
 |-
 |'''Dusa'''
-|"''Ähm'', okay! Gut, dass wir eine Chance zum Reden hatten. Jetzt schau vielleicht, dass du etwas Schlaf bekommst. Du siehst ziemlich erledigt aus...?"
+|"*Ähm*, okay! Gut, dass wir eine Chance zum Reden hatten. Jetzt schau vielleicht, dass du etwas Schlaf bekommst. Du siehst ziemlich erledigt aus...?"
 |-
-! colspan="2" |Dusa With Hypnos 02
+! colspan="2" |Duo - Dusa and Hypnos (2)
 |-
 |'''Dusa'''
 |"Herr Hypnos, ich, äh, wollte nur wieder mal kurz vorbeischauen, wegen der Prozessionsschlange... direkt vor dir, da drüben, sie... bewegt sich ziemlich langsam."
@@ -990,7 +990,7 @@
 |"Ich weiß! Diese Schatten sind schlimme Quasselstrippen und reden endlos, ohne Punkt und Komma, über dies und das. Es ist unbegreiflich, wie der Ehrwürdige Hades es ertragen kann, sich das jeden Tag oder jede Nacht anzuhören!"
 |-
 |'''Dusa'''
-|"''Ähm''... es ist nur so, du sollst eigentlich dafür sorgen, dass sie schön gleichmäßig weitergehen. Wenn sie also zu lange brauchen, dann könntest du womöglich irgendwas sagen oder... hast du vielleicht eine Idee?"
+|"*Ähm*... es ist nur so, du sollst eigentlich dafür sorgen, dass sie schön gleichmäßig weitergehen. Wenn sie also zu lange brauchen, dann könntest du womöglich irgendwas sagen oder... hast du vielleicht eine Idee?"
 |-
 |'''Hypnos'''
 |"Das ist eine harte Nuss, Dusa, denn ich finde, dass jeder Schatten, der geduldig wartet, bis er an der Reihe ist, auch die Gelegenheit haben sollte, alles zu sagen, was er sagen möchte! Aber das ist schon eine wirklich schwierige Sache, die du zur Sprache bringst, und ich werde Folgendes tun: Ich werde sie überschlafen! Und mich dann bei dir melden!"
@@ -998,7 +998,7 @@
 |'''Dusa'''
 |"OK, na ja... wenn ich nichts von dir höre, werde ich später wieder vorbeischauen, ja? Denn mir wurde befohlen, mich zu kümmern... also... ähm... bis bald..."
 |-
-! colspan="2" |Dusa With Hypnos 03
+! colspan="2" |Duo - Dusa and Hypnos (3)
 |-
 |'''Hypnos'''
 |"Hallo, Dusa, lass mich raten! Du bist wegen der Prozession dieser Schatten gekommen, die hier schon eine ganze Weile herumstehen und den Flur ganz schön verstopfen... sie haben sich kaum bewegt!"
@@ -1012,46 +1012,46 @@
 |'''Dusa'''
 |"Ja, das stimmt, ich... muss gehen, ähm, ich hoffe, du wirst dich etwas ausruhen, ja?"
 |-
-! colspan="2" |Dusa With Hypnos 04
+! colspan="2" |Duo - Dusa and Hypnos (4)
 |-
 |'''Dusa'''
-|"Ich kann es nicht fassen, Herr Hypnos, wie... ''hast du das nur geschafft''? Alle Schatten, die in der Schlange stehen, sie... haben sich ein ganzes Stück weiterbewegt!"
+|"Ich kann es nicht fassen, Herr Hypnos, wie... *hast du das nur geschafft*? Alle Schatten, die in der Schlange stehen, sie... haben sich ein ganzes Stück weiterbewegt!"
 |-
 |'''Hypnos'''
-|"Weißt du was, du hast Recht, ''das haben sie''! Ganz klar. Es fällt nicht unbedingt sofort auf, weil sie langsam sind, aber ich habe ein scharfes Auge. Und du auch! Dir fiel es noch vor mir auf. Was hattest du mich nochmal gefragt?"
+|"Weißt du was, du hast Recht, *das haben sie*! Ganz klar. Es fällt nicht unbedingt sofort auf, weil sie langsam sind, aber ich habe ein scharfes Auge. Und du auch! Dir fiel es noch vor mir auf. Was hattest du mich nochmal gefragt?"
 |-
 |'''Dusa'''
 |"Ich fragte, wie du es geschafft hast, den Verkehr etwas schneller fließen zu lassen, und... es liegt an den Sarkophagen, nicht wahr? Da im Flur! Die Schatten trauen sich nicht, herumzustehen! Das ist genial, Herr Hypnos, ich bin beeindruckt!"
 |-
 |'''Hypnos'''
-|"Oh, ''hahaha'', das ist doch wirklich nicht der Rede wert, Dusa! Aber eines sag ich dir! Es ist gut zu wissen, dass du von mir beeindruckt bist!"
+|"Oh, *hahaha*, das ist doch wirklich nicht der Rede wert, Dusa! Aber eines sag ich dir! Es ist gut zu wissen, dass du von mir beeindruckt bist!"
 |-
 |'''Dusa'''
-|"Ich, ''haha'', würde vielleicht nicht ganz so weit gehen, ähm, egal! Ich werde dies als geklärt abhaken!"
+|"Ich, *haha*, würde vielleicht nicht ganz so weit gehen, ähm, egal! Ich werde dies als geklärt abhaken!"
 |-
-! colspan="2" |Megaera With Hypnos 01
+! colspan="2" |Duo - Megaera and Hypnos (1)
 |-
 |'''Megaera'''
 |"...Schau mal her, Hypnos. Möchtest du deinen unerbetenen Rat nochmal zum Besten geben, jetzt wo Zagreus hier ist?"
 |-
 |'''Hypnos'''
-|"Oh, ''hahaha'', na ja, ich pflege unseren Besuchern, die unfreiwillig hereinschneien, einen Fingerzeig zu geben, denn ich bringe ja dies und das in Erfahrung, wenn ich so mit jedem spreche! Über, du weißt schon... das Sterben?"
+|"Oh, *hahaha*, na ja, ich pflege unseren Besuchern, die unfreiwillig hereinschneien, einen Fingerzeig zu geben, denn ich bringe ja dies und das in Erfahrung, wenn ich so mit jedem spreche! Über, du weißt schon... das Sterben?"
 |-
 |'''Megaera'''
 |"Zagreus. Er sagte mir, ich sollte mich beim nächsten Mal stärker bemühen, deinen Angriffen auszuweichen. Dann halt da draußen schön die Augen auf, denn Hypnos hier hat deine Geheimnisse ausgeplaudert."
 |-
-! colspan="2" |Megaera With Hypnos 02
+! colspan="2" |Duo - Megaera and Hypnos (2)
 |-
 |'''Megaera'''
 |"...Ich glaube, ich finde den Weg zum Salon auch von allein, Hypnos. Oder... Moment mal... hast du mich etwa gerade zu einer Verabredung eingeladen?"
 |-
 |'''Hypnos'''
-|"Ich? Nein,'' nein-nein-nein-nein-nein'', nein! Der Gedanke würde mir niemals kommen, Fräulein, denn du hast deinen Posten und ich den meinen. Wir stammen aus zwei unterschiedlichen Welten, könnte man sagen. Dazu verdammt, nur selten zusammen gesehen zu werden."
+|"Ich? Nein,* nein-nein-nein-nein-nein*, nein! Der Gedanke würde mir niemals kommen, Fräulein, denn du hast deinen Posten und ich den meinen. Wir stammen aus zwei unterschiedlichen Welten, könnte man sagen. Dazu verdammt, nur selten zusammen gesehen zu werden."
 |-
 |'''Megaera'''
 |"Jedes Mal, wenn ich mit dir spreche, betrachtest du das irgendwie als Kompliment, stimmt's? Dann möchte ich dir einen Rat geben, ausnahmsweise. Hör auf, dich wie ein Schwachkopf zu benehmen."
 |-
-! colspan="2" |Megaera With Hypnos 03
+! colspan="2" |Duo - Megaera and Hypnos (3)
 |-
 |'''Megaera'''
 |"...Du hast mich in letzter Zeit aber nicht oft gewohnt willkommen geheißen, Hypnos. Es wäre mir nicht aufgefallen, wenn es nicht einen Großteil deiner Arbeit ausmachen würde. Wenn du mir etwas sagen willst, dann heraus mit der Sprache."

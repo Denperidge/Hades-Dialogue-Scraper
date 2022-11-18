@@ -21,10 +21,10 @@
 |"…ああ、またな。"
 |-
 |'''Zagreus'''
-|"タナトス… ''ハハ… '' 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…"
+|"タナトス… *ハハ… * 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…"
 |-
 |'''Thanatos'''
-|"''フン… ''メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？"
+|"*フン… *メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？"
 |-
 |'''Zagreus'''
 |"ハッ！そういうことか。"
@@ -56,10 +56,10 @@
 |"俺はただ… あまり強引に迫るようなことはしたくない\nだけだ。決して衝動に任せて言っているわけではないし\nおいそれと答えは出せないだろう。おまえが\n納得するまで、俺はいつまででも待つつもりだ。"
 |-
 |'''Thanatos'''
-|"''まったく… ''おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…"
+|"*まったく… *おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…"
 |-
 |'''Zagreus'''
-|"タナトス… ''ハハ… ''たしかに、そのとおりだな！"
+|"タナトス… *ハハ… *たしかに、そのとおりだな！"
 |-
 |'''Zagreus'''
 |"タナトス… どうした？\nそんなふうに黙り込まれると不安になる。\n考え事か？"
@@ -70,7 +70,7 @@
 |'''Zagreus'''
 |"ああ。もちろんだよ。"
 |-
-! colspan="2" |Megaera With Thanatos Bedroom 01
+! colspan="2" |Duo - Megaera and Thanatos Bedroom (1)
 |-
 |'''Megaera'''
 |"ザグレウス。この部屋には扉がない。\n無断で入られたからといって、なぜいちいち驚く？"
@@ -99,7 +99,7 @@
 |'''Zagreus'''
 |"…フゥ。なんというか… ハハ…"
 |-
-! colspan="2" |Thanatos With Sisyphus 01
+! colspan="2" |Duo - Thanatos and Sisyphus (1)
 |-
 |'''Thanatos'''
 |"…それと。これ以上、ザグレウス王子に\n助力することは禁ずる。よいな？"
@@ -110,7 +110,7 @@
 |'''Thanatos'''
 |"フン… 私は仕事に戻る。\nおまえも、おのれの務めを果たせ。"
 |-
-! colspan="2" |Thanatos With Sisyphus 02
+! colspan="2" |Duo - Thanatos and Sisyphus (2)
 |-
 |'''Sisyphus'''
 |"承知いたしました、タナトス様。\n今後は決して、ザグレウス王子を手助けいたしません。今度こそは、誠にございます。"
@@ -118,7 +118,7 @@
 |'''Thanatos'''
 |"おまえが前言を翻し、それが冥王の知るところと\nなれば、おまえも私もただでは済まぬ。\nよく肝に銘じておけ。"
 |-
-! colspan="2" |Thanatos With Sisyphus 03
+! colspan="2" |Duo - Thanatos and Sisyphus (3)
 |-
 |'''Thanatos'''
 |"…これでわかっただろう。死を免れようとすれば、\n恐ろしい結果を招く。今後は私の忠告に従うことだ。\nさもなくば、死後生において多大な苦痛を味わう\nことになる。"
@@ -797,7 +797,7 @@
 |'''Thanatos'''
 |"たしかに。人間たちがよく言うように、\nつかの間の平和を楽しむとしよう。\nでは、また任務中に。"
 |-
-! colspan="2" |Thanatos With Hades 01
+! colspan="2" |Duo - Thanatos and Hades (1)
 |-
 |'''Hades'''
 |"弟のヒュプノスならいざ知らず、死を司る神である\nおまえが定刻を守らぬとは。申し開きたいことが\nあれば、申してみよ。"
@@ -811,7 +811,7 @@
 |'''Thanatos'''
 |"痛み入ります。ご入り用の際は、\nいつでもお申しつけを。では、私は仕事に戻ります。"
 |-
-! colspan="2" |Thanatos With Hades 03
+! colspan="2" |Duo - Thanatos and Hades (3)
 |-
 |'''Hades'''
 |"私に隠れて、悪事の手助けを…！なんという裏切り！\nどういうつもりだ… 何か申してみよ。"
@@ -825,7 +825,7 @@
 |'''Thanatos'''
 |"心よりお詫び申し上げます…"
 |-
-! colspan="2" |Thanatos With Hades 04
+! colspan="2" |Duo - Thanatos and Hades (4)
 |-
 |'''Thanatos'''
 |"陛下、こたびは、いかなる御用でしょうか。\n前回拝謁にあずかってから、長きにわたり、\nご無沙汰しておりましたが。"
@@ -845,7 +845,7 @@
 |'''Hades'''
 |"うむ。話は以上だ。"
 |-
-! colspan="2" |Thanatos With Hypnos 01
+! colspan="2" |Duo - Thanatos and Hypnos (1)
 |-
 |'''Thanatos'''
 |"ばかばかしすぎて話にならん。\n自分が何を言っているか、わかっているのか？"
@@ -856,7 +856,7 @@
 |'''Thanatos'''
 |"おまえの相手をすると疲れる。仕事に戻れ。\n俺も忙しい。"
 |-
-! colspan="2" |Thanatos With Hypnos 02
+! colspan="2" |Duo - Thanatos and Hypnos (2)
 |-
 |'''Thanatos'''
 |"ヒュプノス、仕事中に居眠りをするな！\n怠惰にもほどがある…"
@@ -867,7 +867,7 @@
 |'''Thanatos'''
 |"…本当に殺されたくなければ、仕事に身を入れろ。\nただでさえ、この館は人手不足なのだ。\n課された任務をまっとうしろ。"
 |-
-! colspan="2" |Thanatos With Hypnos 03
+! colspan="2" |Duo - Thanatos and Hypnos (3)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、おまえの任務一覧には、俺が数年前に\n登録した仕事が多数記載されている。それから、\n今週の登録者名簿は、すでに提出しただろう？\nなぜ「完了」の欄に印がついていない？"
@@ -881,7 +881,7 @@
 |'''Hypnos'''
 |"それは大丈夫じゃないかな。だって、\nこの前陛下と話したとき、はっきり言われたもん。\nボクとはもう二度と話したくない、って！"
 |-
-! colspan="2" |Thanatos With Hypnos 04
+! colspan="2" |Duo - Thanatos and Hypnos (4)
 |-
 |'''Thanatos'''
 |"ヒュプノス、おまえに代わる要員は、いくらでもいる。\nおのれの務めを真面目に果たさないと、\n別の者に職を奪われるぞ。"
@@ -892,7 +892,7 @@
 |'''Thanatos'''
 |"話が通じていないようだな… \nいざ解雇されてから泣きついてきても、\n俺にはどうすることもできないぞ？"
 |-
-! colspan="2" |Thanatos With Hypnos 05
+! colspan="2" |Duo - Thanatos and Hypnos (5)
 |-
 |'''Thanatos'''
 |"…おまえは、この一覧を眺めるのに、どれぐらいの時を費やしている？一覧の作成に時をかけすぎると、実際に仕事をこなす暇がなくなってしまう。"
@@ -906,7 +906,7 @@
 |'''Hypnos'''
 |"“自分の優先事項の一覧”…？てことは… 自分のために、一覧を作っていいってこと？ホントに…？うわぁ…"
 |-
-! colspan="2" |Thanatos With Hypnos 06
+! colspan="2" |Duo - Thanatos and Hypnos (6)
 |-
 |'''Thanatos'''
 |"このところ、おまえが提出する報告書は\n正確を極めていると聞く。誰の手助けだ？\nザグレウスではないだろうが…"
@@ -917,7 +917,7 @@
 |'''Thanatos'''
 |"なんにせよ、おまえの仕事ぶりは向上している。\nその調子で励むことだ。"
 |-
-! colspan="2" |Thanatos With Hypnos 07
+! colspan="2" |Duo - Thanatos and Hypnos (7)
 |-
 |'''Thanatos'''
 |"…要するに、謝罪したい、ということだ。\nおまえをろくに弟扱いせず、冷淡な態度を\n取ってきたことは、自覚している。許してもらえるか？"
@@ -928,7 +928,7 @@
 |'''Thanatos'''
 |"おまえも俺も、重要な任務を担う身。\n馴れ合うことのないよう気を引き締めつつ、\n兄弟同士、互いに励むとしよう。"
 |-
-! colspan="2" |Thanatos With Hypnos 08
+! colspan="2" |Duo - Thanatos and Hypnos (8)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、ついに表彰されたか。よくやった。\n兄としても鼻が高い。"
@@ -939,7 +939,7 @@
 |'''Thanatos'''
 |"ああ。俺も似たような状況だ。互いに励むとしよう。"
 |-
-! colspan="2" |Thanatos With Nyx 01
+! colspan="2" |Duo - Thanatos and Nyx (1)
 |-
 |'''Thanatos'''
 |"母上。何か、御用命いただけることはありますか。\n自分は、館を離れがちです。お力になれることがあれば\n何なりとお申しつけを。"
@@ -950,7 +950,7 @@
 |'''Thanatos'''
 |"引き続き、尽力いたします。\n何もかも、館を管理してくださる母上のおかげ。\n母上と、この館のためなら、なんなりと。\nでは、失礼します。"
 |-
-! colspan="2" |Thanatos With Nyx 02
+! colspan="2" |Duo - Thanatos and Nyx (2)
 |-
 |'''Thanatos'''
 |"このところ、館の運営が順調なように見受けられます。\nこうしたことを不用意に口にすれば、運命の三女神が\n気まぐれに災いをもたらしかねないことは、\n承知していますが…"
@@ -961,7 +961,7 @@
 |'''Thanatos'''
 |"母上には多大なご恩があるのはもちろん、\n深く敬愛もしております。\nわれわれがこうして在るのも、すべて母上のおかげ。\n自分も、この館の他の者たちも皆、母上へのご恩を\n肝に銘じております。どうか、ご安心を。"
 |-
-! colspan="2" |Thanatos With Megaera 01
+! colspan="2" |Duo - Thanatos and Megaera (1)
 |-
 |'''Megaera'''
 |"…とはいえ、それも昔のこと。今のわれわれには、果たすべき職務が… タナトス、話の続きは、別の機会にしたほうがよさそうだ。"
@@ -972,7 +972,7 @@
 |'''Megaera'''
 |"かまわない。好きにさせておけ。\nこの男は館への出入りこそ許されているが、\nもはやここにおのれの居場所はないことを、\n思い知ったほうがいい。"
 |-
-! colspan="2" |Thanatos With Persephone 01
+! colspan="2" |Duo - Thanatos and Persephone (1)
 |-
 |'''Thanatos'''
 |"ペルセポネ女王陛下、よくぞご帰還されました。\n当館にとって、この上ない慶事。館での生活で\nご不自由があれば、何なりと私にお申しつけを。\nすぐに対処いたします。"
@@ -983,7 +983,7 @@
 |'''Thanatos'''
 |"女王陛下のご子息は… 自立性の極めて高い方です。\nとはいえ、必要とあらばお力になれるよう、\n常に心掛けてまいりました。\n…失敬、そろそろ、地上での任務に戻らなくては。"
 |-
-! colspan="2" |Thanatos With Persephone 02
+! colspan="2" |Duo - Thanatos and Persephone (2)
 |-
 |'''Thanatos'''
 |"…もったいないお言葉、痛み入ります。ご子息と私は、\n幼少の時分より親しくさせていただいておりましたが、\nこたびの試練を共に切り抜けたことで、その絆は\n切っても切れぬものとなりました。"
@@ -1272,7 +1272,7 @@
 |'''Thanatos'''
 |"…そろそろ、仕事に戻った方がよさそうだ。"
 |-
-! colspan="2" |Thanatos Chat With Megaera 01
+! colspan="2" |Duo - Chat and Megaera (1)
 |-
 |'''Megaera'''
 |"ザグ、今はタナトスとふたりで話したい。"
@@ -1280,7 +1280,7 @@
 |'''Thanatos'''
 |"ザグレウス、話ならあとで聞く。"
 |-
-! colspan="2" |Thanatos Chat With Megaera 02
+! colspan="2" |Duo - Chat and Megaera (2)
 |-
 |'''Thanatos'''
 |"今、メガイラと話しているところだ。"
@@ -1288,7 +1288,7 @@
 |'''Megaera'''
 |"ちょうど今、おまえのことを話していた。"
 |-
-! colspan="2" |Thanatos Chat With Megaera 03
+! colspan="2" |Duo - Chat and Megaera (3)
 |-
 |'''Megaera'''
 |"タナトス、ザグレウスが来たぞ。"
@@ -1296,7 +1296,7 @@
 |'''Thanatos'''
 |"ザグ、ゆっくりしていくといい。"
 |-
-! colspan="2" |Thanatos Chat With Megaera 04
+! colspan="2" |Duo - Chat and Megaera (4)
 |-
 |'''Megaera'''
 |"タナトスと話がある。あとにしてもらえるか？"
@@ -1304,7 +1304,7 @@
 |'''Thanatos'''
 |"メガイラと仕事の打ち合わせ中だ。"
 |-
-! colspan="2" |Thanatos Chat With Megaera 05
+! colspan="2" |Duo - Chat and Megaera (5)
 |-
 |'''Megaera'''
 |"タナトス。見ろ、ザグレウスが来たぞ。"
@@ -1312,37 +1312,37 @@
 |'''Thanatos'''
 |"今、仕事の件で打ち合わせをしている。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 01
+! colspan="2" |Duo - Chat and Hypnos (1)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、万事順調なようだな。悪くない働きだ。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 02
+! colspan="2" |Duo - Chat and Hypnos (2)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、睡眠なら、\n勤務終了後にいくらでも取れる。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 03
+! colspan="2" |Duo - Chat and Hypnos (3)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、前回の報告書、\nなかなかの出来だったと聞いている。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 04
+! colspan="2" |Duo - Chat and Hypnos (4)
 |-
 |'''Thanatos'''
 |"…ヒュプノス、元気にやっているようで、何よりだ。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 05
+! colspan="2" |Duo - Chat and Hypnos (5)
 |-
 |'''Thanatos'''
 |"新たな登録者は以上だが、じきに追加が来る予定だ。"
 |-
-! colspan="2" |Thanatos Chat With Hypnos 06
+! colspan="2" |Duo - Chat and Hypnos (6)
 |-
 |'''Thanatos'''
 |"…では、俺は仕事に戻る。また会おう、ヒュプノス。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 01
+! colspan="2" |Duo - Chat and Nyx (1)
 |-
 |'''Nyx'''
 |"…あなたに、次の任務を課します。"
@@ -1350,12 +1350,12 @@
 |'''Thanatos'''
 |"承知いたしました、母上。早急に遂行いたします。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 02
+! colspan="2" |Duo - Chat and Nyx (2)
 |-
 |'''Thanatos'''
 |"…承知いたしました。では、任務に取りかかります。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 03
+! colspan="2" |Duo - Chat and Nyx (3)
 |-
 |'''Nyx'''
 |"…この任務では、あなたの知見が必要となります。"
@@ -1363,47 +1363,47 @@
 |'''Thanatos'''
 |"なんなりと。早急に遂行のうえ、帰投いたします。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 04
+! colspan="2" |Duo - Chat and Nyx (4)
 |-
 |'''Thanatos'''
 |"…承知いたしました。完了次第、ご報告に上がります。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 05
+! colspan="2" |Duo - Chat and Nyx (5)
 |-
 |'''Thanatos'''
 |"本件、私に御用命いただき、ありがとうございます。\n早急に遂行いたします。"
 |-
-! colspan="2" |Thanatos Chat With Nyx 06
+! colspan="2" |Duo - Chat and Nyx (6)
 |-
 |'''Thanatos'''
 |"…御用命いただいた件、完遂しました。\n持ち場に戻ります。"
 |-
-! colspan="2" |Thanatos Chat With Hades 01
+! colspan="2" |Duo - Chat and Hades (1)
 |-
 |'''Thanatos'''
 |"…承知いたしました、陛下。\n片づき次第、ご報告に上がります。"
 |-
-! colspan="2" |Thanatos Chat With Hades 02
+! colspan="2" |Duo - Chat and Hades (2)
 |-
 |'''Thanatos'''
 |"…はっ。すぐに取りかかります。\n完了するまでは、戻りません。"
 |-
-! colspan="2" |Thanatos Chat With Hades 03
+! colspan="2" |Duo - Chat and Hades (3)
 |-
 |'''Thanatos'''
 |"…御用件は、以上でしょうか。\nでは、私は地上に戻ります。"
 |-
-! colspan="2" |Thanatos Chat With Hades 04
+! colspan="2" |Duo - Chat and Hades (4)
 |-
 |'''Thanatos'''
 |"…承知いたしました。\nその者たちの居場所はわかっております。\nすぐに勾引いたします。"
 |-
-! colspan="2" |Thanatos Chat With Hades 05
+! colspan="2" |Duo - Chat and Hades (5)
 |-
 |'''Thanatos'''
 |"…陛下よりご信頼を賜り、光栄の至りです。"
 |-
-! colspan="2" |Thanatos Chat With Hades 06
+! colspan="2" |Duo - Chat and Hades (6)
 |-
 |'''Thanatos'''
 |"…本件については早急に処理したのち、\nご報告に上がります。"

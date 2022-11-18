@@ -9,13 +9,13 @@
 |"Megaira, Tis, seid ihr bereit?"
 |-
 |'''Tisiphone'''
-|"''Mmörrderr''!"
+|"*Mmörrderr*!"
 |-
 |'''Zagreus'''
 |"Drei gegen einen. Das scheint mir nicht sehr gerecht!"
 |-
 |'''Megaera'''
-|"Die Zeit der Gerechtigkeit ist für jeden von uns schon lange vorbei. Wir werden dich töten, egal zu welchem Preis. Erinyen! ''Jetzt''."
+|"Die Zeit der Gerechtigkeit ist für jeden von uns schon lange vorbei. Wir werden dich töten, egal zu welchem Preis. Erinyen! *Jetzt*."
 |-
 ! colspan="2" |Fury Sister Union Single Sis 01
 |-
@@ -23,7 +23,7 @@
 |"Siehst du, Alekto? Er ist pünktlich, genau wie ich gesagt habe."
 |-
 |'''Alecto'''
-|"Megaira, bring ihn zum ''Bluten''!"
+|"Megaira, bring ihn zum *Bluten*!"
 |-
 ! colspan="2" |Fury 2 Sister Union 01
 |-
@@ -35,18 +35,18 @@
 |'''Alecto'''
 |"Sieh mal einer an, Schwesterherz! Der Gott des Abschaums ist hier. Machen wir uns an die Arbeit."
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 01
+! colspan="2" |Duo - Union and Meg (1)
 |-
 |'''Alecto'''
-|"Ugh, ''sieh ''dir ihn nur an! Dieser selbstgefällige Blick, diese Haltung, ''einfach alles''! Bitte sag mir, dass du bei diesem Gott des Abschaums nicht weich wirst, Schwester."
+|"Ugh, *sieh *dir ihn nur an! Dieser selbstgefällige Blick, diese Haltung, *einfach alles*! Bitte sag mir, dass du bei diesem Gott des Abschaums nicht weich wirst, Schwester."
 |-
 |'''Megaera'''
 |"Jetzt komm schon, Alekto. Wann war denn das letzte Mal, als du meine Zustimmung gesucht hast oder ich die deine? Außerdem was kümmert es dich, solange wir ihn töten?"
 |-
 |'''Alecto'''
-|"Guter Punkt, Schwester! Das hast du sehr schön gesagt. ''Komm schon, töten wir ihn''!"
+|"Guter Punkt, Schwester! Das hast du sehr schön gesagt. *Komm schon, töten wir ihn*!"
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 02
+! colspan="2" |Duo - Union and Meg (2)
 |-
 |'''Alecto'''
 |"Sieh dir dieses schreckliche Stück Abschaum an! Taucht schon wieder hier auf und blutet unseren ganzen Boden voll. Bist du bereit, es mit meiner lieblichen Schwester aufzunehmen, Rotblut?"
@@ -55,7 +55,7 @@
 |"So schrecklich ist er gar nicht, wenn du ihn erstmal näher kennenlernst, Schwesterherz. Nicht, dass es eine Rolle spielt, bei dem, was wir gleich mit ihm tun werden."
 |-
 |'''Alecto'''
-|"Ihr beide widert mich an, Meg, weißt du das? Reiß dich zusammen und ''töte ''ihn endlich, verdammt!"
+|"Ihr beide widert mich an, Meg, weißt du das? Reiß dich zusammen und *töte *ihn endlich, verdammt!"
 |-
 ! colspan="2" |Fury 2 Pact Reaction 01
 |-
@@ -66,23 +66,23 @@
 |"Um die Wahrheit zu sagen, das habe ich in der Tat. Aber ich wüsste wirklich nicht, was dich das angeht, Alekto."
 |-
 |'''Alecto'''
-|"Ich arbeite gern ''allein''! Und wie du ganz klar sehen kannst, tue ich das im Moment nicht! Deshalb geht mich das sehr wohl etwas an. Und was mich außerdem noch angeht: ''dich '' zu töten!"
+|"Ich arbeite gern *allein*! Und wie du ganz klar sehen kannst, tue ich das im Moment nicht! Deshalb geht mich das sehr wohl etwas an. Und was mich außerdem noch angeht: *dich * zu töten!"
 |-
 ! colspan="2" |Fury 2 Pact Disabled Reaction 01
 |-
 |'''Alecto'''
-|"''Puh''! Und ich dachte schon, dass niemals mehr Ruhe einkehren würde, Rotblut! Dieser verdammte Pakt, den du aus reiner Dummheit unterzeichnet hast, zwingt mich dazu, wieder mit meinen Schwestern zusammenzuarbeiten. Das wirst du mir noch büßen!"
+|"*Puh*! Und ich dachte schon, dass niemals mehr Ruhe einkehren würde, Rotblut! Dieser verdammte Pakt, den du aus reiner Dummheit unterzeichnet hast, zwingt mich dazu, wieder mit meinen Schwestern zusammenzuarbeiten. Das wirst du mir noch büßen!"
 |-
 |'''Zagreus'''
 |"Ich erkenne da ein gewisses Muster, dass es nicht wirklich viel dazu braucht, mich für etwas büßen zu lassen, stimmt's?"
 |-
 |'''Alecto'''
-|"Oh, das sagt der Richtige! Wie clever von dir, du bist ja so ''klug''! Weißt du was, dafür lasse ich dich auch büßen."
+|"Oh, das sagt der Richtige! Wie clever von dir, du bist ja so *klug*! Weißt du was, dafür lasse ich dich auch büßen."
 |-
 ! colspan="2" |Fury 2 First Appearance
 |-
 |'''Alecto'''
-|"''Ah, hah hah, hohohohohhh. ''Endlich. Darauf habe ich so lange gewartet. Wirklich."
+|"*Ah, hah hah, hohohohohhh. *Endlich. Darauf habe ich so lange gewartet. Wirklich."
 |-
 |'''Zagreus'''
 |"Du musst eine von Megairas lieblichen Schwestern sein. Ich denke nicht, dass wir schon das Vergnügen hatten. Auf was genau hast du denn schon so lange gewartet?"
@@ -116,7 +116,7 @@
 |"Weißt du, Alekto, diese Besuche bei dir sind mir so sehr ans Herz gewachsen, dass sie mir zur festen Gewohnheit geworden sind. Und gute Gewohnheiten soll man pflegen, sage ich immer!"
 |-
 |'''Alecto'''
-|"Du nennst das eine gute Gewohnheit, huh?! Vielleicht ist es das ja für mich. Na dann komm hierher, so oft du magst, ich werde hier auf dich warten, '' jedes einzelne Mal''. Oder zumindest jedes dritte Mal."
+|"Du nennst das eine gute Gewohnheit, huh?! Vielleicht ist es das ja für mich. Na dann komm hierher, so oft du magst, ich werde hier auf dich warten, * jedes einzelne Mal*. Oder zumindest jedes dritte Mal."
 |-
 ! colspan="2" |Fury 2 Post Epilogue 01
 |-
@@ -127,23 +127,23 @@
 |"Nächstes Mal auf alle Fälle, Alekto. Wir haben dich total vermisst und hätten uns gefreut, wenn du dabei sein hättest können!"
 |-
 |'''Alecto'''
-|"''Hohoho'', da bin ich mir fast sicher. Aber zuerst kommt die Arbeit, dann das Vergnügen! Also, lass uns anfangen."
+|"*Hohoho*, da bin ich mir fast sicher. Aber zuerst kommt die Arbeit, dann das Vergnügen! Also, lass uns anfangen."
 |-
 ! colspan="2" |Fury 2 End Of Discussion 01
 |-
 |'''Alecto'''
-|"He, Rotblut. Ich habe viel nachgegrübelt und bin zu dem Entschluss gekommen, dass ich ''nie mehr ''ein Wort von dir hören möchte. ''Nie wieder''. Haben wir uns verstanden?"
+|"He, Rotblut. Ich habe viel nachgegrübelt und bin zu dem Entschluss gekommen, dass ich *nie mehr *ein Wort von dir hören möchte. *Nie wieder*. Haben wir uns verstanden?"
 |-
 |'''Zagreus'''
 |"...Ähm, ich weiß nicht, wie ich darauf antworten soll, ohne direkt dein Ansuchen zu missachten, Alekto. Aber gut, in Zukunft werde ich es mir verkneifen."
 |-
 |'''Alecto'''
-|"Du wirst ''sterben''! Es bringt nichts, hier weiter groß herumzutönen, wenn wir stattdessen direkt zum Töten übergehen können. Komm schon!"
+|"Du wirst *sterben*! Es bringt nichts, hier weiter groß herumzutönen, wenn wir stattdessen direkt zum Töten übergehen können. Komm schon!"
 |-
 ! colspan="2" |Fury 2 Low Health 01
 |-
 |'''Alecto'''
-|"''Aah'', schau dich mal an, Rotblut. Du bist ja schon fast tot! Na das macht ja gar keinen Spaß."
+|"*Aah*, schau dich mal an, Rotblut. Du bist ja schon fast tot! Na das macht ja gar keinen Spaß."
 |-
 |'''Zagreus'''
 |"Ich enttäusche dich nur ungern, Alekto. Ich weiß, dass du ganz allein mein Blut vergießen möchtest."
@@ -197,7 +197,7 @@
 ! colspan="2" |Fury 2 Misc Encounter 02
 |-
 |'''Alecto'''
-|"Weißt du was ich an dir am meisten mag? Die Art und Weise wie du blutest. ''Mmm''."
+|"Weißt du was ich an dir am meisten mag? Die Art und Weise wie du blutest. *Mmm*."
 |-
 |'''Zagreus'''
 |"Das ... ist nicht die Art von Schmeichelei, die ich sonst so gewöhnt bin. Das ist mir direkt etwas unangenehm."
@@ -247,7 +247,7 @@
 |"Siehst du, Alekto? Wir haben schließlich doch ein gemeinsames Interesse."
 |-
 |'''Alecto'''
-|"Hast du gerade ...? Vergleiche dich ''nie wieder ''mit mir, du Abschaum. Du willst mehr Schmerzen? Diesem Wunsch komme ich dir gern nach."
+|"Hast du gerade ...? Vergleiche dich *nie wieder *mit mir, du Abschaum. Du willst mehr Schmerzen? Diesem Wunsch komme ich dir gern nach."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 07
 |-
@@ -274,13 +274,13 @@
 ! colspan="2" |Fury 2 Misc Encounter 09
 |-
 |'''Alecto'''
-|"Soll ich dir was sagen, Rotblut? Meine Verabredungen kommen für gewöhnlich nicht zu ''mir'', geschweige denn öfter als einmal! Du denkst wohl, ich bin nur zu deiner Unterhaltung hier, was?!"
+|"Soll ich dir was sagen, Rotblut? Meine Verabredungen kommen für gewöhnlich nicht zu *mir*, geschweige denn öfter als einmal! Du denkst wohl, ich bin nur zu deiner Unterhaltung hier, was?!"
 |-
 |'''Zagreus'''
 |"Alekto, ich freue mich jedes Mal über dein bedrohliches Lächeln. Und überhaupt, mich mit dir ab und zu herumschlagen zu müssen, ist allemal besser, als ständig mit Meg zu kämpfen."
 |-
 |'''Alecto'''
-|"''Wie bitte''?! Du denkst also, dich mit ''mir ''herumzuschlagen ist besser, als dich mit diesem ''Schwächling '' auseinanderzusetzen? ''Graaaah''!"
+|"*Wie bitte*?! Du denkst also, dich mit *mir *herumzuschlagen ist besser, als dich mit diesem *Schwächling * auseinanderzusetzen? *Graaaah*!"
 |-
 ! colspan="2" |Fury 2 Misc Encounter 10
 |-
@@ -307,13 +307,13 @@
 ! colspan="2" |Fury 2 About Megaera Relationship 01
 |-
 |'''Alecto'''
-|"''Ugh'', ich kann immer noch nicht glauben, dass sich Megaira mit dir eingelassen hat, Rotblut. Trotz all ihrer Schwächen war ich immer der Meinung, dass sie ihre Arbeit hier ernst nimmt. Aber man lernt wohl nie aus!"
+|"*Ugh*, ich kann immer noch nicht glauben, dass sich Megaira mit dir eingelassen hat, Rotblut. Trotz all ihrer Schwächen war ich immer der Meinung, dass sie ihre Arbeit hier ernst nimmt. Aber man lernt wohl nie aus!"
 |-
 |'''Zagreus'''
 |"An deinen bissigen Bemerkungen über deine Schwester bin ich nicht interessiert, Alekto. Aber wenn du damit nicht aufhörst, dann könnte ich wütend werden. Ich warne dich!"
 |-
 |'''Alecto'''
-|"''Ohh'', du könntest ''wütend '' werden? Du würdest Megairas Ehre verteidigen, weil sie selbst viel zu schwach dafür ist? Du denkst, dass sie so rein ist, ''hahaha''! Ihr widert mich an! Alle beide."
+|"*Ohh*, du könntest *wütend * werden? Du würdest Megairas Ehre verteidigen, weil sie selbst viel zu schwach dafür ist? Du denkst, dass sie so rein ist, *hahaha*! Ihr widert mich an! Alle beide."
 |-
 ! colspan="2" |Fury 2 Win Streak 01
 |-
@@ -335,7 +335,7 @@
 |"Das kann ich mir gut vorstellen, aber ich habe mittlerweile dieses ganze Geplänkel zwischen uns richtig zu schätzen gelernt."
 |-
 |'''Alecto'''
-|"''Argh'', mir ist es wirklich unangenehm, dir so eine Abfuhr zu erteilen, Rotblut, aber du bist einfach nicht mein Typ. Vielleicht geht es dir ja dieses Mal in den Kopf."
+|"*Argh*, mir ist es wirklich unangenehm, dir so eine Abfuhr zu erteilen, Rotblut, aber du bist einfach nicht mein Typ. Vielleicht geht es dir ja dieses Mal in den Kopf."
 |-
 ! colspan="2" |Fury 2 Lose Streak 01
 |-
@@ -346,7 +346,7 @@
 |"Vergebung braucht Zeit. Aber Selbsterkenntnis ist ein Schritt in die richtige Richtung. Wir machen Fortschritte!"
 |-
 |'''Alecto'''
-|"Du denkst, wir machen Fortschritte? Hier? ''Ah, hah, ha-hah, ha-hah, ha-hah, ''du Stück Abschaum. Ich zeige dir, wo wir Fortschritte machen."
+|"Du denkst, wir machen Fortschritte? Hier? *Ah, hah, ha-hah, ha-hah, ha-hah, *du Stück Abschaum. Ich zeige dir, wo wir Fortschritte machen."
 |-
 ! colspan="2" |Fury 2 Lose Streak 02
 |-
@@ -357,23 +357,23 @@
 |"Ist es dir schon einmal in den Sinn gekommen, mich einfach in Ruhe zu lassen und dorthin zurückzukehren, von wo auch immer du hergekommen bist?"
 |-
 |'''Alecto'''
-|"Siehst du? Das ist ''genau '' das, was ich meine. Ich darf gar nicht daran denken, dass Megaira sich mit dir wer weiß wie lange rumschlagen musste."
+|"Siehst du? Das ist *genau * das, was ich meine. Ich darf gar nicht daran denken, dass Megaira sich mit dir wer weiß wie lange rumschlagen musste."
 |-
 ! colspan="2" |Fury 2 Lose Streak 03
 |-
 |'''Alecto'''
-|"Verdammt seist du dafür, Rotblut. Jetzt sehe ich schlecht aus. Und ''fühle ''mich auch schlecht."
+|"Verdammt seist du dafür, Rotblut. Jetzt sehe ich schlecht aus. Und *fühle *mich auch schlecht."
 |-
 |'''Zagreus'''
 |"Alekto, ich habe dich nicht darum gebeten, mir ständig nach dem Leben zu trachten. Was hast du erwartet, wie ich wohl darauf reagiere?"
 |-
 |'''Alecto'''
-|"''Ah-hahah-hahaha, hahah'', du hast keine Ahnung, was passiert, wenn ich mich schlecht ''fühle'', oder ...?"
+|"*Ah-hahah-hahaha, hahah*, du hast keine Ahnung, was passiert, wenn ich mich schlecht *fühle*, oder ...?"
 |-
 ! colspan="2" |Fury 2 Lose Streak 04
 |-
 |'''Alecto'''
-|"''Hoh'', der Gott des Abschaums beehrt uns schon wieder mit seiner Anwesenheit und verdreckt alles! Du bist mittlerweile ziemlich leicht zu durchschauen."
+|"*Hoh*, der Gott des Abschaums beehrt uns schon wieder mit seiner Anwesenheit und verdreckt alles! Du bist mittlerweile ziemlich leicht zu durchschauen."
 |-
 |'''Zagreus'''
 |"In Anbetracht der Tatsache, dass ich dich bei unserem letzten Aufeinandertreffen besiegt habe, würde ich mir eher Gedanken über deine Durchschaubarkeit machen."
@@ -384,7 +384,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 01
 |-
 |'''Alecto'''
-|"''Ohh'', da ist er, Schwestern. Los gehts, an die Arbeit."
+|"*Ohh*, da ist er, Schwestern. Los gehts, an die Arbeit."
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 03
 |-
@@ -414,7 +414,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 08
 |-
 |'''Alecto'''
-|"Wir alle drei gegen ''diesen ''Abschaum, Schwestern? Dann mal los!"
+|"Wir alle drei gegen *diesen *Abschaum, Schwestern? Dann mal los!"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 09
 |-
@@ -422,7 +422,7 @@
 |"Die drei Erinyen gegen den Gott des Abschaums! Was für ein Kampf!"
 |-
 |'''Alecto'''
-|"Oh, ''hohohohoho'', seht ihn euch an, Schwestern! Bekommt ihr da nicht Lust, ihn in der Luft zu zerfetzen?!"
+|"Oh, *hohohohoho*, seht ihn euch an, Schwestern! Bekommt ihr da nicht Lust, ihn in der Luft zu zerfetzen?!"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 10
 |-
@@ -582,7 +582,7 @@
 ! colspan="2" |Fury 2 Misc Start Vs Fury Lose Streak 04
 |-
 |'''Alecto'''
-|"''Hah''! Das sieht mir ganz nach der Handschrift von Megaira aus. Machen wir dich mal wieder sauber."
+|"*Hah*! Das sieht mir ganz nach der Handschrift von Megaira aus. Machen wir dich mal wieder sauber."
 |-
 ! colspan="2" |Fury 2 Misc Start Vs Fury 3 Lose Streak 01
 |-
@@ -647,7 +647,7 @@
 ! colspan="2" |Fury 2 Misc Start 09
 |-
 |'''Alecto'''
-|"''Ohhh'', du bist den ganzen Weg gekommen! Ich fühle mich geschmeichelt, Rotblut."
+|"*Ohhh*, du bist den ganzen Weg gekommen! Ich fühle mich geschmeichelt, Rotblut."
 |-
 ! colspan="2" |Fury 2 Misc Start 10
 |-
@@ -697,7 +697,7 @@
 ! colspan="2" |Fury 2 Misc Start 18
 |-
 |'''Alecto'''
-|"Jemand stirbt hier bald, Rotblut!''Ohh'', ich kann es kaum erwarten."
+|"Jemand stirbt hier bald, Rotblut!*Ohh*, ich kann es kaum erwarten."
 |-
 ! colspan="2" |Fury 2 Misc Start 19
 |-
@@ -717,22 +717,22 @@
 ! colspan="2" |Fury 2 Misc Start 22
 |-
 |'''Alecto'''
-|"Was ist denn los da drüben, Rotblut? Bist ziemlich still geworden! Hab ich etwa deine Gefühle verletzt, ''hm''?"
+|"Was ist denn los da drüben, Rotblut? Bist ziemlich still geworden! Hab ich etwa deine Gefühle verletzt, *hm*?"
 |-
 ! colspan="2" |Fury 2 Misc Start 23
 |-
 |'''Alecto'''
-|"''Ohh '' und ich werde dir jeden letzten Tropfen Blut auspressen."
+|"*Ohh * und ich werde dir jeden letzten Tropfen Blut auspressen."
 |-
 ! colspan="2" |Fury 2 Misc Start 24
 |-
 |'''Alecto'''
-|"Du willst dich ''schon wieder '' mit mir anlegen, Rotblut?! Na gut, ''komm schon''!"
+|"Du willst dich *schon wieder * mit mir anlegen, Rotblut?! Na gut, *komm schon*!"
 |-
 ! colspan="2" |Fury 2 Misc Start 25
 |-
 |'''Alecto'''
-|"Wie kann es sein, dass ich zwar deiner Person überdrüssig bin, aber niemals der Sache, dich zu ''töten'', Rotblut?"
+|"Wie kann es sein, dass ich zwar deiner Person überdrüssig bin, aber niemals der Sache, dich zu *töten*, Rotblut?"
 |-
 ! colspan="2" |Fury 2 Misc Start 26
 |-
@@ -767,7 +767,7 @@
 ! colspan="2" |Fury 2 Misc Start 30
 |-
 |'''Alecto'''
-|"Ich bin der Warterei wirklich leid hier. Wie wär's also, wenn wir das ''schnell erledigen'', Rotblut!"
+|"Ich bin der Warterei wirklich leid hier. Wie wär's also, wenn wir das *schnell erledigen*, Rotblut!"
 |-
 ! colspan="2" |Fury 2 Misc Start 31
 |-
@@ -782,7 +782,7 @@
 ! colspan="2" |Fury 2 Misc Start 33
 |-
 |'''Alecto'''
-|"''Ohh'', das wird ein Spaß hier, Rotblut!"
+|"*Ohh*, das wird ein Spaß hier, Rotblut!"
 |-
 ! colspan="2" |Fury 2 Misc Start 34
 |-

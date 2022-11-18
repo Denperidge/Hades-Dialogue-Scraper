@@ -9,13 +9,13 @@
 |"Megera, Tis, ¿listas?"
 |-
 |'''Tisiphone'''
-|"¡''Asssesssinooo''!"
+|"¡*Asssesssinooo*!"
 |-
 |'''Zagreus'''
 |"Tres contra uno. No parece muy justo, ¿no?"
 |-
 |'''Megaera'''
-|"La justicia dejó de preocuparnos hace tiempo. Te mataremos, sea como sea. ¡Erinias! ¡''Ahora''!"
+|"La justicia dejó de preocuparnos hace tiempo. Te mataremos, sea como sea. ¡Erinias! ¡*Ahora*!"
 |-
 ! colspan="2" |Fury Sister Union Single Sis 01
 |-
@@ -23,7 +23,7 @@
 |"¿Lo ves, Alecto? Llega justo a tiempo, como te dije."
 |-
 |'''Alecto'''
-|"Megera, ¡''desángralo''!"
+|"Megera, ¡*desángralo*!"
 |-
 ! colspan="2" |Fury 2 Sister Union 01
 |-
@@ -35,18 +35,18 @@
 |'''Alecto'''
 |"¡Mira, hermanita! Ha venido el dios de la basura. A por él."
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 01
+! colspan="2" |Duo - Union and Meg (1)
 |-
 |'''Alecto'''
-|"¡Pero ''míralo''! Esa cara de engreído, esa pose, ¡''todo''! Dime que no te está ablandando el corazón ese dios de la basura, hermana."
+|"¡Pero *míralo*! Esa cara de engreído, esa pose, ¡*todo*! Dime que no te está ablandando el corazón ese dios de la basura, hermana."
 |-
 |'''Megaera'''
 |"Vamos, Alecto. ¿Cuándo fue la última vez que una de nosotras pidió su aprobación a las demás? Y si conseguimos matarlo, ¿qué más te da?"
 |-
 |'''Alecto'''
-|"¿Sabes qué? Tienes razón, hermana, bien dicho. ''¡Matémoslo ya!''"
+|"¿Sabes qué? Tienes razón, hermana, bien dicho. *¡Matémoslo ya!*"
 |-
-! colspan="2" |Fury 2 Sister Union With Meg 02
+! colspan="2" |Duo - Union and Meg (2)
 |-
 |'''Alecto'''
 |"Mira este pedazo de basura, vuelve a desangrarse en nuestro bonito suelo recién pulido. ¿Listo para luchar contra mi adorable hermana, sangre roja?"
@@ -55,7 +55,7 @@
 |"Una vez que lo conoces no está tan mal, hermana. Aunque para lo que le vamos a hacer, no importa."
 |-
 |'''Alecto'''
-|"Me dais asco los dos, Meg, ¿lo sabías? ¡Recupera la compostura y ''mátalo ''esta vez, maldita sea!"
+|"Me dais asco los dos, Meg, ¿lo sabías? ¡Recupera la compostura y *mátalo *esta vez, maldita sea!"
 |-
 ! colspan="2" |Fury 2 Pact Reaction 01
 |-
@@ -66,23 +66,23 @@
 |"Pues de hecho sí, aunque no veo por qué tiene que ser asunto tuyo, Alecto."
 |-
 |'''Alecto'''
-|"¡Me gusta trabajar ''a solas''! Y ahora no me ves hacerlo, ¿verdad? Así que diría que sí que es asunto mío. Igual que lo de ''matarte''."
+|"¡Me gusta trabajar *a solas*! Y ahora no me ves hacerlo, ¿verdad? Así que diría que sí que es asunto mío. Igual que lo de *matarte*."
 |-
 ! colspan="2" |Fury 2 Pact Disabled Reaction 01
 |-
 |'''Alecto'''
-|"¡''Fiu''! Pensaba que no iba a tener un momento tranquilo nunca más, sangre roja. Por ese maldito pacto que firmaste como un imbécil y que hace que trabaje con mis hermanas de nuevo. ¡Me las pagarás!"
+|"¡*Fiu*! Pensaba que no iba a tener un momento tranquilo nunca más, sangre roja. Por ese maldito pacto que firmaste como un imbécil y que hace que trabaje con mis hermanas de nuevo. ¡Me las pagarás!"
 |-
 |'''Zagreus'''
 |"Empiezo a ver un patrón: haga lo que haga yo, vas a jurar que te las pagaré, ¿verdad?"
 |-
 |'''Alecto'''
-|"¡Pero qué descaro! ¡Qué listo eres, eres un ''listillo''! ¿Sabes qué? Me las pagarás por eso también."
+|"¡Pero qué descaro! ¡Qué listo eres, eres un *listillo*! ¿Sabes qué? Me las pagarás por eso también."
 |-
 ! colspan="2" |Fury 2 First Appearance
 |-
 |'''Alecto'''
-|"''Ah, ja, ja. Jo, jo, jo, jo''. Por fin. Esperaba este momento. En serio."
+|"*Ah, ja, ja. Jo, jo, jo, jo*. Por fin. Esperaba este momento. En serio."
 |-
 |'''Zagreus'''
 |"Tú debes de ser una de las encantadoras hermanas de Megera. Creo que no nos han presentado aún. Y... ¿qué esperabas, exactamente?"
@@ -116,7 +116,7 @@
 |"Bueno, ya sabes... He aprendido a disfrutar de estas visitas, Alecto, hasta el punto de que lo he convertido en parte de mi rutina. ¡"Crea buenos hábitos y no los abandones nunca", como suelo decir!"
 |-
 |'''Alecto'''
-|"¿Te parece esto un "buen hábito"? Puede que para mí sí lo sea. En fin, ven tantas veces como quieras y estaré esperándote ''siempre''. Bueno, ¡una de cada tres veces al menos!"
+|"¿Te parece esto un "buen hábito"? Puede que para mí sí lo sea. En fin, ven tantas veces como quieras y estaré esperándote *siempre*. Bueno, ¡una de cada tres veces al menos!"
 |-
 ! colspan="2" |Fury 2 Post Epilogue 01
 |-
@@ -127,23 +127,23 @@
 |"Pues sí, Alecto. Te hemos echado de menos, ¡ojalá pudieras haber venido!"
 |-
 |'''Alecto'''
-|"''Jo, jo, jo'', seguro. Pero ya sabes, el trabajo es lo primero. Manos a la obra."
+|"*Jo, jo, jo*, seguro. Pero ya sabes, el trabajo es lo primero. Manos a la obra."
 |-
 ! colspan="2" |Fury 2 End Of Discussion 01
 |-
 |'''Alecto'''
-|"Eh, sangre roja, he estado pensando y he llegado a la conclusión de que quiero que no me vuelvas a hablar ''nunca''. ''En absoluto''. ¿Lo captas?"
+|"Eh, sangre roja, he estado pensando y he llegado a la conclusión de que quiero que no me vuelvas a hablar *nunca*. *En absoluto*. ¿Lo captas?"
 |-
 |'''Zagreus'''
 |"Esto... No sé cómo responder a lo que has dicho sin desobedecer directamente tu petición, Alecto. Pero para el futuro, de acuerdo."
 |-
 |'''Alecto'''
-|"¡No esperaba tu ''aprobación''! Para qué darle a la lengua cuando podríamos pasar directamente a intentar matarnos mutuamente. ¡Vamos!"
+|"¡No esperaba tu *aprobación*! Para qué darle a la lengua cuando podríamos pasar directamente a intentar matarnos mutuamente. ¡Vamos!"
 |-
 ! colspan="2" |Fury 2 Low Health 01
 |-
 |'''Alecto'''
-|"''Ahh'', mírate, sangre roja. ¡Estás prácticamente muerto! Así no tiene gracia."
+|"*Ahh*, mírate, sangre roja. ¡Estás prácticamente muerto! Así no tiene gracia."
 |-
 |'''Zagreus'''
 |"Siento defraudarte, Alecto. Sé que te gusta ser totalmente responsable de mis heridas."
@@ -171,7 +171,7 @@
 |"Me he encontrado algunas complicaciones, si es lo que preguntas. Pero no te preocupes, me queda mucha sangre por derramar."
 |-
 |'''Alecto'''
-|"Oh. ''Ufff'', ¡menos mal! Me preocupaba que no fuera a ser yo quien te matara esta vez."
+|"Oh. *Ufff*, ¡menos mal! Me preocupaba que no fuera a ser yo quien te matara esta vez."
 |-
 ! colspan="2" |Fury 2 Low Health 04
 |-
@@ -192,12 +192,12 @@
 |"Parece que me tienes calado. Y yo que pensaba que aún nos estábamos conociendo."
 |-
 |'''Alecto'''
-|"''Tss''. Bien. ¿Sabes lo que quiero? Ven, te lo enseñaré."
+|"*Tss*. Bien. ¿Sabes lo que quiero? Ven, te lo enseñaré."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 02
 |-
 |'''Alecto'''
-|"¿Sabes qué es lo que me gusta de ti? Tu forma de sangrar. ''Mmm''."
+|"¿Sabes qué es lo que me gusta de ti? Tu forma de sangrar. *Mmm*."
 |-
 |'''Zagreus'''
 |"Ese… no es el tipo de halago al que estoy acostumbrado… Que sepas que me estás haciendo sentir un poco incómodo."
@@ -214,7 +214,7 @@
 |"Bueno, diría que no me gusta que me llames "sangre roja". Haces que se me suban los colores."
 |-
 |'''Alecto'''
-|"''Jo, jo, jo''. Muy gracioso. Pero te vendrás abajo. Siempre ocurre."
+|"*Jo, jo, jo*. Muy gracioso. Pero te vendrás abajo. Siempre ocurre."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 04
 |-
@@ -241,13 +241,13 @@
 ! colspan="2" |Fury 2 Misc Encounter 06
 |-
 |'''Alecto'''
-|"¡''Ja''! Debes de adorar el dolor, sangre roja. O quizá solo me guste a mi."
+|"¡*Ja*! Debes de adorar el dolor, sangre roja. O quizá solo me guste a mi."
 |-
 |'''Zagreus'''
 |"¿Ves, Alecto? Al final, sí que tenemos intereses comunes."
 |-
 |'''Alecto'''
-|"¿Acabas de…? ''Jamás ''vuelvas a compararte conmigo, escoria. ¿Quieres más dolor? Estaré encantada de complacerte."
+|"¿Acabas de…? *Jamás *vuelvas a compararte conmigo, escoria. ¿Quieres más dolor? Estaré encantada de complacerte."
 |-
 ! colspan="2" |Fury 2 Misc Encounter 07
 |-
@@ -274,18 +274,18 @@
 ! colspan="2" |Fury 2 Misc Encounter 09
 |-
 |'''Alecto'''
-|"Sabes, sangre roja, mis víctimas no suelen venir ''voluntariamente'', y menos repetidas veces. ¿Acaso crees que mi deber es hacerte pasar un buen rato?"
+|"Sabes, sangre roja, mis víctimas no suelen venir *voluntariamente*, y menos repetidas veces. ¿Acaso crees que mi deber es hacerte pasar un buen rato?"
 |-
 |'''Zagreus'''
 |"Alecto, tan solo me encanta ver tu sonrisa amenazante. Y claro, enfrentarme a ti es mucho mejor que luchar todo el rato contra Meg."
 |-
 |'''Alecto'''
-|"¿Cómo? ¿Crees que enfrentarte a ''mí ''es mejor que enfrentarte a esa ''debilucha''? ''¡Graaaah!''"
+|"¿Cómo? ¿Crees que enfrentarte a *mí *es mejor que enfrentarte a esa *debilucha*? *¡Graaaah!*"
 |-
 ! colspan="2" |Fury 2 Misc Encounter 10
 |-
 |'''Alecto'''
-|"¿Cuántas veces tendremos que hacerlo, sangre roja? ''¿Cuántas? ''¡Dímelo! ¿Cómo puedes soportar el seguir enfrentándote a mí, una y otra vez?"
+|"¿Cuántas veces tendremos que hacerlo, sangre roja? *¿Cuántas? *¡Dímelo! ¿Cómo puedes soportar el seguir enfrentándote a mí, una y otra vez?"
 |-
 |'''Zagreus'''
 |"Bueno, es que romper un hábito puede ser difícil. ¿Y cuántas veces? Pues ni idea, aunque supongo que hay una forma de averiguarlo."
@@ -313,7 +313,7 @@
 |"No me interesan tus impertinencias sobre ella, Alecto. Y si insistes, te advierto que puede que me cabree."
 |-
 |'''Alecto'''
-|"''Ohh'', ¿que puede que te ''cabrees''? ¿Vas a defender el honor de Megera porque ella no tiene fuerza para hacerlo? ¡Te crees que es tan pura, ''ja, ja, ja''! Qué asco me dais."
+|"*Ohh*, ¿que puede que te *cabrees*? ¿Vas a defender el honor de Megera porque ella no tiene fuerza para hacerlo? ¡Te crees que es tan pura, *ja, ja, ja*! Qué asco me dais."
 |-
 ! colspan="2" |Fury 2 Win Streak 01
 |-
@@ -335,7 +335,7 @@
 |"Me lo imagino, pero es que he llegado a valorar de verdad estos pequeños toma y daca nuestros."
 |-
 |'''Alecto'''
-|"''Agh'', odio decepcionarte, sangre roja; pero sencillamente, no eres mi tipo. A lo mejor esta vez te entra por fin en la cabeza."
+|"*Agh*, odio decepcionarte, sangre roja; pero sencillamente, no eres mi tipo. A lo mejor esta vez te entra por fin en la cabeza."
 |-
 ! colspan="2" |Fury 2 Lose Streak 01
 |-
@@ -346,7 +346,7 @@
 |"Perdonar lleva tiempo. Pero la introspección es el primer paso. ¡Estamos avanzando!"
 |-
 |'''Alecto'''
-|"¿Crees que estamos avanzando? ¿Aquí? ''Ja, ja, ja, ja, ja''. Pedazo de escoria… Te voy a enseñar lo que es avanzar."
+|"¿Crees que estamos avanzando? ¿Aquí? *Ja, ja, ja, ja, ja*. Pedazo de escoria… Te voy a enseñar lo que es avanzar."
 |-
 ! colspan="2" |Fury 2 Lose Streak 02
 |-
@@ -357,23 +357,23 @@
 |"Entonces... ¿has pensado simplemente en dejarme en paz y volver por donde hayas venido?"
 |-
 |'''Alecto'''
-|"¿Ves? Me refería ''justo '' a eso. Y pensar que Megera tuvo que aguantarte no sé cuánto tiempo..."
+|"¿Ves? Me refería *justo * a eso. Y pensar que Megera tuvo que aguantarte no sé cuánto tiempo..."
 |-
 ! colspan="2" |Fury 2 Lose Streak 03
 |-
 |'''Alecto'''
-|"Maldito seas, sangre roja. Me haces quedar mal, ¿lo sabes? Me haces ''sentir ''mal."
+|"Maldito seas, sangre roja. Me haces quedar mal, ¿lo sabes? Me haces *sentir *mal."
 |-
 |'''Zagreus'''
 |"Alecto, no te he pedido que intentes matarme una y otra vez. ¿Cómo creías que iba a responder?"
 |-
 |'''Alecto'''
-|"''Ja, ja, ja, ja, ja, ja''. Sabes lo que pasa cuando haces que me ''sienta ''mal, ¿verdad?"
+|"*Ja, ja, ja, ja, ja, ja*. Sabes lo que pasa cuando haces que me *sienta *mal, ¿verdad?"
 |-
 ! colspan="2" |Fury 2 Lose Streak 04
 |-
 |'''Alecto'''
-|"¡''Oh'', es el dios de la basura que ha venido a dejar esto hecho un asco otra vez! Te estás volviendo predecible."
+|"¡*Oh*, es el dios de la basura que ha venido a dejar esto hecho un asco otra vez! Te estás volviendo predecible."
 |-
 |'''Zagreus'''
 |"Si tenemos en cuenta que te derroté la última vez, yo que tú me preocuparía más por lo predecible que resultas."
@@ -384,7 +384,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 01
 |-
 |'''Alecto'''
-|"''Ah'', aquí está, hermanas. A trabajar."
+|"*Ah*, aquí está, hermanas. A trabajar."
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 03
 |-
@@ -414,7 +414,7 @@
 ! colspan="2" |Fury 2 Sisters Union Repeatable 08
 |-
 |'''Alecto'''
-|"¿Las tres contra la ''basura'', hermanas? ¿Vamos!"
+|"¿Las tres contra la *basura*, hermanas? ¿Vamos!"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 09
 |-
@@ -422,7 +422,7 @@
 |"¡Las tres erinias contra el dios de la basura! ¡Vaya pelea!"
 |-
 |'''Alecto'''
-|"¡''Ja, ja, ja'', miradlo, hermanas! ¿No os entran ganas de hacerlo pedazos?"
+|"¡*Ja, ja, ja*, miradlo, hermanas! ¿No os entran ganas de hacerlo pedazos?"
 |-
 ! colspan="2" |Fury 2 Sisters Union Repeatable 10
 |-
@@ -647,7 +647,7 @@
 ! colspan="2" |Fury 2 Misc Start 09
 |-
 |'''Alecto'''
-|"''Anda'', has hecho todo el camino de vuelta. Me siento halagada, sangre roja."
+|"*Anda*, has hecho todo el camino de vuelta. Me siento halagada, sangre roja."
 |-
 ! colspan="2" |Fury 2 Misc Start 10
 |-
@@ -697,7 +697,7 @@
 ! colspan="2" |Fury 2 Misc Start 18
 |-
 |'''Alecto'''
-|"¡Alguien va a morir pronto, sangre roja! ''Ooooh'', qué ganas de matarte."
+|"¡Alguien va a morir pronto, sangre roja! *Ooooh*, qué ganas de matarte."
 |-
 ! colspan="2" |Fury 2 Misc Start 19
 |-
@@ -717,22 +717,22 @@
 ! colspan="2" |Fury 2 Misc Start 22
 |-
 |'''Alecto'''
-|"¿Qué te pasa, sangre roja? Te has quedado muy callado, ¿he herido tus sentimientos, ''eh''?"
+|"¿Qué te pasa, sangre roja? Te has quedado muy callado, ¿he herido tus sentimientos, *eh*?"
 |-
 ! colspan="2" |Fury 2 Misc Start 23
 |-
 |'''Alecto'''
-|"''Ohh'', voy a dejarte sin una gota de sangre."
+|"*Ohh*, voy a dejarte sin una gota de sangre."
 |-
 ! colspan="2" |Fury 2 Misc Start 24
 |-
 |'''Alecto'''
-|"¿Quieres vértelas conmigo ''otra vez'', sangre roja? Venga, ''¡ven a por mí!''"
+|"¿Quieres vértelas conmigo *otra vez*, sangre roja? Venga, *¡ven a por mí!*"
 |-
 ! colspan="2" |Fury 2 Misc Start 25
 |-
 |'''Alecto'''
-|"¿Cómo es posible que esté tan harta de ti, pero no de ''matarte'', sangre roja?"
+|"¿Cómo es posible que esté tan harta de ti, pero no de *matarte*, sangre roja?"
 |-
 ! colspan="2" |Fury 2 Misc Start 26
 |-
@@ -767,7 +767,7 @@
 ! colspan="2" |Fury 2 Misc Start 30
 |-
 |'''Alecto'''
-|"Estoy harta de esperar aquí, ¿por qué no acabamos ''rapidito'', sangre roja?"
+|"Estoy harta de esperar aquí, ¿por qué no acabamos *rapidito*, sangre roja?"
 |-
 ! colspan="2" |Fury 2 Misc Start 31
 |-
@@ -782,7 +782,7 @@
 ! colspan="2" |Fury 2 Misc Start 33
 |-
 |'''Alecto'''
-|"¡''Oh'', te va a encantar esto, sangre roja!"
+|"¡*Oh*, te va a encantar esto, sangre roja!"
 |-
 ! colspan="2" |Fury 2 Misc Start 34
 |-

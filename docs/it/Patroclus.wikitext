@@ -28,7 +28,7 @@
 |"Veramente sarei diretto in superficie. I tuoi compari mi stanno solo rallentando, che sia per la gloria o per ordine di mio padre."
 |-
 |'''Patroclus'''
-|"Tuo padre...? ''Ah'', ora capisco. Sei il principe di questo regno, non è così? Sarai ben conscio, allora, di quale sia la tua eredità. Non credo tu abbia destino migliore di chiunque tra noi, qui. Va', ora."
+|"Tuo padre...? *Ah*, ora capisco. Sei il principe di questo regno, non è così? Sarai ben conscio, allora, di quale sia la tua eredità. Non credo tu abbia destino migliore di chiunque tra noi, qui. Va', ora."
 |-
 ! colspan="2" |Patroclus Meeting 04
 |-
@@ -181,7 +181,7 @@
 |"Cerco un uomo chiamato Achille. Era piuttosto celebre tra i vivi, ma qui tra i morti non saprei dire. Pensavo di trovarlo qui, ma non è stato così."
 |-
 |'''Zagreus'''
-|"...Achille... ho già sentito questo nome. ''Ehm'', potrei sapere perché t'interessa tanto? Nel caso mi venga chiesto, sai."
+|"...Achille... ho già sentito questo nome. *Ehm*, potrei sapere perché t'interessa tanto? Nel caso mi venga chiesto, sai."
 |-
 |'''Patroclus'''
 |"Oh, semplicemente... mi manca, straniero. Nient'altro."
@@ -195,7 +195,7 @@
 |"Conosci Achille, non è così? Tu sei Patroclo. Achille... presta servizio alla mia Dimora. Mi ha addestrato lui. Ti manda i suoi saluti... e il suo affetto. Mi ha detto di dirti che ti pensa sempre."
 |-
 |'''Patroclus'''
-|"...Quel nome. L'hai visto, dunque, a casa di tuo padre. E vorresti farmi credere che abbia detto ciò? ''Tsk''. Mi scuserai, ma sono alquanto scettico. In vita, io l'abbandonai. Nella morte, lui ha abbandonato me. Siamo pari, ora. Non abbiamo più nulla da dirci."
+|"...Quel nome. L'hai visto, dunque, a casa di tuo padre. E vorresti farmi credere che abbia detto ciò? *Tsk*. Mi scuserai, ma sono alquanto scettico. In vita, io l'abbandonai. Nella morte, lui ha abbandonato me. Siamo pari, ora. Non abbiamo più nulla da dirci."
 |-
 |'''Zagreus'''
 |"No, mi rifiuto di crederlo. Tra voi deve sicuramente esserci stato un malinteso. Non vi parlate fin dalla tua morte?"
@@ -209,7 +209,7 @@
 |"Patroclo. So chi sei, signore. E so che conosci Achille. Presta servizio alla mia Dimora. Fu lui ad addestrarmi. Ti invia i suoi saluti... e il suo affetto. Mi ha detto di dirti che ti pensa sempre."
 |-
 |'''Patroclus'''
-|"...''Ah''. L'hai visto, dunque, a casa di tuo padre. E vorresti farmi credere che abbia detto ciò? ''Tsk''. Mi scuserai, ma sono alquanto scettico. In vita, io l'abbandonai. Da morti, lui ha abbandonato me. Siamo pari, ora. Non abbiamo più nulla da dirci."
+|"...*Ah*. L'hai visto, dunque, a casa di tuo padre. E vorresti farmi credere che abbia detto ciò? *Tsk*. Mi scuserai, ma sono alquanto scettico. In vita, io l'abbandonai. Da morti, lui ha abbandonato me. Siamo pari, ora. Non abbiamo più nulla da dirci."
 |-
 ! colspan="2" |Patroclus About Achilles 02
 |-
@@ -250,13 +250,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"È ancora il solito testardo, scommetto. Si è sempre rifiutato di cambiare idea. Ti ha mai detto della guerra cui prendemmo parte? Cui ''io ''presi parte, dovrei dire. Lui avrebbe potuto porvi fine; invece, scelse di non combattere."
+|"È ancora il solito testardo, scommetto. Si è sempre rifiutato di cambiare idea. Ti ha mai detto della guerra cui prendemmo parte? Cui *io *presi parte, dovrei dire. Lui avrebbe potuto porvi fine; invece, scelse di non combattere."
 |-
 |'''Zagreus'''
 |"Achille non è molto propenso a parlare dei propri giorni da mortale. E così, rifiutò di battersi? Ho sentito dire che i mortali non vedono di buon occhio cose simili... ma d'altra parte, perché combattere, se non credeva nella causa?"
 |-
 |'''Patroclus'''
-|"Lui ''condivideva ''la nostra causa! Che importa se non lo faceva appieno? Se non fosse stato per la sua ostinazione, io... be'... sarei giunto qui un po' più tardi, suppongo."
+|"Lui *condivideva *la nostra causa! Che importa se non lo faceva appieno? Se non fosse stato per la sua ostinazione, io... be'... sarei giunto qui un po' più tardi, suppongo."
 |-
 |'''Zagreus'''
 |"Incolpa sé stesso per quel che ti accadde, perché tu lo sappia. Ma credevo avesse fallito nel difenderti, non che... non ci avesse neanche provato. Sebbene... a quanto pare, dopo la tua morte cadde in breve anche lui, vittima dell'ira..."
@@ -279,7 +279,7 @@
 |"C'è una cosa che dovresti sapere. Foste sepolti insieme. Le vostre ceneri, almeno. Fu la sua ultima richiesta. Riguardo al perché sia finito al servizio di mio padre, è una storia che credo vorrebbe raccontarti di persona. E io farò il possibile perché ciò accada."
 |-
 |'''Patroclus'''
-|"...Le nostre ceneri, dici. Insieme...? ''Tsk. ''Quello sciocco. Avremmo potuto vivere, anziché ridurci a cibo per i vermi! Ma... apprezzo la tua disponibilità, straniero. Ora... va', per favore."
+|"...Le nostre ceneri, dici. Insieme...? *Tsk. *Quello sciocco. Avremmo potuto vivere, anziché ridurci a cibo per i vermi! Ma... apprezzo la tua disponibilità, straniero. Ora... va', per favore."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -290,7 +290,7 @@
 |"Non hai di che scusarti, signore. Achille è uno tra i miei più cari amici, ma... non è granché incline a parlare di sé. Di quanto accadde. Deve essere molto doloroso, per lui. Per entrambi voi."
 |-
 |'''Patroclus'''
-|"Oh, chi non sa che cosa sia la sofferenza, quaggiù? Tuttavia... sapere che teneva tanto a me, alla fine... ''dopo ''la fine... lenisce il dolore, anche se di poco. E così le nostre discussioni, anche."
+|"Oh, chi non sa che cosa sia la sofferenza, quaggiù? Tuttavia... sapere che teneva tanto a me, alla fine... *dopo *la fine... lenisce il dolore, anche se di poco. E così le nostre discussioni, anche."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -304,12 +304,12 @@
 |"Se conosco il mio Achille, la nostra attuale situazione l'avrà lasciato del tutto paralizzato. Come si può essere tanto avventati, e al contempo detestare tanto il rischio? Fagli solo sapere che ho detto di rischiare ogni cosa."
 |-
 |'''Zagreus'''
-|"Rischiare ogni cosa? Rischiare ''che ''cosa? Vuole solo ciò che è meglio per te. Ha il timore che possa accaderti qualcosa."
+|"Rischiare ogni cosa? Rischiare *che *cosa? Vuole solo ciò che è meglio per te. Ha il timore che possa accaderti qualcosa."
 |-
 |'''Patroclus'''
 |"Quel che poteva accadere è già accaduto. Oso pensare che, se quanto mi hai raccontato è vero... ora come ora ho più da guadagnare, che da perdere. La paura non è forse dei deboli?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"Sapevo che v'era la possibilità di incontrarti, ma... è strano vederti qua fuori, ragazzo. È strano vedere tutto questo. Non riesco ancora a crederci..."
@@ -323,7 +323,7 @@
 |'''Patroclus'''
 |"Be', non c'è bisogno di darsi all'emotività, no? Noi mirmidoni non siamo tipi sentimentali. Achille è solo in pausa da un incarico frustrante, ecco tutto. E anche tu hai un arduo compito davanti a te, perciò, prendi! La mia consueta offerta."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"Ma tu guarda. Se non è il protetto di Achille, giunto a farci visita. Non so come potrò mai ripagarti, straniero. Penso proprio che non sia possibile."
@@ -337,7 +337,7 @@
 |'''Patroclus'''
 |"Quello intendevo farlo a prescindere, ma... se prima o poi ti verrà in mente qualcos'altro, ti prego di farcelo sapere."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Oh, bene, eccoti, straniero. Dirimi per noi una questione, vuoi? Achille non sarebbe forse un ottimo Campione, per l'Elisio? Mi viene da pensare che quasi chiunque sarebbe meglio dell'attuale detentore del titolo."
@@ -425,7 +425,7 @@
 |"Signore, mi sono sempre chiesto... com'era Achille? Da giovane, intendo. Se ti va di raccontarmelo."
 |-
 |'''Patroclus'''
-|"''Hah''. Come descriverlo? Chiunque lo vedesse in battaglia, alleato o nemico, concordava che fosse una vista senza pari. Ma v'era ben altro in lui, io credo. Un modo di essere. Un senso di giustizia. Lo conoscevo da prima che fosse un guerriero. È forse solo per ciò, che mi piaceva."
+|"*Hah*. Come descriverlo? Chiunque lo vedesse in battaglia, alleato o nemico, concordava che fosse una vista senza pari. Ma v'era ben altro in lui, io credo. Un modo di essere. Un senso di giustizia. Lo conoscevo da prima che fosse un guerriero. È forse solo per ciò, che mi piaceva."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -919,7 +919,7 @@
 |"Ehi, ascolta, so che stai passando un brutto momento, e forse questo non è il tipo d'aiuto che vorresti, ma... vorrei che prendessi questo."
 |-
 |'''Patroclus'''
-|"''Aah'', ti faccio pena, dunque? Be', a differenza di chiunque altro, qui, non sono schiavo dell'orgoglio, per cui... accetto. Ma facciamo almeno che sia uno scambio equo, no?"
+|"*Aah*, ti faccio pena, dunque? Be', a differenza di chiunque altro, qui, non sono schiavo dell'orgoglio, per cui... accetto. Ma facciamo almeno che sia uno scambio equo, no?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -932,7 +932,7 @@
 ! colspan="2" |Patroclus Gift 03
 |-
 |'''Patroclus'''
-|"''Ah'', qualcosa in cui annegare per un po' i miei dispiaceri. Ottimo. Molto gentile da parte tua, devo dire."
+|"*Ah*, qualcosa in cui annegare per un po' i miei dispiaceri. Ottimo. Molto gentile da parte tua, devo dire."
 |-
 |'''Zagreus'''
 |"Figurati. Grazie per non aver cercato di farmi a pezzi per poi vantartene in giro, a differenza di chiunque altro da queste parti."
@@ -981,7 +981,7 @@
 |"Non vedo quell'ultima bottiglia d'Ambrosia qui intorno, il che può solo significare che... te ne serve un'altra. Ecco qui, signore. Grazie per tutte le volte che mi hai offerto una mano."
 |-
 |'''Patroclus'''
-|"Ringrazi ''me'', straniero? Sono quaggiù da molto tempo, credo, eppure... alcuni dei vostri costumi continuano a sfuggirmi. Hai fatto di più per me di quanto avrei mai potuto aver diritto di aspettarmi, da chiunque."
+|"Ringrazi *me*, straniero? Sono quaggiù da molto tempo, credo, eppure... alcuni dei vostri costumi continuano a sfuggirmi. Hai fatto di più per me di quanto avrei mai potuto aver diritto di aspettarmi, da chiunque."
 |-
 |'''Zagreus'''
 |"È solo una bottiglia di Ambrosia, signore, non c'è bisogno di farne un dramma. D'accordo che non è facile procurarsela, ma..."

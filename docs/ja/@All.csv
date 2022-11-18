@@ -111,15 +111,15 @@ BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… 
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… どうした？\nそんなふうに黙り込まれると不安になる。\n考え事か？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|俺はいつも、山のように考え事をしている。\n慣れてもらうほかない。いや… 俺が黙りこくって\nいても、心配にはおよばない、ということだ。\nそろそろ行かなくては。仕事が遅れている。\nまた会おう。おまえさえよければ。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|ああ。もちろんだよ。
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|ザグレウス。この部屋には扉がない。\n無断で入られたからといって、なぜいちいち驚く？
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|メグ… タナトスも… ここで何を…？\nとにかく、まずはきちんと俺から説明を…\nん？ふたりとも、何がおかしい？なぜ笑ってる？
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|私とタナトスは、おまえが生まれる前からの\nつきあいだ。見くびられては困る。
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Thanatos|そう、メガイラと俺は、互いの“あらゆること”を\n把握しあっている。
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|タナトスも私も、任務で来たわけではない。\n見てわからないか？
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|なるほど、そういうことか…\nこれがもし夢だったらがっかりだが…\n確かめる方法は、ひとつだな…
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|…なるほど。そういうことなら…
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|わかり合えて何よりだ。\nでは、ザグ、タナトス、私はこれで。
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|…フゥ。なんというか… ハハ…
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Megaera|ザグレウス。この部屋には扉がない。\n無断で入られたからといって、なぜいちいち驚く？
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Zagreus|メグ… タナトスも… ここで何を…？\nとにかく、まずはきちんと俺から説明を…\nん？ふたりとも、何がおかしい？なぜ笑ってる？
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Megaera|私とタナトスは、おまえが生まれる前からの\nつきあいだ。見くびられては困る。
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Thanatos|そう、メガイラと俺は、互いの“あらゆること”を\n把握しあっている。
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Megaera|タナトスも私も、任務で来たわけではない。\n見てわからないか？
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Zagreus|なるほど、そういうことか…\nこれがもし夢だったらがっかりだが…\n確かめる方法は、ひとつだな…
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Zagreus|…なるほど。そういうことなら…
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Megaera|わかり合えて何よりだ。\nでは、ザグ、タナトス、私はこれで。
+MegaeraWithThanatosBedroom01|Duo - Megaera and Thanatos Bedroom (1)|Zagreus|…フゥ。なんというか… ハハ…
 Flashback_Mother_01|Flashback Mother 01|Storyteller|*それは、冥界において「真夜中」に相当する時間の\nこと。浅い眠りから目覚めた冥界の王子ザグレウスは、\n悪さのかぎりを尽くしてやろうとたくらんでいた。*
 Flashback_DayNightJob_01|Flashback Day Night Job 01|Storyteller|*冥界の王子は、深い眠りより目覚めた。\n昼夜の区別のないこの地での奮闘に疲れ、\nつかの間仮眠を取るつもりだったが、\n思いの外、熟睡してしまったようだ…*
 InspectBedroom01|Inspect Bedroom 01|Storyteller|*ザグレウス王子の寝室は、いついかなるときでも乱雑に散らかっている。家主である父王が、再三片づけるよう説教しても、どこ吹く風である。*
@@ -176,20 +176,20 @@ TrophyQuest_GoldUnlocked_01|Trophy Quest Gold Unlocked 01|Skelly|景品の像に
 TrophyQuest_GoldUnlocked_01|Trophy Quest Gold Unlocked 01|Zagreus|ずいぶんと見くびられたものだな。\nとはいえ… 俺もひどいことを言って悪かった。\n像をここまで運ばせるのは、骨が折れただろう。
 TrophyQuest_GoldUnlocked_01|Trophy Quest Gold Unlocked 01|Skelly|そりゃあもう！ここはひとつ、おあいこってことに\nいたしやしょうや。お互い、えらく大変な\n思いをしやしたが、学ぶことも多ごぜえやした。\nこれで、互いの理解が深まったってもんです。
 InspectPreRun01|Inspect Pre Run 01|Storyteller|*ハデスの館の中庭は、整理整頓が行き届いている。その先に無秩序に広がる恐ろしき光景は、にわかには想像がつかない。*
-MegaeraWithSisyphus01|Megaera With Sisyphus 01|Megaera|…今度あの男に手を貸せば、おまえを1000回の\nむち打ち刑に処す。次に私が戻った際、\nこの岩がまだそこにあれば、さらに1000回だ。
-MegaeraWithSisyphus01|Megaera With Sisyphus 01|Sisyphus|そりゃあまた、たいそうな大盤振る舞いだ！\n承知いたしました。お約束ですよ？それじゃ！
-MegaeraWithSisyphus02|Megaera With Sisyphus 02|Megaera|…わが身がかわいければ、おとなしく岩を運んでいろ。小ずるいことを考えるな。私はいつでも見張っている。
-MegaeraWithSisyphus02|Megaera With Sisyphus 02|Sisyphus|それはそれは、ご苦労様なことです。ご安心ください。イワコフを坂のてっぺんに運ぶぐらい、造作もないことですよ。ま、一度もやり遂げたことはございませんが！
-MegaeraWithSisyphus03|Megaera With Sisyphus 03|Megaera|…王子の件が片づき次第、おまえの監視任務に\n復帰する。それまでの間も、おまえは定め通り、\nその岩を日々坂の上へ運搬すること。\nわかっているな？
-MegaeraWithSisyphus03|Megaera With Sisyphus 03|Sisyphus|ご安心ください、イワコフは…\nあー、イワコフというのはこの岩のことですが、\nこれまでどおり、定期的に、きちんと、わずかずつ、\n押し上げて参りますゆえ。では、失敬！
-ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|…それと。これ以上、ザグレウス王子に\n助力することは禁ずる。よいな？
-ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Sisyphus|それはもう、当然でございます！\nそんなこと、考えもいたしません。\n私の頭は、この岩をどうやって上へ運ぶか、\nその方法を考えるだけで精いっぱいでして。
-ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|フン… 私は仕事に戻る。\nおまえも、おのれの務めを果たせ。
-ThanatosWithSisyphus02|Thanatos With Sisyphus 02|Sisyphus|承知いたしました、タナトス様。\n今後は決して、ザグレウス王子を手助けいたしません。今度こそは、誠にございます。
-ThanatosWithSisyphus02|Thanatos With Sisyphus 02|Thanatos|おまえが前言を翻し、それが冥王の知るところと\nなれば、おまえも私もただでは済まぬ。\nよく肝に銘じておけ。
-ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|…これでわかっただろう。死を免れようとすれば、\n恐ろしい結果を招く。今後は私の忠告に従うことだ。\nさもなくば、死後生において多大な苦痛を味わう\nことになる。
-ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Sisyphus|お言葉ですが、タナトス様、私は神々の皆様を、\n恐ろしいと思ったことがないのでございます。\n皆様、われわれ人間と同様、大変苦悩しておいでです。\n無論、死の恐怖とだけは、無縁でいらっしゃいますが。
-ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|おまえに神々の苦悩の何がわかる。\nおのれの過ちが招いた結果を、じっくりと時間を掛けて\n省みるがいい。数千年、あるいは数万年の後にでも、\nその成果を確認しにきてやろう。
+MegaeraWithSisyphus01|Duo - Megaera and Sisyphus (1)|Megaera|…今度あの男に手を貸せば、おまえを1000回の\nむち打ち刑に処す。次に私が戻った際、\nこの岩がまだそこにあれば、さらに1000回だ。
+MegaeraWithSisyphus01|Duo - Megaera and Sisyphus (1)|Sisyphus|そりゃあまた、たいそうな大盤振る舞いだ！\n承知いたしました。お約束ですよ？それじゃ！
+MegaeraWithSisyphus02|Duo - Megaera and Sisyphus (2)|Megaera|…わが身がかわいければ、おとなしく岩を運んでいろ。小ずるいことを考えるな。私はいつでも見張っている。
+MegaeraWithSisyphus02|Duo - Megaera and Sisyphus (2)|Sisyphus|それはそれは、ご苦労様なことです。ご安心ください。イワコフを坂のてっぺんに運ぶぐらい、造作もないことですよ。ま、一度もやり遂げたことはございませんが！
+MegaeraWithSisyphus03|Duo - Megaera and Sisyphus (3)|Megaera|…王子の件が片づき次第、おまえの監視任務に\n復帰する。それまでの間も、おまえは定め通り、\nその岩を日々坂の上へ運搬すること。\nわかっているな？
+MegaeraWithSisyphus03|Duo - Megaera and Sisyphus (3)|Sisyphus|ご安心ください、イワコフは…\nあー、イワコフというのはこの岩のことですが、\nこれまでどおり、定期的に、きちんと、わずかずつ、\n押し上げて参りますゆえ。では、失敬！
+ThanatosWithSisyphus01|Duo - Thanatos and Sisyphus (1)|Thanatos|…それと。これ以上、ザグレウス王子に\n助力することは禁ずる。よいな？
+ThanatosWithSisyphus01|Duo - Thanatos and Sisyphus (1)|Sisyphus|それはもう、当然でございます！\nそんなこと、考えもいたしません。\n私の頭は、この岩をどうやって上へ運ぶか、\nその方法を考えるだけで精いっぱいでして。
+ThanatosWithSisyphus01|Duo - Thanatos and Sisyphus (1)|Thanatos|フン… 私は仕事に戻る。\nおまえも、おのれの務めを果たせ。
+ThanatosWithSisyphus02|Duo - Thanatos and Sisyphus (2)|Sisyphus|承知いたしました、タナトス様。\n今後は決して、ザグレウス王子を手助けいたしません。今度こそは、誠にございます。
+ThanatosWithSisyphus02|Duo - Thanatos and Sisyphus (2)|Thanatos|おまえが前言を翻し、それが冥王の知るところと\nなれば、おまえも私もただでは済まぬ。\nよく肝に銘じておけ。
+ThanatosWithSisyphus03|Duo - Thanatos and Sisyphus (3)|Thanatos|…これでわかっただろう。死を免れようとすれば、\n恐ろしい結果を招く。今後は私の忠告に従うことだ。\nさもなくば、死後生において多大な苦痛を味わう\nことになる。
+ThanatosWithSisyphus03|Duo - Thanatos and Sisyphus (3)|Sisyphus|お言葉ですが、タナトス様、私は神々の皆様を、\n恐ろしいと思ったことがないのでございます。\n皆様、われわれ人間と同様、大変苦悩しておいでです。\n無論、死の恐怖とだけは、無縁でいらっしゃいますが。
+ThanatosWithSisyphus03|Duo - Thanatos and Sisyphus (3)|Thanatos|おまえに神々の苦悩の何がわかる。\nおのれの過ちが招いた結果を、じっくりと時間を掛けて\n省みるがいい。数千年、あるいは数万年の後にでも、\nその成果を確認しにきてやろう。
 SkellyFirstMeeting|Skelly First Meeting|Skelly|坊ちゃん、なかなかいいお庭をお持ちで。\nあっしはスケリーというケチな野郎でごぜえやす。\nさっそく仕事をさせてもらいやすよ！\n手加減は一切無用でごぜえやす。
 SkellyFirstMeeting|Skelly First Meeting|Zagreus|雇った覚えはないぞ… 誰の下で働いてる？
 SkellyFirstMeeting|Skelly First Meeting|Skelly|元締めの素性に関しては、極秘でして… 気になるなら、力ずくで聞き出してみたらどうです？
@@ -659,12 +659,12 @@ FuryMiscStartMaxRelationship20|Fury Misc Start Max Relationship 20|Megaera|元�
 FuryMiscStartMaxRelationship21|Fury Misc Start Max Relationship 21|Megaera|痛みに耐えた先に、悦びがある。そうでしょ？
 Fury2SisterUnion01|Fury 2 Sister Union 01|Alecto|メガイラ、ティシポネ、準備はいいね？
 Fury2SisterUnionSingleSis01|Fury 2 Sister Union Single Sis 01|Alecto|ごらん、ゴミの神のお出ましだ。\nさっくり掃除してやろう。
-Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|ごらん… あの生意気な得意顔。気取った立ち姿。\n何もかも気に入らないね！メグ、あんたまさか、\nこいつに手加減するつもりじゃないだろうね？
-Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Megaera|私たち姉妹が、互いの顔色をうかがって\n事に当たったことなど、あったか？\nこの男を殺すという目的さえ果たせれば、\n何も問題ないはずだ。
-Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|言われてみれば、たしかにそうだ。\nそれじゃ、さっさと殺しちまおうじゃないか！
-Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|ごらん？このゴミ、性懲りもなく、また現れたよ。\nせっかくの床が、また血で汚れちまう。赤い血の坊や、\n麗しのメガイラと戦う準備はできてるかい？
-Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Megaera|アレクトはザグを誤解している。\nそう悪いところばかりでもない。\nこの仕事を片づける上では、どうでもよいことだが。
-Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|あんたらふたりにはヘドが出るよ。\n腑抜けたこと言ってる暇があったら、\n今度こそこいつの息の根をきっちり止めな！
+Fury2SisterUnionWithMeg01|Duo - Union and Meg (1)|Alecto|ごらん… あの生意気な得意顔。気取った立ち姿。\n何もかも気に入らないね！メグ、あんたまさか、\nこいつに手加減するつもりじゃないだろうね？
+Fury2SisterUnionWithMeg01|Duo - Union and Meg (1)|Megaera|私たち姉妹が、互いの顔色をうかがって\n事に当たったことなど、あったか？\nこの男を殺すという目的さえ果たせれば、\n何も問題ないはずだ。
+Fury2SisterUnionWithMeg01|Duo - Union and Meg (1)|Alecto|言われてみれば、たしかにそうだ。\nそれじゃ、さっさと殺しちまおうじゃないか！
+Fury2SisterUnionWithMeg02|Duo - Union and Meg (2)|Alecto|ごらん？このゴミ、性懲りもなく、また現れたよ。\nせっかくの床が、また血で汚れちまう。赤い血の坊や、\n麗しのメガイラと戦う準備はできてるかい？
+Fury2SisterUnionWithMeg02|Duo - Union and Meg (2)|Megaera|アレクトはザグを誤解している。\nそう悪いところばかりでもない。\nこの仕事を片づける上では、どうでもよいことだが。
+Fury2SisterUnionWithMeg02|Duo - Union and Meg (2)|Alecto|あんたらふたりにはヘドが出るよ。\n腑抜けたこと言ってる暇があったら、\n今度こそこいつの息の根をきっちり止めな！
 Fury2PactReaction01|Fury 2 Pact Reaction 01|Alecto|あんた、盟約に同意したね…？したんだろ！？\n正直に答えな！
 Fury2PactReaction01|Fury 2 Pact Reaction 01|Zagreus|たしかにしたが… それであんたに文句を言われる筋合いはない。
 Fury2PactReaction01|Fury 2 Pact Reaction 01|Alecto|あたしはね、ひとりで仕事するのが好きなんだよ！\nそれが、あんたのおかげでこのざまだ！\n文句のひとつも言う権利があるよ。\nついでに、あんたを殺す権利もね…！
@@ -957,8 +957,8 @@ TheseusExtremeMeasures_IfYouWon02|Theseus Extreme Measures If You Won 02|Theseus
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Theseus|アステリウス、鎧の整備は万全か？\n私がこの馬車で、あの者の周囲を旋回して追い込む。\nその隙におまえは、その大斧でとどめを刺すのだ！
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Zagreus|なかなかうまい作戦だな。俺に聞こえるような\n大声でわめかなければ、もっとうまくいっただろう。\nとはいえ、馬車を操縦しながら同時に叫びつつ\n戦うなんて、誰にでもできることじゃない。さすがだ！
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Theseus|…貴様のような魔物がいまだ討伐されず、\nのさばっているとは嘆かわしい！\nアステリウスと私が、ただちに成敗してくれる！
-TheseusWithAsterius01|Theseus With Asterius 01|Minotaur|王、奴が現れました。鎧を装着します。王の馬車の修理が間に合ってよかった。
-TheseusWithAsterius01|Theseus With Asterius 01|Theseus|フン！神々より賜りし武具があろうとなかろうと、\n冥府の申し子の1匹程度、われわれなら\n難なく討伐できる！ゆくぞ！
+TheseusWithAsterius01|Duo - Theseus and Asterius (1)|Minotaur|王、奴が現れました。鎧を装着します。王の馬車の修理が間に合ってよかった。
+TheseusWithAsterius01|Duo - Theseus and Asterius (1)|Theseus|フン！神々より賜りし武具があろうとなかろうと、\n冥府の申し子の1匹程度、われわれなら\n難なく討伐できる！ゆくぞ！
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Theseus|魔物よ、その目を覆うがよい！\nマケドニアの粋を結した真鍮細工の輝きに、\n視力を奪われたくなければな！\n悪の所業を尽くす貴様を、ここで討ち滅ぼしてくれる！
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Zagreus|ずいぶん威勢がいいな。その真鍮細工も、俺がバラバラにしてやったのに。ポセイドンですら、おまえのことをただのホラ吹き男だと言っていたぞ。
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Theseus|魔物の分際で、海王神ポセイドンの名を口にするとは、なんと厚顔な！海王神と私の間には、複雑な歴史があるのだ！アステリウスと私の双方に祝福を与え給うた神… 貴様は、そのような神の加護は決して受けられぬ！
@@ -1004,14 +1004,14 @@ TheseusLoseStreak02A|Theseus Lose Streak 02 A|Theseus|そうやってわれわ�
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|魔物よ、見てのとおり、アステリウスも私も\n復活を遂げた！さらに力をつけてな！\n今度こそ貴様を完膚無きまでに討ち滅ぼしてやる！
 TheseusLoseStreak02|Theseus Lose Streak 02|Zagreus|つまり、俺たちは終わりのない殺し合いを\n繰り返すしかない、ってわけだな。エリュシオンでは、それぐらいしかやることがないんだろう。
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|エリュシオンを侮辱することは許さん…！\n軽々に不届きな発言をする者には、\n私がこの手で罰を加えてやる！アステリウス、ゆくぞ！
-TheseusWithAsterius02|Theseus With Asterius 02|Minotaur|挑戦を受ける準備は整っている。おまえの強さは\n承知の上。誇りをもって戦わせてもらおう。
-TheseusWithAsterius02|Theseus With Asterius 02|Theseus|アステリウスがなんと言おうと、\n貴様は汚らわしい魔物にすぎぬ！\n卑怯な手段で襲ってくる者に払う敬意などない！\n一瞬で片づけてやろう！
-TheseusWithAsterius03|Theseus With Asterius 03|Theseus|アステリウスと私は兄弟の絆で結ばれている。\n貴様のような魔物に勝機はない！
-TheseusWithAsterius03|Theseus With Asterius 03|Minotaur|王、油断は禁物です。\nこの者は見た目よりはるかに手強い。\n今回は慎重に戦わねば。
-TheseusWithAsterius03|Theseus With Asterius 03|Theseus|無論、油断などしていない！この、膿の詰まった\nできもののような輩を槍で貫く瞬間を想像するだけで、よだれが出そうだ！すでに生者ではなくなった身ゆえ、唾液は出ぬがな！ゆくぞ！
-TheseusWithAsterius04|Theseus With Asterius 04|Zagreus|テセウス、口を開く前に、今回はアステリウスに\n何かしゃべらせてやったらどうだ？あんたの話が\n長いせいで、アステリウスには発言の機会がない。
-TheseusWithAsterius04|Theseus With Asterius 04|Minotaur|王が私の分まで語ってくださる。\nそれでも私に何か言えというなら、いつでも応じるが。
-TheseusWithAsterius04|Theseus With Asterius 04|Theseus|私も、いつでも応じよう！この愛用の槍で、貴様の、\nそのしまりのない貧弱な肉体を貫いてやる！死ね！
+TheseusWithAsterius02|Duo - Theseus and Asterius (2)|Minotaur|挑戦を受ける準備は整っている。おまえの強さは\n承知の上。誇りをもって戦わせてもらおう。
+TheseusWithAsterius02|Duo - Theseus and Asterius (2)|Theseus|アステリウスがなんと言おうと、\n貴様は汚らわしい魔物にすぎぬ！\n卑怯な手段で襲ってくる者に払う敬意などない！\n一瞬で片づけてやろう！
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Theseus|アステリウスと私は兄弟の絆で結ばれている。\n貴様のような魔物に勝機はない！
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Minotaur|王、油断は禁物です。\nこの者は見た目よりはるかに手強い。\n今回は慎重に戦わねば。
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Theseus|無論、油断などしていない！この、膿の詰まった\nできもののような輩を槍で貫く瞬間を想像するだけで、よだれが出そうだ！すでに生者ではなくなった身ゆえ、唾液は出ぬがな！ゆくぞ！
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Zagreus|テセウス、口を開く前に、今回はアステリウスに\n何かしゃべらせてやったらどうだ？あんたの話が\n長いせいで、アステリウスには発言の機会がない。
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Minotaur|王が私の分まで語ってくださる。\nそれでも私に何か言えというなら、いつでも応じるが。
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Theseus|私も、いつでも応じよう！この愛用の槍で、貴様の、\nそのしまりのない貧弱な肉体を貫いてやる！死ね！
 TheseusPostEnding01|Theseus Post Ending 01|Theseus|見ろ、アステリウス！魔物が再び現れたぞ！\n地上に災禍をもたらすべく冥界を去ったとの噂、\nやはり事実無根であった！
 TheseusPostEnding01|Theseus Post Ending 01|Zagreus|いや、その噂に関しては、かなり事実に近い。\nただ、戻ってきただけだ。おまえをこてんぱんに\nやり込められない日々なんて、退屈だからな。
 TheseusPostEnding01|Theseus Post Ending 01|Theseus|ハハハ！さすが、妄言に長けた魔物は、\nいくらでも出任せを繰り出せるらしい！\n貴様がいまだこの冥界に封じられているのであれば、\nこちらにとって不都合なし！今後もそうあるよう、\nわれらも一助となろう！いざ、勝負！
@@ -1066,7 +1066,7 @@ TheseusHasWeaponUpgrade01|Theseus Has Weapon Upgrade 01|Theseus|希代の英雄�
 TheseusAboutArthurAspect01|Theseus About Arthur Aspect 01|Theseus|魔物よ、その宝物のごとき刃、いずこより盗み出した？貴様のような魔物には似つかわしくない得物だ！
 TheseusAboutArthurAspect01|Theseus About Arthur Aspect 01|Zagreus|人聞きの悪い。\n運命の三女神を説得して、授けてもらっただけだ。\n使えそうな代物か、今、試してる。
 TheseusAboutArthurAspect01|Theseus About Arthur Aspect 01|Theseus|ほう… では、おまえの“試し”とやらが済んだのち、\nその剣を手にする者は気の毒であるな。\nもっとも、その時は瞬く間に訪れよう！
-TheseusMiscStartWithGilgameshAspect01|Theseus Misc Start With Gilgamesh Aspect 01|Minotaur|王、小さき者が、例の武具を身につけて現れました。\nギルガメシュの双拳です。ここは私の戦術にお任せを。
+TheseusMiscStartWithGilgameshAspect01|Duo - Start and Gilgamesh Aspect (1)|Minotaur|王、小さき者が、例の武具を身につけて現れました。\nギルガメシュの双拳です。ここは私の戦術にお任せを。
 TheseusMiscStart01|Theseus Misc Start 01|Theseus|この手で、奈落の底に送り返してやる！
 TheseusMiscStart02|Theseus Misc Start 02|Theseus|ようやく来たか！\nアステリウス、ともに悪党を討伐しよう！
 TheseusMiscStart03|Theseus Misc Start 03|Theseus|冥府の申し子よ、どこからでも掛かってくるがいい！\nエリュシオン最強の戦士2人組が相手だ！
@@ -1401,8 +1401,8 @@ LordHadesMiscStart11|Lord Hades Misc Start 11|Hades|スティギウスで戦う�
 LordHadesMiscStart12|Lord Hades Misc Start 12|Hades|ここでは、冥界の剣もその威力を発揮せぬぞ？
 LordHadesMiscStart13|Lord Hades Misc Start 13|Hades|おまえが頼りにする心追いの弓コロナハトも、\nここでは力を発揮せぬぞ。
 LordHadesMiscStart14|Lord Hades Misc Start 14|Hades|おまえが携える心追いの弓は、臆病者の得物だ。
-LordHadesMiscStartWithSpear01|Lord Hades Misc Start With Spear 01|Hades|ヴァラサとギガロス… この厳冬の荒野にて、\n再び刃を交えるときが来たようだ。
-LordHadesMiscStartWithSpear02|Lord Hades Misc Start With Spear 02|Hades|ついに私も、永遠の槍の穂先を受ける側に回ったか。\nおまえの槍裁き、見せてみよ。
+LordHadesMiscStartWithSpear01|Duo - Start and Spear (1)|Hades|ヴァラサとギガロス… この厳冬の荒野にて、\n再び刃を交えるときが来たようだ。
+LordHadesMiscStartWithSpear02|Duo - Start and Spear (2)|Hades|ついに私も、永遠の槍の穂先を受ける側に回ったか。\nおまえの槍裁き、見せてみよ。
 LordHadesMiscStart15|Lord Hades Misc Start 15|Hades|混沌の盾… なんとも奇怪な武具だ。\nある意味、おまえにふさわしいといえよう。
 LordHadesMiscStart16|Lord Hades Misc Start 16|Hades|おまえがアイギスを帯びて戦う様は、\nゼウスのそれを思わせる。
 LordHadesMiscStart17|Lord Hades Misc Start 17|Hades|アダマント電磁砲を私に向けるか… \n結果はすぐに明らかとなろう。
@@ -1519,16 +1519,16 @@ BossCharonMiscStart09|Boss Charon Misc Start 09|Charon|…！！
 BossCharonOutro01|Boss Charon Outro 01|Charon|…！！
 BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Zagreus|よし！これで2連勝だ。賭けはヘルメスの勝ちだな。\nあいつに会ったら、「…！！」と伝えてくれ。
 BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Charon|…
-ZeusWithAthena01|Zeus With Athena 01|Zeus|ザグレウス、こたびは勇敢なるアテナもやってきたぞ。知恵の女神らしい抜け目のなさで、他の神々はおろか、私への報告すらせずに、真っ先におまえと接触した。
-ZeusWithAthena01|Zeus With Athena 01|Athena|父上、あのような些事はすべて私の裁量で対処し、真に重要な懸案のみを父上のお耳に入れるようにすれば、\n万事において、より迅速な対応が可能となるでしょう。とはいえ、ザグレウスも私も、父上がご介入くださったことに、心より感謝しています。
-ZeusWithAres01|Zeus With Ares 01|Zeus|ザグレウス！わが権限をもって、\n息子のアレスに力添えをさせよう。\nアレスはなにかと誤解されがちな神だが、\nその力は必ずや、おまえの役に立とう！
-ZeusWithAres01|Zeus With Ares 01|Ares|御意に。父上の望みは、私の望みゆえ。
-ZeusWithAphrodite01|Zeus With Aphrodite 01|Zeus|ザグレウスよ、おまえも、麗しのアフロディテに\nまみえることを夢見ておるだろう。無論、会うか否かは\nザグレウスがいつかオリュンポスにたどり着いた際に、\nみずから決めればよい。そうであろう、アフロディテ？
-ZeusWithAphrodite01|Zeus With Aphrodite 01|Aphrodite|まあ！ゼウス様が、そんな無粋なことをおっしゃる\nなんて… 私たち皆が手本とするお方ですのに。\nこの愛の女神アフロディテに、\n本気でそんなことをおっしゃるのですか？
-ZeusWithArtemis01|Zeus With Artemis 01|Zeus|ザグレウス、おまえは若く、男振りもよい。\nオリュンポスに到達した暁には、ふさわしき伴侶を\n見つけてやらねばな。幸い、候補には事欠かぬ。\nただし… わが娘アルテミスは例外だ。あれは\n誰に言い寄られても、決して伴侶を持とうとせぬ。
-ZeusWithArtemis01|Zeus With Artemis 01|Artemis|容姿じまんの求婚者たちからしょっちゅう\n言い寄られたり、失礼なことを言われたりするけど、\nあたしはひとりが好き。さみしくなったときは、\n友だちのニンフたちと森で過ごす方がぜんぜんいいよ。
-ZeusWithDemeter01|Zeus With Demeter 01|Zeus|よいか、ザグレウス。デメテルに関して誤解を\nしているのであれば、私が解いてやろう。デメテルは、\nわが姉も同然。とはいえ、じつの姉弟ではない。\n彼女の両親もわが父母もティタンであり、同じ最期を\n遂げたのは事実だがな。
-ZeusWithDemeter01|Zeus With Demeter 01|Demeter|ゼウス、あなたにしては、ずいぶん気の利いた\n心配りですこと。あたかも、私に聞こえていることを\n意識して、今だけは事実を述べざるを得なかった、\nと言わんばかりですね。
+ZeusWithAthena01|Duo - Zeus and Athena (1)|Zeus|ザグレウス、こたびは勇敢なるアテナもやってきたぞ。知恵の女神らしい抜け目のなさで、他の神々はおろか、私への報告すらせずに、真っ先におまえと接触した。
+ZeusWithAthena01|Duo - Zeus and Athena (1)|Athena|父上、あのような些事はすべて私の裁量で対処し、真に重要な懸案のみを父上のお耳に入れるようにすれば、\n万事において、より迅速な対応が可能となるでしょう。とはいえ、ザグレウスも私も、父上がご介入くださったことに、心より感謝しています。
+ZeusWithAres01|Duo - Zeus and Ares (1)|Zeus|ザグレウス！わが権限をもって、\n息子のアレスに力添えをさせよう。\nアレスはなにかと誤解されがちな神だが、\nその力は必ずや、おまえの役に立とう！
+ZeusWithAres01|Duo - Zeus and Ares (1)|Ares|御意に。父上の望みは、私の望みゆえ。
+ZeusWithAphrodite01|Duo - Zeus and Aphrodite (1)|Zeus|ザグレウスよ、おまえも、麗しのアフロディテに\nまみえることを夢見ておるだろう。無論、会うか否かは\nザグレウスがいつかオリュンポスにたどり着いた際に、\nみずから決めればよい。そうであろう、アフロディテ？
+ZeusWithAphrodite01|Duo - Zeus and Aphrodite (1)|Aphrodite|まあ！ゼウス様が、そんな無粋なことをおっしゃる\nなんて… 私たち皆が手本とするお方ですのに。\nこの愛の女神アフロディテに、\n本気でそんなことをおっしゃるのですか？
+ZeusWithArtemis01|Duo - Zeus and Artemis (1)|Zeus|ザグレウス、おまえは若く、男振りもよい。\nオリュンポスに到達した暁には、ふさわしき伴侶を\n見つけてやらねばな。幸い、候補には事欠かぬ。\nただし… わが娘アルテミスは例外だ。あれは\n誰に言い寄られても、決して伴侶を持とうとせぬ。
+ZeusWithArtemis01|Duo - Zeus and Artemis (1)|Artemis|容姿じまんの求婚者たちからしょっちゅう\n言い寄られたり、失礼なことを言われたりするけど、\nあたしはひとりが好き。さみしくなったときは、\n友だちのニンフたちと森で過ごす方がぜんぜんいいよ。
+ZeusWithDemeter01|Duo - Zeus and Demeter (1)|Zeus|よいか、ザグレウス。デメテルに関して誤解を\nしているのであれば、私が解いてやろう。デメテルは、\nわが姉も同然。とはいえ、じつの姉弟ではない。\n彼女の両親もわが父母もティタンであり、同じ最期を\n遂げたのは事実だがな。
+ZeusWithDemeter01|Duo - Zeus and Demeter (1)|Demeter|ゼウス、あなたにしては、ずいぶん気の利いた\n心配りですこと。あたかも、私に聞こえていることを\n意識して、今だけは事実を述べざるを得なかった、\nと言わんばかりですね。
 ZeusAboutLuciferAspect01|Zeus About Lucifer Aspect 01|Zeus|私が伝授した目覚めの呪文を、エクサグリフに\n唱えてみたか？おまえにその気がないのなら、\n私が直々に唱えてやってもよいぞ。「われは見る。\n業火の中へ、誇り高く堕天するそなたの姿を」！
 ZeusAboutLuciferAspect02|Zeus About Lucifer Aspect 02|Zeus|エクサグリフ自体、奇怪な武具ではあるが、また一段と\n奇抜な意匠を帯びたな。私が伝授した目覚めの呪文が\n効いたか。それはたしか… ルシファーの態。\n主たる実父を武力にて討たんとした者と聞く。\nいつの時代にも、似た話はあるものだ。
 ZeusAboutDemeter03|Zeus About Demeter 03|Zeus|すでに女神デメテルの凍てつく指先に触れたようだな。\n冷淡な印象を受けるかもしれぬが、\nどうかおおらかな目で見てやってほしい。\nあれは、なにかとつらい目に遭ったのだ。
@@ -1680,20 +1680,20 @@ ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。�
 ZeusGift06_B|Zeus Gift 06 B|Zeus|これはまた… 申し分のない供物だ。おまえと直接顔を\n合わせたことこそないが、すでにじつの息子同然に\n思っているぞ！ともすれば、私はおまえの父以上に、\nおまえを息子のように思っているだろう！この際、\n皆に告げて回るか！おまえの実父は、この私だと！
 ZeusGift07|Zeus Gift 07|Zagreus|オリュンポスの神々の王、雷神ゼウスに、ささやかな\n供物を。アンブロシアなど、オリュンポスではつまらぬものでしょうが、冥界で入手できる供物としては、\n最良です。叔父上より受けた御加護に、多少なりとも\n返礼できれば。
 ZeusGift07|Zeus Gift 07|Zeus|私に供物を捧げ敬意を示すとは、じつに殊勝な心がけ。\nとはいえ、あまり親しくしすぎるのも、いかがなものか。おまえをひいきしていると思われては、他の神々の\n嫉妬を招く。とはいえ、私がおまえに特に目をかけて\nいることは、少なくとも当面は、事実だがな…
-AresWithPoseidon01|Ares With Poseidon 01|Ares|誤解を恐れず率直に述べれば… 貴君の父君と、\nより近しい関係であればと願うことが、時折ある。\nオリュンポスに座すわが父上ゼウスと\nポセイドン伯父上は… 私とは相いれぬ面も多いゆえ。
-AresWithPoseidon01|Ares With Poseidon 01|Poseidon|アレス、それはおまえが変わり者だからだ。\nもっと気さくに振る舞うよう努力すれば、\nわれわれと共通する面も増える！\n俺の助言が欲しければ、いつでも力になるぞ！
-AresWithAthena01|Ares With Athena 01|Ares|貴君だけに、折り入って話があったのだが、あいにく…
-AresWithAthena01|Ares With Athena 01|Athena|…あいにく、オリュンポスの神には、口に出すのも\nはばかられる悪業を好む者もいるのだ、ザグレウス。\nわが異母弟には、容易に心を開かぬように。\nさあ、先を急ぐがいい。
-AresWithAthena01|Ares With Athena 01|Ares|…姉上はそうやって、隙あらば私の話をさえぎる。\n私の任ずる事柄への口出しは無用。\nわが眷属にいかような助力をするかは、\n私の自由にさせていただきたい。
-AresWithAthena01|Ares With Athena 01|Athena|おまえがおのれの自由にせぬことなど、\nありはしないだろう。くれぐれも、われわれの足を\n引っ張るようなまねだけは控えてもらいたい。
-AresWithAphrodite01|Ares With Aphrodite 01|Ares|貴君がオリュンポスを訪れる日を、心待ちにしている。貴君と私が共に探究する、戦の業。\nそれを重んじる神は、数少ない。
-AresWithAphrodite01|Ares With Aphrodite 01|Aphrodite|それでも、何柱かは存在するわ… そうでしょう、\nアレス様？ザグレウス、急ぐことはないわ。\n慌てずゆっくりいらっしゃい。
-AresWithAphrodite02|Ares With Aphrodite 02|Ares|愛が戦を招く… アフロディテ嬢と私は、さような戦の数々について、とめどなく語り合うことができる。貴君も、おのれが戦う理由について、考えをめぐらせる一時があるのでは？無論、戦に理由など不要ではあるが。
-AresWithAphrodite02|Ares With Aphrodite 02|Aphrodite|アレス様、そのような言葉で、\n若き王子の心を惑わすことなどございませんわ。\n彼の望むままに祝福を授け、愛と戦の談義は、\nふたりきりでゆっくりいたしましょう。
-AresWithDionysus01|Ares With Dionysus 01|Ares|今、ディオニュソスに尋ねていたところだ。\n人間たちの開く宴のうち、いかなる状況下に\n開かれるものが、最も盛大かと。私が思うに、それは…
-AresWithDionysus01|Ares With Dionysus 01|Dionysus|ああ、わかってる、わかってる。アレスの\n言うとおりさ。戦のあとに開かれる宴に勝るものは\nない！ただし、勝った側の場合だ。負けた側は冥界で、\nザグと杯を交わすことになるからな！
-AresWithDemeter01|Ares With Demeter 01|Ares|死に際の寒さほど、女神デメテルに\nふさわしきものはない… そうは思わぬか？\nデメテル自身も、死を司る女神としての働きが\n板についてきたようだ。
-AresWithDemeter01|Ares With Demeter 01|Demeter|アレス、あなたはお忘れのようですが、私はあなたよりずっと古い時代から、季節の女神として君臨している\nのです。私が起こした飢饉で、これまでにいったい\nどれだけの命が潰えたとお思いですか？
+AresWithPoseidon01|Duo - Ares and Poseidon (1)|Ares|誤解を恐れず率直に述べれば… 貴君の父君と、\nより近しい関係であればと願うことが、時折ある。\nオリュンポスに座すわが父上ゼウスと\nポセイドン伯父上は… 私とは相いれぬ面も多いゆえ。
+AresWithPoseidon01|Duo - Ares and Poseidon (1)|Poseidon|アレス、それはおまえが変わり者だからだ。\nもっと気さくに振る舞うよう努力すれば、\nわれわれと共通する面も増える！\n俺の助言が欲しければ、いつでも力になるぞ！
+AresWithAthena01|Duo - Ares and Athena (1)|Ares|貴君だけに、折り入って話があったのだが、あいにく…
+AresWithAthena01|Duo - Ares and Athena (1)|Athena|…あいにく、オリュンポスの神には、口に出すのも\nはばかられる悪業を好む者もいるのだ、ザグレウス。\nわが異母弟には、容易に心を開かぬように。\nさあ、先を急ぐがいい。
+AresWithAthena01|Duo - Ares and Athena (1)|Ares|…姉上はそうやって、隙あらば私の話をさえぎる。\n私の任ずる事柄への口出しは無用。\nわが眷属にいかような助力をするかは、\n私の自由にさせていただきたい。
+AresWithAthena01|Duo - Ares and Athena (1)|Athena|おまえがおのれの自由にせぬことなど、\nありはしないだろう。くれぐれも、われわれの足を\n引っ張るようなまねだけは控えてもらいたい。
+AresWithAphrodite01|Duo - Ares and Aphrodite (1)|Ares|貴君がオリュンポスを訪れる日を、心待ちにしている。貴君と私が共に探究する、戦の業。\nそれを重んじる神は、数少ない。
+AresWithAphrodite01|Duo - Ares and Aphrodite (1)|Aphrodite|それでも、何柱かは存在するわ… そうでしょう、\nアレス様？ザグレウス、急ぐことはないわ。\n慌てずゆっくりいらっしゃい。
+AresWithAphrodite02|Duo - Ares and Aphrodite (2)|Ares|愛が戦を招く… アフロディテ嬢と私は、さような戦の数々について、とめどなく語り合うことができる。貴君も、おのれが戦う理由について、考えをめぐらせる一時があるのでは？無論、戦に理由など不要ではあるが。
+AresWithAphrodite02|Duo - Ares and Aphrodite (2)|Aphrodite|アレス様、そのような言葉で、\n若き王子の心を惑わすことなどございませんわ。\n彼の望むままに祝福を授け、愛と戦の談義は、\nふたりきりでゆっくりいたしましょう。
+AresWithDionysus01|Duo - Ares and Dionysus (1)|Ares|今、ディオニュソスに尋ねていたところだ。\n人間たちの開く宴のうち、いかなる状況下に\n開かれるものが、最も盛大かと。私が思うに、それは…
+AresWithDionysus01|Duo - Ares and Dionysus (1)|Dionysus|ああ、わかってる、わかってる。アレスの\n言うとおりさ。戦のあとに開かれる宴に勝るものは\nない！ただし、勝った側の場合だ。負けた側は冥界で、\nザグと杯を交わすことになるからな！
+AresWithDemeter01|Duo - Ares and Demeter (1)|Ares|死に際の寒さほど、女神デメテルに\nふさわしきものはない… そうは思わぬか？\nデメテル自身も、死を司る女神としての働きが\n板についてきたようだ。
+AresWithDemeter01|Duo - Ares and Demeter (1)|Demeter|アレス、あなたはお忘れのようですが、私はあなたよりずっと古い時代から、季節の女神として君臨している\nのです。私が起こした飢饉で、これまでにいったい\nどれだけの命が潰えたとお思いですか？
 AresKillQuestComplete|Ares Kill Quest Complete|Ares|貴君が奪った命の数は、10000に上った。\nこの私でさえ興奮を覚える戦果だ。称賛に値する。
 AresAboutOlympianReunionQuest01|Ares About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に、言づてを捧げん！戦神アレス、\n内容を解したならば、われらの申し出を受諾し給え。
 AresAboutOlympianReunionQuest01|Ares About Olympian Reunion Quest 01|Ares|これは… 私宛ての招待状か。\n印を見るかぎり、オリュンポスの神々全員に\n関係する内容のようだ…じつに興味深い。\n可及的速やかに、解読にかかるとしよう。\nだがその前に、私からも、これを。
@@ -1861,24 +1861,24 @@ AresGift06|Ares Gift 06|Zagreus|殺戮と無縁ではいられぬ日々を送る
 AresGift06|Ares Gift 06|Ares|私が貴君に代わり為した戦績の数々に、\n貴君も満足しているようで何よりだ。\n厚き心遣い、しかと受け止めた。貴君が\n日々手を染める殺戮の数々に、私の心も湧き立つ。
 AresGift07|Ares Gift 07|Zagreus|戦神アレスの名と名誉を称え、アンブロシアを捧げん。その加護と導きにより、われが制した敵は数知れず。\nアレス神との邂逅と、従兄弟としての縁に感謝する。
 AresGift07|Ares Gift 07|Ares|じつに見事な品だ。だがそれ以上に、\n貴君がその手で為した破壊と殺戮の数々こそが、\n私には何物にも替えがたい供物に他ならない。\n貴君が真の戦に赴く際には、必ずや私を\n訪うことを願う。貴君の側に助力しよう。
-ArtemisWithZeus01|Artemis With Zeus 01|Artemis|コホン！ザグレウス殿… こちらにおわしますは、\n慈悲深き、寛大なる、偉大なる、わが父にして、\nそなたの叔父上… ゼウス王なり！
-ArtemisWithZeus01|Artemis With Zeus 01|Zeus|…仰々しい紹介、ご苦労。ここはもういいから、\nニンフたちと遊んできなさい。その前にどうしてもと\n言うなら、わが甥にささやかな祝福のひとつでも\nかけてやるといい。
-ArtemisWithPoseidon01|Artemis With Poseidon 01|Artemis|ザグレウスは、あたしの父さんと伯父さん、\nもう知ってるよね？ふたりとも神としては最低…\nじゃなくて！ふたりとも、“偉い”！毎日、朝から晩まで\nオリュンポスの麓の海に潜りっぱなしでも「偉い」よ！\nそうでしょ、伯父さま？
-ArtemisWithPoseidon01|Artemis With Poseidon 01|Poseidon|アルテミス、ジュニアに俺の偉大さを宣伝する必要\nなどないぞ！普段海中にいようと、海を見下ろして\nいようと、海底のさらに下にいようと、神格には\n関係ない！おまえたちは、まだ若い！日々努力して\nいれば、俺とほぼ同列程度に偉大な神になれる！
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|ザグレウス！その… ずっと聞きたかったことが\nあって… でも、誤解しないでもらいたいんだけど…\nその… うわ、めんどくさいのが来た…
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Aphrodite|あらあら。アルテミスったら、\nもじもじしちゃって、かわいいわ。ふふふ。\n冥界の王子様のせいかしら？それとも、私のせい？\n大丈夫よ、いずれちゃんと、わかるときがくるから！
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|だから、そういうんじゃなくて…\nあー、もう！何言おうとしたかわからなくなった！\nザグレウス、また今度ね。
-ArtemisWithAphrodite02|Artemis With Aphrodite 02|Artemis|狩人として恥ずかしいんだけど…\nどうしても、アフロディテの追跡をまけなくて…\n何を企んでるのか知らないけど、あたしとふたりで、\nザグレウスに会いたいって言うんだよね…
-ArtemisWithAphrodite02|Artemis With Aphrodite 02|Aphrodite|まあ、アルテミスったら！\n獣から身を隠すことはできても、私にはお見通しよ。\n今度からは、もっと自分の気持ちに正直になることね。
-ArtemisWithAres01|Artemis With Ares 01|Artemis|あたしたちにも、ザグレウスの声が\n聞こえたらいいのにね。そうすればアレスにも、\n私の力は狩り専用で、戦用の力とは違うって、\nわかってもらえそうなんだけど。
-ArtemisWithAres01|Artemis With Ares 01|Ares|アルテミス、われらの力には、かつては別の用途が\nあったのかもしれぬ。しかし、それが今日別の用途に\n変化したとて、異を唱えるのは筋違い。わが眷属に\nわれらの総力を付与し、その結果をただ見守るのみだ。
-ArtemisWithAres02|Artemis With Ares 02|Artemis|狩りに出かける前に、ザグレウスとふたりで\n話したかったのに。大勢で群れるの、好きじゃないし。…アレスは、狩りの道具がチラッとでも見えたら、\nすぐに首をつっこんでくるから…
-ArtemisWithAres02|Artemis With Ares 02|Ares|アルテミス、狩りは戦の序章なり。\n人間たちが狩りを知らねば、\n互いに殺し合う技に長けることもなかったであろう。
-ArtemisWithAres02|Artemis With Ares 02|Artemis|アレス… あたしの射撃の力がほしいなら、\nいくらでも貸すから、あっちへ行って。
-ArtemisWithDionysus01|Artemis With Dionysus 01|Artemis|ザグレウス！ちょうどよかった！ディオニュソスと\n話してると、耳にタコが100個ぐらいできそうで…\nザグレウスも、話聞いてあげて。ディオニュソスと\nあたしで、いつもと違う祝福、授けてあげるから！
-ArtemisWithDionysus01|Artemis With Dionysus 01|Dionysus|なんだなんだ？オレがそんなにうるさいって？\n黙れって？なんでそんなこと言うんだよー、\n酷いじゃないかー、なあ？酷いと思わないか？
-ArtemisWithDemeter01|Artemis With Demeter 01|Artemis|ザグレウス、おつかれさま！デメテルに、そろそろ\n雪をやませてほしいってお願いしてたんだけど、\n全然聞いてくれなくて。人間たちもウンザリしてるし、こんなに積もってちゃ、狩りもしにくいし…
-ArtemisWithDemeter01|Artemis With Demeter 01|Demeter|アルテミス、人間たちは器用なものです。\n彼らの、数少ない長所のひとつと\n言ってよいでしょう。終わりなき冬を\n乗り切るすべも、おのずと見いだすでしょう。\nなにしろ、みずから招いたことなのですから。
+ArtemisWithZeus01|Duo - Artemis and Zeus (1)|Artemis|コホン！ザグレウス殿… こちらにおわしますは、\n慈悲深き、寛大なる、偉大なる、わが父にして、\nそなたの叔父上… ゼウス王なり！
+ArtemisWithZeus01|Duo - Artemis and Zeus (1)|Zeus|…仰々しい紹介、ご苦労。ここはもういいから、\nニンフたちと遊んできなさい。その前にどうしてもと\n言うなら、わが甥にささやかな祝福のひとつでも\nかけてやるといい。
+ArtemisWithPoseidon01|Duo - Artemis and Poseidon (1)|Artemis|ザグレウスは、あたしの父さんと伯父さん、\nもう知ってるよね？ふたりとも神としては最低…\nじゃなくて！ふたりとも、“偉い”！毎日、朝から晩まで\nオリュンポスの麓の海に潜りっぱなしでも「偉い」よ！\nそうでしょ、伯父さま？
+ArtemisWithPoseidon01|Duo - Artemis and Poseidon (1)|Poseidon|アルテミス、ジュニアに俺の偉大さを宣伝する必要\nなどないぞ！普段海中にいようと、海を見下ろして\nいようと、海底のさらに下にいようと、神格には\n関係ない！おまえたちは、まだ若い！日々努力して\nいれば、俺とほぼ同列程度に偉大な神になれる！
+ArtemisWithAphrodite01|Duo - Artemis and Aphrodite (1)|Artemis|ザグレウス！その… ずっと聞きたかったことが\nあって… でも、誤解しないでもらいたいんだけど…\nその… うわ、めんどくさいのが来た…
+ArtemisWithAphrodite01|Duo - Artemis and Aphrodite (1)|Aphrodite|あらあら。アルテミスったら、\nもじもじしちゃって、かわいいわ。ふふふ。\n冥界の王子様のせいかしら？それとも、私のせい？\n大丈夫よ、いずれちゃんと、わかるときがくるから！
+ArtemisWithAphrodite01|Duo - Artemis and Aphrodite (1)|Artemis|だから、そういうんじゃなくて…\nあー、もう！何言おうとしたかわからなくなった！\nザグレウス、また今度ね。
+ArtemisWithAphrodite02|Duo - Artemis and Aphrodite (2)|Artemis|狩人として恥ずかしいんだけど…\nどうしても、アフロディテの追跡をまけなくて…\n何を企んでるのか知らないけど、あたしとふたりで、\nザグレウスに会いたいって言うんだよね…
+ArtemisWithAphrodite02|Duo - Artemis and Aphrodite (2)|Aphrodite|まあ、アルテミスったら！\n獣から身を隠すことはできても、私にはお見通しよ。\n今度からは、もっと自分の気持ちに正直になることね。
+ArtemisWithAres01|Duo - Artemis and Ares (1)|Artemis|あたしたちにも、ザグレウスの声が\n聞こえたらいいのにね。そうすればアレスにも、\n私の力は狩り専用で、戦用の力とは違うって、\nわかってもらえそうなんだけど。
+ArtemisWithAres01|Duo - Artemis and Ares (1)|Ares|アルテミス、われらの力には、かつては別の用途が\nあったのかもしれぬ。しかし、それが今日別の用途に\n変化したとて、異を唱えるのは筋違い。わが眷属に\nわれらの総力を付与し、その結果をただ見守るのみだ。
+ArtemisWithAres02|Duo - Artemis and Ares (2)|Artemis|狩りに出かける前に、ザグレウスとふたりで\n話したかったのに。大勢で群れるの、好きじゃないし。…アレスは、狩りの道具がチラッとでも見えたら、\nすぐに首をつっこんでくるから…
+ArtemisWithAres02|Duo - Artemis and Ares (2)|Ares|アルテミス、狩りは戦の序章なり。\n人間たちが狩りを知らねば、\n互いに殺し合う技に長けることもなかったであろう。
+ArtemisWithAres02|Duo - Artemis and Ares (2)|Artemis|アレス… あたしの射撃の力がほしいなら、\nいくらでも貸すから、あっちへ行って。
+ArtemisWithDionysus01|Duo - Artemis and Dionysus (1)|Artemis|ザグレウス！ちょうどよかった！ディオニュソスと\n話してると、耳にタコが100個ぐらいできそうで…\nザグレウスも、話聞いてあげて。ディオニュソスと\nあたしで、いつもと違う祝福、授けてあげるから！
+ArtemisWithDionysus01|Duo - Artemis and Dionysus (1)|Dionysus|なんだなんだ？オレがそんなにうるさいって？\n黙れって？なんでそんなこと言うんだよー、\n酷いじゃないかー、なあ？酷いと思わないか？
+ArtemisWithDemeter01|Duo - Artemis and Demeter (1)|Artemis|ザグレウス、おつかれさま！デメテルに、そろそろ\n雪をやませてほしいってお願いしてたんだけど、\n全然聞いてくれなくて。人間たちもウンザリしてるし、こんなに積もってちゃ、狩りもしにくいし…
+ArtemisWithDemeter01|Duo - Artemis and Demeter (1)|Demeter|アルテミス、人間たちは器用なものです。\n彼らの、数少ない長所のひとつと\n言ってよいでしょう。終わりなき冬を\n乗り切るすべも、おのずと見いだすでしょう。\nなにしろ、みずから招いたことなのですから。
 ArtemisAboutRamaAspect01|Artemis About Rama Aspect 01|Artemis|ザグレウス、コロナハトに話しかけてみた？\nこの前も言ったけど、「われは見る。第7の化身の腕に\n引かれる、そなたの姿を」って言うと、なにかいいこと\nあるみたい。聖なる射手の態が覚醒する、\nとかじゃないかな。近いうちに、唱えてみたら？
 ArtemisAboutRamaAspect02|Artemis About Rama Aspect 02|Artemis|あたしが教えた呪文、本当に効果あったんだね！\nここからでも、その弓の光が見える。あたしはまだ\nコロナハトを使ったことはないけど、過去か未来の\n使い手の幻影を運命の三女神が見せてくれたって\nことは… いつかチャンスがめぐってくるのかも！
 ArtemisAboutOlympianReunionQuest01|Artemis About Olympian Reunion Quest 01|Zagreus|これは、狩りの女神の印だな。よし…\nハデス神の名において、オリュンポスの神に、\n言づてを捧げん！女神アルテミスよ、受け取り給え！
@@ -2034,24 +2034,24 @@ ArtemisGift06|Artemis Gift 06|Zagreus|女神アルテミスの祝福を受け、
 ArtemisGift06|Artemis Gift 06|Artemis|ザグレウス… あたしも女神だから、崇拝されるのは\n嫌いじゃない。でも… そういうことは、\n森のニンフたちにでも任せておいて… ね？
 ArtemisGift07|Artemis Gift 07|Zagreus|オリュンポスでは、アンブロシアなどありふれた品と\n承知している。それでも、これが冥界にまで下り、\n再びオリュンポスに戻ることは稀かと…\n女神アルテミスのおかげで、自分がオリュンポスの\n一族であることに誇りを持てる。感謝している。
 ArtemisGift07|Artemis Gift 07|Artemis|この山にいると、いつも気負っちゃう。みんな\nツンケンして、言い争ってばかり。だからあたしは\n森へ逃げる。オリュンポスの家族より、ザグレウスの\nほうがあたしをわかってくれそうだけど… どうかな…\nでも、気にかけてくれることはうれしいよ。
-AphroditeWithZeus01|Aphrodite With Zeus 01|Aphrodite|ザグレウス、オリュンポスの頂に御座す叔父様が、\nあなたにご用ですって。私たちふたりに\n任せてもらって、なんの問題もないのにね…
-AphroditeWithZeus01|Aphrodite With Zeus 01|Zeus|ザグレウス、女神アフロディテは、引きも切らぬ\n求愛者たちの名簿の管理で多忙なようだ。\nアフロディテよ、この者に祝福を授けたら、すぐに\nこの場を辞してよい。ここからは私が引き継ごう。
-AphroditeWithPoseidon01|Aphrodite With Poseidon 01|Aphrodite|私たちオリュンポスの一族はね、みんなそれぞれ、\n一癖も二癖もあるの。それでも深い絆で結ばれていて、お互いちゃんと愛し合っているのよ。
-AphroditeWithPoseidon01|Aphrodite With Poseidon 01|Poseidon|おっと、失礼！おじゃま虫は退散しよう。\nおふたりさん、ごゆっくり！\nなに、誰にも言いはしないから、安心してくれ！
-AphroditeWithPoseidon01|Aphrodite With Poseidon 01|Aphrodite|いいのよ、ポセイドン、そこにいて。\nちょうど今、あなたがとってもおバカさんだって、\nザグレウスに説明してあげてたところだもの。\n実演してもらえて助かるわ。\nえっと… なんの話だったかしら？
-AphroditeWithAthena01|Aphrodite With Athena 01|Aphrodite|あなたは神の子、いわゆる「副神」とされている。\n私たちオリュンポスの神の、親戚のようなものね。\nオリュンポスにはお高くとまった神もいて、\n必要以上に事を面倒にしたがるのよ。
-AphroditeWithAthena01|Aphrodite With Athena 01|Athena|アフロディテ。いまの発言、もう一度聞かせて\nもらおうか。私の面と向かって、同じことを言えるか？
-AphroditeWithAthena01|Aphrodite With Athena 01|Aphrodite|アテナ。あなたの面と向かったら、\n同じことを言うだけじゃ済まないわ。\nその顔を、いろいろ“お直し”してあげたくなっちゃう。うふふ。
-AphroditeWithAthena02|Aphrodite With Athena 02|Aphrodite|聞いて、ザグレウス。アテナと私って、\nときどき意見が衝突しちゃうの。アテナは\nなんでも難しく考えすぎるところがあるけれど、\n私は心のままに生きているからかしら。
-AphroditeWithAthena02|Aphrodite With Athena 02|Athena|そのとおり。よくわかっているようで何よりだ、\nアフロディテ。ザグレウスの前で口論し、\n恥をさらすことは、私としても避けたい。
-AphroditeWithAres01|Aphrodite With Ares 01|Aphrodite|意外に思うかもしれないけれど、愛と戦争には、\n深い結びつきがあるの。正反対の力なのに不思議よね。神々と人間の、とりわけ激しい情熱がぶつかり合う…\nそうじゃありませんこと、アレス様？
-AphroditeWithAres01|Aphrodite With Ares 01|Ares|人間は生に執着するあまり、\nおのれが生きるためなら平然と他者を殺める。\n彼らの胸中に突如として吹き荒れる、激しい感情…\nいかなる「情熱」も、根本は同じなのだ。
-AphroditeWithArtemis01|Aphrodite With Artemis 01|Aphrodite|アルテミスを連れてきてあげたわ。いつも狩りに夢中で\n社交マナーを身につける機会のない娘だから、自分から\nあなたのところへ赴く礼儀をわきまえていないの。
-AphroditeWithArtemis01|Aphrodite With Artemis 01|Artemis|フン… みんな好き勝手なことばかり言って…\nザグレウスは、わかってるよね？その気になれば、\nあたしがいつでもキミを見つけられること。\n同じ要領でアフロディテからも逃げられたらいいのに…
-AphroditeWithDionysus01|Aphrodite With Dionysus 01|Aphrodite|私の力は、ディオニュソスの力と相性がいいの。彼はね、心に働きかけて、美しさなんてないところにさえ、あるかのように見せることができるのよ！
-AphroditeWithDionysus01|Aphrodite With Dionysus 01|Dionysus|ハハハ！そんなふうに褒められると、照れるな！\n美しさというのは、おおかた心に宿るものだ！\nそれから、隆々とした筋肉と、顎の輪郭、\nそして魅力的な笑顔にも… っと、愛と美の女神\nアフロディテに、こんな説明は無用だったな。
-AphroditeWithDemeter01|Aphrodite With Demeter 01|Aphrodite|偉大なる季節の女神デメテルは、威厳と風格に満ちた\n姿で顕れる… でも、私にはさっぱり理解できないわ。\nそもそも、顔に細かい線をあんなにたくさん\nつける意味がわからないもの。
-AphroditeWithDemeter01|Aphrodite With Demeter 01|Demeter|アフロディテ、あなたには、マントで肌を覆う意味も\n理解できないのでしょう。あなたが選んだその姿には、女神としてのあなたの意図と、あなたの個人的な興味が如実に現れています。
+AphroditeWithZeus01|Duo - Aphrodite and Zeus (1)|Aphrodite|ザグレウス、オリュンポスの頂に御座す叔父様が、\nあなたにご用ですって。私たちふたりに\n任せてもらって、なんの問題もないのにね…
+AphroditeWithZeus01|Duo - Aphrodite and Zeus (1)|Zeus|ザグレウス、女神アフロディテは、引きも切らぬ\n求愛者たちの名簿の管理で多忙なようだ。\nアフロディテよ、この者に祝福を授けたら、すぐに\nこの場を辞してよい。ここからは私が引き継ごう。
+AphroditeWithPoseidon01|Duo - Aphrodite and Poseidon (1)|Aphrodite|私たちオリュンポスの一族はね、みんなそれぞれ、\n一癖も二癖もあるの。それでも深い絆で結ばれていて、お互いちゃんと愛し合っているのよ。
+AphroditeWithPoseidon01|Duo - Aphrodite and Poseidon (1)|Poseidon|おっと、失礼！おじゃま虫は退散しよう。\nおふたりさん、ごゆっくり！\nなに、誰にも言いはしないから、安心してくれ！
+AphroditeWithPoseidon01|Duo - Aphrodite and Poseidon (1)|Aphrodite|いいのよ、ポセイドン、そこにいて。\nちょうど今、あなたがとってもおバカさんだって、\nザグレウスに説明してあげてたところだもの。\n実演してもらえて助かるわ。\nえっと… なんの話だったかしら？
+AphroditeWithAthena01|Duo - Aphrodite and Athena (1)|Aphrodite|あなたは神の子、いわゆる「副神」とされている。\n私たちオリュンポスの神の、親戚のようなものね。\nオリュンポスにはお高くとまった神もいて、\n必要以上に事を面倒にしたがるのよ。
+AphroditeWithAthena01|Duo - Aphrodite and Athena (1)|Athena|アフロディテ。いまの発言、もう一度聞かせて\nもらおうか。私の面と向かって、同じことを言えるか？
+AphroditeWithAthena01|Duo - Aphrodite and Athena (1)|Aphrodite|アテナ。あなたの面と向かったら、\n同じことを言うだけじゃ済まないわ。\nその顔を、いろいろ“お直し”してあげたくなっちゃう。うふふ。
+AphroditeWithAthena02|Duo - Aphrodite and Athena (2)|Aphrodite|聞いて、ザグレウス。アテナと私って、\nときどき意見が衝突しちゃうの。アテナは\nなんでも難しく考えすぎるところがあるけれど、\n私は心のままに生きているからかしら。
+AphroditeWithAthena02|Duo - Aphrodite and Athena (2)|Athena|そのとおり。よくわかっているようで何よりだ、\nアフロディテ。ザグレウスの前で口論し、\n恥をさらすことは、私としても避けたい。
+AphroditeWithAres01|Duo - Aphrodite and Ares (1)|Aphrodite|意外に思うかもしれないけれど、愛と戦争には、\n深い結びつきがあるの。正反対の力なのに不思議よね。神々と人間の、とりわけ激しい情熱がぶつかり合う…\nそうじゃありませんこと、アレス様？
+AphroditeWithAres01|Duo - Aphrodite and Ares (1)|Ares|人間は生に執着するあまり、\nおのれが生きるためなら平然と他者を殺める。\n彼らの胸中に突如として吹き荒れる、激しい感情…\nいかなる「情熱」も、根本は同じなのだ。
+AphroditeWithArtemis01|Duo - Aphrodite and Artemis (1)|Aphrodite|アルテミスを連れてきてあげたわ。いつも狩りに夢中で\n社交マナーを身につける機会のない娘だから、自分から\nあなたのところへ赴く礼儀をわきまえていないの。
+AphroditeWithArtemis01|Duo - Aphrodite and Artemis (1)|Artemis|フン… みんな好き勝手なことばかり言って…\nザグレウスは、わかってるよね？その気になれば、\nあたしがいつでもキミを見つけられること。\n同じ要領でアフロディテからも逃げられたらいいのに…
+AphroditeWithDionysus01|Duo - Aphrodite and Dionysus (1)|Aphrodite|私の力は、ディオニュソスの力と相性がいいの。彼はね、心に働きかけて、美しさなんてないところにさえ、あるかのように見せることができるのよ！
+AphroditeWithDionysus01|Duo - Aphrodite and Dionysus (1)|Dionysus|ハハハ！そんなふうに褒められると、照れるな！\n美しさというのは、おおかた心に宿るものだ！\nそれから、隆々とした筋肉と、顎の輪郭、\nそして魅力的な笑顔にも… っと、愛と美の女神\nアフロディテに、こんな説明は無用だったな。
+AphroditeWithDemeter01|Duo - Aphrodite and Demeter (1)|Aphrodite|偉大なる季節の女神デメテルは、威厳と風格に満ちた\n姿で顕れる… でも、私にはさっぱり理解できないわ。\nそもそも、顔に細かい線をあんなにたくさん\nつける意味がわからないもの。
+AphroditeWithDemeter01|Duo - Aphrodite and Demeter (1)|Demeter|アフロディテ、あなたには、マントで肌を覆う意味も\n理解できないのでしょう。あなたが選んだその姿には、女神としてのあなたの意図と、あなたの個人的な興味が如実に現れています。
 AphroditeAboutOlympianReunionQuest01|Aphrodite About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に、言づてを捧げん！\n愛と美の女神アフロディテの、健勝たらんことを！
 AphroditeAboutOlympianReunionQuest01|Aphrodite About Olympian Reunion Quest 01|Aphrodite|驚いたわ… あなたから、こんな謎めいた言づてが届く\nなんて… いったい何が書いてあるのかしら、心を\nくすぐられるわ。…これは、オリュンポスの印ね。\nということは、この内容は、私たちオリュンポスの\n神全員で共有すべきということかしら？
 AphroditePostEpilogue01|Aphrodite Post Epilogue 01|Aphrodite|あなたの暮らす世界を訪ねて、本当に楽しかったわ！\n景色も、音も、匂いも、初めて経験するものばかりで、素敵だった… でもあなたは、とてつもなく大きな責任を背負っているのね。これからもときどき、あなたを\n祝福してもいいかしら…？
@@ -2185,21 +2185,21 @@ AphroditeGift06|Aphrodite Gift 06|Zagreus|女神アフロディテを崇拝す�
 AphroditeGift06|Aphrodite Gift 06|Aphrodite|オリュンポスの神々のうち、私ほど崇拝者の多い神は\nいないはず。こんなふうに称えられることにも\n慣れっこだと思っているでしょうけど…\nいくら称えられても飽きることはないわ！\n特に、あなたからの称賛は、格別よ。
 AphroditeGift07|Aphrodite Gift 07|Zagreus|女神アフロディテの寵愛を賜り、おのれの持てる力を\n余すことなく発揮できました。多大なる御恩への\n感謝の印として、ささやかな供物、アンブロシアを\n受け取り給え。
 AphroditeGift07|Aphrodite Gift 07|Aphrodite|あなたが私を何度称えてくれたか、もう思い出せない\nほど… なんて、ウソ。ちゃんと数えているわ。\nあなたのその情熱とひたむきさ、本当に素敵。\nあなたがオリュンポスの頂に昇り詰める日が楽しみよ。あなたのこと、もっともっとよく知りたいもの。
-DionysusWithZeus01|Dionysus With Zeus 01|Dionysus|ザグ、うちの親父が、おまえに話があるらしい。\n大丈夫、落ち着いて、口答えしなければ\n問題ないからな。
-DionysusWithZeus01|Dionysus With Zeus 01|Zeus|ディオニュソス… あれはいつも一言多いが、\n少なくとも、私にしかるべき敬意は払っている。\nザグレウスよ、おまえもいずれ、あれから\nオリュンポスでのしきたりを学ぶことになろう。
-DionysusWithPoseidon01|Dionysus With Poseidon 01|Dionysus|ザグ… 今、おまえの叔父さんが来ててさ…\n俺の親父じゃなくて、もうひとりのほうな。\nおまえの様子を見たいって言ってるんだが…
-DionysusWithPoseidon01|Dionysus With Poseidon 01|Poseidon|おー！ザグ坊！元気でやってるか！ディオニュソスに、いろいろ教えてもらってるか？言っておくが、\n派手な宴を開くことに関しちゃ、俺の方が上だぞ！\nさあ、俺からも祝福を授けてやろう！
-DionysusWithPoseidon01|Dionysus With Poseidon 01|Dionysus|…とにかく！みんなオリュンポスで待ってるからな！\nおまえならやれる！いつかは、な！\nみんな、そう信じてるぜ！
-DionysusWithAthena01|Dionysus With Athena 01|Dionysus|ザグがこっちに来たら、お祭り騒ぎ間違いなしだ！\nあの堅物のアテナでさえ、きっと多少は羽目外すぜ！\nいつもの鎧より、もうちょっとユルめの衣を着て、\nのんびりくつろぎながら宴を楽しむはずだ。\n楽しみだな！
-DionysusWithAthena01|Dionysus With Athena 01|Athena|酒神ディオニュソスは、じつは戦術の神でもあるの\nかもしれない。私がこの先、取ろうとしている行動が、\n的確に分かるようだ… ともあれ、私はいかなるときも、\nザグレウスの置かれた状況を慎重に観察している。宴に\nかまけて本分をおろそかにすることは決してない。
-DionysusWithAres01|Dionysus With Ares 01|Dionysus|ザグ、おまえがオリュンポスに着いたら、\nアレスに宴の楽しみ方を教えてやってくれよ。\nこいつはいつも、血なまぐさい話をして場を\nシラけさせるから困るぜ。
-DionysusWithAres01|Dionysus With Ares 01|Ares|ディオニュソス殿、私は、そうした話題が\n宴の場において不適切とされる理由を理解できない。\n戦における勝利ほど、祝宴を開く機会として\nふさわしいものはないのでは？
-DionysusWithAphrodite01|Dionysus With Aphrodite 01|Dionysus|ザグ、宴のことなら、オレに任せときゃ間違いない。\nおまえもとっくに承知だよな？\nでもな、じつはアフロディテ嬢にも、\nいろいろ手伝ってもらってるんだぜ？
-DionysusWithAphrodite01|Dionysus With Aphrodite 01|Aphrodite|葡萄酒をいただくと、誰もが皆、普段よりも美しく\n見えるもの… そうやって、末永く続く愛は生まれるの！…もちろん、一瞬で消えてしまう儚い愛も、\nたくさん生まれるけれど。
-DionysusWithArtemis01|Dionysus With Artemis 01|Dionysus|ザグ、アルテミスをなんとかオレの宴に来させたくて、口説き落とそうとしてるんだが… 狩りだかなんだかに\n出かけるから無理だって言うんだ。どうにかしてくれ。
-DionysusWithArtemis01|Dionysus With Artemis 01|Artemis|狩りの前に宴だなんて…！獲物を狩るときは絶対に音を立ててはいけないし、全神経を研ぎ澄ませて集中しないといけないのに… わかったら、あたしはもう行くよ。
-DionysusWithDemeter01|Dionysus With Demeter 01|Dionysus|ザグ、ちょっと頼みがある…\nデメテルさんに、「作物枯れさせ放題政策」を\nやめてもらうように、頼んでもらえないか？
-DionysusWithDemeter01|Dionysus With Demeter 01|Demeter|ディオニュソス、しばらくお酒を控えるのは、\nあなたにとって、よいことでは？いずれにせよ、\n良質な作物をあなたに独占させるわけにはいきません。
+DionysusWithZeus01|Duo - Dionysus and Zeus (1)|Dionysus|ザグ、うちの親父が、おまえに話があるらしい。\n大丈夫、落ち着いて、口答えしなければ\n問題ないからな。
+DionysusWithZeus01|Duo - Dionysus and Zeus (1)|Zeus|ディオニュソス… あれはいつも一言多いが、\n少なくとも、私にしかるべき敬意は払っている。\nザグレウスよ、おまえもいずれ、あれから\nオリュンポスでのしきたりを学ぶことになろう。
+DionysusWithPoseidon01|Duo - Dionysus and Poseidon (1)|Dionysus|ザグ… 今、おまえの叔父さんが来ててさ…\n俺の親父じゃなくて、もうひとりのほうな。\nおまえの様子を見たいって言ってるんだが…
+DionysusWithPoseidon01|Duo - Dionysus and Poseidon (1)|Poseidon|おー！ザグ坊！元気でやってるか！ディオニュソスに、いろいろ教えてもらってるか？言っておくが、\n派手な宴を開くことに関しちゃ、俺の方が上だぞ！\nさあ、俺からも祝福を授けてやろう！
+DionysusWithPoseidon01|Duo - Dionysus and Poseidon (1)|Dionysus|…とにかく！みんなオリュンポスで待ってるからな！\nおまえならやれる！いつかは、な！\nみんな、そう信じてるぜ！
+DionysusWithAthena01|Duo - Dionysus and Athena (1)|Dionysus|ザグがこっちに来たら、お祭り騒ぎ間違いなしだ！\nあの堅物のアテナでさえ、きっと多少は羽目外すぜ！\nいつもの鎧より、もうちょっとユルめの衣を着て、\nのんびりくつろぎながら宴を楽しむはずだ。\n楽しみだな！
+DionysusWithAthena01|Duo - Dionysus and Athena (1)|Athena|酒神ディオニュソスは、じつは戦術の神でもあるの\nかもしれない。私がこの先、取ろうとしている行動が、\n的確に分かるようだ… ともあれ、私はいかなるときも、\nザグレウスの置かれた状況を慎重に観察している。宴に\nかまけて本分をおろそかにすることは決してない。
+DionysusWithAres01|Duo - Dionysus and Ares (1)|Dionysus|ザグ、おまえがオリュンポスに着いたら、\nアレスに宴の楽しみ方を教えてやってくれよ。\nこいつはいつも、血なまぐさい話をして場を\nシラけさせるから困るぜ。
+DionysusWithAres01|Duo - Dionysus and Ares (1)|Ares|ディオニュソス殿、私は、そうした話題が\n宴の場において不適切とされる理由を理解できない。\n戦における勝利ほど、祝宴を開く機会として\nふさわしいものはないのでは？
+DionysusWithAphrodite01|Duo - Dionysus and Aphrodite (1)|Dionysus|ザグ、宴のことなら、オレに任せときゃ間違いない。\nおまえもとっくに承知だよな？\nでもな、じつはアフロディテ嬢にも、\nいろいろ手伝ってもらってるんだぜ？
+DionysusWithAphrodite01|Duo - Dionysus and Aphrodite (1)|Aphrodite|葡萄酒をいただくと、誰もが皆、普段よりも美しく\n見えるもの… そうやって、末永く続く愛は生まれるの！…もちろん、一瞬で消えてしまう儚い愛も、\nたくさん生まれるけれど。
+DionysusWithArtemis01|Duo - Dionysus and Artemis (1)|Dionysus|ザグ、アルテミスをなんとかオレの宴に来させたくて、口説き落とそうとしてるんだが… 狩りだかなんだかに\n出かけるから無理だって言うんだ。どうにかしてくれ。
+DionysusWithArtemis01|Duo - Dionysus and Artemis (1)|Artemis|狩りの前に宴だなんて…！獲物を狩るときは絶対に音を立ててはいけないし、全神経を研ぎ澄ませて集中しないといけないのに… わかったら、あたしはもう行くよ。
+DionysusWithDemeter01|Duo - Dionysus and Demeter (1)|Dionysus|ザグ、ちょっと頼みがある…\nデメテルさんに、「作物枯れさせ放題政策」を\nやめてもらうように、頼んでもらえないか？
+DionysusWithDemeter01|Duo - Dionysus and Demeter (1)|Demeter|ディオニュソス、しばらくお酒を控えるのは、\nあなたにとって、よいことでは？いずれにせよ、\n良質な作物をあなたに独占させるわけにはいきません。
 DionysusAboutOlympianReunionQuest01|Dionysus About Olympian Reunion Quest 01|Zagreus|酒神ディオニュソスを宴に誘うのは、\n緊張するな… ハデス神の名において、\nオリュンポスの神に、言づてを捧げん！\nディオニュソス、いっしょに楽しもう。
 DionysusAboutOlympianReunionQuest01|Dionysus About Olympian Reunion Quest 01|Dionysus|おいおいザグ、こいつはどっからどう見ても、\n招待状じゃないか…！見ればすぐにわかるぜ！\n一通はオレ宛てで… 残りの連中、全員分もあるのか。\nハハッ、こりゃ、間違いなく特別な催しだな？\nオレにはわかるぜ！
 DionysusPostEpilogue01|Dionysus Post Epilogue 01|Dionysus|なぁサグ、おまえがオレたちのために開いてくれた宴、ところどころ記憶が曖昧だが、たぶん、最初っから\n最後まで、最高だったと思うぜ！いやー、楽しかった！またやろう！な？絶対だぜ？
@@ -2345,20 +2345,20 @@ DionysusGift06|Dionysus Gift 06|Zagreus|苦境に立たされているときで�
 DionysusGift06|Dionysus Gift 06|Dionysus|ザグ、おまえの気配りには、こっちが申し訳なく\nなるぜ… こんなに遠く離れた相手に、これほど\n親しみを感じるのは初めてだ。オレたちは、\nこうして杯を交わす仲。心はいつでもいっしょだぜ？
 DionysusGift07|Dionysus Gift 07|Zagreus|葡萄酒の神への供物にふさわしい、最高級の上物を\n持ってきた。冥界で手に入る品では、これ一択だ。\n自分にも、酒神ディオニュソスに通じる気質が\nあることを、誇りに思う。遠く離れていても、\n俺たちは一族の絆で繋がっている。
 DionysusGift07|Dionysus Gift 07|Dionysus|ザグ… そのアンブロシア、本当にオレにくれるのか？\nオリュンポスからはるばる冥界まで旅した一本。\nそれがもう一度、オリュンポスに引き上げられるって\nわけか… ザグ、こいつは飲まずに取っておくぜ。\nいつかおまえと酌み交わせる日までな！
-AthenaWithZeus01|Athena With Zeus 01|Athena|ザグレウス、おまえが直面する窮状と、冥界を脱すべく地上を目指す挑戦、わが父王ゼウスの目にも留まる\nところとなった。ゼウス王は、天の雷霆の力をもって、おまえへの助力を希望されている。無論、私も引き続き\n力添えをする所存だ。
-AthenaWithZeus01|Athena With Zeus 01|Zeus|アテナ、心を尽くした紹介、じつに結構だ。\n娘のおまえがいてくれると、私も安心だ。\nわれわれふたりの力を帯びれば、\nザグレウスがやがて目的を達するのは、\nもはや必定と言って過言ではなかろう！
-AthenaWithPoseidon01|Athena With Poseidon 01|Athena|私が父王ゼウスを筆頭とするわが一族にザグレウスの\n存在を明かした際、ポセイドン叔父は真っ先に\n立ち上がり、海と陸を統べる力をもっておまえに\n助力することを誓われた。そうでしたね、叔父上。
-AthenaWithPoseidon01|Athena With Poseidon 01|Poseidon|さすが知恵の女神、抜群の記憶力だ！あの陰気な\n兄上に、こんなよくできた息子がいたとなれば、\n誰がじっとしていられよう！兄上は、自分がいかに\n恵まれた境遇にあるかわかっていない！だが\nおまえは、こちらに来ればもっと幸せになれるぞ！
-AthenaWithAphrodite01|Athena With Aphrodite 01|Athena|苦境に立ち向かうおまえの姿が、わが一族を\n結束させた。普段は自分以外の者のことなど\n気に掛けぬ者ですら、おまえの力にならんとする\n共通の目的のもとに集ったのだ。
-AthenaWithAphrodite01|Athena With Aphrodite 01|Aphrodite|アテナ、私にあなたのような深い知恵があれば、\nそういう遠回しな嫌みや侮辱にも、\nすぐに気づけるのでしょうけど。\n残念ながら、あなたの心にもない甘言に\n騙されるひとなんて、いないわ。
-AthenaWithAphrodite01|Athena With Aphrodite 01|Athena|アフロディテにとっては、「言葉」とは常に裏があるものなのだろう。しかし、他者に手を差し伸べる者全員に\n下心があるわけではない。ザグレウスに助力する気が\nないのなら、身を引くことだ。
-AthenaWithArtemis01|Athena With Artemis 01|Athena|ザグレウス、少し話せるか？私がおまえを\n“独り占め”していると、わが一族の一柱が\n不平を述べている。彼女の話を聞いてもらえるか？
-AthenaWithArtemis01|Athena With Artemis 01|Artemis|ザグレウス？ごめん、アテナは少し大げさというか…\nでも、言っていることはそのとおりというか…\nとにかく、今日は話せてうれしいよ。
-AthenaWithArtemis01|Athena With Artemis 01|Athena|では、これで問題は解決だな。わが一族は、\n互いを頼るのが常。ザグレウスには面倒をかけて\nすまぬが、欠点ひとつない一族など、ありはしない…
-AthenaWithDionysus01|Athena With Dionysus 01|Athena|おまえがいかに苦しい立場に置かれているか、\nわが一族には、十分に理解していない者もいる。\nディオニュソスなどは、この件を宴の機会と\n勘違いしているようだ。
-AthenaWithDionysus01|Athena With Dionysus 01|Dionysus|アテナちゃん、長い間行方がわからなかったどころか、そもそも存在することすら知られてなかった親戚が\n見つかったんだぜ？こんなにめでたいことは\nないじゃないか。今、ザグのために宴を開かなくて、\nいったいいつ開く？
-AthenaWithDemeter01|Athena With Demeter 01|Athena|今回は、女神デメテルを同伴した。\nおまえの件については我々がうまく対処しているゆえ、\n案ずることはないと伝えてある。\nもっとも、大いなる慈しみの心を持つデメテルのこと、\nいずれにせよ、おまえに助力しただろう。
-AthenaWithDemeter01|Athena With Demeter 01|Demeter|アテナ、そのような心にもない言葉で私を称賛する\nふりなど、する必要はありません。深い知恵を持つ\nあなたなら、私にはあなたの本音が手に取るように\nわかることも、察しがつくでしょう。
+AthenaWithZeus01|Duo - Athena and Zeus (1)|Athena|ザグレウス、おまえが直面する窮状と、冥界を脱すべく地上を目指す挑戦、わが父王ゼウスの目にも留まる\nところとなった。ゼウス王は、天の雷霆の力をもって、おまえへの助力を希望されている。無論、私も引き続き\n力添えをする所存だ。
+AthenaWithZeus01|Duo - Athena and Zeus (1)|Zeus|アテナ、心を尽くした紹介、じつに結構だ。\n娘のおまえがいてくれると、私も安心だ。\nわれわれふたりの力を帯びれば、\nザグレウスがやがて目的を達するのは、\nもはや必定と言って過言ではなかろう！
+AthenaWithPoseidon01|Duo - Athena and Poseidon (1)|Athena|私が父王ゼウスを筆頭とするわが一族にザグレウスの\n存在を明かした際、ポセイドン叔父は真っ先に\n立ち上がり、海と陸を統べる力をもっておまえに\n助力することを誓われた。そうでしたね、叔父上。
+AthenaWithPoseidon01|Duo - Athena and Poseidon (1)|Poseidon|さすが知恵の女神、抜群の記憶力だ！あの陰気な\n兄上に、こんなよくできた息子がいたとなれば、\n誰がじっとしていられよう！兄上は、自分がいかに\n恵まれた境遇にあるかわかっていない！だが\nおまえは、こちらに来ればもっと幸せになれるぞ！
+AthenaWithAphrodite01|Duo - Athena and Aphrodite (1)|Athena|苦境に立ち向かうおまえの姿が、わが一族を\n結束させた。普段は自分以外の者のことなど\n気に掛けぬ者ですら、おまえの力にならんとする\n共通の目的のもとに集ったのだ。
+AthenaWithAphrodite01|Duo - Athena and Aphrodite (1)|Aphrodite|アテナ、私にあなたのような深い知恵があれば、\nそういう遠回しな嫌みや侮辱にも、\nすぐに気づけるのでしょうけど。\n残念ながら、あなたの心にもない甘言に\n騙されるひとなんて、いないわ。
+AthenaWithAphrodite01|Duo - Athena and Aphrodite (1)|Athena|アフロディテにとっては、「言葉」とは常に裏があるものなのだろう。しかし、他者に手を差し伸べる者全員に\n下心があるわけではない。ザグレウスに助力する気が\nないのなら、身を引くことだ。
+AthenaWithArtemis01|Duo - Athena and Artemis (1)|Athena|ザグレウス、少し話せるか？私がおまえを\n“独り占め”していると、わが一族の一柱が\n不平を述べている。彼女の話を聞いてもらえるか？
+AthenaWithArtemis01|Duo - Athena and Artemis (1)|Artemis|ザグレウス？ごめん、アテナは少し大げさというか…\nでも、言っていることはそのとおりというか…\nとにかく、今日は話せてうれしいよ。
+AthenaWithArtemis01|Duo - Athena and Artemis (1)|Athena|では、これで問題は解決だな。わが一族は、\n互いを頼るのが常。ザグレウスには面倒をかけて\nすまぬが、欠点ひとつない一族など、ありはしない…
+AthenaWithDionysus01|Duo - Athena and Dionysus (1)|Athena|おまえがいかに苦しい立場に置かれているか、\nわが一族には、十分に理解していない者もいる。\nディオニュソスなどは、この件を宴の機会と\n勘違いしているようだ。
+AthenaWithDionysus01|Duo - Athena and Dionysus (1)|Dionysus|アテナちゃん、長い間行方がわからなかったどころか、そもそも存在することすら知られてなかった親戚が\n見つかったんだぜ？こんなにめでたいことは\nないじゃないか。今、ザグのために宴を開かなくて、\nいったいいつ開く？
+AthenaWithDemeter01|Duo - Athena and Demeter (1)|Athena|今回は、女神デメテルを同伴した。\nおまえの件については我々がうまく対処しているゆえ、\n案ずることはないと伝えてある。\nもっとも、大いなる慈しみの心を持つデメテルのこと、\nいずれにせよ、おまえに助力しただろう。
+AthenaWithDemeter01|Duo - Athena and Demeter (1)|Demeter|アテナ、そのような心にもない言葉で私を称賛する\nふりなど、する必要はありません。深い知恵を持つ\nあなたなら、私にはあなたの本音が手に取るように\nわかることも、察しがつくでしょう。
 AthenaAboutDemeter01|Athena About Demeter 01|Athena|おまえを取り巻く、身を切るような冷風…\n季節の女神から助力を受けたのだな？\nデメテルがこの件に介入するとは…\n心強いことだが、あの女神に関しては、\nおのれの頭でよくよく判断することだ。
 AthenaAboutOlympianReunionQuest01|Athena About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に、言づてを捧げん！\n女神アテナの叡智が、この謎を瞬時に解くことを願う。
 AthenaAboutOlympianReunionQuest01|Athena About Olympian Reunion Quest 01|Athena|私への供物…？いや、これは… 書簡か。\nしかし、その一部にすぎない。つまり、他の神々も、\nすでにおまえから同様の書簡を受け取っているか、\nじきに受け取るということだな。承知した。\n彼らにもその旨、伝えておこう。
@@ -2510,18 +2510,18 @@ AthenaGift06|Athena Gift 06|Zagreus|日々、多くの神務に携わる身な�
 AthenaGift06|Athena Gift 06|Athena|互いに感謝の念を伝え合う機会は、こうした場をおいて他にないのかもしれない。おまえのおかげで、\n私はその可能性に気づくことができた。私の心は、\n揺るぎはしない。今後もおまえの力となるべく戦おう。
 AthenaGift07|Athena Gift 07|Zagreus|わがいとこ、女神アテナより受けた数々の助力への\n感謝の印として、このアンブロシアを捧ぐ。\nオリュンポスにて醸造される逸品も、奈落の底までの\n長い道のりをへて、その風味はいや増し、知恵の\n女神への供物にふさわしいかぐわしさとなろう。
 AthenaGift07|Athena Gift 07|Athena|ニュクスが私の前に姿を現し、おまえの存在を明かしたとき、私はそれを、オリュンポスと冥界の亀裂を\n修復する好機ととらえた。だが、こうしておまえ\nについて理解を深めるにつれ、おまえと手を結べた\nことこそが、大いなる名誉と心得るようになった。
-PoseidonWithZeus01|Poseidon With Zeus 01|Poseidon|ジュニア！俺の兄貴のゼウスには、もう会ったな？\n神々の王などと言われているが実際は俺のほうが強い！あらゆる意味でな！そして当然、男としての魅力でも\n俺のほうが上だ！なにしろ… あ…！
-PoseidonWithZeus01|Poseidon With Zeus 01|Zeus|弟よ、私の陰口とは、不届き千万。おまえに慎み深さを期待しても無駄だろうが、われらが甥にめったなことを言うものではないぞ。
-PoseidonWithZeus01|Poseidon With Zeus 01|Poseidon|あー、とにかく！兄のゼウスは、神々の王だ！\n誰よりも男前で、強くて… その… いかにも神！\nという風情がただよっている！
-PoseidonWithAthena01|Poseidon With Athena 01|Poseidon|ジュニア、見てのとおり、われわれは大家族で、\n全員がじつに賢い。だが中でも飛び抜けて賢いのが、\nわが姪アテナだ。常にわれわれの母親のように\n立ち回る姿からは想像しがたいだろうが、\n彼女にはじつの子どもはいない。
-PoseidonWithAthena01|Poseidon With Athena 01|Athena|私の知恵は、ポセイドン叔父上と、ハデス伯父上より\n受け継いだものと心得ます。子どもの件については、\nすでにわが一族は多くの“子ども”を抱えておりますゆえ\n当面は、これ以上必要ないかと。
-PoseidonWithAres01|Poseidon With Ares 01|Poseidon|ジュニア！俺にはおまえの他にも甥がいることは、\n知っているな？戦神アレスも、そのひとりだ！\n海では、歴史に残る名戦が数多く戦われてきた。\nそうだろう、アレス？
-PoseidonWithAres01|Poseidon With Ares 01|Ares|左様にございます、ポセイドン叔父上。こと戦が絡むと、人間たちはあらゆる創意工夫を凝らし、技術の発展に務めるもの。いつの日か、わが父の統べる天すらも、彼らの戦場となるやもしれません。
-PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|ザグ坊、俺の特技は、誰とでも打ち解けられることだ！\n万人にできることではないぞ！姪のアルテミスなどは、\n冗談がまるで通じない。アルテミス、いつもそんな\n渋面をしていては、いつまでたっても恋人はできんぞ！
-PoseidonWithArtemis01|Poseidon With Artemis 01|Artemis|それは残念。どうしてあたしが、\nいつもオリュンポスで渋い顔をしてるのか、\nポセイドン叔父さんには、わからないみたい。\nザグレウスなら、察しがつくんじゃない？
-PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|ハッハッハ！どうだ、ザグ坊？\n俺の言ったとおりだろう？
-PoseidonWithDemeter01|Poseidon With Demeter 01|Poseidon|女神デメテルとは、姉弟として育てられた仲だ。\nお堅い印象を受けるだろうが、あれで、\n俺のことをからかったりもするんだぞ？\nお、噂をすれば…
-PoseidonWithDemeter01|Poseidon With Demeter 01|Demeter|また無駄話ですか、ポセイドン。あなたの意見など、\n誰も求めていません。ザグレウスも忙しいのですから、黙って祝福だけ授ければよいのです。\nそうでしょう、ザグレウス？
+PoseidonWithZeus01|Duo - Poseidon and Zeus (1)|Poseidon|ジュニア！俺の兄貴のゼウスには、もう会ったな？\n神々の王などと言われているが実際は俺のほうが強い！あらゆる意味でな！そして当然、男としての魅力でも\n俺のほうが上だ！なにしろ… あ…！
+PoseidonWithZeus01|Duo - Poseidon and Zeus (1)|Zeus|弟よ、私の陰口とは、不届き千万。おまえに慎み深さを期待しても無駄だろうが、われらが甥にめったなことを言うものではないぞ。
+PoseidonWithZeus01|Duo - Poseidon and Zeus (1)|Poseidon|あー、とにかく！兄のゼウスは、神々の王だ！\n誰よりも男前で、強くて… その… いかにも神！\nという風情がただよっている！
+PoseidonWithAthena01|Duo - Poseidon and Athena (1)|Poseidon|ジュニア、見てのとおり、われわれは大家族で、\n全員がじつに賢い。だが中でも飛び抜けて賢いのが、\nわが姪アテナだ。常にわれわれの母親のように\n立ち回る姿からは想像しがたいだろうが、\n彼女にはじつの子どもはいない。
+PoseidonWithAthena01|Duo - Poseidon and Athena (1)|Athena|私の知恵は、ポセイドン叔父上と、ハデス伯父上より\n受け継いだものと心得ます。子どもの件については、\nすでにわが一族は多くの“子ども”を抱えておりますゆえ\n当面は、これ以上必要ないかと。
+PoseidonWithAres01|Duo - Poseidon and Ares (1)|Poseidon|ジュニア！俺にはおまえの他にも甥がいることは、\n知っているな？戦神アレスも、そのひとりだ！\n海では、歴史に残る名戦が数多く戦われてきた。\nそうだろう、アレス？
+PoseidonWithAres01|Duo - Poseidon and Ares (1)|Ares|左様にございます、ポセイドン叔父上。こと戦が絡むと、人間たちはあらゆる創意工夫を凝らし、技術の発展に務めるもの。いつの日か、わが父の統べる天すらも、彼らの戦場となるやもしれません。
+PoseidonWithArtemis01|Duo - Poseidon and Artemis (1)|Poseidon|ザグ坊、俺の特技は、誰とでも打ち解けられることだ！\n万人にできることではないぞ！姪のアルテミスなどは、\n冗談がまるで通じない。アルテミス、いつもそんな\n渋面をしていては、いつまでたっても恋人はできんぞ！
+PoseidonWithArtemis01|Duo - Poseidon and Artemis (1)|Artemis|それは残念。どうしてあたしが、\nいつもオリュンポスで渋い顔をしてるのか、\nポセイドン叔父さんには、わからないみたい。\nザグレウスなら、察しがつくんじゃない？
+PoseidonWithArtemis01|Duo - Poseidon and Artemis (1)|Poseidon|ハッハッハ！どうだ、ザグ坊？\n俺の言ったとおりだろう？
+PoseidonWithDemeter01|Duo - Poseidon and Demeter (1)|Poseidon|女神デメテルとは、姉弟として育てられた仲だ。\nお堅い印象を受けるだろうが、あれで、\n俺のことをからかったりもするんだぞ？\nお、噂をすれば…
+PoseidonWithDemeter01|Duo - Poseidon and Demeter (1)|Demeter|また無駄話ですか、ポセイドン。あなたの意見など、\n誰も求めていません。ザグレウスも忙しいのですから、黙って祝福だけ授ければよいのです。\nそうでしょう、ザグレウス？
 PoseidonBeatTheseusQuestComplete|Poseidon Beat Theseus Quest Complete|Poseidon|ザグ坊！おまえならきっと、やってくれると信じて\nいたぞ！テセウスのやつが手にした褒美とやらは、\nただの馬車だったそうだな？しかも、その馬車ごと\n倒される体たらく！いい気味だ！あれは生前から、\n褒美を手にすると大げさに自慢したがる男だった！
 PoseidonFishQuestComplete|Poseidon Fish Quest Complete|Poseidon|*ハッハッハ！*よくやったぞ、ジュニア！\nおまえならきっと、地上の海から冥界へ逃亡した\n“川棲み”どもをやり込めてくれると信じていた！\n今後もその調子で、釣りを楽しんでくれ！
 PoseidonAboutOlympianReunionQuest01|Poseidon About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に言づてを捧げん！\nポセイドン叔父上、どうかうまく解読してください…
@@ -2686,20 +2686,20 @@ PoseidonGift06|Poseidon Gift 06|Zagreus|ポセイドン叔父上から御言葉�
 PoseidonGift06|Poseidon Gift 06|Poseidon|ザグ坊、俺に捧げ物なんて必要ないと言わなかったか？\nひょっとしたら言い忘れたかもしれんな… それか、\n別の甥っ子と間違えたか… ゼウスのおかげで、\n甥っ子が何人もいて、ややこしくてかなわん！\nとはいえ… ここだけの話、ザグ坊がいちばんだ！
 PoseidonGift07|Poseidon Gift 07|Zagreus|ポセイドン叔父上ともっと早く出会えていたら、\n俺の人生は違ったものになっていたはず。\n叔父上に励まされ、その熱意に触れ…\n大きな力をもらっています。感謝の印として、\nはるばる冥界に流れ着いたアンブロシアを。
 PoseidonGift07|Poseidon Gift 07|Poseidon|これはこれは、じつに結構な供物だ！オリュンポスから遠く離れた冥界で、それを手に入れるのは相当骨が\n折れただろう。ハデスがどうしておまえにつらく\n当たるのか、俺にはまったく理解できん。\n俺が父親だったら、おまえは自慢の息子だ！
-DemeterWithZeus01|Demeter With Zeus 01|Demeter|ザグレウス。名ばかりのオリュンポスの王ゼウスとも、邂逅を果たしましたね。とはいえ… 雪に覆われた\nこの山の真の統治者にふさわしいのは、彼と私、\nどちらかしら？
-DemeterWithZeus01|Demeter With Zeus 01|Zeus|ハハハ… *ご冗談を。*ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。
-DemeterWithPoseidon01|Demeter With Poseidon 01|Demeter|ザグレウス。ちょうど今、ポセイドンに話していた\nところです。彼の統べる水域はすべて、私の手のひらの上だと。私の力をもってすれば、海も一瞬で凍りつく…
-DemeterWithPoseidon01|Demeter With Poseidon 01|Poseidon|*ハッハッハ！*おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
-DemeterWithAthena01|Demeter With Athena 01|Demeter|知略に長けた戦女神アテナが、ゼウスの頭から\n生まれたとは… 彼の頭部には知性のかけらも\n感じられないのに、なんとも不思議なことです。
-DemeterWithAthena01|Demeter With Athena 01|Athena|ザグレウス、女神デメテルは、\n悪意のない冗談をおっしゃっているにすぎない。\n伯母上とわが父上は、困難のさなかにあってもなお、\nこのような戯れを言い合う仲なのだ。
-DemeterWithAres01|Demeter With Ares 01|Demeter|ザグレウス、オリュンポスに到着したら、\n戦神アレスによくよく説明なさい。彼の大いなる力も、\n私の力なくしては無益だと。戦が起こる要因の多くは、\n私の司る事象なのですから。
-DemeterWithAres01|Demeter With Ares 01|Ares|たしかに、人間を戦に駆り立てる要素の多くに、季節の女神デメテルが関係することは否定しがたい事実。\n私と貴女の司る事象は、互いに影響し合う。ゆえに、\nわれわれも協力関係を結ぶにふさわしいのでは？
-DemeterWithAphrodite01|Demeter With Aphrodite 01|Demeter|よいですか、ザグレウス。氷のように冷たい心は、\n他者を支配することは決してないのだとか。\nそうでしたね、アフロディテ？
-DemeterWithAphrodite01|Demeter With Aphrodite 01|Aphrodite|さあ、どうかしら… 氷の心もやがて溶けて、新たな\n活力とともに躍動しはじめることが、多々あるわ。\n幸い、私たち神々は不死。\nデメテルにもいつか、そういう時が訪れるはず。
-DemeterWithArtemis|Demeter With Artemis|Demeter|ザグレウス、たった今、アルテミスが、あなたの旅の\n安全を案じていました。困難に立ち向かうあなたを、\n彼女の力と私の祝福で援助いたしましょう。
-DemeterWithArtemis|Demeter With Artemis|Artemis|何を言ってるの…？ザグレウスなら、\n絶対に大丈夫だから！誰かに助けてもらわなくたって、自力でたどりつけるから！でも、一応？念のため？\nもし必要なら、これも使って。
-DemeterWithDionysus01|Demeter With Dionysus 01|Demeter|作物を生かすも殺すも、私の采配ひとつ…\nオリュンポスの神々の中には、そんな私の姿勢に\n不満を抱く者もいるようですが。
-DemeterWithDionysus01|Demeter With Dionysus 01|Dionysus|ああ、オレは大いに不満だね！あんたがそんな調子じゃ葡萄が獲れないし、酒も造れやしない。\nそんなお堅いこと言ってないで、肩の力抜いてこうぜ！
+DemeterWithZeus01|Duo - Demeter and Zeus (1)|Demeter|ザグレウス。名ばかりのオリュンポスの王ゼウスとも、邂逅を果たしましたね。とはいえ… 雪に覆われた\nこの山の真の統治者にふさわしいのは、彼と私、\nどちらかしら？
+DemeterWithZeus01|Duo - Demeter and Zeus (1)|Zeus|ハハハ… *ご冗談を。*ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。
+DemeterWithPoseidon01|Duo - Demeter and Poseidon (1)|Demeter|ザグレウス。ちょうど今、ポセイドンに話していた\nところです。彼の統べる水域はすべて、私の手のひらの上だと。私の力をもってすれば、海も一瞬で凍りつく…
+DemeterWithPoseidon01|Duo - Demeter and Poseidon (1)|Poseidon|*ハッハッハ！*おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
+DemeterWithAthena01|Duo - Demeter and Athena (1)|Demeter|知略に長けた戦女神アテナが、ゼウスの頭から\n生まれたとは… 彼の頭部には知性のかけらも\n感じられないのに、なんとも不思議なことです。
+DemeterWithAthena01|Duo - Demeter and Athena (1)|Athena|ザグレウス、女神デメテルは、\n悪意のない冗談をおっしゃっているにすぎない。\n伯母上とわが父上は、困難のさなかにあってもなお、\nこのような戯れを言い合う仲なのだ。
+DemeterWithAres01|Duo - Demeter and Ares (1)|Demeter|ザグレウス、オリュンポスに到着したら、\n戦神アレスによくよく説明なさい。彼の大いなる力も、\n私の力なくしては無益だと。戦が起こる要因の多くは、\n私の司る事象なのですから。
+DemeterWithAres01|Duo - Demeter and Ares (1)|Ares|たしかに、人間を戦に駆り立てる要素の多くに、季節の女神デメテルが関係することは否定しがたい事実。\n私と貴女の司る事象は、互いに影響し合う。ゆえに、\nわれわれも協力関係を結ぶにふさわしいのでは？
+DemeterWithAphrodite01|Duo - Demeter and Aphrodite (1)|Demeter|よいですか、ザグレウス。氷のように冷たい心は、\n他者を支配することは決してないのだとか。\nそうでしたね、アフロディテ？
+DemeterWithAphrodite01|Duo - Demeter and Aphrodite (1)|Aphrodite|さあ、どうかしら… 氷の心もやがて溶けて、新たな\n活力とともに躍動しはじめることが、多々あるわ。\n幸い、私たち神々は不死。\nデメテルにもいつか、そういう時が訪れるはず。
+DemeterWithArtemis|Duo - Demeter and Artemis ()|Demeter|ザグレウス、たった今、アルテミスが、あなたの旅の\n安全を案じていました。困難に立ち向かうあなたを、\n彼女の力と私の祝福で援助いたしましょう。
+DemeterWithArtemis|Duo - Demeter and Artemis ()|Artemis|何を言ってるの…？ザグレウスなら、\n絶対に大丈夫だから！誰かに助けてもらわなくたって、自力でたどりつけるから！でも、一応？念のため？\nもし必要なら、これも使って。
+DemeterWithDionysus01|Duo - Demeter and Dionysus (1)|Demeter|作物を生かすも殺すも、私の采配ひとつ…\nオリュンポスの神々の中には、そんな私の姿勢に\n不満を抱く者もいるようですが。
+DemeterWithDionysus01|Duo - Demeter and Dionysus (1)|Dionysus|ああ、オレは大いに不満だね！あんたがそんな調子じゃ葡萄が獲れないし、酒も造れやしない。\nそんなお堅いこと言ってないで、肩の力抜いてこうぜ！
 DemeterAboutZeus01|Demeter About Zeus 01|Demeter|気高きオリュンポスの王から、御言葉を\n受けたようですね。彼の紡ぐ幾多の妄言のうち、\nあなたが聞いたのは、いずれでしょう。
 DemeterAboutPersephone01|Demeter About Persephone 01|Demeter|ザグレウス、あなたは私の義弟の息子ですね。\n私もかつて、子を亡くした経験があります。そもそも\n始めから、私は愚かでした。あの娘の父親は、貧しい\n農家の出。私を崇める人間でした。当然もうこの世にはいない… 私のもとに残ったのは、寒さだけです。
 DemeterAboutPersephone02|Demeter About Persephone 02|Demeter|農家の青年との間に生まれた娘に、私は冷たく当たり\nすぎたかもしれません。父親を亡くして以降は、\n特に… 人間の血を引いているがゆえに、あの娘は\n弱かった。あの娘に命を与えたのが人間なら、奪った\nのもきっと人間。彼らを決して、許しはしません。
@@ -3239,14 +3239,14 @@ ChaosMiscPickup42|Chaos Misc Pickup 42|Chaos|この者との再会は、我に�
 ChaosMiscPickup43|Chaos Misc Pickup 43|Chaos|この者は再び、わが領域へと下った。
 ChaosMiscPickup45|Chaos Misc Pickup 45|Chaos|この者は、わが領域を再訪した。
 ChaosMiscPickup46|Chaos Misc Pickup 46|Chaos|この者を、大いに歓迎する。
-ChaosWithNyx01|Chaos With Nyx 01|Chaos|我は通常、ハデスの息子の訪問を歓迎する。\nしかし今は、ニュクスのみとの接触を望む。
-ChaosWithNyx02|Chaos With Nyx 02|Chaos|ニュクスと我は、互いの記憶を交換中。\n我は、ニュクスのみとの接触を望む。
-ChaosWithNyx03|Chaos With Nyx 03|Chaos|女神ニュクスのわが元への帰還を、我は歓迎する。
-ChaosWithNyx04|Chaos With Nyx 04|Chaos|我はハデスの息子に許しを請う。我は女神ニュクスとの会話続行を望む。
-ChaosWithNyx05|Chaos With Nyx 05|Chaos|女神ニュクスとの前接触から、長い時が流れた。
-ChaosWithNyx06|Chaos With Nyx 06|Chaos|複数の他者との接触は、我にとっては、非常。
-ChaosWithNyx07|Chaos With Nyx 07|Chaos|わが娘は現在、ハデスの館にて生じた事象について、\n我に報告中。
-ChaosWithNyx08|Chaos With Nyx 08|Chaos|女神ニュクスと我は現在、会話を続行中。\nハデスの息子の目にも、明白と推測する。
+ChaosWithNyx01|Duo - Chaos and Nyx (1)|Chaos|我は通常、ハデスの息子の訪問を歓迎する。\nしかし今は、ニュクスのみとの接触を望む。
+ChaosWithNyx02|Duo - Chaos and Nyx (2)|Chaos|ニュクスと我は、互いの記憶を交換中。\n我は、ニュクスのみとの接触を望む。
+ChaosWithNyx03|Duo - Chaos and Nyx (3)|Chaos|女神ニュクスのわが元への帰還を、我は歓迎する。
+ChaosWithNyx04|Duo - Chaos and Nyx (4)|Chaos|我はハデスの息子に許しを請う。我は女神ニュクスとの会話続行を望む。
+ChaosWithNyx05|Duo - Chaos and Nyx (5)|Chaos|女神ニュクスとの前接触から、長い時が流れた。
+ChaosWithNyx06|Duo - Chaos and Nyx (6)|Chaos|複数の他者との接触は、我にとっては、非常。
+ChaosWithNyx07|Duo - Chaos and Nyx (7)|Chaos|わが娘は現在、ハデスの館にて生じた事象について、\n我に報告中。
+ChaosWithNyx08|Duo - Chaos and Nyx (8)|Chaos|女神ニュクスと我は現在、会話を続行中。\nハデスの息子の目にも、明白と推測する。
 ChaosLootBought01|Chaos Loot Bought 01|Chaos|渡し守カロンの商品を通じ、我はこの者との\n接触を試行。この者が予期せぬ事態。\nゆえに、我はこの手段を執った。
 ChaosLootBought02|Chaos Loot Bought 02|Chaos|渡し守カロンは、わが心を理解する。\n俗世の富に執着なき者は、惜しみなく対価を支払い、\nカロンの忠誠を容易に得ることが可能。\nゆえに、我はここにいる。
 ChaosGift01|Chaos Gift 01|Zagreus|祖神カオス… オリュンポスに暮らすわが一族は、\n日々多数の捧げ物を受け取る。日頃の感謝のしるしに、\nこの供物を。
@@ -4070,26 +4070,26 @@ AchillesAboutOrpheus01|Achilles About Orpheus 01|Achilles|ああ、そのよう�
 AchillesAboutOrpheus01|Achilles About Orpheus 01|Zagreus|そうですね… もしオルフェウスを見かけたら、よろしく伝えてください。
 AchillesAboutOrpheus02|Achilles About Orpheus 02|Zagreus|オルフェウスが館に戻ってきましたね。\n彼は、昔からあんな調子だったんでしょうか。
 AchillesAboutOrpheus02|Achilles About Orpheus 02|Achilles|そんなことはないのだろうが… 私も生前の彼のことは\n知らない。私と出会った頃から、なにかとふさぎがち\nではあった。だがその歌声は、余人をもって\n代えがたい。冥王陛下が手放そうとしないのも、\nもっともだ。
-AchillesWithHades01|Achilles With Hades 01|Achilles|…陛下は、彼を一人前に鍛え上げよと命じられた。\n私は、それに従ったまでです…！
-AchillesWithHades01|Achilles With Hades 01|Hades|亡霊よ、口の利き方に気をつけよ。おまえの処遇は、\n私の一存で決まる。再びエリュシオンを彷徨いたいか？\nさらに下層へ送り込んでやることもできるのだぞ？
-AchillesWithHades01|Achilles With Hades 01|Achilles|私に何をさせるおつもりですか。
-AchillesWithHades01|Achilles With Hades 01|Hades|おまえの処遇については、考えておく。\n当面は、あの広間の見張りを務めろ。\nくれぐれも立場をわきまえることだ。
-AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Hades|亡霊よ、おまえの雇用条件が変更されたと聞く。\n私の承認なしでそのような手続きが可能なのは、\nおのれの地位の低さゆえ。今後も近衛兵として\n当館に仕えることに変わりはないと理解しているが？
-AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Achilles|私も、そのように理解しております。私は未来永劫、\nこの館にお仕えする身。ただ、今後は非番の際に、\n自由にエリュシオンを訪れることが可能と\n伺っております。
-AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Hades|フン… 昨今の盟約の規定は、ずいぶんと\n寛大になったものだ。今は非番であろう？\n追記された福利厚生制度を、好きに利用するがよい。
-AchillesWithMegaera01|Achilles With Megaera 01|Megaera|そこの亡霊。おまえが手にしているのは、\nこの館への持ち込みが禁じられている品では？
-AchillesWithMegaera01|Achilles With Megaera 01|Achilles|ええ、そうなのです。ちょうどよかった…\nこれを、早急に処分していただけますか。
-AchillesWithMegaera01|Achilles With Megaera 01|Megaera|承知した。このようなものが館内にあることが\n知れ渡り、騒ぎになる前に、速やかに処分しよう。
-AchillesWithMegaera02|Achilles With Megaera 02|Megaera|…エリュシオンのどこかにいるはずだ。他に、あの者に行き場はない。
-AchillesWithMegaera02|Achilles With Megaera 02|Achilles|ええ、わかっています。ただ… その前に、われわれには\nすべきことがあるかと。たとえば… この禁制品を\n処分する、ですとか。
-AchillesWithMegaera02|Achilles With Megaera 02|Megaera|フン、かまわないが、おまえも早晩、おのれの恐怖に\n立ち向かう必要がある。おまえはいまだに逃げている。\nそろそろ腹を決めることだ。
-AchillesWithMegaeraAboutMyrmidonReunionQuest01|Achilles With Megaera About Myrmidon Reunion Quest 01|Megaera|…例の男が、見つかったのか？ザグのおかげで？\nそれは… 幸いなことだ。
-AchillesWithMegaeraAboutMyrmidonReunionQuest01|Achilles With Megaera About Myrmidon Reunion Quest 01|Achilles|ええ、身に余る幸いです。とはいえ、私のような\n忘れ去られた亡霊は、一介の亡霊として、他の者たちと\n同等の扱いを受けてしかるべし。そのほうが、\nメガイラ様のお手を煩わせることもないでしょう。
-AchillesWithMegaeraAboutMyrmidonReunionQuest01|Achilles With Megaera About Myrmidon Reunion Quest 01|Megaera|おまえがこの館を出るというなら、止めはしない。\nおまえはたしかに一介の亡霊にすぎず、\n亡霊なら他にいくらでも… とはいえ… 達者で。
-AchillesWithPersephone01|Achilles With Persephone 01|Persephone|…英雄アキレウス！この館の近衛兵を務めてくださっているそうですね。お目にかかれて光栄です。\n何かいさかいが起きても、あなたがいれば安心ですね。聞けば、息子に武術の指南をしてくださったとか。
-AchillesWithPersephone01|Achilles With Persephone 01|Achilles|さようにございます。ご子息は、じつに才能あふれる\n弟子でございました。その立派なご成長ぶり、\n女王陛下にもご覧に入れたかった…
-AchillesWithPersephone01|Achilles With Persephone 01|Persephone|今こうして、立派に成長した姿を見られるだけで、胸がいっぱいです。私がオリュンポスで暮らしていた頃から\nあなたは地上で勇名を馳せていましたね。あなたの\n伝説は、今も広く語り継がれていることでしょう。
-AchillesWithPersephone01|Achilles With Persephone 01|Achilles|さあ、どうでしょうか… もったいないお言葉です。
+AchillesWithHades01|Duo - Achilles and Hades (1)|Achilles|…陛下は、彼を一人前に鍛え上げよと命じられた。\n私は、それに従ったまでです…！
+AchillesWithHades01|Duo - Achilles and Hades (1)|Hades|亡霊よ、口の利き方に気をつけよ。おまえの処遇は、\n私の一存で決まる。再びエリュシオンを彷徨いたいか？\nさらに下層へ送り込んでやることもできるのだぞ？
+AchillesWithHades01|Duo - Achilles and Hades (1)|Achilles|私に何をさせるおつもりですか。
+AchillesWithHades01|Duo - Achilles and Hades (1)|Hades|おまえの処遇については、考えておく。\n当面は、あの広間の見張りを務めろ。\nくれぐれも立場をわきまえることだ。
+AchillesWithHadesAboutMyrmidonReunionQuest01|Duo - Achilles and Hades About Myrmidon Reunion Quest (1)|Hades|亡霊よ、おまえの雇用条件が変更されたと聞く。\n私の承認なしでそのような手続きが可能なのは、\nおのれの地位の低さゆえ。今後も近衛兵として\n当館に仕えることに変わりはないと理解しているが？
+AchillesWithHadesAboutMyrmidonReunionQuest01|Duo - Achilles and Hades About Myrmidon Reunion Quest (1)|Achilles|私も、そのように理解しております。私は未来永劫、\nこの館にお仕えする身。ただ、今後は非番の際に、\n自由にエリュシオンを訪れることが可能と\n伺っております。
+AchillesWithHadesAboutMyrmidonReunionQuest01|Duo - Achilles and Hades About Myrmidon Reunion Quest (1)|Hades|フン… 昨今の盟約の規定は、ずいぶんと\n寛大になったものだ。今は非番であろう？\n追記された福利厚生制度を、好きに利用するがよい。
+AchillesWithMegaera01|Duo - Achilles and Megaera (1)|Megaera|そこの亡霊。おまえが手にしているのは、\nこの館への持ち込みが禁じられている品では？
+AchillesWithMegaera01|Duo - Achilles and Megaera (1)|Achilles|ええ、そうなのです。ちょうどよかった…\nこれを、早急に処分していただけますか。
+AchillesWithMegaera01|Duo - Achilles and Megaera (1)|Megaera|承知した。このようなものが館内にあることが\n知れ渡り、騒ぎになる前に、速やかに処分しよう。
+AchillesWithMegaera02|Duo - Achilles and Megaera (2)|Megaera|…エリュシオンのどこかにいるはずだ。他に、あの者に行き場はない。
+AchillesWithMegaera02|Duo - Achilles and Megaera (2)|Achilles|ええ、わかっています。ただ… その前に、われわれには\nすべきことがあるかと。たとえば… この禁制品を\n処分する、ですとか。
+AchillesWithMegaera02|Duo - Achilles and Megaera (2)|Megaera|フン、かまわないが、おまえも早晩、おのれの恐怖に\n立ち向かう必要がある。おまえはいまだに逃げている。\nそろそろ腹を決めることだ。
+AchillesWithMegaeraAboutMyrmidonReunionQuest01|Duo - Achilles and Megaera About Myrmidon Reunion Quest (1)|Megaera|…例の男が、見つかったのか？ザグのおかげで？\nそれは… 幸いなことだ。
+AchillesWithMegaeraAboutMyrmidonReunionQuest01|Duo - Achilles and Megaera About Myrmidon Reunion Quest (1)|Achilles|ええ、身に余る幸いです。とはいえ、私のような\n忘れ去られた亡霊は、一介の亡霊として、他の者たちと\n同等の扱いを受けてしかるべし。そのほうが、\nメガイラ様のお手を煩わせることもないでしょう。
+AchillesWithMegaeraAboutMyrmidonReunionQuest01|Duo - Achilles and Megaera About Myrmidon Reunion Quest (1)|Megaera|おまえがこの館を出るというなら、止めはしない。\nおまえはたしかに一介の亡霊にすぎず、\n亡霊なら他にいくらでも… とはいえ… 達者で。
+AchillesWithPersephone01|Duo - Achilles and Persephone (1)|Persephone|…英雄アキレウス！この館の近衛兵を務めてくださっているそうですね。お目にかかれて光栄です。\n何かいさかいが起きても、あなたがいれば安心ですね。聞けば、息子に武術の指南をしてくださったとか。
+AchillesWithPersephone01|Duo - Achilles and Persephone (1)|Achilles|さようにございます。ご子息は、じつに才能あふれる\n弟子でございました。その立派なご成長ぶり、\n女王陛下にもご覧に入れたかった…
+AchillesWithPersephone01|Duo - Achilles and Persephone (1)|Persephone|今こうして、立派に成長した姿を見られるだけで、胸がいっぱいです。私がオリュンポスで暮らしていた頃から\nあなたは地上で勇名を馳せていましたね。あなたの\n伝説は、今も広く語り継がれていることでしょう。
+AchillesWithPersephone01|Duo - Achilles and Persephone (1)|Achilles|さあ、どうでしょうか… もったいないお言葉です。
 AchillesChat01|Achilles Chat 01|Achilles|稽古中に教えたことを忘れるな。
 AchillesChat02|Achilles Chat 02|Achilles|おまえなら必ず、やり遂げる。
 AchillesChat03|Achilles Chat 03|Achilles|ゆけ。おのれの為すべきことを為せ。
@@ -4115,12 +4115,12 @@ AchillesChat22|Achilles Chat 22|Achilles|私のように、おのれの命を粗
 AchillesChat23|Achilles Chat 23|Achilles|戦ってでも勝ち取りたいもの…\nそれが見つかったのなら、幸せなことだ。
 AchillesChat24|Achilles Chat 24|Achilles|運命などに屈するな。おまえは必ずやり遂げる。
 AchillesChat25|Achilles Chat 25|Achilles|おのれの心に従えば、道は必ず開かれる。
-AchillesChatWithMegaera01|Achilles Chat With Megaera 01|Megaera|この亡霊から、\n地上での名戦の話を聞いていたところだ。
-AchillesChatWithMegaera01|Achilles Chat With Megaera 01|Achilles|恐れながら、私が語れる話の大半は、\n血なまぐさい物語ばかりで…
-AchillesChatWithMegaera02|Achilles Chat With Megaera 02|Megaera|…槍は使い手の腕しだいで強力な武具となるが、\n鞭の一撃を止めることはできない。
-AchillesChatWithMegaera02|Achilles Chat With Megaera 02|Achilles|反論したいところですが、私は鞭を振るう相手と\n対峙した経験が浅く… ある意味それは、\n幸いなことかもしれません。
-AchillesChatWithMegaera03|Achilles Chat With Megaera 03|Megaera|…亡霊よ、それを飲み終えたら、\nもう一本、開けるがいい。
-AchillesChatWithMegaera03|Achilles Chat With Megaera 03|Achilles|仰せのままに。ザグレウス、話は、また次の機会に。
+AchillesChatWithMegaera01|Duo - Chat and Megaera (1)|Megaera|この亡霊から、\n地上での名戦の話を聞いていたところだ。
+AchillesChatWithMegaera01|Duo - Chat and Megaera (1)|Achilles|恐れながら、私が語れる話の大半は、\n血なまぐさい物語ばかりで…
+AchillesChatWithMegaera02|Duo - Chat and Megaera (2)|Megaera|…槍は使い手の腕しだいで強力な武具となるが、\n鞭の一撃を止めることはできない。
+AchillesChatWithMegaera02|Duo - Chat and Megaera (2)|Achilles|反論したいところですが、私は鞭を振るう相手と\n対峙した経験が浅く… ある意味それは、\n幸いなことかもしれません。
+AchillesChatWithMegaera03|Duo - Chat and Megaera (3)|Megaera|…亡霊よ、それを飲み終えたら、\nもう一本、開けるがいい。
+AchillesChatWithMegaera03|Duo - Chat and Megaera (3)|Achilles|仰せのままに。ザグレウス、話は、また次の機会に。
 AchillesGift01|Achilles Gift 01|Zagreus|師匠。大したものではありませんが… これを。
 AchillesGift01|Achilles Gift 01|Achilles|私に？どうやら先を越されてしまったようだな。\n私もおまえに、渡したいものがあった。\nこれを受け取ってほしい。
 AchillesGift02|Achilles Gift 02|Achilles|これを、私に？いや… 私には、もったいない…！
@@ -4485,40 +4485,40 @@ NyxAboutLegendary01|Nyx About Legendary 01|Zagreus|夜の化身のあなたが�
 NyxAboutLegendary01|Nyx About Legendary 01|Nyx|愛嬌に満ちた外見に、騙されぬように。\n冥友は、その内に、2つの魂の固い絆が生み出す、\n強力な力を秘めています。
 NyxAboutLegendary02|Nyx About Legendary 02|Zagreus|…冥界で唯一現存するイプシロン・エディションの\n冥友「フィディ」を、デューサに譲ったというのは、\n本当ですか？デューサはすごくよろこんで、俺に\n譲ってくれました。冥友は、そうやって友の間で\n譲渡を繰り返すことで、力を増すそうですね？
 NyxAboutLegendary02|Nyx About Legendary 02|Nyx|あのゴルゴンの頭部には、改善すべき短所もありますが\nあなたとの絆の深まりを考慮すれば、件の冥友が\nあなたの手元に渡ったことは、至極当然と考えます。\nこの一件で、あなたも、ゴルゴンの頭部も、より一層\n励むための刺激を受けたといえるでしょう。
-NyxWithHades01|Nyx With Hades 01|Hades|…ニュクス、この件に関して、わが愚息に\n助力することは許さぬ。甘やかせば、つけあがる。\n浅はかな考えは捨てるよう、叱責するのが親の務めだ。
-NyxWithHades01|Nyx With Hades 01|Nyx|承知しています。彼はあなたの実子。教育はあなたに\n一任します。冥界とこの館の管理責任を負う私に、\nあなたは助力しました。私はあなたから、\n永遠に返しきれない恩を受けました。
-NyxWithHades01|Nyx With Hades 01|Hades|当然のことだ。わが弟たちや私に一度でも背いた者は、\n本来ならばタルタロスの深淵で苦役に就く定め。\nこの館での宮仕えを許されているのは、幸いなことと\n心得よ。もっとも、おまえには奈落の底の闇など、\n苦にならぬであろうが。
-NyxWithHades02|Nyx With Hades 02|Hades|…私の目をごまかすことはできぬぞ。\nおまえがわが愚息に手を貸していることは明白。\nこの館で、公然と主の要請を無視するとは…\nおまえが私の立場なら、いかに対処する？答えてみよ。
-NyxWithHades02|Nyx With Hades 02|Nyx|ハデス、あなたの息子と私の関係は、今も昔も\n変わりません。あなたに養育を託された当時から、\n私は彼に可能なかぎりの力添えをしてきました。\nそれは今後も、同様。彼がここを去ることを\n望むのなら、それをはばむことはしません。
-NyxWithHades02|Nyx With Hades 02|Hades|フン… 実の子でもないのに、なぜそうも甘やかす？\n無謀な行いだと、おまえも理解しているだろうに。\nおまえが煽るせいで、あやつは妄想に取り憑かれて\nいる。それがおまえの狙いなら、好きにするがいい。
-NyxWithHades03|Nyx With Hades 03|Hades|オリュンポスに、なぜ息子の存在が知れている！？\nわが領域において、あの者たちがわが肉親に祝福を\n授けるとは、なんと厚かましい…！冥界はおまえの\n領域でもある。おまえの力にも、翳りが生じたか。\nあるいは… 何らかのはかりごとをしているのか…？
-NyxWithHades03|Nyx With Hades 03|Nyx|私の力を疑うことは、看過しません。あなたの息子が\n地上に迫るにつれ、オリュンポスに存在を察知される\nのは時間の問題でした。彼らは、遠戚の神の発見を\nよろこび、オリュンポスの頂へ招致したまで。彼ら\nによる、あなたの息子への影響は、ごく軽微です。
-NyxWithHades03|Nyx With Hades 03|Hades|おまえに言われずとも、あの者どもの“影響”などは、\nすでに察知している。なんと愚かな過ちを…
-NyxWithHades03|Nyx With Hades 03|Nyx|愚かな過ちについて、あなたに咎められる\nいわれはありません。あなたが何をしようと、\nすでに敷設された道を曲げることはできません。
-NyxWithHades04|Nyx With Hades 04|Hades|ニュクス、何を考えている？自分が何をしたか、\n理解しているのか？おまえは女王の身の安全を守ると\n主張するが、むしろおまえのせいで、オリュンポスの\n神々に女王の存在を悟られかねん事態だ！
-NyxWithHades04|Nyx With Hades 04|Nyx|私が無計画に行動したことが、かつて一度でも\nありましたか？私も、あなたの息子も、\n女王の身に危険を及ぼすことはありません。
-NyxWithHades04|Nyx With Hades 04|Zagreus|「女王の身に危険を及ぼす」…？\nいったいなんの話です？
-NyxWithHades04|Nyx With Hades 04|Nyx|ザグレウス。あなたは実母の存在を、オリュンポスの神々に明かしますか？
-NyxWithHades04|Nyx With Hades 04|Zagreus|まさか！\n母上は、ひとりで幸せに暮らしているようですし…
-NyxWithHades04|Nyx With Hades 04|Hades|口ではなんとでも言える。\nこやつが破滅をもたらさぬと、なぜ断言できる？
-NyxWithHades04|Nyx With Hades 04|Nyx|彼がいずれ目的を成し遂げると、私が断言できた理由と同じです。
-NyxWithHades05|Nyx With Hades 05|Hades|…ニュクス。長きにわたり、私と共に冥界の統治に\n尽力してきたおまえに、心より感謝している。私の\n冥王即位は、おまえの一族にとって皮肉な事態だった。\nにもかかわらず、私とオリュンポスの神々が絶縁した\nのちも、おまえは私への協力を惜しまなかった。
-NyxWithHades05|Nyx With Hades 05|Nyx|ハデス、あなたも知ってのとおり、私は夜の化身です。\n最初に出会った際に、宣言したはずです。あなたは\n運命の定めにより、冥王となった。あなたがその地位にあるかぎり、私はあなたを支えつづけると。
-NyxWithHades05|Nyx With Hades 05|Hades|忘れるはずがなかろう。冥王としてこの玉座に\n在るかぎり、わが持てる力のすべてをもって、\nこの冥界を治めることを約束しよう。
-NyxWithAchilles01|Nyx With Achilles 01|Achilles|…あらゆる手を尽くして鍛えたつもりですが、\n果たしてそれで十分だったのか。\n冥界からの脱出など、前例がない。
-NyxWithAchilles01|Nyx With Achilles 01|Nyx|あなたが施した訓練は、十分です。ですが、\n彼が飽くなき挑戦を続けられるのは、あなたが彼を\n信じているからこそ。あなたがおのれを信じなければ、\n彼もまた、あなたへの信頼を失うでしょう。
-NyxWithAchilles02|Nyx With Achilles 02|Achilles|…夜母神ニュクス、あなたは彼を立派な王子に\n育て上げました。あなたご自身にすら、驚きの\n結果だったのでは？何もかも、あなたのおかげです。\n冥界の住民を代表し、感謝いたします。
-NyxWithAchilles02|Nyx With Achilles 02|Nyx|私よりも、あなたこそ感謝されてしかるべきです。\n私にとって、当館への奉仕は唯一の役目。私は冥界に\n生まれ落ち、冥界は私のすべて。一方… あなたが\nここまで忠義を尽くすとは、誰が想像できたでしょう。
-NyxWithAchilles02|Nyx With Achilles 02|Achilles|…私も、この館に仕える他に、選択肢などないと思っただけです。少なくとも当初は、そんな心持ちでした。\nですが、若君の指南役を務め、彼を一人前の戦士に\n育てているうちに、再び「生きがい」を得た。\n今、こうして話していても、不思議な気持ちです。
-NyxWithAchilles02|Nyx With Achilles 02|Nyx|そうだとしても、半ば奴隷のごとく冥界に仕える\n暮らしの中、私心なく忠義を尽くしたのは純粋に、\nあなたの意志によるもの。生者であった頃の高潔さが、死者となった今でも、あなたの内に満ちている\n証しです。
-NyxWithAchillesAfterMyrmidonReunionQuest01|Nyx With Achilles After Myrmidon Reunion Quest 01|Achilles|…夜母神ニュクス、あなたのしてくださったことに、\n感謝の言葉が見つかりせん。今後もこの館に仕えさせていただけること、光栄の至りです。
-NyxWithAchillesAfterMyrmidonReunionQuest01|Nyx With Achilles After Myrmidon Reunion Quest 01|Nyx|あなたが何に言及しているのか、私には\nわかりかねますが、あなたが当館への奉仕継続を\n望んでいることについては、私こそ、光栄と心得ます。
-NyxWithPersephone01|Nyx With Persephone 01|Nyx|…女王ペルセポネ、ご帰還を、長らくお待ち申し上げておりました。こうして再会が叶ったこと、光栄の至りに存じます。
-NyxWithPersephone01|Nyx With Persephone 01|Persephone|ニュクス、あなたとは、堅苦しいことは抜きにする\n約束でしょう？私も、あなたにまた会えてうれしいわ。\n地上での暮らし… 昼間は冥界とはずいぶん\n様子が違ったけれど、夜になると、この館で\nあなたと過ごした時を懐かしく思い出したものよ。
-NyxWithPersephone01|Nyx With Persephone 01|Nyx|心楽しく過ごした時を？
-NyxWithPersephone01|Nyx With Persephone 01|Persephone|ええ。それ以外の時のことは、\n思い出さないようにしているもの！
-NyxWithPersephone01|Nyx With Persephone 01|Nyx|ご帰還を歓迎いたします。冥界での暮らしに\n再度適応するには、困難も多数伴うでしょう。
-NyxWithPersephone01|Nyx With Persephone 01|Persephone|地上では、誰の力も借りずに家まで建てたのよ？\nたいていの困難なんて、苦にならないわ。\nあなたもよく知っているでしょう？
+NyxWithHades01|Duo - Nyx and Hades (1)|Hades|…ニュクス、この件に関して、わが愚息に\n助力することは許さぬ。甘やかせば、つけあがる。\n浅はかな考えは捨てるよう、叱責するのが親の務めだ。
+NyxWithHades01|Duo - Nyx and Hades (1)|Nyx|承知しています。彼はあなたの実子。教育はあなたに\n一任します。冥界とこの館の管理責任を負う私に、\nあなたは助力しました。私はあなたから、\n永遠に返しきれない恩を受けました。
+NyxWithHades01|Duo - Nyx and Hades (1)|Hades|当然のことだ。わが弟たちや私に一度でも背いた者は、\n本来ならばタルタロスの深淵で苦役に就く定め。\nこの館での宮仕えを許されているのは、幸いなことと\n心得よ。もっとも、おまえには奈落の底の闇など、\n苦にならぬであろうが。
+NyxWithHades02|Duo - Nyx and Hades (2)|Hades|…私の目をごまかすことはできぬぞ。\nおまえがわが愚息に手を貸していることは明白。\nこの館で、公然と主の要請を無視するとは…\nおまえが私の立場なら、いかに対処する？答えてみよ。
+NyxWithHades02|Duo - Nyx and Hades (2)|Nyx|ハデス、あなたの息子と私の関係は、今も昔も\n変わりません。あなたに養育を託された当時から、\n私は彼に可能なかぎりの力添えをしてきました。\nそれは今後も、同様。彼がここを去ることを\n望むのなら、それをはばむことはしません。
+NyxWithHades02|Duo - Nyx and Hades (2)|Hades|フン… 実の子でもないのに、なぜそうも甘やかす？\n無謀な行いだと、おまえも理解しているだろうに。\nおまえが煽るせいで、あやつは妄想に取り憑かれて\nいる。それがおまえの狙いなら、好きにするがいい。
+NyxWithHades03|Duo - Nyx and Hades (3)|Hades|オリュンポスに、なぜ息子の存在が知れている！？\nわが領域において、あの者たちがわが肉親に祝福を\n授けるとは、なんと厚かましい…！冥界はおまえの\n領域でもある。おまえの力にも、翳りが生じたか。\nあるいは… 何らかのはかりごとをしているのか…？
+NyxWithHades03|Duo - Nyx and Hades (3)|Nyx|私の力を疑うことは、看過しません。あなたの息子が\n地上に迫るにつれ、オリュンポスに存在を察知される\nのは時間の問題でした。彼らは、遠戚の神の発見を\nよろこび、オリュンポスの頂へ招致したまで。彼ら\nによる、あなたの息子への影響は、ごく軽微です。
+NyxWithHades03|Duo - Nyx and Hades (3)|Hades|おまえに言われずとも、あの者どもの“影響”などは、\nすでに察知している。なんと愚かな過ちを…
+NyxWithHades03|Duo - Nyx and Hades (3)|Nyx|愚かな過ちについて、あなたに咎められる\nいわれはありません。あなたが何をしようと、\nすでに敷設された道を曲げることはできません。
+NyxWithHades04|Duo - Nyx and Hades (4)|Hades|ニュクス、何を考えている？自分が何をしたか、\n理解しているのか？おまえは女王の身の安全を守ると\n主張するが、むしろおまえのせいで、オリュンポスの\n神々に女王の存在を悟られかねん事態だ！
+NyxWithHades04|Duo - Nyx and Hades (4)|Nyx|私が無計画に行動したことが、かつて一度でも\nありましたか？私も、あなたの息子も、\n女王の身に危険を及ぼすことはありません。
+NyxWithHades04|Duo - Nyx and Hades (4)|Zagreus|「女王の身に危険を及ぼす」…？\nいったいなんの話です？
+NyxWithHades04|Duo - Nyx and Hades (4)|Nyx|ザグレウス。あなたは実母の存在を、オリュンポスの神々に明かしますか？
+NyxWithHades04|Duo - Nyx and Hades (4)|Zagreus|まさか！\n母上は、ひとりで幸せに暮らしているようですし…
+NyxWithHades04|Duo - Nyx and Hades (4)|Hades|口ではなんとでも言える。\nこやつが破滅をもたらさぬと、なぜ断言できる？
+NyxWithHades04|Duo - Nyx and Hades (4)|Nyx|彼がいずれ目的を成し遂げると、私が断言できた理由と同じです。
+NyxWithHades05|Duo - Nyx and Hades (5)|Hades|…ニュクス。長きにわたり、私と共に冥界の統治に\n尽力してきたおまえに、心より感謝している。私の\n冥王即位は、おまえの一族にとって皮肉な事態だった。\nにもかかわらず、私とオリュンポスの神々が絶縁した\nのちも、おまえは私への協力を惜しまなかった。
+NyxWithHades05|Duo - Nyx and Hades (5)|Nyx|ハデス、あなたも知ってのとおり、私は夜の化身です。\n最初に出会った際に、宣言したはずです。あなたは\n運命の定めにより、冥王となった。あなたがその地位にあるかぎり、私はあなたを支えつづけると。
+NyxWithHades05|Duo - Nyx and Hades (5)|Hades|忘れるはずがなかろう。冥王としてこの玉座に\n在るかぎり、わが持てる力のすべてをもって、\nこの冥界を治めることを約束しよう。
+NyxWithAchilles01|Duo - Nyx and Achilles (1)|Achilles|…あらゆる手を尽くして鍛えたつもりですが、\n果たしてそれで十分だったのか。\n冥界からの脱出など、前例がない。
+NyxWithAchilles01|Duo - Nyx and Achilles (1)|Nyx|あなたが施した訓練は、十分です。ですが、\n彼が飽くなき挑戦を続けられるのは、あなたが彼を\n信じているからこそ。あなたがおのれを信じなければ、\n彼もまた、あなたへの信頼を失うでしょう。
+NyxWithAchilles02|Duo - Nyx and Achilles (2)|Achilles|…夜母神ニュクス、あなたは彼を立派な王子に\n育て上げました。あなたご自身にすら、驚きの\n結果だったのでは？何もかも、あなたのおかげです。\n冥界の住民を代表し、感謝いたします。
+NyxWithAchilles02|Duo - Nyx and Achilles (2)|Nyx|私よりも、あなたこそ感謝されてしかるべきです。\n私にとって、当館への奉仕は唯一の役目。私は冥界に\n生まれ落ち、冥界は私のすべて。一方… あなたが\nここまで忠義を尽くすとは、誰が想像できたでしょう。
+NyxWithAchilles02|Duo - Nyx and Achilles (2)|Achilles|…私も、この館に仕える他に、選択肢などないと思っただけです。少なくとも当初は、そんな心持ちでした。\nですが、若君の指南役を務め、彼を一人前の戦士に\n育てているうちに、再び「生きがい」を得た。\n今、こうして話していても、不思議な気持ちです。
+NyxWithAchilles02|Duo - Nyx and Achilles (2)|Nyx|そうだとしても、半ば奴隷のごとく冥界に仕える\n暮らしの中、私心なく忠義を尽くしたのは純粋に、\nあなたの意志によるもの。生者であった頃の高潔さが、死者となった今でも、あなたの内に満ちている\n証しです。
+NyxWithAchillesAfterMyrmidonReunionQuest01|Duo - Nyx and Achilles After Myrmidon Reunion Quest (1)|Achilles|…夜母神ニュクス、あなたのしてくださったことに、\n感謝の言葉が見つかりせん。今後もこの館に仕えさせていただけること、光栄の至りです。
+NyxWithAchillesAfterMyrmidonReunionQuest01|Duo - Nyx and Achilles After Myrmidon Reunion Quest (1)|Nyx|あなたが何に言及しているのか、私には\nわかりかねますが、あなたが当館への奉仕継続を\n望んでいることについては、私こそ、光栄と心得ます。
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Nyx|…女王ペルセポネ、ご帰還を、長らくお待ち申し上げておりました。こうして再会が叶ったこと、光栄の至りに存じます。
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Persephone|ニュクス、あなたとは、堅苦しいことは抜きにする\n約束でしょう？私も、あなたにまた会えてうれしいわ。\n地上での暮らし… 昼間は冥界とはずいぶん\n様子が違ったけれど、夜になると、この館で\nあなたと過ごした時を懐かしく思い出したものよ。
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Nyx|心楽しく過ごした時を？
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Persephone|ええ。それ以外の時のことは、\n思い出さないようにしているもの！
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Nyx|ご帰還を歓迎いたします。冥界での暮らしに\n再度適応するには、困難も多数伴うでしょう。
+NyxWithPersephone01|Duo - Nyx and Persephone (1)|Persephone|地上では、誰の力も借りずに家まで建てたのよ？\nたいていの困難なんて、苦にならないわ。\nあなたもよく知っているでしょう？
 NyxChat01|Nyx Chat 01|Nyx|わが子に、闇の導きを。
 NyxChat02|Nyx Chat 02|Nyx|すべきことがあります。失礼します。
 NyxChat03|Nyx Chat 03|Nyx|くれぐれも気をつけて。
@@ -4721,25 +4721,25 @@ HypnosConsolation_BWrapping01|Hypnos Consolation B Wrapping 01|Hypnos|炎の川�
 HypnosConsolation_RunCleared01|Hypnos Consolation Run Cleared 01|Hypnos|あれ？キミ… 死んだの？フツーに？刺されたわけでも、\n殴られたわけでもないし、毒霧も浴びてなければ、\n焼かれてもいない。潰されたわけでもバラバラにされた\nわけでも石にされたわけでもないのに… 戻ってきたの？\nそれっていわゆる… 「自然死」ってヤツか！
 HypnosConsolation_RunCleared02|Hypnos Consolation Run Cleared 02|Hypnos|また「自然死」にやられたの？それはお気の毒だね…\nだって考えてみてよ。フツーにプラプラしてたら、\nある日突然、はい、死にました！ってなるわけでしょ？\nまあ、キミはボクと違って、考えてみなくても、体験\nできちゃうけど！どんな感じか、聞かせてくれる？
 HypnosConsolation_RunCleared03|Hypnos Consolation Run Cleared 03|Hypnos|また「自然死」にやられちゃったんだ？それは\nムカつくね！次はきっちり懲らしめてやってよね！\n頼んだよ！？
-HypnosWithHades01|Hypnos With Hades 01|Hades|…ヒュプノス、報告書はまだか？提出期限を\n何度破れば気が済む？死者どもは気長に待つだろうが、\n私はそうはゆかぬぞ。
-HypnosWithHades01|Hypnos With Hades 01|Hypnos|ああ、すみません！今日は、何時に起きたか\n忘れちゃいましたけど、それからすぐに亡霊たち\n全員の点呼を取って、でも、なぜか今日にかぎって\n名簿が見つからなくて、どうせお兄ちゃんの\nイタズラだろうと思って、それで…
-HypnosWithHades01|Hypnos With Hades 01|Hades|要点だけ申せ。時を無駄にしおって…\n報告書はどうした？すぐに提出せよ。
-HypnosWithHades01|Hypnos With Hades 01|Hypnos|今、順番に話しますから！それで、名簿なんですけど…\n酒場にあったんですよ！そんなとこに置いた覚えない\nのに！誰かにいじられてないか、ちゃんと調べました。\n個人情報満載ですからね！名前に、死因に、生まれた\n場所に、生前の体重、アレルギー、常用してる薬…
-HypnosWithHades01|Hypnos With Hades 01|Hades|もうよい！それ以上、ひと言もしゃべるでない。\n死者の台帳に誤りのないよう、くれぐれも慎重に\n管理せよ。用件は以上だ。持ち場に戻るがよい。\n…兄は優秀だというのに、同じ兄弟で、\nなぜこうも違うものか…
-HypnosWithHades02|Hypnos With Hades 02|Hades|…このところ、報告書の締め切りを厳守している\nようで、何よりだ。羊皮紙の端に絵図を描き込む\n独自の工夫も、じつに巧みといえる。書類が山積みと\nなっていても、必要な一枚を容易に見つけることが\nできる。
-HypnosWithHades02|Hypnos With Hades 02|Hypnos|よかった！タナトスお兄ちゃんに、このままだと\nクビだって言われて、自分の仕事の一覧を作るように\nしたんです。それを毎日確認して、優先順位を決めて、\nかかる時間を見積もって、コストパフォーマンスの\n分析をして…
-HypnosWithHades02|Hypnos With Hades 02|Hades|うむ。結構なことだ。おまえが管理すべき仕事は\n大量ゆえ、引き続き、しかと励むように。
-HypnosWithHades03|Hypnos With Hades 03|Hypnos|…そういえば、ハデス様、酒場にボクの肖像画を\n飾ってくれて、ありがとうございます！\nすごくいい絵だって聞きました！まだ見にいけて\nないですけど、必ず見にいきます！\nやること一覧に入れてますから！
-HypnosWithHades03|Hypnos With Hades 03|Hades|…用件は以上だ。私が褒賞を撤回し、\nおまえを当広間より強制退去させぬうちに、\n自発的に立ち去るがよい。
-HypnosWithHades03|Hypnos With Hades 03|Hypnos|…えと、すみません、もうちょっと簡単な言葉で、\nもう一度言ってもらえますか？なんかちょっと…\n悪いことっぽく聞こえたので…
-HypnosWithNyx01|Hypnos With Nyx 01|Hypnos|…だってママ、ボク、ときどき眠くなっちゃうん\nだもん。最近、すっごく忙しくてさ。ママも\n見てたでしょ？亡霊を出迎えたり、やること一覧を\n作ったり、居心地のいい環境を整えたり…
-HypnosWithNyx01|Hypnos With Nyx 01|Nyx|ヒュプノス、館内で私をその呼称で呼ぶことは\n控えるよう、命じたはずです。ハデスの館に\nふさわしい使用人として行動するよう留意し、\n引き続き、自立に努めなさい。
-HypnosWithNyx02|Hypnos With Nyx 02|Nyx|ヒュプノス、あなたはみずからの職務において、\n持続的に成果をあげています。\nあなたの順調な成長に、私もうれしさを覚えます。\nあなたのたゆまぬ努力を称賛します。
-HypnosWithNyx02|Hypnos With Nyx 02|Hypnos|わあ、うれしいなぁ…！その“称賛”は、誰からですか？\nメガイラ？タナトス？デューサかな！ひょっとして…\nハデス様じきじきとか…！？
-HypnosWithNyx02|Hypnos With Nyx 02|Nyx|私からです。あなたも承知のとおり、\n私はわが子全員の面倒を常時見ることはできかねます。\n子どもたちは自立し、各々が冥界で負う責務を\n全うする必要があります。あなたの母として…\nあなたが有能であることに安堵します。
-HypnosWithNyx02|Hypnos With Nyx 02|Hypnos|有能？ボクが？すごくうれしいよ、マ… じゃなくて、ニュクス様！ボク、そんなこと言われたの初めてだよ！
-HypnosWithNyx02|Hypnos With Nyx 02|Nyx|私の息子であるあなたが有能なのは、当然のこと。\nそれでも、あなた自身の努力のたまものであることは\n承知しています。引き続き、励みなさい。\n私はいつでも見守っています。
-HypnosWithPersephone01|Hypnos With Persephone 01|Hypnos|…女王様、ボクはいつでも、そこでちゃんと\n起きてますから、ご用のときは、いつでも\n言ってくださいね！まあでも、たとえ女王様の\nためだって、こんなふうに持ち場を離れてたら、\n怒られちゃうんですけどね！
+HypnosWithHades01|Duo - Hypnos and Hades (1)|Hades|…ヒュプノス、報告書はまだか？提出期限を\n何度破れば気が済む？死者どもは気長に待つだろうが、\n私はそうはゆかぬぞ。
+HypnosWithHades01|Duo - Hypnos and Hades (1)|Hypnos|ああ、すみません！今日は、何時に起きたか\n忘れちゃいましたけど、それからすぐに亡霊たち\n全員の点呼を取って、でも、なぜか今日にかぎって\n名簿が見つからなくて、どうせお兄ちゃんの\nイタズラだろうと思って、それで…
+HypnosWithHades01|Duo - Hypnos and Hades (1)|Hades|要点だけ申せ。時を無駄にしおって…\n報告書はどうした？すぐに提出せよ。
+HypnosWithHades01|Duo - Hypnos and Hades (1)|Hypnos|今、順番に話しますから！それで、名簿なんですけど…\n酒場にあったんですよ！そんなとこに置いた覚えない\nのに！誰かにいじられてないか、ちゃんと調べました。\n個人情報満載ですからね！名前に、死因に、生まれた\n場所に、生前の体重、アレルギー、常用してる薬…
+HypnosWithHades01|Duo - Hypnos and Hades (1)|Hades|もうよい！それ以上、ひと言もしゃべるでない。\n死者の台帳に誤りのないよう、くれぐれも慎重に\n管理せよ。用件は以上だ。持ち場に戻るがよい。\n…兄は優秀だというのに、同じ兄弟で、\nなぜこうも違うものか…
+HypnosWithHades02|Duo - Hypnos and Hades (2)|Hades|…このところ、報告書の締め切りを厳守している\nようで、何よりだ。羊皮紙の端に絵図を描き込む\n独自の工夫も、じつに巧みといえる。書類が山積みと\nなっていても、必要な一枚を容易に見つけることが\nできる。
+HypnosWithHades02|Duo - Hypnos and Hades (2)|Hypnos|よかった！タナトスお兄ちゃんに、このままだと\nクビだって言われて、自分の仕事の一覧を作るように\nしたんです。それを毎日確認して、優先順位を決めて、\nかかる時間を見積もって、コストパフォーマンスの\n分析をして…
+HypnosWithHades02|Duo - Hypnos and Hades (2)|Hades|うむ。結構なことだ。おまえが管理すべき仕事は\n大量ゆえ、引き続き、しかと励むように。
+HypnosWithHades03|Duo - Hypnos and Hades (3)|Hypnos|…そういえば、ハデス様、酒場にボクの肖像画を\n飾ってくれて、ありがとうございます！\nすごくいい絵だって聞きました！まだ見にいけて\nないですけど、必ず見にいきます！\nやること一覧に入れてますから！
+HypnosWithHades03|Duo - Hypnos and Hades (3)|Hades|…用件は以上だ。私が褒賞を撤回し、\nおまえを当広間より強制退去させぬうちに、\n自発的に立ち去るがよい。
+HypnosWithHades03|Duo - Hypnos and Hades (3)|Hypnos|…えと、すみません、もうちょっと簡単な言葉で、\nもう一度言ってもらえますか？なんかちょっと…\n悪いことっぽく聞こえたので…
+HypnosWithNyx01|Duo - Hypnos and Nyx (1)|Hypnos|…だってママ、ボク、ときどき眠くなっちゃうん\nだもん。最近、すっごく忙しくてさ。ママも\n見てたでしょ？亡霊を出迎えたり、やること一覧を\n作ったり、居心地のいい環境を整えたり…
+HypnosWithNyx01|Duo - Hypnos and Nyx (1)|Nyx|ヒュプノス、館内で私をその呼称で呼ぶことは\n控えるよう、命じたはずです。ハデスの館に\nふさわしい使用人として行動するよう留意し、\n引き続き、自立に努めなさい。
+HypnosWithNyx02|Duo - Hypnos and Nyx (2)|Nyx|ヒュプノス、あなたはみずからの職務において、\n持続的に成果をあげています。\nあなたの順調な成長に、私もうれしさを覚えます。\nあなたのたゆまぬ努力を称賛します。
+HypnosWithNyx02|Duo - Hypnos and Nyx (2)|Hypnos|わあ、うれしいなぁ…！その“称賛”は、誰からですか？\nメガイラ？タナトス？デューサかな！ひょっとして…\nハデス様じきじきとか…！？
+HypnosWithNyx02|Duo - Hypnos and Nyx (2)|Nyx|私からです。あなたも承知のとおり、\n私はわが子全員の面倒を常時見ることはできかねます。\n子どもたちは自立し、各々が冥界で負う責務を\n全うする必要があります。あなたの母として…\nあなたが有能であることに安堵します。
+HypnosWithNyx02|Duo - Hypnos and Nyx (2)|Hypnos|有能？ボクが？すごくうれしいよ、マ… じゃなくて、ニュクス様！ボク、そんなこと言われたの初めてだよ！
+HypnosWithNyx02|Duo - Hypnos and Nyx (2)|Nyx|私の息子であるあなたが有能なのは、当然のこと。\nそれでも、あなた自身の努力のたまものであることは\n承知しています。引き続き、励みなさい。\n私はいつでも見守っています。
+HypnosWithPersephone01|Duo - Hypnos and Persephone (1)|Hypnos|…女王様、ボクはいつでも、そこでちゃんと\n起きてますから、ご用のときは、いつでも\n言ってくださいね！まあでも、たとえ女王様の\nためだって、こんなふうに持ち場を離れてたら、\n怒られちゃうんですけどね！
 HypnosChat01|Hypnos Chat 01|Hypnos|ハデスの館へようこそ！「死して栄光を」！
 HypnosChat02|Hypnos Chat 02|Hypnos|ハデスの館へようこそ！ここでは、毎日が命日さ！
 HypnosChat03|Hypnos Chat 03|Hypnos|ハデスの館へようこそ！死に関することなら、なんでもお任せを！
@@ -4985,62 +4985,62 @@ ThanatosPostEnding02|Thanatos Post Ending 02|Thanatos|それについては、�
 ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|おまえの母上は、じつに聡明な方だ。おまえの\n頭が切れるのは、父上譲りだと思っていたが。\nオリュンポスの神々の様子は？こちらの説明に、\n納得しているのか？
 ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Zagreus|今のところはな。とはいえ、俺たち神々に\n争いはつきものだ。いつまで続くことか…
 ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|たしかに。人間たちがよく言うように、\nつかの間の平和を楽しむとしよう。\nでは、また任務中に。
-ThanatosWithHades01|Thanatos With Hades 01|Hades|弟のヒュプノスならいざ知らず、死を司る神である\nおまえが定刻を守らぬとは。申し開きたいことが\nあれば、申してみよ。
-ThanatosWithHades01|Thanatos With Hades 01|Thanatos|昨今、私の務めにおいて不首尾が続いていること、\n心よりお詫び申し上げます。地上の戦に伴い、\n冥界へ導くべき魂の数が大幅に増加したことが、\n思いのほか、大きな負担となっており…
-ThanatosWithHades01|Thanatos With Hades 01|Hades|タナトス、われわれ神にも、ときには休息が必要だ。\nこの館が本来あるべき姿を取り戻せば、それも叶おう。\nおまえの働きには、おおむね満足している。\nあまり根を詰めすぎぬように。
-ThanatosWithHades01|Thanatos With Hades 01|Thanatos|痛み入ります。ご入り用の際は、\nいつでもお申しつけを。では、私は仕事に戻ります。
-ThanatosWithHades02|Thanatos With Hades 02|Hades|…このところ、仕事が遅れがちだな？加えて、おまえが関わる事故の報告が、タルタロスより複数入っている。私の目はごまかせぬぞ。わかったら、持ち場に戻れ。
-ThanatosWithHades03|Thanatos With Hades 03|Hades|私に隠れて、悪事の手助けを…！なんという裏切り！\nどういうつもりだ… 何か申してみよ。
-ThanatosWithHades03|Thanatos With Hades 03|Thanatos|陛下… 私のことは、タルタロスの牢に幽閉するなり、\nお好きになさってください。陛下へのわが忠誠心は\n揺るぎません。しかし… 陛下とザグレウスが\nいがみ合う様を、これ以上傍観しているわけには…\n何かよい打開策があるはずです。
-ThanatosWithHades03|Thanatos With Hades 03|Hades|この私に、物申すか。フン… しょせん、冥界は\nおまえの領域。タルタロスにおまえを幽閉したところで\nなんの意味もない。第一、おまえの職務を\n引き継ぐ者もおらぬ。これまでの忠誠ぶりに免じて、\n処罰は見送ってやる。失せるがよい。
-ThanatosWithHades03|Thanatos With Hades 03|Thanatos|心よりお詫び申し上げます…
-ThanatosWithHades04|Thanatos With Hades 04|Thanatos|陛下、こたびは、いかなる御用でしょうか。\n前回拝謁にあずかってから、長きにわたり、\nご無沙汰しておりましたが。
-ThanatosWithHades04|Thanatos With Hades 04|Hades|おまえは、こう申したな。わが息子との件、“打開策”があるはずだと。それについては、解決を見いだした。\nそうだな、ザグレウス？
-ThanatosWithHades04|Thanatos With Hades 04|Zagreus|まあ… 父上はいまだに、俺が冥界と地上の境界を\n越えようとするたびに全力で阻止してくるので、\n“解決”と言い切れるのかは微妙ですが…\n以前と比べれば、大きな進歩かと。
-ThanatosWithHades04|Thanatos With Hades 04|Hades|…というわけで、今後もこの友好関係を\n維持してゆきたい所存だ。当館の円滑な運営上、\n幹部間の見解が一致していることは必須と心得るが、\nおまえはどう思う？
-ThanatosWithHades04|Thanatos With Hades 04|Thanatos|おっしゃるとおり、われわれ全員が、各々の任務に\n注力できる状態にあることが、冥界の利につながると\n心得ます。陛下直々にご報告くださるとは、\n光栄至極に存じます。
-ThanatosWithHades04|Thanatos With Hades 04|Hades|うむ。話は以上だ。
-ThanatosWithHypnos01|Thanatos With Hypnos 01|Thanatos|ばかばかしすぎて話にならん。\n自分が何を言っているか、わかっているのか？
-ThanatosWithHypnos01|Thanatos With Hypnos 01|Hypnos|どうして？人間たちが全員、\n一度に死んでくれたら、お兄ちゃんは\n地上と冥界を何度も行ったり来たりしなくていいし、\n僕と過ごす時間だってたくさんできるよ？
-ThanatosWithHypnos01|Thanatos With Hypnos 01|Thanatos|おまえの相手をすると疲れる。仕事に戻れ。\n俺も忙しい。
-ThanatosWithHypnos02|Thanatos With Hypnos 02|Thanatos|ヒュプノス、仕事中に居眠りをするな！\n怠惰にもほどがある…
-ThanatosWithHypnos02|Thanatos With Hypnos 02|Hypnos|ちょっとウトウトしただけだよお…\nお兄ちゃんがいるとつい、安心しちゃって。\nでも… よく考えたら、その隙にお兄ちゃんに\n殺されてもしかたないよね。なーんつって！
-ThanatosWithHypnos02|Thanatos With Hypnos 02|Thanatos|…本当に殺されたくなければ、仕事に身を入れろ。\nただでさえ、この館は人手不足なのだ。\n課された任務をまっとうしろ。
-ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|…ヒュプノス、おまえの任務一覧には、俺が数年前に\n登録した仕事が多数記載されている。それから、\n今週の登録者名簿は、すでに提出しただろう？\nなぜ「完了」の欄に印がついていない？
-ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|今、ちょうど、やろうとしてたの！\nでも、お兄ちゃんが来て話しかけるから、\nそっちに気を取られて、忘れちゃったの！\nよくあることでしょ？
-ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|仕事に集中しないと、またハデス陛下より\n叱責を受けるぞ。おまえも、\nそのような目には遭いたくないだろう。
-ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|それは大丈夫じゃないかな。だって、\nこの前陛下と話したとき、はっきり言われたもん。\nボクとはもう二度と話したくない、って！
-ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|ヒュプノス、おまえに代わる要員は、いくらでもいる。\nおのれの務めを真面目に果たさないと、\n別の者に職を奪われるぞ。
-ThanatosWithHypnos04|Thanatos With Hypnos 04|Hypnos|うん、そうだね、お兄ちゃん！\nもしそうなったら、そいつは、\nこの冥界で最高の仕事に就けて、ラッキーだね！
-ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|話が通じていないようだな… \nいざ解雇されてから泣きついてきても、\n俺にはどうすることもできないぞ？
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|…おまえは、この一覧を眺めるのに、どれぐらいの時を費やしている？一覧の作成に時をかけすぎると、実際に仕事をこなす暇がなくなってしまう。
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|ボク、一覧作るの大好き！フチには必ず\n絵を描くようにしてて、一枚、一枚、全部違うんだ！\nそうすると、作業の進捗を確認してくれる人にも、\n楽しんでもらえるでしょ？でも… たしかに、\n作るのにすごーく時間がかかるんだよね…
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|おまえは何でも、やりすぎる嫌いがある。\n何事も、ほどほどということを覚えるべきだ。\n職務中、休憩を取るだろう。その休憩の前と後に、\n自分の優先事項の一覧を見直すことにしてはどうだ？
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|“自分の優先事項の一覧”…？てことは… 自分のために、一覧を作っていいってこと？ホントに…？うわぁ…
-ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|このところ、おまえが提出する報告書は\n正確を極めていると聞く。誰の手助けだ？\nザグレウスではないだろうが…
-ThanatosWithHypnos06|Thanatos With Hypnos 06|Hypnos|ハハ… うん。ザグくんには、手伝ってもらってないよ。ただ、大事なことだけを上の方に書くようにして、\n優先順位をまとめるのに、もう少し時間をかけるようにしただけ！それがうまくいってるみたい！
-ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|なんにせよ、おまえの仕事ぶりは向上している。\nその調子で励むことだ。
-ThanatosWithHypnos07|Thanatos With Hypnos 07|Thanatos|…要するに、謝罪したい、ということだ。\nおまえをろくに弟扱いせず、冷淡な態度を\n取ってきたことは、自覚している。許してもらえるか？
-ThanatosWithHypnos07|Thanatos With Hypnos 07|Hypnos|ちょっとー、やめてよ、お兄ちゃんー！ボクたち、同じ墓穴に入った遺骨同士みたいなもんでしょ？そりゃあ、お兄ちゃんは留守がちで、1億年ぐらい会ってない気がすることも、よくあるけどさ… お兄ちゃんは\nすごいんだ。いつもボクの面倒を見てくれてさ！
-ThanatosWithHypnos07|Thanatos With Hypnos 07|Thanatos|おまえも俺も、重要な任務を担う身。\n馴れ合うことのないよう気を引き締めつつ、\n兄弟同士、互いに励むとしよう。
-ThanatosWithHypnos08|Thanatos With Hypnos 08|Thanatos|…ヒュプノス、ついに表彰されたか。よくやった。\n兄としても鼻が高い。
-ThanatosWithHypnos08|Thanatos With Hypnos 08|Hypnos|うん！ボクもすごくうれしい！\nごめん、今はゆっくり話す時間ないんだ…\n入館待ちの亡霊がどんどん増えてて、出迎えとか、\n入館手続きとか、仕事がいっぱいあって…
-ThanatosWithHypnos08|Thanatos With Hypnos 08|Thanatos|ああ。俺も似たような状況だ。互いに励むとしよう。
-ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|母上。何か、御用命いただけることはありますか。\n自分は、館を離れがちです。お力になれることがあれば\n何なりとお申しつけを。
-ThanatosWithNyx01|Thanatos With Nyx 01|Nyx|私はすでに、あなたから多大な助力を受けています。\n引き続き、同様に願います。現在、当館は危機に\n瀕しています。本件におけるあなたの助力と選択が、\n今後訪れる結果を左右するでしょう。
-ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|引き続き、尽力いたします。\n何もかも、館を管理してくださる母上のおかげ。\n母上と、この館のためなら、なんなりと。\nでは、失礼します。
-ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|このところ、館の運営が順調なように見受けられます。\nこうしたことを不用意に口にすれば、運命の三女神が\n気まぐれに災いをもたらしかねないことは、\n承知していますが…
-ThanatosWithNyx02|Thanatos With Nyx 02|Nyx|使用人が一丸となり、職務に励んでいる結果です。\n現状態を維持するには、あなたを始めとする、当館に\n属する者たちに、引き続き尽力してもらう必要が\nあります。一時的な休息は是。ですが、あなたには\n当館において、最大限の能力の発揮を求めます。
-ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|母上には多大なご恩があるのはもちろん、\n深く敬愛もしております。\nわれわれがこうして在るのも、すべて母上のおかげ。\n自分も、この館の他の者たちも皆、母上へのご恩を\n肝に銘じております。どうか、ご安心を。
-ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|…とはいえ、それも昔のこと。今のわれわれには、果たすべき職務が… タナトス、話の続きは、別の機会にしたほうがよさそうだ。
-ThanatosWithMegaera01|Thanatos With Megaera 01|Thanatos|ザグレウス、今、メガイラと内々の話をしている。\nあとにしてくれ。
-ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|かまわない。好きにさせておけ。\nこの男は館への出入りこそ許されているが、\nもはやここにおのれの居場所はないことを、\n思い知ったほうがいい。
-ThanatosWithPersephone01|Thanatos With Persephone 01|Thanatos|ペルセポネ女王陛下、よくぞご帰還されました。\n当館にとって、この上ない慶事。館での生活で\nご不自由があれば、何なりと私にお申しつけを。\nすぐに対処いたします。
-ThanatosWithPersephone01|Thanatos With Persephone 01|Persephone|ありがとう、タナトス！では、何かあれば、\nお願いしますね。それにしても、\nすっかり大きくなって！私がいないあいだも、\n息子の面倒を見てくれていたんでしょうね。
-ThanatosWithPersephone01|Thanatos With Persephone 01|Thanatos|女王陛下のご子息は… 自立性の極めて高い方です。\nとはいえ、必要とあらばお力になれるよう、\n常に心掛けてまいりました。\n…失敬、そろそろ、地上での任務に戻らなくては。
-ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|…もったいないお言葉、痛み入ります。ご子息と私は、\n幼少の時分より親しくさせていただいておりましたが、\nこたびの試練を共に切り抜けたことで、その絆は\n切っても切れぬものとなりました。
-ThanatosWithPersephone02|Thanatos With Persephone 02|Persephone|あの子は私より、他者の本質を見抜くのが\n上手みたいね。あなたが働き者なのは、\n一目見ればわかります。でも、どうか無理だけは\nしないで。息子とも、お互いを気遣いながら、\n仲よくしてもらえるとうれしいわ。
-ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|仰せのままに、女王陛下。
+ThanatosWithHades01|Duo - Thanatos and Hades (1)|Hades|弟のヒュプノスならいざ知らず、死を司る神である\nおまえが定刻を守らぬとは。申し開きたいことが\nあれば、申してみよ。
+ThanatosWithHades01|Duo - Thanatos and Hades (1)|Thanatos|昨今、私の務めにおいて不首尾が続いていること、\n心よりお詫び申し上げます。地上の戦に伴い、\n冥界へ導くべき魂の数が大幅に増加したことが、\n思いのほか、大きな負担となっており…
+ThanatosWithHades01|Duo - Thanatos and Hades (1)|Hades|タナトス、われわれ神にも、ときには休息が必要だ。\nこの館が本来あるべき姿を取り戻せば、それも叶おう。\nおまえの働きには、おおむね満足している。\nあまり根を詰めすぎぬように。
+ThanatosWithHades01|Duo - Thanatos and Hades (1)|Thanatos|痛み入ります。ご入り用の際は、\nいつでもお申しつけを。では、私は仕事に戻ります。
+ThanatosWithHades02|Duo - Thanatos and Hades (2)|Hades|…このところ、仕事が遅れがちだな？加えて、おまえが関わる事故の報告が、タルタロスより複数入っている。私の目はごまかせぬぞ。わかったら、持ち場に戻れ。
+ThanatosWithHades03|Duo - Thanatos and Hades (3)|Hades|私に隠れて、悪事の手助けを…！なんという裏切り！\nどういうつもりだ… 何か申してみよ。
+ThanatosWithHades03|Duo - Thanatos and Hades (3)|Thanatos|陛下… 私のことは、タルタロスの牢に幽閉するなり、\nお好きになさってください。陛下へのわが忠誠心は\n揺るぎません。しかし… 陛下とザグレウスが\nいがみ合う様を、これ以上傍観しているわけには…\n何かよい打開策があるはずです。
+ThanatosWithHades03|Duo - Thanatos and Hades (3)|Hades|この私に、物申すか。フン… しょせん、冥界は\nおまえの領域。タルタロスにおまえを幽閉したところで\nなんの意味もない。第一、おまえの職務を\n引き継ぐ者もおらぬ。これまでの忠誠ぶりに免じて、\n処罰は見送ってやる。失せるがよい。
+ThanatosWithHades03|Duo - Thanatos and Hades (3)|Thanatos|心よりお詫び申し上げます…
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Thanatos|陛下、こたびは、いかなる御用でしょうか。\n前回拝謁にあずかってから、長きにわたり、\nご無沙汰しておりましたが。
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Hades|おまえは、こう申したな。わが息子との件、“打開策”があるはずだと。それについては、解決を見いだした。\nそうだな、ザグレウス？
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Zagreus|まあ… 父上はいまだに、俺が冥界と地上の境界を\n越えようとするたびに全力で阻止してくるので、\n“解決”と言い切れるのかは微妙ですが…\n以前と比べれば、大きな進歩かと。
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Hades|…というわけで、今後もこの友好関係を\n維持してゆきたい所存だ。当館の円滑な運営上、\n幹部間の見解が一致していることは必須と心得るが、\nおまえはどう思う？
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Thanatos|おっしゃるとおり、われわれ全員が、各々の任務に\n注力できる状態にあることが、冥界の利につながると\n心得ます。陛下直々にご報告くださるとは、\n光栄至極に存じます。
+ThanatosWithHades04|Duo - Thanatos and Hades (4)|Hades|うむ。話は以上だ。
+ThanatosWithHypnos01|Duo - Thanatos and Hypnos (1)|Thanatos|ばかばかしすぎて話にならん。\n自分が何を言っているか、わかっているのか？
+ThanatosWithHypnos01|Duo - Thanatos and Hypnos (1)|Hypnos|どうして？人間たちが全員、\n一度に死んでくれたら、お兄ちゃんは\n地上と冥界を何度も行ったり来たりしなくていいし、\n僕と過ごす時間だってたくさんできるよ？
+ThanatosWithHypnos01|Duo - Thanatos and Hypnos (1)|Thanatos|おまえの相手をすると疲れる。仕事に戻れ。\n俺も忙しい。
+ThanatosWithHypnos02|Duo - Thanatos and Hypnos (2)|Thanatos|ヒュプノス、仕事中に居眠りをするな！\n怠惰にもほどがある…
+ThanatosWithHypnos02|Duo - Thanatos and Hypnos (2)|Hypnos|ちょっとウトウトしただけだよお…\nお兄ちゃんがいるとつい、安心しちゃって。\nでも… よく考えたら、その隙にお兄ちゃんに\n殺されてもしかたないよね。なーんつって！
+ThanatosWithHypnos02|Duo - Thanatos and Hypnos (2)|Thanatos|…本当に殺されたくなければ、仕事に身を入れろ。\nただでさえ、この館は人手不足なのだ。\n課された任務をまっとうしろ。
+ThanatosWithHypnos03|Duo - Thanatos and Hypnos (3)|Thanatos|…ヒュプノス、おまえの任務一覧には、俺が数年前に\n登録した仕事が多数記載されている。それから、\n今週の登録者名簿は、すでに提出しただろう？\nなぜ「完了」の欄に印がついていない？
+ThanatosWithHypnos03|Duo - Thanatos and Hypnos (3)|Hypnos|今、ちょうど、やろうとしてたの！\nでも、お兄ちゃんが来て話しかけるから、\nそっちに気を取られて、忘れちゃったの！\nよくあることでしょ？
+ThanatosWithHypnos03|Duo - Thanatos and Hypnos (3)|Thanatos|仕事に集中しないと、またハデス陛下より\n叱責を受けるぞ。おまえも、\nそのような目には遭いたくないだろう。
+ThanatosWithHypnos03|Duo - Thanatos and Hypnos (3)|Hypnos|それは大丈夫じゃないかな。だって、\nこの前陛下と話したとき、はっきり言われたもん。\nボクとはもう二度と話したくない、って！
+ThanatosWithHypnos04|Duo - Thanatos and Hypnos (4)|Thanatos|ヒュプノス、おまえに代わる要員は、いくらでもいる。\nおのれの務めを真面目に果たさないと、\n別の者に職を奪われるぞ。
+ThanatosWithHypnos04|Duo - Thanatos and Hypnos (4)|Hypnos|うん、そうだね、お兄ちゃん！\nもしそうなったら、そいつは、\nこの冥界で最高の仕事に就けて、ラッキーだね！
+ThanatosWithHypnos04|Duo - Thanatos and Hypnos (4)|Thanatos|話が通じていないようだな… \nいざ解雇されてから泣きついてきても、\n俺にはどうすることもできないぞ？
+ThanatosWithHypnos05|Duo - Thanatos and Hypnos (5)|Thanatos|…おまえは、この一覧を眺めるのに、どれぐらいの時を費やしている？一覧の作成に時をかけすぎると、実際に仕事をこなす暇がなくなってしまう。
+ThanatosWithHypnos05|Duo - Thanatos and Hypnos (5)|Hypnos|ボク、一覧作るの大好き！フチには必ず\n絵を描くようにしてて、一枚、一枚、全部違うんだ！\nそうすると、作業の進捗を確認してくれる人にも、\n楽しんでもらえるでしょ？でも… たしかに、\n作るのにすごーく時間がかかるんだよね…
+ThanatosWithHypnos05|Duo - Thanatos and Hypnos (5)|Thanatos|おまえは何でも、やりすぎる嫌いがある。\n何事も、ほどほどということを覚えるべきだ。\n職務中、休憩を取るだろう。その休憩の前と後に、\n自分の優先事項の一覧を見直すことにしてはどうだ？
+ThanatosWithHypnos05|Duo - Thanatos and Hypnos (5)|Hypnos|“自分の優先事項の一覧”…？てことは… 自分のために、一覧を作っていいってこと？ホントに…？うわぁ…
+ThanatosWithHypnos06|Duo - Thanatos and Hypnos (6)|Thanatos|このところ、おまえが提出する報告書は\n正確を極めていると聞く。誰の手助けだ？\nザグレウスではないだろうが…
+ThanatosWithHypnos06|Duo - Thanatos and Hypnos (6)|Hypnos|ハハ… うん。ザグくんには、手伝ってもらってないよ。ただ、大事なことだけを上の方に書くようにして、\n優先順位をまとめるのに、もう少し時間をかけるようにしただけ！それがうまくいってるみたい！
+ThanatosWithHypnos06|Duo - Thanatos and Hypnos (6)|Thanatos|なんにせよ、おまえの仕事ぶりは向上している。\nその調子で励むことだ。
+ThanatosWithHypnos07|Duo - Thanatos and Hypnos (7)|Thanatos|…要するに、謝罪したい、ということだ。\nおまえをろくに弟扱いせず、冷淡な態度を\n取ってきたことは、自覚している。許してもらえるか？
+ThanatosWithHypnos07|Duo - Thanatos and Hypnos (7)|Hypnos|ちょっとー、やめてよ、お兄ちゃんー！ボクたち、同じ墓穴に入った遺骨同士みたいなもんでしょ？そりゃあ、お兄ちゃんは留守がちで、1億年ぐらい会ってない気がすることも、よくあるけどさ… お兄ちゃんは\nすごいんだ。いつもボクの面倒を見てくれてさ！
+ThanatosWithHypnos07|Duo - Thanatos and Hypnos (7)|Thanatos|おまえも俺も、重要な任務を担う身。\n馴れ合うことのないよう気を引き締めつつ、\n兄弟同士、互いに励むとしよう。
+ThanatosWithHypnos08|Duo - Thanatos and Hypnos (8)|Thanatos|…ヒュプノス、ついに表彰されたか。よくやった。\n兄としても鼻が高い。
+ThanatosWithHypnos08|Duo - Thanatos and Hypnos (8)|Hypnos|うん！ボクもすごくうれしい！\nごめん、今はゆっくり話す時間ないんだ…\n入館待ちの亡霊がどんどん増えてて、出迎えとか、\n入館手続きとか、仕事がいっぱいあって…
+ThanatosWithHypnos08|Duo - Thanatos and Hypnos (8)|Thanatos|ああ。俺も似たような状況だ。互いに励むとしよう。
+ThanatosWithNyx01|Duo - Thanatos and Nyx (1)|Thanatos|母上。何か、御用命いただけることはありますか。\n自分は、館を離れがちです。お力になれることがあれば\n何なりとお申しつけを。
+ThanatosWithNyx01|Duo - Thanatos and Nyx (1)|Nyx|私はすでに、あなたから多大な助力を受けています。\n引き続き、同様に願います。現在、当館は危機に\n瀕しています。本件におけるあなたの助力と選択が、\n今後訪れる結果を左右するでしょう。
+ThanatosWithNyx01|Duo - Thanatos and Nyx (1)|Thanatos|引き続き、尽力いたします。\n何もかも、館を管理してくださる母上のおかげ。\n母上と、この館のためなら、なんなりと。\nでは、失礼します。
+ThanatosWithNyx02|Duo - Thanatos and Nyx (2)|Thanatos|このところ、館の運営が順調なように見受けられます。\nこうしたことを不用意に口にすれば、運命の三女神が\n気まぐれに災いをもたらしかねないことは、\n承知していますが…
+ThanatosWithNyx02|Duo - Thanatos and Nyx (2)|Nyx|使用人が一丸となり、職務に励んでいる結果です。\n現状態を維持するには、あなたを始めとする、当館に\n属する者たちに、引き続き尽力してもらう必要が\nあります。一時的な休息は是。ですが、あなたには\n当館において、最大限の能力の発揮を求めます。
+ThanatosWithNyx02|Duo - Thanatos and Nyx (2)|Thanatos|母上には多大なご恩があるのはもちろん、\n深く敬愛もしております。\nわれわれがこうして在るのも、すべて母上のおかげ。\n自分も、この館の他の者たちも皆、母上へのご恩を\n肝に銘じております。どうか、ご安心を。
+ThanatosWithMegaera01|Duo - Thanatos and Megaera (1)|Megaera|…とはいえ、それも昔のこと。今のわれわれには、果たすべき職務が… タナトス、話の続きは、別の機会にしたほうがよさそうだ。
+ThanatosWithMegaera01|Duo - Thanatos and Megaera (1)|Thanatos|ザグレウス、今、メガイラと内々の話をしている。\nあとにしてくれ。
+ThanatosWithMegaera01|Duo - Thanatos and Megaera (1)|Megaera|かまわない。好きにさせておけ。\nこの男は館への出入りこそ許されているが、\nもはやここにおのれの居場所はないことを、\n思い知ったほうがいい。
+ThanatosWithPersephone01|Duo - Thanatos and Persephone (1)|Thanatos|ペルセポネ女王陛下、よくぞご帰還されました。\n当館にとって、この上ない慶事。館での生活で\nご不自由があれば、何なりと私にお申しつけを。\nすぐに対処いたします。
+ThanatosWithPersephone01|Duo - Thanatos and Persephone (1)|Persephone|ありがとう、タナトス！では、何かあれば、\nお願いしますね。それにしても、\nすっかり大きくなって！私がいないあいだも、\n息子の面倒を見てくれていたんでしょうね。
+ThanatosWithPersephone01|Duo - Thanatos and Persephone (1)|Thanatos|女王陛下のご子息は… 自立性の極めて高い方です。\nとはいえ、必要とあらばお力になれるよう、\n常に心掛けてまいりました。\n…失敬、そろそろ、地上での任務に戻らなくては。
+ThanatosWithPersephone02|Duo - Thanatos and Persephone (2)|Thanatos|…もったいないお言葉、痛み入ります。ご子息と私は、\n幼少の時分より親しくさせていただいておりましたが、\nこたびの試練を共に切り抜けたことで、その絆は\n切っても切れぬものとなりました。
+ThanatosWithPersephone02|Duo - Thanatos and Persephone (2)|Persephone|あの子は私より、他者の本質を見抜くのが\n上手みたいね。あなたが働き者なのは、\n一目見ればわかります。でも、どうか無理だけは\nしないで。息子とも、お互いを気遣いながら、\n仲よくしてもらえるとうれしいわ。
+ThanatosWithPersephone02|Duo - Thanatos and Persephone (2)|Thanatos|仰せのままに、女王陛下。
 ThanatosHomeChat01|Thanatos Home Chat 01|Thanatos|すまない、もう行かねば。\nこのところ、仕事が増えている。\nわが身が1つしかないことが、もどかしい。
 ThanatosHomeChat02|Thanatos Home Chat 02|Thanatos|無駄話などしている暇はない。
 ThanatosHomeChat03|Thanatos Home Chat 03|Thanatos|俺は仕事がある。おまえも、こんなところで油を売っていていいのか？
@@ -5099,37 +5099,37 @@ ThanatosHomeIntermissionChat05|Thanatos Home Intermission Chat 05|Thanatos|こ�
 ThanatosHomeIntermissionChat05|Thanatos Home Intermission Chat 05|Thanatos|話せてよかった。\n旅の道中、くれぐれも気をつけてくれ。
 ThanatosHomeIntermissionChat06|Thanatos Home Intermission Chat 06|Thanatos|ザグレウス、自室に戻った方がよいのでは？
 ThanatosHomeIntermissionChat06|Thanatos Home Intermission Chat 06|Thanatos|…そろそろ、仕事に戻った方がよさそうだ。
-ThanatosChatWithMegaera01|Thanatos Chat With Megaera 01|Megaera|ザグ、今はタナトスとふたりで話したい。
-ThanatosChatWithMegaera01|Thanatos Chat With Megaera 01|Thanatos|ザグレウス、話ならあとで聞く。
-ThanatosChatWithMegaera02|Thanatos Chat With Megaera 02|Thanatos|今、メガイラと話しているところだ。
-ThanatosChatWithMegaera02|Thanatos Chat With Megaera 02|Megaera|ちょうど今、おまえのことを話していた。
-ThanatosChatWithMegaera03|Thanatos Chat With Megaera 03|Megaera|タナトス、ザグレウスが来たぞ。
-ThanatosChatWithMegaera03|Thanatos Chat With Megaera 03|Thanatos|ザグ、ゆっくりしていくといい。
-ThanatosChatWithMegaera04|Thanatos Chat With Megaera 04|Megaera|タナトスと話がある。あとにしてもらえるか？
-ThanatosChatWithMegaera04|Thanatos Chat With Megaera 04|Thanatos|メガイラと仕事の打ち合わせ中だ。
-ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Megaera|タナトス。見ろ、ザグレウスが来たぞ。
-ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Thanatos|今、仕事の件で打ち合わせをしている。
-ThanatosChatWithMegaera06|Thanatos Chat With Megaera 06|Megaera|ザグ。今、タナトスと話しているのがわからないか？
-ThanatosChatWithHypnos01|Thanatos Chat With Hypnos 01|Thanatos|…ヒュプノス、万事順調なようだな。悪くない働きだ。
-ThanatosChatWithHypnos02|Thanatos Chat With Hypnos 02|Thanatos|…ヒュプノス、睡眠なら、\n勤務終了後にいくらでも取れる。
-ThanatosChatWithHypnos03|Thanatos Chat With Hypnos 03|Thanatos|…ヒュプノス、前回の報告書、\nなかなかの出来だったと聞いている。
-ThanatosChatWithHypnos04|Thanatos Chat With Hypnos 04|Thanatos|…ヒュプノス、元気にやっているようで、何よりだ。
-ThanatosChatWithHypnos05|Thanatos Chat With Hypnos 05|Thanatos|新たな登録者は以上だが、じきに追加が来る予定だ。
-ThanatosChatWithHypnos06|Thanatos Chat With Hypnos 06|Thanatos|…では、俺は仕事に戻る。また会おう、ヒュプノス。
-ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Nyx|…あなたに、次の任務を課します。
-ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Thanatos|承知いたしました、母上。早急に遂行いたします。
-ThanatosChatWithNyx02|Thanatos Chat With Nyx 02|Thanatos|…承知いたしました。では、任務に取りかかります。
-ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Nyx|…この任務では、あなたの知見が必要となります。
-ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Thanatos|なんなりと。早急に遂行のうえ、帰投いたします。
-ThanatosChatWithNyx04|Thanatos Chat With Nyx 04|Thanatos|…承知いたしました。完了次第、ご報告に上がります。
-ThanatosChatWithNyx05|Thanatos Chat With Nyx 05|Thanatos|本件、私に御用命いただき、ありがとうございます。\n早急に遂行いたします。
-ThanatosChatWithNyx06|Thanatos Chat With Nyx 06|Thanatos|…御用命いただいた件、完遂しました。\n持ち場に戻ります。
-ThanatosChatWithHades01|Thanatos Chat With Hades 01|Thanatos|…承知いたしました、陛下。\n片づき次第、ご報告に上がります。
-ThanatosChatWithHades02|Thanatos Chat With Hades 02|Thanatos|…はっ。すぐに取りかかります。\n完了するまでは、戻りません。
-ThanatosChatWithHades03|Thanatos Chat With Hades 03|Thanatos|…御用件は、以上でしょうか。\nでは、私は地上に戻ります。
-ThanatosChatWithHades04|Thanatos Chat With Hades 04|Thanatos|…承知いたしました。\nその者たちの居場所はわかっております。\nすぐに勾引いたします。
-ThanatosChatWithHades05|Thanatos Chat With Hades 05|Thanatos|…陛下よりご信頼を賜り、光栄の至りです。
-ThanatosChatWithHades06|Thanatos Chat With Hades 06|Thanatos|…本件については早急に処理したのち、\nご報告に上がります。
+ThanatosChatWithMegaera01|Duo - Chat and Megaera (1)|Megaera|ザグ、今はタナトスとふたりで話したい。
+ThanatosChatWithMegaera01|Duo - Chat and Megaera (1)|Thanatos|ザグレウス、話ならあとで聞く。
+ThanatosChatWithMegaera02|Duo - Chat and Megaera (2)|Thanatos|今、メガイラと話しているところだ。
+ThanatosChatWithMegaera02|Duo - Chat and Megaera (2)|Megaera|ちょうど今、おまえのことを話していた。
+ThanatosChatWithMegaera03|Duo - Chat and Megaera (3)|Megaera|タナトス、ザグレウスが来たぞ。
+ThanatosChatWithMegaera03|Duo - Chat and Megaera (3)|Thanatos|ザグ、ゆっくりしていくといい。
+ThanatosChatWithMegaera04|Duo - Chat and Megaera (4)|Megaera|タナトスと話がある。あとにしてもらえるか？
+ThanatosChatWithMegaera04|Duo - Chat and Megaera (4)|Thanatos|メガイラと仕事の打ち合わせ中だ。
+ThanatosChatWithMegaera05|Duo - Chat and Megaera (5)|Megaera|タナトス。見ろ、ザグレウスが来たぞ。
+ThanatosChatWithMegaera05|Duo - Chat and Megaera (5)|Thanatos|今、仕事の件で打ち合わせをしている。
+ThanatosChatWithMegaera06|Duo - Chat and Megaera (6)|Megaera|ザグ。今、タナトスと話しているのがわからないか？
+ThanatosChatWithHypnos01|Duo - Chat and Hypnos (1)|Thanatos|…ヒュプノス、万事順調なようだな。悪くない働きだ。
+ThanatosChatWithHypnos02|Duo - Chat and Hypnos (2)|Thanatos|…ヒュプノス、睡眠なら、\n勤務終了後にいくらでも取れる。
+ThanatosChatWithHypnos03|Duo - Chat and Hypnos (3)|Thanatos|…ヒュプノス、前回の報告書、\nなかなかの出来だったと聞いている。
+ThanatosChatWithHypnos04|Duo - Chat and Hypnos (4)|Thanatos|…ヒュプノス、元気にやっているようで、何よりだ。
+ThanatosChatWithHypnos05|Duo - Chat and Hypnos (5)|Thanatos|新たな登録者は以上だが、じきに追加が来る予定だ。
+ThanatosChatWithHypnos06|Duo - Chat and Hypnos (6)|Thanatos|…では、俺は仕事に戻る。また会おう、ヒュプノス。
+ThanatosChatWithNyx01|Duo - Chat and Nyx (1)|Nyx|…あなたに、次の任務を課します。
+ThanatosChatWithNyx01|Duo - Chat and Nyx (1)|Thanatos|承知いたしました、母上。早急に遂行いたします。
+ThanatosChatWithNyx02|Duo - Chat and Nyx (2)|Thanatos|…承知いたしました。では、任務に取りかかります。
+ThanatosChatWithNyx03|Duo - Chat and Nyx (3)|Nyx|…この任務では、あなたの知見が必要となります。
+ThanatosChatWithNyx03|Duo - Chat and Nyx (3)|Thanatos|なんなりと。早急に遂行のうえ、帰投いたします。
+ThanatosChatWithNyx04|Duo - Chat and Nyx (4)|Thanatos|…承知いたしました。完了次第、ご報告に上がります。
+ThanatosChatWithNyx05|Duo - Chat and Nyx (5)|Thanatos|本件、私に御用命いただき、ありがとうございます。\n早急に遂行いたします。
+ThanatosChatWithNyx06|Duo - Chat and Nyx (6)|Thanatos|…御用命いただいた件、完遂しました。\n持ち場に戻ります。
+ThanatosChatWithHades01|Duo - Chat and Hades (1)|Thanatos|…承知いたしました、陛下。\n片づき次第、ご報告に上がります。
+ThanatosChatWithHades02|Duo - Chat and Hades (2)|Thanatos|…はっ。すぐに取りかかります。\n完了するまでは、戻りません。
+ThanatosChatWithHades03|Duo - Chat and Hades (3)|Thanatos|…御用件は、以上でしょうか。\nでは、私は地上に戻ります。
+ThanatosChatWithHades04|Duo - Chat and Hades (4)|Thanatos|…承知いたしました。\nその者たちの居場所はわかっております。\nすぐに勾引いたします。
+ThanatosChatWithHades05|Duo - Chat and Hades (5)|Thanatos|…陛下よりご信頼を賜り、光栄の至りです。
+ThanatosChatWithHades06|Duo - Chat and Hades (6)|Thanatos|…本件については早急に処理したのち、\nご報告に上がります。
 ThanatosGift01|Thanatos Gift 01|Zagreus|タナトス、これを。大した物じゃないが…
 ThanatosGift01|Thanatos Gift 01|Thanatos|おまえが受け取れと言うならそうするが、\n貸しを作るつもりはない。\n俺からも、おまえにこれを渡しておく。\nこのことは、他言無用だ。
 ThanatosGift02|Thanatos Gift 02|Thanatos|なんだ、これは…？\nこんなもので、これまでのことをすべて\n帳消しにできるとでも思っているのか？
@@ -5421,55 +5421,55 @@ DusaPostEnding03|Dusa Post Ending 03|Zagreus|…デューサ、君の気持ち�
 DusaPostEnding03|Dusa Post Ending 03|Dusa|ハデス様は、怖い神様です。若様との間に、複雑な\n事情があることも知ってます。でも、ハデス様を許す\n気持ちになったってことは… これからも館にいて\nくれるんですよね…？もしそうなら、うれしいです！\nそんな簡単じゃないことは、わかってますけど…
 DusaPostEpilogue01|Dusa Post Epilogue 01|Zagreus|デューサ、館の中がピカピカじゃないか！\nオリュンポスの神々を招いて、あれだけ派手に\n宴を開いたあととは思えないな。\nどうやって、こんなに早く掃除を済ませたんだ？
 DusaPostEpilogue01|Dusa Post Epilogue 01|Dusa|ハハ… ハ… いろいろ、コツがあるんです。\nそれに、ときどき、この仕事に全力を注ぎたい！って\n思うこと、ありませんか？私はいつもそうです！\nケルベロスの餌やりも、梁の掃除も！でも今回の掃除は\n特に私にぴったりの仕事だと思って！
-DusaWithHypnos01|Dusa With Hypnos 01|Hypnos|お、デューサちゃん。\n今日もエンドレスな激務、がんばってる？
-DusaWithHypnos01|Dusa With Hypnos 01|Dusa|あの… ヒュプノス様… できればでいいんですけど…\nハデス様との謁見希望者の列… 見張りをお願い\nできますか？ヒュプノス様の担当のはずですし…
-DusaWithHypnos01|Dusa With Hypnos 01|Hypnos|ああ！やるやる！もちろん！\n「やること一覧」に書いとくよ！
-DusaWithHypnos01|Dusa With Hypnos 01|Dusa|よろしくお願いしますね… それはそうと…\nヒュプノス様、ちゃんと寝てますか？\nすごく、疲れた顔してますけど…
-DusaWithHypnos02|Dusa With Hypnos 02|Dusa|ヒュプノス様… 前に言った、謁見待ちの列のこと\nなんですけど… わかりますか？今、ヒュプノス様の\n目の前に並んでる亡霊たちの列、ぜんぜん、\n進んでないですよね…？
-DusaWithHypnos02|Dusa With Hypnos 02|Hypnos|ねー！あの亡霊たち、ホント話が長くてさー…\nほっとくと、ずーっと、だらだらだらだらだらだら…\nいつまででもしゃべってるんだよー！ハデス陛下も、\n毎日？毎夜？よくえんえん聞いてられるよね！
-DusaWithHypnos02|Dusa With Hypnos 02|Dusa|えと… 私が思うに、その列がちゃんと進むように\nするのは、ヒュプノス様のお仕事で…\n長くしゃべり過ぎてる亡霊がいたら、ほどよいところで切り上げさせるとか… 何か、いい考え、ありませんか？
-DusaWithHypnos02|Dusa With Hypnos 02|Hypnos|難しいよねぇ… 亡霊たちはさんざん待って、やっと\n自分の番が来る。言いたいことは全部、言わせてあげ\nたいじゃない！でもまあ、列が進まないのも困るよね。\n頭の痛い問題だね。ボクが思いつく対策は…「何も\nしない」！ちょっとやってみて、結果報告するね！
-DusaWithHypnos02|Dusa With Hypnos 02|Dusa|わ… かりました… 一応、私からも、また、\n結果を聞きにきますね？一応、私も、上から指令を\n受けてるので… えと… それじゃ、また…
-DusaWithHypnos03|Dusa With Hypnos 03|Hypnos|デューサちゃん！あれでしょ？亡霊の列のことでしょ？廊下にいっぱい並んで、ぜんぜん進んでないよね！\n知ってる、知ってる！
-DusaWithHypnos03|Dusa With Hypnos 03|Dusa|は…い、そのことです。列をもうちょっと早く進める\n方法とか、廊下のスペースを確保する方法とか、何か、\n思いつきましたか…？たとえばですけど… 謁見の時間に\n制限を設ける、とか…
-DusaWithHypnos03|Dusa With Hypnos 03|Hypnos|うーん、思いついた… とは、言えないかな！\nだって、この登録者名簿、見てよ。新規の亡霊が\nどんどん入ってくるから、ボク、ずーっと名簿と\nにらめっこだよ。列なんて、進まなくなる一方だよ！
-DusaWithHypnos03|Dusa With Hypnos 03|Dusa|そう… ですね… えと、私、そろそろ行かないと。\nヒュプノス様も、ちゃんと休憩取ってくださいね？
-DusaWithHypnos04|Dusa With Hypnos 04|Dusa|すごいです、ヒュプノス様…！\nどうやったんですか？謁見待ちの亡霊たちの列…\nどんどん進んでるじゃないですか！
-DusaWithHypnos04|Dusa With Hypnos 04|Hypnos|でしょ、でしょ？そうなんだよー、あいつら動きが\nトロいから、よく見ないと気づかないと思うけど、\nボクは、よく気がつくタイプだからね。キミも、\nなかなかだね！だって今回は、ボクより先に\n気づいたからね！えっと… 質問、なんだっけ？
-DusaWithHypnos04|Dusa With Hypnos 04|Dusa|どうやって列の進みを速くしたのか、って…\nでも、今、わかりました。廊下の端に置いてある、\n石棺のおかげですよね？不気味だから、亡霊たちが\n怖がって、近くに立ちたがらないんですね！\n名案です！すごいです！
-DusaWithHypnos04|Dusa With Hypnos 04|Hypnos|ああ… ハハ… あれね。そんな、べつに、\n大したことじゃないよ！でも、ボクがあんまり\nすごすぎてびっくり仰天だなんて、そんなふうに\n言ってもらえると、うれしいなあ！
-DusaWithHypnos04|Dusa With Hypnos 04|Dusa|えと… そこまで言った覚えはないですけど…\nとにかく、この件はこれで解決ですね！\nおつかれさまでした！
-DusaWithNyx01|Dusa With Nyx 01|Nyx|…それが済んだら、もう一度天井の梁を掃除して、\n庭木の手入れをなさい。それが済んだら、\n厨房の手伝いをして、酒場をもう一度掃き掃除なさい。
-DusaWithNyx01|Dusa With Nyx 01|Dusa|は… はい、ただちに！
-DusaWithNyx02|Dusa With Nyx 02|Nyx|…それから、王子に言葉を掛けることは、\n許可しません。言葉を掛けられた際のみ、応じること。\n王子に対しては自分の姿は不可視と心得なさい。
-DusaWithNyx02|Dusa With Nyx 02|Dusa|はい、ニュクス様。そう伝えま…\nいえ、かしこまりました！し… 失礼いたします。
-DusaWithNyx03|Dusa With Nyx 03|Dusa|本当ですか…？もちろん復帰したいです！それが\nいちばんの望みです！この仕事は私のすべてで… 夜の\n化身のニュクス様とお仕事することが、私の生きがい\nで…！この館も、職場のみんなも、大好きで… 私、力に\nなりたいんです！もう一度、チャンスをください！
-DusaWithNyx03|Dusa With Nyx 03|Nyx|では、ひとつ条件が。与えられた時間内に職務を全う\nできないと思われた際は、延長を要請すること。この\n館の命運を担うのは、あなたひとりではありません。\nあなたの仕事に対する姿勢は、あなたが出す結果と\n同等に重要なのです。では… 持ち場に戻りなさい。
-DusaWithNyx03|Dusa With Nyx 03|Dusa|え… 今？もう復帰しちゃっていいんですか…！？\nはい、やります！やらせてください！急ぎの用事なんて\nないし！ああ… また働けるなんて…！何から始めよう…\n酒場の点検？クモの巣の掃除？ケルベロスの散歩？\n食料庫の在庫確認も…！えと… 失礼します！
-DusaWithNyx04|Dusa With Nyx 04|Nyx|…デューサ、あなたのたゆまぬ努力と奉仕、そして、\n改善点への取り組みを評し、夜の化身の権限をもって、\nここにあなたを、ハデスの館の管理主任に任じます。\n同役職に付随する特権も、当然、付与されます。\n今後も誇りをもって励みなさい。
-DusaWithNyx04|Dusa With Nyx 04|Dusa|光栄です、ニュクス様… こんな重要な役職に就けて\nもらって… 感謝してもしきれません。ニュクス様の…\nいえ、この館のみんなの期待以上の働きをします！\n本当に、本当に、ありがとうございます！
-DusaWithNyx04|Dusa With Nyx 04|Nyx|礼には及びません。当館の規律を保つことは、冥界の\n規律を保つことと同義。あなたは、過度な努力よりも、\n規律正しく職務に当たることのほうが有意義である\nことを理解しました。無論、適度な努力も必要である\n点については、あなたはもとより理解していました。
-DusaWithMegaera01|Dusa With Megaera 01|Megaera|…その7人の亡者全員が、巡礼の列に\n割り込もうとした。それで冥王との謁見が\n叶うと思っているとは、厚かましいにもほどがある。
-DusaWithMegaera01|Dusa With Megaera 01|Dusa|アハハハハ！バカなヤツら！メグの見てる前で列に割り込みするなんて、ホント、何考えてるんだか！
-DusaWithMegaera01|Dusa With Megaera 01|Megaera|あの者たちがまだハデス様への申し立てを\n希望しているとしても、その番がまわってくるのは、\n当分先のことだ。
-DusaWithMegaera02|Dusa With Megaera 02|Megaera|…デューサの言うとおり、あの者は、本当に愚かだ。\n私はそろそろ仕事に戻る。デューサは、\nもう一杯飲んでくれ。私のおごりだ。では、またな。
-DusaWithMegaera02|Dusa With Megaera 02|Dusa|ありがとう。じゃあ、遠慮なくいただくね。\nメグも、気をつけてね。またね！
-DusaWithMegaera03|Dusa With Megaera 03|Megaera|…「心に従え」？デューサらしくない助言だな。いや、他意はないが…
-DusaWithMegaera03|Dusa With Megaera 03|Dusa|だって、自分の仕事に疑問があるなら、義務感だけで\n続ける意味なんてある？大事なのは自分の気持ちだよ。\n自分を大事にしなきゃ。
-DusaWithMegaera03|Dusa With Megaera 03|Megaera|べつに、人間のように40年やそこらで\nしわくちゃになって死ぬわけでもない。\nとはいえ… デューサの言うことも、もっともだ。\n助言はありがたく受け取っておく。
-DusaWithMegaera04|Dusa With Megaera 04|Megaera|…思えば、始めからすれ違っていた。ティタンの子孫に生まれた以上、しかたのないこと。私たちは、たがいに関わらないほうがよいということだ。
-DusaWithMegaera04|Dusa With Megaera 04|Dusa|でも、姉妹なんだし… 家族でしょ？\n何かひとつぐらい、似てるところとか、\n考え方が同じところとか、あるんじゃない？
-DusaWithMegaera04|Dusa With Megaera 04|Megaera|デューサのほうがよほど妹らしい。\nハデス様のお考えには賛同しかねる部分もあるが、\n妹たちの館への出入りを禁じてくださって、\nとても感謝している。
-DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Megaera|…デューサは本当に、それでいいのか？\n気まずい思いは、してほしくない。\nもし、デューサがやめてほしいと言うなら、\n私はべつに…
-DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Dusa|は！？ちょ… 何バカなこと言ってるの、メグ！\nそんなことあるわけないでしょ！私は、すっごく\nうれしいよ！メグには幸せになってもらいたい！\nメグは今、幸せなんでしょ？違うの？
-DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Megaera|…デューサはいつもそうやって、私を気遣ってくれる。感謝してもしきれない。
-DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Dusa|それはこっちのセリフだってば！私、そろそろ\n仕事に戻るけど… メグ、本当によかったね！\n教えてくれてありがとね。
-DusaWithHades01|Dusa With Hades 01|Hades|…この館の者たちが皆、おまえと同様に\n刻を厳守すれば、どんなによいか。では、定例報告を。
-DusaWithHades01|Dusa With Hades 01|Dusa|はい、ハデス様！現在、当館の運営状況は、順調です。\n酒場の利用率は28パーセント増、顧客満足度は\n 80パーセンタイル台を維持。特筆すべき問題点も、\nありません。
-DusaWithHades01|Dusa With Hades 01|Hades|では、次の時代に入るまでに、利用率30パーセントを\n達成するように。その他の点については、\nおおむね良しとする。仕事に戻るがよい。
-DusaWithPersephone01|Dusa With Persephone 01|Dusa|あの… ペルセポネ様？お目にかかれて、光栄です。\n私のことは、どうぞ、デューサとお呼びください！\nこの館の使用人で… 身の回りのお世話をさせて\nいただきます！なんなりと、お申しつけください！
-DusaWithPersephone01|Dusa With Persephone 01|Persephone|デューサ、こちらこそ、会えてうれしいわ。この館も\nすっかりきれいになって、以前とは見違えるようだと\n思っていたの。あなたのおかげだったのね。
-DusaWithPersephone01|Dusa With Persephone 01|Dusa|うれしいです…！私、がんばります！！
+DusaWithHypnos01|Duo - Dusa and Hypnos (1)|Hypnos|お、デューサちゃん。\n今日もエンドレスな激務、がんばってる？
+DusaWithHypnos01|Duo - Dusa and Hypnos (1)|Dusa|あの… ヒュプノス様… できればでいいんですけど…\nハデス様との謁見希望者の列… 見張りをお願い\nできますか？ヒュプノス様の担当のはずですし…
+DusaWithHypnos01|Duo - Dusa and Hypnos (1)|Hypnos|ああ！やるやる！もちろん！\n「やること一覧」に書いとくよ！
+DusaWithHypnos01|Duo - Dusa and Hypnos (1)|Dusa|よろしくお願いしますね… それはそうと…\nヒュプノス様、ちゃんと寝てますか？\nすごく、疲れた顔してますけど…
+DusaWithHypnos02|Duo - Dusa and Hypnos (2)|Dusa|ヒュプノス様… 前に言った、謁見待ちの列のこと\nなんですけど… わかりますか？今、ヒュプノス様の\n目の前に並んでる亡霊たちの列、ぜんぜん、\n進んでないですよね…？
+DusaWithHypnos02|Duo - Dusa and Hypnos (2)|Hypnos|ねー！あの亡霊たち、ホント話が長くてさー…\nほっとくと、ずーっと、だらだらだらだらだらだら…\nいつまででもしゃべってるんだよー！ハデス陛下も、\n毎日？毎夜？よくえんえん聞いてられるよね！
+DusaWithHypnos02|Duo - Dusa and Hypnos (2)|Dusa|えと… 私が思うに、その列がちゃんと進むように\nするのは、ヒュプノス様のお仕事で…\n長くしゃべり過ぎてる亡霊がいたら、ほどよいところで切り上げさせるとか… 何か、いい考え、ありませんか？
+DusaWithHypnos02|Duo - Dusa and Hypnos (2)|Hypnos|難しいよねぇ… 亡霊たちはさんざん待って、やっと\n自分の番が来る。言いたいことは全部、言わせてあげ\nたいじゃない！でもまあ、列が進まないのも困るよね。\n頭の痛い問題だね。ボクが思いつく対策は…「何も\nしない」！ちょっとやってみて、結果報告するね！
+DusaWithHypnos02|Duo - Dusa and Hypnos (2)|Dusa|わ… かりました… 一応、私からも、また、\n結果を聞きにきますね？一応、私も、上から指令を\n受けてるので… えと… それじゃ、また…
+DusaWithHypnos03|Duo - Dusa and Hypnos (3)|Hypnos|デューサちゃん！あれでしょ？亡霊の列のことでしょ？廊下にいっぱい並んで、ぜんぜん進んでないよね！\n知ってる、知ってる！
+DusaWithHypnos03|Duo - Dusa and Hypnos (3)|Dusa|は…い、そのことです。列をもうちょっと早く進める\n方法とか、廊下のスペースを確保する方法とか、何か、\n思いつきましたか…？たとえばですけど… 謁見の時間に\n制限を設ける、とか…
+DusaWithHypnos03|Duo - Dusa and Hypnos (3)|Hypnos|うーん、思いついた… とは、言えないかな！\nだって、この登録者名簿、見てよ。新規の亡霊が\nどんどん入ってくるから、ボク、ずーっと名簿と\nにらめっこだよ。列なんて、進まなくなる一方だよ！
+DusaWithHypnos03|Duo - Dusa and Hypnos (3)|Dusa|そう… ですね… えと、私、そろそろ行かないと。\nヒュプノス様も、ちゃんと休憩取ってくださいね？
+DusaWithHypnos04|Duo - Dusa and Hypnos (4)|Dusa|すごいです、ヒュプノス様…！\nどうやったんですか？謁見待ちの亡霊たちの列…\nどんどん進んでるじゃないですか！
+DusaWithHypnos04|Duo - Dusa and Hypnos (4)|Hypnos|でしょ、でしょ？そうなんだよー、あいつら動きが\nトロいから、よく見ないと気づかないと思うけど、\nボクは、よく気がつくタイプだからね。キミも、\nなかなかだね！だって今回は、ボクより先に\n気づいたからね！えっと… 質問、なんだっけ？
+DusaWithHypnos04|Duo - Dusa and Hypnos (4)|Dusa|どうやって列の進みを速くしたのか、って…\nでも、今、わかりました。廊下の端に置いてある、\n石棺のおかげですよね？不気味だから、亡霊たちが\n怖がって、近くに立ちたがらないんですね！\n名案です！すごいです！
+DusaWithHypnos04|Duo - Dusa and Hypnos (4)|Hypnos|ああ… ハハ… あれね。そんな、べつに、\n大したことじゃないよ！でも、ボクがあんまり\nすごすぎてびっくり仰天だなんて、そんなふうに\n言ってもらえると、うれしいなあ！
+DusaWithHypnos04|Duo - Dusa and Hypnos (4)|Dusa|えと… そこまで言った覚えはないですけど…\nとにかく、この件はこれで解決ですね！\nおつかれさまでした！
+DusaWithNyx01|Duo - Dusa and Nyx (1)|Nyx|…それが済んだら、もう一度天井の梁を掃除して、\n庭木の手入れをなさい。それが済んだら、\n厨房の手伝いをして、酒場をもう一度掃き掃除なさい。
+DusaWithNyx01|Duo - Dusa and Nyx (1)|Dusa|は… はい、ただちに！
+DusaWithNyx02|Duo - Dusa and Nyx (2)|Nyx|…それから、王子に言葉を掛けることは、\n許可しません。言葉を掛けられた際のみ、応じること。\n王子に対しては自分の姿は不可視と心得なさい。
+DusaWithNyx02|Duo - Dusa and Nyx (2)|Dusa|はい、ニュクス様。そう伝えま…\nいえ、かしこまりました！し… 失礼いたします。
+DusaWithNyx03|Duo - Dusa and Nyx (3)|Dusa|本当ですか…？もちろん復帰したいです！それが\nいちばんの望みです！この仕事は私のすべてで… 夜の\n化身のニュクス様とお仕事することが、私の生きがい\nで…！この館も、職場のみんなも、大好きで… 私、力に\nなりたいんです！もう一度、チャンスをください！
+DusaWithNyx03|Duo - Dusa and Nyx (3)|Nyx|では、ひとつ条件が。与えられた時間内に職務を全う\nできないと思われた際は、延長を要請すること。この\n館の命運を担うのは、あなたひとりではありません。\nあなたの仕事に対する姿勢は、あなたが出す結果と\n同等に重要なのです。では… 持ち場に戻りなさい。
+DusaWithNyx03|Duo - Dusa and Nyx (3)|Dusa|え… 今？もう復帰しちゃっていいんですか…！？\nはい、やります！やらせてください！急ぎの用事なんて\nないし！ああ… また働けるなんて…！何から始めよう…\n酒場の点検？クモの巣の掃除？ケルベロスの散歩？\n食料庫の在庫確認も…！えと… 失礼します！
+DusaWithNyx04|Duo - Dusa and Nyx (4)|Nyx|…デューサ、あなたのたゆまぬ努力と奉仕、そして、\n改善点への取り組みを評し、夜の化身の権限をもって、\nここにあなたを、ハデスの館の管理主任に任じます。\n同役職に付随する特権も、当然、付与されます。\n今後も誇りをもって励みなさい。
+DusaWithNyx04|Duo - Dusa and Nyx (4)|Dusa|光栄です、ニュクス様… こんな重要な役職に就けて\nもらって… 感謝してもしきれません。ニュクス様の…\nいえ、この館のみんなの期待以上の働きをします！\n本当に、本当に、ありがとうございます！
+DusaWithNyx04|Duo - Dusa and Nyx (4)|Nyx|礼には及びません。当館の規律を保つことは、冥界の\n規律を保つことと同義。あなたは、過度な努力よりも、\n規律正しく職務に当たることのほうが有意義である\nことを理解しました。無論、適度な努力も必要である\n点については、あなたはもとより理解していました。
+DusaWithMegaera01|Duo - Dusa and Megaera (1)|Megaera|…その7人の亡者全員が、巡礼の列に\n割り込もうとした。それで冥王との謁見が\n叶うと思っているとは、厚かましいにもほどがある。
+DusaWithMegaera01|Duo - Dusa and Megaera (1)|Dusa|アハハハハ！バカなヤツら！メグの見てる前で列に割り込みするなんて、ホント、何考えてるんだか！
+DusaWithMegaera01|Duo - Dusa and Megaera (1)|Megaera|あの者たちがまだハデス様への申し立てを\n希望しているとしても、その番がまわってくるのは、\n当分先のことだ。
+DusaWithMegaera02|Duo - Dusa and Megaera (2)|Megaera|…デューサの言うとおり、あの者は、本当に愚かだ。\n私はそろそろ仕事に戻る。デューサは、\nもう一杯飲んでくれ。私のおごりだ。では、またな。
+DusaWithMegaera02|Duo - Dusa and Megaera (2)|Dusa|ありがとう。じゃあ、遠慮なくいただくね。\nメグも、気をつけてね。またね！
+DusaWithMegaera03|Duo - Dusa and Megaera (3)|Megaera|…「心に従え」？デューサらしくない助言だな。いや、他意はないが…
+DusaWithMegaera03|Duo - Dusa and Megaera (3)|Dusa|だって、自分の仕事に疑問があるなら、義務感だけで\n続ける意味なんてある？大事なのは自分の気持ちだよ。\n自分を大事にしなきゃ。
+DusaWithMegaera03|Duo - Dusa and Megaera (3)|Megaera|べつに、人間のように40年やそこらで\nしわくちゃになって死ぬわけでもない。\nとはいえ… デューサの言うことも、もっともだ。\n助言はありがたく受け取っておく。
+DusaWithMegaera04|Duo - Dusa and Megaera (4)|Megaera|…思えば、始めからすれ違っていた。ティタンの子孫に生まれた以上、しかたのないこと。私たちは、たがいに関わらないほうがよいということだ。
+DusaWithMegaera04|Duo - Dusa and Megaera (4)|Dusa|でも、姉妹なんだし… 家族でしょ？\n何かひとつぐらい、似てるところとか、\n考え方が同じところとか、あるんじゃない？
+DusaWithMegaera04|Duo - Dusa and Megaera (4)|Megaera|デューサのほうがよほど妹らしい。\nハデス様のお考えには賛同しかねる部分もあるが、\n妹たちの館への出入りを禁じてくださって、\nとても感謝している。
+DusaWithMegaeraHighAffinity01|Duo - Dusa and Megaera High Affinity (1)|Megaera|…デューサは本当に、それでいいのか？\n気まずい思いは、してほしくない。\nもし、デューサがやめてほしいと言うなら、\n私はべつに…
+DusaWithMegaeraHighAffinity01|Duo - Dusa and Megaera High Affinity (1)|Dusa|は！？ちょ… 何バカなこと言ってるの、メグ！\nそんなことあるわけないでしょ！私は、すっごく\nうれしいよ！メグには幸せになってもらいたい！\nメグは今、幸せなんでしょ？違うの？
+DusaWithMegaeraHighAffinity01|Duo - Dusa and Megaera High Affinity (1)|Megaera|…デューサはいつもそうやって、私を気遣ってくれる。感謝してもしきれない。
+DusaWithMegaeraHighAffinity01|Duo - Dusa and Megaera High Affinity (1)|Dusa|それはこっちのセリフだってば！私、そろそろ\n仕事に戻るけど… メグ、本当によかったね！\n教えてくれてありがとね。
+DusaWithHades01|Duo - Dusa and Hades (1)|Hades|…この館の者たちが皆、おまえと同様に\n刻を厳守すれば、どんなによいか。では、定例報告を。
+DusaWithHades01|Duo - Dusa and Hades (1)|Dusa|はい、ハデス様！現在、当館の運営状況は、順調です。\n酒場の利用率は28パーセント増、顧客満足度は\n 80パーセンタイル台を維持。特筆すべき問題点も、\nありません。
+DusaWithHades01|Duo - Dusa and Hades (1)|Hades|では、次の時代に入るまでに、利用率30パーセントを\n達成するように。その他の点については、\nおおむね良しとする。仕事に戻るがよい。
+DusaWithPersephone01|Duo - Dusa and Persephone (1)|Dusa|あの… ペルセポネ様？お目にかかれて、光栄です。\n私のことは、どうぞ、デューサとお呼びください！\nこの館の使用人で… 身の回りのお世話をさせて\nいただきます！なんなりと、お申しつけください！
+DusaWithPersephone01|Duo - Dusa and Persephone (1)|Persephone|デューサ、こちらこそ、会えてうれしいわ。この館も\nすっかりきれいになって、以前とは見違えるようだと\n思っていたの。あなたのおかげだったのね。
+DusaWithPersephone01|Duo - Dusa and Persephone (1)|Dusa|うれしいです…！私、がんばります！！
 DusaChat01|Dusa Chat 01|Dusa|あ！えと、その… 忘れ物したので、失礼します！
 DusaChat02|Dusa Chat 02|Dusa|ハッ… 若様ッ！えと… いま、館の見回り中です！
 DusaChat03|Dusa Chat 03|Dusa|ハッ…若様ッ！館のお掃除、完了です！\nちりひとつありません！
@@ -5534,22 +5534,22 @@ DusaMaxChat20|Dusa Max Chat 20|Dusa|若様！今、仕事中なんですけど�
 DusaMaxChat21|Dusa Max Chat 21|Dusa|若様のお仕事は、つらいことも多いと思います。\nちゃんと休みを取ってくださいね？
 DusaMaxChat22|Dusa Max Chat 22|Dusa|若様も私みたいに、仕事に生きがいを感じてますか？
 DusaMaxChat23|Dusa Max Chat 23|Dusa|報告書、見ました！\n若様、ずいぶんがんばっていらっしゃるみたいですね！
-DusaChatWithMegaera01|Dusa Chat With Megaera 01|Megaera|ザグ、今は機密会議中だ。
-DusaChatWithMegaera01|Dusa Chat With Megaera 01|Dusa|若様、働きすぎに注意ですよ？
-DusaChatWithMegaera02|Dusa Chat With Megaera 02|Dusa|ときどき休むのも大事ですよ？
-DusaChatWithMegaera02|Dusa Chat With Megaera 02|Megaera|ザグ、話があるなら、あとにしてくれ。
-DusaChatWithMegaera03|Dusa Chat With Megaera 03|Dusa|たまにはちゃんと、休んでくださいね？
-DusaChatWithMegaera04|Dusa Chat With Megaera 04|Dusa|次は、タルタロスでメグ様に会えるといいですね！
-DusaChatWithMegaera05|Dusa Chat With Megaera 05|Dusa|また近いうちに、タナトス様に会えるといいですね！
-DusaChatWithMegaera06|Dusa Chat With Megaera 06|Megaera|見てのとおり、今はデューサと話しているところだ。
-DusaChatWithMegaera07|Dusa Chat With Megaera 07|Megaera|ザグレウス、悪いが今は会議中だ。
-DusaChatWithMegaera08|Dusa Chat With Megaera 08|Megaera|今、デューサと話しているところだ。\n邪魔をしないでもらいたい。
-DusaChatWithMegaera08|Dusa Chat With Megaera 08|Megaera|ザグ、この話は、おまえには関係ない。
-DusaChatWithMegaera09|Dusa Chat With Megaera 09|Megaera|デューサ、この男は、はっきり言ってやらないと\nわからないときがある…
-DusaChatWithCerberus01|Dusa Chat With Cerberus 01|Dusa|ほーら、ケル坊、たっぷり召し上がれ！\nあ！待って！私は食べないでね…？
-DusaChatWithCerberus02|Dusa Chat With Cerberus 02|Dusa|ケル坊！3人前、ご注文どおりにご用意しましたよー！
-DusaChatWithCerberus03|Dusa Chat With Cerberus 03|Dusa|…いい、ケル坊？食べたおわったら、\n今度こそ、ちゃんとおトイレ行くのよ…？
-DusaChatWithCerberus04|Dusa Chat With Cerberus 04|Dusa|こらっ！ケル坊！早く食べなさい！\n…これ、そんなにおいしくないかな…？
+DusaChatWithMegaera01|Duo - Chat and Megaera (1)|Megaera|ザグ、今は機密会議中だ。
+DusaChatWithMegaera01|Duo - Chat and Megaera (1)|Dusa|若様、働きすぎに注意ですよ？
+DusaChatWithMegaera02|Duo - Chat and Megaera (2)|Dusa|ときどき休むのも大事ですよ？
+DusaChatWithMegaera02|Duo - Chat and Megaera (2)|Megaera|ザグ、話があるなら、あとにしてくれ。
+DusaChatWithMegaera03|Duo - Chat and Megaera (3)|Dusa|たまにはちゃんと、休んでくださいね？
+DusaChatWithMegaera04|Duo - Chat and Megaera (4)|Dusa|次は、タルタロスでメグ様に会えるといいですね！
+DusaChatWithMegaera05|Duo - Chat and Megaera (5)|Dusa|また近いうちに、タナトス様に会えるといいですね！
+DusaChatWithMegaera06|Duo - Chat and Megaera (6)|Megaera|見てのとおり、今はデューサと話しているところだ。
+DusaChatWithMegaera07|Duo - Chat and Megaera (7)|Megaera|ザグレウス、悪いが今は会議中だ。
+DusaChatWithMegaera08|Duo - Chat and Megaera (8)|Megaera|今、デューサと話しているところだ。\n邪魔をしないでもらいたい。
+DusaChatWithMegaera08|Duo - Chat and Megaera (8)|Megaera|ザグ、この話は、おまえには関係ない。
+DusaChatWithMegaera09|Duo - Chat and Megaera (9)|Megaera|デューサ、この男は、はっきり言ってやらないと\nわからないときがある…
+DusaChatWithCerberus01|Duo - Chat and Cerberus (1)|Dusa|ほーら、ケル坊、たっぷり召し上がれ！\nあ！待って！私は食べないでね…？
+DusaChatWithCerberus02|Duo - Chat and Cerberus (2)|Dusa|ケル坊！3人前、ご注文どおりにご用意しましたよー！
+DusaChatWithCerberus03|Duo - Chat and Cerberus (3)|Dusa|…いい、ケル坊？食べたおわったら、\n今度こそ、ちゃんとおトイレ行くのよ…？
+DusaChatWithCerberus04|Duo - Chat and Cerberus (4)|Dusa|こらっ！ケル坊！早く食べなさい！\n…これ、そんなにおいしくないかな…？
 DusaGift01|Dusa Gift 01|Zagreus|デューサ、これを受け取ってもらえるか？\n大した物じゃないけれど、日頃のねぎらいだよ。
 DusaGift01|Dusa Gift 01|Dusa|…！若様、その… すごくうれしいです… じつは私も、ちょっと、渡したいものが…
 DusaGift02|Dusa Gift 02|Dusa|え… ちょちょ、ちょっと待ってください…\nこれを、私に？何かの間違いじゃ…！？
@@ -5780,11 +5780,11 @@ OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|エウリュ
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|人間は、一度思い込んだことに固執する生き物だ。\n別の可能性があることを理解させるのは、\n困難を極める。いったい、何をどうすれば…？
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|…たとえば、あまり角が立たないように、\nやんわり間違いを指摘する、とか？それか、\n真実が広まるように、なんらかの手を打つ、とか…？
 OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|そう言われても、僕はこの館付きの宮廷楽士だ。\n僕の歌を耳にする観客の数は、限られている。\nとはいえ… この館の亡霊たちが僕の観客であることに\n変わりはない。せめて彼らには、曲の作者が誰なのか、\n正しく伝えるようにしよう。
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|白状するよ… 僕はいまだに、エウリュディケを\n想っている。気づくと、彼女との想い出に浸っている。\n僕はここで、彼女のいない日々を送ると決めたのに…\nまるでダメだ。それでも僕は、死んでいる。\nだから、ここにとどまる以外に行き場はない…
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|おまえはもう、十分苦しんだ。それはエウリュディケも\n同じだ。互いに想い合っているのに、\nおまえたちふたりは誤解してるだけなんだ。\n俺に任せてくれ。いい考えがある。
-OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|考え… ひらめき… 彼女がそばにいれば、僕にも絶えず湧いたものさ…
-OrpheusProgressWithEurydice02|Orpheus Progress With Eurydice 02|Zagreus|オルフェウス、新曲を持ってきたぞ。作曲したのは、\nおまえを大切に思っている、ある人物だ。
-OrpheusProgressWithEurydice02|Orpheus Progress With Eurydice 02|Orpheus|ザグレウス、君は僕のために、\n曲を作ってくれたのかい…？いや… 違う。\nまさか… エウリュディケが…？そんな…\nそんなこと… あるわけが…
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Orpheus|白状するよ… 僕はいまだに、エウリュディケを\n想っている。気づくと、彼女との想い出に浸っている。\n僕はここで、彼女のいない日々を送ると決めたのに…\nまるでダメだ。それでも僕は、死んでいる。\nだから、ここにとどまる以外に行き場はない…
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Zagreus|おまえはもう、十分苦しんだ。それはエウリュディケも\n同じだ。互いに想い合っているのに、\nおまえたちふたりは誤解してるだけなんだ。\n俺に任せてくれ。いい考えがある。
+OrpheusProgressWithEurydice01|Duo - Progress and Eurydice (1)|Orpheus|考え… ひらめき… 彼女がそばにいれば、僕にも絶えず湧いたものさ…
+OrpheusProgressWithEurydice02|Duo - Progress and Eurydice (2)|Zagreus|オルフェウス、新曲を持ってきたぞ。作曲したのは、\nおまえを大切に思っている、ある人物だ。
+OrpheusProgressWithEurydice02|Duo - Progress and Eurydice (2)|Orpheus|ザグレウス、君は僕のために、\n曲を作ってくれたのかい…？いや… 違う。\nまさか… エウリュディケが…？そんな…\nそんなこと… あるわけが…
 OrpheusSingsAgain03|Orpheus Sings Again 03|Zagreus|いい声だな。エウリュディケにも、その歌声を聴かせてやりたい。
 OrpheusSingsAgain03|Orpheus Sings Again 03|Orpheus|うれしい言葉を、ありがとう。彼女の歌を歌うと…\n生前僕の心があったこの胸の中に、\nこんな想いが込み上げるんだ… ひょっとしたら、\n彼女にも聴こえているんじゃないか、ってね…
 OrpheusAboutSingersReunionQuest01|Orpheus About Singers Reunion Quest 01|Orpheus|ザグレウス！聞いてくれ！\n僕の雇用契約が見直されて、休暇中にアスポデロスを\n訪れることができるようになった！\nつまり… “彼女”のもとへ行けるようになったんだ！
@@ -5820,26 +5820,26 @@ OrpheusMusicProgress03|Orpheus Music Progress 03|Orpheus|リラの演奏、ず�
 OrpheusMusicProgress03|Orpheus Music Progress 03|Zagreus|それはさすがにないだろ。でも、ほめてもらうと素直にうれしいな。コツがわかると、作曲もやりがいがあって楽しい。
 OrpheusMusicProgress04|Orpheus Music Progress 04|Orpheus|君の部屋から聞こえてくるリラの音色は、\n本当にすばらしい。どうやらこの館には、\n宮廷楽士がもうひとり誕生したようだね。
 OrpheusMusicProgress04|Orpheus Music Progress 04|Zagreus|おまえが背中を押してくれたおかげだ。ほめてもらえてうれしいよ。
-OrpheusWithHades01|Orpheus With Hades 01|Orpheus|…冥王陛下。しがない宮廷楽士、\nもとい、このオルフェウスに、\nいかなるご用でございましょうか。
-OrpheusWithHades01|Orpheus With Hades 01|Hades|オルフェウスよ… 再度問う。タルタロスの深淵での\n刑期を終えたのならば、曲のひとつでも奏でてみせよ。\nわが命に従えぬと申すなら、さらなる厳罰を\n科すまでだ。
-OrpheusWithHades01|Orpheus With Hades 01|Orpheus|恐れながら、陛下、その件については、\n再度謝罪申し上げます。この者にはまだ、\n歌う気持ちがございません。陛下の\nご説得力をもってしても、わが心は揺るぎません。
-OrpheusWithHades01|Orpheus With Hades 01|Hades|ならば、おまえがその気になるまで待つまでだ。時ならいくらでもある。
-OrpheusWithHades02|Orpheus With Hades 02|Hades|オルフェウスよ… なんの役にも立たぬ宮廷楽士の\n抜け殻を、なぜ、わが館に住まわせねばならぬ？\nおまえは口は達者だが、本分の歌となると、\n途端に口をつぐむ。
-OrpheusWithHades02|Orpheus With Hades 02|Orpheus|はばかりながら、申し上げます。\nこの者の姿をその御目にとらえていただければ、\n過去にお聴かせした歌の数々が、お心に蘇りましょう。
-OrpheusWithHades02|Orpheus With Hades 02|Hades|不遜な物言いを… かつての私なら容認したが、\n我慢の限界だ。あと100年だけ待ってやる。\nそれまでに再び歌わねば、そのときは覚悟しておけ。
-OrpheusWithHades03|Orpheus With Hades 03|Hades|オルフェウス、ようやく正気に戻ったようだな。\n宮廷楽士の分際で歌うことを拒むなど、言語道断。\n今後は二度と、主の命に背くような真似はせぬことだ。\nよいな？
-OrpheusWithHades03|Orpheus With Hades 03|Orpheus|この者の歌が、なおも陛下の御心に響くこと、\n恐悦至極に存じます。とはいえ、\nこの者が再び歌う意志を持ったのは、若様と、\nわが歌女神によるところが大きゅうございます。
-OrpheusWithHades03|Orpheus With Hades 03|Hades|“歌女神”だと？まだそのようなたわけたことを\n抜かすか。エウリュディケとともに暮らす機会を\nみずからふいにし、おまえはこの館の使用人と\nなったのだ。取り決めには従ってもらう。
-OrpheusWithHades04|Orpheus With Hades 04|Orpheus|…陛下、館で奉仕する時間をなにかと融通して\nいただきありがたき幸せに存じます。この館を出て\n休暇を過ごすなど恐れ多く、再びタルタロスの\n深淵にて長期幽閉の罰を受けるのではと、\n当初は不安をぬぐい去れずにおりましたが…
-OrpheusWithHades04|Orpheus With Hades 04|Hades|ばかげたことを申すな。余暇はおまえの望むように\n過ごし、必要に応じて、当館で歌を披露すればよい。
-OrpheusWithHades04|Orpheus With Hades 04|Orpheus|陛下の寛大なご対応に、エウリュディケも私も、心より感謝しております。
-OrpheusWithAchilles01|Orpheus With Achilles 01|Orpheus|…アキレウス様は謙虚すぎます。あなたほど\n多くの偉業を成し、幾人もの敵の首を取った者は、\nこの世界広しといえども、そうはおりません。\nザグレウスのように、誇らしげに喧伝して\nしかるべきです。
-OrpheusWithAchilles01|Orpheus With Achilles 01|Achilles|私も生前は、大いに自慢して回ったものだ。こうして\n冥界送りになったのも、そのツケが回った結果。\n第一、私はザグレウスほど想像力が豊かではない。\n聞いて楽しいホラ話など、思いつきもしない。
-OrpheusWithAchilles02|Orpheus With Achilles 02|Orpheus|アキレウス様は、恋しくはなりませんか？\n肺いっぱいに新鮮な空気を吸い、\n一日数回、食事を必要とした日々が…
-OrpheusWithAchilles02|Orpheus With Achilles 02|Achilles|正直、ほとんど覚えていない。\n貴君の歌を聴くと、時折思い出すこともあるが…\n亡霊としての暮らしに慣れてしまったのだろう。\n貴君は、生前の日々が恋しいか？
-OrpheusWithAchilles02|Orpheus With Achilles 02|Orpheus|いえ、むしろ、今は満ち足りています。\n死後もこうして仕事を与えられていることは、\n幸福以外の何ものでもない。働ける身でありながら、\n永遠に休みつづけるなど、私はとても耐えられません。
-OrpheusWithPersephone01|Orpheus With Persephone 01|Persephone|…それにしても、かの有名なオルフェウスが\nこの館付きの楽士を務めてくれるなんて…！音楽に\n関しては、ハデスと私は好みが共通しているのです。\nこれからも、どうぞよろしくお願いしますね。
-OrpheusWithPersephone01|Orpheus With Persephone 01|Orpheus|女王陛下の御前にて拙き歌を披露させていただけること\n光栄の至りにございます。それにても、女王陛下のお姿見れば見るほど、ご子息と似ていらっしゃる。\n王子の器量は、母君譲りでいらしたのですね。
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Orpheus|…冥王陛下。しがない宮廷楽士、\nもとい、このオルフェウスに、\nいかなるご用でございましょうか。
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Hades|オルフェウスよ… 再度問う。タルタロスの深淵での\n刑期を終えたのならば、曲のひとつでも奏でてみせよ。\nわが命に従えぬと申すなら、さらなる厳罰を\n科すまでだ。
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Orpheus|恐れながら、陛下、その件については、\n再度謝罪申し上げます。この者にはまだ、\n歌う気持ちがございません。陛下の\nご説得力をもってしても、わが心は揺るぎません。
+OrpheusWithHades01|Duo - Orpheus and Hades (1)|Hades|ならば、おまえがその気になるまで待つまでだ。時ならいくらでもある。
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Hades|オルフェウスよ… なんの役にも立たぬ宮廷楽士の\n抜け殻を、なぜ、わが館に住まわせねばならぬ？\nおまえは口は達者だが、本分の歌となると、\n途端に口をつぐむ。
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Orpheus|はばかりながら、申し上げます。\nこの者の姿をその御目にとらえていただければ、\n過去にお聴かせした歌の数々が、お心に蘇りましょう。
+OrpheusWithHades02|Duo - Orpheus and Hades (2)|Hades|不遜な物言いを… かつての私なら容認したが、\n我慢の限界だ。あと100年だけ待ってやる。\nそれまでに再び歌わねば、そのときは覚悟しておけ。
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Hades|オルフェウス、ようやく正気に戻ったようだな。\n宮廷楽士の分際で歌うことを拒むなど、言語道断。\n今後は二度と、主の命に背くような真似はせぬことだ。\nよいな？
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Orpheus|この者の歌が、なおも陛下の御心に響くこと、\n恐悦至極に存じます。とはいえ、\nこの者が再び歌う意志を持ったのは、若様と、\nわが歌女神によるところが大きゅうございます。
+OrpheusWithHades03|Duo - Orpheus and Hades (3)|Hades|“歌女神”だと？まだそのようなたわけたことを\n抜かすか。エウリュディケとともに暮らす機会を\nみずからふいにし、おまえはこの館の使用人と\nなったのだ。取り決めには従ってもらう。
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Orpheus|…陛下、館で奉仕する時間をなにかと融通して\nいただきありがたき幸せに存じます。この館を出て\n休暇を過ごすなど恐れ多く、再びタルタロスの\n深淵にて長期幽閉の罰を受けるのではと、\n当初は不安をぬぐい去れずにおりましたが…
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Hades|ばかげたことを申すな。余暇はおまえの望むように\n過ごし、必要に応じて、当館で歌を披露すればよい。
+OrpheusWithHades04|Duo - Orpheus and Hades (4)|Orpheus|陛下の寛大なご対応に、エウリュディケも私も、心より感謝しております。
+OrpheusWithAchilles01|Duo - Orpheus and Achilles (1)|Orpheus|…アキレウス様は謙虚すぎます。あなたほど\n多くの偉業を成し、幾人もの敵の首を取った者は、\nこの世界広しといえども、そうはおりません。\nザグレウスのように、誇らしげに喧伝して\nしかるべきです。
+OrpheusWithAchilles01|Duo - Orpheus and Achilles (1)|Achilles|私も生前は、大いに自慢して回ったものだ。こうして\n冥界送りになったのも、そのツケが回った結果。\n第一、私はザグレウスほど想像力が豊かではない。\n聞いて楽しいホラ話など、思いつきもしない。
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Orpheus|アキレウス様は、恋しくはなりませんか？\n肺いっぱいに新鮮な空気を吸い、\n一日数回、食事を必要とした日々が…
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Achilles|正直、ほとんど覚えていない。\n貴君の歌を聴くと、時折思い出すこともあるが…\n亡霊としての暮らしに慣れてしまったのだろう。\n貴君は、生前の日々が恋しいか？
+OrpheusWithAchilles02|Duo - Orpheus and Achilles (2)|Orpheus|いえ、むしろ、今は満ち足りています。\n死後もこうして仕事を与えられていることは、\n幸福以外の何ものでもない。働ける身でありながら、\n永遠に休みつづけるなど、私はとても耐えられません。
+OrpheusWithPersephone01|Duo - Orpheus and Persephone (1)|Persephone|…それにしても、かの有名なオルフェウスが\nこの館付きの楽士を務めてくれるなんて…！音楽に\n関しては、ハデスと私は好みが共通しているのです。\nこれからも、どうぞよろしくお願いしますね。
+OrpheusWithPersephone01|Duo - Orpheus and Persephone (1)|Orpheus|女王陛下の御前にて拙き歌を披露させていただけること\n光栄の至りにございます。それにても、女王陛下のお姿見れば見るほど、ご子息と似ていらっしゃる。\n王子の器量は、母君譲りでいらしたのですね。
 OrpheusChat01|Orpheus Chat 01|Orpheus|申し訳ないけれど、僕はもう、歌うつもりはない。
 OrpheusChat02|Orpheus Chat 02|Orpheus|こうも館が静かだと、\n楽士としては、いたたまれなくなる…
 OrpheusChat03|Orpheus Chat 03|Orpheus|僕はこれからも、この館付きの楽士だ。
@@ -5927,49 +5927,49 @@ OrpheusGift08|Orpheus Gift 08|Zagreus|聞いてくれ。このアンブロシア
 OrpheusGift08|Orpheus Gift 08|Orpheus|ザグレウス… 君はどうして、僕にこんなに\nよくしてくれるんだい？これはありがたく\n受け取るけれど、これ以上の気遣いは無用だ。\nどうか、悪く思わないでくれ。
 OrpheusGift08|Orpheus Gift 08|Zagreus|おまえがどうしてもと言うなら、そうするよ。\nでも、この贈り物は、俺たちの永遠の友情の証しだ。\nおまえからは、本当にいろいろなことを\n学ばせてもらったからな。
 OrpheusGift08|Orpheus Gift 08|Orpheus|ありがとう。僕に、これをたしなむ趣味があれば\nよかったんだけどね…
-OrpheusWithEurydice01|Orpheus With Eurydice 01|Orpheus|ザグレウス、訪ねてきてくれたんだね。\n今、エウリュディケとふたりで、離れて暮らしていた\n間に起きたことを報告しあっていたんだ。
-OrpheusWithEurydice01|Orpheus With Eurydice 01|Eurydice|そういうこと。まだまだ積もる話の途中だから、\nふたりきりにしてもらえるとありがたいね。\nでも、その前に…
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Zagreus|こんな名演、初めてだ… 独唱でも聴き惚れるのに、\nふたりの歌声が合わさると、すばらしい音色になる…
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Orpheus|そう言ってもらえるとうれしい。エウリュディケと\n僕は、運命の三女神に引き合わされたに違いない。\nなのに、無残にも、長きにわたり離ればなれになって…
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Eurydice|まーたそうやってウジウジ言う！いいじゃないの、\nこれからふたりで、思う存分、死後生を\n送れるんだから！歌だって、共作し放題だよ。
-OrpheusWithEurydice02|Orpheus With Eurydice 02|Orpheus|たしかにそのとおりだ。ザグレウス、\nそういうわけだから、僕たちは創作作業に戻るよ。
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Zagreus|ふたりとも、元気そうだな。またふたりで仲よく\n歌ってるか？
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Orpheus|夢のような日々さ。僕は、もう二度とエウリュディケに会えないものと思っていた。なぜなら…
-OrpheusWithEurydice03|Orpheus With Eurydice 03|Eurydice|オルフィーはいまだに、こうやって済んだことを\nグジグジ言うけど、これでもだいぶマシに\nなったんだよ。このひと説得するのは、\n骨が折れただろ？苦労かけたね。
-OrpheusWithEurydiceEndTheme01|Orpheus With Eurydice End Theme 01|Zagreus|オルフェウス！「その血に流る」を歌う気に\nなってくれたのか！リクエストに応えてくれて、\nありがとうな。
-OrpheusWithEurydiceEndTheme01|Orpheus With Eurydice End Theme 01|Orpheus|どういたしまして。エウリュディケとふたりで\n書いたこの曲、僕にも、思い入れがないわけじゃない。\n懐かしい想い出が、いろいろと蘇ってきたよ。
-OrpheusWithEurydiceMiscChat01|Orpheus With Eurydice Misc Chat 01|Eurydice|ああ、皇太子殿下じゃないか！たんと召し上がれ！
-OrpheusWithEurydiceMiscChat02|Orpheus With Eurydice Misc Chat 02|Eurydice|オルフィーもあたしも、おかげさまで\n仲よくやってるよ。あんたも気をつけて行くんだよ！
-OrpheusWithEurydiceMiscChat03|Orpheus With Eurydice Misc Chat 03|Eurydice|あんたにも、いっしょに歌える相手が\nできるといいねえ。
-OrpheusWithEurydiceMiscChat04|Orpheus With Eurydice Misc Chat 04|Eurydice|心配ないよ。時間になったらちゃんと出勤させるから。わかってるね、オルフィー？
-OrpheusWithEurydiceMiscChat05|Orpheus With Eurydice Misc Chat 05|Eurydice|オルフィーとあたしって、\nいかにも「長年連れ添った夫婦」って感じだろ？
-OrpheusWithEurydiceMiscChat06|Orpheus With Eurydice Misc Chat 06|Eurydice|あんたもさ、自分の幸せ見つけたら、\n振り返っちゃダメだよ。
-OrpheusWithEurydiceMiscChat07|Orpheus With Eurydice Misc Chat 07|Eurydice|ここもそう悪くないよ。\nあんたもそう思えるといいんだけどねえ。
-OrpheusWithEurydiceMiscChat08|Orpheus With Eurydice Misc Chat 08|Eurydice|お気に入りの曲をふたりで練習するのは、楽しくてね！
-OrpheusWithEurydiceMiscChat09|Orpheus With Eurydice Misc Chat 09|Eurydice|あたしらの様子を見にきてくれたのかい？ありがとね！
-OrpheusWithEurydiceMiscChat10|Orpheus With Eurydice Misc Chat 10|Orpheus|…エウリュディケ、君の歌声の美しさは、今なお進化を続けているよ！
-OrpheusWithEurydiceMiscChat11|Orpheus With Eurydice Misc Chat 11|Orpheus|どうだい？彼女はすばらしいだろう？
-OrpheusWithEurydiceMiscChat12|Orpheus With Eurydice Misc Chat 12|Orpheus|歌っても歌っても、歌い疲れることはないのさ！
-OrpheusWithEurydiceMiscChat13|Orpheus With Eurydice Misc Chat 13|Orpheus|もう二度と、彼女に会えないと思っていた。\n何もかも君のおかげだ。
-OrpheusWithEurydiceMiscChat14|Orpheus With Eurydice Misc Chat 14|Orpheus|こうしてふたりで歌っていると、\n時の経つのも忘れてしまうよ。
-OrpheusWithEurydiceMiscChat15|Orpheus With Eurydice Misc Chat 15|Orpheus|エウリュディケの歌声ほどすばらしいものを、君は耳にしたことがあるかい？
-OrpheusWithEurydiceMiscChat16|Orpheus With Eurydice Misc Chat 16|Orpheus|エウリュディケの歌声ほど美しいものが、\nこの世界に存在するだろうか？
-OrpheusWithEurydiceMiscChat17|Orpheus With Eurydice Misc Chat 17|Orpheus|僕たちを訪ねてきてくれて、とてもうれしいよ。
-OrpheusWithEurydiceMiscChat18|Orpheus With Eurydice Misc Chat 18|Eurydice|オルフィーとふたりでいると、楽しくてねえ。
-OrpheusWithEurydiceMiscChat19|Orpheus With Eurydice Misc Chat 19|Eurydice|ちょうど食事を終えたところさ。\nあんたの分も、たっぷりあるよ！
-OrpheusWithEurydiceMiscChat20|Orpheus With Eurydice Misc Chat 20|Eurydice|歌うことより楽しいこと？あるよ。\n愛する人と、声を合わせて歌うことさ！
-OrpheusWithEurydiceMiscChat21|Orpheus With Eurydice Misc Chat 21|Eurydice|オルフィーは歌の練習中だよ。\n王様の前で歌うときに備えてね！
-OrpheusWithEurydiceMiscChat22|Orpheus With Eurydice Misc Chat 22|Eurydice|今ちょうど、ふたりで歌ってたところさ！
-OrpheusWithEurydiceMiscChat23|Orpheus With Eurydice Misc Chat 23|Eurydice|オルフィーは料理の手順の覚えは悪いけど、\n歌に関しちゃ言うことナシさ！
-OrpheusWithEurydiceMiscChat24|Orpheus With Eurydice Misc Chat 24|Eurydice|オルフィー、お客様がいらっしゃったよ！思いっきり歌ってやりな！
-OrpheusWithEurydiceMiscChat25|Orpheus With Eurydice Misc Chat 25|Eurydice|オルフィーのことは気にしないでおくれ。\n歌いはじめると、周りの声が耳に入らないのさ。
-OrpheusWithEurydiceInTheBloodChat01|Orpheus With Eurydice In The Blood Chat 01|Eurydice|この曲、知ってるのかい？\nその昔、大人気になった曲さ。
-OrpheusWithEurydiceInTheBloodChat02|Orpheus With Eurydice In The Blood Chat 02|Eurydice|オルフィーとふたりで、想い出話をしてたところさ。
-OrpheusWithEurydiceInTheBloodChat03|Orpheus With Eurydice In The Blood Chat 03|Eurydice|オルフィーと、軽く声を合わせてみようかと思ってね！
-OrpheusWithEurydiceInTheBloodChat04|Orpheus With Eurydice In The Blood Chat 04|Eurydice|この曲もだいぶ古いけど、年月を経て、\n愛着がわいてきたよ。
-OrpheusWithEurydiceInTheBloodChat05|Orpheus With Eurydice In The Blood Chat 05|Orpheus|あんた、この曲好きだろ？
-OrpheusWithEurydiceInTheBloodChat06|Orpheus With Eurydice In The Blood Chat 06|Orpheus|この曲を歌うと、エウリュディケとともに\n生者として暮らしていた頃を思い出すよ…
-OrpheusWithEurydiceInTheBloodChat07|Orpheus With Eurydice In The Blood Chat 07|Orpheus|これはその昔、なかなか評判がよかった曲でね。
+OrpheusWithEurydice01|Duo - Orpheus and Eurydice (1)|Orpheus|ザグレウス、訪ねてきてくれたんだね。\n今、エウリュディケとふたりで、離れて暮らしていた\n間に起きたことを報告しあっていたんだ。
+OrpheusWithEurydice01|Duo - Orpheus and Eurydice (1)|Eurydice|そういうこと。まだまだ積もる話の途中だから、\nふたりきりにしてもらえるとありがたいね。\nでも、その前に…
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Zagreus|こんな名演、初めてだ… 独唱でも聴き惚れるのに、\nふたりの歌声が合わさると、すばらしい音色になる…
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Orpheus|そう言ってもらえるとうれしい。エウリュディケと\n僕は、運命の三女神に引き合わされたに違いない。\nなのに、無残にも、長きにわたり離ればなれになって…
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Eurydice|まーたそうやってウジウジ言う！いいじゃないの、\nこれからふたりで、思う存分、死後生を\n送れるんだから！歌だって、共作し放題だよ。
+OrpheusWithEurydice02|Duo - Orpheus and Eurydice (2)|Orpheus|たしかにそのとおりだ。ザグレウス、\nそういうわけだから、僕たちは創作作業に戻るよ。
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Zagreus|ふたりとも、元気そうだな。またふたりで仲よく\n歌ってるか？
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Orpheus|夢のような日々さ。僕は、もう二度とエウリュディケに会えないものと思っていた。なぜなら…
+OrpheusWithEurydice03|Duo - Orpheus and Eurydice (3)|Eurydice|オルフィーはいまだに、こうやって済んだことを\nグジグジ言うけど、これでもだいぶマシに\nなったんだよ。このひと説得するのは、\n骨が折れただろ？苦労かけたね。
+OrpheusWithEurydiceEndTheme01|Duo - Orpheus and Eurydice End Theme (1)|Zagreus|オルフェウス！「その血に流る」を歌う気に\nなってくれたのか！リクエストに応えてくれて、\nありがとうな。
+OrpheusWithEurydiceEndTheme01|Duo - Orpheus and Eurydice End Theme (1)|Orpheus|どういたしまして。エウリュディケとふたりで\n書いたこの曲、僕にも、思い入れがないわけじゃない。\n懐かしい想い出が、いろいろと蘇ってきたよ。
+OrpheusWithEurydiceMiscChat01|Duo - Orpheus and Eurydice Misc Chat (1)|Eurydice|ああ、皇太子殿下じゃないか！たんと召し上がれ！
+OrpheusWithEurydiceMiscChat02|Duo - Orpheus and Eurydice Misc Chat (2)|Eurydice|オルフィーもあたしも、おかげさまで\n仲よくやってるよ。あんたも気をつけて行くんだよ！
+OrpheusWithEurydiceMiscChat03|Duo - Orpheus and Eurydice Misc Chat (3)|Eurydice|あんたにも、いっしょに歌える相手が\nできるといいねえ。
+OrpheusWithEurydiceMiscChat04|Duo - Orpheus and Eurydice Misc Chat (4)|Eurydice|心配ないよ。時間になったらちゃんと出勤させるから。わかってるね、オルフィー？
+OrpheusWithEurydiceMiscChat05|Duo - Orpheus and Eurydice Misc Chat (5)|Eurydice|オルフィーとあたしって、\nいかにも「長年連れ添った夫婦」って感じだろ？
+OrpheusWithEurydiceMiscChat06|Duo - Orpheus and Eurydice Misc Chat (6)|Eurydice|あんたもさ、自分の幸せ見つけたら、\n振り返っちゃダメだよ。
+OrpheusWithEurydiceMiscChat07|Duo - Orpheus and Eurydice Misc Chat (7)|Eurydice|ここもそう悪くないよ。\nあんたもそう思えるといいんだけどねえ。
+OrpheusWithEurydiceMiscChat08|Duo - Orpheus and Eurydice Misc Chat (8)|Eurydice|お気に入りの曲をふたりで練習するのは、楽しくてね！
+OrpheusWithEurydiceMiscChat09|Duo - Orpheus and Eurydice Misc Chat (9)|Eurydice|あたしらの様子を見にきてくれたのかい？ありがとね！
+OrpheusWithEurydiceMiscChat10|Duo - Orpheus and Eurydice Misc Chat (10)|Orpheus|…エウリュディケ、君の歌声の美しさは、今なお進化を続けているよ！
+OrpheusWithEurydiceMiscChat11|Duo - Orpheus and Eurydice Misc Chat (11)|Orpheus|どうだい？彼女はすばらしいだろう？
+OrpheusWithEurydiceMiscChat12|Duo - Orpheus and Eurydice Misc Chat (12)|Orpheus|歌っても歌っても、歌い疲れることはないのさ！
+OrpheusWithEurydiceMiscChat13|Duo - Orpheus and Eurydice Misc Chat (13)|Orpheus|もう二度と、彼女に会えないと思っていた。\n何もかも君のおかげだ。
+OrpheusWithEurydiceMiscChat14|Duo - Orpheus and Eurydice Misc Chat (14)|Orpheus|こうしてふたりで歌っていると、\n時の経つのも忘れてしまうよ。
+OrpheusWithEurydiceMiscChat15|Duo - Orpheus and Eurydice Misc Chat (15)|Orpheus|エウリュディケの歌声ほどすばらしいものを、君は耳にしたことがあるかい？
+OrpheusWithEurydiceMiscChat16|Duo - Orpheus and Eurydice Misc Chat (16)|Orpheus|エウリュディケの歌声ほど美しいものが、\nこの世界に存在するだろうか？
+OrpheusWithEurydiceMiscChat17|Duo - Orpheus and Eurydice Misc Chat (17)|Orpheus|僕たちを訪ねてきてくれて、とてもうれしいよ。
+OrpheusWithEurydiceMiscChat18|Duo - Orpheus and Eurydice Misc Chat (18)|Eurydice|オルフィーとふたりでいると、楽しくてねえ。
+OrpheusWithEurydiceMiscChat19|Duo - Orpheus and Eurydice Misc Chat (19)|Eurydice|ちょうど食事を終えたところさ。\nあんたの分も、たっぷりあるよ！
+OrpheusWithEurydiceMiscChat20|Duo - Orpheus and Eurydice Misc Chat (20)|Eurydice|歌うことより楽しいこと？あるよ。\n愛する人と、声を合わせて歌うことさ！
+OrpheusWithEurydiceMiscChat21|Duo - Orpheus and Eurydice Misc Chat (21)|Eurydice|オルフィーは歌の練習中だよ。\n王様の前で歌うときに備えてね！
+OrpheusWithEurydiceMiscChat22|Duo - Orpheus and Eurydice Misc Chat (22)|Eurydice|今ちょうど、ふたりで歌ってたところさ！
+OrpheusWithEurydiceMiscChat23|Duo - Orpheus and Eurydice Misc Chat (23)|Eurydice|オルフィーは料理の手順の覚えは悪いけど、\n歌に関しちゃ言うことナシさ！
+OrpheusWithEurydiceMiscChat24|Duo - Orpheus and Eurydice Misc Chat (24)|Eurydice|オルフィー、お客様がいらっしゃったよ！思いっきり歌ってやりな！
+OrpheusWithEurydiceMiscChat25|Duo - Orpheus and Eurydice Misc Chat (25)|Eurydice|オルフィーのことは気にしないでおくれ。\n歌いはじめると、周りの声が耳に入らないのさ。
+OrpheusWithEurydiceInTheBloodChat01|Duo - Orpheus and Eurydice In The Blood Chat (1)|Eurydice|この曲、知ってるのかい？\nその昔、大人気になった曲さ。
+OrpheusWithEurydiceInTheBloodChat02|Duo - Orpheus and Eurydice In The Blood Chat (2)|Eurydice|オルフィーとふたりで、想い出話をしてたところさ。
+OrpheusWithEurydiceInTheBloodChat03|Duo - Orpheus and Eurydice In The Blood Chat (3)|Eurydice|オルフィーと、軽く声を合わせてみようかと思ってね！
+OrpheusWithEurydiceInTheBloodChat04|Duo - Orpheus and Eurydice In The Blood Chat (4)|Eurydice|この曲もだいぶ古いけど、年月を経て、\n愛着がわいてきたよ。
+OrpheusWithEurydiceInTheBloodChat05|Duo - Orpheus and Eurydice In The Blood Chat (5)|Orpheus|あんた、この曲好きだろ？
+OrpheusWithEurydiceInTheBloodChat06|Duo - Orpheus and Eurydice In The Blood Chat (6)|Orpheus|この曲を歌うと、エウリュディケとともに\n生者として暮らしていた頃を思い出すよ…
+OrpheusWithEurydiceInTheBloodChat07|Duo - Orpheus and Eurydice In The Blood Chat (7)|Orpheus|これはその昔、なかなか評判がよかった曲でね。
 MegaeraMeeting01|Megaera Meeting 01|Megaera|フン… 放蕩息子のご帰還か。\n皆、私が手加減したと噂している。
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|そんな噂、気にするな。どっちにしろ、その先で無様に死んで、こうして戻ってきた。
 MegaeraMeeting01|Megaera Meeting 01|Megaera|そう簡単に戻られては、私の立つ瀬がない。\n私を倒したからには、意地でも脱出しろ。今回は\n運に味方されたようだが、次はそうはいかないぞ。
@@ -6153,58 +6153,58 @@ MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Megaera|おまえが“オリュンポス流”を望むなら、\n好きにすればいい。\n一方私は、嫉妬する者を罰するのが仕事だ。\nタナトスは、私にとって脅威なのか？
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|いや… あいつはメグのことを敬ってるし、\nメグを傷つけるようなことは…
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Megaera|それは私も同様だ。おまえにとって、タナトスと私は\n異なる存在。おまえも、それは承知のはずだ。\nわかったら、余計な勘ぐりはやめることだ。
-MegaeraWithHades01|Megaera With Hades 01|Hades|…よいな、メガイラ。\nこの館の使用人不足は極めて深刻。かつてのように、\n潤沢な人材を確保することが、おまえの務めだ。
-MegaeraWithHades01|Megaera With Hades 01|Megaera|…御意に。わが全力をもって、対処いたします。\nお任せください。
-MegaeraWithHades02|Megaera With Hades 02|Megaera|…陛下、もう一度だけ、お目こぼしを。\nあの者たちを招くことだけは… どうか…
-MegaeraWithHades02|Megaera With Hades 02|Hades|すでに伝令を出した。こうしているうちにも、\nあの者たちはタルタロスへ向かっているはずだ。
-MegaeraWithHades02|Megaera With Hades 02|Megaera|彼女たちの本性は、陛下もご存知のはず。\n従来の持ち場に据え置くべきです。
-MegaeraWithHades02|Megaera With Hades 02|Hades|メガイラ、おまえの心中は察するに難くない。\nとはいえ、おまえの力量をもってすれば、\n妹らと協力することもできよう。
-MegaeraWithHades03|Megaera With Hades 03|Megaera|…恐れながら、陛下、あの者たちとの協力は\n不可能です。私の言葉になど、聞く耳すら持ちません。
-MegaeraWithHades03|Megaera With Hades 03|Hades|そもそもこれは、私の不手際だ。今後は\n他人任せにせず、私もじきじきに対処することとする。
-MegaeraWithHades03|Megaera With Hades 03|Megaera|…私がどれだけ力を尽くしても、\n陛下のご要望は、わが能力の限界を超えています。
-MegaeraWithHades03|Megaera With Hades 03|Hades|“要望”ではない。命令だ。
-MegaeraWithHades04|Megaera With Hades 04|Megaera|…ですが、陛下。私は、幾度も倒されました。\nにもかかわらず、なぜ…
-MegaeraWithHades04|Megaera With Hades 04|Hades|おまえと妹たちによるタルタロス警備は、\n申し分ない成果を上げている。\n王子の自制が利かぬのは、私の責任だ。おまえは\nこの冥界に、多大な貢献をしてきた。褒めてつかわす。
-MegaeraWithHades04|Megaera With Hades 04|Megaera|もったいないお言葉、痛み入ります…\n今以上に貢献するために、\n私にできることはないでしょうか？
-MegaeraWithHades04|Megaera With Hades 04|Hades|私からおまえに命じることはひとつ。\n今後も引き続き、冥界のためにおのれの職務に\n注力してほしい。タルタロスの門の警備を固め、\n王子が姿を現した際には… 一切の手加減をせず、\n足止めするのだ。
-MegaeraWithHades04|Megaera With Hades 04|Megaera|ありがたき幸せに存じます、陛下…
-MegaeraWithNyx01|Megaera With Nyx 01|Nyx|…各々、この館で果たすべき務めがあります。\nメガイラ、あなたも、自身の役目を恥じる必要は\nありません。妹たちの不在の間、あなたは彼女たちの\n責務も負うのです。
-MegaeraWithNyx01|Megaera With Nyx 01|Megaera|承知しています。それでも… この館は、誰が見ても破滅寸前です… なのに、皆が見て見ぬふりを…
-MegaeraWithNyx01|Megaera With Nyx 01|Nyx|いかなる状態になろうとも、館が滅びることは\nありません。ここをあるべき姿に保つことが、\n私たちの責務です。
-MegaeraWithNyx01|Megaera With Nyx 01|Megaera|…おっしゃるとおりです。ニュクス様のために、そしておのれのためにも、全力を尽くします。
-MegaeraWithNyx02|Megaera With Nyx 02|Nyx|…あなた以外に、誰を頼れと？あなたは有能な監督官。この役職の適任者として、あなたを超越する者は、\n存在しません。いまいちど、おのれの内面に\n目を向けることです。成果を上げられるか否かは、\nその任務に当たる際の姿勢に掛かっています。
-MegaeraWithNyx02|Megaera With Nyx 02|Megaera|おっしゃるとおりです。\nニュクス様なしでは、私は道を見失ってしまう…\nこの館がこうしてあるのも、ニュクス様のおかげです。
-MegaeraWithNyx03|Megaera With Nyx 03|Megaera|…なぜ、王子にあのような鏡を？\n王子の味方をするということは、\n私と敵対する立場を取るということです…！
-MegaeraWithNyx03|Megaera With Nyx 03|Nyx|危機的状況が一定の段階を超過すれば、中立という\n選択肢は消滅します。メガイラ、あなたもいずれ、\nみずからの立場を明確にする必要に迫られるでしょう。\nかねてより一貫して、そのように説いてきたはずです。
-MegaeraWithNyx03|Megaera With Nyx 03|Megaera|ニュクス様も私も、この館に忠誠を誓う\n共通の立場にあるものとばかり…\nですが、私が間違っていたようです。私がどれだけの\n重圧にさらされているか、おわかりですか…？
-MegaeraWithNyx03|Megaera With Nyx 03|Nyx|口の利き方に留意なさい。私は運命の三女神の母。\n気まぐれで行動することも、判断を誤ることもあり\nません。あなたは、おのれに課された責務をまっとう\nすることです。いずれ、すべてが明示されるでしょう。\n私とて、結果の出ぬ期間のもどかしさは好みません。
-MegaeraWithNyx04|Megaera With Nyx 04|Megaera|…ニュクス様、私が酷い過ちを犯した際には、\nその旨、お伝えいただけますか。今の私には、\nニュクス様のお導きが… いえ、ニュクス様に\n認めていただくことが、大きな意味を持つのです。
-MegaeraWithNyx04|Megaera With Nyx 04|Nyx|メガイラ、自身がすべきことを判断し、決断を下すのは\n常にあなた自身です。それでも、今回の件において\n私の承認および激励が必要ならば、そのいずれも\n与えましょう。この先、進むべき道を、あなたは\n知っています。
-MegaeraWithNyx04|Megaera With Nyx 04|Megaera|ニュクス様のおっしゃるとおりだとよいのですが…\n私にも、ニュクス様のような自信があれば…
-MegaeraWithNyx05|Megaera With Nyx 05|Megaera|ニュクス様のおっしゃったこと、ようやく理解できた\n気がします。ニュクス様は、冥王陛下がこの館の当主に\nなられる前から… いえ、私たちが生まれ落ちるより\nはるか昔から、この館に降りかかる事象を見守って\nきた。その御言葉を疑うなど、もっての他でした。
-MegaeraWithNyx05|Megaera With Nyx 05|Nyx|疑念は重要な感覚です。疑念が湧くからこそ、現状より\n好ましい結果の想像が可能となる。加えて、私は夜の\n化身。他者から疑われるのは自然なこと。メガイラ、\nあなたは今後も、必要ならば私を疑いなさい。私が望む\nのは、あなたがみずからの直感に従うことのみです。
-MegaeraWithNyx05|Megaera With Nyx 05|Megaera|お約束いたします。今後、私でお役に立てることが\nあれば、何なりとお申しつけを。
-MegaeraWithNyx06|Megaera With Nyx 06|Megaera|…話の通じる相手ではないのです。あの2人との\n関係の円滑化を図ったところで、こちらには\nなんの利もなく、むしろ事態を悪化させるだけです。
-MegaeraWithNyx06|Megaera With Nyx 06|Nyx|あの2人は、あなたの妹。今後もあなたに、\n少なからず関わりつづけることとなります。\n彼女たちといかなる関係を構築するかは、\nあなた次第です。
-MegaeraWithNyx06|Megaera With Nyx 06|Megaera|私の意志でどうにかなるものではありません。\nニュクス様は、あの2人を買いかぶっていらっしゃる…
-MegaeraWithNyx06|Megaera With Nyx 06|Nyx|あなたを信頼しているからこそ、\nこのように述べています。私たちは日頃、\n意思疎通の困難なさまざまな相手と接触します。\nそのたびに、可能な範囲で、努力をするのです。
-MegaeraWithHypnos01|Megaera With Hypnos 01|Megaera|…見ろ、ヒュプノス。ザグレウスが来たぞ。\n今、私にした助言を、彼にも聞かせてやってはどうだ？\nもっとも、私は助言など頼んだ覚えはないが。
-MegaeraWithHypnos01|Megaera With Hypnos 01|Hypnos|あっ！…ハハ、ハハハハ！いやあ、ほら、ここへ\n迷い込んだお客さんには、いろいろと親切にして\nあげずにはいられなくてさ！館のみんなと\nしゃべってると、いろんな情報が入ってくるから！\nたとえば… 誰かの死に際のこととか…
-MegaeraWithHypnos01|Megaera With Hypnos 01|Megaera|ザグレウス、ヒュプノスから助言を受けた。\nおまえの攻撃を、より確実にかわすようにしろとな。\nヒュプノスのおかげで、おまえの攻略法がわかった。\n次からは覚悟しておけ。
-MegaeraWithHypnos02|Megaera With Hypnos 02|Megaera|…ヒュプノス、その必要はない。\n酒場の場所ぐらい自分で探せる。\n…ひょっとして… 今のは… 私を誘ったのか？
-MegaeraWithHypnos02|Megaera With Hypnos 02|Hypnos|え！？ボクが？アナタを？まさかまさか！\nそんなこと、考えもしませんよ！\nアナタにも、ボクにも、持ち場がありますし！\n立場が違いすぎますし！絶対に、いっしょには\nなれない運命ですし！
-MegaeraWithHypnos02|Megaera With Hypnos 02|Megaera|私が声をかけるたびに、おまえはどういうわけか、\nほめられたと解釈するようだな。\nたまには、私からも忠告してやろう。\nその、愚鈍な振る舞いをやめることだ。
-MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|…最近、おまえに出迎えられる機会が減ったな。\n出迎えがおまえの仕事でなければ、気づかなかった\nだろうが… 私に言いたいことがあるのなら、\nはっきり言ったらどうだ？
-MegaeraWithHypnos03|Megaera With Hypnos 03|Hypnos|メガイラ様… あ、名前で呼んでも大丈夫ですか？最近、\nよくお死にになりますよね？ボク、死者の出迎えが仕事\nだから、よく会うでしょ？だから、ボクたちちょっと…\nいい感じなのかな、って思ってたんですけど… じつは\nボク、ずっとメガイラ様は不死身だと思ってて…
-MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|…つまり、おまえが抱いていた\n私のイメージは、おまえの想像の産物だったと\n気づいた、ということか？
-MegaeraWithHypnos03|Megaera With Hypnos 03|Hypnos|ボクの助言があれば、メガイラ様は絶対、\nザグレウスを倒せると思ったんです。なのに…！\nボクが期待したとおりの展開になってないみたいで…
-MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|まるで、私との交際を解消したかのような口ぶりだな…\nいずれにせよ、気落ちしているのはわかった。\n大丈夫か？
-MegaeraWithHypnos03|Megaera With Hypnos 03|Hypnos|はい！メガイラ様かザグレウス、\nどっちかを出迎えられれば、ボクはハッピーです！\nだって、普通の亡霊たちは、話しかけても\n返事してくれないですから。
-MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|そうか… 次に館に戻った際は、出迎えを頼む。
-MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|若君を足止めする務めを、私が完璧にこなしていたら、\n女王陛下との再会は叶いませんでした。この件に\n限っては、おのれの無能さを悔いてはおりません。\n陛下にも、その旨、ご承知おきいただければ幸甚です。
-MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|メガイラ監督官、あなたにそう言ってもらえると、\n私もうれしく思います。あなたは私が…\n“一時休職”していたあいだに、本当にたくさんのことを成し遂げましたね。ニュクスとハデスからの\n信頼が篤いのも、うなずけます。
-MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|もったいないお言葉です。ひさびさの館では、\n不慣れなこともございましょう。私でお力になれる\nことがあれば、いつでも、なんなりとお申しつけを。
-MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|あなたも、私の息子に迷惑ばかりかけられて、\nさすがに耐えられなくなったら、\n遠慮せずに私に相談してちょうだいね。
+MegaeraWithHades01|Duo - Megaera and Hades (1)|Hades|…よいな、メガイラ。\nこの館の使用人不足は極めて深刻。かつてのように、\n潤沢な人材を確保することが、おまえの務めだ。
+MegaeraWithHades01|Duo - Megaera and Hades (1)|Megaera|…御意に。わが全力をもって、対処いたします。\nお任せください。
+MegaeraWithHades02|Duo - Megaera and Hades (2)|Megaera|…陛下、もう一度だけ、お目こぼしを。\nあの者たちを招くことだけは… どうか…
+MegaeraWithHades02|Duo - Megaera and Hades (2)|Hades|すでに伝令を出した。こうしているうちにも、\nあの者たちはタルタロスへ向かっているはずだ。
+MegaeraWithHades02|Duo - Megaera and Hades (2)|Megaera|彼女たちの本性は、陛下もご存知のはず。\n従来の持ち場に据え置くべきです。
+MegaeraWithHades02|Duo - Megaera and Hades (2)|Hades|メガイラ、おまえの心中は察するに難くない。\nとはいえ、おまえの力量をもってすれば、\n妹らと協力することもできよう。
+MegaeraWithHades03|Duo - Megaera and Hades (3)|Megaera|…恐れながら、陛下、あの者たちとの協力は\n不可能です。私の言葉になど、聞く耳すら持ちません。
+MegaeraWithHades03|Duo - Megaera and Hades (3)|Hades|そもそもこれは、私の不手際だ。今後は\n他人任せにせず、私もじきじきに対処することとする。
+MegaeraWithHades03|Duo - Megaera and Hades (3)|Megaera|…私がどれだけ力を尽くしても、\n陛下のご要望は、わが能力の限界を超えています。
+MegaeraWithHades03|Duo - Megaera and Hades (3)|Hades|“要望”ではない。命令だ。
+MegaeraWithHades04|Duo - Megaera and Hades (4)|Megaera|…ですが、陛下。私は、幾度も倒されました。\nにもかかわらず、なぜ…
+MegaeraWithHades04|Duo - Megaera and Hades (4)|Hades|おまえと妹たちによるタルタロス警備は、\n申し分ない成果を上げている。\n王子の自制が利かぬのは、私の責任だ。おまえは\nこの冥界に、多大な貢献をしてきた。褒めてつかわす。
+MegaeraWithHades04|Duo - Megaera and Hades (4)|Megaera|もったいないお言葉、痛み入ります…\n今以上に貢献するために、\n私にできることはないでしょうか？
+MegaeraWithHades04|Duo - Megaera and Hades (4)|Hades|私からおまえに命じることはひとつ。\n今後も引き続き、冥界のためにおのれの職務に\n注力してほしい。タルタロスの門の警備を固め、\n王子が姿を現した際には… 一切の手加減をせず、\n足止めするのだ。
+MegaeraWithHades04|Duo - Megaera and Hades (4)|Megaera|ありがたき幸せに存じます、陛下…
+MegaeraWithNyx01|Duo - Megaera and Nyx (1)|Nyx|…各々、この館で果たすべき務めがあります。\nメガイラ、あなたも、自身の役目を恥じる必要は\nありません。妹たちの不在の間、あなたは彼女たちの\n責務も負うのです。
+MegaeraWithNyx01|Duo - Megaera and Nyx (1)|Megaera|承知しています。それでも… この館は、誰が見ても破滅寸前です… なのに、皆が見て見ぬふりを…
+MegaeraWithNyx01|Duo - Megaera and Nyx (1)|Nyx|いかなる状態になろうとも、館が滅びることは\nありません。ここをあるべき姿に保つことが、\n私たちの責務です。
+MegaeraWithNyx01|Duo - Megaera and Nyx (1)|Megaera|…おっしゃるとおりです。ニュクス様のために、そしておのれのためにも、全力を尽くします。
+MegaeraWithNyx02|Duo - Megaera and Nyx (2)|Nyx|…あなた以外に、誰を頼れと？あなたは有能な監督官。この役職の適任者として、あなたを超越する者は、\n存在しません。いまいちど、おのれの内面に\n目を向けることです。成果を上げられるか否かは、\nその任務に当たる際の姿勢に掛かっています。
+MegaeraWithNyx02|Duo - Megaera and Nyx (2)|Megaera|おっしゃるとおりです。\nニュクス様なしでは、私は道を見失ってしまう…\nこの館がこうしてあるのも、ニュクス様のおかげです。
+MegaeraWithNyx03|Duo - Megaera and Nyx (3)|Megaera|…なぜ、王子にあのような鏡を？\n王子の味方をするということは、\n私と敵対する立場を取るということです…！
+MegaeraWithNyx03|Duo - Megaera and Nyx (3)|Nyx|危機的状況が一定の段階を超過すれば、中立という\n選択肢は消滅します。メガイラ、あなたもいずれ、\nみずからの立場を明確にする必要に迫られるでしょう。\nかねてより一貫して、そのように説いてきたはずです。
+MegaeraWithNyx03|Duo - Megaera and Nyx (3)|Megaera|ニュクス様も私も、この館に忠誠を誓う\n共通の立場にあるものとばかり…\nですが、私が間違っていたようです。私がどれだけの\n重圧にさらされているか、おわかりですか…？
+MegaeraWithNyx03|Duo - Megaera and Nyx (3)|Nyx|口の利き方に留意なさい。私は運命の三女神の母。\n気まぐれで行動することも、判断を誤ることもあり\nません。あなたは、おのれに課された責務をまっとう\nすることです。いずれ、すべてが明示されるでしょう。\n私とて、結果の出ぬ期間のもどかしさは好みません。
+MegaeraWithNyx04|Duo - Megaera and Nyx (4)|Megaera|…ニュクス様、私が酷い過ちを犯した際には、\nその旨、お伝えいただけますか。今の私には、\nニュクス様のお導きが… いえ、ニュクス様に\n認めていただくことが、大きな意味を持つのです。
+MegaeraWithNyx04|Duo - Megaera and Nyx (4)|Nyx|メガイラ、自身がすべきことを判断し、決断を下すのは\n常にあなた自身です。それでも、今回の件において\n私の承認および激励が必要ならば、そのいずれも\n与えましょう。この先、進むべき道を、あなたは\n知っています。
+MegaeraWithNyx04|Duo - Megaera and Nyx (4)|Megaera|ニュクス様のおっしゃるとおりだとよいのですが…\n私にも、ニュクス様のような自信があれば…
+MegaeraWithNyx05|Duo - Megaera and Nyx (5)|Megaera|ニュクス様のおっしゃったこと、ようやく理解できた\n気がします。ニュクス様は、冥王陛下がこの館の当主に\nなられる前から… いえ、私たちが生まれ落ちるより\nはるか昔から、この館に降りかかる事象を見守って\nきた。その御言葉を疑うなど、もっての他でした。
+MegaeraWithNyx05|Duo - Megaera and Nyx (5)|Nyx|疑念は重要な感覚です。疑念が湧くからこそ、現状より\n好ましい結果の想像が可能となる。加えて、私は夜の\n化身。他者から疑われるのは自然なこと。メガイラ、\nあなたは今後も、必要ならば私を疑いなさい。私が望む\nのは、あなたがみずからの直感に従うことのみです。
+MegaeraWithNyx05|Duo - Megaera and Nyx (5)|Megaera|お約束いたします。今後、私でお役に立てることが\nあれば、何なりとお申しつけを。
+MegaeraWithNyx06|Duo - Megaera and Nyx (6)|Megaera|…話の通じる相手ではないのです。あの2人との\n関係の円滑化を図ったところで、こちらには\nなんの利もなく、むしろ事態を悪化させるだけです。
+MegaeraWithNyx06|Duo - Megaera and Nyx (6)|Nyx|あの2人は、あなたの妹。今後もあなたに、\n少なからず関わりつづけることとなります。\n彼女たちといかなる関係を構築するかは、\nあなた次第です。
+MegaeraWithNyx06|Duo - Megaera and Nyx (6)|Megaera|私の意志でどうにかなるものではありません。\nニュクス様は、あの2人を買いかぶっていらっしゃる…
+MegaeraWithNyx06|Duo - Megaera and Nyx (6)|Nyx|あなたを信頼しているからこそ、\nこのように述べています。私たちは日頃、\n意思疎通の困難なさまざまな相手と接触します。\nそのたびに、可能な範囲で、努力をするのです。
+MegaeraWithHypnos01|Duo - Megaera and Hypnos (1)|Megaera|…見ろ、ヒュプノス。ザグレウスが来たぞ。\n今、私にした助言を、彼にも聞かせてやってはどうだ？\nもっとも、私は助言など頼んだ覚えはないが。
+MegaeraWithHypnos01|Duo - Megaera and Hypnos (1)|Hypnos|あっ！…ハハ、ハハハハ！いやあ、ほら、ここへ\n迷い込んだお客さんには、いろいろと親切にして\nあげずにはいられなくてさ！館のみんなと\nしゃべってると、いろんな情報が入ってくるから！\nたとえば… 誰かの死に際のこととか…
+MegaeraWithHypnos01|Duo - Megaera and Hypnos (1)|Megaera|ザグレウス、ヒュプノスから助言を受けた。\nおまえの攻撃を、より確実にかわすようにしろとな。\nヒュプノスのおかげで、おまえの攻略法がわかった。\n次からは覚悟しておけ。
+MegaeraWithHypnos02|Duo - Megaera and Hypnos (2)|Megaera|…ヒュプノス、その必要はない。\n酒場の場所ぐらい自分で探せる。\n…ひょっとして… 今のは… 私を誘ったのか？
+MegaeraWithHypnos02|Duo - Megaera and Hypnos (2)|Hypnos|え！？ボクが？アナタを？まさかまさか！\nそんなこと、考えもしませんよ！\nアナタにも、ボクにも、持ち場がありますし！\n立場が違いすぎますし！絶対に、いっしょには\nなれない運命ですし！
+MegaeraWithHypnos02|Duo - Megaera and Hypnos (2)|Megaera|私が声をかけるたびに、おまえはどういうわけか、\nほめられたと解釈するようだな。\nたまには、私からも忠告してやろう。\nその、愚鈍な振る舞いをやめることだ。
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Megaera|…最近、おまえに出迎えられる機会が減ったな。\n出迎えがおまえの仕事でなければ、気づかなかった\nだろうが… 私に言いたいことがあるのなら、\nはっきり言ったらどうだ？
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Hypnos|メガイラ様… あ、名前で呼んでも大丈夫ですか？最近、\nよくお死にになりますよね？ボク、死者の出迎えが仕事\nだから、よく会うでしょ？だから、ボクたちちょっと…\nいい感じなのかな、って思ってたんですけど… じつは\nボク、ずっとメガイラ様は不死身だと思ってて…
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Megaera|…つまり、おまえが抱いていた\n私のイメージは、おまえの想像の産物だったと\n気づいた、ということか？
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Hypnos|ボクの助言があれば、メガイラ様は絶対、\nザグレウスを倒せると思ったんです。なのに…！\nボクが期待したとおりの展開になってないみたいで…
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Megaera|まるで、私との交際を解消したかのような口ぶりだな…\nいずれにせよ、気落ちしているのはわかった。\n大丈夫か？
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Hypnos|はい！メガイラ様かザグレウス、\nどっちかを出迎えられれば、ボクはハッピーです！\nだって、普通の亡霊たちは、話しかけても\n返事してくれないですから。
+MegaeraWithHypnos03|Duo - Megaera and Hypnos (3)|Megaera|そうか… 次に館に戻った際は、出迎えを頼む。
+MegaeraWithPersephone01|Duo - Megaera and Persephone (1)|Megaera|若君を足止めする務めを、私が完璧にこなしていたら、\n女王陛下との再会は叶いませんでした。この件に\n限っては、おのれの無能さを悔いてはおりません。\n陛下にも、その旨、ご承知おきいただければ幸甚です。
+MegaeraWithPersephone01|Duo - Megaera and Persephone (1)|Persephone|メガイラ監督官、あなたにそう言ってもらえると、\n私もうれしく思います。あなたは私が…\n“一時休職”していたあいだに、本当にたくさんのことを成し遂げましたね。ニュクスとハデスからの\n信頼が篤いのも、うなずけます。
+MegaeraWithPersephone01|Duo - Megaera and Persephone (1)|Megaera|もったいないお言葉です。ひさびさの館では、\n不慣れなこともございましょう。私でお力になれる\nことがあれば、いつでも、なんなりとお申しつけを。
+MegaeraWithPersephone01|Duo - Megaera and Persephone (1)|Persephone|あなたも、私の息子に迷惑ばかりかけられて、\nさすがに耐えられなくなったら、\n遠慮せずに私に相談してちょうだいね。
 MegChat01|Meg Chat 01|Megaera|見てわからないか？おまえにかまっている暇などない。
 MegChat02|Meg Chat 02|Megaera|何用だ？無駄話なら、つきあうつもりはない。
 MegChat03|Meg Chat 03|Megaera|おまえの目には、私が暇そうに見えるのか？
@@ -6445,18 +6445,18 @@ SisyphusAboutLegendary01|Sisyphus About Legendary 01|Zagreus|元気でやって�
 SisyphusAboutLegendary01|Sisyphus About Legendary 01|Sisyphus|若様、私めの右隣には、もったいないほどの親友が\nおります。シェイディは、冥界の最果てまで旅を\nすることを望んでおりますから、若様のもとにいる\nほうが幸せでしょう。若様とシェイディの旅に幸あれ！
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Zagreus|シェイディは… どういう“仕組み”なんですか？\nあなたも、イワコフも、しょっちゅう俺のもとへ\n召喚されていたら、落ち着かないんじゃ…
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Sisyphus|あれは、生身の私とイワコフではなく、“魂”が顕現した\nものでございます。シェイディの力でも、イワコフと\n私の隠れた能力でもない… 若様との友情の証しに\nございます。あなた方神の力をもってすれば、\nそんなことも可能なのですよ。
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Zagreus|帰ったようですね… 大丈夫ですか？ケガは？
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Sisyphus|ええ、大事はございません。あのエリニュス嬢は、\nなかなか手強いですな。あれだけ力が強ければ、\n私なんぞより楽にイワコフを運べるでしょうに！
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Zagreus|イワコフをてっぺんまで運べたことは？
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Sisyphus|一度たりとも、ございませんよ。やっと運び終えたと\n思ったところで、いつも転がり落ちるのです。\n 1万9千回目以降は、数えるのもやめてしまいました。\nそれでも、いつか必ず、てっぺんにとどまってくれると信じております。
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|今、メガイラが、当面はあなたにもイワコフにも\n罰を与えないと誓ったように聞こえたましたが…\n聞き違いでしょうか？
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Sisyphus|いえいえ。運命の三女神が、手加減してくださった\nようですな。とはいえ、若様との件が片づき次第、\nまた私を痛めつけに戻ると念を押されましたが…
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|なら、当分戻ってくることはないので、\n安心してください。
-ThanatosWithSisyphus01_FollowUp|Thanatos With Sisyphus 01 Follow Up|Sisyphus|ええ。ご心配には及びません。失うものなど\nない私には、恐れるべき相手ではございませぬ。\nさあ、これをお持ちくださいませ。
-ThanatosWithSisyphus02_FollowUp|Thanatos With Sisyphus 02 Follow Up|Sisyphus|なんと厚かましい。あの男は口ばかりですから、\n適当にあしらっておけば、問題ございません。\n私が若様をお助けしようと、どだい、\nあの男にはどうすることもできない。\n何しろ私は、すでに死んでおりますゆえ。
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|ザグ王子！ちょうど今、堅物のお仲間が\n帰ったところです。あたりが重苦しく\n静まりかえっているのが、わかりますでしょう？\nしばらく、私の監視にはいらっしゃらないそうですよ。
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Zagreus|タナトスも、根は悪いやつじゃないんです。\n俺にそう言われたところで、\nあなたにはとても信じられないでしょうが…
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|いえいえ、信じますとも。生者に死をもたらす\n御使命は、さぞ寂しいものでしょう。タナトス様も\n一度、大岩を運んでみるとよいかもしれませんな！
+MegaeraWithSisyphus01_FollowUp|Duo - Megaera and Sisyphus (1)|Zagreus|帰ったようですね… 大丈夫ですか？ケガは？
+MegaeraWithSisyphus01_FollowUp|Duo - Megaera and Sisyphus (1)|Sisyphus|ええ、大事はございません。あのエリニュス嬢は、\nなかなか手強いですな。あれだけ力が強ければ、\n私なんぞより楽にイワコフを運べるでしょうに！
+MegaeraWithSisyphus02_FollowUp|Duo - Megaera and Sisyphus (2)|Zagreus|イワコフをてっぺんまで運べたことは？
+MegaeraWithSisyphus02_FollowUp|Duo - Megaera and Sisyphus (2)|Sisyphus|一度たりとも、ございませんよ。やっと運び終えたと\n思ったところで、いつも転がり落ちるのです。\n 1万9千回目以降は、数えるのもやめてしまいました。\nそれでも、いつか必ず、てっぺんにとどまってくれると信じております。
+MegaeraWithSisyphus03_FollowUp|Duo - Megaera and Sisyphus (3)|Zagreus|今、メガイラが、当面はあなたにもイワコフにも\n罰を与えないと誓ったように聞こえたましたが…\n聞き違いでしょうか？
+MegaeraWithSisyphus03_FollowUp|Duo - Megaera and Sisyphus (3)|Sisyphus|いえいえ。運命の三女神が、手加減してくださった\nようですな。とはいえ、若様との件が片づき次第、\nまた私を痛めつけに戻ると念を押されましたが…
+MegaeraWithSisyphus03_FollowUp|Duo - Megaera and Sisyphus (3)|Zagreus|なら、当分戻ってくることはないので、\n安心してください。
+ThanatosWithSisyphus01_FollowUp|Duo - Thanatos and Sisyphus (1)|Sisyphus|ええ。ご心配には及びません。失うものなど\nない私には、恐れるべき相手ではございませぬ。\nさあ、これをお持ちくださいませ。
+ThanatosWithSisyphus02_FollowUp|Duo - Thanatos and Sisyphus (2)|Sisyphus|なんと厚かましい。あの男は口ばかりですから、\n適当にあしらっておけば、問題ございません。\n私が若様をお助けしようと、どだい、\nあの男にはどうすることもできない。\n何しろ私は、すでに死んでおりますゆえ。
+ThanatosWithSisyphus03_FollowUp|Duo - Thanatos and Sisyphus (3)|Sisyphus|ザグ王子！ちょうど今、堅物のお仲間が\n帰ったところです。あたりが重苦しく\n静まりかえっているのが、わかりますでしょう？\nしばらく、私の監視にはいらっしゃらないそうですよ。
+ThanatosWithSisyphus03_FollowUp|Duo - Thanatos and Sisyphus (3)|Zagreus|タナトスも、根は悪いやつじゃないんです。\n俺にそう言われたところで、\nあなたにはとても信じられないでしょうが…
+ThanatosWithSisyphus03_FollowUp|Duo - Thanatos and Sisyphus (3)|Sisyphus|いえいえ、信じますとも。生者に死をもたらす\n御使命は、さぞ寂しいものでしょう。タナトス様も\n一度、大岩を運んでみるとよいかもしれませんな！
 SisyphusChat01|Sisyphus Chat 01|Sisyphus|ザグ王子、ご無事でなによりです！
 SisyphusChat02|Sisyphus Chat 02|Sisyphus|若様、旅は順調でしょうか？
 SisyphusChat03|Sisyphus Chat 03|Sisyphus|私は、なんとかやっておりますよ！
@@ -6662,18 +6662,18 @@ PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Z
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|アキレウスのことだから、私との現状に関して、\n慎重な姿勢を崩そうとしないだろう。あの男は、\nすぐに無謀な行いに及ぶわりに、危険な賭けに\n出ることは嫌う。アキレウスに伝えてほしい。\n「すべてを賭けろ」と。
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Zagreus|「すべてを賭けろ」…？\n師匠は、あなたのためを思って行動しています。\nあなたの身に、よくないことが起きないようにと…
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|よくないことが起きて、すでに長い年月が過ぎた。\n君から聞いた話が事実なら…\nこれ以上失うものなどありはしない。\n「恐怖を感じるは弱者の証し」… 違うか？
-PatroclusWithAchilles01|Patroclus With Achilles 01|Achilles|ここでおまえと顔を合わせるのは、妙な気分だな。\nエリュシオンをこの目で見る日が来るとは…\nいまだに信じがたい。
-PatroclusWithAchilles01|Patroclus With Achilles 01|Patroclus|アキレウスはいまだに、すべて幻ではと疑っている節がある。事を成し遂げるには、ときには賭けに出る必要もあるのだ。無論、今回の件は、一介の亡霊のために君が骨を折ってくれたおかげでもあるが。
-PatroclusWithAchilles01|Patroclus With Achilles 01|Zagreus|友を助けるのは当然ですし、師匠には返しきれない恩がある。当たり前のことをしただけです。
-PatroclusWithAchilles01|Patroclus With Achilles 01|Patroclus|…とはいえ、われわれミュルミドンは、いちいち感傷に浸ることはしない。アキレウスは、日頃の過酷な任務の合間に休暇を取っているだけのこと。君の任務も、\n過酷という点では引けを取らない。いつもの差し入れを受け取ってほしい。
-PatroclusWithAchilles02|Patroclus With Achilles 02|Patroclus|…アキレウス、弟子が訪ねてきてくれたぞ。\n彼には本当に世話になった。\n恩を返そうにも、返しきれる気がしない。
-PatroclusWithAchilles02|Patroclus With Achilles 02|Achilles|ああ。私も同意見だ。
-PatroclusWithAchilles02|Patroclus With Achilles 02|Zagreus|それなら、これからも、俺が通りかかったときに、\n不要な支給品を分けてください。それで貸し借りなし、\nということにしましょう。
-PatroclusWithAchilles02|Patroclus With Achilles 02|Patroclus|それについては、謝礼とは別に、今後も続ける\nつもりでいた。もしわれわれで役に立てることがあれば\nいつでも遠慮なく頼ってほしい。
-PatroclusWithAchilles03|Patroclus With Achilles 03|Patroclus|君の意見を聞かせてほしい。エリュシオンの覇者としてアキレウスほどふさわしい者はいないと思うのだが。\n無論、現在の“覇者”と比べれば、誰でもいくらかは\nましだろうが…
-PatroclusWithAchilles03|Patroclus With Achilles 03|Achilles|私は、この地を彷徨う亡霊たちとの戦いに\n明け暮れるより、閑散とした広間の\n見張りを続ける方が性に合っている。
-PatroclusWithAchilles03|Patroclus With Achilles 03|Zagreus|俺も、アキレウス師匠より、テセウスが相手の方が\nずっといい。テセウスよりも覇者にふさわしい者が\n山ほどいるという点には、同意しますが…
-PatroclusWithAchilles03|Patroclus With Achilles 03|Patroclus|では、私の提案は却下だな。とはいえ、\n覇者にふさわしい逸材を見抜く目には自信がある。\nその点だけは、私も譲る気はない。
+PatroclusWithAchilles01|Duo - Patroclus and Achilles (1)|Achilles|ここでおまえと顔を合わせるのは、妙な気分だな。\nエリュシオンをこの目で見る日が来るとは…\nいまだに信じがたい。
+PatroclusWithAchilles01|Duo - Patroclus and Achilles (1)|Patroclus|アキレウスはいまだに、すべて幻ではと疑っている節がある。事を成し遂げるには、ときには賭けに出る必要もあるのだ。無論、今回の件は、一介の亡霊のために君が骨を折ってくれたおかげでもあるが。
+PatroclusWithAchilles01|Duo - Patroclus and Achilles (1)|Zagreus|友を助けるのは当然ですし、師匠には返しきれない恩がある。当たり前のことをしただけです。
+PatroclusWithAchilles01|Duo - Patroclus and Achilles (1)|Patroclus|…とはいえ、われわれミュルミドンは、いちいち感傷に浸ることはしない。アキレウスは、日頃の過酷な任務の合間に休暇を取っているだけのこと。君の任務も、\n過酷という点では引けを取らない。いつもの差し入れを受け取ってほしい。
+PatroclusWithAchilles02|Duo - Patroclus and Achilles (2)|Patroclus|…アキレウス、弟子が訪ねてきてくれたぞ。\n彼には本当に世話になった。\n恩を返そうにも、返しきれる気がしない。
+PatroclusWithAchilles02|Duo - Patroclus and Achilles (2)|Achilles|ああ。私も同意見だ。
+PatroclusWithAchilles02|Duo - Patroclus and Achilles (2)|Zagreus|それなら、これからも、俺が通りかかったときに、\n不要な支給品を分けてください。それで貸し借りなし、\nということにしましょう。
+PatroclusWithAchilles02|Duo - Patroclus and Achilles (2)|Patroclus|それについては、謝礼とは別に、今後も続ける\nつもりでいた。もしわれわれで役に立てることがあれば\nいつでも遠慮なく頼ってほしい。
+PatroclusWithAchilles03|Duo - Patroclus and Achilles (3)|Patroclus|君の意見を聞かせてほしい。エリュシオンの覇者としてアキレウスほどふさわしい者はいないと思うのだが。\n無論、現在の“覇者”と比べれば、誰でもいくらかは\nましだろうが…
+PatroclusWithAchilles03|Duo - Patroclus and Achilles (3)|Achilles|私は、この地を彷徨う亡霊たちとの戦いに\n明け暮れるより、閑散とした広間の\n見張りを続ける方が性に合っている。
+PatroclusWithAchilles03|Duo - Patroclus and Achilles (3)|Zagreus|俺も、アキレウス師匠より、テセウスが相手の方が\nずっといい。テセウスよりも覇者にふさわしい者が\n山ほどいるという点には、同意しますが…
+PatroclusWithAchilles03|Duo - Patroclus and Achilles (3)|Patroclus|では、私の提案は却下だな。とはいえ、\n覇者にふさわしい逸材を見抜く目には自信がある。\nその点だけは、私も譲る気はない。
 PatroclusAfterMyrmidonReunionQuest01|Patroclus After Myrmidon Reunion Quest 01|Patroclus|アキレウスは任務に戻ったが、\nただ無為に待ちつづけていた日々とは違い、\n今は彼がいずれ戻ることがわかっている。それだけで、\nこうも心持ちの異なるものか… どうやら私は、\nそんなことすら忘れてしまっていたようだ。
 PatroclusAfterMyrmidonReunionQuest01|Patroclus After Myrmidon Reunion Quest 01|Zagreus|あなたも、師匠も、幸せそうでよかった。\n何か困ったことはありませんか？ふたりが引き裂かれた\nいきさつを思うと… 言葉もありません。\n自分がそんな経験をしたら、どう立ち直ればいいか…
 PatroclusAfterMyrmidonReunionQuest01|Patroclus After Myrmidon Reunion Quest 01|Patroclus|怒りはいつか、鎮まるものだ。万人から恐れられた\nアキレウスの怒りでさえ。激しく燃え上がり、やがて\n燃え尽き、あとには鈍い痛みが残る。だがその奥に、\n私はたしかに感じたのだ… 自分がまだ生者であるかの\nような… その感覚は、守るに値するものだ。
@@ -6852,19 +6852,19 @@ EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Zagreus|エウリュディケ�
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Eurydice|フン… だからなんだってんだい、皇太子殿下様？
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Zagreus|それは… 俺にもよくわからない。たぶん、オルフェウス本人に聞いたほうがいいことだと思う。
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Eurydice|あのひとと偶然出くわす機会なんて、当分ないと思う\nけどね。ま、あんたは冥王ハデス様の息子なんだから、\n裏で手を回すっていうなら、止めはしないよ。\nま、特に期待はしないけどね。
-EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Eurydice|それで… オルフェウスはどうしてる？\n髪の毛は、相変わらずクルクルの巻き毛かい？\nさすがにもう、日焼けはしてないだろうけど。
-EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Zagreus|髪は… 巻き毛ではないな… でも、あいつなりに、\n元気でやってるよ。最近、また歌いはじめたんだ。\n「歌女神を失った」と言って絶対に歌おうと\nしなかったのに、大きな進歩だよ。
-EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Eurydice|…てことは、あのひとは、あたしがまだ\n冥界にいることを知ったんだね…\nまあ、いいや。あのひとには才能がある。\nまたやる気になってくれてよかったよ。
-EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Zagreus|エウリュディケ、ひとつ頼み事をしてもいいか？\nもちろん、無理にとは言わない…
-EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Eurydice|ああ、かまわないよ。ただし、レシピは教えられない\nからね。うちに代々伝わる、門外不出の秘伝の\nレシピだから、墓場まで持ってくよ。\n…ま、もう死んでるけどさ。
-EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Zagreus|エウリュディケの手料理は絶品だ。でも、頼みたいのはレシピじゃなくて、歌のほうなんだ。館で演奏すればきっとみんな気に入るし、特に、ある人に聞かせたい。譜面があれば、もらえないか？
-EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Eurydice|あたしの「歌」？この曲のタイトル、「別れの賛歌」\nだけど… いいのかい？フン、まあ、かまわないよ。\n皇太子殿下様の館で音楽が流れるなんて、\nステキじゃないか。ついでに、おまけもつけるよ。
-EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Eurydice|…あのひと、なんて言ってた？このあいだの、\n曲のことさ。気に入ったって言ってたろ？\nあーでも、どうだろね…\nなんだかずっと、気になっちまってさ…
-EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Zagreus|館でときどき歌ってるのを見かけるたびに、聞き惚れてしまうよ。エウリュディケが歌うときより、ちょっと\n悲しげに聞こえるけどな。エウリュディケの歌が\nあいつの創作意欲をかき立ててきたことは、明白だ。
-EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Eurydice|へえ… じゃあ、人気の一曲になったってことかい？\nやっぱりね。そうなる気がしてたんだ。\nときどきあるんだよ、言葉を組み合わせた瞬間、\n「これはいける」ってわかるんだ。
-EurydiceProgressWithOrpheus03|Eurydice Progress With Orpheus 03|Eurydice|で？どうしてくれるんだい？あんたのせいで、\nまたオルフェウスのことで頭がいっぱいだよ。\nあたしはどうしたらいいんだい？
-EurydiceProgressWithOrpheus03|Eurydice Progress With Orpheus 03|Zagreus|今はそばにいられなくても、オルフェウスが\nエウリュディケのことをどれほど想っているか、\n知ってほしかったんだ… 俺も手を回してみるよ。\n父上が絡むことだから、保証はできないけれど…\n手は尽くすつもりだ。
-EurydiceProgressWithOrpheus03|Eurydice Progress With Orpheus 03|Eurydice|…それはありがたいけどね、ホントに。でも、\n無理はしないどくれよ。これまでずっと、ひとりで\nやってこられたんだ。どうにもならなかったとしても、\nあたしは平気だよ。ま、あのひとのほうは、\n心配だけどね…
+EurydiceProgressWithOrpheus01|Duo - Progress and Orpheus (1)|Eurydice|それで… オルフェウスはどうしてる？\n髪の毛は、相変わらずクルクルの巻き毛かい？\nさすがにもう、日焼けはしてないだろうけど。
+EurydiceProgressWithOrpheus01|Duo - Progress and Orpheus (1)|Zagreus|髪は… 巻き毛ではないな… でも、あいつなりに、\n元気でやってるよ。最近、また歌いはじめたんだ。\n「歌女神を失った」と言って絶対に歌おうと\nしなかったのに、大きな進歩だよ。
+EurydiceProgressWithOrpheus01|Duo - Progress and Orpheus (1)|Eurydice|…てことは、あのひとは、あたしがまだ\n冥界にいることを知ったんだね…\nまあ、いいや。あのひとには才能がある。\nまたやる気になってくれてよかったよ。
+EurydiceProgressWithOrpheus02|Duo - Progress and Orpheus (2)|Zagreus|エウリュディケ、ひとつ頼み事をしてもいいか？\nもちろん、無理にとは言わない…
+EurydiceProgressWithOrpheus02|Duo - Progress and Orpheus (2)|Eurydice|ああ、かまわないよ。ただし、レシピは教えられない\nからね。うちに代々伝わる、門外不出の秘伝の\nレシピだから、墓場まで持ってくよ。\n…ま、もう死んでるけどさ。
+EurydiceProgressWithOrpheus02|Duo - Progress and Orpheus (2)|Zagreus|エウリュディケの手料理は絶品だ。でも、頼みたいのはレシピじゃなくて、歌のほうなんだ。館で演奏すればきっとみんな気に入るし、特に、ある人に聞かせたい。譜面があれば、もらえないか？
+EurydiceProgressWithOrpheus02|Duo - Progress and Orpheus (2)|Eurydice|あたしの「歌」？この曲のタイトル、「別れの賛歌」\nだけど… いいのかい？フン、まあ、かまわないよ。\n皇太子殿下様の館で音楽が流れるなんて、\nステキじゃないか。ついでに、おまけもつけるよ。
+EurydiceProgressWithOrpheus_SongReaction01|Duo - Progress and Orpheus Song Reaction (1)|Eurydice|…あのひと、なんて言ってた？このあいだの、\n曲のことさ。気に入ったって言ってたろ？\nあーでも、どうだろね…\nなんだかずっと、気になっちまってさ…
+EurydiceProgressWithOrpheus_SongReaction01|Duo - Progress and Orpheus Song Reaction (1)|Zagreus|館でときどき歌ってるのを見かけるたびに、聞き惚れてしまうよ。エウリュディケが歌うときより、ちょっと\n悲しげに聞こえるけどな。エウリュディケの歌が\nあいつの創作意欲をかき立ててきたことは、明白だ。
+EurydiceProgressWithOrpheus_SongReaction01|Duo - Progress and Orpheus Song Reaction (1)|Eurydice|へえ… じゃあ、人気の一曲になったってことかい？\nやっぱりね。そうなる気がしてたんだ。\nときどきあるんだよ、言葉を組み合わせた瞬間、\n「これはいける」ってわかるんだ。
+EurydiceProgressWithOrpheus03|Duo - Progress and Orpheus (3)|Eurydice|で？どうしてくれるんだい？あんたのせいで、\nまたオルフェウスのことで頭がいっぱいだよ。\nあたしはどうしたらいいんだい？
+EurydiceProgressWithOrpheus03|Duo - Progress and Orpheus (3)|Zagreus|今はそばにいられなくても、オルフェウスが\nエウリュディケのことをどれほど想っているか、\n知ってほしかったんだ… 俺も手を回してみるよ。\n父上が絡むことだから、保証はできないけれど…\n手は尽くすつもりだ。
+EurydiceProgressWithOrpheus03|Duo - Progress and Orpheus (3)|Eurydice|…それはありがたいけどね、ホントに。でも、\n無理はしないどくれよ。これまでずっと、ひとりで\nやってこられたんだ。どうにもならなかったとしても、\nあたしは平気だよ。ま、あのひとのほうは、\n心配だけどね…
 EurydiceAboutSingersReunionQuestComplete01|Eurydice About Singers Reunion Quest Complete 01|Eurydice|…あんたには、お礼を言わなきゃいけないね。\nあんたのおかげで、またオルフィーと\nいっしょになれた。ホントに、感謝してるよ。
 EurydiceAboutSingersReunionQuestComplete01|Eurydice About Singers Reunion Quest Complete 01|Zagreus|礼を言うのはこっちだ。エウリュディケの助けが\nあったから、地獄の業火を切り抜けてこられた。\n俺はただ、引きこもってふさぎ込んでるオルフェウスを\nそそのかして連れだしただけだ。ふたりに幸せが\n戻ってよかった。
 EurydiceAboutSingersReunionQuestComplete01|Eurydice About Singers Reunion Quest Complete 01|Eurydice|あんたは優しいね。あんたもオルフィーには館で\n会えるし、あたしもここで会える。大切な人と会う\n楽しみがあるって、いいもんだね。あんたを大切に\n想ってるひとも、きっとどこかにいるんだろうね。
@@ -7240,37 +7240,37 @@ PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Zagreus|戻っ
 PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Persephone|不思議ね… 母は昔から、こうと決めたら譲らない\n女神だと思っていたけれど、私に会えたのがよほど\nうれしかったのか、態度がやわらかくなったように\n感じたわ。「戻ったのは本当に自分の意志か」と\n気遣われて。だから、心配しないでと伝えたわ。
 PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Zagreus|それはよかった… 祖母上は感情的なところも\nたしかにありますが、俺にはいつもやさしく手を\n差し伸べてくれます。母上が無事だとわかったの\nだから、地上で冬が終わらない状態も、\nなんとかならないものでしょうか？
 PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Persephone|そのことだけど、母は、地上の冬を終わらせてくれる\nそうよ。ただし母のことだから、毎年定められた期間\n限定でしょうね。それと、冥界に近い一帯は、今後も\n凍てついたままになるでしょう。「許しはしても、\n忘れはしない」。デメテルは、そういう女神だもの。
-PersephoneWithHades01|Persephone With Hades 01|Persephone|…ハデス、人間は強い生き物よ。あなたは彼らが、\nいっせいに冥界の門に押し寄せるとでも思っているの？\n第一、彼らにはオリュンポスの神々だって、\nついているわ。
-PersephoneWithHades01|Persephone With Hades 01|Hades|それこそが懸念の種だ。人間が死したのち、\nわれわれには、この冥界で彼らを庇護する\n務めがある。それと同様の加護を、\nわが弟を始めとするオリュンポスの連中が、\n生前の人間たちに垂れているとは思えぬ。
-PersephoneWithHades01|Persephone With Hades 01|Persephone|たしかに、私たちには人間たちを永久に護る務めが\nある。なのにオリュンポスの神々は、ほんの一時だけで\n済むわ。でも彼らだって、山頂からいつも人間を\n見守っているし、仮に少し目を離すことがあっても、\n人間は十分、自力で生きていく力を持っているのよ。
-PersephoneWithHades01|Persephone With Hades 01|Hades|だが人間どもは、決して満足せぬ！与えても与えても、さらに寄こせと乞うばかりだ。
-PersephoneWithHades01|Persephone With Hades 01|Persephone|それだけ、私たち神々を愛しているのよ。\n神々を称えて、絶えず神々の話題を口にする。\nあなたは、彼らが私たちのことなんて\n忘れてしまったほうがいいと思うの？
-PersephoneWithHades01|Persephone With Hades 01|Hades|…いや、そうは思わぬ。\nそもそも、彼らには、われわれが必要なのだ！
-PersephoneWithHades02|Persephone With Hades 02|Hades|エリュシオンから入っていた苦情の件は？\n運動競技大会のために、芝生を隅々まで刈り込めと…
-PersephoneWithHades02|Persephone With Hades 02|Persephone|それはもう、対応済みよ。ただ、アスポデロスの\n洪水は、一筋縄ではいかなそうね。住民たちも、\n今の状態に慣れてしまっているようだけれど。
-PersephoneWithHades02|Persephone With Hades 02|Hades|たしかに、最近は報告件数も減っている。\nサテュロスの獣害はどうなった？\nいまだに、手の着けられぬほどはびこっているが。
-PersephoneWithHades02|Persephone With Hades 02|Persephone|当面は、当該地域内に抑え込めて\nいるんじゃないかしら。それに、\nザグレウスも食い止めてくれているでしょう？
-PersephoneWithHades03|Persephone With Hades 03|Hades|…いずれにせよ、あまりしつこいようなら、\n私に報告するように。直ちに手を打つ。
-PersephoneWithHades03|Persephone With Hades 03|Persephone|ハデス、この館の亡霊たちに、これ以上厳しく\n当たることなんてないわ。私はかまいません。\nひとりでの暮らしが長かったせいかしら、今は\nこうして、いろいろな亡霊たちと接するのも楽しいの。
-PersephoneWithHades03|Persephone With Hades 03|Hades|本当に、今の生活に不満はないか？\n何か必要なものがあるのなら…
-PersephoneWithHades03|Persephone With Hades 03|Persephone|“必要なもの”？この館にも、私自身にも、\nこれ以上望むものなんて何もないわ。\nだからあなたも、そんなに心配しないで。\n私があなたに望むことといったら、息子をもう少し\n長い目で見てやってほしい、ただそれだけよ。
-PersephoneWithHades03|Persephone With Hades 03|Hades|…そのような約束は、しかねる…\nそういう性分なのだ。冥王神としての沽券にも関わる。\n冥王たるもの、亡者どもに恐れられてこそ。\nその点については、冥界の女王であるおまえも同様だ。
-PersephoneWithHades03|Persephone With Hades 03|Persephone|仕事と、家庭と、親としての責任… うまくバランスを\n取るのは、難しいわよね。人間も、オリュンポスの神々さえも、うまくこなす方法なんて知らないと思うわ。\nだから私たちも、できるかぎり、努力しましょう。
-PersephoneWithHades04|Persephone With Hades 04|Hades|…いまだに、信じられぬときがある。\nわが女王がこうして、冥界に戻ってくるとは。\nこの闇の中に、おまえは光輝いている…\n海辺の住まいが、さぞ恋しいだろう。
-PersephoneWithHades04|Persephone With Hades 04|Persephone|海辺の暮らしは気に入っていたけれど、どんなに\n力を尽くしたって、何事にも“完璧”なんてありえない。そうでしょう？それでも… ここにいるとときどき、\nその“完璧”に手が届きそうな気がするの。
-PersephoneWithHades04|Persephone With Hades 04|Hades|おまえが初めてこの地を訪れた時分と比べて、今回は\nずいぶんと早く冥界での暮らしになじんでいるようで、\nいささか驚いている。私も、みずから望んでこの地に\n根付いたわけではない。おのれの意志で、地上から\n冥界へ下るとは…
-PersephoneWithHades04|Persephone With Hades 04|Persephone|“心”って、ときどき、\n本当に不思議なことをするわよね。
-PersephoneWithNyx01|Persephone With Nyx 01|Persephone|…だから、必要なときはいつでも頼ってちょうだい。\n冥界の女王として、力になりたいの。
-PersephoneWithNyx01|Persephone With Nyx 01|Nyx|女王陛下のお働きは、かねてよりご立派でした。\nどうぞ、ご無理のないよう、冥界での暮らしに心身を\n慣らしてくださいますよう。疑問などあれば、\nいつでもお尋ねを。
-PersephoneWithNyx01|Persephone With Nyx 01|Persephone|ありがとう。\nこの館に戻ってこられて、本当によかったわ…
-PersephoneWithNyx02|Persephone With Nyx 02|Persephone|…あなたには、本当に感謝しているわ。\n息子を育ててくれたことはもちろん、\n他にも何から何まで… 冥界を去って、\n何よりも恋しかったのは、ケルベロスと、あなたよ。
-PersephoneWithNyx02|Persephone With Nyx 02|Nyx|私も、同様の感情を、時折覚えました。ですが、\n私に感謝の言葉を掛けてくださる必要はありません。\nあなたは、本来の居場所に無事帰還を果たした女王。\n私は、当然のことをしたまでです。
-PersephoneWithNyx02|Persephone With Nyx 02|Persephone|あなたは、私の秘密を誰にも明かさず、母親と離れた\n息子を育てて、その息子と母親を引き合わせるために\n壮大な計画まで実行したのよ？おかげで私は冥界に\n戻って、酒場でみんなとネクタルまで酌み交わせた。\nちっとも“当然のこと”なんかじゃないわ。
-PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|ケルベロス！この館が今もこうして栄えているのは、\nおまえのおかげね。地上から持ってきたお土産、\n食べてくれたかしら？
-PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|*地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。*
-PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|きっと気に入ってくれると思ったの。\nあれがお肉じゃないなんて、気づかなかったでしょう？\nここでも材料を育てられないか、試してみるわね。
-PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|ケルベロス、あなたは本当にお利口ね。\n私がいないあいだも冥界の番をして、ザグレウスが\n私を訪ねてこられるように、協力もしてくれて…！
-PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|*忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。*
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Persephone|…ハデス、人間は強い生き物よ。あなたは彼らが、\nいっせいに冥界の門に押し寄せるとでも思っているの？\n第一、彼らにはオリュンポスの神々だって、\nついているわ。
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Hades|それこそが懸念の種だ。人間が死したのち、\nわれわれには、この冥界で彼らを庇護する\n務めがある。それと同様の加護を、\nわが弟を始めとするオリュンポスの連中が、\n生前の人間たちに垂れているとは思えぬ。
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Persephone|たしかに、私たちには人間たちを永久に護る務めが\nある。なのにオリュンポスの神々は、ほんの一時だけで\n済むわ。でも彼らだって、山頂からいつも人間を\n見守っているし、仮に少し目を離すことがあっても、\n人間は十分、自力で生きていく力を持っているのよ。
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Hades|だが人間どもは、決して満足せぬ！与えても与えても、さらに寄こせと乞うばかりだ。
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Persephone|それだけ、私たち神々を愛しているのよ。\n神々を称えて、絶えず神々の話題を口にする。\nあなたは、彼らが私たちのことなんて\n忘れてしまったほうがいいと思うの？
+PersephoneWithHades01|Duo - Persephone and Hades (1)|Hades|…いや、そうは思わぬ。\nそもそも、彼らには、われわれが必要なのだ！
+PersephoneWithHades02|Duo - Persephone and Hades (2)|Hades|エリュシオンから入っていた苦情の件は？\n運動競技大会のために、芝生を隅々まで刈り込めと…
+PersephoneWithHades02|Duo - Persephone and Hades (2)|Persephone|それはもう、対応済みよ。ただ、アスポデロスの\n洪水は、一筋縄ではいかなそうね。住民たちも、\n今の状態に慣れてしまっているようだけれど。
+PersephoneWithHades02|Duo - Persephone and Hades (2)|Hades|たしかに、最近は報告件数も減っている。\nサテュロスの獣害はどうなった？\nいまだに、手の着けられぬほどはびこっているが。
+PersephoneWithHades02|Duo - Persephone and Hades (2)|Persephone|当面は、当該地域内に抑え込めて\nいるんじゃないかしら。それに、\nザグレウスも食い止めてくれているでしょう？
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Hades|…いずれにせよ、あまりしつこいようなら、\n私に報告するように。直ちに手を打つ。
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Persephone|ハデス、この館の亡霊たちに、これ以上厳しく\n当たることなんてないわ。私はかまいません。\nひとりでの暮らしが長かったせいかしら、今は\nこうして、いろいろな亡霊たちと接するのも楽しいの。
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Hades|本当に、今の生活に不満はないか？\n何か必要なものがあるのなら…
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Persephone|“必要なもの”？この館にも、私自身にも、\nこれ以上望むものなんて何もないわ。\nだからあなたも、そんなに心配しないで。\n私があなたに望むことといったら、息子をもう少し\n長い目で見てやってほしい、ただそれだけよ。
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Hades|…そのような約束は、しかねる…\nそういう性分なのだ。冥王神としての沽券にも関わる。\n冥王たるもの、亡者どもに恐れられてこそ。\nその点については、冥界の女王であるおまえも同様だ。
+PersephoneWithHades03|Duo - Persephone and Hades (3)|Persephone|仕事と、家庭と、親としての責任… うまくバランスを\n取るのは、難しいわよね。人間も、オリュンポスの神々さえも、うまくこなす方法なんて知らないと思うわ。\nだから私たちも、できるかぎり、努力しましょう。
+PersephoneWithHades04|Duo - Persephone and Hades (4)|Hades|…いまだに、信じられぬときがある。\nわが女王がこうして、冥界に戻ってくるとは。\nこの闇の中に、おまえは光輝いている…\n海辺の住まいが、さぞ恋しいだろう。
+PersephoneWithHades04|Duo - Persephone and Hades (4)|Persephone|海辺の暮らしは気に入っていたけれど、どんなに\n力を尽くしたって、何事にも“完璧”なんてありえない。そうでしょう？それでも… ここにいるとときどき、\nその“完璧”に手が届きそうな気がするの。
+PersephoneWithHades04|Duo - Persephone and Hades (4)|Hades|おまえが初めてこの地を訪れた時分と比べて、今回は\nずいぶんと早く冥界での暮らしになじんでいるようで、\nいささか驚いている。私も、みずから望んでこの地に\n根付いたわけではない。おのれの意志で、地上から\n冥界へ下るとは…
+PersephoneWithHades04|Duo - Persephone and Hades (4)|Persephone|“心”って、ときどき、\n本当に不思議なことをするわよね。
+PersephoneWithNyx01|Duo - Persephone and Nyx (1)|Persephone|…だから、必要なときはいつでも頼ってちょうだい。\n冥界の女王として、力になりたいの。
+PersephoneWithNyx01|Duo - Persephone and Nyx (1)|Nyx|女王陛下のお働きは、かねてよりご立派でした。\nどうぞ、ご無理のないよう、冥界での暮らしに心身を\n慣らしてくださいますよう。疑問などあれば、\nいつでもお尋ねを。
+PersephoneWithNyx01|Duo - Persephone and Nyx (1)|Persephone|ありがとう。\nこの館に戻ってこられて、本当によかったわ…
+PersephoneWithNyx02|Duo - Persephone and Nyx (2)|Persephone|…あなたには、本当に感謝しているわ。\n息子を育ててくれたことはもちろん、\n他にも何から何まで… 冥界を去って、\n何よりも恋しかったのは、ケルベロスと、あなたよ。
+PersephoneWithNyx02|Duo - Persephone and Nyx (2)|Nyx|私も、同様の感情を、時折覚えました。ですが、\n私に感謝の言葉を掛けてくださる必要はありません。\nあなたは、本来の居場所に無事帰還を果たした女王。\n私は、当然のことをしたまでです。
+PersephoneWithNyx02|Duo - Persephone and Nyx (2)|Persephone|あなたは、私の秘密を誰にも明かさず、母親と離れた\n息子を育てて、その息子と母親を引き合わせるために\n壮大な計画まで実行したのよ？おかげで私は冥界に\n戻って、酒場でみんなとネクタルまで酌み交わせた。\nちっとも“当然のこと”なんかじゃないわ。
+PersephoneWithCerberus01|Duo - Persephone and Cerberus (1)|Persephone|ケルベロス！この館が今もこうして栄えているのは、\nおまえのおかげね。地上から持ってきたお土産、\n食べてくれたかしら？
+PersephoneWithCerberus01|Duo - Persephone and Cerberus (1)|Storyteller|*地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。*
+PersephoneWithCerberus01|Duo - Persephone and Cerberus (1)|Persephone|きっと気に入ってくれると思ったの。\nあれがお肉じゃないなんて、気づかなかったでしょう？\nここでも材料を育てられないか、試してみるわね。
+PersephoneWithCerberus02|Duo - Persephone and Cerberus (2)|Persephone|ケルベロス、あなたは本当にお利口ね。\n私がいないあいだも冥界の番をして、ザグレウスが\n私を訪ねてこられるように、協力もしてくれて…！
+PersephoneWithCerberus02|Duo - Persephone and Cerberus (2)|Storyteller|*忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。*
 PersephoneChat01|Persephone Chat 01|Persephone|ザグレウス、ごめんなさい。今は急ぎの用事があるの。
 PersephoneChat02|Persephone Chat 02|Persephone|私にできることがあれば、いつでも頼ってちょうだい。
 PersephoneChat03|Persephone Chat 03|Persephone|あなたの父上は、\nあれでもあなたを誇りに思っているのよ。
@@ -7303,18 +7303,18 @@ PersephoneReturnedChat04|Persephone Returned Chat 04|Persephone|オリュンポ�
 PersephoneReturnedChat05|Persephone Returned Chat 05|Persephone|私が留守のあいだも、父上とは仲よくやっていた？
 PersephoneReturnedChat06|Persephone Returned Chat 06|Persephone|オリュンポスの山頂は、ものすごく寒いのよ。
 PersephoneReturnedChat07|Persephone Returned Chat 07|Persephone|雪に覆われた山頂よりも、\nここのほうがずっと落ち着くわ。
-PersephoneChatWithNyx01|Persephone Chat With Nyx 01|Persephone|ニュクスとふたりで、\n“闇の計略”を練っていたところよ。
-PersephoneChatWithNyx02|Persephone Chat With Nyx 02|Persephone|親として子にどう向き合うべきか… ニュクスはいつも、ためになる助言をくれるの。
-PersephoneChatWithNyx03|Persephone Chat With Nyx 03|Persephone|ニュクスから、あなたが小さかった頃の話を\n聞いていたところよ。
-PersephoneChatWithNyx04|Persephone Chat With Nyx 04|Persephone|ニュクスにも、たまには自分の時間を楽しんで\nほしくて… でも、いくら言っても聞いてくれないの。
-PersephoneChatWithHades01|Persephone Chat With Hades 01|Persephone|ごめんなさい、今は父上と、大事な用事があるの。
-PersephoneChatWithHades02|Persephone Chat With Hades 02|Persephone|さあハデス、たまには息子に、\n優しい言葉をかけてあげて。
-PersephoneChatWithHades03|Persephone Chat With Hades 03|Persephone|父上と、やり残した仕事を片づけているところよ。
-PersephoneChatWithHades04|Persephone Chat With Hades 04|Persephone|仕事って、片づけても片づけてもきりがないわ！
-PersephoneChatWithHades05|Persephone Chat With Hades 05|Persephone|事務作業が多すぎて、人手が足りないわ…
-PersephoneChatWithHades06|Persephone Chat With Hades 06|Persephone|片づけないといけない事務作業が、\n山ほどたまっているの。
-PersephoneChatWithHades07|Persephone Chat With Hades 07|Persephone|ふたりとも、対決するときは、ほどほどにね。
-PersephoneChatWithHades08|Persephone Chat With Hades 08|Persephone|ザグレウス。ここ最近、\nずいぶんがんばっているそうね。
+PersephoneChatWithNyx01|Duo - Chat and Nyx (1)|Persephone|ニュクスとふたりで、\n“闇の計略”を練っていたところよ。
+PersephoneChatWithNyx02|Duo - Chat and Nyx (2)|Persephone|親として子にどう向き合うべきか… ニュクスはいつも、ためになる助言をくれるの。
+PersephoneChatWithNyx03|Duo - Chat and Nyx (3)|Persephone|ニュクスから、あなたが小さかった頃の話を\n聞いていたところよ。
+PersephoneChatWithNyx04|Duo - Chat and Nyx (4)|Persephone|ニュクスにも、たまには自分の時間を楽しんで\nほしくて… でも、いくら言っても聞いてくれないの。
+PersephoneChatWithHades01|Duo - Chat and Hades (1)|Persephone|ごめんなさい、今は父上と、大事な用事があるの。
+PersephoneChatWithHades02|Duo - Chat and Hades (2)|Persephone|さあハデス、たまには息子に、\n優しい言葉をかけてあげて。
+PersephoneChatWithHades03|Duo - Chat and Hades (3)|Persephone|父上と、やり残した仕事を片づけているところよ。
+PersephoneChatWithHades04|Duo - Chat and Hades (4)|Persephone|仕事って、片づけても片づけてもきりがないわ！
+PersephoneChatWithHades05|Duo - Chat and Hades (5)|Persephone|事務作業が多すぎて、人手が足りないわ…
+PersephoneChatWithHades06|Duo - Chat and Hades (6)|Persephone|片づけないといけない事務作業が、\n山ほどたまっているの。
+PersephoneChatWithHades07|Duo - Chat and Hades (7)|Persephone|ふたりとも、対決するときは、ほどほどにね。
+PersephoneChatWithHades08|Duo - Chat and Hades (8)|Persephone|ザグレウス。ここ最近、\nずいぶんがんばっているそうね。
 PersephoneGift01|Persephone Gift 01|Zagreus|母上… この館では、大切な相手にこっそりネクタルを\n贈る習慣があるんですが… 昔、母上がいた頃も、\nそうでしたか？ひょっとしたら、オリュンポスにも同じ\n習慣があるかもしれませんが… 受け取ってください。\n母上を見つけられて、本当によかった。
 PersephoneGift01|Persephone Gift 01|Persephone|ザグレウス、あなたは本当にやさしい子ね。\nあなたの父上は、ネクタルを公然と館に\n持ち込むことを許さなかったから、\nどんな味だったか、すっかり忘れてしまったわ。\n私も、あなたにあげたい物があるの。
 PersephoneGift02|Persephone Gift 02|Persephone|これを、私に…？地上からオリュンポス山に運ばれて、ついには冥界にまで流れ着いた1本ね…\nそんな長い道のりを旅してきたなんて、\nなんだか親しみを感じてしまうわ。

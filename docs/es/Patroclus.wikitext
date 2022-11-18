@@ -181,7 +181,7 @@
 |"A uno de nombre Aquiles. Fue muy famoso entre los vivos, pero entre los muertos, vete a saber. Creía que lo encontraría aquí, pero no está."
 |-
 |'''Zagreus'''
-|"Aquiles… Me suena ese nombre. Y… ''emmm'', ¿puedo preguntarte por qué deseas saber de él? En caso de que aparezca."
+|"Aquiles… Me suena ese nombre. Y… *emmm*, ¿puedo preguntarte por qué deseas saber de él? En caso de que aparezca."
 |-
 |'''Patroclus'''
 |"Porque… lo echo de menos, foráneo. Nada más."
@@ -209,7 +209,7 @@
 |"Patroclo, sé quién eres. Y conoces a Aquiles, que sirve en nuestra casa. Me entrenó. Te manda recuerdos. Me ha pedido que te diga que no deja de pensar en ti."
 |-
 |'''Patroclus'''
-|"Ah… Entonces lo has visto, ¿no? En la morada de tu padre. ¿Y quieres que me crea que ha dicho todo eso? ''Bah''. Perdona que me muestre escéptico. En vida, yo dejé a Aquiles. Y en la muerte, él me dejó a mí. Estamos en paz. Entre nosotros está todo dicho."
+|"Ah… Entonces lo has visto, ¿no? En la morada de tu padre. ¿Y quieres que me crea que ha dicho todo eso? *Bah*. Perdona que me muestre escéptico. En vida, yo dejé a Aquiles. Y en la muerte, él me dejó a mí. Estamos en paz. Entre nosotros está todo dicho."
 |-
 ! colspan="2" |Patroclus About Achilles 02
 |-
@@ -250,13 +250,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"Sigue siendo tan cabezota como siempre, ¿verdad?. Nunca daba su brazo a torcer. ¿Te ha hablado de la guerra en la que combatimos? O en la que combatí ''yo'', debería decir. Él podría haberle puesto fin, pero se negó a coger sus armas."
+|"Sigue siendo tan cabezota como siempre, ¿verdad?. Nunca daba su brazo a torcer. ¿Te ha hablado de la guerra en la que combatimos? O en la que combatí *yo*, debería decir. Él podría haberle puesto fin, pero se negó a coger sus armas."
 |-
 |'''Zagreus'''
 |"Aquiles no es muy dado a hablar de sus días mortales, no. ¿No quiso luchar? He oído que los mortales suelen considerarlo una deshonra, pero... ¿por qué debería haber combatido si no creía en la causa?"
 |-
 |'''Patroclus'''
-|"¡Sí que ''creía ''en ella! ¿Qué importa que no fuese la suya? Si no hubiera sido por su obstinación, yo... creo que habría llegado aquí más tarde."
+|"¡Sí que *creía *en ella! ¿Qué importa que no fuese la suya? Si no hubiera sido por su obstinación, yo... creo que habría llegado aquí más tarde."
 |-
 |'''Zagreus'''
 |"Se culpa a sí mismo de lo que te ocurrió, ¿sabes? Creía que era porque no te protegió bien, no porque... ni siquiera llegase a luchar. Aunque sí que dijo algo de que, después de tu muerte, se lanzó al combate ciego de ira..."
@@ -279,7 +279,7 @@
 |"Deberías saber que os enterraron juntos. Es decir, que mezclaron vuestras cenizas. Esa fue su última petición. En cuanto a cómo acabó en la morada de mi padre, será mejor que te lo explique él. Yo haré todo lo que esté en mi mano para que tengáis la oportunidad de hablarlo."
 |-
 |'''Patroclus'''
-|"¿Dices que mezclaron nuestras cenizas? ''Tss''. Qué idiota. Podríamos haber vivido nuestras vidas juntos en lugar de convertirnos en pasto de los gusanos. Pero aprecio la información, foráneo. Ahora, márchate."
+|"¿Dices que mezclaron nuestras cenizas? *Tss*. Qué idiota. Podríamos haber vivido nuestras vidas juntos en lugar de convertirnos en pasto de los gusanos. Pero aprecio la información, foráneo. Ahora, márchate."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -290,7 +290,7 @@
 |"No tienes que pedir perdón. Aquiles es uno de mis mejores amigos, pero no le gusta hablar de sí mismo, de esa época. Debe ser muy doloroso para los dos."
 |-
 |'''Patroclus'''
-|"Hemos tenido dolor de sobra los dos, pero saber que seguía queriéndome incluso al final... ''después ''del final... lo alivia un poco. Igual que estas conversaciones, supongo."
+|"Hemos tenido dolor de sobra los dos, pero saber que seguía queriéndome incluso al final... *después *del final... lo alivia un poco. Igual que estas conversaciones, supongo."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -304,12 +304,12 @@
 |"Si conozco a Aquiles, estará siendo discreto sobre las penurias que estamos pasando. ¿Cómo puede ser alguien tan aguerrido y, al mismo tiempo, odiar tanto asumir riesgos innecesarios? Dile de mi parte que lo arriesgue todo."
 |-
 |'''Zagreus'''
-|"¿Que lo "arriesgue todo"? ¿Que arriesgue ''qué''? Quiere lo mejor para ti. No querría que te pasase nada."
+|"¿Que lo "arriesgue todo"? ¿Que arriesgue *qué*? Quiere lo mejor para ti. No querría que te pasase nada."
 |-
 |'''Patroclus'''
 |"Hace mucho tiempo que pasó. Me atrevería a decir que, ahora mismo, y siempre que lo que estés diciendo sea cierto, parece que tengo más por ganar que por perder. ¿Acaso el miedo no es para los débiles?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"Imaginé que acabaríamos encontrándonos contigo, pero... es extraño verte aquí cara a cara, chaval. Y ver este sitio en persona. Sigo sin poder creérmelo..."
@@ -323,7 +323,7 @@
 |'''Patroclus'''
 |"No hace falta ponerse tiernos, ¿eh? Los mirmidones no somos gente sentimental. Aquiles se está tomando un descanso de un trabajo muy exigente. Eso es todo. ¡Tú también eres muy exigente! Aquí tienes el regalo de costumbre."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"Si Aquiles no está de servicio, ven a visitarnos. No sé cómo pagarte tu ayuda, foráneo. Casi estoy seguro de que es imposible hacerlo."
@@ -337,7 +337,7 @@
 |'''Patroclus'''
 |"Eso planeaba hacer en cualquier caso... pero si se te ocurre alguna otra compensación en cualquier momento, coméntanoslo a cualquiera de los dos."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Bien, al fin te veo, foráneo. ¿Puedes ayudarnos a resolver una duda? ¿A que Aquiles sería el Campeón del Elíseo perfecto? La verdad es que, en mi opinión, casi cualquiera sería mejor que el actual."
@@ -425,7 +425,7 @@
 |"Siempre me he preguntado... ¿Cómo era Aquiles? Cuando era joven, me refiero. Si no te importa hablar de ello."
 |-
 |'''Patroclus'''
-|"''Ja''. ¿Qué palabras usar para describir cómo era alguien? Todos los que lo contemplaron en el campo de batalla concordaban en que era magnífico, foráneo, aliados y enemigos por igual. Pero era más que eso. Tenía una cierta actitud, un sentido de la justicia. Lo conocí antes de que fuera soldado, supongo que por eso lo quería."
+|"*Ja*. ¿Qué palabras usar para describir cómo era alguien? Todos los que lo contemplaron en el campo de batalla concordaban en que era magnífico, foráneo, aliados y enemigos por igual. Pero era más que eso. Tenía una cierta actitud, un sentido de la justicia. Lo conocí antes de que fuera soldado, supongo que por eso lo quería."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -919,7 +919,7 @@
 |"Oye, resulta evidente que sufres. Puede que no sea el modo de ayudarte a superarlo, pero… quiero darte esto."
 |-
 |'''Patroclus'''
-|"''Ah'', conque te doy pena, ¿eh? No tengo orgullo, como muchos otros, de modo que lo acepto. Sin embargo, hagamos un trueque justo, ¿de acuerdo?"
+|"*Ah*, conque te doy pena, ¿eh? No tengo orgullo, como muchos otros, de modo que lo acepto. Sin embargo, hagamos un trueque justo, ¿de acuerdo?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -932,7 +932,7 @@
 ! colspan="2" |Patroclus Gift 03
 |-
 |'''Patroclus'''
-|"''Ah'', un modo de ahogar las penas un rato. Me gusta. Y debo decir que muy amable de tu parte."
+|"*Ah*, un modo de ahogar las penas un rato. Me gusta. Y debo decir que muy amable de tu parte."
 |-
 |'''Zagreus'''
 |"No es nada. Gracias por no intentar dejarme tieso en el sitio y alardear de ello, como todos los de por aquí."
@@ -981,7 +981,7 @@
 |"No veo la última botella de ambrosía por ninguna parte, así que interpreto que... necesitas otra. Toma, gracias por ayudarme a pasar todo esto una y otra vez."
 |-
 |'''Patroclus'''
-|"¿Me lo agradeces a ''mí'', foráneo? Llevo ya un tiempo por aquí y, aun así, admito que algunas de vuestras costumbres me siguen resultando extrañas. Has hecho más por mí de lo que creo merecer de nadie."
+|"¿Me lo agradeces a *mí*, foráneo? Llevo ya un tiempo por aquí y, aun así, admito que algunas de vuestras costumbres me siguen resultando extrañas. Has hecho más por mí de lo que creo merecer de nadie."
 |-
 |'''Zagreus'''
 |"Es solo una botella de ambrosía, nada del otro mundo. Bueno, lo admito: es difícil de conseguir, ¡pero no importa!"

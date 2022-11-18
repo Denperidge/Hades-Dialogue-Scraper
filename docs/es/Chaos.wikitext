@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"Puedo sentir que aún no has hablado con el artefacto omnisciente que denominas Égida. Manipula el plan de las moiras todo lo que quieras, pues, pero si cambias de opinión en algún momento, dile ''Te veo plantar cara ante las llamas de la sierpe''."
+|"Puedo sentir que aún no has hablado con el artefacto omnisciente que denominas Égida. Manipula el plan de las moiras todo lo que quieras, pues, pero si cambias de opinión en algún momento, dile *Te veo plantar cara ante las llamas de la sierpe*."
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"¿Aún no has usado la frase que te dije para despertar a Égida? ¿O acaso has decidido no enseñarme el resultado? Me gustaría de verdad verlo en algún momento. Recuerda, hijo de Hades, dile al artefacto que todo lo ve ''Te veo plantar cara ante las llamas de la sierpe''."
+|"¿Aún no has usado la frase que te dije para despertar a Égida? ¿O acaso has decidido no enseñarme el resultado? Me gustaría de verdad verlo en algún momento. Recuerda, hijo de Hades, dile al artefacto que todo lo ve *Te veo plantar cara ante las llamas de la sierpe*."
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"Tengo la sensación de que hay algo que te inquieta, hijo de Hades. Habla, pues. ¿Qué te preocupa? Puedo deducirlo en parte sin que hables, pero preferiría que me lo contaras de forma voluntaria."
 |-
 |'''Zagreus'''
-|"''Um'', ¿Caos? Parece que la diosa Nicte… desea volver a hablar contigo. Me pregunto si tal vez podrías contactar con ella en algún momento. Parece convencida de que te corresponde a ti dar ese paso."
+|"*Um*, ¿Caos? Parece que la diosa Nicte… desea volver a hablar contigo. Me pregunto si tal vez podrías contactar con ella en algún momento. Parece convencida de que te corresponde a ti dar ese paso."
 |-
 |'''Chaos'''
 |"¿La diosa Nicte quiere saber de mí? Resulta de lo más sorprendente, hijo de Hades, y me pregunto si no es alguna burla tuya. Pero veo que tus intenciones son claramente sinceras. No puedo prometerte nada, salvo que… lo pensaré."
@@ -249,7 +249,7 @@
 |"Siento tu consternación, hijo de Hades, mientras contemplas este espacio; tienes otra pregunta, y eres libre de hacerla."
 |-
 |'''Zagreus'''
-|"Es solo que... A veces me pregunto, Caos... Si creaste todo esto, entonces, ¿quién te creó a ''ti''? ¿Qué era esto antes de que tú llegases?"
+|"Es solo que... A veces me pregunto, Caos... Si creaste todo esto, entonces, ¿quién te creó a *ti*? ¿Qué era esto antes de que tú llegases?"
 |-
 |'''Chaos'''
 |"Todo simplemente empezó a existir, y yo también, presumiblemente después de que otro ciclo hubiera tocado a su fin. Dudo en afirmar que fuera un acto de voluntad. Fue simplemente un cambio repentino, como cuando una chispa da lugar a un incendio. Llegué en un momento así, y todo lo demás llegó conmigo."
@@ -377,7 +377,7 @@
 |"Esperaba tu llegada, hijo de Hades. Puedo ver con tus ojos, o más bien con el artefacto que todo lo ve, surgido de mí en el alba de los tiempos y que ahora asume en tus manos su forma más conocida. Responde."
 |-
 |'''Zagreus'''
-|"¿Te refieres al escudo del Caos? ''Tu ''escudo, Caos, hablando con propiedad. Una reliquia excepcional. ¡E imponente! Seguro que tus creaciones originales eran asombrosas."
+|"¿Te refieres al escudo del Caos? *Tu *escudo, Caos, hablando con propiedad. Una reliquia excepcional. ¡E imponente! Seguro que tus creaciones originales eran asombrosas."
 |-
 |'''Chaos'''
 |"Tu respuesta es aceptable, y me complace haber tenido mis primeras visiones de primera mano de este vasto dominio."
@@ -390,10 +390,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Te traigo un mensaje, hijo de Hades. Uno registrado en una era en la que algunos de los conceptos que describe aún no existían. Recuerda esto: ''Te veo plantar cara ante las llamas de la sierpe''. Una frase ante la cual tanto tú como aquel artefacto que todo lo ve creado por mí despertaréis."
+|"Te traigo un mensaje, hijo de Hades. Uno registrado en una era en la que algunos de los conceptos que describe aún no existían. Recuerda esto: *Te veo plantar cara ante las llamas de la sierpe*. Una frase ante la cual tanto tú como aquel artefacto que todo lo ve creado por mí despertaréis."
 |-
 |'''Zagreus'''
-|"Una frase para despertar... y un artefacto que todo lo ve. Te refieres a Égida, ¿verdad? Así que si le digo ''Te veo plantar cara ante las llamas de la sierpe'', despertará de inmediato. Pero ¿puedes decirme qué significa, o no?"
+|"Una frase para despertar... y un artefacto que todo lo ve. Te refieres a Égida, ¿verdad? Así que si le digo *Te veo plantar cara ante las llamas de la sierpe*, despertará de inmediato. Pero ¿puedes decirme qué significa, o no?"
 |-
 |'''Chaos'''
 |"Puedo decirte casi cualquier cosa, pero prefiero que la mayoría de las respuestas las busques por ti mismo."
@@ -401,13 +401,13 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"No es de alguien que reconozca, así que... ¡En el nombre de Hades! ''Uhm'', ¿hola? ¿Puedo saber quién llama?"
+|"No es de alguien que reconozca, así que... ¡En el nombre de Hades! *Uhm*, ¿hola? ¿Puedo saber quién llama?"
 |-
 |'''Chaos'''
 |"Los dioses del Olimpo se han ablandado… ¿No lo crees?"
 |-
 |'''Zagreus'''
-|"''Emm''… ¿Nos conocemos?"
+|"*Emm*… ¿Nos conocemos?"
 |-
 |'''Chaos'''
 |"Oh, sí que nos conocemos... por así decirlo. Conozco a todo el mundo, aquí y allá. ¿Deseas salir de este lugar? Entonces quiero que el reto te resulte un poco más interesante… Y si algún día conoces a los dioses del Olimpo, dales recuerdos de mi parte."
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"Eres bienvenido en todo momento."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"Aprecio tu presencia, hijo de Hades, pero déjanos por el momento."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Perdónanos, hijo de Hades, pues estamos intercambiando recuerdos."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Hijo de Hades, me complace que la diosa Nicte haya vuelto conmigo."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Perdóname, hijo de Hades, pero debo continuar mi charla con la diosa Nicte."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"Llevaba mucho tiempo sin ver a la diosa Nicte."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"No estoy acostumbrado a tener tanta compañía como la que he tenido últimamente."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"Mi hija estaba justo ahora contándome los últimos acontecimientos sucedidos en vuestra morada."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"Como podrás ver, la diosa Nicte y yo estamos en mitad de una conversación."

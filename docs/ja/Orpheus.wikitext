@@ -425,7 +425,7 @@
 |'''Orpheus'''
 |"そう言われても、僕はこの館付きの宮廷楽士だ。\n僕の歌を耳にする観客の数は、限られている。\nとはいえ… この館の亡霊たちが僕の観客であることに\n変わりはない。せめて彼らには、曲の作者が誰なのか、\n正しく伝えるようにしよう。"
 |-
-! colspan="2" |Orpheus Progress With Eurydice 01
+! colspan="2" |Duo - Progress and Eurydice (1)
 |-
 |'''Orpheus'''
 |"白状するよ… 僕はいまだに、エウリュディケを\n想っている。気づくと、彼女との想い出に浸っている。\n僕はここで、彼女のいない日々を送ると決めたのに…\nまるでダメだ。それでも僕は、死んでいる。\nだから、ここにとどまる以外に行き場はない…"
@@ -436,7 +436,7 @@
 |'''Orpheus'''
 |"考え… ひらめき… 彼女がそばにいれば、僕にも絶えず湧いたものさ…"
 |-
-! colspan="2" |Orpheus Progress With Eurydice 02
+! colspan="2" |Duo - Progress and Eurydice (2)
 |-
 |'''Zagreus'''
 |"オルフェウス、新曲を持ってきたぞ。作曲したのは、\nおまえを大切に思っている、ある人物だ。"
@@ -575,7 +575,7 @@
 |'''Zagreus'''
 |"おまえが背中を押してくれたおかげだ。ほめてもらえてうれしいよ。"
 |-
-! colspan="2" |Orpheus With Hades 01
+! colspan="2" |Duo - Orpheus and Hades (1)
 |-
 |'''Orpheus'''
 |"…冥王陛下。しがない宮廷楽士、\nもとい、このオルフェウスに、\nいかなるご用でございましょうか。"
@@ -589,7 +589,7 @@
 |'''Hades'''
 |"ならば、おまえがその気になるまで待つまでだ。時ならいくらでもある。"
 |-
-! colspan="2" |Orpheus With Hades 02
+! colspan="2" |Duo - Orpheus and Hades (2)
 |-
 |'''Hades'''
 |"オルフェウスよ… なんの役にも立たぬ宮廷楽士の\n抜け殻を、なぜ、わが館に住まわせねばならぬ？\nおまえは口は達者だが、本分の歌となると、\n途端に口をつぐむ。"
@@ -600,7 +600,7 @@
 |'''Hades'''
 |"不遜な物言いを… かつての私なら容認したが、\n我慢の限界だ。あと100年だけ待ってやる。\nそれまでに再び歌わねば、そのときは覚悟しておけ。"
 |-
-! colspan="2" |Orpheus With Hades 03
+! colspan="2" |Duo - Orpheus and Hades (3)
 |-
 |'''Hades'''
 |"オルフェウス、ようやく正気に戻ったようだな。\n宮廷楽士の分際で歌うことを拒むなど、言語道断。\n今後は二度と、主の命に背くような真似はせぬことだ。\nよいな？"
@@ -611,7 +611,7 @@
 |'''Hades'''
 |"“歌女神”だと？まだそのようなたわけたことを\n抜かすか。エウリュディケとともに暮らす機会を\nみずからふいにし、おまえはこの館の使用人と\nなったのだ。取り決めには従ってもらう。"
 |-
-! colspan="2" |Orpheus With Hades 04
+! colspan="2" |Duo - Orpheus and Hades (4)
 |-
 |'''Orpheus'''
 |"…陛下、館で奉仕する時間をなにかと融通して\nいただきありがたき幸せに存じます。この館を出て\n休暇を過ごすなど恐れ多く、再びタルタロスの\n深淵にて長期幽閉の罰を受けるのではと、\n当初は不安をぬぐい去れずにおりましたが…"
@@ -622,7 +622,7 @@
 |'''Orpheus'''
 |"陛下の寛大なご対応に、エウリュディケも私も、心より感謝しております。"
 |-
-! colspan="2" |Orpheus With Achilles 01
+! colspan="2" |Duo - Orpheus and Achilles (1)
 |-
 |'''Orpheus'''
 |"…アキレウス様は謙虚すぎます。あなたほど\n多くの偉業を成し、幾人もの敵の首を取った者は、\nこの世界広しといえども、そうはおりません。\nザグレウスのように、誇らしげに喧伝して\nしかるべきです。"
@@ -630,7 +630,7 @@
 |'''Achilles'''
 |"私も生前は、大いに自慢して回ったものだ。こうして\n冥界送りになったのも、そのツケが回った結果。\n第一、私はザグレウスほど想像力が豊かではない。\n聞いて楽しいホラ話など、思いつきもしない。"
 |-
-! colspan="2" |Orpheus With Achilles 02
+! colspan="2" |Duo - Orpheus and Achilles (2)
 |-
 |'''Orpheus'''
 |"アキレウス様は、恋しくはなりませんか？\n肺いっぱいに新鮮な空気を吸い、\n一日数回、食事を必要とした日々が…"
@@ -641,7 +641,7 @@
 |'''Orpheus'''
 |"いえ、むしろ、今は満ち足りています。\n死後もこうして仕事を与えられていることは、\n幸福以外の何ものでもない。働ける身でありながら、\n永遠に休みつづけるなど、私はとても耐えられません。"
 |-
-! colspan="2" |Orpheus With Persephone 01
+! colspan="2" |Duo - Orpheus and Persephone (1)
 |-
 |'''Persephone'''
 |"…それにしても、かの有名なオルフェウスが\nこの館付きの楽士を務めてくれるなんて…！音楽に\n関しては、ハデスと私は好みが共通しているのです。\nこれからも、どうぞよろしくお願いしますね。"
@@ -1052,7 +1052,7 @@
 |'''Orpheus'''
 |"ありがとう。僕に、これをたしなむ趣味があれば\nよかったんだけどね…"
 |-
-! colspan="2" |Orpheus With Eurydice 01
+! colspan="2" |Duo - Orpheus and Eurydice (1)
 |-
 |'''Orpheus'''
 |"ザグレウス、訪ねてきてくれたんだね。\n今、エウリュディケとふたりで、離れて暮らしていた\n間に起きたことを報告しあっていたんだ。"
@@ -1060,7 +1060,7 @@
 |'''Eurydice'''
 |"そういうこと。まだまだ積もる話の途中だから、\nふたりきりにしてもらえるとありがたいね。\nでも、その前に…"
 |-
-! colspan="2" |Orpheus With Eurydice 02
+! colspan="2" |Duo - Orpheus and Eurydice (2)
 |-
 |'''Zagreus'''
 |"こんな名演、初めてだ… 独唱でも聴き惚れるのに、\nふたりの歌声が合わさると、すばらしい音色になる…"
@@ -1074,7 +1074,7 @@
 |'''Orpheus'''
 |"たしかにそのとおりだ。ザグレウス、\nそういうわけだから、僕たちは創作作業に戻るよ。"
 |-
-! colspan="2" |Orpheus With Eurydice 03
+! colspan="2" |Duo - Orpheus and Eurydice (3)
 |-
 |'''Zagreus'''
 |"ふたりとも、元気そうだな。またふたりで仲よく\n歌ってるか？"
@@ -1085,7 +1085,7 @@
 |'''Eurydice'''
 |"オルフィーはいまだに、こうやって済んだことを\nグジグジ言うけど、これでもだいぶマシに\nなったんだよ。このひと説得するのは、\n骨が折れただろ？苦労かけたね。"
 |-
-! colspan="2" |Orpheus With Eurydice End Theme 01
+! colspan="2" |Duo - Orpheus and Eurydice End Theme (1)
 |-
 |'''Zagreus'''
 |"オルフェウス！「その血に流る」を歌う気に\nなってくれたのか！リクエストに応えてくれて、\nありがとうな。"
@@ -1093,57 +1093,57 @@
 |'''Orpheus'''
 |"どういたしまして。エウリュディケとふたりで\n書いたこの曲、僕にも、思い入れがないわけじゃない。\n懐かしい想い出が、いろいろと蘇ってきたよ。"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 10
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (10)
 |-
 |'''Orpheus'''
 |"…エウリュディケ、君の歌声の美しさは、今なお進化を続けているよ！"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 11
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (11)
 |-
 |'''Orpheus'''
 |"どうだい？彼女はすばらしいだろう？"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 12
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (12)
 |-
 |'''Orpheus'''
 |"歌っても歌っても、歌い疲れることはないのさ！"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 13
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (13)
 |-
 |'''Orpheus'''
 |"もう二度と、彼女に会えないと思っていた。\n何もかも君のおかげだ。"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 14
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (14)
 |-
 |'''Orpheus'''
 |"こうしてふたりで歌っていると、\n時の経つのも忘れてしまうよ。"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 15
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (15)
 |-
 |'''Orpheus'''
 |"エウリュディケの歌声ほどすばらしいものを、君は耳にしたことがあるかい？"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 16
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (16)
 |-
 |'''Orpheus'''
 |"エウリュディケの歌声ほど美しいものが、\nこの世界に存在するだろうか？"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 17
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (17)
 |-
 |'''Orpheus'''
 |"僕たちを訪ねてきてくれて、とてもうれしいよ。"
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 05
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (5)
 |-
 |'''Orpheus'''
 |"あんた、この曲好きだろ？"
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 06
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (6)
 |-
 |'''Orpheus'''
 |"この曲を歌うと、エウリュディケとともに\n生者として暮らしていた頃を思い出すよ…"
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 07
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (7)
 |-
 |'''Orpheus'''
 |"これはその昔、なかなか評判がよかった曲でね。"

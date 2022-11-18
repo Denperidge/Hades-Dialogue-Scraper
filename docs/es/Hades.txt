@@ -331,11 +331,11 @@ Hades: Puede que Coronacto, el Arco Clavacorazones, te haya ayudado a llegar tan
 Hades: El Arco Clavacorazones que blandes... no es nada más que un arma de cobardes, muchacho.
 
 
---- Lord Hades Misc Start With Spear 01 ---
+--- Duo - Start and Spear (1) ---
 Hades: Así que Varatea y Gigaros vuelven a chocar en este campo de batalla vacío. Ven a por mí, pues.
 
 
---- Lord Hades Misc Start With Spear 02 ---
+--- Duo - Start and Spear (2) ---
 Hades: Sabía que algún día la Lanza Eterna se volvería en mi contra. Veamos cómo la manejas, muchacho.
 
 
@@ -1539,39 +1539,39 @@ Zagreus: ¡Pues hazlo! No quiero esto. ¡Yo no soy el que se llevó la peor part
 Hades: ¿Por qué estas atrapado? No lo estás. ¡Estás *despedido*! Hice mal en pensar que estabas listo para afrontar responsabilidad alguna. Y no te atrevas a invocar los nombres de tus tíos aquí otra vez. O te mandaré a las fosas más profundas del Tártaro. Ahora, ¡largo de mi administración, y de mi vista!
 
 
---- Achilles With Hades 01 ---
+--- Duo - Achilles and Hades (1) ---
 Achilles: Me pediste que lo entrenara, patrono. Que lo preparase para las vicisitudes de la vida. ¡Tú me lo ordenaste! ¿Y ahora me reprendes?
 Hades: Cuida tu lengua y tu temperamento, sombra. Eres mi empleado. Podría enviarte de vuelta a los Campos Elíseos. O a los planos inferiores, si lo prefieres.
 Achilles: Entonces... ¿qué deseas que haga?
 Hades: Debo meditarlo con calma. Hasta entonces, custodia esa estancia. Y ándate con mucho ojo.
 
 
---- Achilles With Hades About Myrmidon Reunion Quest 01 ---
+--- Duo - Achilles and Hades About Myrmidon Reunion Quest (1) ---
 Hades: Entiendo que las condiciones de tu contrato han sido alteradas en mi nombre, sombra. Da gracias por carecer de la importancia suficiente para que tales cambios requieran mi aprobación. Pero sigues trabajando para mí, ¿no es así?
 Achilles: Hasta donde yo sé, así es, patrono. He jurado servir eternamente a esta morada, solo que... parece que ahora tengo libertad para visitar el Elíseo de cuando en cuando. Mientras no esté de servicio, claro está.
 Hades: Los pactos de hoy en día son de lo más laxos. Ahora no estás de servicio, ¿verdad? Pues corre, aprovecha tus nuevos privilegios.
 
 
---- Nyx With Hades 01 ---
+--- Duo - Nyx and Hades (1) ---
 Hades: No lo ayudes en estos asuntos, Nicte. Debemos despreciar y reprender sus estupideces en lugar de consentirlas. ¿Estamos de acuerdo?
 Nyx: Lo estamos, Hades, sí. Es tu propio hijo, al fin y al cabo, y por tanto es tu responsabilidad. Por mi parte, estoy comprometida con este reino y esta morada. Y sigo, como siempre, en deuda contigo.
 Hades: No hace falta que me lo recuerdes. Todos aquellos que nos desafiaron a mis hermanos y a mí preferirían un lugar en mi morada, antes que pasar la eternidad en las entrañas del Tártaro. Aunque no creo que la oscuridad te suponga un problema.
 
 
---- Nyx With Hades 02 ---
+--- Duo - Nyx and Hades (2) ---
 Hades: Salta a la vista que le estás ayudando pese a insistirte en todo lo contrario. ¿Qué esperas que haga al respecto, Nicte? ¿Qué harías en mi pellejo? Engañado, en mi propia casa… Respóndeme.
 Nyx: Hades, mi relación con él no ha cambiado. Es la misma que cuando me pediste por primera vez que cuidase de él. Cuenta con mi apoyo incondicional, ahora y siempre. Quiero que lo sepas. Desea marcharse y no haré nada por impedírselo.
 Hades: Bah, no servís para nada. Ni siquiera es tu hijo, por más que lo mimes. Sabes tan bien como yo que no saldrá airoso. Le llenas la cabeza de pájaros. Si quieres eso para él, adelante. Actúa con diligencia.
 
 
---- Nyx With Hades 03 ---
+--- Duo - Nyx and Hades (3) ---
 Hades: *¿Saben de su existencia en el Olimpo? *Y además le están otorgando sus inútiles bendiciones aquí, en mi reino... ¡en *nuestro *reino! Explícame cómo puede ser eso posible, Nicte. O tu poder sin límites ha menguado considerablemente, o estás tramando algo.
 Nyx: No cuestiones mi poder, Hades. Tu hijo acabaría por descubrirlo en sus avances a la superficie. Los dioses del Olimpo están complacidos por saber que tienen un familiar distante aquí y le dan la bienvenida a su montaña, eso es todo. Su influencia es muy limitada.
 Hades: ¡Sangre y penumbra! No me hables de su *influencia*. La he visto de primera mano. Has cometido un error absurdo.
 Nyx: ¿Y tú me hablas de errores absurdos? No puedes cambiar el curso de los acontecimientos, por mucho que lo intentes.
 
 
---- Nyx With Hades 04 ---
+--- Duo - Nyx and Hades (4) ---
 Hades: ¿Ahora qué, Nicte? ¿Te das cuenta del peligro en el que la has puesto? ¡Dices que te preocupas por ella, pero ahora amenazas con hacer que *ellos *la descubran!
 Nyx: Hades, ¿alguna vez he obrado sin saber exactamente lo que hacía? La reina no sufrirá ningún daño, ni tampoco tu hijo.
 Zagreus: ¿Daño a la reina? Esperad... ¿De qué estáis hablando?
@@ -1581,13 +1581,13 @@ Hades: ¿Y aceptas su palabra? ¿Cómo puedes confiar en que no acabe estropeán
 Nyx: De la misma manera que he confiado en él para llegar a esta situación.
 
 
---- Nyx With Hades 05 ---
+--- Duo - Nyx and Hades (5) ---
 Hades: Lo que intento decirte, Nicte, es que te estoy agradecido por tu ayuda todo este tiempo. Mi reinado fue algo que os impusieron a ti y tu parentela; por derecho, habríais tenido motivos para menoscabar mis esfuerzos, y a menudo pensé que lo haríais. Pero cuando el Olimpo y yo rompimos nuestros lazos... permanecisteis a mi lado.
 Nyx: Soy la Noche encarnada, como bien sabes, Hades. Como ya te anuncié cuando nos conocimos, permaneceré a tu lado siempre que sigas siendo el gobernante designado de este reino.
 Hades: No precisaré de ningún recordatorio más. Por lo demás, garantizo que no escatimaré esfuerzo alguno en la supervisión de este reino.
 
 
---- Hypnos With Hades 01 ---
+--- Duo - Hypnos and Hades (1) ---
 Hades: Te has retrasado con el informe, Hipnos. Otra vez. ¡Otra vez! Los muertos pueden esperar, pero yo soy menos paciente. Ahora explícate.
 Hypnos: ¡*Oh*! Bueno, veamos... Me he despertado, no sé a qué hora, con la intención de pasar lista a todas las sombras, como de costumbre, salvo que no encontraba mi lista. ¿Te lo puedes creer? Creía que mi hermano me había gastado una broma, así que...
 Hades: Ve al grano, maldita sea, que no tengo todo el día. O la noche. ¡Argh! Tu informe, ¿dónde está?
@@ -1595,37 +1595,37 @@ Hypnos: ¡Iba a ello, patrono! He encontrado mi lista en la cantina, pero yo no 
 Hades: *¡¡Basta!! *¡Sangre y penumbra, estoy harto de oírte! Comprueba que el libro de muertos sea fidedigno y regresa a tu puesto. *Argg*, ojalá te parecieras más a tu hermano.
 
 
---- Hypnos With Hades 02 ---
+--- Duo - Hypnos and Hades (2) ---
 Hades: Últimamente tus informes han sido mucho más puntuales, Hipnos, lo cual era de esperar. Sin embargo... esas ilustraciones en los márgenes... son un detalle de lo más ingenioso. Así es fácil distinguir ciertos informes si están en una pila de pergaminos.
 Hypnos: Gracias, patrono, me alegra que te hayan gustado. Desde que Tánatos me dejó bien claro que estaba a punto de perder el trabajo, empecé a llevar una lista de *mis *tareas, que repaso cada día para decidir las prioridades, calcular lo que me llevará completarlas, analizar el coste y los beneficios...
 Hades: Desde luego, tienes muchas tareas por atender. Sigue trabajando con esa diligencia.
 
 
---- Hypnos With Hades 03 ---
+--- Duo - Hypnos and Hades (3) ---
 Hypnos: Patrono, nunca podré agradecerte lo suficiente que pusieras mi retrato en el tablón de la cantina. He oído que está muy bien pintado. Aún no he tenido tiempo de verlo, pero pienso hacerlo, ¡lo tengo en la lista!
 Hades: Hipnos, basta. No te arriesgues a que retire mis alabanzas y te eche.
 Hypnos: Uhm, ¿podrías repetir todo eso con palabras menos rebuscadas, patrono? ¿Me ha parecido que sonaba a *bronca*?
 
 
---- Thanatos With Hades 01 ---
+--- Duo - Thanatos and Hades (1) ---
 Hades: Tanta tardanza es propia de tu hermano, pero ¿de ti, Tánatos? Podría decirse que eres el dios de la puntualidad.
 Thanatos: Mi señor, mis más sinceras disculpas por mi escaso rendimiento últimamente. Mis obligaciones a raíz de la reciente guerra de la superficie me han pasado factura.
 Hades: Tánatos, hasta los dioses descansamos de cuando en cuando. Algún día nos llegará el turno aquí, cuando esta condenada morada por fin esté en orden. Hasta entonces, valoro tu diligencia. No te extralimites.
 Thanatos: Gracias, mi señor. A tu servicio. Debería retomar ya mis quehaceres.
 
 
---- Thanatos With Hades 02 ---
+--- Duo - Thanatos and Hades (2) ---
 Hades: Últimamente tardas demasiado en acabar tus tareas, Tánatos, y me dicen en el Tártaro que has estado involucrado en algunos incidentes. Recuerda tus responsabilidades y que te estoy observando. Ahora, apártate de mi vista.
 
 
---- Thanatos With Hades 03 ---
+--- Duo - Thanatos and Hades (3) ---
 Hades: Le has asistido, Tánatos. ¡A mis espaldas! Traición. Ahora te pregunto *por qué*. ¿Y bien?
 Thanatos: Mi señor, él y yo... Por favor. Enciérrame en el Tártaro o ajustíciame como creas conveniente, pero mi lealtad no cambiará. No puedo cruzarme de brazos mientras lucháis. Las rencillas entre Zagreo y tú... han de resolverse aquí y ahora.
 Hades: ¿Cómo osas sermonearme? *Bah*. Mis súbditos leales escasean últimamente. Este es *tu *reino, no el mío. No te desterraré a ese pozo infernal. Además, tampoco tengo a nadie que te sustituya aquí. Ahora, márchate.
 Thanatos: Lo lamento profundamente, mi señor.
 
 
---- Thanatos With Hades 04 ---
+--- Duo - Thanatos and Hades (4) ---
 Thanatos: ¿Querías verme de nuevo? Ha pasado bastante tiempo desde que tuve audiencia contigo por última vez.
 Hades: Así es. La última vez que nos vimos... ¿qué fue lo que me dijiste? ¿Qué tenía que haber alguna solución al *asunto*, como creo que lo llamaste, con mi hijo? Bueno, pues parece que ya está zanjado. ¿Verdad, muchacho?
 Zagreus: A ver, tú sigues esforzándote todo lo que puedes en evitar que cruce el umbral de tu reino, así que no diría exactamente que considere el asunto *zanjado*. Pero todo parece distinto ahora, sí.
@@ -1634,57 +1634,57 @@ Thanatos: Me honras. Aprecio que me lo digas en persona, y estoy de acuerdo en q
 Hades: Sigue con lo que estuvieras haciendo, pues. Puedes marcharte.
 
 
---- Dusa With Hades 01 ---
+--- Duo - Dusa and Hades (1) ---
 Hades: Ojalá todos mis súbditos mostraran tan buena disposición. Informa pues, Dusa, si no es mucha molestia.
 Dusa: ¡Señor! La oficina va viento en popa. La afluencia de público a la cantina ha aumentado un veintiocho por cierto, y los niveles de satisfacción de los clientes están en el percentil ochenta. No hay problemas de los que informar.
 Hades: Procura que lleguemos al *treinta *por ciento antes del cambio de eón, cuidadora jefe. Aparte de eso... un informe satisfactorio. Continúa con tus tareas.
 
 
---- Orpheus With Hades 01 ---
+--- Duo - Orpheus and Hades (1) ---
 Orpheus: ¿Has llamado a tu humilde músico de corte, mi señor Hades? Es decir, a mí, por supuesto.
 Hades: Bueno, Orfeo, si has cumplido ya con tu pequeño exilio en las profundidades del Tártaro, vuelvo a pedírtelo. Tócanos una canción. O la próxima vez no me mostraré tan benevolente con tu castigo.
 Orpheus: Oh, eso... Pues mil disculpas de nuevo, mi señor Hades, pero me temo que sigo sin deseos de cantar. A pesar de tu capacidad de persuasión. Y esa, eh, es mi última palabra al respecto. De momento.
 Hades: Ya veo... Supongo que entonces esperaré. Tengo toda la paciencia del mundo.
 
 
---- Orpheus With Hades 02 ---
+--- Duo - Orpheus and Hades (2) ---
 Hades: Explícame una cosa, Orfeo. ¿Por qué me molesto en tener la sombra de músico de corte inútil en mi morada? Parloteas como un papagayo, pero no consigo sacarte ni una nota.
 Orpheus: Si me permites el atrevimiento, mi señor, quizá mi presencia te evoque el recuerdo de mis interpretaciones pasadas. Me regocija que te gustasen mis cánticos.
 Hades: Antes toleraba tu insolencia, pero hasta aquí hemos llegado. Encuentra tu voz. Te doy cien años para hacerlo, ni un solo instante más.
 
 
---- Orpheus With Hades 03 ---
+--- Duo - Orpheus and Hades (3) ---
 Hades: Por fin has entrado en razón, ¿verdad, Orfeo? ¡Un músico de corte que se negaba a cantar! Un verdadero sinsentido. Confío en que no cometerás más actos de insubordinación de ahora en adelante.
 Orpheus: Me regocija que mis canciones aún te lleguen al alma, mi señor. Sin embargo, confieso que he decidido volver a cantar gracias al príncipe. Y a mi musa, claro está.
 Hades: Veo que sigues con eso de tu dichosa musa. Tuviste tu oportunidad con Eurídice. La desaprovechaste y ahora estás aquí. Un trato es un trato. Espero que cumplas con tu parte del acuerdo.
 
 
---- Orpheus With Hades 04 ---
+--- Duo - Orpheus and Hades (4) ---
 Orpheus: Me agrada saber que mi nuevo acuerdo flexible sigue siendo satisfactorio para ti, patrono. Debo admitir que temía que mi marcha resultaría de nuevo en una estancia prolongada en los fosos del Tártaro.
 Hades: ¡No me des ideas, Orfeo! Mejor sigue con tu tarea y canta esas condenadas canciones cuando las circunstancias lo requieran.
 Orpheus: Será un placer, patrono. Eurídice y yo agradecemos tu magnanimidad.
 
 
---- Megaera With Hades 01 ---
+--- Duo - Megaera and Hades (1) ---
 Hades: Cerciórate, Megera. Últimamente, los ayudantes de esta morada resultan mucho más ineptos que antaño. Confío en que sabrás meterlos en vereda.
 Megaera: Si es tu voluntad, señor Hades, así se hará. Hasta donde alcance mi capacidad.
 
 
---- Megaera With Hades 02 ---
+--- Duo - Megaera and Hades (2) ---
 Megaera: Dame otra oportunidad, señor Hades. Puedo mejorar. Es mejor… que no vengan.
 Hades: Demasiado tarde, Megera. Ya han recibido el aviso y están camino del Tártaro en este preciso instante.
 Megaera: Ya sabes cómo son. Mejor que se dediquen a lo suyo. A esto, no.
 Hades: Megera, fíate de mí cuando te digo que te comprendo perfectamente. Sin embargo, eres lo bastante ingeniosa para hallar el modo de congeniar con tus hermanas.
 
 
---- Megaera With Hades 03 ---
+--- Duo - Megaera and Hades (3) ---
 Megaera: No puedo trabajar con ellas, mi señor Hades. Te lo ruego. No me respetan ni me hacen caso.
 Hades: *Basta*. Además, Megera, no es culpa tuya, sino mía. He de atender estos asuntos de manera más activa.
 Megaera: Por más que lo intento, no obtengo un resultado satisfactorio. Me pides un imposible.
 Hades: No es una petición, Megera.
 
 
---- Megaera With Hades 04 ---
+--- Duo - Megaera and Hades (4) ---
 Megaera: Pero no lo entiendo, señor Hades. He caído ante él incontables veces. ¿Cómo puede ser...?
 Hades: Tú y tus hermanas habéis protegido el Tártaro infaliblemente. El príncipe ha demostrado ser incontenible y el fracaso es mío, no tuyo. Tu deber para con este reino es encomiable.
 Megaera: Me honras... No he hecho nada para merecer dichas palabras. Debe de haber algo más que pueda hacer, ¿no es así?
@@ -1714,7 +1714,7 @@ Persephone: ¿Qué te voy a decir, Zagreo? Somos familia, tú mismo me lo dijist
 Zagreus: Sí, entiendo a lo que te refieres. Gracias, madre, creo que volveré a irme dentro de muy poco. ¿Nos vemos cuando vuelva?
 
 
---- Persephone With Hades 01 ---
+--- Duo - Persephone and Hades (1) ---
 Persephone: ...¡*Ah*, por favor, Hades! ¡Los mortales son mucho más resilientes que eso! ¿Qué piensas? ¿Qué van a aparecer todos en nuestra puerta al mismo tiempo? Tienen a nuestra familia cuidándolos.
 Hades: Eso me temía. ¿Crees de verdad que mis hermanos y el resto cuidarán de los mortales mientras aún respiren, como hacemos aquí después de que hayan fallecido?
 Persephone: Es verdad que nosotros tenemos que cuidarlos indefinidamente, mientras que en el Olimpo solo tienen que hacerlo por un tiempo. ¡Pero nuestros parientes vigilan siempre desde su montaña! Y si de vez en cuando hacen oídos sordos... los mortales saben apañárselas.
@@ -1723,14 +1723,14 @@ Persephone: ¡Les *gustamos*, Hades! Nos adoran, hablan de nosotros. ¿Qué espe
 Hades: No, supongo que no. ¡Pero nos *necesitan*!
 
 
---- Persephone With Hades 02 ---
+--- Duo - Persephone and Hades (2) ---
 Hades: ¿Y qué hay de las quejas del Elíseo? Quieren que los prados estén siempre bien cuidados para sus competiciones de atletismo.
 Persephone: Ya me he encargado de eso, aunque la inundación de los Asfódelos... *uhm*, no parece que sea algo que vayamos a poder arreglar por un tiempo. Por suerte parece que sus residentes se están acostumbrando.
 Hades: Hay menos quejas últimamente. ¿Y el problema de los sátiros? Esas malditas cosas siguen campando a sus anchas por ahí.
 Persephone: Al menos están contenidos. Y Zagreo ha estado reduciendo su número, ¿verdad?
 
 
---- Persephone With Hades 03 ---
+--- Duo - Persephone and Hades (3) ---
 Hades: Siendo así... si las sombras te molestan, dímelo y haré que se encarguen de ella enseguida.
 Persephone: *Oh*, Hades... Creo que las sombras del lugar ya han pasado suficientes penurias. No me importa tenerlos por aquí. Después de todo el tiempo que pasé sola, es un cambio agradable tener compañía.
 Hades: ¿Seguro que tienes todo lo que necesitas? Porque si echas algo en falta...
@@ -1739,7 +1739,7 @@ Hades: Perséfone, no te puedo prometer algo así, no es... mi fuerte. ¡Y tengo
 Persephone: No voy a decirte cómo separar tu trabajo de tu matrimonio y de tus responsabilidades paternas. No creo que nadie en el Olimpo o debajo de él sepa mejor que tú como hacerlo, siempre y cuando lo hagas lo mejor que puedas.
 
 
---- Persephone With Hades 04 ---
+--- Duo - Persephone and Hades (4) ---
 Hades: A veces no puedo creer que estés aquí. Que hayas vuelto. Tu resplandor entre tanta oscuridad... Debes echar de menos las vistas de la costa.
 Persephone: La costa estaba bien, Hades, pero no hay sitio perfecto, ¿no? No importa cuánto te esfuerces... Aun así, creo que aquí nos acercamos bastante a la perfección de vez en cuando.
 Hades: Te ha costado mucho menos adaptarte de lo que te costó cuando llegaste por primera vez. Otro motivo de sorpresa para mí. A mí me obligaron a venir, nunca pensé que alguien de la superficie acabaría viniendo aquí por decisión propia.

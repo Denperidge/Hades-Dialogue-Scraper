@@ -14,7 +14,7 @@
 ! colspan="2" |Trophy Quest Bronze Unlocked 01
 |-
 |'''Skelly'''
-|"I just knew you had it in you, pal, enjoying your new prize? Pact of Punishment, ''Shmact ''of Punishment, no problem, know what I mean? 'Course, that was just the easy one you got there, pretty sure I could've got that one, myself."
+|"I just knew you had it in you, pal, enjoying your new prize? Pact of Punishment, *Shmact *of Punishment, no problem, know what I mean? 'Course, that was just the easy one you got there, pretty sure I could've got that one, myself."
 |-
 |'''Zagreus'''
 |"Wait, just so I understand. I literally toiled through hell and back, and my reward is just... a statue of you? Don't get me wrong, it's lovely, it's just... I don't know what I expected."
@@ -34,7 +34,7 @@
 |"You're only saying that to get me to apologize and try and unlock the last of your three identical statues, aren't you."
 |-
 |'''Skelly'''
-|"''How could you''--? I would return those statues for a full refund right here and now, if I could move! And if there was a refund policy on them."
+|"*How could you*--? I would return those statues for a full refund right here and now, if I could move! And if there was a refund policy on them."
 |-
 ! colspan="2" |Trophy Quest Gold Unlocked 01
 |-
@@ -56,7 +56,7 @@
 |"I don't remember having you on payroll, mate. Who's your supervisor?"
 |-
 |'''Skelly'''
-|"''Oh-hoh'', I'm not about to rat my sources, pal! Just try and beat it out of me!"
+|"*Oh-hoh*, I'm not about to rat my sources, pal! Just try and beat it out of me!"
 |-
 ! colspan="2" |Skelly Misc Meeting 01
 |-
@@ -85,7 +85,7 @@
 ! colspan="2" |Skelly Hint Meeting 02
 |-
 |'''Skelly'''
-|"You getting pretty strong, I'll give you that, boyo. Strong enough to smack a guy like me right up against the wall and I'd go straight to pieces, ''boom''! You just remember, when you're duking it out, the walls are your friend!"
+|"You getting pretty strong, I'll give you that, boyo. Strong enough to smack a guy like me right up against the wall and I'd go straight to pieces, *boom*! You just remember, when you're duking it out, the walls are your friend!"
 |-
 |'''Zagreus'''
 |"Smack guys against walls. Sound advice as ever, mate."
@@ -125,7 +125,7 @@
 ! colspan="2" |Skelly Hint Meeting 07
 |-
 |'''Skelly'''
-|"You know something, boyo, I think you could do a real number on one of these columns holding up this place, and bring the whole thing down in just a few swipes, boom, boom, ''BOOM''! I'd hate to be standing near one of them if you did!"
+|"You know something, boyo, I think you could do a real number on one of these columns holding up this place, and bring the whole thing down in just a few swipes, boom, boom, *BOOM*! I'd hate to be standing near one of them if you did!"
 |-
 |'''Zagreus'''
 |"Wreck my father's finely crafted architecture every chance I get. That I can do for sure."
@@ -141,10 +141,10 @@
 ! colspan="2" |Skelly Hint Meeting Easy Mode 01
 |-
 |'''Skelly'''
-|"If you're having a rough time out there, boyo, you just remember something: You're a ''god'', all right?! Way tougher than you think. They give you trouble, you just turn on ''God Mode'', and you let 'em have it for me!"
+|"If you're having a rough time out there, boyo, you just remember something: You're a *god*, all right?! Way tougher than you think. They give you trouble, you just turn on *God Mode*, and you let 'em have it for me!"
 |-
 |'''Zagreus'''
-|"You act as though this ''God Mode ''is some sort of lever I can simply switch at will if ever I wish to unlock my latent strength, there, mate."
+|"You act as though this *God Mode *is some sort of lever I can simply switch at will if ever I wish to unlock my latent strength, there, mate."
 |-
 ! colspan="2" |Skelly About Hint Meetings 01
 |-
@@ -157,7 +157,7 @@
 ! colspan="2" |Skelly No More Hint Meetings 01
 |-
 |'''Skelly'''
-|"Well, pal? You have come a pretty long way, let me tell ''you''. I think most of the smarts I've picked up, you know by now. And so... if I'm fresh out of tips for you... I guess there's only one thing left to do."
+|"Well, pal? You have come a pretty long way, let me tell *you*. I think most of the smarts I've picked up, you know by now. And so... if I'm fresh out of tips for you... I guess there's only one thing left to do."
 |-
 |'''Zagreus'''
 |"Stand there eternally to be whaled upon at my whim, using whichever weapon suits me at the time?"
@@ -182,7 +182,7 @@
 |"Appreciate the vote of confidence, mate. Maybe you're right and someday I'll get out of here. Hey, if I never come back, you won't just be stuck here forever, will you?"
 |-
 |'''Skelly'''
-|"''Heh, hehehe'', that's a good one! ''No''! Probably not. Wasn't anything in the old contract about that... ''huh''."
+|"*Heh, hehehe*, that's a good one! *No*! Probably not. Wasn't anything in the old contract about that... *huh*."
 |-
 ! colspan="2" |Skelly Run Progress 02
 |-
@@ -200,7 +200,7 @@
 ! colspan="2" |Skelly Backstory 02
 |-
 |'''Zagreus'''
-|"Say, ''uh'', Skelly? How'd you get here, anyway?"
+|"Say, *uh*, Skelly? How'd you get here, anyway?"
 |-
 |'''Skelly'''
 |"Oh, you know, just kind of zapped right in, like Papa lets us do! Some of us sometimes. Why do you ask?"
@@ -209,7 +209,7 @@
 |"I meant... how did you get to the realm of the dead, in the first place. Lord Hermes whisk you to the entryway? Thanatos scoop you up, Charon give you a lift, what?"
 |-
 |'''Skelly'''
-|"Oh, ''haha''! Well, that's a little personal, don't you think, boyo? I... I don't like to talk about it much. So, if I could have a little privacy...?"
+|"Oh, *haha*! Well, that's a little personal, don't you think, boyo? I... I don't like to talk about it much. So, if I could have a little privacy...?"
 |-
 ! colspan="2" |Skelly Backstory 03
 |-
@@ -229,15 +229,15 @@
 |"Skelly, that's... that's incredible! So then... you and your crew, you perished at sea?"
 |-
 |'''Skelly'''
-|"I, uh, ''pfff, hahaha'', boyo, you are something else, you know? All that Schelemeus stuff, I could have had you eating out of my hand for days!"
+|"I, uh, *pfff, hahaha*, boyo, you are something else, you know? All that Schelemeus stuff, I could have had you eating out of my hand for days!"
 |-
 |'''Zagreus'''
-|"Oh, I get it. You got me. Fine, then, ''Schelemeus'', but I don't appreciate the trick."
+|"Oh, I get it. You got me. Fine, then, *Schelemeus*, but I don't appreciate the trick."
 |-
 ! colspan="2" |Skelly Backstory 05
 |-
 |'''Zagreus'''
-|"Say, Skelly... or should I say ''Schelemeus''? I happened to have a chat with somebody familiar with that name. Large bull-headed fellow originally from Crete. You said you made it all up! What's going on?"
+|"Say, Skelly... or should I say *Schelemeus*? I happened to have a chat with somebody familiar with that name. Large bull-headed fellow originally from Crete. You said you made it all up! What's going on?"
 |-
 |'''Skelly'''
 |"Never said I made it up, pal! I just knew you weren't going to believe me, I mean, look at me! I look like a captain of the Cretan second fleet to you?"
@@ -246,7 +246,7 @@
 |"I don't know. I've never met one. Do they all just stand around doing nothing?"
 |-
 |'''Skelly'''
-|"Well, sounds like ''somebody'''s never had to lead like fifty-or-something sailors in a voyage across the sea in a Minoan galley with nothing but the stars to guide 'em! What do you think the captains do, pull the oars?"
+|"Well, sounds like *somebody*'s never had to lead like fifty-or-something sailors in a voyage across the sea in a Minoan galley with nothing but the stars to guide 'em! What do you think the captains do, pull the oars?"
 |-
 |'''Zagreus'''
 |"Wait, what about Hermes? He gave me the impression you might have been somebody else. Nobody in particular. Not some great sea-captain."
@@ -266,7 +266,7 @@
 |"That Lucky Tooth you gave me, Skelly. First off, thanks again, and secondly... is this even yours? Had a run-in with Hermes, who got me thinking."
 |-
 |'''Skelly'''
-|"What, ''haha'', you going to believe everything that gabby guy tells you, now, boyo? He doesn't know a thing about me!"
+|"What, *haha*, you going to believe everything that gabby guy tells you, now, boyo? He doesn't know a thing about me!"
 |-
 |'''Zagreus'''
 |"Never said he did. Though since you let on... what's your relationship to him? Working for him?"
@@ -334,7 +334,7 @@
 |"No mercy, Skelly. Tell me. Or else... it will be only pleasantries between us from here on out."
 |-
 |'''Skelly'''
-|"Nrrrghh, ''all right''! But you got to promise me something, promise not to let on or tell anybody in your fancy House, all right? Or else I'm done for. ''I'm serious''!"
+|"Nrrrghh, *all right*! But you got to promise me something, promise not to let on or tell anybody in your fancy House, all right? Or else I'm done for. *I'm serious*!"
 |-
 |'''Zagreus'''
 |"I promise. So...?"
@@ -413,7 +413,7 @@
 |"Skelly, you mentioned the ancient bit of blood I found in Tartarus. Know what I'm supposed to do with this stuff?"
 |-
 |'''Skelly'''
-|"Wouldn't know a thing about it! Definitely doesn't have anything to do with those Infernal Arms of yours, some of which appear to still be ''unavailable to you'', as I understand?"
+|"Wouldn't know a thing about it! Definitely doesn't have anything to do with those Infernal Arms of yours, some of which appear to still be *unavailable to you*, as I understand?"
 |-
 ! colspan="2" |Skelly About Weapon Enchantments 01
 |-
@@ -429,7 +429,7 @@
 ! colspan="2" |Skelly About Weapon Enchantments 02
 |-
 |'''Skelly'''
-|"You know, pal, when you're not around and it's just me and all your weapons, I mean your ''Infernal Arms ''right over there, between us they are making me a bit uncomfortable."
+|"You know, pal, when you're not around and it's just me and all your weapons, I mean your *Infernal Arms *right over there, between us they are making me a bit uncomfortable."
 |-
 |'''Zagreus'''
 |"Can't blame you, mate. I wouldn't want to be stuck in a chamber with a bunch of legendary, quite possibly malevolent killing artifacts. Anything I can do?"
@@ -448,19 +448,19 @@
 ! colspan="2" |Skelly About Guan Yu Aspect 01
 |-
 |'''Skelly'''
-|"Hey, just want to say, pal, that spooky ''crimson phoenix ''stuff that you were going on about before? I mean, whoa, you just say some nonsense and you get a brand-new spear? I was so impressed, I decided to try that trick for myself!"
+|"Hey, just want to say, pal, that spooky *crimson phoenix *stuff that you were going on about before? I mean, whoa, you just say some nonsense and you get a brand-new spear? I was so impressed, I decided to try that trick for myself!"
 |-
 |'''Zagreus'''
 |"Oh, gods... Skelly, what did you do...?"
 |-
 |'''Skelly'''
-|"Relax, boyo, just had a little chat with your old serving platter over there after you left, is all. That thing hits pretty hard! So, then, I say to it, ''I see you through the eyes of the crimson phoenix''... and you want to know what happened after that?"
+|"Relax, boyo, just had a little chat with your old serving platter over there after you left, is all. That thing hits pretty hard! So, then, I say to it, *I see you through the eyes of the crimson phoenix*... and you want to know what happened after that?"
 |-
 |'''Zagreus'''
 |"So you carelessly spoke secret words imparted by the Fates themselves to an infernal weapon forged at the dawn of creation, then what? Say, did you walk up to Aegis, or just shout over your shoulder?"
 |-
 |'''Skelly'''
-|"Over my shoulder! Anyway, what happened next was ''nothing''! Your ''Aegis ''kept on bobbing like a dummy. So then I went and said that mumbo jumbo to every other weapon, but nope! Doesn't work at all. So much for your fancy sorcery, huh?"
+|"Over my shoulder! Anyway, what happened next was *nothing*! Your *Aegis *kept on bobbing like a dummy. So then I went and said that mumbo jumbo to every other weapon, but nope! Doesn't work at all. So much for your fancy sorcery, huh?"
 |-
 ! colspan="2" |Skelly About Pact 01
 |-
@@ -468,7 +468,7 @@
 |"So, what exactly happened with the formerly pink window over there? Now it's got these sinister orange flames and an enormous Pact of Punishment hanging ominously over the exit. Father stop by?"
 |-
 |'''Skelly'''
-|"Pal, I don't know a thing about it, honest! I was just minding my own business, when all the sudden, ''wham''! I get hit right in the back. I fall to pieces, no idea what's going on! When I finally come to, the window job was done...!"
+|"Pal, I don't know a thing about it, honest! I was just minding my own business, when all the sudden, *wham*! I get hit right in the back. I fall to pieces, no idea what's going on! When I finally come to, the window job was done...!"
 |-
 ! colspan="2" |Skelly True Death Quest Beginning 01
 |-
@@ -479,7 +479,7 @@
 |"If it doesn't involve hacking away at you with reckless abandon, Skelly, I don't want to hear it. But... oh. You're being serious."
 |-
 |'''Skelly'''
-|"I am. And funny you should put it like that. Boyo, I am asking you to get me out of here. ''Permanently'', if you catch my drift. This standing around stuff... just kind of wears on you, after a while, you know?"
+|"I am. And funny you should put it like that. Boyo, I am asking you to get me out of here. *Permanently*, if you catch my drift. This standing around stuff... just kind of wears on you, after a while, you know?"
 |-
 |'''Zagreus'''
 |"...I know. I can only imagine. Tell me what I can do."
@@ -502,7 +502,7 @@
 |"If it doesn't involve hacking away at you with reckless abandon, Skelly, I don't want to hear it. But... oh. You're being serious."
 |-
 |'''Skelly'''
-|"I am. And funny you should put it like that. Boyo, I am asking you to get me out of here. ''Permanently'', if you catch my drift. This standing around stuff... just kind of wears on you, after a while, you know?"
+|"I am. And funny you should put it like that. Boyo, I am asking you to get me out of here. *Permanently*, if you catch my drift. This standing around stuff... just kind of wears on you, after a while, you know?"
 |-
 |'''Zagreus'''
 |"...I know. I can only imagine. Tell me what I can do."
@@ -519,10 +519,10 @@
 ! colspan="2" |Skelly Run Cleared 01
 |-
 |'''Skelly'''
-|"So, ''uh'', pal? My sources tell me that you made it pretty far. Which means... my usefulness is coming to an end."
+|"So, *uh*, pal? My sources tell me that you made it pretty far. Which means... my usefulness is coming to an end."
 |-
 |'''Zagreus'''
-|"Your ''usefulness'', what, you just mean the standing around, letting me lay into you with whatever vicious attack sequence I fancy at the time?"
+|"Your *usefulness*, what, you just mean the standing around, letting me lay into you with whatever vicious attack sequence I fancy at the time?"
 |-
 |'''Skelly'''
 |"Yeah! Once you achieve your goal... my contract's up. You won't need me anymore."
@@ -539,10 +539,10 @@
 |"So Mama's back in town from what I hear, boyo! It's awful nice knowing I trained you well."
 |-
 |'''Zagreus'''
-|"''Erm'', you must mean the Queen, and evidently you're aware of our relationship. You keep that quiet, understand, Skelly?"
+|"*Erm*, you must mean the Queen, and evidently you're aware of our relationship. You keep that quiet, understand, Skelly?"
 |-
 |'''Skelly'''
-|"''Ahh'', and thus the pupil trains the master, for a change! I hear you, pal. Your secret's safe with me."
+|"*Ahh*, and thus the pupil trains the master, for a change! I hear you, pal. Your secret's safe with me."
 |-
 ! colspan="2" |Skelly Post Epilogue 01
 |-
@@ -553,7 +553,7 @@
 |"It... went better than expected, all in all. I hope you didn't feel left out! It was a pretty limited guest list. Kind of a diplomatic mission, I would say. Not quite as good a time as it might have sounded from the outside."
 |-
 |'''Skelly'''
-|"''Ohh'', don't you even worry about me, there, pal! I much prefer the solitary life, and besides! When things are good for you, they're good for me. Glad everything worked out."
+|"*Ohh*, don't you even worry about me, there, pal! I much prefer the solitary life, and besides! When things are good for you, they're good for me. Glad everything worked out."
 |-
 ! colspan="2" |Skelly Chat 01
 |-
@@ -583,7 +583,7 @@
 ! colspan="2" |Skelly Chat 06
 |-
 |'''Skelly'''
-|"Can't break ''these ''bones, pal, what you just try it!"
+|"Can't break *these *bones, pal, what you just try it!"
 |-
 ! colspan="2" |Skelly Chat 07
 |-
@@ -671,7 +671,7 @@
 ! colspan="2" |Skelly Gift 02
 |-
 |'''Skelly'''
-|"''Whoa-hoh'', you being serious here, pal? You brought that all this way, for little old me?! That's real nice of you!"
+|"*Whoa-hoh*, you being serious here, pal? You brought that all this way, for little old me?! That's real nice of you!"
 |-
 |'''Zagreus'''
 |"You're not so bad yourself, mate. Thanks for always being here for me to savagely attack without a second thought."
@@ -679,7 +679,7 @@
 ! colspan="2" |Skelly Gift 03
 |-
 |'''Skelly'''
-|"''Whoaaaa'', now get a load of what you got there, boyo! Wait, really, that's for me? Or you just pulling my leg?"
+|"*Whoaaaa*, now get a load of what you got there, boyo! Wait, really, that's for me? Or you just pulling my leg?"
 |-
 |'''Zagreus'''
 |"I'm really giving this to you, mate. Now go enjoy it, will you? Once I've finished pummeling you some more just for the sake of it."
@@ -687,7 +687,7 @@
 ! colspan="2" |Skelly Gift 04
 |-
 |'''Skelly'''
-|"Heeey now ''that's ''what I'm talking about, thanks, boyo! Won't forget you doing me a solid like this, cross my heart!!"
+|"Heeey now *that's *what I'm talking about, thanks, boyo! Won't forget you doing me a solid like this, cross my heart!!"
 |-
 |'''Zagreus'''
 |"No need to thank me, mate. But don't you dare forget it or I'll attack you repeatedly and without mercy."
@@ -703,7 +703,7 @@
 ! colspan="2" |Skelly Gift 06
 |-
 |'''Skelly'''
-|"''Haaah'', you're kidding, ''what''? Sometimes, boyo, you make me feel alive again, you know that? Being honest with you here, I'm grateful, really."
+|"*Haaah*, you're kidding, *what*? Sometimes, boyo, you make me feel alive again, you know that? Being honest with you here, I'm grateful, really."
 |-
 |'''Zagreus'''
 |"If not for you, my friend, I'd have no one to viciously attack with no fear of reprisal whatsoever."
@@ -714,7 +714,7 @@
 |"Skelly, while I know your services have already been paid in full, your sources ought to know you've been doing an excellent job. So much so, I wanted to give you this."
 |-
 |'''Skelly'''
-|"''Whaaa'', is that a vintage bottle of Ambrosia, pal?! I never even thought I'd get to try a thing like that, I mean, what am I, here? Know what, I want you to have this. To symbolize our friendship, and in case you ever need a hand out there."
+|"*Whaaa*, is that a vintage bottle of Ambrosia, pal?! I never even thought I'd get to try a thing like that, I mean, what am I, here? Know what, I want you to have this. To symbolize our friendship, and in case you ever need a hand out there."
 |-
 ! colspan="2" |Skelly Gift 08
 |-
@@ -722,7 +722,7 @@
 |"Hope you enjoyed that vintage bottle of Ambrosia last time, Skelly, because I got you another. Here!"
 |-
 |'''Skelly'''
-|"''Aww'', no way, boyo, you kidding me right now? Why are you even, I... look, I, I just stand around and let you beat me up, you don't have to do this. You don't even know who I am. Who I was."
+|"*Aww*, no way, boyo, you kidding me right now? Why are you even, I... look, I, I just stand around and let you beat me up, you don't have to do this. You don't even know who I am. Who I was."
 |-
 |'''Zagreus'''
 |"You're my friend, mate. That's all that matters. Although... I don't suppose you're willing to divulge those types of details? Just out of curiosity."
@@ -744,12 +744,12 @@
 ! colspan="2" |Skelly True Death Quest Complete
 |-
 |'''Skelly'''
-|"''Hahaha'', got you pretty good, again, didn't I, boyo?! ''I am asking you to get me out of here. ''Hahahaha! All that stuff about your blade, and your Aspect, I mean, you ate all of it right up! ''Woo, hoo-hoo!''"
+|"*Hahaha*, got you pretty good, again, didn't I, boyo?! *I am asking you to get me out of here. *Hahahaha! All that stuff about your blade, and your Aspect, I mean, you ate all of it right up! *Woo, hoo-hoo!*"
 |-
 |'''Zagreus'''
 |"It appears I've been the victim of an elaborate prank. Not sure that I appreciate it, Skelly. What if I were to never hit you again, how would you like that?"
 |-
 |'''Skelly'''
-|"Whoa, ''whoa whoa whoa whoa'', whoa! Now come on, boyo, it was just a joke, I figured things could lighten up a little here. Don't need to do anything rash!"
+|"Whoa, *whoa whoa whoa whoa*, whoa! Now come on, boyo, it was just a joke, I figured things could lighten up a little here. Don't need to do anything rash!"
 |-
 |}

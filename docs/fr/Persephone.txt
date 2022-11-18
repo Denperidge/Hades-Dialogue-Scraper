@@ -37,14 +37,14 @@ Zagreus: La main de sa mère, la main de ma mère... attends, *quoi *?! Tu dis q
 Storyteller: *Euhhh hrm, et c’est ainsi que le Prince découvrit par inadvertance le secret bien gardé sur ses origines. Tout à fait par hasard, bien sûr...*
 
 
---- Achilles With Persephone 01 ---
+--- Duo - Achilles and Persephone (1) ---
 Persephone: ...C'est un honneur de vous rencontrer, noble Achille. Notre garde royal ! C'est bon de savoir vers qui se tourner par ici en cas de problème. C'est donc vous qui avez entraîné mon fils au combat ?
 Achilles: Effectivement, Votre Grâce. Il a été un élève talentueux. Si seulement vous aviez été là pour suivre ses progrès. Cela vous aurait certainement empli de fierté.
 Persephone: Je *suis * emplie de fierté ! Vous savez, vous étiez déjà plutôt célèbre à la surface, quand je vivais encore sur l'Olympe. Je dirais que votre légende a encore beaucoup voyagé, depuis !
 Achilles: Oh, j'en doute fort... mais je vous remercie, Votre Grâce.
 
 
---- Nyx With Persephone 01 ---
+--- Duo - Nyx and Persephone (1) ---
 Nyx: ...Perséphone, ma reine... Cela fait bien trop longtemps. Mais le temps vous a été clément. C'est un honneur de vous revoir.
 Persephone: Oh, s'il te plaît, Nyx... pas de formalités entre nous. Moi aussi, je suis heureuse de te revoir, mon amie. Les jours à la surface étaient différents, mais les nuits... Elles me rappelaient les moments que nous passions ensemble.
 Nyx: De bons moments, il me semble.
@@ -53,30 +53,30 @@ Nyx: Nous sommes heureux de te retrouver. Mais l'adaptation sera à nouveau diff
 Persephone: Eh bien, m'étant construit une petite maison toute seule, là-haut, je me crois prête à tout ! Tu sais ce que c'est.
 
 
---- Thanatos With Persephone 01 ---
+--- Duo - Thanatos and Persephone (1) ---
 Thanatos: Reine Perséphone. Nous sommes tous extrêmement heureux de vous revoir. Si je peux faire quoi que ce soit pour faciliter votre réacclimatation à cette Maison, faites-le moi savoir.
 Persephone: Ma foi, merci, Thanatos ! Je n'hésiterai pas à faire appel à toi si j'ai besoin de quoi que ce soit. Mais dis donc, qu'est-ce que tu as grandi ! J'ai cru comprendre que tu avais veillé sur mon fils, pendant mon absence ?
 Thanatos: Votre fils, il... il se trouve qu'il est parfaitement capable de prendre soin de lui-même. Mais j'essaye de rester à sa disposition, au cas où. Je vous prie de m'excuser, ma Reine, quelqu'un m'attend à la surface.
 
 
---- Thanatos With Persephone 02 ---
+--- Duo - Thanatos and Persephone (2) ---
 Thanatos: ...Merci pour votre bénédiction, Reine Perséphone. Votre fils et moi... nous avons toujours été proches, mais toute cette histoire nous a rendu... inséparables, pour ainsi dire.
 Persephone: Eh bien, en tout cas, je vois qu'il a bien meilleur goût que moi, Thanatos ! Je sais à quel point tu prends ton travail à cœur, mais n'oublie pas de prendre soin de toi, s'il te plaît. Et prenez aussi soin l'un de l'autre, d'accord ?
 Thanatos: À vos ordres, ma Reine. Enfin, je veux dire, d'accord.
 
 
---- Dusa With Persephone 01 ---
+--- Duo - Dusa and Persephone (1) ---
 Dusa: *Euh*, je suis ravie de faire votre connaissance. Je vous en prie, appelez-moi Dusa ! J-je suis la concierge de la Maison, et je suis à votre service ! S'il vous faut quoi que ce soit, n'hésitez pas, OK ?
 Persephone: Dusa ! Ravie de vous rencontrer. La Maison n'a jamais été aussi propre, c'est à peine si je l'ai reconnue à mon retour ! Maintenant, je sais exactement qui féliciter pour cela.
 Dusa: Merci infiniment ! Je ne vous décevrai pas !!
 
 
---- Orpheus With Persephone 01 ---
+--- Duo - Orpheus and Persephone (1) ---
 Persephone: ...*Ah*, et dire que notre cher musicien de cour n'est autre que *vous*, Orphée ! En matière de musique, au moins, Hadès et moi avons les mêmes goûts. Mais je ne veux pas vous accaparer !
 Orpheus: Ce sera un honneur de chanter pour vous, Votre Majesté. Et, puis-je ajouter que Sa Majesté comporte bien des points communs avec son fils ? Je comprends mieux maintenant d'où lui vient son charme.
 
 
---- Megaera With Persephone 01 ---
+--- Duo - Megaera and Persephone (1) ---
 Megaera: ...Il était de mon devoir de l'empêcher d'aller plus loin. Si j'avais réussi... il ne vous aurait jamais retrouvé. Alors pour une fois, je suis contente d'avoir échoué. J'espère que vous le savez, ma reine.
 Persephone: C'est ce que j'espérais, mais je n'étais pas sûre avant d'avoir entendu parler de vous, gardienne Mégère ! Et, si je puis me permettre ? Je comprends que vous avez fait énormément de choses depuis que *hm*, je me suis absentée. Je comprends pourquoi Nyx et Hadès vous font confiance !
 Megaera: Merci, reine. Je suis à votre service si vous avez besoin d'autre chose pour vous réhabituer à cet endroit. Votre présence est un honneur.
@@ -438,7 +438,7 @@ Zagreus: Ah, je suis soulagé. Je sais que Grand-mère peut être plutôt sévè
 Persephone: Je lui ai demandé. Elle m'a dit qu'elle le ferait. La chaleur reviendra à la surface. Du moins, un certain temps. Probablement selon un calendrier bien précis, la connaissant, et peut-être pas dans les environs de notre domaine. Elle n'est pas du genre à pardonner et à simplement oublier.
 
 
---- Persephone With Hades 01 ---
+--- Duo - Persephone and Hades (1) ---
 Persephone: ...*Oh*, je t'en prie, Hadès ! Les mortels sont bien plus résistants que ça ! Quoi, tu crois qu'ils vont tous arriver en même temps aux portes de ton royaume ? Notre famille veille sur eux, tu sais.
 Hades: C'est justement ce qui m'inquiète. Crois-tu vraiment que mes frères et les autres veilleront sur eux dans la vie aussi bien que nous ici, dans la mort ?
 Persephone: C'est vrai qu'on doit les garder indéfiniment, tandis que l'Olympe ne les garde que temporairement, mais nos parents surveillent tout de leur montagne. Et s'ils ferment l'œil de temps en temps, les mortels savent très bien se défendre eux-mêmes.
@@ -447,14 +447,14 @@ Persephone: Ils nous *aiment*, Hadès ! Ils nous vénèrent, ils parlent de nou
 Hades: ...Non. Non, j'imagine que non. Mais ils ont *besoin *de nous !
 
 
---- Persephone With Hades 02 ---
+--- Duo - Persephone and Hades (2) ---
 Hades: ...Et qu'en est-il des doléances de l'Élysée ? Ils souhaitaient que les pelouses soient parfaitement taillées pour leurs compétitions d'athlétisme.
 Persephone: C'est déjà fait. Mais les inondations dans l'Asphodèle, *hm*, ce n'est pas quelque chose que nous pourrons régler avant longtemps, je pense. Heureusement, les résidents semblent s'en accommoder.
 Hades: C'est vrai que nous recevons moins de plaintes ces derniers temps. Et les Satyres ? Ces maudites créatures pullulent encore, là-haut.
 Persephone: Eh bien, tant qu'ils ne sortent pas du temple... et puis, nous avons toujours Zagreus pour garder leur population sous contrôle, n'est-ce pas ?
 
 
---- Persephone With Hades 03 ---
+--- Duo - Persephone and Hades (3) ---
 Hades: ...Eh bien, quoi qu'il en soit... si jamais elles te causent le moindre problème, fais-le moi savoir, et je m'occuperai d'elles immédiatement.
 Persephone: *Oh*, Hadès... je crois que les ombres ici ont assez souffert comme ça ! Elles ne me dérangent pas. Après tout le temps que j'ai passé toute seule, ça me fait plaisir d'avoir de la compagnie.
 Hades: Tu es certaine que tous tes besoins ont été pourvus ? Parce que si jamais tu as la moindre demande...
@@ -463,32 +463,32 @@ Hades: Perséphone, je ne peux pas te promettre de telles choses, ces... tout ce
 Persephone: Je ne vais pas te dire comment concilier travail, vie de couple et responsabilités parentales. Je crois que personne sur l'Olympe ou en-dessous ne sait exactement comment s'y prendre. Tant qu'on fait de notre mieux...
 
 
---- Persephone With Hades 04 ---
+--- Duo - Persephone and Hades (4) ---
 Hades: ...Parfois, je... j'ai encore du mal à croire que tu sois là. De retour parmi nous. Ta radiance, dans toute cette obscurité... la vue de la côte doit sûrement te manquer.
 Persephone: Je me plaisais bien sur la côte, Hadès. Mais rien n'est jamais parfait, tu comprends ? Peu importe le mal qu'on se donne. Cela dit... je dirais qu'on se rapproche plutôt pas mal de la perfection ici, de temps en temps.
 Hades: Tu t'es habituée à cet endroit beaucoup plus vite que la première fois. Cela m'a surpris. Moi-même, je suis obligé d'être ici. Jamais je n'aurais pensé que quelqu'un de la surface descendrait ici par choix.
 Persephone: Le cœur peut nous dicter de drôles de conduites, parfois, n'est-ce pas ?
 
 
---- Persephone With Nyx 01 ---
+--- Duo - Persephone and Nyx (1) ---
 Persephone: ...Et s'il y a quoi que ce soit que je puisse faire pour toi, Nyx, n'hésite pas à me demander, d'accord ? Je compte bien faire ma part du travail.
 Nyx: Tes services ont toujours été les bienvenus. Prends tout le temps qu'il te faudra pour te réaccoutumer à la vie ici-bas. Je serai toujours à ta disposition si jamais tu as des questions.
 Persephone: Merci beaucoup, mon amie. Pour être franche avec toi... ça fait du bien d'être de retour.
 
 
---- Persephone With Nyx 02 ---
+--- Duo - Persephone and Nyx (2) ---
 Persephone: ...Je ne sais pas comment te remercier. Pour l'avoir élevé. Pour *tout*. Après mon départ... mis à part Cerbère, je crois que c'est toi qui m'as le plus manqué.
 Nyx: Je me souviens avoir ressenti le même genre d'émotions, à l'époque. Cela dit, il n'est pas nécessaire de me remercier ainsi. Tu es la Reine, et tu es de retour saine et sauve dans ton royaume. J'ai fait ce que n'importe qui aurait fait à ma place.
 Persephone: Tu penses que n'importe qui aurait élevé mon fils avec amour tout en gardant mon secret, échafaudé un plan complexe dans le but de provoquer notre rencontre, et par la suite mon retour ici, pour que je puisse boire du Nectar avec lui dans le salon ?
 
 
---- Persephone With Cerberus 01 ---
+--- Duo - Persephone and Cerberus (1) ---
 Persephone: Oh, Cerbère ! C'est bien grâce à toi que cette Maison tient encore debout. Tu as aimé la friandise que je t'ai rapportée de la surface ?
 Storyteller: *Le molosse des Enfers, dévoreur de friandises de surface, donne une réponse tout à fait affirmative à la Reine.*
 Persephone: Je le savais. On croirait vraiment que c'est de la viande, non ? Je vais voir si on peut en faire pousser ici pour toi.
 
 
---- Persephone With Cerberus 02 ---
+--- Duo - Persephone and Cerberus (2) ---
 Persephone: Tu es vraiment un bon chien, hein, mon Cerbère ? Mais oui ! Tu as gardé le royaume pendant mon absence. Et tu as même laissé mon fils me rendre visite !
 Storyteller: *Le vigilant et terrifiant Cerbère accepte modestement les éloges de la Reine.*
 
@@ -621,51 +621,51 @@ Persephone: Il fait bien plus froid au sommet de cette montagne qu'ici, je te le
 Persephone: C'est une jolie vue, après tous ces sommets enneigés.
 
 
---- Persephone Chat With Nyx 01 ---
+--- Duo - Chat and Nyx (1) ---
 Persephone: Oh, nous avons encore plein de sinistres plans à échafauder ensemble, Zagreus.
 
 
---- Persephone Chat With Nyx 02 ---
+--- Duo - Chat and Nyx (2) ---
 Persephone: Oh, il se trouve que Nyx est une source intarissable de conseils parentaux !
 
 
---- Persephone Chat With Nyx 03 ---
+--- Duo - Chat and Nyx (3) ---
 Persephone: Nyx me parlait juste de ton enfance, mon fils.
 
 
---- Persephone Chat With Nyx 04 ---
+--- Duo - Chat and Nyx (4) ---
 Persephone: On dirait bien que j'ai encore échoué à persuader Nyx de faire une pause !
 
 
---- Persephone Chat With Hades 01 ---
+--- Duo - Chat and Hades (1) ---
 Persephone: Si tu veux bien nous excuser un moment, Zagreus.
 
 
---- Persephone Chat With Hades 02 ---
+--- Duo - Chat and Hades (2) ---
 Persephone: Allez, Hadès. Essaye de lui dire quelque chose de gentil, pour une fois.
 
 
---- Persephone Chat With Hades 03 ---
+--- Duo - Chat and Hades (3) ---
 Persephone: Ton père et moi avons encore quelques dossiers à boucler.
 
 
---- Persephone Chat With Hades 04 ---
+--- Duo - Chat and Hades (4) ---
 Persephone: Le travail ne s'arrête vraiment jamais, Zagreus !
 
 
---- Persephone Chat With Hades 05 ---
+--- Duo - Chat and Hades (5) ---
 Persephone: On a largement assez de paperasse pour s'occuper !
 
 
---- Persephone Chat With Hades 06 ---
+--- Duo - Chat and Hades (6) ---
 Persephone: Il y a beaucoup de paperasse à faire, je peux te l'assurer, Zagreus !
 
 
---- Persephone Chat With Hades 07 ---
+--- Duo - Chat and Hades (7) ---
 Persephone: Ne soyez pas trop durs l'un envers l'autre, d'accord ?
 
 
---- Persephone Chat With Hades 08 ---
+--- Duo - Chat and Hades (8) ---
 Persephone: J'ai entendu dire que tu t'en sortais très bien dehors ces derniers temps, Zagreus.
 
 

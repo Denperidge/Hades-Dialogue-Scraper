@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"Percepiamo che non ti sei ancora rivolto alla reliquia che tu chiami Aegis. Ritarda i progetti delle Moire, dunque, se così desideri. Se cambiassi idea, rammenta queste parole: ''ti vedo ergerti saldo contro le vampe del serpente.''"
+|"Percepiamo che non ti sei ancora rivolto alla reliquia che tu chiami Aegis. Ritarda i progetti delle Moire, dunque, se così desideri. Se cambiassi idea, rammenta queste parole: *ti vedo ergerti saldo contro le vampe del serpente.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Ancora non hai usato la frase di risveglio che ti abbiamo impartito? O forse scegli semplicemente di non mostrarcene il risultato. Gradiremmo vederlo, prima o poi. Rammenta, Figlio di Ade: ''ti vedo opporti saldo contro le vampe del serpente.''"
+|"Ancora non hai usato la frase di risveglio che ti abbiamo impartito? O forse scegli semplicemente di non mostrarcene il risultato. Gradiremmo vederlo, prima o poi. Rammenta, Figlio di Ade: *ti vedo opporti saldo contro le vampe del serpente.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"Percepiamo che qualcosa ti turba, Figlio di Ade. Parla, dunque: di che si tratta? Potremmo decifrare i tuoi pensieri senza che tu proferisca parola, ma preferiamo che tu li condivida di tua volontà."
 |-
 |'''Zagreus'''
-|"''Ehm'', padron Caos? Riguardo alla dea Nyx, ecco... sembra voglia tornare a parlarti. Mi chiedevo: perché non provi a contattarla, qualche volta? Sembra convinta del fatto che stia a te fare la prima mossa."
+|"*Ehm*, padron Caos? Riguardo alla dea Nyx, ecco... sembra voglia tornare a parlarti. Mi chiedevo: perché non provi a contattarla, qualche volta? Sembra convinta del fatto che stia a te fare la prima mossa."
 |-
 |'''Chaos'''
 |"La dea Nyx vorrebbe parlare con noi...? Ciò è alquanto inaspettato, Figlio di Ade. Non ti starai prendendo gioco di noi, per caso? No... il tuo intento è palesemente sincero. In tal caso, non faremo alcuna promessa, ma... considereremo la possibilità."
@@ -249,7 +249,7 @@
 |"Percepiamo la tua costernazione nel guardarti attorno, Figlio di Ade. Hai un altro quesito, e la piena libertà di porcelo."
 |-
 |'''Zagreus'''
-|"Oh, è solo che... a volte mi domando, padron Caos... se tu hai creato tutto questo, allora... chi ha creato ''te''? Che cosa c'era qui, prima del tuo arrivo?"
+|"Oh, è solo che... a volte mi domando, padron Caos... se tu hai creato tutto questo, allora... chi ha creato *te*? Che cosa c'era qui, prima del tuo arrivo?"
 |-
 |'''Chaos'''
 |"Tutto ciò che vedi è la conseguenza del tramonto di un'era precedente. Non crediamo si sia trattato di un atto volontario; più un improvviso mutamento di stato, come una conflagrazione segue alla scintilla. Noi ci formammo allora, e demmo quindi forma a ogni altra cosa."
@@ -377,7 +377,7 @@
 |"Eri atteso, Figlio di Ade, poiché tramite te riusciamo a vedere. O meglio, tramite l'artefatto onniveggente che generammo all'alba dei tempi, e che ora, in mano tua, riassume la propria forma originaria. Puoi rispondere."
 |-
 |'''Zagreus'''
-|"Oh, intendi lo Scudo del Caos? O meglio, il ''tuo ''scudo, padron Caos. È un oggetto davvero notevole. Maestoso, perfino! Le tue prime creazioni devono essere state stupefacenti."
+|"Oh, intendi lo Scudo del Caos? O meglio, il *tuo *scudo, padron Caos. È un oggetto davvero notevole. Maestoso, perfino! Le tue prime creazioni devono essere state stupefacenti."
 |-
 |'''Chaos'''
 |"Una risposta accettabile. Ti siamo grati di averci concesso uno sguardo diretto al tuo vasto dominio."
@@ -390,10 +390,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"Abbiamo un messaggio per te, Figlio di Ade; risale a un tempo in cui molti fra i concetti in esso espressi non esistevano ancora. Recita: ''ti vedo ergerti saldo contro le vampe del serpente. ''Una frase di risveglio, per te e per la reliquia onniveggente di nostra creazione."
+|"Abbiamo un messaggio per te, Figlio di Ade; risale a un tempo in cui molti fra i concetti in esso espressi non esistevano ancora. Recita: *ti vedo ergerti saldo contro le vampe del serpente. *Una frase di risveglio, per te e per la reliquia onniveggente di nostra creazione."
 |-
 |'''Zagreus'''
-|"Una frase di risveglio e... una reliquia onniveggente. Intendi Aegis, giusto? Non ho che da dirgli ''ti vedo ergerti saldo contro le vampe del serpente'', quindi. Ma non puoi dirmi altro su che cosa significhi, o a chi si riferisca?"
+|"Una frase di risveglio e... una reliquia onniveggente. Intendi Aegis, giusto? Non ho che da dirgli *ti vedo ergerti saldo contro le vampe del serpente*, quindi. Ma non puoi dirmi altro su che cosa significhi, o a chi si riferisca?"
 |-
 |'''Chaos'''
 |"Oh, possiamo dirti quasi ogni cosa. Ma preferiremmo di gran lunga che tu apprendessi da solo le risposte ai tuoi quesiti."
@@ -401,13 +401,13 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"Questo non è qualcuno che riconosco, perciò... in nome di Ade! ''Ehm'', c'è nessuno? Chi mi chiama, se posso chiedere?"
+|"Questo non è qualcuno che riconosco, perciò... in nome di Ade! *Ehm*, c'è nessuno? Chi mi chiama, se posso chiedere?"
 |-
 |'''Chaos'''
 |"...Gli dèi dell'Olimpo si sono alquanto rammolliti... non sei d'accordo?"
 |-
 |'''Zagreus'''
-|"''Ehm''... ci conosciamo?"
+|"*Ehm*... ci conosciamo?"
 |-
 |'''Chaos'''
 |"Oh, ci siamo incontrati, in un certo senso. Noi conosciamo tutti, qui e altrove. Desideri lasciare questo luogo? Ebbene, è nostra intenzione renderti le cose un po' più interessanti... e se un giorno dovessi incontrare gli dèi dell'Olimpo, porta loro i nostri saluti."
@@ -710,42 +710,42 @@
 |'''Chaos'''
 |"Sei più che benvenuto in questo luogo."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"La tua presenza è gradita, Figlio di Ade, ma non trattenerti troppo, per cortesia."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Perdonaci, Figlio di Ade. Siamo impegnati in uno scambio di ricordi."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Figlio di Ade, riunirci alla dea Nyx ci reca profonda gioia."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Perdonaci, Figlio di Ade, ma vorremmo proseguire la nostra conversazione con la dea Nyx."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"Non vedevamo la dea Nyx da parecchio tempo."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"Non siamo molto avvezzi a tutta la compagnia che abbiamo di recente."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"Nostra figlia stava giusto ragguagliandoci sugli ultimi eventi all'interno della vostra Dimora."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"Come puoi osservare, noi e la dea Nyx siamo impegnati in una conversazione, al momento."

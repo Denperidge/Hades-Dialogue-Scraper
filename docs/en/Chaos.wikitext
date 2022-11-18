@@ -3,12 +3,12 @@
 ! colspan="2" |Chaos About Beowulf Aspect 01 A
 |-
 |'''Chaos'''
-|"I sense that you have not yet spoken with the all-seeing artifact you call Aegis. Tamper with the Fates' design, then, all you like. But if you change your mind, do speak the words to it: ''I see you stand your ground against the serpent's flame.''"
+|"I sense that you have not yet spoken with the all-seeing artifact you call Aegis. Tamper with the Fates' design, then, all you like. But if you change your mind, do speak the words to it: *I see you stand your ground against the serpent's flame.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"You have not yet used the waking-phrase that I imparted? Or perhaps you merely chose not to present me the result. I would quite like to see it, at some point. Remember, Son of Hades: Say to the all-seeing artifact, ''I see you stand your ground against the serpent's flame.''"
+|"You have not yet used the waking-phrase that I imparted? Or perhaps you merely chose not to present me the result. I would quite like to see it, at some point. Remember, Son of Hades: Say to the all-seeing artifact, *I see you stand your ground against the serpent's flame.*"
 |-
 ! colspan="2" |Chaos About Beowulf Aspect 02
 |-
@@ -171,7 +171,7 @@
 |"I sense that something is the matter, Son of Hades. Speak, then, what is on your mind? I can decipher some of it without your telling though would rather hear it from you voluntarily."
 |-
 |'''Zagreus'''
-|"''Erm'', Master Chaos? The goddess Nyx, she... seems to want to speak with you again. I wonder, would you maybe contact her sometime? She seems convinced it is your move to make if you so choose."
+|"*Erm*, Master Chaos? The goddess Nyx, she... seems to want to speak with you again. I wonder, would you maybe contact her sometime? She seems convinced it is your move to make if you so choose."
 |-
 |'''Chaos'''
 |"The goddess Nyx wishes to hear from me...? Now that is unexpected, Son of Hades, and I wonder if, perhaps, this is a jest of yours. Though, your intentions evidently are sincere. Then, I shall make no promises in this, except that... I am considering the possibility."
@@ -249,7 +249,7 @@
 |"I sense your consternation, Son of Hades, as you look about this space; you have another question, and are free to ask."
 |-
 |'''Zagreus'''
-|"Oh, it's just... I sometimes wonder, Master Chaos... if you created all of this, then... who created ''you''? What was this place before you arrived?"
+|"Oh, it's just... I sometimes wonder, Master Chaos... if you created all of this, then... who created *you*? What was this place before you arrived?"
 |-
 |'''Chaos'''
 |"All of this simply came to be, and so did I, presumably after a former time had finally reached its end. I hesitate to say it was an act of will. It was more like a sudden shift, as when a conflagration happens from a spark. I arrived at such a time, and all else then arrived, from me."
@@ -380,7 +380,7 @@
 |"I expected your arrival, Son of Hades. For I am able to see through you. Rather, through the all-seeing artifact, which sprang from me after the dawn of time, and now resembles, in your hands, its foremost form. Respond."
 |-
 |'''Zagreus'''
-|"What, you must mean the Shield of Chaos, here? ''Your ''shield, Master Chaos, I should say. It's a remarkable artifact. Imposing, too! Your original creations must have been astounding."
+|"What, you must mean the Shield of Chaos, here? *Your *shield, Master Chaos, I should say. It's a remarkable artifact. Imposing, too! Your original creations must have been astounding."
 |-
 |'''Chaos'''
 |"Your response is acceptable. And I am grateful to have had my recent firsthand glimpses of this vast domain."
@@ -393,10 +393,10 @@
 ! colspan="2" |Chaos Reveals Beowulf Aspect 01
 |-
 |'''Chaos'''
-|"I bear a message for you, Son of Hades. One recorded in an age when certain concepts it describes did not yet all exist. Remember this: ''I see you stand your ground against the serpent's flame. ''A waking-phrase, to which you and the all-seeing artifact of my creation may respond."
+|"I bear a message for you, Son of Hades. One recorded in an age when certain concepts it describes did not yet all exist. Remember this: *I see you stand your ground against the serpent's flame. *A waking-phrase, to which you and the all-seeing artifact of my creation may respond."
 |-
 |'''Zagreus'''
-|"A waking-phrase... and an all-seeing artifact, you must mean Aegis, right? So I'm to say to it, ''I see you stand your ground against the serpent's flame'', and it'll wake right up. Though, can you tell me what it means, or who?"
+|"A waking-phrase... and an all-seeing artifact, you must mean Aegis, right? So I'm to say to it, *I see you stand your ground against the serpent's flame*, and it'll wake right up. Though, can you tell me what it means, or who?"
 |-
 |'''Chaos'''
 |"Oh, I can tell you almost anything. However, I would much prefer it if you learned most of the answers you seek by yourself."
@@ -404,13 +404,13 @@
 ! colspan="2" |Chaos First Pick Up
 |-
 |'''Zagreus'''
-|"This is not someone I recognize... so, in the name of Hades! ''Erm'', hello? May I ask who's calling?"
+|"This is not someone I recognize... so, in the name of Hades! *Erm*, hello? May I ask who's calling?"
 |-
 |'''Chaos'''
 |"...The Olympians have all grown soft... would you not agree?"
 |-
 |'''Zagreus'''
-|"''Erm''... have we met?"
+|"*Erm*... have we met?"
 |-
 |'''Chaos'''
 |"Oh, we have met, in a way. I know everybody, here, and there. You wish to leave this place? Then, it is my wish to make your doing so a little bit more interesting... and, if you encounter the Olympians someday, do give them my regards."
@@ -713,42 +713,42 @@
 |'''Chaos'''
 |"You are most welcome here."
 |-
-! colspan="2" |Chaos With Nyx 01
+! colspan="2" |Duo - Chaos and Nyx (1)
 |-
 |'''Chaos'''
 |"Your presence is appreciated, Son of Hades, but please leave us here, for now."
 |-
-! colspan="2" |Chaos With Nyx 02
+! colspan="2" |Duo - Chaos and Nyx (2)
 |-
 |'''Chaos'''
 |"Forgive us, Son of Hades, as we are amid exchanging memories."
 |-
-! colspan="2" |Chaos With Nyx 03
+! colspan="2" |Duo - Chaos and Nyx (3)
 |-
 |'''Chaos'''
 |"Son of Hades, I am pleased the goddess Nyx returned to me."
 |-
-! colspan="2" |Chaos With Nyx 04
+! colspan="2" |Duo - Chaos and Nyx (4)
 |-
 |'''Chaos'''
 |"Forgive me, Son of Hades, but I must continue this discussion with the goddess Nyx."
 |-
-! colspan="2" |Chaos With Nyx 05
+! colspan="2" |Duo - Chaos and Nyx (5)
 |-
 |'''Chaos'''
 |"I had not seen the goddess Nyx in quite some time."
 |-
-! colspan="2" |Chaos With Nyx 06
+! colspan="2" |Duo - Chaos and Nyx (6)
 |-
 |'''Chaos'''
 |"I am quite unaccustomed to having all this company of late."
 |-
-! colspan="2" |Chaos With Nyx 07
+! colspan="2" |Duo - Chaos and Nyx (7)
 |-
 |'''Chaos'''
 |"My daughter was just in the midst of telling me the latest occurrences about your House."
 |-
-! colspan="2" |Chaos With Nyx 08
+! colspan="2" |Duo - Chaos and Nyx (8)
 |-
 |'''Chaos'''
 |"As you are able to observe, the goddess Nyx and I are in the midst of conversation now."

@@ -35,8 +35,8 @@ TheseusExtremeMeasures_IfYouWon02|Theseus Extreme Measures If You Won 02|Theseus
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Theseus|무장하고 전투를 준비하라, 친우 아스테리오스여! 내가 전차로 놈의 주변을 맴돌 테니 그 강력한 도끼로 놈을 조각내 버려라!
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Zagreus|내가 들을 수 있도록 소리지르지만 않으면 네 전략이 조금은 더 잘 먹힐 텐데 말이지. 어쨌든 네가 운전과 전투를 동시에 하면서 소리까지 지를 수 있다는 건 놀랍군.
 TheseusExtremeMeasures_IfYouWon03|Theseus Extreme Measures If You Won 03|Theseus|한편 *난*, 악마여, *네*가 아직도 살아서 숨쉬다는 것이 놀랍구나! 아스테리오스와 내가 곧 해결할 일시적인 상태다! *전장으로*!
-TheseusWithAsterius01|Theseus With Asterius 01|Minotaur|놈이 왔다, 왕. 무장을 작동한다. 전차가 제 시간에 고쳐져서 다행이군.
-TheseusWithAsterius01|Theseus With Asterius 01|Theseus|말도 안 되는 소리 말게, 친구! 우리가 받은 성스러운 가호가 있든 없든 우리는 저 지옥의 종자를 해치울 수 있다네! 그를 잡아라!
+TheseusWithAsterius01|Duo - Theseus and Asterius (1)|Minotaur|놈이 왔다, 왕. 무장을 작동한다. 전차가 제 시간에 고쳐져서 다행이군.
+TheseusWithAsterius01|Duo - Theseus and Asterius (1)|Theseus|말도 안 되는 소리 말게, 친구! 우리가 받은 성스러운 가호가 있든 없든 우리는 저 지옥의 종자를 해치울 수 있다네! 그를 잡아라!
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Theseus|눈을 돌려라, 악마야. 이 빛나는 마케도니아 청동에 눈이 멀기 싫다면 말이다! 네놈 같은 악마를 무찌를 준비가 되었느니라!
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Zagreus|준비가 됐다고? 지난번에 내가 너네 전차를 부쉈잖아. 심지어 포세이돈 님조차 네가 화려한 탈것만 좋아하는 허풍쟁이라고 아시던데.
 TheseusPoseidonQuestReaction01|Theseus Poseidon Quest Reaction 01|Theseus|어찌 감히 주제 넘게 포세이돈 님의 이름을 입에 올리느냐! 게다가 우리의 복잡한 과거까지 더럽히다니! 그 어떤 신도 포세이돈 님이 나와 아스테리오스를 아꼈던 만큼 네놈을 아끼지 않을 것이야!
@@ -79,14 +79,14 @@ TheseusLoseStreak02A|Theseus Lose Streak 02 A|Theseus|우리 사이를 갈라놓
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|자, 봐라. 건재한 모습으로 내가 돌아왔다! 아스테리오스도 함께! 이번만큼은 널 완전히 파멸시키겠다는 결연한 의지와 더불어 말이야!
 TheseusLoseStreak02|Theseus Lose Streak 02|Zagreus|그 말은 당신과 내가 영원히 끝나지 않을 폭력의 굴레에 갇혀 있다는 거네. 이 따분한 곳에서 시간을 보내기에 나쁘지 않은 방법 같네.
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|엘리시움을 그런 식으로 능멸하다니! 당장 그 말 취소하지 않으면 두고두고 뼈아프게 되새기게 해 주마! 아스테리오스, *나가서 싸우자*!
-TheseusWithAsterius02|Theseus With Asterius 02|Minotaur|우리는 널 쓰러뜨릴 준비가 되어 있다, 작은 자여. 그러나 네 힘을 얕보지는 않을 것이다.
-TheseusWithAsterius02|Theseus With Asterius 02|Theseus|무슨 소리, 아스테리오스! 나는 저 사악한 악마 놈의 비열한 전투 방식에 오직 경멸만을 품을 뿐이다! 우리는 놈을 쉽게 쓰러뜨릴 것이야!
-TheseusWithAsterius03|Theseus With Asterius 03|Theseus|축복받은 형제의 의리 앞에 너 같은 괴물에게 무슨 희망이 있겠냐?
-TheseusWithAsterius03|Theseus With Asterius 03|Minotaur|놈을 얕보지 말라, 왕. 놈은 보기보다 강하다. 이번에는 조심해야 한다.
-TheseusWithAsterius03|Theseus With Asterius 03|Theseus|물론 조심하고 있다네, 아스테리오스! 내가 살아있었더라면 지금쯤 저 놈을 내 창으로든, 아니면 가진 수단 무엇을 써서든 곤죽을 만들고 싶어 군침을 흘리고 있을 것이야! 자, *어서 가세*!
-TheseusWithAsterius04|Theseus With Asterius 04|Zagreus|테세우스, 네가 또 시끄럽게 떠벌리기 전에 이번에는 착한 아스테리오스의 말을 좀 들어보고 싶군! 너 때문에 아스테리오스가 말을 한마디도 못 하잖아.
-TheseusWithAsterius04|Theseus With Asterius 04|Minotaur|왕은 우리 모두를 대표하여 말한다, 작은 자여. 그럼에도 내가 말하는 것을 듣고 싶다면, 바라는 대로 해 주마.
-TheseusWithAsterius04|Theseus With Asterius 04|Theseus|나도 바라는 대로 해 주마! 네놈의 부드럽고 연약한 살점을 꿰뚫고 싶다고 울부짖는 내 창이 바라는 대로 해 줄 것이다! 이제 죽어라!
+TheseusWithAsterius02|Duo - Theseus and Asterius (2)|Minotaur|우리는 널 쓰러뜨릴 준비가 되어 있다, 작은 자여. 그러나 네 힘을 얕보지는 않을 것이다.
+TheseusWithAsterius02|Duo - Theseus and Asterius (2)|Theseus|무슨 소리, 아스테리오스! 나는 저 사악한 악마 놈의 비열한 전투 방식에 오직 경멸만을 품을 뿐이다! 우리는 놈을 쉽게 쓰러뜨릴 것이야!
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Theseus|축복받은 형제의 의리 앞에 너 같은 괴물에게 무슨 희망이 있겠냐?
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Minotaur|놈을 얕보지 말라, 왕. 놈은 보기보다 강하다. 이번에는 조심해야 한다.
+TheseusWithAsterius03|Duo - Theseus and Asterius (3)|Theseus|물론 조심하고 있다네, 아스테리오스! 내가 살아있었더라면 지금쯤 저 놈을 내 창으로든, 아니면 가진 수단 무엇을 써서든 곤죽을 만들고 싶어 군침을 흘리고 있을 것이야! 자, *어서 가세*!
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Zagreus|테세우스, 네가 또 시끄럽게 떠벌리기 전에 이번에는 착한 아스테리오스의 말을 좀 들어보고 싶군! 너 때문에 아스테리오스가 말을 한마디도 못 하잖아.
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Minotaur|왕은 우리 모두를 대표하여 말한다, 작은 자여. 그럼에도 내가 말하는 것을 듣고 싶다면, 바라는 대로 해 주마.
+TheseusWithAsterius04|Duo - Theseus and Asterius (4)|Theseus|나도 바라는 대로 해 주마! 네놈의 부드럽고 연약한 살점을 꿰뚫고 싶다고 울부짖는 내 창이 바라는 대로 해 줄 것이다! 이제 죽어라!
 TheseusPostEnding01|Theseus Post Ending 01|Theseus|보아라, 아스테리오스여. 사악한 적이 돌아왔다! 지상으로 도망쳤다는 소문은 거짓이었던 게 틀림 없구나!
 TheseusPostEnding01|Theseus Post Ending 01|Zagreus|아니, 그 소문은 정확하다고 봐야지. 그냥 내가 돌아온 거야! 널 계속 이렇게 박살내지 못하는 삶은 재미가 없을 것 같아서.
 TheseusPostEnding01|Theseus Post Ending 01|Theseus|오, *하하*. 배신에 정통한 자가 이렇게 *교묘한 * 변명을 하는구나! 네놈이 이 영역에 그렇게나 만족한다면, 항상 이 상태로 유지되도록 해 주마. 덤벼라!

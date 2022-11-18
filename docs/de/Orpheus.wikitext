@@ -33,7 +33,7 @@
 |"Oh, sei gegrüßt, Zagreus. Du siehst etwas bedrückt aus. Wie ist es, würdest vielleicht jetzt gern ein Lied hören?"
 |-
 |'''Zagreus'''
-|"Wie wäre es mit ''Die Klage''? Du hast das früher oft gespielt!"
+|"Wie wäre es mit *Die Klage*? Du hast das früher oft gespielt!"
 |-
 |'''Orpheus'''
 |"Oh, auf jenes Lied hast du Lust. Leider bringe ich es nicht mehr übers Herz, es anzustimmen. Es freut mich jedoch, dass es dir gefällt."
@@ -117,7 +117,7 @@
 |"Dur wirkst in letzter Zeit recht aufgewühlt, mein Freund. Ist irgendetwas nicht in Ordnung?"
 |-
 |'''Zagreus'''
-|"''Oh'', nein, es geht mir gut, Orpheus. Meine Gedanken kreisen bloß darum, was ich als Nächstes tun soll. Lauter Dinge, mit denen ich mich alleine auseinandersetzen muss."
+|"*Oh*, nein, es geht mir gut, Orpheus. Meine Gedanken kreisen bloß darum, was ich als Nächstes tun soll. Lauter Dinge, mit denen ich mich alleine auseinandersetzen muss."
 |-
 |'''Orpheus'''
 |"Ah, nun, das verstehe ich. Ich zögerte sehr lange, über meine vor langer Zeit verlorene Muse zu sprechen. Nun, wenn du eine Schulter zum Anlehnen brauchst, dann stehe ich wahrscheinlich da drüben..."
@@ -125,10 +125,10 @@
 ! colspan="2" |Orpheus About Hermes 01
 |-
 |'''Zagreus'''
-|"Oh, Orpheus, ich hörte von Hermes, dem Boten und Gott der Reise und so weiter? Es ist schon merkwürdig, dass ''ich ''dir seine Nachricht überbringe, aber er lässt dich grüßen! Und bewundert auch deine musikalischen Fähigkeiten."
+|"Oh, Orpheus, ich hörte von Hermes, dem Boten und Gott der Reise und so weiter? Es ist schon merkwürdig, dass *ich *dir seine Nachricht überbringe, aber er lässt dich grüßen! Und bewundert auch deine musikalischen Fähigkeiten."
 |-
 |'''Orpheus'''
-|"''Oh'', wie gütig von ihm, mein Freund! Als ich einst tief in dieses Reich eindrang, auf der Suche nach der Seele meiner verlorenen Muse... nachdem ich gänzlich versagte, war es der ehrwürdige Hermes, der sie davontrug. Es geschah so schnell. Er leistete ''exzellente ''Arbeit!"
+|"*Oh*, wie gütig von ihm, mein Freund! Als ich einst tief in dieses Reich eindrang, auf der Suche nach der Seele meiner verlorenen Muse... nachdem ich gänzlich versagte, war es der ehrwürdige Hermes, der sie davontrug. Es geschah so schnell. Er leistete *exzellente *Arbeit!"
 |-
 ! colspan="2" |Orpheus About Singing 01
 |-
@@ -136,7 +136,7 @@
 |"Ich wollte dich schon immer fragen, Orpheus... Von wem hast du gelernt, so zu singen? War wirklich Apoll selbst dein Lehrmeister?"
 |-
 |'''Orpheus'''
-|"''Oh'', die Quellen meiner Sangeskunst sind zahlreich und vielfältig, Zagreus. Jedenfalls bevor ich all meine Inspiration nur noch aus einer einzigen Quelle bezog. Ich verdanke meine Errungenschaften ihr und Apollo und den Göttern. Und meinen unermüdlichen Gesangsübungen!"
+|"*Oh*, die Quellen meiner Sangeskunst sind zahlreich und vielfältig, Zagreus. Jedenfalls bevor ich all meine Inspiration nur noch aus einer einzigen Quelle bezog. Ich verdanke meine Errungenschaften ihr und Apollo und den Göttern. Und meinen unermüdlichen Gesangsübungen!"
 |-
 ! colspan="2" |Orpheus About Nyx 01
 |-
@@ -163,7 +163,7 @@
 |"Also, ich muss zugeben, ich bin ziemlich verwirrt, mein Freund. Königin Persephone ist deine Mutter? Wieso zog sie hierher?"
 |-
 |'''Zagreus'''
-|"Tja, ''ähm''... es fing alles damit an, dass mein Vater sie auf dem Olymp erblickte und... sie verliebten sich wahnsinnig ineinander. Er entführte sie und brachte sie hierher. Die Olympier waren ziemlich besorgt, als sie ihr Verschwinden bemerkten. Aber jetzt ist alles in Ordnung! Es gibt keine Geheimnisse mehr."
+|"Tja, *ähm*... es fing alles damit an, dass mein Vater sie auf dem Olymp erblickte und... sie verliebten sich wahnsinnig ineinander. Er entführte sie und brachte sie hierher. Die Olympier waren ziemlich besorgt, als sie ihr Verschwinden bemerkten. Aber jetzt ist alles in Ordnung! Es gibt keine Geheimnisse mehr."
 |-
 |'''Orpheus'''
 |"Aber sicher würde die Mutter der Königin, die große Göttin Demeter... ihre Tochter dennoch gern hin und wieder sehen?"
@@ -172,7 +172,7 @@
 |"Oh, das! Die Sache ist die. Als Mutter hier war, verzehrte sie ein paar... Granatapfelkörner. Und dazu gibt es hier Regeln, weißt du! Das heißt, sie kann diesen Ort nicht sehr lange verlassen. Ich bin sicher, Demeter wird das verstehen. Und Frost und Eis verschwinden lassen, wenn ihre Tochter anwesend ist."
 |-
 |'''Orpheus'''
-|"Ah ja, Granatapfelkörner, natürlich, natürlich! Aber da ist noch eine Sache, die ich nicht begreife, nämlich... welche Rolle ''du ''bei all dem spielst? Ich dachte, du versuchtest, von hier zu entkommen?"
+|"Ah ja, Granatapfelkörner, natürlich, natürlich! Aber da ist noch eine Sache, die ich nicht begreife, nämlich... welche Rolle *du *bei all dem spielst? Ich dachte, du versuchtest, von hier zu entkommen?"
 |-
 |'''Zagreus'''
 |"Vergiss mich, Orpheus! Es geht nicht um mich, sondern um Mutter. Was wichtig ist, ist dass sie hier ist, wo sie hingehört."
@@ -297,7 +297,7 @@
 |"Unter Fachleuten würde man sie als Hymnus bezeichnen, mein Freund! Zur Würdigung der zahlreichen Prüfungen, die du in der Vergangenheit gemeistert hast und die dir verglichen mit all der Unbill, die dir jüngst widerfahren ist, sicherlich bedeutungslos vorkommen!"
 |-
 |'''Zagreus'''
-|"''Ähm'', es ist nur so... keine der Details in deinem Hymnus stimmen. Es ist alles Unsinn. Es war doch nur ein Scherz, Kumpel. Ich dachte, ich hätte das deutlich gemacht. Du wirst so schön lebhaft, wenn ich dir meine wilden Geschichten erzähle, weißt du? Du bist mir nicht böse, oder...?"
+|"*Ähm*, es ist nur so... keine der Details in deinem Hymnus stimmen. Es ist alles Unsinn. Es war doch nur ein Scherz, Kumpel. Ich dachte, ich hätte das deutlich gemacht. Du wirst so schön lebhaft, wenn ich dir meine wilden Geschichten erzähle, weißt du? Du bist mir nicht böse, oder...?"
 |-
 |'''Orpheus'''
 |"Ach du lieber Himmel, nein, mein Freund! Deine Demut ist so groß wie deine Beharrlichkeit in Zeiten des Ungemachs! Mögen deine großen Taten ewig weiterleben, so wie du!"
@@ -378,7 +378,7 @@
 ! colspan="2" |Orpheus About Eurydice 04
 |-
 |'''Orpheus'''
-|"Was gibt es für Neuigkeiten über Eurydike, mein Freund? Sie ist sicher noch so grazil, wie ich sie beschrieben habe? ''Ah'', aber ich verweile wieder einmal in Gedanken bei ihr, wie es scheint."
+|"Was gibt es für Neuigkeiten über Eurydike, mein Freund? Sie ist sicher noch so grazil, wie ich sie beschrieben habe? *Ah*, aber ich verweile wieder einmal in Gedanken bei ihr, wie es scheint."
 |-
 |'''Zagreus'''
 |"Ich wusste ja, dass sie eine begabte Musikantin ist, Kumpel. Aber du hattest nie erwähnt, wie unglaublich gut sie kochen kann. Sie war bei jeder unserer Begegnungen gastfreundlich. Du scheinst jedoch noch immer ein etwas heikles Thema zu sein."
@@ -425,7 +425,7 @@
 |'''Orpheus'''
 |"Gehör verschaffen...? Aber ich bin Hofmusikant in diesem Haus. Meine Gesänge erreichen nicht mehr allzu viele Ohren. Obwohl... all die hiesigen Schatten... sie sind wohl auch mein Publikum. Ich werde dafür sorgen, dass sie wissen, wessen Gesänge ich vortrage."
 |-
-! colspan="2" |Orpheus Progress With Eurydice 01
+! colspan="2" |Duo - Progress and Eurydice (1)
 |-
 |'''Orpheus'''
 |"Ich muss dir etwas beichten, mein Freund. Meine Gedanken sind noch immer noch recht oft bei Eurydike und meinen Erinnerungen an sie. Trotz all meiner Versuche, mich mit meinem hiesigen Dasein abzufinden. Ich würde das als fatalen Fehler bezeichnen, aber ich bin ja schon tot."
@@ -436,7 +436,7 @@
 |'''Orpheus'''
 |"Früher hatte ich auch Ideen, Zagreus. Ideen und Eingebungen. Es war so wundervoll, eine Muse zu haben..."
 |-
-! colspan="2" |Orpheus Progress With Eurydice 02
+! colspan="2" |Duo - Progress and Eurydice (2)
 |-
 |'''Zagreus'''
 |"Ich habe dir etwas mitgebracht, Orpheus. Es ist ein neues Lied. Von jemandem, der dich immer noch gern hat."
@@ -450,12 +450,12 @@
 |"Du singst wunderschön, Kumpel. Könnte Eurydike dich doch jetzt singen hören."
 |-
 |'''Orpheus'''
-|"Oh. Danke für dein Mitgefühl, mein Freund. Es ist nur... wenn ich ihr Lied singe, spüre ich dort, wo früher mein Herz war, dass sie... es vielleicht ''kann''."
+|"Oh. Danke für dein Mitgefühl, mein Freund. Es ist nur... wenn ich ihr Lied singe, spüre ich dort, wo früher mein Herz war, dass sie... es vielleicht *kann*."
 |-
 ! colspan="2" |Orpheus About Singers Reunion Quest 01
 |-
 |'''Orpheus'''
-|"Zagreus! Ein Wunder ist geschehen! Meine Arbeitsbedingungen wurden so verändert, dass... ich gelegentlich einen Ausflug nach Asphodel machen darf. Dass ich ''sie '' besuchen darf."
+|"Zagreus! Ein Wunder ist geschehen! Meine Arbeitsbedingungen wurden so verändert, dass... ich gelegentlich einen Ausflug nach Asphodel machen darf. Dass ich *sie * besuchen darf."
 |-
 |'''Zagreus'''
 |"Das ist großartig! Orpheus, worauf wartest du denn noch, Kumpel? Geh und besuche deine Muse da draußen! Ihr habt euch doch bestimmt viel zu erzählen."
@@ -486,7 +486,7 @@
 |"Ich muss dich etwas fragen, Orpheus. Eigentlich läuft doch alles gut für dich in letzter Zeit, aber... du siehst nicht sonderlich glücklich aus, Kumpel. Ist alles in Ordnung? Zwischen dir und Eurydike, meine ich?"
 |-
 |'''Orpheus'''
-|"Oh, ''haha'', ich weiß deine Besorgnis zu schätzen, Freund. Ich bin in ein Gefühl der immerwährenden Glückseligkeit eingehüllt. Man sieht es mir nur nicht äußerlich an. Vielleicht bringe ich mein Inneres am besten durch Gesang zum Ausdruck."
+|"Oh, *haha*, ich weiß deine Besorgnis zu schätzen, Freund. Ich bin in ein Gefühl der immerwährenden Glückseligkeit eingehüllt. Man sieht es mir nur nicht äußerlich an. Vielleicht bringe ich mein Inneres am besten durch Gesang zum Ausdruck."
 |-
 ! colspan="2" |Orpheus About Singers Reunion Quest Complete 03
 |-
@@ -505,7 +505,7 @@
 ! colspan="2" |Orpheus Post Ending 01
 |-
 |'''Zagreus'''
-|"Eine Frage, Orpheus! Ich hörte einen Gesang, der wohl aus deiner Feder stammen muss. Er ging ungefähr so: ''blahblah, blahblah, im Blute'', weißt du, was ich meine? Es war überwältigend, Kumpel."
+|"Eine Frage, Orpheus! Ich hörte einen Gesang, der wohl aus deiner Feder stammen muss. Er ging ungefähr so: *blahblah, blahblah, im Blute*, weißt du, was ich meine? Es war überwältigend, Kumpel."
 |-
 |'''Orpheus'''
 |"Oh, ja, ich weiß! Wie man mir sagte, fand er viel Anklang bei denjenigen, die der von mir und meiner Muse komponierten Musik lauschten. Das waren sehr produktive Zeiten, damals, als wir noch lebten!"
@@ -575,7 +575,7 @@
 |'''Zagreus'''
 |"Danke, dass du mich ermutigt hast, es mal auszuprobieren, Kumpel. Und für die netten Worte."
 |-
-! colspan="2" |Orpheus With Hades 01
+! colspan="2" |Duo - Orpheus and Hades (1)
 |-
 |'''Orpheus'''
 |"...Du riefst nach deinem ergebenen Hofmusikanten, ehrwürdiger Hades, Herr? Damit meine ich natürlich mich."
@@ -589,7 +589,7 @@
 |'''Hades'''
 |"Ist das so...? Dann werde ich wohl warten. Ich habe alle Geduld der Welt."
 |-
-! colspan="2" |Orpheus With Hades 02
+! colspan="2" |Duo - Orpheus and Hades (2)
 |-
 |'''Hades'''
 |"Hilf mir, eines zu verstehen, Orpheus. Warum halte ich mir einen derart nutzlosen Schatten eines Hofmusikanten in meinem Haus? Du plapperst unaufhörlich, und doch bekomme ich keine einzigen Ton aus dir heraus?"
@@ -600,7 +600,7 @@
 |'''Hades'''
 |"Ich habe deine Unverfrorenheit bisher erduldet. Wir sind hier fertig. Finde deine Stimme wieder, und zwar unverzüglich! Du hast einhundert Jahre Zeit, und keinen Augenblick mehr."
 |-
-! colspan="2" |Orpheus With Hades 03
+! colspan="2" |Duo - Orpheus and Hades (3)
 |-
 |'''Hades'''
 |"Bist du endlich wieder zur Besinnung gekommen, Orpheus? Ein Hofmusikant, der sich weigert, zu singen! Was für ein Unsinn. Ich hoffe doch, du wirst dich in Zukunft nicht mehr widersetzen?"
@@ -611,7 +611,7 @@
 |'''Hades'''
 |"Du redest ja immer noch von deiner so genannten Muse. Du hattest deine Chance mit Eurydike. Und hast sie vertan. Und nun bist du hier; abgemacht ist abgemacht.  Ich erwarte, dass du deinen Teil der Vereinbarung einhältst."
 |-
-! colspan="2" |Orpheus With Hades 04
+! colspan="2" |Duo - Orpheus and Hades (4)
 |-
 |'''Orpheus'''
 |"...Es freut mich, zu hören, dass meine neue, flexiblere Abmachung weiterhin deine Zustimmung findet, mein Herr. Ich hatte befürchtet, mein Weggang würde erneut zu einem längeren Aufenthalt in den Abgründen des Tartaros führen."
@@ -622,7 +622,7 @@
 |'''Orpheus'''
 |"Dein Wunsch ist mir Befehl, mein Herr. Eurydike und ich sind dir für deinen Großmut dankbar."
 |-
-! colspan="2" |Orpheus With Achilles 01
+! colspan="2" |Duo - Orpheus and Achilles (1)
 |-
 |'''Orpheus'''
 |"...Du bist viel zu bescheiden, ehrwürdiger Achilles, wo du doch so zahlreiche Heldentaten und Enthauptungen vollbracht hast! Du solltest dir ein Beispiel am ewig prahlenden Zagreus nehmen und mehr Aufhebens um dich machen!"
@@ -630,7 +630,7 @@
 |'''Achilles'''
 |"Oh, keine Sorge, Orpheus, ich habe zu meiner Zeit reichlich geprahlt. Und wo bin ich zum Schluss gelandet? Außerdem ist es mir nicht gegeben, so fantastische Geschichten wie unser Prinz Zagreus zu erfinden."
 |-
-! colspan="2" |Orpheus With Achilles 02
+! colspan="2" |Duo - Orpheus and Achilles (2)
 |-
 |'''Orpheus'''
 |"...Vermisst du es, ehrwürdiger Achilles, Herr? Die frische Luft. Den Drang, mehrmals täglich zu speisen, und so weiter."
@@ -641,10 +641,10 @@
 |'''Orpheus'''
 |"Oh, im Gegenteil, Herr, ich bin durch und durch zufrieden. Wir dürfen uns glücklich schätzen, auch nach dem Tod noch einen Dienst verrichten zu dürfen. Wer möchte schon ewig ruhen, wenn man einer Arbeit nachgehen kann!"
 |-
-! colspan="2" |Orpheus With Persephone 01
+! colspan="2" |Duo - Orpheus and Persephone (1)
 |-
 |'''Persephone'''
-|"...''Ah'', was für ein Gedanke, dass unser hochverehrter Hofmusikant kein anderer als ''du '' bist, Orpheus! Wenigstens in Musikdingen haben Hades und ich einen ähnlichen Geschmack. Aber ich möchte dich nicht aufhalten!"
+|"...*Ah*, was für ein Gedanke, dass unser hochverehrter Hofmusikant kein anderer als *du * bist, Orpheus! Wenigstens in Musikdingen haben Hades und ich einen ähnlichen Geschmack. Aber ich möchte dich nicht aufhalten!"
 |-
 |'''Orpheus'''
 |"Es wird mir eine Ehre sein, meine Gesänge vorzutragen, eure Hoheit. Und, wenn ich es wagen darf, euer Hoheit hat viele der hervorragenden Eigenschaften ihres Sohnes? Ich verstehe jetzt, woher er seinen Charme hat."
@@ -984,7 +984,7 @@
 ! colspan="2" |Orpheus Gift 03
 |-
 |'''Orpheus'''
-|"''Oh'', ich danke dir sehr, dass du wieder an mich gedacht hast. Welch wunderbar aufmerksames Geschenk!"
+|"*Oh*, ich danke dir sehr, dass du wieder an mich gedacht hast. Welch wunderbar aufmerksames Geschenk!"
 |-
 |'''Zagreus'''
 |"Nur eine Kleinigkeit, Orpheus. Danke für all deine inspirierenden Lieder. Ich liebe deine Werke, Kumpel."
@@ -1052,7 +1052,7 @@
 |'''Orpheus'''
 |"Danke, mein Freund. Hätte ich doch die Fähigkeit, mich daran zu erfreuen."
 |-
-! colspan="2" |Orpheus With Eurydice 01
+! colspan="2" |Duo - Orpheus and Eurydice (1)
 |-
 |'''Orpheus'''
 |"Ach, Zagreus, wie wundervoll, dich hierzu sehen. Eurydike und ich sind dabei, einander über all die Dinge zu informieren, die sich seit unserer Trennung zugetragen haben."
@@ -1060,7 +1060,7 @@
 |'''Eurydice'''
 |"Genau. Würdest du uns eine kleine Weile entschuldigen, mein Lieber? Ein paar Lücken gilt es noch zu schließen. Aber erst einmal, ehe du gehst!"
 |-
-! colspan="2" |Orpheus With Eurydice 02
+! colspan="2" |Duo - Orpheus and Eurydice (2)
 |-
 |'''Zagreus'''
 |"Was für ein unvergleichlicher Genuss. Ihr mögt zwar jeder für sich gut klingen, aber im Duett seid ihr einfach wundervoll."
@@ -1074,7 +1074,7 @@
 |'''Orpheus'''
 |"Tja, du hast natürlich recht, meine Liebe. Wenn du uns bitte entschuldigen würdest, Zagreus? Unsere Gabe ruft."
 |-
-! colspan="2" |Orpheus With Eurydice 03
+! colspan="2" |Duo - Orpheus and Eurydice (3)
 |-
 |'''Zagreus'''
 |"He, ihr beiden, wie geht's denn so in letzter Zeit? Ihr redet wieder miteinander? Oder singt gar?"
@@ -1085,65 +1085,65 @@
 |'''Eurydice'''
 |"Orphy schafft es einfach nicht, die Sache damals auf sich beruhen zu lassen, mein Lieber. Aber wir machen Fortschritte. Danke, dass du ihn hierher geschickt hast. Ich bin sicher, du musstest ihm gut zureden."
 |-
-! colspan="2" |Orpheus With Eurydice End Theme 01
+! colspan="2" |Duo - Orpheus and Eurydice End Theme (1)
 |-
 |'''Zagreus'''
-|"He, du singst ja doch ''Im Blute'', Orpheus! Danke, dass du mir meinen Wunsch erfüllst!"
+|"He, du singst ja doch *Im Blute*, Orpheus! Danke, dass du mir meinen Wunsch erfüllst!"
 |-
 |'''Orpheus'''
 |"Oh, es ist mir natürlich ein Vergnügen, Zagreus. Dieser Gesang von Eurydike und mir liegt mir besonders am Herzen. Weckte in mir ein paar schöne Erinnerungen!"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 10
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (10)
 |-
 |'''Orpheus'''
 |"...Sicher weißt du, dass du heute genauso wundervoll klingst wie früher, meine Liebe!"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 11
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (11)
 |-
 |'''Orpheus'''
 |"Ist sie nicht absolut wundervoll, mein Freund?"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 12
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (12)
 |-
 |'''Orpheus'''
 |"Wir singen und singen und werden des Singens nicht müde, Zagreus!"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 13
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (13)
 |-
 |'''Orpheus'''
 |"Ich hatte keine Hoffnung, sie je wiederzusehen. Das habe ich dir zu verdanken, mein Freund."
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 14
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (14)
 |-
 |'''Orpheus'''
 |"Wenn wir gemeinsam singen, Zagreus, verliere ich jedes Zeitgefühl."
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 15
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (15)
 |-
 |'''Orpheus'''
 |"Ist Eurydikes Gesang nicht ein unvergleichlicher Ohrenschmaus?"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 16
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (16)
 |-
 |'''Orpheus'''
 |"Wird es wohl je eine zweite liebreizende Stimme wie die von Eurydike geben, mein Freund?"
 |-
-! colspan="2" |Orpheus With Eurydice Misc Chat 17
+! colspan="2" |Duo - Orpheus and Eurydice Misc Chat (17)
 |-
 |'''Orpheus'''
 |"Es freut mich, dass du uns hier besuchen konntest, mein Freund."
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 05
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (5)
 |-
 |'''Orpheus'''
 |"Ich weiß, dass dir dieser Gesang gefällt, mein Freund!"
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 06
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (6)
 |-
 |'''Orpheus'''
 |"Dies hier erinnert mich an die Tage, als meine Eurydike und ich noch am Leben waren...!"
 |-
-! colspan="2" |Orpheus With Eurydice In The Blood Chat 07
+! colspan="2" |Duo - Orpheus and Eurydice In The Blood Chat (7)
 |-
 |'''Orpheus'''
 |"Dieser Gesang war einst recht populär."

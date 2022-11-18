@@ -28,7 +28,7 @@
 |"J'essaye de rejoindre la surface. Mais vos frères d'armes me barrent la route. Pour la gloire, ou sur ordre de mon père."
 |-
 |'''Patroclus'''
-|"Ton père...? ''Ah'', c’est donc ça, tu es le Prince. Tu dois donc voir, maintenant, ce que t'apporte ta lignée ici-bas : rien du tout. Tu ne vaux pas mieux que nous tous. Maintenant, pars."
+|"Ton père...? *Ah*, c’est donc ça, tu es le Prince. Tu dois donc voir, maintenant, ce que t'apporte ta lignée ici-bas : rien du tout. Tu ne vaux pas mieux que nous tous. Maintenant, pars."
 |-
 ! colspan="2" |Patroclus Meeting 04
 |-
@@ -181,7 +181,7 @@
 |"Je recherche un certain Achille. Il était plutôt célèbre chez les vivants, mais chez les morts... qui sait ? Je pensais qu’il serait ici, mais il semblerait que non."
 |-
 |'''Zagreus'''
-|"...Achille... j'ai déjà entendu ce nom. Et, ''euh'', est-ce que je peux savoir pourquoi vous voulez de ses nouvelles ? Au cas où on me demanderait."
+|"...Achille... j'ai déjà entendu ce nom. Et, *euh*, est-ce que je peux savoir pourquoi vous voulez de ses nouvelles ? Au cas où on me demanderait."
 |-
 |'''Patroclus'''
 |"C’est juste que... il me manque, étranger. C’est tout."
@@ -195,7 +195,7 @@
 |"Vous connaissez Achille, n’est-ce pas, monsieur ? Vous êtes Patrocle. Achille... travaille pour mon père à la Maison. C'est lui qui m'a appris à me battre. Il vous envoie son bon souvenir et son amour. Il m'a demandé de vous dire qu’il pense toujours à vous."
 |-
 |'''Patroclus'''
-|"...Ce nom. Alors comme ça, tu l'as vu. Chez ton père. Et tu veux que je croie qu’il a dit tout ça ? ''Tsk''. Tu m'excuseras si je suis un peu sceptique. Dans la vie, j’ai abandonné Achille. Et dans la mort, c’est lui qui m’a abandonné. Nous sommes quittes. Et nous n’avons plus rien à nous dire, désormais."
+|"...Ce nom. Alors comme ça, tu l'as vu. Chez ton père. Et tu veux que je croie qu’il a dit tout ça ? *Tsk*. Tu m'excuseras si je suis un peu sceptique. Dans la vie, j’ai abandonné Achille. Et dans la mort, c’est lui qui m’a abandonné. Nous sommes quittes. Et nous n’avons plus rien à nous dire, désormais."
 |-
 |'''Zagreus'''
 |"Non, ça n’est pas possible. Il doit y avoir un malentendu. Vous ne vous êtes pas parlé depuis votre mort ?"
@@ -209,7 +209,7 @@
 |"Patrocle. Oui, je sais qui vous êtes, monsieur. Et vous connaissez Achille. Il travaille pour mon père à la Maison. C'est lui qui m'a appris à me battre. Il vous envoie son bon souvenir et son amour. Il m'a demandé de vous dire qu’il pense toujours à vous."
 |-
 |'''Patroclus'''
-|"...''Ah''. Alors comme ça, tu l'as vu. Chez ton père. Et tu veux que je croie qu’il a dit tout ça ? ''Tsk''. Tu m'excuseras si je suis un peu sceptique. Dans la vie, j’ai abandonné Achille. Et dans la mort, c’est lui qui m’a abandonné. Nous sommes quittes. Et nous n’avons plus rien à nous dire, désormais."
+|"...*Ah*. Alors comme ça, tu l'as vu. Chez ton père. Et tu veux que je croie qu’il a dit tout ça ? *Tsk*. Tu m'excuseras si je suis un peu sceptique. Dans la vie, j’ai abandonné Achille. Et dans la mort, c’est lui qui m’a abandonné. Nous sommes quittes. Et nous n’avons plus rien à nous dire, désormais."
 |-
 ! colspan="2" |Patroclus About Achilles 02
 |-
@@ -250,13 +250,13 @@
 ! colspan="2" |Patroclus About Achilles 04
 |-
 |'''Patroclus'''
-|"Il est toujours aussi têtu, je me trompe ? Il a toujours été intraitable. Est-ce qu'il t'a parlé de la guerre que nous avons faite ? Que ''j'ai ''faite, devrais-je dire. Il aurait pu y mettre fin... mais au lieu de ça, il a refusé de prendre les armes."
+|"Il est toujours aussi têtu, je me trompe ? Il a toujours été intraitable. Est-ce qu'il t'a parlé de la guerre que nous avons faite ? Que *j'ai *faite, devrais-je dire. Il aurait pu y mettre fin... mais au lieu de ça, il a refusé de prendre les armes."
 |-
 |'''Zagreus'''
 |"Achille ne m'a jamais beaucoup parlé de sa vie, non. Vous dites qu'il a refusé de se battre ? J'ai entendu dire que les mortels ne voyaient pas toujours ça d'un bon œil, mais... pourquoi est-ce qu'il aurait dû se battre s'il ne croyait pas en la cause ?"
 |-
 |'''Patroclus'''
-|"Mais il ''croyait '' en notre cause ! Peu importe si ce n'était pas complètement la sienne. Sans son entêtement, je... eh bien... je serais arrivé ici un peu plus tard, je pense."
+|"Mais il *croyait * en notre cause ! Peu importe si ce n'était pas complètement la sienne. Sans son entêtement, je... eh bien... je serais arrivé ici un peu plus tard, je pense."
 |-
 |'''Zagreus'''
 |"Il s'en veut pour ce qui vous est arrivé, vous savez. Je croyais qu'il avait échoué à vous protéger, ou quelque chose comme ça, pas que... pas qu'il ne s'était pas battu du tout. Mais il a dit autre chose, soi-disant que peu après votre mort, il est parti au combat, fou de rage..."
@@ -279,7 +279,7 @@
 |"Il faut que vous sachiez quelque chose, monsieur. Vous avez été enterrés ensemble. Enfin, vos cendres. Ça a été son dernier vœu. Et pour ce qui est de comment il s'est retrouvé à travailler chez mon père, je pense que c'est quelque chose qu'il pourra vous expliquer mieux que moi. Et je ferai tout mon possible pour qu'il en ait l'occasion."
 |-
 |'''Patroclus'''
-|"...Nos cendres, tu dis ? Ensemble ? ''Tsk. '' Cet idiot. On aurait pu vivre ! Au lieu d'engraisser les vers de terre... enfin bon. Merci pour le renseignement, étranger. Maintenant... va-t'en, s'il te plaît."
+|"...Nos cendres, tu dis ? Ensemble ? *Tsk. * Cet idiot. On aurait pu vivre ! Au lieu d'engraisser les vers de terre... enfin bon. Merci pour le renseignement, étranger. Maintenant... va-t'en, s'il te plaît."
 |-
 ! colspan="2" |Patroclus About Achilles 06
 |-
@@ -290,7 +290,7 @@
 |"Ne vous en faites pas, monsieur. Achille est l'un de mes amis les plus proches, mais... il n'aime pas beaucoup parler de lui. De cette époque. Ça doit être très douloureux. Pour vous deux."
 |-
 |'''Patroclus'''
-|"Oh, on peut dire que nous avons eu notre lot de souffrances, mais... savoir qu'il a voulu me rejoindre dans la mort... ''Après '' la mort... Voilà qui apaise un peu mon tourment. Tout comme ces conversations, je crois."
+|"Oh, on peut dire que nous avons eu notre lot de souffrances, mais... savoir qu'il a voulu me rejoindre dans la mort... *Après * la mort... Voilà qui apaise un peu mon tourment. Tout comme ces conversations, je crois."
 |-
 ! colspan="2" |Patroclus About Myrmidon Reunion Quest 01
 |-
@@ -304,12 +304,12 @@
 |"Si je connais bien mon Achille, alors il est sûrement encore très réservé, concernant notre situation. Comment quelqu'un peut-il être si fougueux et à la fois ne jamais vouloir prendre de risques ? Dis-lui juste que j'ai dit de tout risquer."
 |-
 |'''Zagreus'''
-|"Tout risquer ? Mais risquer ''quoi ''? Il ne veut que ce qu'il y a de mieux pour vous. Il ne voudrait pas qu'il vous arrive quoi que ce soit."
+|"Tout risquer ? Mais risquer *quoi *? Il ne veut que ce qu'il y a de mieux pour vous. Il ne voudrait pas qu'il vous arrive quoi que ce soit."
 |-
 |'''Patroclus'''
 |"Il est un peu tard pour s'inquiéter de ça. En partant du principe que ce que tu m'as dit est vrai... j'ose dire qu'il semble que nous avons plus à gagner qu'à perdre, sur ce coup-là. Après tout, la peur n'est-elle pas pour les faibles ?"
 |-
-! colspan="2" |Patroclus With Achilles 01
+! colspan="2" |Duo - Patroclus and Achilles (1)
 |-
 |'''Achilles'''
 |"Je savais qu'on finirait par te croiser, mais... comme c'est étrange de nous retrouver ici, mon garçon. De voir cet endroit de mes propres yeux. Je n'en reviens toujours pas..."
@@ -323,7 +323,7 @@
 |'''Patroclus'''
 |"Allons, inutile de la jouer sentimental. Nous autres Myrmidons, nous ne sommes pas de ce genre-là. Achille fait simplement une pause après un travail exigeant, c'est tout. Toi aussi, ton travail est exigeant, alors tiens ! Mon petit cadeau habituel."
 |-
-! colspan="2" |Patroclus With Achilles 02
+! colspan="2" |Duo - Patroclus and Achilles (2)
 |-
 |'''Patroclus'''
 |"Tiens donc, le disciple d'Achille est venu nous rendre visite. Je ne sais pas comment je pourrai te remercier pour ce que tu as fait, étranger. En fait, je crois bien que c'est impossible."
@@ -337,7 +337,7 @@
 |'''Patroclus'''
 |"C'est ce que je comptais faire de toute façon, mais... si jamais tu penses à autre chose, n'hésite pas à nous le faire savoir."
 |-
-! colspan="2" |Patroclus With Achilles 03
+! colspan="2" |Duo - Patroclus and Achilles (3)
 |-
 |'''Patroclus'''
 |"Ah, te voilà, étranger. Donne-nous ton avis, s'il te plaît. Tu ne crois pas qu'Achille ferait un excellent Champion de l'Élysée ? Parce que moi, je crois que n'importe qui serait meilleur que le champion actuel."
@@ -425,7 +425,7 @@
 |"Dites, monsieur, je me suis toujours demandé... à quoi ressemblait Achille ? Je veux dire, dans sa jeunesse. Si vous voulez en parler, bien sûr."
 |-
 |'''Patroclus'''
-|"''Hah''. Il n'est pas évident de décrire comment quelqu'un était... Tous ceux qui l'ont vu sur le champ de bataille s'accordaient à dire qu'il était magnifique, étranger. Ses alliés comme ses ennemis. Mais je crois qu'il y avait plus que ça en lui. Une certaine attitude. Un sens de la justice. Je l'ai connu avant ses jours de guerrier. C'est la seule raison pour laquelle je l'ai aimé, je crois."
+|"*Hah*. Il n'est pas évident de décrire comment quelqu'un était... Tous ceux qui l'ont vu sur le champ de bataille s'accordaient à dire qu'il était magnifique, étranger. Ses alliés comme ses ennemis. Mais je crois qu'il y avait plus que ça en lui. Une certaine attitude. Un sens de la justice. Je l'ai connu avant ses jours de guerrier. C'est la seule raison pour laquelle je l'ai aimé, je crois."
 |-
 ! colspan="2" |Patroclus About Theseus 01
 |-
@@ -919,7 +919,7 @@
 |"Hé, écoutez, je peux voir que vous passez un mauvais moment, et... ce n’est peut-être pas la meilleure façon de vous aider, mais... je voudrais que vous preniez ça."
 |-
 |'''Patroclus'''
-|"''Ah'', alors comme ça, tu as pitié de moi ? Eh bien, je n’ai pas autant de fierté que beaucoup d’autres ici, alors j’accepte. Mais laisse-moi te donner quelque chose en retour, tu veux bien ?"
+|"*Ah*, alors comme ça, tu as pitié de moi ? Eh bien, je n’ai pas autant de fierté que beaucoup d’autres ici, alors j’accepte. Mais laisse-moi te donner quelque chose en retour, tu veux bien ?"
 |-
 ! colspan="2" |Patroclus Gift 02
 |-
@@ -932,7 +932,7 @@
 ! colspan="2" |Patroclus Gift 03
 |-
 |'''Patroclus'''
-|"''Ah'', un moyen de noyer temporairement mes chagrins. C’est bien. Et c’est assez gentil de ta part, je dois dire."
+|"*Ah*, un moyen de noyer temporairement mes chagrins. C’est bien. Et c’est assez gentil de ta part, je dois dire."
 |-
 |'''Zagreus'''
 |"Ce n’est rien. Merci de ne pas avoir essayé de me tuer pour pouvoir vous en vanter ensuite, comme n'importe qui d'autre l’aurait fait ici."
@@ -981,7 +981,7 @@
 |"Je ne vois plus la bouteille d'Ambroisie que je vous ai donnée l'autre fois, ce qui veut sûrement dire... qu'il vous en faut une autre. Tenez, monsieur. Merci pour votre soutien sans faille."
 |-
 |'''Patroclus'''
-|"C'est ''moi '' que tu remercies, étranger ? Je suis là depuis longtemps, mais... je dois avouer que certaines des coutumes ici m'échappent encore. Tu as fait plus pour moi que je ne pouvais en attendre de qui que ce soit."
+|"C'est *moi * que tu remercies, étranger ? Je suis là depuis longtemps, mais... je dois avouer que certaines des coutumes ici m'échappent encore. Tu as fait plus pour moi que je ne pouvais en attendre de qui que ce soit."
 |-
 |'''Zagreus'''
 |"Je vous en prie, monsieur, c'est juste une bouteille d'Ambroisie, ce n'est vraiment pas grand-chose. Bon, c'est vrai qu'il est plutôt difficile d'en trouver, mais quand même !"

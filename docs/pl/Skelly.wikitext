@@ -14,7 +14,7 @@
 ! colspan="2" |Trophy Quest Bronze Unlocked 01
 |-
 |'''Skelly'''
-|"Po prostu wiedziałem, że masz to w sobie, mordeczko - podoba ci się twoja nowa nagroda? Pakt Skruchy, ''Srakt ''Skruchy, żaden problem, wiesz o co mi chodzi? No, ale to było całkiem proste, pewnie nawet sam bym to ogarnął."
+|"Po prostu wiedziałem, że masz to w sobie, mordeczko - podoba ci się twoja nowa nagroda? Pakt Skruchy, *Srakt *Skruchy, żaden problem, wiesz o co mi chodzi? No, ale to było całkiem proste, pewnie nawet sam bym to ogarnął."
 |-
 |'''Zagreus'''
 |"Zaczekaj, żebym dobrze zrozumiał. Dosłownie przebiłem się przez całe piekło i z powrotem, a moją nagrodą jest... twój posąg? Nie zrozum mnie źle, jest bardzo ładny, ale... nie wiem, czego się spodziewałem."
@@ -34,7 +34,7 @@
 |"Mówisz tak tylko po to, żebym cię przeprosił i spróbował odblokować ostatni z twoich praktycznie identycznych posągów, czyż nie."
 |-
 |'''Skelly'''
-|"''Jak możesz''--? Zwróciłbym te posągi i zażądał zwrotu pieniędzy tu i teraz, gdybym tylko mógł się poruszać! No i gdyby można je było zwrócić."
+|"*Jak możesz*--? Zwróciłbym te posągi i zażądał zwrotu pieniędzy tu i teraz, gdybym tylko mógł się poruszać! No i gdyby można je było zwrócić."
 |-
 ! colspan="2" |Trophy Quest Gold Unlocked 01
 |-
@@ -56,7 +56,7 @@
 |"Nie przypominam sobie, żebyś znajdował się na liście płac, kolego. Kto jest twoim przełożonym?"
 |-
 |'''Skelly'''
-|"''O ho-ho'', nie zamierzam wsypać moich wspólników, mordeczko! Spróbuj to ze mnie wydobyć siłą!"
+|"*O ho-ho*, nie zamierzam wsypać moich wspólników, mordeczko! Spróbuj to ze mnie wydobyć siłą!"
 |-
 ! colspan="2" |Skelly Misc Meeting 01
 |-
@@ -85,7 +85,7 @@
 ! colspan="2" |Skelly Hint Meeting 02
 |-
 |'''Skelly'''
-|"Robisz się całkiem silny, muszę ci to przyznać, młody. Wystarczająco silny, by trzasnąć typem takim jak ja o ścianę, żebym rozsypał się na kawałki, ''bum''! Pamiętaj dobrze - gdy się z kimś lejesz, ściana jest twoim kumplem!"
+|"Robisz się całkiem silny, muszę ci to przyznać, młody. Wystarczająco silny, by trzasnąć typem takim jak ja o ścianę, żebym rozsypał się na kawałki, *bum*! Pamiętaj dobrze - gdy się z kimś lejesz, ściana jest twoim kumplem!"
 |-
 |'''Zagreus'''
 |"Trzaskać typami o ściany. Jak zwykle dobra rada, kolego."
@@ -125,7 +125,7 @@
 ! colspan="2" |Skelly Hint Meeting 07
 |-
 |'''Skelly'''
-|"Wiesz co, młody, myślę, że mógłbyś się porządnie wyżyć na jednej z tych kolumn, co to trzymają to miejsce i sprowadzić wszystko na dół za pomocą zaledwie kilku machnięć - bum, bum, ''BUM''! Nie chciałbym stać w pobliżu, gdybyś tak zrobił!"
+|"Wiesz co, młody, myślę, że mógłbyś się porządnie wyżyć na jednej z tych kolumn, co to trzymają to miejsce i sprowadzić wszystko na dół za pomocą zaledwie kilku machnięć - bum, bum, *BUM*! Nie chciałbym stać w pobliżu, gdybyś tak zrobił!"
 |-
 |'''Zagreus'''
 |"Niszczyć starannie wykutą architekturę mojego ojca przy każdej nadarzającej się okazji. Pewnie, to mogę zrobić."
@@ -141,10 +141,10 @@
 ! colspan="2" |Skelly Hint Meeting Easy Mode 01
 |-
 |'''Skelly'''
-|"Jeśli jest ci ciężko tam w terenie, młody, to zapamiętaj coś sobie: Jesteś ''bogiem'', co nie?! O wiele mocniejszym, niż ci się wydaje. Sprawiają ci kłopoty, włączasz ''Tryb Boski ''i dajesz im wycisk w moim imieniu!"
+|"Jeśli jest ci ciężko tam w terenie, młody, to zapamiętaj coś sobie: Jesteś *bogiem*, co nie?! O wiele mocniejszym, niż ci się wydaje. Sprawiają ci kłopoty, włączasz *Tryb Boski *i dajesz im wycisk w moim imieniu!"
 |-
 |'''Zagreus'''
-|"Zachowujesz się tak, jakby ten ''Tryb Boski ''był jakimś przełącznikiem, który mogę przełączyć, kiedy tylko zechcę obudzić moją uśpioną moc, kolego."
+|"Zachowujesz się tak, jakby ten *Tryb Boski *był jakimś przełącznikiem, który mogę przełączyć, kiedy tylko zechcę obudzić moją uśpioną moc, kolego."
 |-
 ! colspan="2" |Skelly About Hint Meetings 01
 |-
@@ -157,7 +157,7 @@
 ! colspan="2" |Skelly No More Hint Meetings 01
 |-
 |'''Skelly'''
-|"Cóż, mordeczko? Całkiem sporo przeszedłeś, ''mówię ''ci. Myślę, że większość mądrości, które zebrałem, już znasz. A więc... właśnie skończyły mi się porady dla ciebie... Sądzę, że do zrobienia pozostaje już tylko jedno."
+|"Cóż, mordeczko? Całkiem sporo przeszedłeś, *mówię *ci. Myślę, że większość mądrości, które zebrałem, już znasz. A więc... właśnie skończyły mi się porady dla ciebie... Sądzę, że do zrobienia pozostaje już tylko jedno."
 |-
 |'''Zagreus'''
 |"Stać tu przez wieczność, aby być okładanym według moich zachcianek, używając tej broni, która mi w danym momencie najbardziej odpowiada?"
@@ -182,7 +182,7 @@
 |"Doceniam, że we mnie wierzysz, kolego. Może masz rację i pewnego dnia uda mi się stąd wydostać. Hej, jeśli nigdy już nie wrócę, to nie utkniesz tu na zawsze, co?"
 |-
 |'''Skelly'''
-|"''Heh, hehehe'', a to dobre! ''Nie''! Prawdopodobnie nie. Nie było o tym mowy w starym kontrakcie... ''hm''."
+|"*Heh, hehehe*, a to dobre! *Nie*! Prawdopodobnie nie. Nie było o tym mowy w starym kontrakcie... *hm*."
 |-
 ! colspan="2" |Skelly Run Progress 02
 |-
@@ -200,7 +200,7 @@
 ! colspan="2" |Skelly Backstory 02
 |-
 |'''Zagreus'''
-|"Powiedz, ''uch'', Kostku? Skąd się tu tak w ogóle wziąłeś?"
+|"Powiedz, *uch*, Kostku? Skąd się tu tak w ogóle wziąłeś?"
 |-
 |'''Skelly'''
 |"O, no wiesz, po prostu się pojawiłem, jak to Tatuś pozwala nam robić! Niektórym z nas, czasami. Czemu pytasz?"
@@ -209,7 +209,7 @@
 |"Chodziło mi o to... jak w ogóle dostałeś się do krainy umarłych. Lord Hermes dostarczył cię pod drzwi wejściowe? Zgarnął cię Tanatos, podrzucił cię Charon, jak?"
 |-
 |'''Skelly'''
-|"O, ''haha''! Cóż, to trochę osobiste, nie uważasz, młody? Ja... ja nie lubię o tym dużo mówić. Więc, jeśli mogę mieć trochę prywatności...?"
+|"O, *haha*! Cóż, to trochę osobiste, nie uważasz, młody? Ja... ja nie lubię o tym dużo mówić. Więc, jeśli mogę mieć trochę prywatności...?"
 |-
 ! colspan="2" |Skelly Backstory 03
 |-
@@ -229,15 +229,15 @@
 |"Kostku, to... to niesamowite! Więc... ty i twoja załoga, zginęliście na morzu?"
 |-
 |'''Skelly'''
-|"Ja, yyy, ''pff, hahahah'', młody, ale ty jesteś, wiesz? Wszystko to o Kosteteuszu, mógłbyś mi jeść z ręki przez całe dni!"
+|"Ja, yyy, *pff, hahahah*, młody, ale ty jesteś, wiesz? Wszystko to o Kosteteuszu, mógłbyś mi jeść z ręki przez całe dni!"
 |-
 |'''Zagreus'''
-|"Och, rozumiem. Masz mnie. Dobrze więc, ''Kosteteuszu'', ale nie doceniam tego żartu."
+|"Och, rozumiem. Masz mnie. Dobrze więc, *Kosteteuszu*, ale nie doceniam tego żartu."
 |-
 ! colspan="2" |Skelly Backstory 05
 |-
 |'''Zagreus'''
-|"Powiedź, Kostku... a może powinienem powiedzieć ''Kosteteuszu''? Tak się składa, że miałem rozmowę z kimś, kto zna to imię. Wielki byczogłowy jegomość pochodzący z Krety. Powiedziałeś, że to zmyśliłeś! O co chodzi?"
+|"Powiedź, Kostku... a może powinienem powiedzieć *Kosteteuszu*? Tak się składa, że miałem rozmowę z kimś, kto zna to imię. Wielki byczogłowy jegomość pochodzący z Krety. Powiedziałeś, że to zmyśliłeś! O co chodzi?"
 |-
 |'''Skelly'''
 |"Nigdy nie powiedziałem, że to zmyśliłem, mordeczko! Wiedziałem, że mi nie uwierzysz, znaczy się, spójrz na mnie! Wyglądam jak kapitan Kreteńskiej floty?"
@@ -246,7 +246,7 @@
 |"Nie wiem. Nigdy żadnego nie poznałem. Czy oni wszyscy stoją i nic nie robią?"
 |-
 |'''Skelly'''
-|"Cóż, brzmi to tak, jakby ''ktoś ''nigdy nie musiał przewodzić około pięćdziesięciu marynarzom w podróży przez morze w Minojskiej galerze, mając za przewodników jedynie gwiazdy. Myślisz, że co takiego robią kapitanowie, wiosłują?"
+|"Cóż, brzmi to tak, jakby *ktoś *nigdy nie musiał przewodzić około pięćdziesięciu marynarzom w podróży przez morze w Minojskiej galerze, mając za przewodników jedynie gwiazdy. Myślisz, że co takiego robią kapitanowie, wiosłują?"
 |-
 |'''Zagreus'''
 |"Czekaj, a co z Hermesem? Odniosłem przez niego wrażenie, że mogłeś być kimś innym. Nikim szczególnym. Nie wielkim morskim kapitanem."
@@ -266,7 +266,7 @@
 |"Ten Szczęśliwy Ząb, który mi dałeś, Kostku. Po pierwsze, dzięki raz jeszcze, a po drugie... czy on w ogóle jest twój? Natknąłem się na Hermesa, który dał mi do myślenia."
 |-
 |'''Skelly'''
-|"Co, ''haha'', zamierzasz uwierzyć we wszystko, co ten gadatliwy gość ci powie, młody? On nic o mnie nie wie!"
+|"Co, *haha*, zamierzasz uwierzyć we wszystko, co ten gadatliwy gość ci powie, młody? On nic o mnie nie wie!"
 |-
 |'''Zagreus'''
 |"Nigdy nie powiedział, że wie. Ale skoro o tym wspomniałeś... jakie macie relacje? Pracujesz dla niego?"
@@ -334,7 +334,7 @@
 |"Żadnej litości, Kostku. Powiedz mi. Albo... od tego momentu będzie między nami tylko uprzejma wymiana zdań."
 |-
 |'''Skelly'''
-|"Nrrrhhh, ''no dobrze''! Ale musisz mi coś obiecać - obiecaj, że nikomu tego nie wyjawisz i nie powiesz nikomu w tym swoim wymyślnym Domu, dobrze? Albo jestem skończony. ''Mówię poważnie''!"
+|"Nrrrhhh, *no dobrze*! Ale musisz mi coś obiecać - obiecaj, że nikomu tego nie wyjawisz i nie powiesz nikomu w tym swoim wymyślnym Domu, dobrze? Albo jestem skończony. *Mówię poważnie*!"
 |-
 |'''Zagreus'''
 |"Obiecuję. A zatem...?"
@@ -413,7 +413,7 @@
 |"Kostku, wspominałeś o starożytnych drobinkach krwi, które znalazłem w Tartarze. Wiesz, co powinienem z nimi zrobić?"
 |-
 |'''Skelly'''
-|"Absolutnie nic o tym nie wiem! Zdecydowanie nie mają nic wspólnego z tymi twoimi Piekielnymi Orężami, z których to niektóre wydają się wciąż być ''dla ciebie niedostępne'', jak rozumiem?"
+|"Absolutnie nic o tym nie wiem! Zdecydowanie nie mają nic wspólnego z tymi twoimi Piekielnymi Orężami, z których to niektóre wydają się wciąż być *dla ciebie niedostępne*, jak rozumiem?"
 |-
 ! colspan="2" |Skelly About Weapon Enchantments 01
 |-
@@ -429,7 +429,7 @@
 ! colspan="2" |Skelly About Weapon Enchantments 02
 |-
 |'''Skelly'''
-|"Wiesz, mordeczko, jak cię tutaj nie ma i jestem tu tylko ja i te twoje wszystkie bronie, znaczy się, twoje ''Piekielne Oręże ''tam nieopodal - tak między nami - sprawia, że czuję cię nieco nieswojo."
+|"Wiesz, mordeczko, jak cię tutaj nie ma i jestem tu tylko ja i te twoje wszystkie bronie, znaczy się, twoje *Piekielne Oręże *tam nieopodal - tak między nami - sprawia, że czuję cię nieco nieswojo."
 |-
 |'''Zagreus'''
 |"Nie mogę mieć o to pretensji, kolego. Nie chciałbym być zamknięty w komnacie z grupą legendarnych, prawdopodobnie złowieszczych artefaktów do zabijania. Mogę coś dla ciebie zrobić?"
@@ -448,19 +448,19 @@
 ! colspan="2" |Skelly About Guan Yu Aspect 01
 |-
 |'''Skelly'''
-|"Hej, chciałem tylko powiedzieć, mordeczko, ta upiorna gadka o ''szkarłatnym feniksie '', co żeś ją wcześniej odstrzelił? Znaczy się, łoł - pleciesz jakieś bzdety i dostajesz nowiuteńką włócznię? Byłem pod takim wrażeniem, że zdecydowałem się sam spróbować tej sztuczki!"
+|"Hej, chciałem tylko powiedzieć, mordeczko, ta upiorna gadka o *szkarłatnym feniksie *, co żeś ją wcześniej odstrzelił? Znaczy się, łoł - pleciesz jakieś bzdety i dostajesz nowiuteńką włócznię? Byłem pod takim wrażeniem, że zdecydowałem się sam spróbować tej sztuczki!"
 |-
 |'''Zagreus'''
 |"O, bogowie... Kostku, coś ty narobił...?"
 |-
 |'''Skelly'''
-|"Wyluzuj, młody, uciąłem sobie po prostu małą pogawędkę z tym twoim starym talerzykiem, jak wyszedłeś, to wszystko. Można tym nieźle oberwać! No więc mówię do niego, ''widzę cię oczami szkarłatnego feniksa''... i chcesz wiedzieć co się później stało?"
+|"Wyluzuj, młody, uciąłem sobie po prostu małą pogawędkę z tym twoim starym talerzykiem, jak wyszedłeś, to wszystko. Można tym nieźle oberwać! No więc mówię do niego, *widzę cię oczami szkarłatnego feniksa*... i chcesz wiedzieć co się później stało?"
 |-
 |'''Zagreus'''
 |"Więc beztrosko wypowiedziałeś sekretne słowa, którymi to podzieliły się same Mojry, do piekielnych broni wykutych u zarania dziejów? Powiedz, podszedłeś do Egidy, czy wykrzyczałeś to przez ramię?"
 |-
 |'''Skelly'''
-|"Przez ramię! W każdym razie, to co się wydarzyło to ''nic''! Twoja ''Egida ''nadal kołysała się jak głupek. Więc następnie powiedziałem to hokus-pokus do każdej z pozostałych broni i nic! W ogóle nie działa. Tyle jeżeli chodzi o te twoje całe wymyślne czary, co nie?"
+|"Przez ramię! W każdym razie, to co się wydarzyło to *nic*! Twoja *Egida *nadal kołysała się jak głupek. Więc następnie powiedziałem to hokus-pokus do każdej z pozostałych broni i nic! W ogóle nie działa. Tyle jeżeli chodzi o te twoje całe wymyślne czary, co nie?"
 |-
 ! colspan="2" |Skelly About Pact 01
 |-
@@ -468,7 +468,7 @@
 |"Więc, co dokładnie stało się z tym niegdyś różowym oknem, o tam? Teraz pojawiły się tam te złowieszcze, pomarańczowe promienie i ogromny Pakt Skruchy zwisający złowróżbnie nad wyjściem. Ojciec może tu był?"
 |-
 |'''Skelly'''
-|"Mordeczko, nic o tym nie wiem, szczerze! Po prostu zajmowałem się własnymi sprawami, gdy zupełnie niespodziewanie, ''łuup''! Dostałem prosto w plecy. Rozpadłem się na kawałki, nie miałem pojęcia co się działo! A gdy się w końcu pozbierałem, okno już zostało zmienione...!"
+|"Mordeczko, nic o tym nie wiem, szczerze! Po prostu zajmowałem się własnymi sprawami, gdy zupełnie niespodziewanie, *łuup*! Dostałem prosto w plecy. Rozpadłem się na kawałki, nie miałem pojęcia co się działo! A gdy się w końcu pozbierałem, okno już zostało zmienione...!"
 |-
 ! colspan="2" |Skelly True Death Quest Beginning 01
 |-
@@ -479,7 +479,7 @@
 |"Jeżeli nie obejmuje to okładania cię z brawurową żywiołowością, Kostku, to nie chcę o tym słyszeć. Ale... o, mówisz poważnie."
 |-
 |'''Skelly'''
-|"Tak. I zabawne, że ująłeś to w ten sposób. Młody, proszę cię, byś mnie stąd wydostał. ''Na zawsze'', jeśli łapiesz o co mi chodzi. To całe stanie w miejscu... zwyczajnie robi się uciążliwe po jakimś czasie, wiesz?"
+|"Tak. I zabawne, że ująłeś to w ten sposób. Młody, proszę cię, byś mnie stąd wydostał. *Na zawsze*, jeśli łapiesz o co mi chodzi. To całe stanie w miejscu... zwyczajnie robi się uciążliwe po jakimś czasie, wiesz?"
 |-
 |'''Zagreus'''
 |"...Wiem. Mogę sobie to tylko wyobrazić. Powiedz mi, co mogę zrobić."
@@ -501,10 +501,10 @@
 ! colspan="2" |Skelly Run Cleared 01
 |-
 |'''Skelly'''
-|"Więc, ''uch'', mordeczko? Moje źródła mówią mi, że dotarłeś całkiem daleko. Co znaczy, że... moja użyteczność zbliża się ku końcowi."
+|"Więc, *uch*, mordeczko? Moje źródła mówią mi, że dotarłeś całkiem daleko. Co znaczy, że... moja użyteczność zbliża się ku końcowi."
 |-
 |'''Zagreus'''
-|"Twoja ''użyteczność'', co, chodzi ci o to, że stoisz w miejscu i pozwalasz mi okładać się każdą okrutną sekwencją ataków, na którą mam w danym momencie ochotę?"
+|"Twoja *użyteczność*, co, chodzi ci o to, że stoisz w miejscu i pozwalasz mi okładać się każdą okrutną sekwencją ataków, na którą mam w danym momencie ochotę?"
 |-
 |'''Skelly'''
 |"Tak! Jak tylko osiągniesz swój cel... mój kontrakt się skończy. Nie będziesz mnie więcej potrzebował."
@@ -521,10 +521,10 @@
 |"Więc Mamcia wróciła, z tego co słyszałem, młody! To strasznie miłe wiedzieć, że dobrze cię wytrenowałem."
 |-
 |'''Zagreus'''
-|"''Umm'', musi ci chodzić o Królową i ewidentnie zdajesz sobie sprawę z naszej relacji. Zachowaj to w tajemnicy, rozumiesz, Kostku?"
+|"*Umm*, musi ci chodzić o Królową i ewidentnie zdajesz sobie sprawę z naszej relacji. Zachowaj to w tajemnicy, rozumiesz, Kostku?"
 |-
 |'''Skelly'''
-|"''Aach ''i w ten sposób uczeń trenuje mistrza, tak dla odmiany! Słyszę cię, mordeczko. Twój sekret jest u mnie bezpieczny."
+|"*Aach *i w ten sposób uczeń trenuje mistrza, tak dla odmiany! Słyszę cię, mordeczko. Twój sekret jest u mnie bezpieczny."
 |-
 ! colspan="2" |Skelly Post Epilogue 01
 |-
@@ -535,7 +535,7 @@
 |"Było... lepiej, niż oczekiwałem, w gruncie rzeczy. Mam nadzieję, że nie poczułeś się pominięty! Mieliśmy dość ograniczoną listę gości. Powiedziałbym, że była to pewnego rodzaju misja dyplomatyczna. Nie aż taka dobra zabawa, jak mogło to brzmieć z zewnątrz."
 |-
 |'''Skelly'''
-|"''Ooch'', nie martw się o mnie, mordeczko! Wolę samotne życie, a poza tym! Kiedy u ciebie wszystko w porządku, to u mnie również. Cieszę się, że wszystko się udało."
+|"*Ooch*, nie martw się o mnie, mordeczko! Wolę samotne życie, a poza tym! Kiedy u ciebie wszystko w porządku, to u mnie również. Cieszę się, że wszystko się udało."
 |-
 ! colspan="2" |Skelly Chat 01
 |-
@@ -565,7 +565,7 @@
 ! colspan="2" |Skelly Chat 06
 |-
 |'''Skelly'''
-|"Nie połamiesz ''tych ''kości, mordeczko, spróbuj no tylko!"
+|"Nie połamiesz *tych *kości, mordeczko, spróbuj no tylko!"
 |-
 ! colspan="2" |Skelly Chat 07
 |-
@@ -653,7 +653,7 @@
 ! colspan="2" |Skelly Gift 02
 |-
 |'''Skelly'''
-|"''Ło hoł'', ty tak na poważnie, mordeczko? Przywlokłeś to aż tutaj, dla mojej skromnej osoby?! To naprawdę miło z twojej strony!"
+|"*Ło hoł*, ty tak na poważnie, mordeczko? Przywlokłeś to aż tutaj, dla mojej skromnej osoby?! To naprawdę miło z twojej strony!"
 |-
 |'''Zagreus'''
 |"A ty sam nie jesteś wcale taki zły, kolego. Dziękuję, że zawsze i bez zastanowienia jesteś gotów, bym mógł cię dziko sponiewierać."
@@ -661,7 +661,7 @@
 ! colspan="2" |Skelly Gift 03
 |-
 |'''Skelly'''
-|"''Łoooooł'', sporo tam tego masz, młody! Oj -- to naprawdę dla mnie? Czy tylko się ze mną droczysz?"
+|"*Łoooooł*, sporo tam tego masz, młody! Oj -- to naprawdę dla mnie? Czy tylko się ze mną droczysz?"
 |-
 |'''Zagreus'''
 |"Naprawdę ci to daję, kolego. A teraz idź i się tym naciesz, dobrze? Po tym, jak skończę cię naparzać - tak dla zasady."
@@ -669,7 +669,7 @@
 ! colspan="2" |Skelly Gift 04
 |-
 |'''Skelly'''
-|"Heeej, no i właśnie ''o to ''chodzi, dzięki, młody! Nie zapomnę ci czegoś takiego, słowo daję!!"
+|"Heeej, no i właśnie *o to *chodzi, dzięki, młody! Nie zapomnę ci czegoś takiego, słowo daję!!"
 |-
 |'''Zagreus'''
 |"Nie ma potrzeby mi dziękować, kolego. Ale ani mi się waż o tym zapomnieć - w przeciwnym razie bezlitośnie i wielokrotnie cię poobijam."
@@ -685,7 +685,7 @@
 ! colspan="2" |Skelly Gift 06
 |-
 |'''Skelly'''
-|"''Haaa'', żartujesz sobie - ''co''? Czasami, młody, sprawiasz że czuję się pełen życia, wiesz o tym? Mówię szczerze - jestem wdzięczny, naprawdę."
+|"*Haaa*, żartujesz sobie - *co*? Czasami, młody, sprawiasz że czuję się pełen życia, wiesz o tym? Mówię szczerze - jestem wdzięczny, naprawdę."
 |-
 |'''Zagreus'''
 |"Gdyby nie ty, mój przyjacielu, nie miałbym kogo wściekle okładać bez żadnej obawy przed odwetem."
@@ -696,7 +696,7 @@
 |"Kostku, pomimo, że wiem, iż twoje usługi zostały w całości opłacone, to twoi wspólnicy powinni wiedzieć, że wykonujesz wspaniałą robotę. Na tyle, że chciałem ci to podarować."
 |-
 |'''Skelly'''
-|"''Cooo'', czy to jest wykwintna butelka Ambrozji, mordeczko?! Nigdy bym nawet nie pomyślał, że dane mi będzie spróbować czegoś takiego, znaczy się, kim to ja jestem? Wiesz co, chcę ci dać to. Jako symbol naszej przyjaźni, no i w razie gdybyś potrzebował pomocy w terenie."
+|"*Cooo*, czy to jest wykwintna butelka Ambrozji, mordeczko?! Nigdy bym nawet nie pomyślał, że dane mi będzie spróbować czegoś takiego, znaczy się, kim to ja jestem? Wiesz co, chcę ci dać to. Jako symbol naszej przyjaźni, no i w razie gdybyś potrzebował pomocy w terenie."
 |-
 ! colspan="2" |Skelly Gift 08
 |-
@@ -704,7 +704,7 @@
 |"Mam nadzieję, że przypadła ci ostatnio do gustu ta wykwintna butelka Ambrozji, Kostku, gdyż mam dla ciebie kolejną. Proszę!"
 |-
 |'''Skelly'''
-|"''Ooo'', nie ma mowy, młody, żartujesz sobie teraz ze mnie? Czemu ty w ogóle... ja... słuchaj, ja... ja po prostu stoję w miejscu i daję ci się okładać, nie musisz tego robić. Nawet nie wiesz kim jestem. Kim byłem."
+|"*Ooo*, nie ma mowy, młody, żartujesz sobie teraz ze mnie? Czemu ty w ogóle... ja... słuchaj, ja... ja po prostu stoję w miejscu i daję ci się okładać, nie musisz tego robić. Nawet nie wiesz kim jestem. Kim byłem."
 |-
 |'''Zagreus'''
 |"Jesteś moim przyjacielem, kolego. Tylko to się liczy. Aczkolwiek... Przypuszczam, że nie jesteś skłonny podzielić się tego typu szczegółami? Tak z ciekawości."
@@ -726,12 +726,12 @@
 ! colspan="2" |Skelly True Death Quest Complete
 |-
 |'''Skelly'''
-|"''Hahaha'', nieźle cię znowu nabrałem, co nie, młody?! ''Proszę cię, byś mnie stąd wydostał. ''Hahahaha! Całe to gadanie o twoim ostrzu i twoim Aspekcie, słowo daję - wszystko od razu łyknąłeś! ''Łuu huhu!''"
+|"*Hahaha*, nieźle cię znowu nabrałem, co nie, młody?! *Proszę cię, byś mnie stąd wydostał. *Hahahaha! Całe to gadanie o twoim ostrzu i twoim Aspekcie, słowo daję - wszystko od razu łyknąłeś! *Łuu huhu!*"
 |-
 |'''Zagreus'''
 |"Wygląda na to, że padłem ofiarą wyszukanego żartu. Nie jestem pewien, czy mi się to podoba, Kostku. A może już nigdy cię nie uderzę, co ty na to?"
 |-
 |'''Skelly'''
-|"Łoł, ''łoł łoł łoł łoł'', łoł! No daj spokój, młody, to było tylko żart, pomyślałem sobie, żeby trochę rozluźnić tu atmosferę. Nie ma potrzeby robić nic pochopnie!"
+|"Łoł, *łoł łoł łoł łoł*, łoł! No daj spokój, młody, to było tylko żart, pomyślałem sobie, żeby trochę rozluźnić tu atmosferę. Nie ma potrzeby robić nic pochopnie!"
 |-
 |}
