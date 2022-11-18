@@ -1,0 +1,779 @@
+--- Inspect House 01 ---
+Storyteller: *La morada de Hades. La lúgubre y lujosa guarida del rey del Inframundo no es solo su hogar, sino también el de su obstinada progenie.*
+
+
+--- Inspect Lounge Closed 01 ---
+Storyteller: *Lo que antes era una pequeña cantina dentro de la morada de Hades, ahora es una zona de paso vedado, totalmente destrozada desde que Cerbero, el perro policéfalo, la destrozase apenado por la desaparición del príncipe.*
+
+
+--- Inspect Shades 01 ---
+Storyteller: *Las sombras de los muertos transitan constantemente por la morada, quejándose de sus penas y buscando el oído de cualquiera dispuesto a escucharlas.*
+
+
+--- Inspect Lounge Open 01 ---
+Storyteller: *La cantina de la morada de Hades es un lugar deprimente, a pesar de que su propósito sea levantar el ánimo de los apesadumbrados habitantes del lugar.*
+
+
+--- Inspect Employee Of The Month 01 ---
+Storyteller: *Un tablón conmemorativo adorna una de las sobrias paredes de la cantina, celebrando y proclamando las hazañas de aquellos que prestan un servicio excepcional a Hades.*
+
+
+--- Inspect Cellar 01 ---
+Storyteller: *Los antiguos barriles de vino ocultos en los rincones de la morada de Hades... Pocos han catado la embriagadora añada que contienen, y aún menos tienen permiso para acercarse siquiera a ellos.*
+Storyteller: *Los resistentes barriles de vino de la morada de Hades están ahora casi vacíos, habiendo resistido con coraje ante la sed combinada de los dioses del Olimpo durante cierta fiesta.*
+
+
+--- Inspect Olympus Sculpture 01 ---
+Storyteller: *Un majestuoso edificio dorado del monte Olimpo, fabricado con el mayor de los cuidados con la roca de la montaña, ahora brilla eternamente incluso en la sombría luz de la morada de Hades, como un regalo de despedida de sus parientes.*
+
+
+--- Inspect Mural 01 ---
+Storyteller: *Un vasto e intrincado mosaico muestra al Señor del Inframundo sobre la enorme extensión de su dominio, mientras sus residentes ctónicos le admiran con asombro.*
+
+
+--- Inspect Throne 01 ---
+Storyteller: *El ominoso trono del sombrío Hades rara vez está desocupado, y es por ello que todos los habitantes de la morada trabajan incansables en sus quehaceres diarios, sin atreverse a preguntar por qué.*
+
+
+--- Inspect House Garden 01 ---
+Storyteller: *El jardín de la reina Perséfone, vedado para el príncipe durante toda su vida, ahora se abre ante él en todo su esplendor.*
+
+
+--- Flashback 02 ---
+Storyteller: *Se aventura hacia el majestuoso trono de su padre, y aunque parte de él espera que lo capturen, no está preparado para lo que está a punto de encontrar.*
+
+
+--- Flashback 03 ---
+Storyteller: *No sabe exactamente lo que busca. Solo sabe que algo siempre le ha parecido fuera de lugar, como si no perteneciese a este mundo. ¿Quién es él en realidad? El señor Hades nunca permitiría tales preguntas. Por eso, el príncipe Zagreo buscará las respuestas por su cuenta.*
+
+
+--- Flashback 04 ---
+Storyteller: *Decide hurgar entre las posesiones de su excelso padre. No hay prácticamente nada de utilidad entre ellas: libros de contabilidad y pergamineo administrativo, correspondencia del Olimpo que ha ignorado por completo... No parece haber rastro alguno de referencias a su hijo.*
+
+
+--- Flashback 05 ---
+Storyteller: *Al fin, encuentra la nota… escrita delicadamente con una mano y una voz que el príncipe jamás había visto ni oído.*
+Persephone: *«Hades: ya no soporto mi vida aquí. Así que me voy, aunque hacerlo suponga mi muerte. No volveré al Olimpo. Si hay un lugar para mí en este mundo, ha de estar entre el cielo y el infierno. Tal vez se halle en la costa y tenga un pequeño huerto. Cuida de Cerbero, lo echaré de menos.»*
+Storyteller: *De este modo, Zagreo, el príncipe del Inframundo, devoró el contenido de la carta oculta, escrita con la caligrafía de su madre.*
+Zagreus: La caligrafía de mi madre… Espera, ¿*qué*…? ¿Estás diciendo que la tal Perséfone es… mi madre? Pero si mi padre siempre ha dicho que Nicte era… Será mentiroso… Me mintió. Me mintieron los dos. ¡Toda mi vida!
+Storyteller: *Esto… Sí, de este modo, el príncipe descubrió, inadvertidamente, la verdad tan bien guardada sobre su linaje. Todo por accidente, en serio…*
+
+
+--- Flashback 06 ---
+Storyteller: *Perséfone, la antigua reina de todo el Inframundo… ¿Pero adónde había ido? ¿Y por qué? Con la cabeza repleta de preguntas y el corazón lleno de rabia, el príncipe decidió hacer frente a su amo y señor.*
+
+
+--- Flashback Day Night Job 02 ---
+Storyteller: *Rechazando sus responsabilidades, Zagreo avanza por el pasillo del cuarto de su padre, muy poco preocupado por la urgencia con la que debería actuar en las circunstancias actuales.*
+
+
+--- Flashback Day Night Job 03 ---
+Storyteller: *La puerta a la cámara administrativa lanza su llamada desde el final del pasillo. El príncipe espera ser capaz de entrar sin hacer ruido y sin llamar la atención de los trabajadores en su interior.*
+
+
+--- Inspect House Pillars 01 ---
+Storyteller: *De las innumerables y esplendorosas piedras preciosas que alberga el seno de la tierra, muchas sirven para adornar la morada de Hades, dios de los muertos, dios de innumerables riquezas.*
+
+
+--- Inspect North Fountain 01 ---
+Storyteller: *El agua es la fuente de la vida, pero aun así fluye entre los recovecos más oscuros del Inframundo, donde las sombras sin descanso de los mortales la contemplan y recuerdan los días de antaño, cuando podían beberla y respirar.*
+
+
+--- Inspect South Fountain 01 ---
+Storyteller: *El príncipe, portando piedras preciosas, encargó una fuente de tan magna factura para la morada que todas las sombras que la vieron siguen recordándolo con gran cariño desde entonces.*
+
+
+--- Inspect Cauldron 01 ---
+Storyteller: *Aunque los muertos no necesitan ningún sustento, intentan sin embargo darse banquetes de todas formas, como si imaginar las costumbres de la vida mortal les trajera algo de solaz.*
+
+
+--- Inspect Kitchen Island ---
+Storyteller: *Aunque ha invertido gran cantidad de recursos en la cocina de la morada, el hambriento Zagreo no encuentra nada digno que llevarse a la boca.*
+
+
+--- Inspect Poet Bust 01 ---
+Storyteller: *En la galería de la morada se halla ahora el busto de un distinguido poeta, de robusta belleza para su edad y que, pese a que está aún por ganarse su destinada fama, probablemente sea mejor reconocido algún día.*
+
+
+--- Inspect Asphodel Statue 01 ---
+Storyteller: *El aterrador semblante de un blanquecino guerrero sinsangre decora el pasillo para la eternidad, rindiendo eterno tributo a los despiadados siervos del señor de la morada.*
+
+
+--- Inspect Warrior Statue 01 ---
+Storyteller: *La forma física, perfectamente cincelada, de uno de los más grandiosos héroes griegos adorna ahora la galería de la morada, recordando a la mayoría de los observadores las muchas maneras en las que no se pueden comparar a él.*
+
+
+--- Inspect Main Hall Fireplace 01 ---
+Storyteller: *Las llamas del averno más profundo bañan la sala con un tenue fulgor, y su calidez es un bálsamo para los pocos habitantes que la ocupan.*
+
+
+--- Inspect Sundial 01 ---
+Storyteller: *El tiempo parece detenerse en el reino eterno de la muerte, e incluso las herramientas que miden su paso evidencian tal circunstancia.*
+
+
+--- Flashback Mother 01 ---
+Storyteller: *Es noche profunda, o el equivalente a ella en el reino de Hades. El príncipe del Inframundo, Zagreo, se despierta de un sueño intranquilo, con multitud de fechorías anidadas en su mente.*
+
+
+--- Flashback Day Night Job 01 ---
+Storyteller: *El príncipe del Inframundo se levanta de un profundo sueño, con la sensación de que la pequeña siesta que tomó como ligero respiro de los rigores del día o la noche quizás no fuera tan breve...*
+
+
+--- Inspect Bedroom 01 ---
+Storyteller: *Los aposentos del príncipe Zagreo se encuentran en un estado perpetuo de desorden total, a pesar de que su amo y señor no para de insistir en que lo recoja todo.*
+
+
+--- Inspect Bedroom Trojan Arms ---
+Storyteller: *Las armas destrozadas del asedio de Ilión han acabado reducidas a meros adornos de la siempre desordenada leonera del príncipe.*
+
+
+--- Inspect Bedroom Achilles Poster ---
+Storyteller: *El valor de Aquiles, el de corazón indomable, también está inmortalizado en la pared del príncipe, como para despertar un coraje aún mayor desde sus adentros.*
+
+
+--- Inspect Bedroom Aphrodite Poster ---
+Storyteller: *El rostro de la diosa Afrodita adorna ahora la alcoba del príncipe, tal vez para consolarlo la próxima vez que muera.*
+
+
+--- Inspect Bedroom Dionysus Poster ---
+Storyteller: *La faz siempre sonriente y sonrojada por el vino del gran Dioniso adorna ahora la pared de los aposentos del príncipe, ejerciendo una influencia poco recomendable.*
+
+
+--- Inspect Bedroom Scrying Pool ---
+Storyteller: *Un rincón particularmente desordenado de la habitación del príncipe alberga ahora una vasija hermosamente decorada e imbuida de sutiles encantamientos, con rastros de sus desventurados intentos de huir del Inframundo.*
+
+
+--- Inspect Bedroom Lyre ---
+Storyteller: *Un instrumento musical delicadamente creado ahora reside en la clamorosa cámara del príncipe, sin duda temeroso, si así pudiera sentirse, de su toque de manazas.*
+
+
+--- Inspect Bedroom Gaming Table 01 ---
+Storyteller: *Un objeto intrincadamente grabado con propósito únicamente recreativo reside ahora en la placentera cámara del príncipe, aunque su falta de oponente limita su atractivo.*
+
+
+--- Inspect Bedroom Rug 01 ---
+Storyteller: *Mucha de la suavidad de la ricamente tejida alfombra adquirida por el príncipe no puede sentirse del todo bajo sus pies lamidos por las llamas.*
+
+
+--- Inspect Bedroom Fancy Bed ---
+Storyteller: *Por su suavidad perfecta y sus bordados con motivos relacionados con la muerte, el nuevo lecho del príncipe Zagreo es la envidia de todo el que desea descansar en paz.*
+
+
+--- Inspect Bedroom Couch 01 ---
+Storyteller: *El príncipe, siempre enérgico, por desgracia sigue siendo incapaz de sentarse tranquilo incluso con semejante flexible y cómoda disposición de asientos ahora anidados en sus cámaras.*
+
+
+--- Inspect Bedroom Weights 01 ---
+Storyteller: *Un enorme conjunto de pesas colocados con cuidado a la vista de cualquier visitante para hacerles pensar que, sin duda, el príncipe es más fuerte y está en mejor forma de lo que está en realidad.*
+
+
+--- Inspect Bedroom Quest Log ---
+Storyteller: *Puede que el confiado príncipe crea que ha adquirido la lista de augurios menores por voluntad propia, pero todo estaba predestinado...*
+
+
+--- Flashback 01 ---
+Storyteller: *Todo está tranquilo por el momento, ya que el siempre soñador Hipnos hechizó la morada tal y como le pidió Zagreo. Todos duermen profundamente, excepto el príncipe. Exactamente como lo planeó.*
+
+
+--- Inspect Death Area Bedroom Hades Portrait 01 ---
+Storyteller: *En la cámara privada de su padre, Zagreo, el príncipe rompecerraduras, descubre un cuadro pintado con exquisita delicadeza de nada menos que Perséfone. La capa de polvo indica que lleva allí mucho tiempo.*
+
+
+--- Inspect Death Area Bedroom Hades Capes 01 ---
+Storyteller: *El estoico señor y patrón de la morada posee riquezas más allá de toda imaginación, una proporción de las cuales invierte en un nuevo atuendo para cada día.*
+
+
+--- Inspect Death Area Office Teleporter 01 ---
+Storyteller: *En las profundidades de la cámara administrativa se halla el Sello Ancestral de la morada del patrono, un símbolo de la autoridad investida en él por las moiras para gobernar las profundidades de la tierra, y un medio para recorrer su oscuro dominio de punta a punta.*
+
+
+--- Inspect Death Area Office Water Cooler 01 ---
+Storyteller: *Los siervos del dios de la muerte con autorización para trabajar en la cámara administrativa de la morada pueden disponer a su antojo de las gélidas aguas purificadas del Estigia.*
+
+
+--- Inspect Death Area Office Poster 01 ---
+Storyteller: *Las atareadas sombras de la cámara administrativa no cejan nunca en su dedicación al ingrato trabajo que allí desempeñan, inspiradas por la imagen ideal de la dedicación que deberían tener.*
+
+
+--- Inspect Death Area Office Sealed Contract 01 ---
+Storyteller: *Entre las pilas de registros en pergamino de aquellos que murieron y fueron castigados, se encuentra el documento sellado conocido como la "condena del rey de los granujas", que obliga a dicho rey a mover una roca hasta el fin de los tiempos.*
+
+
+--- Inspect Death Area Office Sealed Contract 02 ---
+Storyteller: *Cobijado entre las torres de pergamineo administrativo de los difuntos más antiguos, yace un viejo documento con un pacto especial firmado por un músico de corte, ya difunto, que intentó en vano rescatar a su esposa de la muerte.*
+
+
+--- Inspect Death Area Office Sealed Contract 03 ---
+Storyteller: *En los archivos, que contienen numerosos pactos vinculantes entre Hades y los difuntos, yace enterrado un antiguo contrato. En él, un extraordinario guerrero cede sus servicios a cambio de la eternidad en el Elíseo para su amado compañero.*
+
+
+--- Flashback Day Night Job Office 01 ---
+Storyteller: *Las tareas del día o de la noche son la sencillez personificada, o al menos lo fueron al principio, cuando el príncipe solo fichaba para comenzar su turno.*
+
+
+--- Flashback Day Night Job Office 02 ---
+Storyteller: *El príncipe, ya acostumbrado al fracaso, decide intentar organizar los libros de registros de un modo que contribuya a la correcta administración del reino de su padre.*
+
+
+--- Flashback Day Night Job Office 03 ---
+Storyteller: *El empeño del bisoño príncipe en administrar la aprobación de las sentencias deja, a la postre, mucho que desear.*
+
+
+--- Flashback Day Night Job Office 04 ---
+Storyteller: *Las esforzadas sombras responsables de la administración del reino no pueden sino contemplar con condescendencia los desafortunados intentos del príncipe.*
+
+
+--- Flashback Day Night Job Office 05 ---
+Storyteller: *El príncipe, amante del relax, nunca prestó la atención debida para aprender cómo organizar los registros concernientes a las regiones del reino de su padre.*
+
+
+--- Flashback Day Night Job Office 06 ---
+Storyteller: *Las responsabilidades del puesto, aunque delicadas, son fáciles de cumplir... o al menos lo serían en manos de alguien capaz y entrenado, no como el distraído príncipe del Inframundo.*
+
+
+--- Flashback Day Night Job Office 07 ---
+Storyteller: *Es necesario llevar un registro detallado de todos los gastos de la morada. Un delicado proceso de tabulación que requiere conocimientos de los que el príncipe carece.*
+
+
+--- Flashback Day Night Job Office 08 ---
+Storyteller: *El registro diario de los ingresos de la morada, en forma de brillantes gemas y diamantes, oscuridad y cosas por el estilo, es tan solo una de las cosas que menos le gustan al príncipe de su trabajo.*
+
+
+--- Flashback Day Night Job Office 09 ---
+Storyteller: *Pilas de contratos de renovación de la morada se agolpan en una de las mesas de la cámara administrativa, pero el príncipe no siente el más mínimo deseo de organizarlos alfabéticamente y por fecha.*
+
+
+--- Flashback Day Night Job Office 10 ---
+Storyteller: *Es menester verificar los registros de asistencia de las sombras que trabajan en la morada, y aprobar con rapidez su compensación debida, mas el príncipe no recuerda los pasos necesarios.*
+
+
+--- Flashback Day Night Job Office 11 ---
+Storyteller: *El revoltoso príncipe Zagreo observa las interminables pilas de pergaminos con detalles por registrar y organizar pulcramente, y empieza a notar cómo se desvanece su optimismo.*
+
+
+--- Flashback Day Night Job Office 12 ---
+Storyteller: *El príncipe Zagreo seguramente tiene alguna tarea preferida de entre las disponibles en la cámara administrativa, pero no cabe duda de que ninguna de las que quedan por atender se cuenta entre ellas.*
+
+
+--- Flashback Day Night Job Office 13 ---
+Storyteller: *Uno de los servicios más importantes que presta la morada es atender a las reclamaciones de las sombras agraviadas o, al menos, eso quiso comunicarle Hades a su voluntarioso hijo.*
+
+
+--- Flashback Day Night Job Office 14 ---
+Storyteller: *Es necesario evaluar, organizar y procesar la letanía de quejas de las sombras sin reposo que acuden de todo el Inframundo, pero el príncipe Zagreo no sabe ni por dónde empezar.*
+
+
+--- Flashback Day Night Job Office 15 ---
+Storyteller: *Hay que mantener y colocar cuidadosamente y de una manera precisa los artículos de papelería en las mesas de la cámara administrativa, pero el olvidadizo príncipe aún no ha memorizado del todo dicha colocación.*
+
+
+--- Flashback Day Night Job Office 16 ---
+Storyteller: *Los informes de seguridad sobre intentos fallidos de escapar del Tártaro requieren verificación inmediata y una respuesta oficial, pero el príncipe Zagreo no está preparado para hacer ni lo uno ni lo otro.*
+
+
+--- Flashback Day Night Job Office Conclusion 01 ---
+Storyteller: *Al fin, el perezoso príncipe registra un resumen de su fútil dedicación a las tareas administrativas de la morada de su adusto padre.*
+
+
+--- Inspect Pre Run 01 ---
+Storyteller: *El patio de la morada de Hades está ordenado e impecable, en contraste con la aterradora extensión que hay más allá de sus puertas.*
+
+
+--- Minotaur Autograph 01 ---
+Minotaur: *Ah*, percibo que nos espera otra terrible batalla, retaco. Aunque hoy estás más preguntón de lo normal...
+Zagreus: *Uhh*, ¡oh! Es que tengo una petición un poco rara. Verás, ¿conoces a Hipnos, el dios del sueño? Es amigo mío. Te adora. Y necesita desesperadamente tu autógrafo. ¿Podrías escribirle un un mensaje personalizado? No sé si serás tan amable, pero significaría mucho para él.
+Minotaur: Un autógrafo. Entiendo. Parece entonces que hay dioses que me favorecen. Escribiré algo para tu amigo en un trozo de pergamino.
+Storyteller: *Y así, el desamparado minotauro escribe un breve mensaje para el dios del sueño en un pergamino y se lo entrega al príncipe.*
+Minotaur: Que sepas, retaco, que este favor es para ti y no para Hipnos. Aunque puede venir a desafiarme cuando quiera.
+
+
+--- Hades Misc Meeting 07 ---
+Hades: ¡Por las barbas de mi hermano! ¿Eres tú, muchacho? Cerbero, mira quién es. Ha vuelto.
+Storyteller: *Cerbero le dedica una mirada taciturna al príncipe.*
+Zagreus: No metas al perro en esto, padre.
+Hades: Si quieres decirme algo, dímelo delante de Cerbero. Fijándote en él, igual aprendes a respetarme y obedecerme.
+
+
+--- Cerberus Misc Meeting 01 ---
+Storyteller: *El can Cerbero contempla al príncipe del Inframundo con sentimientos encontrados, de la alegría más pura a la más profunda melancolía.*
+Zagreus: Cuida de todo en mi ausencia, ¿de acuerdo? Sabes que te llevaría conmigo si pudiera.
+
+
+--- Cerberus Misc Meeting 02 ---
+Zagreus: ¿Cómo te va, pequeñín? ¿Comes bien? ¿Esas tres bocas están saciadas?
+Storyteller: *Cerbero, custodio de los infiernos, hace un gesto afirmativo con cada una de sus tres aterradoras cabezas, una detrás de otra, como si quisiera tranquilizar al dubitativo príncipe.*
+
+
+--- Cerberus Misc Meeting 03 ---
+Zagreus: Tranquilo, igual vuelvo en un visto y no visto.
+Storyteller: *El can Cerbero se limita a acomodarse haciéndose un ovillo.*
+
+
+--- Cerberus Misc Meeting 04 ---
+Zagreus: Te dejo a cargo de mi padre. Que no le agrie el carácter a nadie.
+Storyteller: *Cerbero le promete que lo cumplirá... a su modo.*
+
+
+--- Cerberus Misc Meeting 05 ---
+Zagreus: ¿Cómo te va la vida? ¿Alguna buena nueva?
+Storyteller: *La inocente pregunta del príncipe del Inframundo no hace sino frustrar al perro del averno, pues ninguna de sus tres cabezas posee ni el don ni la maldición del habla.*
+
+
+--- Cerberus Run Progress 01 ---
+Zagreus: Hola, pequeñín. He vuelto. Que sepas que existen multitud de peligros ahí fuera, incluso sin ti de incansable guardián.
+Storyteller: *El venerable can del averno ignora las palabras del príncipe, tan dulces como banales, consciente de que el Inframundo no está tan celosamente custodiado como antaño.*
+
+
+--- Cerberus Run Progress 02 ---
+Zagreus: ¿Sabes, pequeñín? Esta última vez he llegado hasta los Asfódelos. Ahora entiendo por qué no te gustan. Me vuelvo pitando. Cuídate.
+Storyteller: *Pese al optimismo del príncipe del Inframundo, su viejo compañero Cerbero, el can tricéfalo, mantiene por el momento una actitud mustia.*
+
+
+--- Cerberus Run Progress 03 ---
+Zagreus: Volvemos a vernos, chiquitín. Me alegro de que estés en guardia, aunque tenga que buscar el modo de sortearte. Sé que solo cumples con tu obligación.
+Storyteller: *El aterrador perro de los infiernos observa inquieto al príncipe del Inframundo con sus seis feroces ojos, que brillan en la penumbra de la morada.*
+
+
+--- Cerberus About Fast Travel 01 ---
+Zagreus: Espero no haberte incomodado demasiado con tantas visitas al templo últimamente, chico. Oye, ¿cómo vuelves luego? ¿Te trae Caronte?
+Storyteller: *Y así es como el príncipe formula su pregunta al guardián de las puertas del infierno, cuando sabe de sobra que el monstruo tricéfalo se mantiene alejado del barquero, como hacen todos los sabios.*
+
+
+--- Cerberus About Ball 01 ---
+Zagreus: ¿Te gusta mirar esa pelota que te conseguí, muchacho? No es tan divertido si no pelea, ¿eh...?
+Storyteller: *El monstruo policéfalo surgido del averno no tiene ninguna prisa por perder su precioso tiempo en juguetes insignificantes, pues prefiere conservar su energía en caso de que haya que devorar a algún intruso de repente.*
+
+
+--- Cerberus Lounge Closed 01 ---
+Zagreus: ¿De verdad dejaste la cantina hecha unos zorros? Espero que el castigo no fuese ejemplar. Siento haberte preocupado tanto.
+Storyteller: *El monstruo Cerbero, reconcomido por la culpa, confiesa el delito, al tiempo que se arrepiente de haber implicado al enardecido príncipe.*
+
+
+--- Cerberus Lounge Open 01 ---
+Zagreus: ¿Has visto, chiquitín? La antigua cantina ha quedado como nueva. Échale un vistazo, pero no la destroces como la última vez.
+Storyteller: *Los tres salvajes rostros de Cerbero se iluminan al oír la noticia, sin duda tramando ya nuevas estratagemas para arrasar la cantina una vez más.*
+
+
+--- Cerberus About Underworld Renovations 01 ---
+Zagreus: Oye, chico, espero que todas esas renovaciones no te hayan molestado demasiado últimamente. Pero oye, ¡ahora la cantina está lista para que la destroces por completo otra vez!
+Storyteller: *El príncipe Zagreo implanta en el impresionable y violento guardián del Inframundo un apetito renovado por la destrucción, que saciará en otra era.*
+
+
+--- Cerberus About Being Best Boy 01 ---
+Zagreus: ¿Sabes? Después de morir de maneras terribles, traerle caricias a mi chico me ayuda a ponerme en marcha de nuevo. Gracias por estar siempre ahí.
+Storyteller: *Las ardientes brasas de los ojos del monstruosos Cerbero, infame sabueso del infierno, revelan que también él se alegra cuando el príncipe del Inframundo le trae caricias, y está muy agradecido por tener tantas.*
+
+
+--- Cerberus About Persephone 01 ---
+Zagreus: ¡La he encontrado, chiquitín! ¡A mi madre! Perséfone, la recuerdas, ¿no? Se alegró de saber de ti, pero no pude quedarme mucho y tengo que encontrarla de nuevo, así que, ¿nos vemos en el templo?
+Storyteller: *Los rasgos terroríficos del temido sabueso del averno se dulcifican al instante ante la mención de cierto nombre, y el monstruo parece quedar en calma.*
+
+
+--- Cerberus Post Ending 01 ---
+Zagreus: ¡Mírate, chiquitín! Nunca te he visto tan animado, al menos relativamente animado para un tipo duro como tú. Debes haber echado tanto de menos a madre como ella a ti. ¡Pues ahora podréis recuperar el tiempo perdido!
+Storyteller: *La monstruosa bestia tricéfala de Hades estaría sobrepasada por la emoción ante circunstancias tan dichosas, si fuera capaz de algo así.*
+
+
+--- Cerberus Post Ending 02 ---
+Zagreus: Seguro que estás feliz de volver a ver a madre en casa, ¿eh, chico? Ojalá hubieras podido hablarme de ella antes.
+Storyteller: *El infernal monstruo Cerbero ignora con semblante satisfecho el cruel y desconsiderado comentario del príncipe.*
+
+
+--- Cerberus Extreme Measures Reaction 01 ---
+Zagreus: *Uf*, vaya tunda me diste con padre en la superficie, ¿recuerdas? Sé que solo estabas jgando pero... no seas demasiado duro la próxima vez, ¿vale?
+Storyteller: *El irredento monstruo Cerbero es totalmente incapaz de mostrar autocontrol o remordimiento.*
+
+
+--- Cerberus Post Epilogue 01 ---
+Zagreus: Estamos todos muy orgullosos de ti, chiquitín. Te portaste muy bien en la fiesta. Me preocupaba que uno de los tíos te tocase las narices en algún momento, pero fuiste la paciencia personificada. ¡Gracias por ayudar a que la familia se lo pasase bien!
+Storyteller: *Sigue siendo un misterio para todos los asistentes cómo el infernal Cerbero, sabueso del infierno, fue capaz de mantener un comportamiento tan civilizado durante los festejos.*
+
+
+--- Cerberus Chat 02 ---
+Storyteller: *El príncipe y Cerbero cruzan una mirada.*
+
+
+--- Cerberus Chat 03 ---
+Storyteller: *El perro guardián Cerbero observa al príncipe.*
+
+
+--- Cerberus Chat 04 ---
+Storyteller: *A Cerbero no se le puede molestar en este momento.*
+
+
+--- Cerberus Chat 05 ---
+Storyteller: *Cerbero descansa cómodamente, sin perder detalle de nada.*
+
+
+--- Cerberus Chat 06 ---
+Storyteller: *Cerbero yace, como siempre, a los pies del trono de su señor.*
+
+
+--- Cerberus Chat 07 ---
+Storyteller: *Cerbero no hace ademán de moverse.*
+
+
+--- Cerberus Chat 08 ---
+Storyteller: *Cerbero reflexiona con calma sobre qué puede roer ahora.*
+
+
+--- Cerberus Chat 09 ---
+Storyteller: *Cerbero tiene la mente ocupada en lo suyo: roer.*
+
+
+--- Cerberus Chat 10 ---
+Storyteller: *Cerbero está ocupado rascándose y lamiéndose.*
+
+
+--- Cerberus Chat 11 ---
+Storyteller: *A Cerbero no le interesa conversar en este momento.*
+
+
+--- Cerberus Chat 12 ---
+Storyteller: *El can del averno descansa plácidamente en su rincón predilecto.*
+
+
+--- Cerberus Chat 13 ---
+Storyteller: *Los tres aterradores semblantes del can Cerbero saludan al príncipe.*
+
+
+--- Cerberus Chat 14 ---
+Storyteller: *El despiadado perro tricéfalo, guardián de las puertas de la muerte, ladra a modo de saludo.*
+
+
+--- Cerberus Chat 15 ---
+Storyteller: *El leal Cerbero sigue descansando a pierna suelta en su rincón.*
+
+
+--- Cerberus Chat 16 ---
+Storyteller: *El feroz Cerbero contempla en silencio los dominios de su señor.*
+
+
+--- Cerberus Chat 17 ---
+Storyteller: *Una de las terroríficas fauces de Cerbero se afana en lamer a las otras dos.*
+
+
+--- Cerberus Chat 18 ---
+Storyteller: *El monstruo tricéfalo Cerbero se sienta en su rincón, obediente como siempre.*
+
+
+--- Cerberus Chat 19 ---
+Storyteller: *El multicéfalo Cerbero se relame pensando en su próximo manjar.*
+
+
+--- Cerberus Chat 20 ---
+Storyteller: *Cerbero saluda al príncipe con un cariño atemperado por el paso del tiempo.*
+
+
+--- Cerberus Chat 21 ---
+Storyteller: *El guardián de los infiernos gruñe a las lánguidas sombras que se agolpan en el salón del trono.*
+
+
+--- Cerberus Chat 22 ---
+Storyteller: *El temido Cerbero lame con ahínco algo que hay en el suelo.*
+
+
+--- Cerberus Chat Extra 01 ---
+Storyteller: *El sabueso del averno apenas mira al príncipe, con su apetito satisfecho por el momento.*
+
+
+--- Cerberus Chat Extra 02 ---
+Storyteller: *Cerbero, el feroz can de tres cabezas, parece estar tranquilo... por el momento.*
+
+
+--- Cerberus Chat Extra 03 ---
+Storyteller: *Cerbero está demasiado ocupado disfrutando de la opulencia para prestar atención.*
+
+
+--- Cerberus Chat Extra 04 ---
+Storyteller: *El monstruoso Cerbero vigila desde su cama.*
+
+
+--- Cerberus Chat Extra 05 ---
+Storyteller: *Cada una de las salvajes mandíbulas de Cerbero babea en anticipación a su próxima comida.*
+
+
+--- Cerberus Chat Extra 06 ---
+Storyteller: *El terrorífico Cerbero está ocupado recobrando fuerzas para el próximo encuentro con el príncipe.*
+
+
+--- Cerberus Gift 01 ---
+Zagreus: ¡Mira lo que te traigo, chiquitín!
+Storyteller: *Mientras una de las cabezas de Cerbero recibe el regalo del príncipe, otra le regurgita algo en la mano.*
+
+
+--- Cerberus Gift 02 ---
+Zagreus: Buen perrito… Sabía que te gustaría.
+Storyteller: *Cerbero mueve el rabo alegremente al recibir tan delicioso manjar.*
+
+
+--- Cerberus Gift 03 ---
+Zagreus: Solo lo mejor de lo mejor para mi mejor amigo, ¿a que sí?
+Storyteller: *Cerbero lanza un alarido de alegría tras recibir tan generosa ofrenda.*
+
+
+--- Cerberus Gift 04 ---
+Zagreus: Es mi humilde obligación colmar de caprichos a mi perrito preferido.
+Storyteller: *Conociendo el insaciable apetito del perro guardián, el príncipe le da un capricho.*
+
+
+--- Cerberus Gift 05 ---
+Zagreus: Te gusta esto, ¿a que sí, chico? Mejor, ¡porque me encanta traértelo a escondidas!
+Storyteller: *El delicioso sabor del néctar es suficiente para saciar incluso el apetito feroz del sabueso infernal.*
+
+
+--- Cerberus Gift 06 ---
+Zagreus: ¿El néctar ya no te emociona, chico? ¡Qué paladar más fino has desarrollado a tu venerable edad!
+Storyteller: *A pesar de que ya casi no alberga apetito por la levedad del sabor del néctar, el monstruo tricéfalo del Inframundo lo acepta.*
+
+
+--- Cerberus Gift 07 ---
+Zagreus: Eso, chico... Ambrosía, solo para ti. Te va a encantar. ¡A casi cualquier criatura, viva o muerta, le encanta!
+Storyteller: *Los seis ojos del espantoso sabueso infernal se abren de par en par tras recibir la exquisita ofrenda de la escasa ambrosía olímpica. La criatura no cabe en sí de gozo.*
+
+
+--- Cerberus Gift 08 ---
+Zagreus: ¿Una delicia, eh, chico? Sé que todo este asunto te ha pillado en medio y está poniendo a prueba tus lealtades más de lo que te gustaría. Siento hacerte pasar por esto.
+Storyteller: *El nuevo intento del príncipe del Inframundo por comprar el cariño del monstruoso sabueso infernal tricéfalo vuelve a dar sus frutos, pues la divina ofrenda de ambrosía celestial no tiene parangón.*
+
+
+--- Cerberus Gift 09 ---
+Zagreus: Cerbero, no me quiero poner sentimental contigo pero... bah, a quién quiero engañar. Mira, has estado conmigo toda la vida. Sé que si estás aquí es en parte culpa mía, ¿no?
+Storyteller: *El vínculo entre un sabueso y su amo es tan robusto como el metal adamantino. Cerbero, el temible monstruo nacido en el averno y guardián de sus puertas, responde antes que nadie al padre del príncipe, pero en segundo lugar al hijo de Hades.*
+Zagreus: Eres el chico más bueno del mundo. Aunque a las cabezas Beta y Gama no les gusta que las acaricien, ¿verdad? Tengo de sobra, en cualquier caso, cuenta con ello.
+
+
+--- Cerberus Styx Meeting 01 ---
+Storyteller: *El multicéfalo Cerbero custodia con celo las puertas del Inframundo. Las historias de lo que acontece a los insensatos que intentan sortearlas resultan tan gráficas que no es posible narrarlas.*
+Zagreus: ¿A esto hemos llegado, chiquitín? Con lo que hemos compartido tú y yo. En fin, si así ha de ser, está todo dicho. Salvo por… ¡en guardia!
+Zagreus: *Ja, ja, ja*. A ver, en serio. Sé por qué estás aquí. Dime qué tengo que hacer para que hagas la vista gorda. Si te ayudo a resolver el problema de los sátiros, ¿me dejarás pasar? Por favor. Tengo que buscar a mi madre. Ya sabes lo importante que es.
+Storyteller: *Tras un instante de vacilación, el voraz perro del averno le lanza un ladrido afirmativo al príncipe, que parte en busca de algo que sacie el apetito del monstruo.*
+
+
+--- Cerberus Boss Door Unlock 01 ---
+Zagreus: Chiquitín, te traigo tu golosina preferida. Prométeme que me dejarás pasar si te la doy, ¿de acuerdo?
+Storyteller: *El espeluznante Cerbero acepta el fétido zurrón y escruta la oscura estancia en busca de un rincón apartado para dar buena cuenta del vomitivo contenido.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 01 ---
+Storyteller: *Cerbero vuelve a aceptar el zurrón.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 02 ---
+Storyteller: *El descomunal Cerbero acepta la nauseabunda ofrenda del príncipe.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 03 ---
+Storyteller: *El temible Cerbero acepta el zurrón de sátiro.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 04 ---
+Storyteller: *El príncipe persuade al implacable guardián del Inframundo para que se aparte.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 05 ---
+Storyteller: *El príncipe compele al can tricéfalo a que le permita pasar.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 06 ---
+Storyteller: *Y así convence el príncipe una vez más al temible Cerbero para que le deje paso.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 07 ---
+Storyteller: *El can del averno acepta con júbilo otro zurrón de sátiro.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 08 ---
+Storyteller: *La única debilidad del monstruo, los zurrones de sátiro, vuelve a demostrar su eficacia.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 09 ---
+Storyteller: *El colmilludo Cerbero dirige sus tres miradas al zurrón de sátiro.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 10 ---
+Storyteller: *El guardián del averno decide que ha llegado la hora de tomar un descanso y un aperitivo.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 11 ---
+Storyteller: *El príncipe Zagreo ofrece de nuevo a Cerbero uno de sus aperitivos preferidos.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 12 ---
+Storyteller: *Cerbero no se aparta por nadie, pero a cambio de zurrones de sátiro puede hacer una excepción.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 13 ---
+Storyteller: *El vigilante Cerbero decide mirar a otro lado por una vez.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 14 ---
+Storyteller: *Los tres violentos rostros de Cerbero acuerdan que el zurrón de sátiro debe ser destruido.*
+
+
+--- Cerberus Boss Door Unlock Repeatable 15 ---
+Storyteller: *Tras una breve deliberación, Cerbero concluye que sí, que aceptará el zurrón.*
+
+
+--- Persephone With Cerberus 01 ---
+Persephone: ¡Cerbero! Sin duda es a ti a quien más debo agradecer que la morada siga en pie, ¿a que sí? ¿Te gusta el regalito que te traje de la superficie?
+Storyteller: *El sabueso del averno devora el premio de la superficie y le da a la reina una respuesta decididamente afirmativa.*
+Persephone: Sabía que te iba a gusta. Jamás dirías que no es carne de verdad, ¡a que no! Veré si puedo hacer crecer más.
+
+
+--- Persephone With Cerberus 02 ---
+Persephone: Eres un buen chico, ¿a que sí, Cerbero? ¡Sí que lo eres! Vigilaste este sitio mientras estaba fuera, ¡e incluso permitiste que mi hijo me visitase!
+Storyteller: *El terrorífico y siempre vigilante Cerbero acepta las alabanzas.*
+
+
+--- Charon First Inspect ---
+Storyteller: *Oculta en los oscuros recovecos del Inframundo, se encuentra el Érebo, una región donde los muertos aguardan condena eterna y ansían la atención y el favor de su patrono, el señor Hades.*
+
+
+--- Charon Fight 01 First Inspect ---
+Storyteller: *El neblinoso Érebo está atravesado por un tramo oculto del infinito río Estigia, donde el barquero Caronte se ocupa de las almas más ingobernables.*
+
+
+--- Inspect B Pre Boss 01 01 ---
+Storyteller: *Tras cruzar el llameante río Flegetonte para alcanzar esta posición estratégica, el incansable Zagreo deberá ahora enfrentarse a un rival de fiereza inimaginable, que le espera pacientemente en la siguiente estancia, a la espera de poder abalanzarse sobre él.*
+
+
+--- Inspect B Story 01 01 ---
+Storyteller: *Mucho más allá del río de fuego, se erige la escalinata oculta que conduce al entorno más esplendoroso y mejor custodiado del Inframundo: el celestial Elíseo, eterna morada de las almas más nobles que jamás hayan vivido.*
+Storyteller: *En el interior de una humilde morada de los Asfódelos, resuena la dulce voz de la solitaria Eurídice. Alguien que trató de escapar del Inframundo, pero sin éxito (al igual que el príncipe Zagreo).*
+
+
+--- B Mini Boss 02 First Inspect ---
+Storyteller: *La hechicería suele condenar a los más imprudentes a una muerte prematura y a la eternidad en el Tártaro, aunque hay quienes logran perfeccionar su arte y residen permanentemente en otro sitio...*
+
+
+--- Inspect B Shop 01 01 ---
+Storyteller: *Las abrasadoras llamas y las cenizas del río le importan poco al barquero Caronte, que surca las aguas del Inframundo con los condenados y los difuntos, así como toda la parafernalia que llevan consigo.*
+
+
+--- Inspect B Reprieve 01 01 ---
+Storyteller: *Oculto en el inmensurable infierno del río Flegetonte, y por extraño que resulte, aún fluye un pequeño hilo de agua vivificadora, como si las mismísimas moiras se lo hubieran proporcionado al venturoso príncipe.*
+
+
+--- Inspect B Intro 01 01 ---
+Storyteller: *Los Prados Asfódelos, antaño florecientes, se hallan ahora engullidos por centelleantes llamas y anegados por el río Flegetonte, cuyas hirvientes aguas podrían ocasionar la muerte instantánea incluso a quienes resisten temperaturas extremas.*
+
+
+--- Inspect B Intro 02 ---
+Storyteller: *En medio del sofocante calor de los Asfódelos, habita la inmensa mayoría de quienes vivieron en la tierra y murieron. Y ahí es donde pasarán el resto de la eternidad.*
+
+
+--- Inspect C Pre Boss 01 01 ---
+Storyteller: *La imponente y siniestra fachada del gran Estadio Elíseo se alza amenazante ante el instigador príncipe, que siente como si lo retasen a una competición en la que no tuviera ninguna esperanza de ganar.*
+
+
+--- Inspect C Shop 01 01 ---
+Storyteller: *Las ingentes riquezas de la superficie y del Inframundo se aglutinan junto al barquero Caronte, cuyos servicios ofrece a menudo a los moradores más pudientes del Elíseo.*
+
+
+--- Inspect C Reprieve 01 01 ---
+Storyteller: *En el interior de las delicadas construcciones del Elíseo, existen remansos de paz tan serenos y omnímodos que los mortales rara vez llegan a experimentar tal calma durante los breves y dolorosos avatares de la vida.*
+
+
+--- Inspect C Story 01 01 ---
+Storyteller: *Entre las estancias del Elíseo, talladas en piedra y cubiertas de musgo, se alzan un sinfín de monumentos eternos en honor a los más valerosos héroes que ha visto el mundo mortal, con el propósito de enaltecerlos en la muerte tanto como en vida.*
+
+
+--- Inspect C Intro 01 ---
+Storyteller: *El insólito esplendor celestial del Elíseo, reservado únicamente para las almas mortales más magnánimas, se extiende exuberante ante el belicoso príncipe.*
+
+
+--- Inspect C Intro 02 ---
+Storyteller: *Leteo, el amortajado río del olvido, serpentea por las sagradas estancias del Elíseo, aliviando a su paso las penas y los recuerdos de las sombras más nobles que allí habitan.*
+
+
+--- Inspect Room Secret 01 01 ---
+Storyteller: *Las profundidades más remotas del Inframundo… El abismo del que surgieron la vida y la conciencia en el albor de los tiempos… El reino de Caos. Una tierra apenas visitada, ni siquiera por los moradores del reino de la muerte.*
+
+
+--- Inspect Room Secret 02 01 ---
+Storyteller: *La insondable vastedad oculta en los rincones más tenebrosos del Inframundo se extiende más allá del control del mismísimo señor Hades. Y, pese a todo, el entrometido príncipe ha hallado una entrada.*
+
+
+--- Inspect Room Secret 03 01 ---
+Storyteller: *En el abismo más recóndito, solitario y oscuro del Inframundo se oculta la prueba del origen de todas las cosas: Caos, el escultor ancestral que dio forma a este mundo.*
+
+
+--- Inspect D Mini Boss 02 01 ---
+Storyteller: *Dentro de las sucias madrigueras excavadas en los ominosos edificios del Inframundo, se encuentran abominaciones tan terribles que ni siquiera el siniestro Hades se siente cómodo hablando de ellas.*
+
+
+--- Inspect D Reprieve 01 01 ---
+Storyteller: *En las entrañas de la guarida de los sacrílegos sátiros, se encuentran los nocivos objetos de sus rituales profanos, tan infames que resultan indescriptibles.*
+
+
+--- Inspect D Intro 01 01 ---
+Storyteller: *Por fin, el voluntarioso príncipe se ha aventurado hasta la superficie del reino de los mortales, aunque sigue atrapado en el mismísimo subsuelo: las puertas del Inframundo, el umbral que no ofrece escapatoria.*
+
+
+--- Inspect D Hub 01 ---
+Storyteller: *El colosal templo del Estigia y sus innumerables peligros son ahora lo único que separa al príncipe del exterior que tan desesperadamente ansía ver.*
+
+
+--- Inspect D Hub 02 ---
+Storyteller: *No lejos de aquí, los muertos inician el viaje hacia su última morada en las profundidades del averno, de modo que el barquero Caronte pasa a menudo por estos lares.*
+
+
+--- Inspect D Hub 03 ---
+Storyteller: *El pavoroso multicéfalo Cerbero, custodio del Inframundo, preside la entrada de este reino, devorando de un mordisco a los mentecatos que intentan huir.*
+
+
+--- Inspect D Hub 04 ---
+Storyteller: *Una tosca red de túneles se extiende desde uno de los fríos laterales del templo, refugio de despiadados moradores, repudiados incluso en este reino de los muertos.*
+
+
+--- Inspect E Intro 01 01 ---
+Storyteller: *La superficie, barrida por el viento y envuelta en las garras del frío más gélido; sin embargo, el lugar inspira en el príncipe un cierto asombro y admiración, pues es totalmente distinto a todo lo que haya visto antes.*
+Storyteller: *En el jardín oculto de Perséfone, antigua reina del Inframundo, crecen toda clase de frutas y vegetales. Un mundo lleno de vida, lejos del reino de la muerte.*
+
+
+--- A Pre Boss 01 First Inspect ---
+Storyteller: *Allende esta sala, se extiende el perímetro más remoto del Tártaro, promisorio de aterradoras amenazas desconocidas para el príncipe del Inframundo.*
+
+
+--- A Boss 01 Inspect 01 ---
+Storyteller: *Las erinias, conocidas también como furias, son las centinelas de confianza de Hades, encargadas de torturar a los peores especímenes de la humanidad y librar al Inframundo de cualquiera lo bastante estúpido como para entrar donde no debe.*
+
+
+--- A Post Boss 01 First Inspect ---
+Storyteller: *Por fin parece que el camino lo llevará lejos del Tártaro se despeja. Ahora ya muy por encima de él, el calor del Flegetonte, el río de fuego, es apenas perceptible… aunque sus peligros siguen al acecho.*
+
+
+--- A Post Boss 01 Gears Inspect 01 ---
+Storyteller: *Nadie que no pertenezca al círculo de confianza de Hades tiene autorización para entrar en las intricadas cámaras que conectan las vastas regiones del Inframundo, pero el príncipe decide forzar su entrada de todos modos.*
+
+
+--- A Mini Boss 03 01 First Inspect ---
+Storyteller: *Los miserables más violentos del Tártaro están encerrados aparte del resto de las almas condenadas. Sus únicos visitantes son aquellos inconscientes que intentan escapar.*
+
+
+--- A Mini Boss 04 01 First Inspect ---
+Storyteller: *Las almas perdidas y condenadas que no tienen donde guarecerse se reúnen en las profundidades del Tártaro, donde se funden con la tierra misma, creando formas aberrantes que desafían toda descripción.*
+
+
+--- A Reprieve 01 First Inspect ---
+Storyteller: *Un remanso de paz y tranquilidad. Algo que, por inimaginable que parezca, a veces es posible hallar en el Inframundo.*
+
+
+--- Charon First Inspect ---
+Storyteller: *Los infernales enseres de Caronte yacen esparcidos, esperando ser adquiridos por aquellos dispuestos a saciar la desmedida ansia de riqueza del barquero estigio.*
+Storyteller: *El infame río Estigia atraviesa el Inframundo, permitiendo que el barquero Caronte viaje diligente del reino de los mortales a las entrañas del averno, morada eterna de numerosas sombras.*
+
+
+--- Opening First Inspect ---
+Storyteller: *Formado por incontables estancias intercomunicadas que cambian continuamente, el Inframundo del señor Hades está diseñado con el único objetivo de que los muertos permanezcan allí hasta el fin de los tiempos.*
+
+
+--- Opening Proc Gen Hint ---
+Storyteller: *Cada vez que el príncipe vuelve a adentrarse en el Inframundo, las estancias, en constante cambio, se reajustan para frustrar sus esfuerzos por orientarse.*
+
+
+--- Inspect A Story 01 01 ---
+Storyteller: *En las entrañas del Tártaro, moran las sombras más miserables que deambulan eternamente por el Inframundo, cuyo amo y señor se muestra especialmente cruel con quienes tratan de engañar a la muerte.*
+
+

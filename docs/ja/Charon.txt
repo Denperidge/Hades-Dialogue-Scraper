@@ -1,0 +1,240 @@
+--- Boss Charon About Hermes Quest 01 ---
+Charon: …
+Zagreus: 聞いたぞ？俺がおまえに2連勝できるか、\nヘルメスと賭けをしてるって？上等じゃないか。\nヘルメスの期待には応えたい。悪く思わないでくれよ？
+Charon: …！！
+
+
+--- Boss Charon Encounter 01 ---
+Charon: …
+Zagreus: 待ってくれ、悪気はなかった！父上の所領に転がってるものは、つい、勝手に拾う癖がついていて… おまえから盗もうなんて気は…！
+Zagreus: ダメだ、通じてないな… ん？その櫂は…？\nなんでそんな、武具みたいな構え方をしてる…？
+
+
+--- Boss Charon Encounter 02 ---
+Zagreus: わかったぞ。カロン、おまえ、俺を試してるんだな？\nそんなふうに大金をこれ見よがしに置いておくなんて、\n「盗ってくれ」と言ってるようなものだ。
+Charon: …
+Zagreus: よくわかった。そういうことなら、今後もし俺がおまえの金を盗んだら、「ちょっと気晴らしに、殺し合いでもしようか」という意味だと思ってくれ。
+
+
+--- Boss Charon Misc Start 01 ---
+Charon: …
+
+
+--- Boss Charon Misc Start 02 ---
+Charon: …！
+
+
+--- Boss Charon Misc Start 03 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 04 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 05 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 06 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 07 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 08 ---
+Charon: …！！
+
+
+--- Boss Charon Misc Start 09 ---
+Charon: …！！
+
+
+--- Boss Charon Outro 01 ---
+Charon: …！！
+
+
+--- Boss Charon Hermes Quest Complete 01 ---
+Zagreus: よし！これで2連勝だ。賭けはヘルメスの勝ちだな。\nあいつに会ったら、「…！！」と伝えてくれ。
+Charon: …
+
+
+--- Charon First Meeting ---
+Charon: …
+Zagreus: カロン、また会えたな。特に用はないんだが、\n見物にきた。そこに並んでるのは、売り物か？\nちょっと見せてくれ。
+
+
+--- Charon No Fast Travel 01 ---
+Zagreus: カロン… 地上まで一気に運んでほしいと頼んだ件、\n考えてみてくれたか…？おまえにとっては、\nべつに無理な相談でもないだろ…？
+Charon: …
+
+
+--- Charon Shop Meeting 02 ---
+Zagreus: カロン、また会えたな。なかなかいい品揃え\nじゃないか。ちょっとよく見せてくれ。
+Charon: …
+
+
+--- Charon Shop Meeting 03 ---
+Charon: …
+Zagreus: ああ、俺も会えてうれしいよ。売り物を見せて\nもらえるか？
+
+
+--- Charon Shop Meeting 04 ---
+Zagreus: カロン、死者の大半は、アスポデロスに送られるん\nだろう？じゃあ、おまえがこのあたりに舟をつける\nことは、多いんだろうな。
+Charon: …
+
+
+--- Charon Shop Meeting 05 ---
+Zagreus: カロン、ここはアスポデロスだよな…？花の咲き乱れる草原だと聞いていたのに… こんなひどいところだとは、思いもしなかったよ。
+Charon: …
+
+
+--- Charon Pre Boss Meeting 01 ---
+Zagreus: カロン、あの扉の向こうに、何か恐ろしいものが\n待ち受けているなら… 身振り手振りで\n教えてくれないか？
+Charon: …
+
+
+--- Charon Pre Boss Meeting 02 ---
+Zagreus: なあカロン、次の小島でどんな恐ろしい怪物が\n待ち受けているのか… よかったら、\n教えてくれないか？
+Charon: …
+
+
+--- Charon High Relationship 01 ---
+Zagreus: カロン、元気そうじゃないか！ちょっと感じが\n変わったか？どこが、と言われても困るんだが…\n髪型かな？俺の気のせいか？
+Charon: …
+
+
+--- Charon Post Fight You Won 01 ---
+Zagreus: カロン、前に戦ったときのこと、怒ってないよな…？\n「得意客の証」をくれたということは、\n「気にしてなくていい」という意味だと解釈してるが…\n念のため、聞いておこうと思って…
+Charon: …
+
+
+--- Charon Post Fight You Lost 01 ---
+Zagreus: カロン、この前の… “死闘”のこと、怒ってないよな？\nどっちにしろ俺はボロ負けしたし、そもそも、\nあれはほんの冗談だったんだ… わかってるよな？
+Charon: ノオオオォォアアァァ！
+
+
+--- Charon About Hermes 01 ---
+Zagreus: カロン、俊足の神ヘルメスに会ったぞ。死者の魂を、\nおまえの舟まで運ぶ仕事をしていると言っていた。\nおまえは「同僚」だそうだ。ヘルメスとは、\n長い付き合いなのか？
+Charon: …
+
+
+--- Charon About Hermes 02 ---
+Zagreus: カロン、オリュンポスの神は冥府の神とはつきあわないと思っていたが、おまえはヘルメスと仕事上接点が\nあって、仲がいいらしいな。ヘルメスはどうして、\n俺に協力してるんだ？
+Charon: …
+
+
+--- Charon About Skelly 01 ---
+Zagreus: カロン、おまえは数え切れないほどの死者を\n見てきただろうから、いちいち顔なんて\n覚えてないだろうが…\n「スケリー」という名前に、聞き覚えはないか？
+Charon: …スゥゥ… ケ…リィィィ…！！
+
+
+--- Charon About Customer Loyalty 01 ---
+Zagreus: カロン、常連客として、改めて礼を言わせてほしい。\n地上を目指す旅を続けられるのも、こうして貴重な品を\n売ってくれるおかげだ。おまえの助けがなかったら、\n俺はずっと序盤であっさりやられているよ。
+Charon: …
+
+
+--- Charon About Secret Service 01 ---
+Zagreus: カロン？特になんの話というわけでもないんだが…\nおまえには、本当に感謝してるよ。おまえはいつも\nひとり粛々と自分の仕事をこなしていて、館で会う\nこともない。でも、おまえがいつも気にかけてくれて\nいることはわかってる。ありがとな。
+Charon: …
+
+
+--- Charon Chat 03 ---
+Charon: …
+
+
+--- Charon Chat 04 ---
+Charon: …
+
+
+--- Charon Chat 06 ---
+Charon: …
+
+
+--- Charon Chat 07 ---
+Charon: …
+
+
+--- Charon Chat 08 ---
+Charon: …
+
+
+--- Charon Chat 11 ---
+Charon: …
+
+
+--- Charon Chat 13 ---
+Charon: …
+
+
+--- Charon Chat 14 ---
+Charon: …
+
+
+--- Charon Chat 15 ---
+Charon: …
+
+
+--- Charon Chat 16 ---
+Charon: …
+
+
+--- Charon Chat 17 ---
+Charon: …
+
+
+--- Charon Chat 18 ---
+Charon: …
+
+
+--- Charon Chat 19 ---
+Charon: …
+
+
+--- Charon Chat 20 ---
+Charon: …
+
+
+--- Charon Chat 21 ---
+Charon: …
+Charon: …
+
+
+--- Charon Gift 01 ---
+Zagreus: カロン、おまえに出会えると、ほっとするよ。\nこれは日頃の感謝の印だ。受け取ってほしい。
+Charon: …
+Zagreus: それは、俺からおまえへの贈り物だ。\n代わりに何かくれる必要は…\nまあ、言っても聞かなそうだな。
+
+
+--- Charon Gift 02 ---
+Charon: …
+Zagreus: 気に入ってもらえてよかった。いつも、いろいろ\n売ってもらって助かってる。もう少し安めだと、\nありがたいけどな。
+
+
+--- Charon Gift 03 ---
+Charon: …
+Zagreus: 気に入ってもらえたか？たまには俺のことを\n思い出して、値下げを考えてくれると\nありがたいけどな。
+
+
+--- Charon Gift 04 ---
+Charon: …
+Zagreus: 気に入ってもらえたか？べつに、値下げしてほしくて\n賄賂を送ってるわけじゃないぞ。俺はそんなケチな\nことはしない。
+
+
+--- Charon Gift 05 ---
+Charon: …
+Zagreus: カロン、おまえはきっと、そう言うと思った。\nでも、どうか遠慮せずに受け取ってくれ。
+
+
+--- Charon Gift 06 ---
+Charon: …
+Zagreus: 俺もおまえと仲よくできてうれしいよ。\n今後ともよろしくな。
+
+
+--- Charon Gift 07 ---
+Zagreus: カロン、おまえは忙しい身なのに、俺のためにこうして\n時間を割いてくれている。これはささやかな礼の品だ。\n話し相手が欲しくなったら、いつでもつきあうからな。
+Charon: …
+
+

@@ -1,0 +1,544 @@
+--- Fury Sisters Union 01 ---
+Megaera: Mis hermanas y yo hemos estado hablando y hemos llegado a un acuerdo, Zagreo. Como puedes ver.
+Alecto: Megera, Tis, ¿listas?
+Tisiphone: ¡*Asssesssinooo*!
+Zagreus: Tres contra uno. No parece muy justo, ¿no?
+Megaera: La justicia dejó de preocuparnos hace tiempo. Te mataremos, sea como sea. ¡Erinias! ¡*Ahora*!
+
+
+--- Fury Sister Union Single Sis 01 ---
+Megaera: ¿Lo ves, Alecto? Llega justo a tiempo, como te dije.
+Alecto: Megera, ¡*desángralo*!
+
+
+--- Fury 2 Sister Union 01 ---
+Alecto: ¿Estás lista, Megera? ¿Tisífone? Al ataque.
+
+
+--- Fury 2 Sister Union Single Sis 01 ---
+Alecto: ¡Mira, hermanita! Ha venido el dios de la basura. A por él.
+
+
+--- Fury 2 Sister Union With Meg 01 ---
+Alecto: ¡Pero *míralo*! Esa cara de engreído, esa pose, ¡*todo*! Dime que no te está ablandando el corazón ese dios de la basura, hermana.
+Megaera: Vamos, Alecto. ¿Cuándo fue la última vez que una de nosotras pidió su aprobación a las demás? Y si conseguimos matarlo, ¿qué más te da?
+Alecto: ¿Sabes qué? Tienes razón, hermana, bien dicho. *¡Matémoslo ya!*
+
+
+--- Fury 2 Sister Union With Meg 02 ---
+Alecto: Mira este pedazo de basura, vuelve a desangrarse en nuestro bonito suelo recién pulido. ¿Listo para luchar contra mi adorable hermana, sangre roja?
+Megaera: Una vez que lo conoces no está tan mal, hermana. Aunque para lo que le vamos a hacer, no importa.
+Alecto: Me dais asco los dos, Meg, ¿lo sabías? ¡Recupera la compostura y *mátalo *esta vez, maldita sea!
+
+
+--- Fury 2 Pact Reaction 01 ---
+Alecto: Has debido de firmar un pacto, ¿verdad, sangre roja? Confiesa ahora mismo.
+Zagreus: Pues de hecho sí, aunque no veo por qué tiene que ser asunto tuyo, Alecto.
+Alecto: ¡Me gusta trabajar *a solas*! Y ahora no me ves hacerlo, ¿verdad? Así que diría que sí que es asunto mío. Igual que lo de *matarte*.
+
+
+--- Fury 2 Pact Disabled Reaction 01 ---
+Alecto: ¡*Fiu*! Pensaba que no iba a tener un momento tranquilo nunca más, sangre roja. Por ese maldito pacto que firmaste como un imbécil y que hace que trabaje con mis hermanas de nuevo. ¡Me las pagarás!
+Zagreus: Empiezo a ver un patrón: haga lo que haga yo, vas a jurar que te las pagaré, ¿verdad?
+Alecto: ¡Pero qué descaro! ¡Qué listo eres, eres un *listillo*! ¿Sabes qué? Me las pagarás por eso también.
+
+
+--- Fury 2 First Appearance ---
+Alecto: *Ah, ja, ja. Jo, jo, jo, jo*. Por fin. Esperaba este momento. En serio.
+Zagreus: Tú debes de ser una de las encantadoras hermanas de Megera. Creo que no nos han presentado aún. Y... ¿qué esperabas, exactamente?
+Alecto: Estoy harta de no poder hacer mi trabajo normal... Sin interrupciones, ya sabes. ¡Y sin tener que arreglar las meteduras de pata de Meg!
+Zagreus: Tengo la sensación de que hemos empezado con mal pie.
+Alecto: Da igual. Siempre he querido matar a un dios. Me tendré que conformar contigo.
+
+
+--- Fury 2 Post Ending 01 ---
+Alecto: He escuchado rumores sobre novedades en la morada de tu padre, sangre roja. ¿Así que su ilustre reina secuestrada ha regresado a casa?
+Zagreus: Espera, ¿cómo sabes eso? ¿Y se te permite hablar así de la reina?
+Alecto: ¡No le debo lealtad! Por mí, que se vaya y vuelva tantas veces como quiera. ¿Pero sabes quién no puede hacerlo? Exacto: tú.
+
+
+--- Fury 2 Post Ending 02 ---
+Alecto: Tengo que preguntarlo: ¿cómo es que sigues volviendo, sangre roja? Creía que ya habrías tenido suficientes palizas a estas alturas.
+Zagreus: Bueno, ya sabes... He aprendido a disfrutar de estas visitas, Alecto, hasta el punto de que lo he convertido en parte de mi rutina. ¡"Crea buenos hábitos y no los abandones nunca", como suelo decir!
+Alecto: ¿Te parece esto un "buen hábito"? Puede que para mí sí lo sea. En fin, ven tantas veces como quieras y estaré esperándote *siempre*. Bueno, ¡una de cada tres veces al menos!
+
+
+--- Fury 2 Post Epilogue 01 ---
+Alecto: He oído que habéis tenido juerga en la morada de tu padre, sangre roja. Qué pena habérmelo perdido. La próxima vez será, ¿no?
+Zagreus: Pues sí, Alecto. Te hemos echado de menos, ¡ojalá pudieras haber venido!
+Alecto: *Jo, jo, jo*, seguro. Pero ya sabes, el trabajo es lo primero. Manos a la obra.
+
+
+--- Fury 2 End Of Discussion 01 ---
+Alecto: Eh, sangre roja, he estado pensando y he llegado a la conclusión de que quiero que no me vuelvas a hablar *nunca*. *En absoluto*. ¿Lo captas?
+Zagreus: Esto... No sé cómo responder a lo que has dicho sin desobedecer directamente tu petición, Alecto. Pero para el futuro, de acuerdo.
+Alecto: ¡No esperaba tu *aprobación*! Para qué darle a la lengua cuando podríamos pasar directamente a intentar matarnos mutuamente. ¡Vamos!
+
+
+--- Fury 2 Low Health 01 ---
+Alecto: *Ahh*, mírate, sangre roja. ¡Estás prácticamente muerto! Así no tiene gracia.
+Zagreus: Siento defraudarte, Alecto. Sé que te gusta ser totalmente responsable de mis heridas.
+Alecto: Oh, no pasa nada. Sin resentimientos. Pero a ver si llegas en mejores condiciones la próxima vez que tenga que matarte, ¿eh?
+
+
+--- Fury 2 Low Health 02 ---
+Alecto: ¿Sabes que llevo oliendo tu sangre desde hace tres estancias? Espero que me hayas guardado un poco.
+Zagreus: He guardado un poco de mi sangre, ¡por supuesto! Pero, si no te importa, estaba pensando en quedarme con ella por ahora.
+Alecto: ¿Te parezco alguien a quien no le importe, dios de la basura? Me quedaré con tu sangre, con toda la que tengas.
+
+
+--- Fury 2 Low Health 03 ---
+Alecto: ¿Qué ocurre, sangre roja? Estás más pálido que de costumbre. ¿Has sangrado mucho para llegar aquí?
+Zagreus: Me he encontrado algunas complicaciones, si es lo que preguntas. Pero no te preocupes, me queda mucha sangre por derramar.
+Alecto: Oh. *Ufff*, ¡menos mal! Me preocupaba que no fuera a ser yo quien te matara esta vez.
+
+
+--- Fury 2 Low Health 04 ---
+Alecto: Pareces bastante hecho polvo ya, sangre roja. Rematemos la faena.
+
+
+--- Fury 2 Low Health 05 ---
+Alecto: La próxima vez, no pierdas tanta sangre antes de llegar aquí, basura. Me gusta ser yo quien te desangre.
+
+
+--- Fury 2 Misc Encounter 01 ---
+Alecto: ¡Tú no eres un dios! Lo único que eres es un pedazo de escoria. Todo esto es tuyo por nacimiento. ¡Y ni siquiera lo deseas!
+Zagreus: Parece que me tienes calado. Y yo que pensaba que aún nos estábamos conociendo.
+Alecto: *Tss*. Bien. ¿Sabes lo que quiero? Ven, te lo enseñaré.
+
+
+--- Fury 2 Misc Encounter 02 ---
+Alecto: ¿Sabes qué es lo que me gusta de ti? Tu forma de sangrar. *Mmm*.
+Zagreus: Ese… no es el tipo de halago al que estoy acostumbrado… Que sepas que me estás haciendo sentir un poco incómodo.
+Alecto: Jamás he conocido a un dios que sangre como tú. Sangre roja. Como un despreciable mortal. ¡Vamos! Te voy a dejar seco.
+
+
+--- Fury 2 Misc Encounter 03 ---
+Alecto: Vamos al tajo, ¿te parece, sangre roja? A mí me parece que ya me has hecho esperar bastante.
+Zagreus: Bueno, diría que no me gusta que me llames "sangre roja". Haces que se me suban los colores.
+Alecto: *Jo, jo, jo*. Muy gracioso. Pero te vendrás abajo. Siempre ocurre.
+
+
+--- Fury 2 Misc Encounter 04 ---
+Alecto: ¿Sabes, sangre roja? Te confieso que eres verdaderamente frustrante. ¿Qué hace falta para que grites, eh?
+Zagreus: ¿Qué? ¿Meg no te lo ha contado nunca? Y yo que pensaba que estabais muy unidas.
+Alecto: Bueno, ya lo averiguaremos. Me quedan un montón de ideas que tengo ganas de probar.
+
+
+--- Fury 2 Misc Encounter 05 ---
+Alecto: ¿Sabes, sangre roja? Tendría que haber sabido que no iba a ser un trabajo rápido.
+Zagreus: Dicen que tanto dioses como mortales son lo peor para calcular cuánto se tarda en hacer algo.
+Alecto: Normalmente, cuando estoy trabajando, se arrastran y después chillan. Al final, todos se callan, pero no es tu caso. Al menos por ahora.
+
+
+--- Fury 2 Misc Encounter 06 ---
+Alecto: ¡*Ja*! Debes de adorar el dolor, sangre roja. O quizá solo me guste a mi.
+Zagreus: ¿Ves, Alecto? Al final, sí que tenemos intereses comunes.
+Alecto: ¿Acabas de…? *Jamás *vuelvas a compararte conmigo, escoria. ¿Quieres más dolor? Estaré encantada de complacerte.
+
+
+--- Fury 2 Misc Encounter 07 ---
+Alecto: Tengo mucho por lo que estar agradecida, ¿sabes, sangre roja? Tu padre podría haberte encerrado en las fosas más profundas y no nos habríamos conocido.
+Zagreus: Ni lo pienses, Alecto. ¿Qué habrías hecho con tu vida sin todos estos encontronazos nuestros?
+Alecto: ¡No sé! Quiero decir, antes de conocerte, despellejaba todo tipo de basura, pero últimamente los hago esperar para reservarte tiempo.
+
+
+--- Fury 2 Misc Encounter 08 ---
+Alecto: Buen trabajo, sangre roja. Has llegado hasta aquí. Pero tengo que devolverte con papá. ¡No es nada personal!
+Zagreus: Ojalá pudieras venir, Alecto. ¿Quieres que le hable bien de ti a padre la próxima vez, para que puedas visitarnos en la morada?
+Alecto: Casi preferiría sacarme los ojos, ¡pero gracias por el ofrecimiento! Ahora toca enviarte a casa.
+
+
+--- Fury 2 Misc Encounter 09 ---
+Alecto: Sabes, sangre roja, mis víctimas no suelen venir *voluntariamente*, y menos repetidas veces. ¿Acaso crees que mi deber es hacerte pasar un buen rato?
+Zagreus: Alecto, tan solo me encanta ver tu sonrisa amenazante. Y claro, enfrentarme a ti es mucho mejor que luchar todo el rato contra Meg.
+Alecto: ¿Cómo? ¿Crees que enfrentarte a *mí *es mejor que enfrentarte a esa *debilucha*? *¡Graaaah!*
+
+
+--- Fury 2 Misc Encounter 10 ---
+Alecto: ¿Cuántas veces tendremos que hacerlo, sangre roja? *¿Cuántas? *¡Dímelo! ¿Cómo puedes soportar el seguir enfrentándote a mí, una y otra vez?
+Zagreus: Bueno, es que romper un hábito puede ser difícil. ¿Y cuántas veces? Pues ni idea, aunque supongo que hay una forma de averiguarlo.
+Alecto: Eso te lo concedo... Me gusta cuando mis presas se resisten. Venga, vamos a ver algo de sangre.
+
+
+--- Fury 2 About Tisiphone Speech 01 ---
+Alecto: Tisífone ha empezado a desvariar últimamente, sangre roja. ¿No sabrás algo sobre eso, no?
+Zagreus: Ah, no te preocupes. Solo intentaba ayudarla a ampliar su limitado vocabulario.
+Alecto: ¡Sal de su mente! ¿Crees de verdad que tiene algo que aprender de ti? ¡Aprende a callarte como ella!
+
+
+--- Fury 2 About Megaera Relationship 01 ---
+Alecto: Puaj, aún no puedo creerme que Megera tenga algo contigo. A pesar de su debilidad, siempre pensé que al menos se tomaba su trabajo aquí en serio. En fin, no te acostarás...
+Zagreus: No me interesan tus impertinencias sobre ella, Alecto. Y si insistes, te advierto que puede que me cabree.
+Alecto: *Ohh*, ¿que puede que te *cabrees*? ¿Vas a defender el honor de Megera porque ella no tiene fuerza para hacerlo? ¡Te crees que es tan pura, *ja, ja, ja*! Qué asco me dais.
+
+
+--- Fury 2 Win Streak 01 ---
+Alecto: Oh, ey, sangre roja. ¡Vuelves a por más! Sinceramente, me gusta tu terca estupidez. Ojalá esta vez pudiera mantenerte vivo un poco más.
+Zagreus: ¿Es que acaso estás pensando en matarme a base de insultos?
+Alecto: Aún no he decidido cómo lo haré. Me gusta que haya un poco de espontaneidad.
+
+
+--- Fury 2 Win Streak 02 ---
+Alecto: ¡Ja! Normalmente, las presas no suelen venir a por más cuando termino con ellas.
+Zagreus: Me lo imagino, pero es que he llegado a valorar de verdad estos pequeños toma y daca nuestros.
+Alecto: *Agh*, odio decepcionarte, sangre roja; pero sencillamente, no eres mi tipo. A lo mejor esta vez te entra por fin en la cabeza.
+
+
+--- Fury 2 Lose Streak 01 ---
+Alecto: ¿Sabes qué, sangre roja? Por mucho que lo intento, aún no te he perdonado la última derrota. No sé… Llámalo problema irresoluble de personalidad...
+Zagreus: Perdonar lleva tiempo. Pero la introspección es el primer paso. ¡Estamos avanzando!
+Alecto: ¿Crees que estamos avanzando? ¿Aquí? *Ja, ja, ja, ja, ja*. Pedazo de escoria… Te voy a enseñar lo que es avanzar.
+
+
+--- Fury 2 Lose Streak 02 ---
+Alecto: Sangre roja, me estoy hartando de ver esa cara de engreído una y otra vez.
+Zagreus: Entonces... ¿has pensado simplemente en dejarme en paz y volver por donde hayas venido?
+Alecto: ¿Ves? Me refería *justo * a eso. Y pensar que Megera tuvo que aguantarte no sé cuánto tiempo...
+
+
+--- Fury 2 Lose Streak 03 ---
+Alecto: Maldito seas, sangre roja. Me haces quedar mal, ¿lo sabes? Me haces *sentir *mal.
+Zagreus: Alecto, no te he pedido que intentes matarme una y otra vez. ¿Cómo creías que iba a responder?
+Alecto: *Ja, ja, ja, ja, ja, ja*. Sabes lo que pasa cuando haces que me *sienta *mal, ¿verdad?
+
+
+--- Fury 2 Lose Streak 04 ---
+Alecto: ¡*Oh*, es el dios de la basura que ha venido a dejar esto hecho un asco otra vez! Te estás volviendo predecible.
+Zagreus: Si tenemos en cuenta que te derroté la última vez, yo que tú me preocuparía más por lo predecible que resultas.
+Alecto: ¡No quiero oír una palabra más de ti, basura! Solo quiero ver tu sangre correr. Ven.
+
+
+--- Fury 2 Sisters Union Repeatable 01 ---
+Alecto: *Ah*, aquí está, hermanas. A trabajar.
+
+
+--- Fury 2 Sisters Union Repeatable 03 ---
+Alecto: Hagámoslo pedazos, hermanas. ¡Vamos!
+
+
+--- Fury 2 Sisters Union Repeatable 04 ---
+Alecto: Mirad, hermanas, ha vuelto. ¿Preparadas?
+
+
+--- Fury 2 Sisters Union Repeatable 05 ---
+Alecto: Ha vuelto arrastrándose de nuevo, hermanas. A por él.
+
+
+--- Fury 2 Sisters Union Repeatable 06 ---
+Alecto: Vale, hermanas, ¡esta vez a por todas!
+
+
+--- Fury 2 Sisters Union Repeatable 07 ---
+Alecto: Yo atacaré primero a esta basura. Vosotras dadme apoyo.
+
+
+--- Fury 2 Sisters Union Repeatable 08 ---
+Alecto: ¿Las tres contra la *basura*, hermanas? ¿Vamos!
+
+
+--- Fury 2 Sisters Union Repeatable 09 ---
+Alecto: ¡Las tres erinias contra el dios de la basura! ¡Vaya pelea!
+Alecto: ¡*Ja, ja, ja*, miradlo, hermanas! ¿No os entran ganas de hacerlo pedazos?
+
+
+--- Fury 2 Sisters Union Repeatable 10 ---
+Alecto: Por mucho que adore hablar con vosotras, Meg, Tisífone... ha llegado nuestra presa.
+
+
+--- Fury 2 Sister Union Repeatable 01 ---
+Alecto: ¿Lista, hermanita? No nos da ni para empezar con este sangre roja.
+
+
+--- Fury 2 Sister Union Repeatable 03 ---
+Alecto: Bueno, hermana, ¿qué te parece si empezamos a zurrarle?
+
+
+--- Fury 2 Sister Union Repeatable 04 ---
+Alecto: ¡Ahí está, hermanita! Estoy lista si tú lo estás.
+
+
+--- Fury 2 Sister Union Repeatable 05 ---
+Alecto: Vale, hermana, ¡hagámoslo pedazos!
+
+
+--- Fury 2 Sister Union Repeatable 06 ---
+Alecto: ¿Lista para atacarlo, hermana? ¡Yo sí!
+
+
+--- Fury 2 Sister Union Repeatable 07 ---
+Alecto: Nunca podrás derrotar a las dos sin perder una gran cantidad de sangre, dios de la basura.
+
+
+--- Fury 2 Sister Union Repeatable 08 ---
+Alecto: ¡Mi hermana y yo te arrancaremos los miembros uno a uno, sangre roja!
+
+
+--- Fury 2 Sister Union Repeatable 09 ---
+Alecto: ¡¿Crees que puedes vencernos a las dos, dios de la basura?!
+
+
+--- Fury 2 Sister Union Repeatable 10 ---
+Alecto: ¡Vale, hermana! ¡Solo apóyame, que yo me encargo de esta basura!
+
+
+--- Fury 2 Misc Start Win Streak 01 ---
+Alecto: Seguiré matándote, sangre roja. ¡Tampoco es que me moleste!
+
+
+--- Fury 2 Misc Start Win Streak 02 ---
+Alecto: ¿Qué vamos a hacer contigo esta vez, eh?
+
+
+--- Fury 2 Misc Start Win Streak 03 ---
+Alecto: Estoy impresionada, sangre roja. Nunca aprendes.
+
+
+--- Fury 2 Misc Start Win Streak 04 ---
+Alecto: Resulta que matar al dios de la basura nunca aburre.
+
+
+--- Fury 2 Misc Start Win Streak 05 ---
+Alecto: ¿Cómo quieres morir esta vez, sangre roja? Espera, a ver si lo adivino...
+
+
+--- Fury 2 Misc Start Win Streak 06 ---
+Alecto: No lo pillas, ¿verdad? Seguro que puedo ayudarte a aprender.
+
+
+--- Fury 2 Misc Start Lose Streak 01 ---
+Alecto: Empiezo a estar más que harta de ti, dios de la basura. ¡Vamos!
+
+
+--- Fury 2 Misc Start Lose Streak 02 ---
+Alecto: Tengo malas noticias, sangre roja. Me gusta la muerte.
+
+
+--- Fury 2 Misc Start Lose Streak 03 ---
+Alecto: Venga, sangre roja. ¡A ver cómo me matas de nuevo!
+
+
+--- Fury 2 Misc Start Lose Streak 04 ---
+Alecto: Estás atrapado conmigo para siempre, escoria. Que no se te olvide.
+
+
+--- Fury 2 Misc Start Lose Streak 05 ---
+Alecto: Estoy empezando a odiarte de verdad. ¿Lo sabías, sangre roja?
+
+
+--- Fury 2 Misc Start Lose Streak 06 ---
+Alecto: Vaya, si es el dios de la basura en persona. Qué honor.
+
+
+--- Fury 2 Misc Start Lose Streak 07 ---
+Alecto: La buena noticia es que estoy de un humor de perros.
+
+
+--- Fury 2 Misc Start Lose Streak 08 ---
+Alecto: Estaba deseando tener esta oportunidad de vengarme, sangre roja.
+
+
+--- Fury 2 Misc Start Lose Streak 09 ---
+Alecto: Me han dicho que andabas cerca y he pensado en intentar matarte otra vez.
+
+
+--- Fury 2 Misc Start Lose Streak 10 ---
+Alecto: Sangre roja, no me hace nada de gracia lo que pasó aquí la última vez.
+
+
+--- Fury 2 Misc Start Lose Streak 11 ---
+Alecto: Podrás derrotarme, dios de la basura, pero derramaré antes tu sangre.
+
+
+--- Fury 2 Misc Start Lose Streak 12 ---
+Alecto: Mientras consiga entorpecer tu avance, sangre roja, habré cumplido con mi cometido.
+
+
+--- Fury 2 Misc Start Vs Fury Lose Streak 01 ---
+Alecto: ¿Crees que podrás conmigo porque pudiste con Megera?
+
+
+--- Fury 2 Misc Start Vs Fury Lose Streak 02 ---
+Alecto: Tu papaíto nunca debió darle este trabajo a Megera.
+
+
+--- Fury 2 Misc Start Vs Fury Lose Streak 03 ---
+Alecto: Megera no ha podido venir, sangre roja. Estamos solos tú y yo.
+
+
+--- Fury 2 Misc Start Vs Fury Lose Streak 04 ---
+Alecto: ¡Ja! Megera tiene la culpa de todo. Vamos a hacer limpieza.
+
+
+--- Fury 2 Misc Start Vs Fury 3 Lose Streak 01 ---
+Alecto: Has podido con Tisífone. ¿Y qué? Ahora acabaré contigo.
+
+
+--- Fury 2 Misc Start Vs Fury 3 Lose Streak 02 ---
+Alecto: Sangre roja, si te metes con Tis, te metes conmigo. ¿Lo pillas?
+
+
+--- Fury 2 Misc Start Vs Fury 3 Lose Streak 03 ---
+Alecto: Tisífone ha tenido problemas contigo, ¿eh? A ver si puedo arreglarlo…
+
+
+--- Fury 2 Misc Start Vs Fury 3 Lose Streak 04 ---
+Alecto: Sangre roja, nadie se mete con Tisífone, salvo yo.
+
+
+--- Fury 2 Misc Start 01 ---
+Alecto: Voy a disfrutar con esto, sangre roja.
+
+
+--- Fury 2 Misc Start 02 ---
+Alecto: Justo cuando empezaba a aburrirme.
+
+
+--- Fury 2 Misc Start 03 ---
+Alecto: Te arrancaré los miembros uno a uno, sangre roja.
+
+
+--- Fury 2 Misc Start 04 ---
+Alecto: Las moiras tienen que desear tu sangre tanto como yo.
+
+
+--- Fury 2 Misc Start 05 ---
+Alecto: Hora de morir otra vez, sangre roja. Vamos a ello.
+
+
+--- Fury 2 Misc Start 06 ---
+Alecto: Sangre roja, te garantizo que este trabajo nunca aburre.
+
+
+--- Fury 2 Misc Start 07 ---
+Alecto: Vaya, vaya, el dios de la basura en persona. Ven a morir.
+
+
+--- Fury 2 Misc Start 08 ---
+Alecto: Genial, me estaba cansando de esperar para matarte.
+
+
+--- Fury 2 Misc Start 09 ---
+Alecto: *Anda*, has hecho todo el camino de vuelta. Me siento halagada, sangre roja.
+
+
+--- Fury 2 Misc Start 10 ---
+Alecto: Tienes ganas de morir, ¿no? Fantástico.
+
+
+--- Fury 2 Misc Start 11 ---
+Alecto: Doy gracias a las moiras por poder encargarme de ti esta vez.
+
+
+--- Fury 2 Misc Start 12 ---
+Alecto: A ver qué sabes hacer, sangre roja. ¡Vamos!
+
+
+--- Fury 2 Misc Start 13 A ---
+Alecto: Vaya, mira quién está de vuelta. El dios de la basura en persona.
+
+
+--- Fury 2 Misc Start 13 ---
+Alecto: Prepárate para una buena dosis de dolor y sufrimiento.
+
+
+--- Fury 2 Misc Start 14 ---
+Alecto: Oye, oye, oye. Quieto ahí, sangre roja.
+
+
+--- Fury 2 Misc Start 15 ---
+Alecto: ¡He estado esperando el momento de reducirte a una masa sanguinolenta, sangre roja!
+
+
+--- Fury 2 Misc Start 16 ---
+Alecto: No abras esa condenada boca tuya, sangre roja, excepto para gritar.
+
+
+--- Fury 2 Misc Start 17 ---
+Alecto: Debe gustarte el dolor o algo así, ¿no es verdad, sangre roja?
+
+
+--- Fury 2 Misc Start 18 ---
+Alecto: ¡Alguien va a morir pronto, sangre roja! *Ooooh*, qué ganas de matarte.
+
+
+--- Fury 2 Misc Start 19 ---
+Alecto: ¡Dame todo lo que tengas, dios de la basura!
+
+
+--- Fury 2 Misc Start 20 ---
+Alecto: A ver de qué pasta estás hecho, sangre roja. ¡Vamos!
+
+
+--- Fury 2 Misc Start 21 ---
+Alecto: Parece que mis oraciones al dios de la basura han sido atendidas al fin, ¿eh?
+
+
+--- Fury 2 Misc Start 22 ---
+Alecto: ¿Qué te pasa, sangre roja? Te has quedado muy callado, ¿he herido tus sentimientos, *eh*?
+
+
+--- Fury 2 Misc Start 23 ---
+Alecto: *Ohh*, voy a dejarte sin una gota de sangre.
+
+
+--- Fury 2 Misc Start 24 ---
+Alecto: ¿Quieres vértelas conmigo *otra vez*, sangre roja? Venga, *¡ven a por mí!*
+
+
+--- Fury 2 Misc Start 25 ---
+Alecto: ¿Cómo es posible que esté tan harta de ti, pero no de *matarte*, sangre roja?
+
+
+--- Fury 2 Misc Start 26 ---
+Alecto: ¡Date prisa, sangre roja! ¡Tengo más basura a la que castigar!
+
+
+--- Fury 2 Misc Start 27 ---
+Alecto: Si quieres atravesar esa puerta, te va a costar sangre.
+
+
+--- Fury 2 Misc Start 28 ---
+Alecto: Megera no solo es débil, sino que no tiene buen gusto.
+
+
+--- Fury 2 Misc Start 29 B ---
+Alecto: Oh, bien. Tenía ganas de zurrarle a alguien vivo, dios de la basura.
+
+
+--- Fury 2 Misc Start 29 A ---
+Alecto: ¡Vivo o muerto, a tu padre le da igual, sangre roja!
+
+
+--- Fury 2 Misc Start 29 ---
+Alecto: ¡Qué bien que tu padre te odie, o no tendría este placer, sangre roja!
+
+
+--- Fury 2 Misc Start 30 ---
+Alecto: Estoy harta de esperar aquí, ¿por qué no acabamos *rapidito*, sangre roja?
+
+
+--- Fury 2 Misc Start 31 ---
+Alecto: Siempre digo que no hay nada como la sangre fresca para calentar las cosas.
+
+
+--- Fury 2 Misc Start 32 ---
+Alecto: Cuando me enteré de que venías, sangre roja, le dije a mis hermanas vinieran aquí.
+
+
+--- Fury 2 Misc Start 33 ---
+Alecto: ¡*Oh*, te va a encantar esto, sangre roja!
+
+
+--- Fury 2 Misc Start 34 ---
+Alecto: Me enteré de que andabas por aquí y me presenté voluntaria, dios de la basura.
+
+
+--- Fury 2 Misc Start 35 ---
+Alecto: Hora de derramar tu sangre otra vez, sangre roja.
+
+
+--- Fury 2 Misc Start 36 ---
+Alecto: Te enviaré gritando con tu padre. ¡En guardia!
+
+

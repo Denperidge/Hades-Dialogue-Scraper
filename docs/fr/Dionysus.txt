@@ -1,0 +1,602 @@
+--- Ares With Dionysus 01 ---
+Ares: Ah, cher parent ! Je demandais justement au Seigneur Dionysos ici présent à quelle occasion les plus grands banquets des mortels ont lieu. Parce que j'ai ma petite idée sur le sujet, vois-tu...
+Dionysus: Ouais, ouais, c'est bon, t'as gagné, Arès. Y'a rien de mieux qu'un festin après une bonne guerre, c'est sûr ! À condition d'y avoir survécu ! Sinon, bah, j'imagine qu'ils ont plus qu'à festoyer là-dessous avec *toi*, Zag !
+
+
+--- Artemis With Dionysus 01 ---
+Artemis: Oh génial, c'est toi, Zagreus ! Tiens, laisse-moi t'accorder de nouveaux Bienfaits, tout comme Dionysos ici présent, qui manifestement aimerait te tenir la jambe aussi longtemps qu'il a tenu la mienne !
+Dionysus: *Heh*, elle me dit que je suis qu'un gros lourd, que je devrais dégager, et d'autres méchancetés comme ça, mais bon, qu'est-ce que j'y peux, hein ?
+
+
+--- Aphrodite With Dionysus 01 ---
+Aphrodite: Tu sais, mon trésor, mes pouvoirs se complimentent à merveille avec ceux de Dionysos, qui eux persuadent l'esprit que la beauté réside là où elle n'est en réalité pas du tout !
+Dionysus: *Ah, haha*, pas la peine de me flatter comme ça, chère Aphrodite ! La beauté est presque entièrement dans la tête ! Et dans les muscles, la mâchoire, le sourire... enfin bref, je t'apprends rien !
+
+
+--- Dionysus With Zeus 01 ---
+Dionysus: Hé Zag, j'ai mon père là, il veut te parler. Sois cool, mec, fais genre que t'es d'accord avec tout ce qu’il te dit, OK ?
+Zeus: Ce Dionysos, toujours bien trop gentil dans les présentations, mais au moins il me montre le respect adéquat. Peut-être qu’un jour il pourra t'apprendre les coutumes de l’Olympe.
+
+
+--- Dionysus With Poseidon 01 ---
+Dionysus: *Euh*, Zag, *hum*... ton oncle est de passage. Pas papa, *euh*, je parle de l’autre. Il voulait juste savoir comment tu allais, tout ça...
+Poseidon: *Aha*, te voilà, mon p'tit neveu ! Alors, Dionysos te montre les ficelles ou quoi ? Bon, par contre, si tu veux savoir ce que c'est qu'un vrai banquet, c'est par *moi *que ça passe ! Enfin bref, prends ma bénédiction et *file *!
+Dionysus: *Oh*, euh, oui, mec, on est là-haut, on t’attend ! On sait que tu finiras par y arriver un jour !
+
+
+--- Dionysus With Athena 01 ---
+Dionysus: Hé, Zag ! Quand tu seras là, ça sera vraiment super, mec. Je te promets ! Même Athéna ici présente se détendra un peu, elle détachera ses cheveux, mettra une tenue un peu plus relax... Ouais, ça va être un truc de *dingue * !
+Athena: Parfois, je me dis qu'en vérité, c'est peut-être le seigneur Dionysos qui est le vrai dieu de la stratégie, car il semble étrangement toujours au courant de mon prochain coup. Enfin, quoi qu'il en soit, je tâcherai de rester concentrée sur ta situation. Pas sur son banquet.
+
+
+--- Dionysus With Ares 01 ---
+Dionysus: Tu sais, Zag, peut-être que quand tu seras là-haut, tu pourras faire en sorte qu'Arès se détende un peu ? Le mec, il arrête pas de plomber l'ambiance avec toutes ses histoires de sang, de coups tordus et d'autres trucs du genre, là !
+Ares: Voyons, seigneur Dionysos ! Je ne comprends pas en quoi de tels sujets sont perçus comme inconvenants pour un festin. Ne me dis pas qu'une guerre gagnée ne mérite pas d'être célébrée ?
+
+
+--- Dionysus With Aphrodite 01 ---
+Dionysus: Écoute, Zag, tout le monde sait qu'en matière de festins, le meilleur, c'est bibi. Mais faut admettre que je serais rien sans l'aide de Dame Aphrodite !
+Aphrodite: Le vin a sa façon bien à lui de rendre les gens encore plus beaux qu'ils ne le sont déjà, n'est-ce pas, mon cher Dionysos ! Et cette beauté, ma foi, elle peut inspirer de longues histoires d'amour ! Et aussi des histoires d'amour plus... éphémères, la plupart du temps.
+
+
+--- Dionysus With Artemis 01 ---
+Dionysus: Zag, mec... J'étais en train de persuader notre bonne amie Artémis de venir à un de mes festins, mais... elle veut pas, elle est toute préoccupée. Sûrement à propos d'une chasse ?
+Artemis: C'est ça, cher Dionysos, une partie de chasse ! Et cette partie de chasse-là demande beaucoup, *beaucoup *de calme, et *beaucoup *de concentration. Alors, si tu veux bien m'excuser...?
+
+
+--- Dionysus With Demeter 01 ---
+Dionysus: Hé Zag, j'ai un service à te demander. Tu pourrais pas, genre, persuader Dame Déméter de se détendre un peu avec toute son histoire de *« ne rien laisser pousser » *?
+Demeter: Mon cher Dionysos, je suis d'avis que vous abstenir de boire du vin pendant un certain temps pourrait vous faire du bien. Dans tous les cas, ce n'est pas en m'amadouant que je vous accorderai une meilleure récolte.
+
+
+--- Dionysus About Olympian Reunion Quest 01 ---
+Zagreus: J'espère que vous ne serez pas déçu, l'ami. Au nom d'Hadès ! Olympe, ceci est un message officiel ! Je pense que vous allez adorer ceci, Seigneur Dionysos !
+Dionysus: Ouhla, attends une seconde, Zag. Je sais reconnaître une invitation quand j'en vois une, moi ! Et ça, c'est clairement une invitation. Une pour moi, et... pour les autres aussi ? Hoh, ça a l'air génial, tout ça ! Je sens qu'on va bien rigoler !
+
+
+--- Dionysus Post Epilogue 01 ---
+Dionysus: Écoute, Zag, je me souviens pas complètement de ce qui s'est passé à cette fête que t'as organisée pour nous tous, en bas, mais je peux te dire un truc : c'était *génial *! T'as *cassé la baraque*, mec ! On remet ça un de ces quatre, ouais ?
+
+
+--- Dionysus About Zeus 01 ---
+Dionysus: Alors, Zag, t’as dû rencontrer mon père maintenant, tu sais, ton oncle Zeus ? Il est cool, il aime faire la fête et tout, mais... essaie de pas l’oublier, tu veux ?
+
+
+--- Dionysus About Poseidon 01 ---
+Dionysus: *Oh-ho*, Zag, on dirait que t’as reçu un cadeau du vieux Poséidon ! C’est un bon parti, mais... tiens, j’espère qu’il te reste de la place !
+
+
+--- Dionysus About Athena 01 ---
+Dionysus: Hé mec, il paraît qu’Athéna t’a déjà parlé ? En vrai, elle est cool quand on la connaît. Tiens ! Je t'ai trouvé quelque chose qui devrait bien coller avec son style.
+
+
+--- Dionysus About Aphrodite 01 ---
+Dionysus: *Woah*, toi, t'as dû rencontrer la belle Aphrodite, j’ai raison ou j'ai pas tort, Zag ? J’ai *pile *le truc qui ira avec son pouvoir !
+
+
+--- Dionysus About Artemis 01 ---
+Dionysus: Hé, Zag, je voulais te dire que j’arrive pas à croire que la petite Artémis traîne avec toi ! Elle traîne avec personne, mec ! Enfin bref, tiens !
+
+
+--- Dionysus About Ares 01 ---
+Dionysus: Tu fréquentes Arès, pas vrai, Zag ? C’est un sacré bonhomme, faut le reconnaître. Tiens, j’ai *ça *pour toi !
+
+
+--- Dionysus About Demeter 01 ---
+Dionysus: J'ai senti comme une brise à l'instant, et ça peut vouloir dire qu'une chose : que la froide Déméter a décidé de te donner un coup de main, hein ? Ou peut-être qu'il fait juste froid. Je veux dire, on est sur une montagne, après tout !
+
+
+--- Dionysus About Hades Keepsake 01 ---
+Dionysus: Hé, Zag, euh... je sais pas si c'est le vin qui me monte à la tête ou quoi, mais... c'est pas la bénédiction de ton père que t'as, là ? C'est marrant ça, mec, je savais pas qu'il t'aidait !
+
+
+--- Dionysus Post Gift Pickup 01 ---
+Dionysus: Alors, comment va mon dieu des Enfers préféré ? Tu tiens le coup, Zag ? En tout cas, tu vas bientôt te sentir beaucoup mieux, je te le dis !
+
+
+--- Dionysus Post Gift Pickup 02 ---
+Dionysus: Oh, Zag, je te jure qu'un jour, tu seras l’invité d’honneur du plus *gros *festin que t’auras *jamais *vu ! Mais je sais qu’en attendant, t’as pas mal de taf, alors tiens !
+
+
+--- Dionysus Backstory 01 ---
+Dionysus: Parfois, je me demande ce qui se passe dans ta tête, mec. Je veux dire, je sais que tu m’entends et que t’entends aussi les autres, mais il fait tellement sombre là-dessous que moi, je t’entends pas du tout !
+
+
+--- Dionysus Backstory 02 ---
+Dionysus: Je vais te dire un truc, Zag. Je sais que ton père, c'est un cas. C'est pas un crime de vouloir t'en aller, tu m'entends ? Alors tire-toi de là et viens nous rejoindre là-haut, on a une place au chaud rien que pour toi !
+
+
+--- Dionysus High Relationship 01 ---
+Dionysus: Je sens que les choses vont beaucoup mieux se passer pour toi cette fois, mec. En fait, j'en suis carrément sûr !
+
+
+--- Dionysus High Relationship 02 ---
+Dionysus: Le secret de tout festin digne de ce nom, c'est beaucoup, beaucoup de préparation, mec. Ou sinon, beaucoup d'improvisation, ça dépend !
+
+
+--- Dionysus Run Progress 01 ---
+Dionysus: Faut reconnaître que t'es tenace, Zag. Vraiment, vraiment tenace. C’est genre quoi, ta vingtième tentative d'évasion là, non ?
+
+
+--- Dionysus Run Progress 02 ---
+Dionysus: Tu progresses, tu progresses, mec. J'ai entendu dire que t'étais allé jusqu'à l'Asphodèle l'autre fois. C'est bon ça, t'arrête pas, OK ?
+
+
+--- Dionysus Run Progress 03 ---
+Dionysus: Il paraît que tu t’es battu avec des Satyres près de la surface, Zag ! Bravo d’être arrivé jusque-là ! Ah, et je veux aussi que tu saches que ceux-là sont pas mes potes, mec ! Les Satyres que je connais sont pas du tout comme ça !
+
+
+--- Dionysus Run Cleared 01 ---
+Dionysus: Ah, Zag, mais qu’est-ce qui s’est passé la dernière fois, mec ? T’avais l’air tout près du but, mais après on t’a perdu de vue et t’es revenu ici. Bon, bah, plus qu'à recommencer, hein !
+
+
+--- Dionysus Run Cleared 02 ---
+Dionysus: Je voulais te dire un truc, mec. Je sais que c'est la galère là-dessous, mais t'étais presque arrivé à la surface la dernière fois ! Tu peux le faire ! On est avec toi, et on le sera aussi longtemps qu'il le faudra, tu m'entends ?
+
+
+--- Dionysus Post Epilogue 02 ---
+Dionysus: Hé, au fait, mec, pendant la fête chez toi, euh, je... 'fin, j'ai pas fait de bêtise, j'espère...?
+
+
+--- Dionysus Post Epilogue 03 ---
+Dionysus: J'arrive pas à croire que Perséphone est ta mère, Zag, c'est un truc de dingue ! Je savais pas qu'elle kiffait les Enfers en vrai, c'est fou !
+
+
+--- Dionysus About Keepsake 01 ---
+Dionysus: Dis, ce serait pas la Coupe Débordante que je t'ai donnée ? Je suis content qu'elle te plaise, mec ! Heureusement qu'elle déborde encore, parce que sinon, je pense pas que je l'aurais pas reconnue !
+
+
+--- Dionysus About Nectar 01 ---
+Dionysus: Mec, tu dois être pote avec à peu près *tout le monde *en bas maintenant, non ? À force de distribuer du Nectar à droite et à gauche comme tu fais, ça doit bien réchauffer l'ambiance !
+
+
+--- Dionysus About Nectar 02 ---
+Dionysus: Je peux juste te dire que t'as beaucoup de nectar sur toi, mec ! Je le sais, parce que moi-même je kiffe pas mal la chose, mais j'en ai jamais *autant *sur moi, parce que là... *Ouaouh *!
+
+
+--- Dionysus About Ambrosia 01 ---
+Dionysus: Hé, mec, tu t'es trouvé une bouteille d'Ambroisie, pas vrai ? Je savais pas qu'il y en avait là-dessous ! Fais-moi plaisir, si t'en trouves d'autres, garde-les de côté. Ou non, j'ai mieux : donne-les à quelqu'un d'autre ! Faut pas en gaspiller une goutte, mec !
+
+
+--- Dionysus About Ambrosia 02 ---
+Dionysus: Nan mais tu t'es vu, Zag ? T'es une réserve d'Ambroisie sur pattes ! C'est que t'en prends vraiment soin, en plus. Je savais que je pouvais compter sur toi, mais genre... *<Renifle> *je savais pas que je pouvais être aussi fier de toi, mec !
+
+
+--- Dionysus About Ambrosia 03 ---
+Dionysus: Zag, il se trouve que je me trompe rarement sur les gens, et tu as un *énorme *stock d'ambroisie ! T'en as donné beaucoup ? À *tous *tes potes et *plus encore * ?!
+
+
+--- Dionysus About Ambrosia 04 ---
+Dionysus: Dis donc, Zag, comment t'as fait pour trouver autant d'Ambroisie là-dessous ? Je veux dire, parfois je me dis qu'il y en a plein là-haut, mais toi tu nages littéralement dedans, mec !
+
+
+--- Dionysus About Gifting 01 ---
+Dionysus: Tout le monde parle que de toi là-haut, mec ! C'est dingue comment ils t'ont tous à la bonne, je suis impressionné !
+
+
+--- Dionysus About Orpheus 01 ---
+Dionysus: Hé, Zag, tu connaîtrais pas un certain Orphée là-dessous ? Je suis sûr que ouais, alors je pensais à un truc... genre, une petite blague qu’on pourrait faire, si t’as envie de te marrer un coup ?
+Zagreus: Rire aux dépens d’Orphée ? Vous avez toute mon attention, Dionysos.
+Dionysus: ...Ce mec fait des chants du tonnerre de Zeus, alors je me disais... peut-être qu'on pourrait lui raconter n'importe quoi sur toi et moi, genre comme quoi y a un lien mystique qui nous unit, un truc du genre ? Il va gober ça, tu vas voir. Dis-lui pour moi, OK, mec ?!
+
+
+--- Dionysus About Orpheus 02 ---
+Dionysus: *Ah ah ah*, Zag ! Je sais que t'as vu Orphée, il a écrit toute une ballade qui raconte que tu es moi ou que moi je suis toi, j'ai pas tout compris, *hahahaha *! Tiens !
+
+
+--- Dionysus About Singers Reunion Quest 01 ---
+Dionysus: Zag, il paraît qu'Orphée a retrouvé son épouse ! C'est-y pas mignon, hein, mec ? Je vais boire à leur santé, et tu devrais faire pareil !
+
+
+--- Dionysus Vs Meg 01 ---
+Dionysus: *Euh*, hé, mec, il paraît que l'autre Érinye là, Mégère, elle te donne du fil à retordre ? Hah, en voilà une vraie furie ! Tiens, peut-être que ça t'aidera la prochaine fois que tu la croiseras !
+
+
+--- Dionysus About Meg Relationship 01 ---
+Dionysus: Ouah, Zag, il paraît que tu traînes avec Mégère l’Érinye ? Bravo, mec, ça doit être une sacrée fille ! Mais fais quand même gaffe à son fouet, hein ?
+
+
+--- Dionysus About Meg Relationship 02 ---
+Dionysus: Il paraît que tu t'entends bien avec l'autre Érinye, là, c'est vrai, mec ? En tout cas, j'espère pour toi que c'est vrai, parce que... *ouf, hahaha*, tu vois ce que je veux dire ? Apparemment, celle-là, c'est quelque chose !
+
+
+--- Dionysus About Than Relationship 01 ---
+Dionysus: Hé, il paraît que tu as les faveurs de Thanatos, pas vrai ? C'est pourtant pas le plus gai, je devrais peut-être l'inviter à mon prochain festin, mais... ça doit être le genre à plomber l'ambiance et à rendre tout le monde genre *urrgh *, tu vois ?
+
+
+--- Dionysus Vs Theseus 01 ---
+Dionysus: Il paraît que t'es allé dans l’Élysée et que t'as réglé son compte à l'autre Thésée, Zag, pas mal ! Entre nous, j'ai jamais pu le blairer, celui-là. Il y a une fille super sympa qui l'a aidé, une fois, et il l'a complètement laissée tomber. Aucune classe, le mec !
+
+
+--- Dionysus About Yarn 01 ---
+Dionysus: Tiens, mais t’as une Pelote d’Ariane, Zag. Je connais celle qui a donné son nom à ce truc ! C’était un joli brin de fille. On s’est bien plus, tous les deux, une longue histoire. Je te la raconterai quand tu nous auras rejoints là-haut !
+
+
+--- Dionysus Low Health 01 ---
+Dionysus: Ouah ! Zag, mec... T’as l’air complètement crevé. Repose-toi si tu peux, OK ? Tiens, ça t’aidera peut-être !
+
+
+--- Dionysus Low Health 02 ---
+Dionysus: Zag, écoute... Je sais que c’est dur pour toi en ce moment. Tu dois être mal. Ce truc-là t’aidera peut-être à aller mieux !
+
+
+--- Dionysus Low Health 03 ---
+Dionysus: *Eugh*, t'es pas beau à voir, mec, je veux dire, tu saignes de partout, là ! Ressaisis-toi, tu veux ?
+
+
+--- Dionysus Low Health 04 ---
+Dionysus: Qu'est-ce qui se passe là-dessous, Zag ? On dirait que t'as fait la fête toute la nuit, tu tiens à peine debout. Tout va bien ?
+
+
+--- Dionysus Low Health 05 ---
+Dionysus: Mec, t'es pas en état de sortir. Qu'est-ce qui t'est arrivé ? Bref, tu sais quoi ? Je vais t'aider à reprendre du poil de la bête, mec !
+
+
+--- Dionysus Legendary Pick Up 01 ---
+Dionysus: *Oh oh*, Zag, j’ai quelque chose pour toi. Et c’est un des trucs les plus chouettes que je puisse donner à quelqu’un. Regarde un peu !
+
+
+--- Dionysus Legendary Pick Up 01 B ---
+Dionysus: Écoute, mec, je suis de super bonne humeur, là. Tu vois ce que je veux dire ? Alors tiens, j'ai quelque chose de *vraiment * fort pour toi. Ça devrait te faire tenir beaucoup plus longtemps que d’habitude !
+
+
+--- Dionysus First Pick Up ---
+Zagreus: Ce bruit... des rires ? Des gens qui font la fête ? Très bien, alors ! Au nom d’Hadès ! Olympe, j’accepte ce message.
+Dionysus: Saluuut, Zag ! Comment ça va, mec ? Écoute, faut vraiment que tu te dépêches de nous rejoindre, on t’a gardé une place ! En attendant, je vais voir ce que je peux faire pour te rendre la vie un peu plus facile là-dessous !
+
+
+--- Dionysus Misc Pickup 01 ---
+Dionysus: J’ai l’impression que la fête ne fait encore que commencer. Je me trompe, Zag ? Allez, on va tous s’éclater.
+
+
+--- Dionysus Misc Pickup 02 ---
+Dionysus: C’est que l’échauffement, en bas, Zag ? Tiens, voilà une sélection de mes bénédictions, pour toi !
+
+
+--- Dionysus Misc Pickup 03 ---
+Dionysus: *Ouhlaaaa*, Zag, j'ai l’impression qu’un petit remontant te ferait pas de mal. Tiens, fais ton choix !
+
+
+--- Dionysus Misc Pickup 04 ---
+Dionysus: Alors, Zag... Ça va ou bien ? Tu tiens le coup, en bas ? Je me suis dit qu’on pourrait porter un toast à ta santé, ici... mais je me suis dit : '*Non, attends ! Je dois pouvoir faire mieux que ça !*' Alors, voilà pour toi !
+
+
+--- Dionysus Misc Pickup 05 ---
+Dionysus: Alors, ça baigne en bas ? J’imagine que ouais ! Oh, par contre, attends un peu, mec, j’ai ce truc-là pour toi !
+
+
+--- Dionysus Misc Pickup 06 ---
+Dionysus: Tiens, salut Zag ! Marrant de tomber sur toi. Enfin, pas la peine de te donner tant de mal. Tu m’entends, ouais ? Voilà un truc qui devrait bien t’aider !
+
+
+--- Dionysus Misc Pickup 07 ---
+Dionysus: Comment ça va, cette fois, mec ? Tout va bien ? Remarque, attends un peu avant de répondre. Je suis sûr que ça peut aller mieux de toute façon !
+
+
+--- Dionysus Misc Pickup 08 ---
+Dionysus: Ca doit être chaud de vivre dans les Enfers, Zag. Ça craint que tu sois coincé là-bas. Mais t'inquiète pas, on va te sortir de là !
+
+
+--- Dionysus Misc Pickup 09 ---
+Dionysus: Dès que tu seras sur l’Olympe, mec, on va faire une fête comme t’en as *jamais *vu, je te jure ! Maintenant, prends ça, et bonne chance !
+
+
+--- Dionysus Misc Pickup 10 ---
+Dionysus: Montre à ces ombres et cadavres ce que t’as dans le bide. Compris, Zag ? Mais juste au cas où tu aurais besoin d’aide...
+
+
+--- Dionysus Misc Pickup 11 ---
+Dionysus: Tu peux le faire, mec ! Je crois *tellement *trop en toi, presque autant que les Grecs croient en moi ! Et ils croient à fond en moi, tu sais !
+
+
+--- Dionysus Misc Pickup 12 ---
+Dionysus: Encore une tentative... Hein, Zag ? T’inquiète, on va défrayer la chronique. Allez, au boulot !
+
+
+--- Dionysus Misc Pickup 13 ---
+Dionysus: Tiens-toi bien, Zag, parce que cette fois, j’ai quelque chose qui va te faire péter le feu. T’es prêt, mec ?
+
+
+--- Dionysus Misc Pickup 14 ---
+Dionysus: Attends deux secondes, Zag, parce que là, j’ai exactement ce qu'il te faut pour l'occasion, tu vas adorer. Tiens, mate-moi ça !
+
+
+--- Dionysus Misc Pickup 15 ---
+Dionysus: Écoute, Zagreus, je suis sûr que tout va bien pour toi en ce moment, mais juste au cas où, et je dis bien *juste au cas où*, tiens ! J'ai un petit truc sympa, rien que pour toi !
+
+
+--- Dionysus Misc Pickup 16 ---
+Dionysus: C’est moi, Zag. Je sais que t’as pas le temps de m’écouter bavarder, alors j’irai droit au but : tiens !
+
+
+--- Dionysus Misc Pickup 17 ---
+Dionysus: Hé, Zag ! Comme d'habitude, continue comme ça et on se retrouvera tous ensemble là-haut en un rien de temps ! Je suis avec toi *jusqu'au bout*, mec !
+
+
+--- Dionysus Misc Pickup 18 ---
+Dionysus: Oh, écoute, mec… Je me rends compte que mes vagues connaissances en médecine pourraient te faire du bien !
+
+
+--- Dionysus Misc Pickup 19 ---
+Dionysus: Aux bons moments partagés ! Qu’est-ce t’en dis, hein ?
+
+
+--- Dionysus Misc Pickup 20 ---
+Dionysus: J’aimerais porter un toast... à *toi*, bien sûr, mon pote ! Bonne chance là-dessous !
+
+
+--- Dionysus Misc Pickup 21 ---
+Dionysus: Je suis avec toi, mec, tu peux le faire ! Tiens, prends ça !
+Dionysus: Hey, hey, tu tombes bien, mec, j’ai justement le truc qu’il te faut pour l'occasion !
+
+
+--- Dionysus Misc Pickup 22 ---
+Dionysus: Hé, quoi de neuf, Zag ? Tu vas réussir à te tirer de là, cette fois ? En tout cas, moi j’y crois !
+
+
+--- Dionysus Misc Pickup 23 ---
+Dionysus: OK, Zag... Toi et moi, on va y arriver. C'est maintenant ou jamais, pas vrai ?
+
+
+--- Dionysus Misc Pickup 24 ---
+Dionysus: Oh salut, Zag ! Tiens, je porte un toast à ta réussite, *tchin *! À ta santé, et tout !
+
+
+--- Dionysus Misc Pickup 25 ---
+Dionysus: J'ai quelque chose pour toi, mec ! Prends donc ça et file !
+
+
+--- Dionysus Misc Pickup 26 ---
+Dionysus: C’est bon, Zag, j’ai pile ce qu’il te faut juste là !
+
+
+--- Dionysus Misc Pickup 27 ---
+Dionysus: Ah, t'es là, mec ! Tiens, j'ai pile ce qu'il te faut !
+
+
+--- Dionysus Misc Pickup 28 ---
+Dionysus: Je sais que t’es débordé, mec, alors tiens et file !
+
+
+--- Dionysus Misc Pickup 29 ---
+Dionysus: Ça fait plaisir de te voir là-dessous, mec. Tiens, c’est pour toi !
+
+
+--- Dionysus Misc Pickup 30 ---
+Dionysus: Il fait grave noir là où t’es, Zag. Tu tiens bon, j'espère, hein ?
+
+
+--- Dionysus Misc Pickup 31 ---
+Dionysus: Tu t’en sors, mec ? Parce que sinon, c’est pas grave, on a tout notre temps !
+
+
+--- Dionysus Misc Pickup 32 ---
+Dionysus: J’ai un truc qui va te faire halluciner, mec !
+
+
+--- Dionysus Misc Pickup 33 ---
+Dionysus: T'es prêt, Zag ? J'en ai de la bonne cette fois, tiens !
+
+
+--- Dionysus Misc Pickup 34 ---
+Dionysus: On va organiser un de ces festins quand tu nous auras rejoints, t'as pas idée, mec !
+
+
+--- Dionysus Misc Pickup 35 ---
+Dionysus: Je prends que le meilleur pour toi, mec. Regarde un peu !
+
+
+--- Dionysus Misc Pickup 36 ---
+Dionysus: Ça, Zag, ça fait partie de ce que j’ai de mieux à offrir, c'est de la bonne !
+
+
+--- Dionysus Misc Pickup 37 ---
+Dionysus: Je suis de super bonne humeur en ce moment, alors je me suis dit que j'allais t'en faire profiter !
+
+
+--- Dionysus Misc Pickup 38 ---
+Dionysus: Voilà un petit truc rien que pour toi, mec. À la tienne !
+
+
+--- Dionysus Misc Pickup Extra 01 ---
+Dionysus: Il était temps qu'on s'occupe de ton cas, mec. T'es prêt ?
+
+
+--- Dionysus Misc Pickup Extra 02 ---
+Dionysus: Faut que j'aille à un festin là, mais tiens, prends ça !
+
+
+--- Dionysus Misc Pickup Extra 03 ---
+Dionysus: Je sais que c'est chaud pour toi en ce moment, mais tiens bon, mec ! Tu peux le faire !
+
+
+--- Dionysus Misc Pickup Extra 04 ---
+Dionysus: Cette fois, c'est sûr, mec ! Tu vas sortir de là et on va enfin se retrouver !
+
+
+--- Dionysus Misc Pickup Extra 05 ---
+Dionysus: Hé, je porte un toast à *toi*, mec. Et puisses-tu toujours écarter ceux qui se mettent sur ton chemin !
+
+
+--- Dionysus Misc Pickup Extra 06 ---
+Dionysus: Tiens, mec, à ta santé ! Ou à la mauvaise santé de tous ceux qui te chercheront des ennuis !
+
+
+--- Dionysus Misc Pickup Rare 01 ---
+Dionysus: J'ai pile le truc qu'il te faut, mec. T'es prêt ? C'est parti !
+
+
+--- Dionysus Misc Pickup Rare 02 ---
+Dionysus: Et si on donnait *tout *cette fois, Zag, qu'est-ce que t'en dis ? T'es avec moi, mec ?
+
+
+--- Dionysus Misc Pickup Rare 03 ---
+Dionysus: J'ai mis de côté un petit truc pour l'occasion, même si honnêtement y'a pas de mauvais moment pour ça, hein ?
+
+
+--- Dionysus Misc Pickup Rare 04 ---
+Dionysus: Hé, merci à toi pour tout ce que tu fais, Zag ! Toi et moi, on partagera toujours ce qu'il y a de meilleur !
+
+
+--- Dionysus Loot Bought 01 ---
+Dionysus: Hé, mec, c'est quoi son problème à l'autre Charon, là ? Il est un peu... je sais pas... enfin bon, tu sais quoi, je suis content qu'il nous aide !
+
+
+--- Dionysus Loot Bought 02 ---
+Dionysus: *Ah ah*, tu m'as trouvé dans la cachette de Charon, mec... Bien... Bien, bien, allez tiens !
+
+
+--- Dionysus Loot Bought 03 ---
+Dionysus: On dirait que tu t'es préparé pour une soirée du tonnerre de Zeus là-dessous, mec ! Je savais bien que Charon te dépannerait !
+
+
+--- Dionysus Loot Bought 04 ---
+Dionysus: Hé, merci d'avoir payé l'addition, Zag. Je peux pas vraiment te rembourser, mais je peux te donner *ça * !
+
+
+--- Dionysus Loot Bought 05 ---
+Dionysus: Je parie que Charon est la star de tous les festins que tu organises là-dessous, avec la personnalité qu'il a. J'ai pas raison, mec ?
+
+
+--- Dionysus Rejection 01 ---
+Dionysus: *Oh*, allez, Zag, je croyais qu'on était cool, toi et moi, tu me blesses, là ! Désolé, mais je vais devoir te blesser aussi...
+
+
+--- Dionysus Rejection 02 ---
+Dionysus: Ohhh fallait surtout pas faire ça, mec, je veux dire, on est meilleurs potes, oui ou non...? Réfléchis un peu là-dessus pendant que je fais *ça*.
+
+
+--- Dionysus Rejection 03 ---
+Dionysus: Écoute, Zag, je vais pas te mentir, tu m’as vraiment blessé, là. Je croyais qu’il y avait un truc fort entre nous ! Un vrai lien familial ! Rien que d'y penser, j'ai la *rage *!
+
+
+--- Dionysus Rejection 04 ---
+Dionysus: Quoi ? Tu me choisirais pas comme pote ? Je croyais t’avoir rendu service, mec… Mais t’es peut-être pas sensible à ce genre de choses !
+
+
+--- Dionysus Rejection 05 ---
+Dionysus: Ah, j'aurais pas choisi ça à ta place, Zag. Tu me cherches là, mec ? OK ! Alors *moi aussi*, je vais te chercher !
+
+
+--- Dionysus Rejection 06 ---
+Dionysus: *Oh*, on fait tous des erreurs, tu devrais le savoir ! Tu viens d'en faire une !
+
+
+--- Dionysus Rejection 07 ---
+Dionysus: Pourquoi tu me la joues comme ça, Zag ? Je croyais qu’on était comme deux grappes de raisin sur une même vigne, moi ! Me dis pas que je me suis trompé sur ton compte ?
+
+
+--- Dionysus Rejection 09 ---
+Dionysus: J’ai fait quoi pour mériter ça, mec ? Non, parce que je croyais qu’on s’entendait bien, même mieux que bien, mec, pourquoi tu me fais ça ?
+
+
+--- Dionysus Rejection 10 ---
+Dionysus: C'est pas que je suis fâché contre toi ou quoi que ce soit, Zag, tu me connais. Mais vraiment, je tenais à te dire que je suis un peu déçu, et faut que le message passe, mec.
+
+
+--- Dionysus Rejection 11 ---
+Dionysus: T'es sérieux, mec ? Après tout ce qu'on a traversé ensemble, c'est comme *ça * que tu me remercies ?
+
+
+--- Dionysus Rejection 12 ---
+Dionysus: Bravo pour la désillusion, Zag. Je croyais qu'on était potes ? Je me trompais, mec ?
+
+
+--- Dionysus Rejection 13 ---
+Dionysus: Zag, tu peux demander à tout le monde, j'adore me marrer. Mais quand il s'agit de concurrence, là je rigole plus ! Tu m'as compris, mec ?
+
+
+--- Dionysus Make Up 01 ---
+Dionysus: OK, OK, OK, on est cool, on est cool, plus besoin de se mettre la pression, là !
+
+
+--- Dionysus Make Up 02 ---
+Dionysus: OK, on va dire que c’est réglé, Zag. Et si on redevenait potes comme avant, ouais ?
+
+
+--- Dionysus Make Up 03 ---
+Dionysus: Tu sais, Zag, c’est pas si grave, finalement. T’as fait une petite erreur de jugement, c’est tout. Moi, ça m’arrive tout le temps, alors on passe l’éponge !
+
+
+--- Dionysus Make Up 04 ---
+Dionysus: Alors ça, c'était du spectacle, mec, chapeau ! Tiens, t'as bien mérité ça !
+
+
+--- Dionysus Make Up 05 ---
+Dionysus: Tu sais quoi, mec ? Après ça, je suis même plus en colère. De quoi je me plaignais, déjà...?
+
+
+--- Dionysus Make Up 06 ---
+Dionysus: OK, pas de problème, ça va déjà mieux, Zag. T’as gagné, et je suis sans rancune.
+
+
+--- Dionysus Make Up 07 ---
+Dionysus: Merci de ta compréhension, mec. Évitons juste ce genre de confrontation la prochaine fois, d'accord ?
+
+
+--- Dionysus Make Up 08 ---
+Dionysus: *Hahahahahah*, OK, merci pour le petit spectacle, Zag. Je parlais de quoi tout à l'heure, déjà...?
+
+
+--- Dionysus Make Up 09 ---
+Dionysus: Oh, je peux pas rester fâché contre toi, Zag, et honnêtement, je l’étais même pas, à la base. Je me suis juste dit que j’allais te secouer un peu !
+
+
+--- Dionysus Make Up 10 ---
+Dionysus: Ça va, mec, ça va. On va oublier tout ce qui vient de se passer, OK ? On vaut mieux que ça, toi et moi !
+
+
+--- Dionysus Make Up 11 ---
+Dionysus: Je m'étais dit que cette fois, j'allais bien t'en vouloir pour changer, mec... mais tu sais quoi ? J'y arrive pas ! Et c'est pas faute d'avoir essayé.
+
+
+--- Dionysus Make Up 12 ---
+Dionysus: C'est comme je dis toujours, Zag : parfois, faut passer un sale moment pour se rappeler qu'il faut toujours profiter des bons ! J'ai pas raison, mec ?
+Dionysus: Tu sais quoi, mec ? Oublie ce qui vient de se passer, OK ? Non parce que moi, c'est déjà fait, je veux dire, ça arrive à tout le monde ce genre de trucs, non ?
+
+
+--- Dionysus Gift 01 ---
+Zagreus: Seigneur Dionysos, j’ai eu beaucoup de plaisir à vous connaître. Veuillez accepter cette humble offrande.
+Dionysus: Non mais c’est un cadeau de dingue, Zag ! Et il se trouve que j’ai justement quelque chose à te donner !
+
+
+--- Dionysus Gift 02 ---
+Zagreus: Un toast en votre honneur, Seigneur Dionysos. Vous ai-je dit à quel point je suis ravi de vous avoir rencontré ?
+Dionysus: *Hoh-oh*, attends, c’est pour moi ? *Vraiment *? Enfin, je veux dire, merci, mec, c’est hyper généreux de ta part !
+
+
+--- Dionysus Gift 03 ---
+Zagreus: Seigneur Dionysos, vous avez rendu la vie ici-bas beaucoup plus agréable, et je vous en suis donc reconnaissant.
+Dionysus: Attends, c’est pour moi ? Eh beh, Zag, t’aurais pas dû ! Je veux dire, tu sais à quel point je raffole de ce truc-là, pas vrai ?
+
+
+--- Dionysus Gift 04 ---
+Zagreus: Seigneur Dionysos, vous ne devez pas manquer des breuvages les plus fins, mais je me permets de vous offrir celui-ci.
+Dionysus: Woah, Zag, c’est vraiment trop gentil, mec ! Je veux dire, j’adore ce truc, genre, vraiment beaucoup, et ça me touche que t’aies pensé à m'en offrir !
+
+
+--- Dionysus Gift 05 ---
+Zagreus: Salut, seigneur Dionysos, mon cher pote ! Cet endroit est beaucoup moins triste sous ton influence !
+Dionysus: Ah, c'est le top, Zag ! Le festin où je vais ! Je commençais à avoir peur de ne pas en avoir assez pour tout le monde. T'as sauvé ma soirée, mec ! Dommage que tu puisses pas être là !
+
+
+--- Dionysus Gift 06 ---
+Zagreus: Diony, mon pote, j'ai parfois l'impression d'avoir un lourd fardeau sur les épaules, mais quand je t'entends parler, je relève enfin la tête ! À ta santé !
+Dionysus: Oh, des fois t'es trop cool, même pour moi, mec ! Faut que je te dise que je crois pas avoir déjà été aussi proche d'un mec aussi loin de moi. Mais grâce à la boisson, c'est comme si on était sans arrêt en lien, tous les deux.
+
+
+--- Dionysus Gift 07 ---
+Zagreus: Que peut-on offrir au dieu du vin ? Le meilleur, bien entendu, et ici-bas, c'est ça ! Je suis content d'avoir un peu de ton entrain. Avoir une telle connexion avec toi, malgré la distance qui nous sépare...
+Dionysus: Zag, je n'arrive pas à croire ce que tu m'offres ! De l'ambroisie, mec, pour *moi * ? Et une bouteille qui a dû connaître des sacrées péripéties pour descendre jusqu'à toi et remonter ici ! Tu sais quoi ? Je la garde pour qu'on puisse la partager, mec !
+
+
+--- Athena With Dionysus 01 ---
+Athena: Certains membres de notre famille ne comprennent pas encore totalement la précarité de ta situation, cousin. Le Seigneur Dionysos, par exemple, la considère même comme un motif de réjouissances !
+Dionysus: Oh, allez, Athéna, tu vas quand même pas me dire que découvrir l'existence d'un parent oublié n'est pas une excellente raison de faire la fête, si ? Non, parce que si Zag n'est pas un motif de réjouissances, alors moi, je sais pas ce qu'il nous reste !
+
+
+--- Demeter With Dionysus 01 ---
+Demeter: Les récoltes se flétriront et pourriront aussi longtemps qu'il me plaira, jeune Zagreus. Cela dit, certains sur l'Olympe ne semblent pas être du même avis...
+Dionysus: *Euh*, ouais, non, là, je suis pas du tout de votre avis, madame ! Enfin, comment vous voulez que les vignes poussent et que le vin coule à flot quand vous êtes aussi coin... austère ? Allez, détendez-vous un peu !
+
+

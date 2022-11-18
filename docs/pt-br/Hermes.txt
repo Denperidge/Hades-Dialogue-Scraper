@@ -1,0 +1,795 @@
+--- Hermes Second Pick Up ---
+Hermes: O que está acontecendo aí, Priminho? Posso chamá-lo de Priminho? Tenho algo para você que fará suas batalhas até a morte terminarem muito mais rápido!
+
+
+--- Hermes Expecting Zeus 01 ---
+Hermes: Desculpe, chefe, meu pai tinha assuntos urgentes para resolver. Mas eu estou aqui! Repassando a você esta mensagem e isto.
+
+
+--- Hermes Expecting Poseidon 01 ---
+Hermes: Estou aqui para lhe dizer que Poseidon está a caminho, chefe. Às vezes, ele é um pouco lento. Mas, no fim das contas, você se encontrará com ele de novo!
+
+
+--- Hermes Expecting Athena 01 ---
+Hermes: Esperando outra pessoa, chefe? Uma certa meia-irmã minha, por acaso? Bem, que pena que eu cheguei aqui primeiro. Quer um desses, ou não?
+
+
+--- Hermes Expecting Ares 01 ---
+Hermes: Assim que soube que você queria ver Ares, chefe, cheguei aqui o mais rápido que pude! Ele nunca vai me vencer. Muito menos com toda essa armadura.
+
+
+--- Hermes Expecting Aphrodite 01 ---
+Hermes: Afrodite disse que está só um pouco atrasada, primo, mas eu sei que você entende. Além disso, eu estou aqui! De alguma forma, em espírito.
+
+
+--- Hermes Expecting Artemis 01 ---
+Hermes: Queria que você soubesse que minha irmã, Ártemis, está procurando por você. Você deve encontrá-la em algum aposento, agora!
+
+
+--- Hermes Expecting Dionysus 01 ---
+Hermes: Receio que Dionísio não virá para ajudá-lo, chefe. Embora a pontualidade nunca tenha sido uma de suas qualidades.
+
+
+--- Hermes Expecting Demeter 01 ---
+Hermes: Aquele frio no ar que você estava esperando, não era Deméter, dessa vez, chefe! Nada disso, era eu, correndo até aqui num piscar de olhos. Cria um ventinho bem agradável, eu acho!
+
+
+--- Hermes Beat Charon Quest Complete ---
+Hermes: Você ganhou dele, Primo! E quando digo *ele*, me referi ao meu parceiro aparentemente invencível, o barqueiro a quem você derrotou e que se vangloria de ser duro na queda entre as divindades do Submundo! Ele não tinha certeza se você era capaz e, sendo sincero, eu também não!
+
+
+--- Hermes About Plume 02 ---
+Hermes: Ei, parece que você está fazendo bom uso dessa pluma chique! Continue assim, talvez um dia você tenha metade da minha velocidade!
+
+
+--- Hermes About Skelly 01 ---
+Hermes: Eu tenho o olho aguçado, chefe, e não pude deixar de notar que você anda carregando um dente pra lá e pra cá. Eu sei que você vem do mundo dos mortos, e tal, mas você não acha que isso é um pouco esquisito?
+
+
+--- Hermes About Persephone Meeting 01 ---
+Hermes: Ouvi falar que você finalmente saiu daí, Primo! Devo-lhe grandes felicitações por isso: Parabéns! O seu segredo está seguro comigo, é claro! Os outros aqui acham que você ainda está tentando. Embora, parece que você está!
+
+
+--- Hermes Post Ending 01 ---
+Hermes: Ouvi dizer que uma certa pessoa agora está de volta à sua casa lá embaixo, Primo! Eu deveria dizer que é uma novidade maravilhosa, exceto que *não *é novidade, pelo menos, ainda não! Embora, se algum dia você quiser espalhar a notícia, é só me dar um sinal!
+Hermes: Então *você *continua fugindo daí, uma vez atrás da outra, para que o *seu pai *possa continuar encontrando formas de dificultar ainda mais a sua fuga? Algo do tipo? Parece um trabalho interessante, Primo!
+
+
+--- Hermes About Olympian Reunion Quest 01 ---
+Zagreus: Eu serei o mensageiro desta vez. Em nome de Hades! Olimpo, esta é uma mensagem oficial! Lorde Hermes? Cheguei aqui mais rápido possível.
+Hermes: Oras, parece que você tem uma mensagem só para *mim*, desta vez, isso é muito especial, hein, chefe? É alguma espécie de convite, pelo que parece. Você tem certeza que eu deveria ter recebido isso, considerando-se que não estou oficialmente envolvido?
+
+
+--- Hermes Post Epilogue 01 ---
+Hermes: Tenho que admitir, Primo, aquela festa lá na sua casa foi irreal! Foi um pouco estranho ter que fingir que não nos conhecíamos, mas ei, eu sou um Olimpiano! Significa que consigo posar de durão contra qualquer um deles. Bons tempos, Primo! Fico feliz que tudo deu certo.
+
+
+--- Hermes Expecting Misc Olympian 01 ---
+Hermes: Temo que o seu visitante Olimpiano de praxe ainda não conseguiu chegar aqui, porque eu sou muito mais rápido, chefe!
+
+
+--- Hermes Expecting Misc Olympian 02 ---
+Hermes: Você pode estar esperando outra pessoa aqui, chefe. Mas eu não podia deixar de chegar na frente dessa vez!
+
+
+--- Hermes Expecting Misc Olympian 03 ---
+Hermes: Cheguei o mais rápido que pude, Primo. O que, por acaso, é bem mais rápido do que os meus parentes!
+
+
+--- Hermes Expecting Misc Olympian 04 ---
+Hermes: Tenho certeza que a recordação que você trouxe será útil muito em breve, chefe!
+
+
+--- Hermes Expecting Misc Olympian 05 ---
+Hermes: Minha família normalmente é muito rápida ao atender o chamado de qualquer um que esteja de posse de uma das lembranças deles! Huh!
+
+
+--- Hermes Expecting Misc Olympian 06 ---
+Hermes: Posso não ser o deus que você está procurando no momento, chefe, mas eu vou deixá-lo preparado para essa visita rapidinho!
+
+
+--- Hermes About Zeus 01 ---
+Hermes: Você já ouviu falar do meu pai, não ouviu, Primo? Uma pessoa maravilhosa. Mas não passamos muito tempo juntos! Sabe como é. Bem, até mais!
+
+
+--- Hermes About Zeus 02 ---
+Hermes: Sabe, Primo, meu velho nunca dá suas bênçãos de relâmpagos pra mim! Ele está bem investido no que acontece com você, não é?
+
+
+--- Hermes About Poseidon 01 ---
+Hermes: Quero lhe contar uma coisa, chefe. A razão pela qual o tio Poseidon chegou até você antes de mim é porque eu deixei. Como sempre, ele se acha muito ágil! *Hah!*
+
+
+--- Hermes About Athena 01 ---
+Hermes: Então Atena está cuidando de você, isso é bom, muito bom mesmo! Ela gosta de pensar em tudo e dentre outras coisas. Acho exagero, na minha opinião!
+
+
+--- Hermes About Ares 01 ---
+Hermes: Você sabe quem me mantém muito ocupado, primo? Ares. Nada como uma boa e velha guerra entre os mortais para criar demanda por muitas e muitas mensagens por aí!
+
+
+--- Hermes About Artemis 01 ---
+Hermes: Ártemis já conseguiu localizá-lo, chefe? Ela é muito boa nisso, devo admitir. Sou mais rápido! Mas ela é rápida, muito rápida, certo?
+
+
+--- Hermes About Aphrodite 01 ---
+Hermes: Afrodite é impressionante, você não acha, primo? Normalmente, eu não pararia para ninguém aqui. Mas quando se trata dela, devo abrir uma exceção!
+
+
+--- Hermes About Dionysus 01 ---
+Hermes: Você já teve a sensação de que a vida está mudando muito rápido para você, chefe? Bem, Dionísio não, como você provavelmente já sabe. Ele sabe dar uma festa, mas!
+
+
+--- Hermes About Demeter 01 ---
+Hermes: Tem estado extremamente frio aqui em cima ultimamente, Primo! Devemos isso a Deméter! Eu tento ficar longe dela, ela não acha que sou de muita utilidade. Mas pelo menos de você eu tenho certeza que ela gosta!
+
+
+--- Hermes About Hades Keepsake 01 ---
+Hermes: Aí, essa não é a bênção do seu pai em você, Primo?! Eu quase não consigo acreditar, mas você se saiu tão bem, como ele poderia *não *aprovar?
+
+
+--- Hermes Backstory 01 ---
+Hermes: Uau, como estão as coisas por aí, primo? Mas, quem eu estou enganando, podemos deixar de lado a conversa fiada. Não me importo, interrompo meus irmãos e irmãs o tempo todo!
+
+
+--- Hermes Backstory 02 ---
+Hermes: Chefe, provavelmente você deve estar pensando: *Hermes com certeza é rápido! Então, por que demorou tanto tempo para ele aparecer? *Bem, receio que isso não seja da sua conta. Mas! Não é porque eu estava atrasado. Eu nunca atraso.
+
+
+--- Hermes Backstory 03 ---
+Hermes: Ei, hm, você poderia me fazer um favorzinho, Primo? Meus irmãos, irmãs, familiares, etc., não sabem que estou trabalhando com você, aqui. Não é grande coisa, mas vamos continuar assim por enquanto, pode ser?
+
+
+--- Hermes Backstory 04 ---
+Hermes: Eu estava aqui perto, chefe! Vendo que os mortais aqui em cima morrem o tempo todo, e alguém precisa levar as almas deles para o seu domínio, não é mesmo?
+
+
+--- Hermes Backstory 05 ---
+Hermes: Sabe aquele ditado *\"o apressado come cru\"*, chefe? Eu que inventei. Eu juro! Uma maneira de evitar a concorrência, disfarçada como a sabedoria de um erudito. Esses mortais estúpidos engolem qualquer coisa!
+
+
+--- Hermes Backstory 06 ---
+Hermes: Não que eu saiba *exatamente *o que você anda aprontando, Primo, mas! Se eu soubesse, acho que ninguém no Olimpo tem nenhuma noção. Ou, se tem, estão mantendo a boca fechada. Exatamente como eu!
+
+
+--- Hermes Backstory 07 ---
+Hermes: Você já se perguntou como eu fiquei tão rápido, Priminho? Muita prática, eu só te digo isso! E por ter nascido extraordinariamente ágil, eu acho!
+
+
+--- Hermes About Skinny Little Chap 01 ---
+Hermes: Uma vez eu levei um carinha magrelo lá pra baixo, no Submundo, teve um encontro fatal com a ponta de uma lança, o fulano! Ele teve o que merecia, muito mentiroso, traidor, e por aí vai. Última notícia que eu tive é que ele ainda estava pagando os pecados lá em baixo. Eh!
+
+
+--- Hermes About Skelly 02 ---
+Hermes: Chefe, eu sei que você já ouviu falar de um cara bem magrinho que não está disposto a sair de lá. É melhor você manter segredo sobre isso, tudo bem? Caso contrário, estará tudo acabado para nós e o seu pai não vai gostar disso. Então, saúde!
+
+
+--- Hermes About Skelly 03 ---
+Hermes: Diz aí, você está de boa com o sei-lá-o-nome, o cara que te deu o dente da sorte? Então, ele até que é legal. Tem que ser, se você consegue aturá-lo!
+
+
+--- Hermes About Secret Service 01 ---
+Hermes: Então, agora você me descobriu, não foi, Priminho? Foi o próprio barqueirão quem me disse. Bem, ótimo! Ficamos contentes em estar a seu dispor. E *temos *muita roupa suja *sua*, então fica esperto e guarde nossos segredos também, okay?
+
+
+--- Hermes About Secret Service 02 ---
+Hermes: Então meu parceiro profissional, o apavorante barqueiro do Rio Estige? Você deve conhecê-lo muito bem por conta disso tudo, certo, Priminho? É meio difícil de fazer amizade com ele, mas tem um bom coração! É por isso que estou trabalhando com ele, depois de tanto tempo!
+
+
+--- Hermes About Meg Relationship 01 ---
+Hermes: Ouvi falar que você está saindo com Megaira, a Fúria, Primo? Tenho a impressão que ela dá bastante trabalho, embora a mesma coisa provavelmente também possa ser dita sobre você, hein? Divirtam-se, vocês dois!
+
+
+--- Hermes About Charon Fight 01 ---
+Hermes: Não consigo acreditar que você se meteu numa briga com o meu parceiro profissional, você está maluco ou algo assim, Primo? Todo mundo que eu conheço tem pelo menos um pouquinho de medo dele e do seu barco, mas você acha que consegue derrotá-lo, hein?
+
+
+--- Hermes About Charon Fight 02 ---
+Hermes: Então você enfrentou o meu bom parceiro profissional, é isso, Primo? E você surrou o próprio grande barqueiro! Eu sabia que você era durão, mas não *tanto *assim! Estou impressionado! Ele também está impressionado. Ele nem ficou irritado!
+
+
+--- Hermes Beat Charon Quest 01 ---
+Hermes: Ei, hm, então eu meio que fiz uma aposta com o velho barqueiro, aquele associado meu, que você conseguiria derrotar ele numa briga, duas vezes seguidas! Sem pressão ou nada do tipo, mas caso você prove que eu estava certo algum dia desses, eu adoraria, Primo!
+
+
+--- Hermes Message 01 ---
+Hermes: Mensagem do Olimpo para você, chefe! Ela diz: *\"Com certeza é bom ficar aqui em cima deste monte, sem ter de fugir do Submundo! Vai se juntar a nós em breve, não vai?*\
+
+
+--- Hermes Message 02 ---
+Hermes: Mensagem para você, chefe. Ela diz: *"Você é um tanto lento. Seria bom se alguém pudesse ajudá-lo nisso." *Ah, imagine só, que coincidência!
+
+
+--- Hermes Message 03 ---
+Hermes: Trouxe uma mensagem para você, primo. Diz aqui, olá: \"Apresse-se e saia já daí.\" É da superfície da terra, diz aqui.
+
+
+--- Hermes Message 04 ---
+Hermes: Outra mensagem! Aqui diz: \"Uma colher pequena de orégano seco, duas colheres de azeite extra-virgem, uma cebola grande, picada, e uma pitada de sal a gosto\", espera, isso não é para você. Embora você deva tentar algum dia se conseguir sair!
+
+
+--- Hermes Message 05 ---
+Hermes: Mensagem para você, Primo, ela diz, *\"Em nome de todo o Olimpo, gostaríamos que você soubesse que é muito boa a garrafa de Ambrósia que você ofereceu a Hermes, o deus das viagens, e ele saboreou até a última gota.\" *Atenciosamente, eu!
+
+
+--- Hermes Message 06 ---
+Hermes: Outra mensagem para você, Primo, e essa diz, *\"Ei, cara! Se você alguma vez conseguir subir até o alto dessa montanha por algum motivo, deveríamos passar um tempo juntos, tudo bem? Posso te apresentar o lugar.\" * Seu amigo, Hermes.
+
+
+--- Hermes Max Relationship 01 ---
+Hermes: Sabe, chefe, cá entre nós? Entre todos os destinatários de entregas especiais que eu tive ao longo de várias eras, veja bem, preciso dizer, você é o mais interessante!
+
+
+--- Hermes Run Progress 01 ---
+Hermes: Sabe, primo, todo esse tempo que eu tenho transportado almas pelas fronteiras da terra de seu pai, é bom ter a chance de ajudar alguém de outra maneira!
+
+
+--- Hermes Squelch 01 ---
+Hermes: Ei, primo. Agora você está bem acostumado às nossas pequenas conversas, mas quero que você converse comigo aqui. Você é o chefe, se você preferir, ficarei feliz em calar a boca, sem problema. É só dar o sinal, hein?
+Zagreus: Nem pense nisso, Lorde Hermes. Tem sido ótimo conversar com você de vez em quando.
+Hermes: Tudo bem, chefe. Apenas me certificando de que não estou interrompendo nada!
+
+
+--- Text ---
+Zagreus: Agora que você mencionou, Lorde Hermes, sim, vamos manter nossas conversas agradáveis e rápidas.
+Hermes: Entendi, chefe, vamos direto ao ponto da próxima vez, está bem?
+Zagreus: Agradeço ter vindo ver como estou, Lorde Hermes. Eu acho que deveríamos deixar as coisas como estão, tranquilo e quieto.
+Hermes: Sem problemas, chefe. Só estava checando.
+Zagreus: Direto às Bênçãos, Lorde Hermes. Nós dois gostamos de ir direto ao ponto.
+Hermes: Entendi, chefe. As palavras são lentas demais, não é? Não o aborrecerei mais com palavras, mas prometo vê-lo novamente!
+Zagreus: Sem dúvida uma conversa inteligente, Lorde Hermes. Bênçãos são mais do que bem-vindas depois disso.
+
+
+--- Hermes Squelch 02 ---
+Hermes: *A-ham*! Perdoe-me por interromper, chefe. Avise-me se preferir que eu fale livremente da próxima vez, como eu costumava fazer!
+Zagreus: Sinto falta de te ouvir falando, Hermes. Vamos voltar a como éramos antes.
+Hermes: Ah, com certeza, chefe. É bom conversar de vez em quando!
+
+
+--- Hermes Squelch 03 ---
+Hermes: Pensei em verificar novamente o mais rápido possível, chefe. Da próxima vez, você quer minha conversa espirituosa ou que eu vá direto às Bênçãos?
+Zagreus: Bem, sim, voltemos às suas conversas espirituosas, Hermes. Me parece ótimo.
+Hermes: *Hah*, bom! Gosto dessas conversas! Cuide-se, chefe.
+
+
+--- Hermes About Hades 01 ---
+Hermes: Conheci seu pai cara a cara apenas uma vez, primo. Apesar de lhe prestar serviços por um bom tempo. Experiência memorável, devo admitir! Parece que ele não fez nada com todas as mensagens que o meu lado continua enviando para ele.
+
+
+--- Hermes About Thanatos 01 ---
+Hermes: Você é bem próximo de Tânato, não é mesmo, chefe? Não costumamos correr nos mesmos caminhos, mas nossos deveres às vezes se cruzam um pouco. Camarada estranho. Mas ele parece bom no que faz!
+
+
+--- Hermes About Thanatos 02 ---
+Hermes: Vi o Tânato aqui de novo recentemente, chefe, e devo dizer, quase pareceu que ele abriu um sorriso quando mencionou você! Nunca vi nada parecido, tratando-se dele!
+
+
+--- Hermes About Orpheus 01 ---
+Hermes: Ouvi dizer que você é chegado de Orfeu, lá embaixo e, se tiver uma chance, diga a ele que mandei lembranças! Ele não é nada mau tocando aquela lira, da última vez que conferi.
+
+
+--- Hermes About Eurydice 01 ---
+Hermes: Ei, chefe, em todas as suas andanças por lá, você calhou de encontrar uma garota chamada Eurídice? Espero que ela esteja bem! Me sinto mal porque não consegui me despedir direito dela na última vez em que nos encontramos.
+
+
+--- Hermes About Eurydice 02 ---
+Hermes: Sopraram no meu ouvido que você encontrou a Eurídice lá embaixo, isso é ótimo! Desde que ela esteja indo bem, poderei tirar essa preocupação da minha mente.
+
+
+--- Hermes About Hourglass 01 ---
+Hermes: Que bela Ampulheta de Ossos você tem aí, chefe! Então você também se dá bem com meu parceiro profissional. Um verdadeiro cavalheiro!
+
+
+--- Hermes About Plume 01 ---
+Hermes: Ora, olhe para você, chefe! Eu reconheço essa sua pluma chique! Só um pouquinho da minha rapidez, mas ainda assim! Muito mais do que a maioria pode fazer.
+
+
+--- Hermes About Whipped Frenzy 01 ---
+Hermes: Uau, o que aconteceu com todos aqueles condenados sem vida com os quais você está sempre lutando aí embaixo? Eles estão mesmo fugindo ultimamente! O que quer que os tenha feito sair, não fui eu!
+
+
+--- Hermes About Enemy Speed Condition 01 ---
+Hermes: Fez com que todos os mortos condenados do seu pai ficassem irritados e agitados, se esforçando por causa da condição dele de *Horas Extras Forçadas*, não é, Primo? Bem, se estão interessados em acabar isso de forma rápida, tenho certeza que pode ajudá-los nisso!
+
+
+--- Hermes About Enemy Speed Condition 02 ---
+Hermes: Parece que esses malditos defuntos contra quem você está lutando aí embaixo estão se movimentando bem rápido dessa vez, certo, chefe? Oh, tudo bem, tenho certeza que você é ainda mais rápido!
+
+
+--- Hermes About Biome Speed Condition 01 ---
+Hermes: Alguém aí está com o prazo apertado, pelo que entendi, Primo? Agradeça ao Pacto do seu pai, pode acreditar, sei como é isso, mas não vou te atrapalhar, continue correndo, tudo bem?
+
+
+--- Hermes About Biome Speed Condition 02 ---
+Hermes: Percebo que você está com o prazo apertado, chefe, então vamos dispensar todo o bate-papo desnecessário e colocá-lo de volta em seu caminho feliz, nesse instante!
+
+
+--- Hermes About Biome Speed Condition 03 ---
+Hermes: Você está correndo contra o tempo para manter as coisas interessantes ou o quê, chefia? Acontece que o tempo passa muito rápido. Gosto de apostar corrida com ele, mesmo assim!
+
+
+--- Hermes About Timer 01 ---
+Hermes: *Hah! *Não posso deixar de notar que você está cronometrando sua performance, chefe! Esse é um bom hábito. Fique de olho no tempo, você ficará cada vez mais rápido! Não tão rápido quanto eu, sabe.
+
+
+--- Hermes About Timer 02 ---
+Hermes: Sabe, primo, já que você está cronometrando sua performance, caso você não tenha notado, não conta o tempo que paramos para ter essas conversas! Insisti nessa pequena regra.
+
+
+--- Hermes About Timer 03 ---
+Hermes: Ei, você parou de cronometrar sua performance, chefe. Está tudo bem? Se isso não é um pedido de ajuda, eu não sei o que é. Tome!
+
+
+--- Hermes About Timer 04 ---
+Hermes: Bom, chefe, posso ver que você está cronometrando sua performance novamente. Tem um termo que eu gosto de usar, significa superar o seu próprio tempo!
+
+
+--- Hermes About Timer 05 ---
+Hermes: Olha, primo, se você não vai cronometrar sua performance o tempo todo, isso é uma escolha sua que tenho de respeitar. E aprender a entender.
+
+
+--- Hermes First Run Cleared 01 ---
+Hermes: Outra mensagem do Olimpo, chefe. Essa diz, *"Zagreu, use absolutamente todo o tempo de que você precisa até conseguir chegar até nós; sabemos que o percurso deve ser traiçoeiro e asseguramos o nosso apoio, independentemente do tempo que for necessário". *Bom, que tal essa?!
+
+
+--- Hermes Run Cleared 01 ---
+Hermes: Ouvi dizer que você passou muito rápido da última vez! Nada mal, nada mal!
+
+
+--- Hermes Run Cleared 02 ---
+Hermes: Você imaginaria que, tão logo você fugisse para a superfície, conseguiríamos vê-lo do Olimpo por mais tempo do que o normal, mas não! É como se você estivesse envolto na noite eterna até aqui, hm? Ou algo do tipo. Estranho, não?
+
+
+--- Hermes Run Cleared New Record 01 ---
+Hermes: Ei, você superou seu melhor tempo lutando por tudo aquilo! Não que eu esteja monitorando! Eu estou monitorando.
+
+
+--- Hermes Run Cleared New Record 02 ---
+Hermes: Ei, primo, aquela sua última performance, quase não consigo acreditar na rapidez com que você fez aquilo! Você é realmente muito bom!
+
+
+--- Hermes Run Cleared New Record 03 ---
+Hermes: Ei, você saiu de lá praticamente num piscar de olhos! Vamos ver se você consegue fazer isso novamente!
+
+
+--- Hermes Run Cleared New Record 04 ---
+Hermes: Você está ficando mais rápido, Primo, continue assim, desse jeito! Sempre dá para ser um pouco mais rápido do que antes, é o que eu sempre digo!
+
+
+--- Hermes Run Cleared New Record 05 ---
+Hermes: Ei, Primo, tenho a impressão que você superou o seu melhor tempo na subida até aqui! Muito bem! Você consegue ir ainda mais rápido?
+
+
+--- Hermes Run Cleared New Record 06 ---
+Hermes: Quem diria, você superou seu melhor tempo de fuga recente! Espero que minha bênção tenha ajudado um pouquinho nisso!
+
+
+--- Hermes Run Clear Streak 01 ---
+Hermes: Bem, olhe para você, primo! Correndo para a vitória, uma após a outra. Fiquei sabendo de suas realizações aí embaixo! Bem, então, vamos manter o ritmo!
+
+
+--- Hermes Run Clear Streak Broken 01 ---
+Hermes: Ouvi dizer que você quebrou sua série de vitórias recentemente, chefe. Isso acontece, certo? Mas você parece do tipo que se recupera logo. Deixe-me ajudar com isso!
+
+
+--- Hermes Post Epilogue 02 ---
+Hermes: Todos no Olimpo não têm outro assunto a não ser a Perséfone, Rainha do Submundo! Eles não faziam ideia que ela estava lá embaixo o tempo todo, ou algo assim, Primo! Quanto a mim, agora eu consigo entregar minhas bênçãos para você mais oficialmente, eu acho!
+
+
+--- Hermes Post Epilogue 03 ---
+Hermes: Apesar de agora tudo ser de conhecimento público e de que todos os meus irmãos, irmãs e seja lá quem mais continuar ajudando você a sair daquele lugar, eu ainda continuo sendo discreto! Desse jeito posso continuar me movimentando.
+
+
+--- Hermes Post Epilogue 04 ---
+Hermes: Alguns membros da família aqui em cima, sei que eles não ajudaram em nada, mas não leve para o lado pessoal, tudo bem? Pense assim: você conseguiu fazer mais de nós nos darmos melhor e conversarmos do que eu jamais *imaginei*!
+
+
+--- Hermes About Persephone Visit 01 ---
+Hermes: Sua mãe saiu de lá sem problemas, não se preocupe, Primo! Eu fiquei cuidando dela, e tudo mais. Ela parece bem legal! Me pediu para te dizer \"oi\".
+
+
+--- Hermes About Persephone Visit 02 ---
+Hermes: Então, eu nunca saberia que as sementes de romã lá do Submundo tinham tanto poder se a sua mãe não mencionasse, Primo! E eu aqui pensando que elas só eram saborosas, imagine só!
+
+
+--- Hermes About Hearing 01 ---
+Hermes: Pensei em dar uma olhada em você, chefe. Você está bem, tudo em ordem por aí? Não consigo ouvir nada, pode me ignorar, não precisa responder!
+
+
+--- Hermes About Hurrying 01 ---
+Hermes: Corra aqui, chefe! Você precisa acelerar e sair daí, seu tempo está se esgotando!! Olha, é mentira, sério, mas é uma excelente motivação, hein?
+
+
+--- Hermes Legendary Pick Up 01 ---
+Hermes: Oh, você está pronto para isto, chefe? Você conseguiu o Expresso Premium desta vez. Esse é o melhor dos melhores! Você irá muito longe.
+
+
+--- Hermes Legendary Pick Up 02 ---
+Hermes: Adivinhe só, primo? É o Expresso Premium, entregue diretamente a você, direto do monte mais rico aqui de cima! Você vai adorar isso.
+
+
+--- Hermes Legendary Pick Up 03 ---
+Hermes: Mensagem de entrega expressa para você, primo. Ela diz: *\"Parabéns! Você é meu centésimo cliente hoje.\" *E este é o seu prêmio!
+
+
+--- Hermes Low Health 01 ---
+Hermes: Aff, devo admitir, você parece horrível, primo. Você mal se aguenta em pé! Vamos ver se conseguimos animá-lo.
+
+
+--- Hermes Low Health 02 ---
+Hermes: *Ufa*! Parece que os tempos o atingiram com força desde a última vez que nos encontramos, Primo. Bem, quando a vida for dura, corra atrás do que der, é o que eu digo!
+
+
+--- Hermes Low Health 03 ---
+Hermes: Nossa, você está uma bagunça só, Primo. O que aconteceu até chegar aqui? Bem, espero que suas viagens sejam um pouco mais tranquilas daqui em diante.
+
+
+--- Hermes Low Health 04 ---
+Hermes: A linha que separa ser rápido de ser apressado é muito tênue, chefe. E se você está tão machucado quanto eu penso, acho que é melhor você se apressar!
+
+
+--- Hermes Low Health 05 ---
+Hermes: Bem, a boa notícia é que você chegou até mim, mas posso dizer que você foi atingido por várias más notícias no caminho! Fique vivo, combinado?
+
+
+--- Hermes Low Health 06 ---
+Hermes: Uuf! O que aconteceu até você chegar aqui, chefe? Deixe-me adivinhar, você foi açoitado, incendiado, espancado com porretes de espectros... algo assim?
+
+
+--- Hermes Low Health 07 ---
+Hermes: Você está parecendo desgastado, lamento informar, chefe. Mas podemos colocá-lo de pé e pronto para a ação, eu acho!
+
+
+--- Hermes First Pick Up ---
+Zagreus: Esta marca, parece uma asa de morcego. Em nome de Hades! Olimpo! Aceito esta mensagem.
+Hermes: Ei chefe, que bom que te encontrei. Hermes, ao seu serviço. Prazer! Você é o assunto do Olimpo! Normalmente, eu não me envolvo, mas abrirei uma exceção para você. Agora, vamos lá, nós dois temos coisas para fazer!
+
+
+--- Hermes Misc Pickup 01 ---
+Hermes: Tudo bem, primo. Aqui estão as mercadorias, direto do nosso monte. Leve o tempo que precisar para se decidir! Só não seja lerdo.
+
+
+--- Hermes Misc Pickup 02 ---
+Hermes: Só vai levar um minuto do seu tempo, chefe! E garanto que vai valer a pena!
+
+
+--- Hermes Misc Pickup 03 ---
+Hermes: Tudo bem, primo, entrega expressa para onde quer que você esteja agora? De qualquer forma, pegue um desses e cuide da sua vida!
+
+
+--- Hermes Misc Pickup 04 ---
+Hermes: Sei que você está com pressa, chefe. Mas deixe-me mostrar a você o que é ter muita pressa logo logo!
+
+
+--- Hermes Misc Pickup 05 ---
+Hermes: Pacote para você, chefe! E acho que você sabe o que é. Bem, talvez não exatamente, mas... só escolha alguma coisa, tudo bem?
+
+
+--- Hermes Misc Pickup 06 ---
+Hermes: Vamos, primo, você consegue! Além disso, acho que você pode fazer isso bem rápido! Agora vá!
+
+
+--- Hermes Misc Pickup 07 ---
+Hermes: É você, chefe, que legal! Mas você está aí parado! Isso é ruim. Vamos colocá-los nos trilhos de novo, certo?
+
+
+--- Hermes Misc Pickup 08 ---
+Hermes: Olá, chefe! Não há muita novidade aqui em cima. Mas eu não vim até aqui exatamente para trazer notícias, não é mesmo?
+
+
+--- Hermes Misc Pickup 09 ---
+Hermes: Com medo de que não haja ninguém mais rápido que eu, primo. Mas a boa notícia é que você está prestes a eliminar um pouco essa diferença!
+
+
+--- Hermes Misc Pickup 10 ---
+Hermes: Dia lento até agora, chefe? Bem, tudo isso está prestes a mudar, eu garanto!
+
+
+--- Hermes Misc Pickup 11 ---
+Hermes: Que tal acelerarmos *só *um pouco o ritmo, Primo? Ou talvez muito! Seja qual for o seu humor no momento.
+
+
+--- Hermes Misc Pickup 12 ---
+Hermes: A última coisa que quero fazer é atrasá-lo, chefe. Então, chega de conversa fiada. Agora escolha e vá. *Vá*!
+
+
+--- Hermes Misc Pickup 13 ---
+Hermes: Você ainda tem um bom caminho a percorrer, chefe. A boa notícia é que a parte mais lenta dessa viagem em particular acaba... *agora*!
+
+
+--- Hermes Misc Pickup 14 ---
+Hermes: Está tudo bem aqui na superfície, primo. No entanto, quanto antes você conseguir sair daí, melhor será!
+
+
+--- Hermes Misc Pickup 15 ---
+Hermes: Outra subidinha à superfície, chefe? Posso sugerir que você se apresse. E posso lhe dar isto!
+
+
+--- Hermes Misc Pickup 16 ---
+Hermes: Vamos nos apressar, certo, chefe? Honestamente, eu não sei como o resto de vocês aguentam, se arrastando como se não precisassem estar em lugar algum!
+
+
+--- Hermes Misc Pickup 17 ---
+Hermes: E aí, chefe! Eu perguntaria das novidades, mas eu já sei! Eu tenho meus contatos. E você precisa sair daí logo.
+
+
+--- Hermes Misc Pickup 18 ---
+Hermes: Gostaria de poder voar e te tirar daí, primo, mas existem regras que nem mesmo eu posso quebrar. Mas é bom ver que você está tentando!
+
+
+--- Hermes Misc Pickup 19 ---
+Hermes: Trago notícias urgentes, chefe! Infelizmente não endereçadas a você. Mas alguém deu isto a você!
+
+
+--- Hermes Misc Pickup 20 ---
+Hermes: Desculpe-me, primo, não há mensagens no momento. Acho que é isso que acontece quando toda a sua existência é mantida em segredo do mundo!
+
+
+--- Hermes Misc Pickup Extra 01 ---
+Hermes: Não há muitas novidades dignas de nota aqui em cima, mas parece que você anda bem ocupado aí embaixo, chefe!
+
+
+--- Hermes Misc Pickup Extra 02 ---
+Hermes: A escalada que você tem à frente é bem difícil, Primo, então vá com calma, OK? Brincadeira, vá o mais rápido possível. Funciona pra mim!
+
+
+--- Hermes Misc Pickup 21 ---
+Hermes: Vamos, agora, chefe, vamos nos apressar!
+
+
+--- Hermes Misc Pickup 22 ---
+Hermes: Cheguei aqui praticamente num piscar de olhos, chefe. Preparado?
+
+
+--- Hermes Misc Pickup 23 ---
+Hermes: Ei, primo, tenho um pacote para você. Fique à vontade!
+
+
+--- Hermes Misc Pickup 24 ---
+Hermes: Tenho um pacote habitual para você, primo.
+
+
+--- Hermes Misc Pickup 25 ---
+Hermes: Ei, o que vai ser desta vez, chefe?
+
+
+--- Hermes Misc Pickup 26 ---
+Hermes: Primo, acelere um pouco!
+
+
+--- Hermes Misc Pickup 27 ---
+Hermes: Vou tirá-lo daqui rapidinho, primo.
+
+
+--- Hermes Misc Pickup 28 ---
+Hermes: Sem pressa, mas vá em frente e escolha um destes, chefe.
+
+
+--- Hermes Misc Pickup 29 ---
+Hermes: Mensagem para você, primo: Ela diz \"Pegue um, é grátis, divirta-se!\
+
+
+--- Hermes Misc Pickup 30 ---
+Hermes: O que está acontecendo aí, chefe? Está tudo bem?
+
+
+--- Hermes Misc Pickup 31 ---
+Hermes: Você quer o de costume ou não, chefe?
+
+
+--- Hermes Misc Pickup 32 ---
+Hermes: Entrega especial e tudo mais, chefe! Faça sua escolha.
+
+
+--- Hermes Misc Pickup 33 ---
+Hermes: Olá, chefe! Pegue um desses e vá em frente.
+
+
+--- Hermes Misc Pickup 34 ---
+Hermes: Por acaso eu estava aqui por perto, chefe!
+
+
+--- Hermes Misc Pickup 35 ---
+Hermes: Passei aqui para garantir que está tudo certo, primo. Você consegue, primo!
+
+
+--- Hermes Misc Pickup 36 ---
+Hermes: Isto é uma ajudinha para sair daí em pouco tempo, chefe!
+
+
+--- Hermes Misc Pickup 37 ---
+Hermes: Agora não fique aí parado, Primo, escolha um desses e *vá*!
+
+
+--- Hermes Misc Pickup 38 ---
+Hermes: Sua rapidez é minha prioridade número um aqui, chefe.
+
+
+--- Hermes Misc Pickup 39 ---
+Hermes: Não há tempo a perder, primo. Agora, escolha!
+
+
+--- Hermes Misc Pickup 40 ---
+Hermes: Fiquei sabendo que você precisa dos meus serviços aqui, chefe?
+
+
+--- Hermes Misc Pickup 41 ---
+Hermes: Pensei em dar uma passadinha, primo. Ver como estão as coisas. Devagar, não é? Não por muito tempo.
+
+
+--- Hermes Misc Pickup 42 ---
+Hermes: Pronto para acelerar? Que bom! Vou considerar isto como um sim.
+
+
+--- Hermes Misc Pickup 43 ---
+Hermes: Vamos te levar rápido daqui, Primo!
+
+
+--- Hermes Misc Pickup 44 ---
+Hermes: Mensagem para você, chefe. Ela diz: \"Aqui, escolha um destes e vá!\
+
+
+--- Hermes Misc Pickup 45 ---
+Hermes: Outra mensagem para você! Esta diz: \"Ei, chefe! Fique com isto!\
+
+
+--- Hermes Misc Pickup 46 ---
+Hermes: Pensei em dar uma olhada em você, chefe, e lhe trazer isso!
+
+
+--- Hermes Misc Pickup 47 ---
+Hermes: Espero que você tenha aproveitado a vida num ritmo mais lento, porque isso tudo está prestes a mudar, bem aqui!
+
+
+--- Hermes Misc Pickup 48 ---
+Hermes: Certo, chefe, tome, vamos colocá-lo de volta no percurso!
+
+
+--- Hermes Misc Pickup 49 ---
+Hermes: Já passou da hora de tirarmos você daí, certo, chefe?
+
+
+--- Hermes Misc Pickup 50 ---
+Hermes: Pensei em dar uma passada para dar-lhe isso e já vou!
+
+
+--- Hermes Misc Pickup 51 ---
+Hermes: Vamos te ajudar a sair correndo daí rapidinho, Primo!
+
+
+--- Hermes Misc Pickup 52 ---
+Hermes: Como andam as coisas no subsolo ultimamente, chefe?
+
+
+--- Hermes Misc Pickup 53 ---
+Hermes: Está fazendo um lindo dia na superfície! Você deveria dar uma olhada, chefe!
+
+
+--- Hermes Misc Pickup 54 ---
+Hermes: Mais um dia, mais uma escalada até o alto! Está preparado, chefe?
+
+
+--- Hermes Misc Pickup 55 ---
+Hermes: Bem, lá vamos nós outra vez! Vamos nessa, chefe!
+
+
+--- Hermes First Loot Pickup 01 ---
+Hermes: Cheguei aqui o mais rápido que pude, chefe. Agora, que tal tirarmos você daqui imediatamente!
+
+
+--- Hermes First Loot Pickup 02 ---
+Hermes: Ei, primo, achei que você estava prestes a tentar sair de lá novamente! Pensei em passar por aqui e dar uma ajuda.
+
+
+--- Hermes First Loot Pickup 03 ---
+Hermes: Você está ansioso para sua próxima jornada para sair daqui, certo, chefe? Bem, acho que cheguei aqui a tempo.
+
+
+--- Hermes First Loot Pickup 04 ---
+Hermes: Ouvi dizer que você estava saindo de novo, chefe. Mudei minha agenda um pouco, nada demais, e pensei em passar por aqui!
+
+
+--- Hermes First Loot Pickup 05 ---
+Hermes: Você saiu de novo, não foi? Tudo bem. Boa viagem! Ou viagens rápidas, na falta disso!
+
+
+--- Hermes First Loot Pickup 06 ---
+Hermes: Pronto para tentar de novo, Primo? Bem, então acho que poderei te ajudar em sua viagem aí.
+
+
+--- Hermes Loot Bought 01 ---
+Hermes: Ora, e aí, Primo! Estranho nos encontrarmos por aqui! Entre as mercadorias do meu parceiro profissional, quero dizer. Deve ser algum tipo de erro administrativo!
+
+
+--- Hermes Loot Bought 01 B ---
+Hermes: Ora, e aí, chefe! Estranho nos encontrarmos por aqui! Entre as mercadorias do meu parceiro profissional, quero dizer. Deve ser algum tipo de erro administrativo!
+
+
+--- Hermes Loot Bought 02 ---
+Hermes: Você conhece bem meu parceiro profissional, com o barco? As almas dos que partiram recentemente devem chegar ao Submundo de alguma forma. Parte do meu trabalho é trazê-las aqui, e ele as leva.
+
+
+--- Hermes Loot Bought 03 ---
+Hermes: Acho que estou acostumado a esses monólogos aqui, chefe, graças à minha experiência de trabalho com meu parceiro profissional aí embaixo! Diga a ele que eu dei um \"oi\", certo?
+
+
+--- Hermes Loot Bought 04 ---
+Hermes: Só uma coisa, Primo. Não faça muitas perguntas sobre mim, ou meu parceiro profissional aí embaixo. Entrego almas para ele, e só, entendeu?
+
+
+--- Hermes Loot Bought 05 ---
+Hermes: Quem diria, chefe! Eu estava só cuidando da minha vida, entregando as almas de alguns falecidos ao meu parceiro profissional, e com quem dou de cara, ninguém menos do que você!?
+
+
+--- Hermes Loot Bought 06 ---
+Hermes: Meu parceiro profissional da respiração pesada foi gentil o bastante para me deixar aqui com outros pertences dele, e por um preço bem camarada, eu diria!
+
+
+--- Hermes Loot Bought 07 ---
+Hermes: Maravilha, então, vamos fazer valer todo o seu esforço para ganhar essas moedas suadas! Que tal a ideia, Primo?
+
+
+--- Hermes Loot Bought 08 ---
+Hermes: Eu diria a você para não fazer muitas perguntas para o meu bom parceiro profissional aqui, mas a quem estamos tentando enganar, chefe? Não é como se ele fosse responder a alguma dessas perguntas!
+
+
+--- Hermes Loot Bought 09 ---
+Hermes: Mensagem para você chefe, do meu parceiro profissional, que gostaria que você soubesse, e eu repito literalmente, *"Hhhrrrrnnnngggggghhhhhh".*
+
+
+--- Hermes Loot Bought 10 ---
+Hermes: Tenho trabalhado com meu bom parceiro profissional, o barqueiro lá embaixo, nem me lembro há quanto tempo. Mas, deixa eu te dizer, Priminho, nunca tivemos um corre como esse antes!
+
+
+--- Hermes Loot Bought 11 ---
+Hermes: Entre as várias formas com as quais você poderia apostar seus ganhos para melhorar suas chances de sobrevivência aqui, fico honrado por você ter pensado em mim desta vez!
+
+
+--- Hermes Loot Bought 12 ---
+Hermes: Que estranha coincidência você estar sempre me encontrando às margens do rio desse jeito, não concorda, Primo?
+
+
+--- Hermes Loot Bought 13 ---
+Hermes: Não se acostume a negociar minhas bênçãos com quem pagar mais, chefe, mas a sua aposta lá embaixo foi suficiente para mim!
+
+
+--- Hermes Gift 01 ---
+Zagreus: Lorde Hermes, por favor aceite este presente como um pequeno símbolo de minha gratidão. Obrigado por sempre me manter alerta.
+Hermes: *Ah*! Muito *ligeiro *da sua parte deixar um agrado para mim, chefe. Falando nisso, uma dica para você: Não seja lento! Talvez isto ajude.
+
+
+--- Hermes Gift 02 ---
+Zagreus: Lorde Hermes, senhor, você não pediu nada em troca, e então, por favor aceite esta humilde oferenda, porque... isto é nada, nada de mais!
+Hermes: Bem, isso é muito gentil, primo! Mas não precisa me agradecer. Não com tanta euforia!
+
+
+--- Hermes Gift 03 ---
+Zagreus: Hermes, meu amigo? Posso chamá-lo de meu amigo? Espero que esta modesta dádiva alegre seu espírito e não o atrase.
+Hermes: Eu pareço do tipo que tem tempo pra dar uns golinhos de Néctar, Primo? Bem, adivinha, eu sou! Então, saúde!
+
+
+--- Hermes Gift 04 ---
+Zagreus: Desde que nos conhecemos, Lorde Hermes, a vida aqui no Submundo ficou mais agitada, e sou muitíssimo grato. Isto é para você.
+Hermes: Ei, chefe, agradeço pela gorjeta. Mas, só um lembrete, todos os meus serviços já estão pagos! Não preciso de agradecimentos especiais. Mas... saúde.
+
+
+--- Hermes Gift 05 ---
+Zagreus: Eu nunca teria chegado até aqui tão rápido se não fosse seu incansável apoio, Lorde Hermes senhor. Te devo uma.
+Hermes: Sabe, primo, devo confessar que fiquei um pouco preocupado quando nos conhecemos, por causa do seu pai e tudo mais. Mas você é legal!
+
+
+--- Hermes Gift 06 ---
+Zagreus: Isto é para você, rápido e confiante mensageiro dos deuses! Você faz o seu trabalho parecer tão fácil. Mas eu sei que você vai muito além do esperado. Muito obrigado, Hermes.
+Hermes: Minha regra é não deixar nada ir para o lado pessoal no que se refere a assuntos relacionados ao trabalho, Primo. Mas você é da família! Além disso, bem, você é um cara legal, eu acho. Me oferecendo um pouco de Néctar no meio de tudo isso!
+
+
+--- Hermes Gift 07 ---
+Zagreus: Eu o saúdo, Lorde Hermes, com esta iguaria das mais raras! Muito rara por aqui, pelo menos. Você nunca deixa aparecer, mas imagino o quão duro você deve estar trabalhando para me apoiar. Saúde, parceiro!
+Hermes: Sabe, a última vez que alguém me ofereceu Ambrósia do Submundo foi *nunca*, até agora! É um belo gesto da sua parte. Você poderia ter simplesmente considerado meus serviços garantidos gratuitamente e eu não teria ligado! Mas, obrigado, Primo.
+
+
+--- Hermes Gift 08 ---
+Zagreus: Mensagem para você, Lorde Hermes! Ela diz: *'Esta oferenda é dedicada ao incomparável deus da agilidade, de quem as notícias são sempre boas, porque é ele quem está entregando. Você é um amigo de verdade, sabia? Realmente te devo uma'*. Assinado: Zagreu.
+Hermes: Olha, Primo, eu vou aceitar essa garrafa de Ambrósia de você uma última vez, tudo bem? Mas daqui pra frente, vou redobrar todas as minhas responsabilidades profissionais, aqui. Apenas negócios entre nós! Embora, secretamente, você é um dos meus melhores amigos. Quero que saiba.
+
+
