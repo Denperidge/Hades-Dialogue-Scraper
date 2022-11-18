@@ -16,7 +16,7 @@ python app/main.py {path/to/hades/gamefiles} {lang}
 
 Example usage: 
 ```bash
-python app/main.py C:/Program Files (x86)/Steam/steamapps/common/Hades en
+python app/main.py "C:/Program Files (x86)/Steam/steamapps/common/Hades" en
 ```
 
 ## License

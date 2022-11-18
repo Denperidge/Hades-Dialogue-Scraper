@@ -99,8 +99,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|I'm pleased to see your father's
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|What wretched fools dare stand against you, Cousin? Punish them, so that they learn something they ought have learned in life.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|Hold fast to your resolve, Cousin, and climb on toward the surface. No matter how often your foothold falters, I am here.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|I shall not keep you, Zagreus, except to offer you some of my power to improve your chances of escape. Now quickly choose, and go.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|May wisdom and good fortune guide you toward the light of day this time, Cousin.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|The Underworld's wretched dead shall fear you yet, Cousin.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|May wisdom and good fortune guide you toward the light of day this time, Cousin.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|The Underworld's wretched dead shall fear you yet, Cousin.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|Strength and wisdom guide you from the darkness, Zagreus.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|The low cunning of your lifeless enemies is not a match for your divine might.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|Remember I am always watching over you, dear Cousin.
@@ -168,10 +168,10 @@ AthenaGift03|Athena Gift 03|Zagreus|I have a simple token for you, Goddess. Alth
 AthenaGift03|Athena Gift 03|Athena|You are most gracious, Cousin, to extend this offering. You honor me, yet I would ask you think of your well-being for the time, not mine.
 AthenaGift04|Athena Gift 04|Zagreus|Goddess Athena, please accept this gift. Your wisdom ever guides me toward the light.
 AthenaGift04|Athena Gift 04|Athena|My, how very generous of you, to offer me this gift! I'm very grateful, though I ask that you not go out of your way on my account. Let's please stay focused, here?
-AthenaGift05A|Athena Gift A 05|Zagreus|As I remain committed to my task, Goddess, I'm reminded none of this would have been possible without your aid. And so, I must give thanks, even if through a meager offering.
-AthenaGift05A|Athena Gift A 05|Athena|I know there isn't much that you can do to show your gratitude at present, Zagreus. But I would ask that you save it for when your task is complete. You've more important matters to attend to now!
-AthenaGift05B|Athena Gift B 05|Zagreus|As I remain committed to my task, Goddess, I'm reminded none of this would have been possible without your aid. And so, I must give thanks, even if through a meager offering.
-AthenaGift05B|Athena Gift B 05|Athena|I know there isn't much that you can do to show your gratitude at present, Zagreus. But I would ask that you save it for a better time. You've more important matters to attend to, now!
+AthenaGift05A|Athena Gift 05 A|Zagreus|As I remain committed to my task, Goddess, I'm reminded none of this would have been possible without your aid. And so, I must give thanks, even if through a meager offering.
+AthenaGift05A|Athena Gift 05 A|Athena|I know there isn't much that you can do to show your gratitude at present, Zagreus. But I would ask that you save it for when your task is complete. You've more important matters to attend to now!
+AthenaGift05B|Athena Gift 05 B|Zagreus|As I remain committed to my task, Goddess, I'm reminded none of this would have been possible without your aid. And so, I must give thanks, even if through a meager offering.
+AthenaGift05B|Athena Gift 05 B|Athena|I know there isn't much that you can do to show your gratitude at present, Zagreus. But I would ask that you save it for a better time. You've more important matters to attend to, now!
 AthenaGift06|Athena Gift 06|Zagreus|Lady Athena, I know there's more at stake for you in this than just my plight... you care so much about this family. That care and your determination spurs me on. I'm ever grateful.
 AthenaGift06|Athena Gift 06|Athena|Perhaps there really is no time quite like the present when it comes to showing thanks to one another, my dear Cousin. You've opened my eyes to the possibility, though I remain steadfast in my resolve to fight for you.
 AthenaGift07|Athena Gift 07|Zagreus|I know this Ambrosia originated on Olympus, Lady Athena. Though through its long voyage to these depths, I trust its savor is more worthy of your grace. No one's ever had a greater cousin. And I'll never forget what you've done for me.

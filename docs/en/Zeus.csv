@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|I wish you well in your continued ques
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|You've seen the sheer destructive power of the heavens! Just imagine what it's like above the surface of the earth!
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|Someday when we'll be resting easy on these heights, why, we'll look back at this and laugh, I'm sure of it!
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}Ahh{#PreviousFormat}, but if it isn't my most favored nephew! Striving always toward the surface of my world. Your father cannot possibly believe he can contain you, can he?
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|You have my blessing now as ever there, young man.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|I trust you shall be getting out of there in due course, Nephew.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|I shall be watching over you, young man, though it is dark down there!
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|May the might of Olympus guide you through the shadows, Nephew.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|Don't let your father get to you, young man, and climb on out from there.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|Zagreus, we won't be giving up on you, so you keep at it, {#DialogueItalicFormat}hm{#PreviousFormat}?
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|You have my blessing now as ever there, young man.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|I trust you shall be getting out of there in due course, Nephew.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|I shall be watching over you, young man, though it is dark down there!
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|May the might of Olympus guide you through the shadows, Nephew.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|Don't let your father get to you, young man, and climb on out from there.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|Zagreus, we won't be giving up on you, so you keep at it, {#DialogueItalicFormat}hm{#PreviousFormat}?
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|I shall make the heavens themselves now aid your ascent, Nephew.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|You'll watch yourself down there, won't you, young man?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|All of us, we're here for you, young man!
@@ -157,8 +157,8 @@ ZeusGift05|Zeus Gift 05|Zagreus|Please, Lord Uncle Zeus, accept this gift of Nec
 ZeusGift05|Zeus Gift 05|Zeus|I'm very pleased to see a show of such respect and admiration for your uncle, Zagreus. You'll go quite far here on Olympus with an attitude like that! Not everyone's as mannered, nor as wise.
 ZeusGift06|Zeus Gift 06|Zagreus|If you can hear me, mighty Uncle Zeus, I wish to make to you this simple gift, and with it send my humble wish that someday you and Father settle all your differences, and be at peace.
 ZeusGift06|Zeus Gift 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young man. And while we've yet to even meet in person, I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha{#PreviousFormat}! Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?
-ZeusGift06_B|Zeus Gift B 06|Zagreus|If you can hear me, mighty Uncle Zeus, I wish to make to you this simple gift, and with it send my humble wish that someday you and Father settle all your differences, and be at peace.
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young man. I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha! {#PreviousFormat}Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?
+ZeusGift06_B|Zeus Gift 06 B|Zagreus|If you can hear me, mighty Uncle Zeus, I wish to make to you this simple gift, and with it send my humble wish that someday you and Father settle all your differences, and be at peace.
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, most splendid of an offering, young man. I already feel as though the two of us are close, why, closer than you must be even with your father! {#DialogueItalicFormat}Oh, hahaha! {#PreviousFormat}Perhaps we ought go telling everybody {#DialogueItalicFormat}I'm {#PreviousFormat}your real father, am I right?
 ZeusGift07|Zeus Gift 07|Zagreus|King of the Olympians, Lord Zeus! Forgive this offer of Ambrosia, for I know you have no limit of it there. But here, it is the finest gift that can be given, and even still it isn't anything compared to all you've done for me. Thank you, Uncle.
 ZeusGift07|Zeus Gift 07|Zeus|Now, now, Nephew, you are most generous, indeed, in showing all this deference to me. But we must keep some distance, shouldn't we? Lest all the others here, why, they would be most jealous if they caught me playing favorites! Even though you {#DialogueItalicFormat}are {#PreviousFormat}my favorite! Presently, at least.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|{#DialogueItalicFormat}Tsk{#PreviousFormat}, {#DialogueItalicFormat}um{#PreviousFormat}, Zagreus... rather than greet you as I normally would do, instead, allow me to present you my illustrious, kind, generous lord father, your greatest Uncle Zeus!

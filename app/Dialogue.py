@@ -42,4 +42,5 @@ class Sentence():
 
 
 def split_camelcase_into_array(string):
-    return findall(r"[A-Z][a-z]*", string) + findall(r"[0-9][0-9]*", string)
+    regex_search = findall(r"[A-Z][a-z]*|[0-9]*", string)
+    return [result for result in regex_search if result is not ""]
