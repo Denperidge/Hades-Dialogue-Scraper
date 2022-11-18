@@ -1,4 +1,5 @@
 from re import findall
+from description import id_to_description
 
 class Dialogue():
 
@@ -8,7 +9,7 @@ class Dialogue():
     
     @property
     def description(self):
-        return " ".join(split_camelcase_into_array(self.id))
+        return id_to_description(self.id)
 
     def readable(self):
         joined_sentences = "\n".join(self.sentences)
