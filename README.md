@@ -1,4 +1,4 @@
-# Hades Dialogue Scraper
+# Hades Dialogue Miner
 
 While looking for quotes from the video game Hades, I noticed not all of them were documented on the game's Wiki. So let's add to it, shall we?
 
