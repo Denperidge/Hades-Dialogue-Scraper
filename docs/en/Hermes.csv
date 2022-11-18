@@ -12,9 +12,7 @@ HermesBeatCharonQuestComplete|Hermes Beat Charon Quest Complete|Hermes|You did i
 HermesAboutPlume02|Hermes About Plume 02|Hermes|Hey looking like you're getting some good use out of that fancy plume of yours! Keep going like that, maybe someday you'll be half as quick as me!
 HermesAboutSkelly01|Hermes About Skelly 01|Hermes|I got a keen eye, boss, so I happened to notice that you've got a certain tooth you're carrying about. Know you're from the land of the dead and all, but don't you think that comes across as just a little odd?
 HermesAboutPersephoneMeeting01|Hermes About Persephone Meeting 01|Hermes|Heard that you finally got out of there, Coz! Big congratulations due for that: Congrats! The secret's safe with me, of course! The others here, they think you're still at it. Though, I guess you are!
-HermesPostEnding01|Hermes Post Ending 01|Hermes|I heard a certain someone's back at home with you down there now, Coz! I'd call it wonderful news, except it {#DialogueItalicFormat}isn't {#PreviousFormat}news, at least not yet! Though if the time comes that you want to spread the word, just give the signal here!
-HermesAboutOlympianReunionQuest01|Hermes About Olympian Reunion Quest 01|Zagreus|I get to be the messenger this time. In the name of Hades! Olympus, this is an official message! Lord Hermes? Got here as quickly as I could.
-HermesAboutOlympianReunionQuest01|Hermes About Olympian Reunion Quest 01|Hermes|Why, that looks like you've got a message just for {#DialogueItalicFormat}me{#PreviousFormat}, this time, how special is that, boss? Some sort of invite from the looks of things. You sure that I'm supposed to have this, seeing as I'm not officially involved?
+HermesRunClearStreakBroken01|Hermes Run Clear Streak Broken 01|Hermes|Heard the news you broke your streak of victories of late, boss. Happens, right? You seem the sort to bounce right back, though. Let me help with that!
 HermesAboutOlympianReunionQuest01|Hermes About Olympian Reunion Quest 01|Zagreus|I get to be the messenger this time. In the name of Hades! Olympus, this is an official message! Lord Hermes? Got here as quickly as I could.
 HermesAboutOlympianReunionQuest01|Hermes About Olympian Reunion Quest 01|Hermes|Why, that looks like you've got a message just for {#DialogueItalicFormat}me{#PreviousFormat}, this time, how special is that, boss? Some sort of invite from the looks of things. You sure that I'm supposed to have this, seeing as I'm not officially involved?
 HermesPostEpilogue01|Hermes Post Epilogue 01|Hermes|Got to tell you, Coz, that was a real something of a feast back your place! A little awkward, having to pretend we just met, but hey, I'm an Olympian! Means I can posture with the best of them. Good times, Coz! Glad it all worked out.
@@ -59,32 +57,9 @@ HermesMessage06|Hermes Message 06|Hermes|Another message for you, Coz, this one 
 HermesMaxRelationship01|Hermes Max Relationship 01|Hermes|You know, boss, just between us? Out of all special delivery recipients I've had over the ages, here, I've got to say, you're the most interesting one!
 HermesRunProgress01|Hermes Run Progress 01|Hermes|You know, Coz, all this time that I've been bussing souls across the borders of your father's land, it's good to have the chance to help somebody out the other way!
 HermesSquelch01|Hermes Squelch 01|Hermes|Hey, Coz, you're now well accustomed to our little chats, but I want you to level with me here. You're the boss, if you prefer, I would be happy to shut up, no harm no foul. Just give the signal, hey?
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-HermesSquelch02|Hermes Squelch 02|Hermes|{#DialogueItalicFormat}Ahem{#PreviousFormat}! Pardon the interruption, boss. You let me know if you prefer that I pipe up again next time, more like I used to!
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-Text|Text|Zagreus|Appreciate you checking in, Lord Hermes. I think we should keep at it like we have been, nice and quiet.
-Text|Text|Hermes|No problem whatsoever, boss. Just checking in.
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-Text|Text|Zagreus|Appreciate you checking in, Lord Hermes. I think we should keep at it like we have been, nice and quiet.
-Text|Text|Hermes|No problem whatsoever, boss. Just checking in.
 HermesSquelch03|Hermes Squelch 03|Hermes|Thought I'd check in again real quick, there, boss. You want my witty conversation next time, or straight to the Boons?
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-Text|Text|Zagreus|Appreciate you checking in, Lord Hermes. I think we should keep at it like we have been, nice and quiet.
-Text|Text|Hermes|No problem whatsoever, boss. Just checking in.
-Text|Text|Zagreus|Straight to the Boons, Lord Hermes. We both appreciate cutting straight to the chase.
-Text|Text|Hermes|I get it, boss. Words are too slow, aren't they. Won't bother you again word-wise, but I'll be seeing you!
-Text|Text|Zagreus|Now that you mention it, Lord Hermes, yes, let's keep our interactions nice and quick.
-Text|Text|Hermes|I hear you, boss, we'll cut straight to the chase next time, all right?
-Text|Text|Zagreus|Appreciate you checking in, Lord Hermes. I think we should keep at it like we have been, nice and quiet.
-Text|Text|Hermes|No problem whatsoever, boss. Just checking in.
-Text|Text|Zagreus|Straight to the Boons, Lord Hermes. We both appreciate cutting straight to the chase.
-Text|Text|Hermes|I get it, boss. Words are too slow, aren't they. Won't bother you again word-wise, but I'll be seeing you!
+HermesSquelch02|Hermes Squelch 02|Hermes|{#DialogueItalicFormat}Ahem{#PreviousFormat}! Pardon the interruption, boss. You let me know if you prefer that I pipe up again next time, more like I used to!
+HermesSquelch03|Hermes Squelch 03|Hermes|Thought I'd check in again real quick, there, boss. You want my witty conversation next time, or straight to the Boons?
 HermesAboutHades01|Hermes About Hades 01|Hermes|Met your father face to face only the one time, Coz. Despite rendering services to him for quite a while. Memorable experience, I'll give it that! Seems like he's not done anything with all the messages my side keeps sending him.
 HermesAboutThanatos01|Hermes About Thanatos 01|Hermes|You're pretty close with Thanatos, aren't you, boss? We don't often run in the same lanes, though our duties sometimes intersect a bit. Odd chap. Seems good at what he does, though!
 HermesAboutThanatos02|Hermes About Thanatos 02|Hermes|Saw Thanatos again lately, here, boss, and want to tell you, almost looked as though he cracked a smile when he mentioned you! Never seen anything like that with him!
@@ -115,8 +90,6 @@ HermesRunClearedNewRecord05|Hermes Run Cleared New Record 05|Hermes|Hey, Coz, lo
 HermesRunClearedNewRecord06|Hermes Run Cleared New Record 06|Hermes|What do you know, you beat your personal best time escaping recently! I hope my blessing helped a bit with that!
 HermesRunClearStreak01|Hermes Run Clear Streak 01|Hermes|Well look at you, Coz! Rushing to victory after successive victory. Caught wind of your accomplishments down there! Well then, let's keep the streak alive!
 HermesRunClearStreakBroken01|Hermes Run Clear Streak Broken 01|Hermes|Heard the news you broke your streak of victories of late, boss. Happens, right? You seem the sort to bounce right back, though. Let me help with that!
-HermesPostEnding01|Hermes Post Ending 01|Hermes|I heard a certain someone's back at home with you down there now, Coz! I'd call it wonderful news, except it {#DialogueItalicFormat}isn't {#PreviousFormat}news, at least not yet! Though if the time comes that you want to spread the word, just give the signal here!
-HermesPostEnding01|Hermes Post Ending 01|Hermes|So {#DialogueItalicFormat}you {#PreviousFormat}get to keep breaking out of there, time after time, so that {#DialogueItalicFormat}your father {#PreviousFormat}can keep finding ways to make it even harder to escape? Something like that? Sounds like an interesting assignment, Coz!
 HermesPostEpilogue02|Hermes Post Epilogue 02|Hermes|Everybody on Olympus, they're still going on about Persephone, Queen of the Underworld! They had no idea she was down there all along, none whatsoever, Coz! And as for me, now I can deliver you my blessings more officially, I think!
 HermesPostEpilogue03|Hermes Post Epilogue 03|Hermes|Even though everything's out in the open, now, and all my brothers, sisters, and whatnot are going to keep helping you fight your way out of there, I've still been keeping to myself, of late! That way nobody slows me down.
 HermesPostEpilogue04|Hermes Post Epilogue 04|Hermes|Some members of the family up here, I know they haven't helped at all, but just don't take it personal or anything, all right? Think of it this way: You've got more of us getting along and talking properly than I have ever {#DialogueItalicFormat}seen{#PreviousFormat}!
@@ -134,8 +107,6 @@ HermesLowHealth04|Hermes Low Health 04|Hermes|There's a fine line between being 
 HermesLowHealth05|Hermes Low Health 05|Hermes|Well, good news is you got to me, but I can tell you hit a lot of bad news on the way! You stay alive, all right?
 HermesLowHealth06|Hermes Low Health 06|Hermes|{#DialogueItalicFormat}Oof{#PreviousFormat}! What happened getting here, boss? Let me guess, you got whipped, burned, beat up with spectral clubs... something like that?
 HermesLowHealth07|Hermes Low Health 07|Hermes|You're looking worse for wear, I hate to tell you, boss. But, we can pick you up and get you going here, I think!
-HermesFirstPickUp|Hermes First Pick Up|Zagreus|This mark, almost like a bat wing. In the name of Hades! Olympus! I accept this message.
-HermesFirstPickUp|Hermes First Pick Up|Hermes|Hey boss, found you, good. Hermes, at your service. Pleasure! You are the talk of Olympus! Normally I wouldn't get mixed up, but for you, I will be making an exception. Now, come on, we both got places to be!
 HermesFirstPickUp|Hermes First Pick Up|Zagreus|This mark, almost like a bat wing. In the name of Hades! Olympus! I accept this message.
 HermesFirstPickUp|Hermes First Pick Up|Hermes|Hey boss, found you, good. Hermes, at your service. Pleasure! You are the talk of Olympus! Normally I wouldn't get mixed up, but for you, I will be making an exception. Now, come on, we both got places to be!
 HermesMiscPickup01|Hermes Misc Pickup 01|Hermes|All right, Coz, here's the goods, fresh from our mountaintop. Take all the time you need deciding! If you want to be a slowpoke.
@@ -217,33 +188,17 @@ HermesLootBought12|Hermes Loot Bought 12|Hermes|How strange of a coincidence tha
 HermesLootBought13|Hermes Loot Bought 13|Hermes|Don't normally go selling off my blessings to the highest bidder, boss, but your bid there is good enough for me!
 HermesGift01|Hermes Gift 01|Zagreus|Lord Hermes, please accept this gift as a small token of my appreciation. Thank you for always keeping me on my toes.
 HermesGift01|Hermes Gift 01|Hermes|{#DialogueItalicFormat}Oh{#PreviousFormat}! Mighty keen of you to leave a tip, there, boss. And I've a tip for you: Don't be slow! Maybe this will help with that.
-HermesGift01|Hermes Gift 01|Zagreus|Lord Hermes, please accept this gift as a small token of my appreciation. Thank you for always keeping me on my toes.
-HermesGift01|Hermes Gift 01|Hermes|{#DialogueItalicFormat}Oh{#PreviousFormat}! Mighty keen of you to leave a tip, there, boss. And I've a tip for you: Don't be slow! Maybe this will help with that.
-HermesGift02|Hermes Gift 02|Zagreus|Lord Hermes sir, you've asked for nothing in return, and so, please take this humble offering, because... it's nothing, really!
-HermesGift02|Hermes Gift 02|Hermes|Well now, that's awful kind, there, Coz! No need to thank me, though. Not so profusely anyhow!
 HermesGift02|Hermes Gift 02|Zagreus|Lord Hermes sir, you've asked for nothing in return, and so, please take this humble offering, because... it's nothing, really!
 HermesGift02|Hermes Gift 02|Hermes|Well now, that's awful kind, there, Coz! No need to thank me, though. Not so profusely anyhow!
 HermesGift03|Hermes Gift 03|Zagreus|Hermes, my friend? May I call you my friend? I hope this modest offering will lift your spirits but won't slow you down.
 HermesGift03|Hermes Gift 03|Hermes|I look like I got the sort of time to sip Nectar, Coz? Well, guess what, I do! So, cheers!
-HermesGift03|Hermes Gift 03|Zagreus|Hermes, my friend? May I call you my friend? I hope this modest offering will lift your spirits but won't slow you down.
-HermesGift03|Hermes Gift 03|Hermes|I look like I got the sort of time to sip Nectar, Coz? Well, guess what, I do! So, cheers!
-HermesGift04|Hermes Gift 04|Zagreus|Ever since we met, Lord Hermes, life here in the Underworld has been much faster-paced, and I am ever grateful. This is for you.
-HermesGift04|Hermes Gift 04|Hermes|Hey, boss, I appreciate the tip. But just as a reminder, all my services are paid in full already! No need for special thanks. Though... cheers.
 HermesGift04|Hermes Gift 04|Zagreus|Ever since we met, Lord Hermes, life here in the Underworld has been much faster-paced, and I am ever grateful. This is for you.
 HermesGift04|Hermes Gift 04|Hermes|Hey, boss, I appreciate the tip. But just as a reminder, all my services are paid in full already! No need for special thanks. Though... cheers.
 HermesGift05|Hermes Gift 05|Zagreus|I never could have come this far this quickly had it not been for your tireless support, Lord Hermes, sir. I'm in your debt.
 HermesGift05|Hermes Gift 05|Hermes|You know, Coz, I got to say I had a few concerns when we first met, your father being who he is and all. But you're all right!
-HermesGift05|Hermes Gift 05|Zagreus|I never could have come this far this quickly had it not been for your tireless support, Lord Hermes, sir. I'm in your debt.
-HermesGift05|Hermes Gift 05|Hermes|You know, Coz, I got to say I had a few concerns when we first met, your father being who he is and all. But you're all right!
-HermesGift06|Hermes Gift 06|Zagreus|This one's for you, swift and sure-footed messenger of the gods! You make what you do look easy. But I know you're going out of your way. Thank you so much, Hermes.
-HermesGift06|Hermes Gift 06|Hermes|My rule is not to let things get too personal as far as work-related matters are concerned, Coz. But you're family! And, well, you're a right decent chap, I think. Offering up a bit of Nectar to me in the middle of all this!
 HermesGift06|Hermes Gift 06|Zagreus|This one's for you, swift and sure-footed messenger of the gods! You make what you do look easy. But I know you're going out of your way. Thank you so much, Hermes.
 HermesGift06|Hermes Gift 06|Hermes|My rule is not to let things get too personal as far as work-related matters are concerned, Coz. But you're family! And, well, you're a right decent chap, I think. Offering up a bit of Nectar to me in the middle of all this!
 HermesGift07|Hermes Gift 07|Zagreus|I salute you, Lord Hermes, with this rarest of delicacies! Pretty rare here, anyway. You never show it, but I can only imagine how hard you must be working to back me up. Cheers, mate!
 HermesGift07|Hermes Gift 07|Hermes|You know, the last time anybody offered me Ambrosia from the Underworld was {#DialogueItalicFormat}never{#PreviousFormat}, before now! That's quite a gesture on your part. You could have just as well taken my services for granted and I'd not have minded in the least! But, thank you, Coz.
-HermesGift07|Hermes Gift 07|Zagreus|I salute you, Lord Hermes, with this rarest of delicacies! Pretty rare here, anyway. You never show it, but I can only imagine how hard you must be working to back me up. Cheers, mate!
-HermesGift07|Hermes Gift 07|Hermes|You know, the last time anybody offered me Ambrosia from the Underworld was {#DialogueItalicFormat}never{#PreviousFormat}, before now! That's quite a gesture on your part. You could have just as well taken my services for granted and I'd not have minded in the least! But, thank you, Coz.
-HermesGift08|Hermes Gift 08|Zagreus|Message for you, Lord Hermes! It says, {#DialogueItalicFormat}'This offering is dedicated to the incomparable god of swiftness, from whom the news is always good, because he's bringing it. You are a real mate, you know that? I really owe you one.' {#PreviousFormat}Zagreus.
-HermesGift08|Hermes Gift 08|Hermes|Look, Coz, I am going to accept this choice Ambrosia from you one last time, all right? But from this point, I am doubling down on all professional responsibilities, here. Strictly business between us! Although, secretly, you're one of my best mates. Want you to know.
 HermesGift08|Hermes Gift 08|Zagreus|Message for you, Lord Hermes! It says, {#DialogueItalicFormat}'This offering is dedicated to the incomparable god of swiftness, from whom the news is always good, because he's bringing it. You are a real mate, you know that? I really owe you one.' {#PreviousFormat}Zagreus.
 HermesGift08|Hermes Gift 08|Hermes|Look, Coz, I am going to accept this choice Ambrosia from you one last time, all right? But from this point, I am doubling down on all professional responsibilities, here. Strictly business between us! Although, secretly, you're one of my best mates. Want you to know.

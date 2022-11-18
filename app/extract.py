@@ -141,7 +141,7 @@ So, when going through the file:
 - If encountering a event id
     - Set adding_sentences to true
 - If encountering the end of the comment (and thus dialogue)
-    - Add the dialogue to the list
+    - Add the dialogue to the dict
     - Set adding_sentences to false
 - If encountering any line besides the above
     - If adding_sentences is True, add to the currently worked on dialogue
@@ -150,25 +150,26 @@ So, when going through the file:
 
 
 def en_lines_to_dialogues(lines):
-    dialogues = list()
+    dialogues = dict()
 
     current_dialogue = None
     adding_sentences = False
 
     for line in lines:
         if indicator_description in line:
-            id = sanitize_json_value(line.replace(indicator_description, ""))
-            current_dialogue = Dialogue(id)
-            adding_sentences = True
+            id = last_encountered_id = sanitize_json_value(line.replace(indicator_description, ""))
+            if id not in dialogues:
+                current_dialogue = Dialogue(id)
+                adding_sentences = True
 
         elif indicator_en_end_dialogue in line and current_dialogue is not None:
-            dialogues.append(current_dialogue)
+            dialogues[last_encountered_id] = current_dialogue
             adding_sentences = False
         
         elif adding_sentences:
             value = sanitize_json_value(line)
             current_dialogue.sentences.append(Sentence.from_comment(value))
     
-    return dialogues
+    return dict_to_list(dialogues)
 
 
