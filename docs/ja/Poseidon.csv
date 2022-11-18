@@ -24,7 +24,7 @@ PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|ハッハッハ！どう
 PoseidonWithDemeter01|Poseidon With Demeter 01|Poseidon|女神デメテルとは、姉弟として育てられた仲だ。\nお堅い印象を受けるだろうが、あれで、\n俺のことをからかったりもするんだぞ？\nお、噂をすれば…
 PoseidonWithDemeter01|Poseidon With Demeter 01|Demeter|また無駄話ですか、ポセイドン。あなたの意見など、\n誰も求めていません。ザグレウスも忙しいのですから、黙って祝福だけ授ければよいのです。\nそうでしょう、ザグレウス？
 PoseidonBeatTheseusQuestComplete|Poseidon Beat Theseus Quest Complete|Poseidon|ザグ坊！おまえならきっと、やってくれると信じて\nいたぞ！テセウスのやつが手にした褒美とやらは、\nただの馬車だったそうだな？しかも、その馬車ごと\n倒される体たらく！いい気味だ！あれは生前から、\n褒美を手にすると大げさに自慢したがる男だった！
-PoseidonFishQuestComplete|Poseidon Fish Quest Complete|Poseidon|{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}よくやったぞ、ジュニア！\nおまえならきっと、地上の海から冥界へ逃亡した\n“川棲み”どもをやり込めてくれると信じていた！\n今後もその調子で、釣りを楽しんでくれ！
+PoseidonFishQuestComplete|Poseidon Fish Quest Complete|Poseidon|*ハッハッハ！*よくやったぞ、ジュニア！\nおまえならきっと、地上の海から冥界へ逃亡した\n“川棲み”どもをやり込めてくれると信じていた！\n今後もその調子で、釣りを楽しんでくれ！
 PoseidonAboutOlympianReunionQuest01|Poseidon About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に言づてを捧げん！\nポセイドン叔父上、どうかうまく解読してください…
 PoseidonAboutOlympianReunionQuest01|Poseidon About Olympian Reunion Quest 01|Poseidon|これは… 書簡か？…いや、書簡の一部か。なるほど、\nこの一片は俺宛てで、他の連中に宛てた分もある、\nというわけだな。海底に沈んだ宝探しのようで、\nなかなか乙じゃないか！すぐに謎解きに取りかかろう！
 PoseidonPostEpilogue01|Poseidon Post Epilogue 01|Poseidon|ハデスの館で開かれた宴は、豪勢だったな！\nペルセポネも、じつに美しかった！あの娘には二度と\n会えないと思っていたが… われら一族が再びひとつと\nなれたのは、喜ばしいことだ！今後も、新たな務めで\n忙しいだろう。われわれも、引き続き力になるぞ！
@@ -64,7 +64,7 @@ PoseidonPostEpilogue06|Poseidon Post Epilogue 06|Poseidon|ハデス兄上と弟�
 PoseidonAboutPersephoneVisit01|Poseidon About Persephone Visit 01|Poseidon|ジュニア！おまえの母親のペルセポネは、\n無事にオリュンポスに着いたぞ！おまえがこっちで\n共に過ごせないのは残念だが… 案ずるな！\nいつか必ず、また会える日が来る！
 PoseidonAboutKeepsake01|Poseidon About Keepsake 01|Poseidon|やはりな！俺が贈った貝殻を、おまえが身につけている\n気配がした。海がもたらしたささやかな賜物…\n肌身離さず持っておくんだぞ。俺が、いつでも\nおまえを見つけられるようにな！
 PoseidonHasWeapon01|Poseidon Has Weapon 01|Poseidon|ジュニア！それはエクサグリフだな！あまりに\nすさまじい威力ゆえに、封印された禁断の武具だ。\nおまえの手中にあれば、仕組みが人間たちに\n知れ渡ることはない。災いを招く心配もなかろう！
-PoseidonAboutFistWeapon01|Poseidon About Fist Weapon 01|Poseidon|ハッ！海底の泥のせいで幻を見ているのでなければ…\nそれは{#DialogueItalicFormat}マルフォン{#PreviousFormat}だな！おまえが生まれる前の時代に\n“汚れ仕事”をやってのけた武具だ！
+PoseidonAboutFistWeapon01|Poseidon About Fist Weapon 01|Poseidon|ハッ！海底の泥のせいで幻を見ているのでなければ…\nそれは*マルフォン*だな！おまえが生まれる前の時代に\n“汚れ仕事”をやってのけた武具だ！
 PoseidonHasWeaponUpgrade01|Poseidon Has Weapon Upgrade 01|Poseidon|濁りがひどくてよく見えんが… おまえが手に\nしているのは、スティギウスだな？そいつはかつて、\n俺の“伴侶”だった！好みのタイプとは違ったが、\nいっときは、よい関係を築いていたのだ…\nそいつのこと、よろしく頼んだぞ！
 PoseidonAboutHadesAspect01|Poseidon About Hades Aspect 01|Poseidon|ザグ坊！それは、おまえの親父の槍じゃないか？\n俺も以前は、その手の槍が欲しいと思っていた。\n今となっては、俺の槍の方がはるかに優れているがな！
 PoseidonLegendaryPickUp01|Poseidon Legendary Pick Up 01|Poseidon|ザグ坊！今こそ、おまえの根性を見せるときだ！\n根性というのは、「根本的な性質」のことだ。\n少なくとも人間は、身体の大半が水でできている。\nだから、根本的な性質は、俺が司る「水」、\nということになるぞ！ハッハッハ！
@@ -91,7 +91,7 @@ PoseidonMiscPickup02|Poseidon Misc Pickup 02|Poseidon|ジュニア！おまえ�
 PoseidonMiscPickup03|Poseidon Misc Pickup 03|Poseidon|今日もいい流れが来てるぞ、ジュニア！\nおまえの行く手をはばもうとする愚かな敵どもに、\n冷や水を浴びせてやろう！
 PoseidonMiscPickup04|Poseidon Misc Pickup 04|Poseidon|ジュニア！おまえのことだから、\nきっと亡者退治に手を焼いていることだろう。\n俺が来たからには、もう安心だ！
 PoseidonMiscPickup05|Poseidon Misc Pickup 05|Poseidon|順調に進んでいるな！結構、結構。\nでは、かわいい甥っ子に祝福を授けてやるとしよう！
-PoseidonMiscPickup06|Poseidon Misc Pickup 06|Poseidon|{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}そこにいたのか、ジュニア！\nおまえの敵どもを、神級の台風でフッ飛ばしてやろう！
+PoseidonMiscPickup06|Poseidon Misc Pickup 06|Poseidon|*ハッハッハ！*そこにいたのか、ジュニア！\nおまえの敵どもを、神級の台風でフッ飛ばしてやろう！
 PoseidonMiscPickup07|Poseidon Misc Pickup 07|Poseidon|ジュニア、俺は死人が嫌いだ。\n鮮度の落ちた、腐りかけの人間が大嫌いだ。\n死人に囲まれているおまえが気の毒でしかたない。\n一刻も早く脱出できるよう、手を貸すぞ！
 PoseidonMiscPickup08|Poseidon Misc Pickup 08|Poseidon|どうだ？そろそろ、水の祝福を受けたくなった\n頃じゃないか？おまえの行く手をはばむ者どもを、\n正義の洪水で洗い流してやろう！
 PoseidonMiscPickup09|Poseidon Misc Pickup 09|Poseidon|堅物のハデス・シニアとは、どんな調子だ？\nあの男と折り合いが悪いのは、おまえだけじゃない。\nわれわれオリュンポスの神、全員だ。おまえのことは、俺がしっかり面倒を見てやるから、安心しろ！
@@ -188,6 +188,6 @@ PoseidonGift06|Poseidon Gift 06|Poseidon|ザグ坊、俺に捧げ物なんて必
 PoseidonGift07|Poseidon Gift 07|Zagreus|ポセイドン叔父上ともっと早く出会えていたら、\n俺の人生は違ったものになっていたはず。\n叔父上に励まされ、その熱意に触れ…\n大きな力をもらっています。感謝の印として、\nはるばる冥界に流れ着いたアンブロシアを。
 PoseidonGift07|Poseidon Gift 07|Poseidon|これはこれは、じつに結構な供物だ！オリュンポスから遠く離れた冥界で、それを手に入れるのは相当骨が\n折れただろう。ハデスがどうしておまえにつらく\n当たるのか、俺にはまったく理解できん。\n俺が父親だったら、おまえは自慢の息子だ！
 DemeterWithPoseidon01|Demeter With Poseidon 01|Demeter|ザグレウス。ちょうど今、ポセイドンに話していた\nところです。彼の統べる水域はすべて、私の手のひらの上だと。私の力をもってすれば、海も一瞬で凍りつく…
-DemeterWithPoseidon01|Demeter With Poseidon 01|Poseidon|{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
+DemeterWithPoseidon01|Demeter With Poseidon 01|Poseidon|*ハッハッハ！*おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
 PoseidonWrathIntro01|Poseidon Wrath Intro 01|Poseidon|ジュニア！わが眷属と相談して、とっておきの贈り物を用意しておいたぞ。おまえがそれを受け取るにふさわしい器か見極めさせてもらったが… 合格だ！俺の力が必要なときは、いつでも呼んでくれ。特に、敵を蹴散らしたいときなどはな！
-PoseidonFishQuest01|Poseidon Fish Quest 01|Poseidon|ザグレウス！川は俺の所領だが、\nおまえはそこに棲む者たちを一掃した。見事だ！\n海の幸はおまえの父親の統治下にないが、\n俺の権限で、{#DialogueItalicFormat}おまえ{#PreviousFormat}は自由に獲ってよしとする！\n釣り竿は持っているな？{#DialogueItalicFormat}これ{#PreviousFormat}も取っておけ！
+PoseidonFishQuest01|Poseidon Fish Quest 01|Poseidon|ザグレウス！川は俺の所領だが、\nおまえはそこに棲む者たちを一掃した。見事だ！\n海の幸はおまえの父親の統治下にないが、\n俺の権限で、*おまえ*は自由に獲ってよしとする！\n釣り竿は持っているな？*これ*も取っておけ！

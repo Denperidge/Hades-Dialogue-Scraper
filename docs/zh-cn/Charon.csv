@@ -1,29 +1,29 @@
 Id|Description|Speaker|Text
-BossCharonAboutHermesQuest01|Boss Charon About Hermes Quest 01|Charon|{#DialogueItalicFormat}嗯嗯嗯嗯嗯嗯{#PreviousFormat}……
+BossCharonAboutHermesQuest01|Boss Charon About Hermes Quest 01|Charon|*嗯嗯嗯嗯嗯嗯*……
 BossCharonAboutHermesQuest01|Boss Charon About Hermes Quest 01|Zagreus|卡戎，你的同伴赫尔墨斯和你打了个赌，赌我有朝一日肯定能连续打败你两次，对不对？我可不想让他失望，所以……希望你别见怪，好吗？
-BossCharonAboutHermesQuest01|Boss Charon About Hermes Quest 01|Charon|{#DialogueItalicFormat}呃呃呃啊啊啊啊啊啊啊啊啊{#PreviousFormat}！！
+BossCharonAboutHermesQuest01|Boss Charon About Hermes Quest 01|Charon|*呃呃呃啊啊啊啊啊啊啊啊啊*！！
 BossCharonEncounter01|Boss Charon Encounter 01|Charon|哈啊啊啊啊啊啊……
-BossCharonEncounter01|Boss Charon Encounter 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，你看，卡戎，我可以解释的。我只是，呃，只是习惯了随手拿走我父亲领土上的一切东西。我没打算偷你的东西，我是说真的！
+BossCharonEncounter01|Boss Charon Encounter 01|Zagreus|*呃*，你看，卡戎，我可以解释的。我只是，呃，只是习惯了随手拿走我父亲领土上的一切东西。我没打算偷你的东西，我是说真的！
 BossCharonEncounter01|Boss Charon Encounter 01|Zagreus|听起来你没明白我的意思。等等，你干嘛要用那么吓人的姿势挥你的船桨？
 BossCharonEncounter02|Boss Charon Encounter 02|Zagreus|你是在考验我，没错吧，卡戎？我是说，你把这么多亮闪闪的金币特意摆在我的面前，那你还指望我会怎么做？
-BossCharonEncounter02|Boss Charon Encounter 02|Charon|呃嗯嗯，哈嗯嗯，赫嗯嗯，{#DialogueItalicFormat}呃嗯嗯嗯嗯{#PreviousFormat}……
-BossCharonEncounter02|Boss Charon Encounter 02|Zagreus|听起来不错，伙计。我抢你的东西的时候，我其实在我用自己的方式对你说这句话：{#DialogueItalicFormat}卡戎，我想和你打个至死方休，好调剂调剂心情{#PreviousFormat}。
-BossCharonMiscStart01|Boss Charon Misc Start 01|Charon|{#DialogueItalicFormat}呼呃呃啊啊啊啊啊啊啊{#PreviousFormat}……
-BossCharonMiscStart02|Boss Charon Misc Start 02|Charon|{#DialogueItalicFormat}呃呃啊啊啊啊，啊啊啊啊啊啊{#PreviousFormat}！
-BossCharonMiscStart03|Boss Charon Misc Start 03|Charon|{#DialogueItalicFormat}呼啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart04|Boss Charon Misc Start 04|Charon|嗯嗯……{#DialogueItalicFormat}嘎啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart05|Boss Charon Misc Start 05|Charon|哼嗯……{#DialogueItalicFormat}呼啊啊啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart06|Boss Charon Misc Start 06|Charon|咯呃……{#DialogueItalicFormat}呜啊啊啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart07|Boss Charon Misc Start 07|Charon|呃呃……{#DialogueItalicFormat}呃啊啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart08|Boss Charon Misc Start 08|Charon|咳呃……{#DialogueItalicFormat}咔啊啊啊啊啊啊啊{#PreviousFormat}！！
-BossCharonMiscStart09|Boss Charon Misc Start 09|Charon|呵呃，{#DialogueItalicFormat}呵呃呃呃啊啊啊啊{#PreviousFormat}！！
-BossCharonOutro01|Boss Charon Outro 01|Charon|哈啊啊，呜啊啊，{#DialogueItalicFormat}哈啊啊啊啊{#PreviousFormat}！！
-BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Zagreus|是我赢了，伙计！我已经连续赢两次了。看来，赫尔墨斯和你打的赌是他赢了。你可以告诉它，我说了句{#DialogueItalicFormat}喝啊啊啊啊啊啊啊{#PreviousFormat}！
-BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Charon|{#DialogueItalicFormat}喝啊啊啊啊啊啊啊{#PreviousFormat}……
+BossCharonEncounter02|Boss Charon Encounter 02|Charon|呃嗯嗯，哈嗯嗯，赫嗯嗯，*呃嗯嗯嗯嗯*……
+BossCharonEncounter02|Boss Charon Encounter 02|Zagreus|听起来不错，伙计。我抢你的东西的时候，我其实在我用自己的方式对你说这句话：*卡戎，我想和你打个至死方休，好调剂调剂心情*。
+BossCharonMiscStart01|Boss Charon Misc Start 01|Charon|*呼呃呃啊啊啊啊啊啊啊*……
+BossCharonMiscStart02|Boss Charon Misc Start 02|Charon|*呃呃啊啊啊啊，啊啊啊啊啊啊*！
+BossCharonMiscStart03|Boss Charon Misc Start 03|Charon|*呼啊啊啊啊啊啊*！！
+BossCharonMiscStart04|Boss Charon Misc Start 04|Charon|嗯嗯……*嘎啊啊啊啊啊啊*！！
+BossCharonMiscStart05|Boss Charon Misc Start 05|Charon|哼嗯……*呼啊啊啊啊啊啊啊啊*！！
+BossCharonMiscStart06|Boss Charon Misc Start 06|Charon|咯呃……*呜啊啊啊啊啊啊啊啊*！！
+BossCharonMiscStart07|Boss Charon Misc Start 07|Charon|呃呃……*呃啊啊啊啊啊啊啊*！！
+BossCharonMiscStart08|Boss Charon Misc Start 08|Charon|咳呃……*咔啊啊啊啊啊啊啊*！！
+BossCharonMiscStart09|Boss Charon Misc Start 09|Charon|呵呃，*呵呃呃呃啊啊啊啊*！！
+BossCharonOutro01|Boss Charon Outro 01|Charon|哈啊啊，呜啊啊，*哈啊啊啊啊*！！
+BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Zagreus|是我赢了，伙计！我已经连续赢两次了。看来，赫尔墨斯和你打的赌是他赢了。你可以告诉它，我说了句*喝啊啊啊啊啊啊啊*！
+BossCharonHermesQuestComplete01|Boss Charon Hermes Quest Complete 01|Charon|*喝啊啊啊啊啊啊啊*……
 CharonFirstMeeting|Charon First Meeting|Charon|咕啊啊啊…
 CharonFirstMeeting|Charon First Meeting|Zagreus|见到你真好，卡戎老伙计！我正做我自己的事呢，也看看风景什么的，那么，你这里有什么，看看你有什么好货。我就四处转转。
 CharonNoFastTravel01|Charon No Fast Travel 01|Zagreus|呃，卡戎，伙计…？你好像没有考虑过我的建议啊，就是，你直接…载我到凡界行不？果然还是不行吧。
-CharonNoFastTravel01|Charon No Fast Travel 01|Charon|{#DialogueItalicFormat}呃呃呃啊啊啊啊啊啊啊啊啊{#PreviousFormat}……
+CharonNoFastTravel01|Charon No Fast Travel 01|Charon|*呃呃呃啊啊啊啊啊啊啊啊啊*……
 CharonShopMeeting02|Charon Shop Meeting 02|Zagreus|很高兴看见你，伙计！看起来你好像又有些好货可以卖了！
 CharonShopMeeting02|Charon Shop Meeting 02|Charon|呃嗯嗯嗯嗯嗯…
 CharonShopMeeting03|Charon Shop Meeting 03|Charon|哈——
@@ -37,21 +37,21 @@ CharonPreBossMeeting01|Charon Pre Boss Meeting 01|Charon|哈啊啊啊啊啊啊�
 CharonPreBossMeeting02|Charon Pre Boss Meeting 02|Zagreus|能告诉我下一个可怕的岛上有什么恐怖的怪物在等着我吗，卡戎老伙计？
 CharonPreBossMeeting02|Charon Pre Boss Meeting 02|Charon|嘿嘿——
 CharonHighRelationship01|Charon High Relationship 01|Zagreus|哎呀，这不是我的好伙计卡戎吗，你看起来很不错！你好像有哪里不太一样了，但我又看不出来是哪里不一样了。你是换过发型了吗？
-CharonHighRelationship01|Charon High Relationship 01|Charon|{#DialogueItalicFormat}呃呃呃啊啊啊啊啊啊啊啊啊{#PreviousFormat}……
+CharonHighRelationship01|Charon High Relationship 01|Charon|*呃呃呃啊啊啊啊啊啊啊啊啊*……
 CharonPostFight_YouWon01|Charon Post Fight You Won 01|Zagreus|嘿，卡戎，我们上次谈过之后，你已经不生我的气了吧？我是说……既然你已经把你的忠诚卡牌给我了，那我们肯定和好了。不过……我……只是想确认一下，没问题吧？
-CharonPostFight_YouWon01|Charon Post Fight You Won 01|Charon|呜啊啊，{#DialogueItalicFormat}哇啊啊啊啊啊啊啊{#PreviousFormat}……！
+CharonPostFight_YouWon01|Charon Post Fight You Won 01|Charon|呜啊啊，*哇啊啊啊啊啊啊啊*……！
 CharonPostFight_YouLost01|Charon Post Fight You Lost 01|Zagreus|我们上次恶战一场，那件事你别太往心里去了，好吗，卡戎？再说了，你已经把我狠狠地收拾了一顿。我当时只是在跟你开玩笑而已，你明白的吧？
 CharonPostFight_YouLost01|Charon Post Fight You Lost 01|Charon|呃啊啊啊啊啊啊啊……！
 CharonAboutHermes01|Charon About Hermes 01|Zagreus|嗨卡戎！我终于遇到赫尔墨斯了，迅捷、旅行之神，将死者的灵魂带到你的船上。你真是请到了专业人士的帮忙呢。你跟他，你们合作有一段时间了吧，对吗？
 CharonAboutHermes01|Charon About Hermes 01|Charon|赫呃呃呃呃…
 CharonAboutHermes02|Charon About Hermes 02|Zagreus|卡戎，我总以为奥林匹斯众神从来不跟像你这种冥界的神打交道呢。不过，赫尔墨斯跟你好像是关系很好的同事一样。你该不会…碰巧知道他为什么要帮助我吧？
-CharonAboutHermes02|Charon About Hermes 02|Charon|噢噢噢{#DialogueItalicFormat}啊啊啊{#PreviousFormat}…！
-CharonAboutSkelly01|Charon About Skelly 01|Zagreus|卡戎，我的好伙计，我知道你见过太多太多死人了，估计你很难记住他们所有人的名字，不过……不知道你有没有听说过{#DialogueItalicFormat}“骨头”{#PreviousFormat}这个名字？有吗？
-CharonAboutSkelly01|Charon About Skelly 01|Charon|……呼呼……呃呃呃……哇啊啊啊啊啊……{#DialogueItalicFormat}喝啊啊啊啊啊啊啊啊{#PreviousFormat}！！
+CharonAboutHermes02|Charon About Hermes 02|Charon|噢噢噢*啊啊啊*…！
+CharonAboutSkelly01|Charon About Skelly 01|Zagreus|卡戎，我的好伙计，我知道你见过太多太多死人了，估计你很难记住他们所有人的名字，不过……不知道你有没有听说过*“骨头”*这个名字？有吗？
+CharonAboutSkelly01|Charon About Skelly 01|Charon|……呼呼……呃呃呃……哇啊啊啊啊啊……*喝啊啊啊啊啊啊啊啊*！！
 CharonAboutCustomerLoyalty01|Charon About Customer Loyalty 01|Zagreus|卡戎，我的好伙计？我一次又一次地想要逃出这个地方，作为你的忠实客户，我只想稍微花点时间感谢你出色的服务。在这么多次冒险之中，要是没了你的宝物，我会落得什么下场呢？恐怕只会死得更快吧。
-CharonAboutCustomerLoyalty01|Charon About Customer Loyalty 01|Charon|呃呃呃呃呃，呜呃呃呃，{#DialogueItalicFormat}哈啊啊啊啊啊啊{#PreviousFormat}……
+CharonAboutCustomerLoyalty01|Charon About Customer Loyalty 01|Charon|呃呃呃呃呃，呜呃呃呃，*哈啊啊啊啊啊啊*……
 CharonAboutSecretService01|Charon About Secret Service 01|Zagreus|是卡戎吗？我没什么事情，我只是想说……我很感激你能支持我。你总是在忙你自己的事情……我从来没在圣殿里见过你。但我知道你关心我！你非常在乎我。所以，谢谢你。
-CharonAboutSecretService01|Charon About Secret Service 01|Charon|……呜啊啊啊……{#DialogueItalicFormat}哈啊啊啊啊啊啊{#PreviousFormat}……
+CharonAboutSecretService01|Charon About Secret Service 01|Charon|……呜啊啊啊……*哈啊啊啊啊啊啊*……
 CharonChat03|Charon Chat 03|Charon|嗯呃呃呃…
 CharonChat04|Charon Chat 04|Charon|呃啊啊啊啊……
 CharonChat06|Charon Chat 06|Charon|哼呃呃呃…
@@ -63,13 +63,13 @@ CharonChat14|Charon Chat 14|Charon|呵嗷……
 CharonChat15|Charon Chat 15|Charon|嗝嗷……
 CharonChat16|Charon Chat 16|Charon|唔嗯……
 CharonChat17|Charon Chat 17|Charon|啊嗷……
-CharonChat18|Charon Chat 18|Charon|呵，{#DialogueItalicFormat}哈啊啊啊啊啊啊{#PreviousFormat}……
+CharonChat18|Charon Chat 18|Charon|呵，*哈啊啊啊啊啊啊*……
 CharonChat19|Charon Chat 19|Charon|呃嗯……
 CharonChat20|Charon Chat 20|Charon|咯嗯……
 CharonChat21|Charon Chat 21|Charon|嗝嗯……
-CharonChat21|Charon Chat 21|Charon|{#DialogueItalicFormat}呵{#PreviousFormat}，嚯....
+CharonChat21|Charon Chat 21|Charon|*呵*，嚯....
 CharonGift01|Charon Gift 01|Zagreus|卡戎，你真是个可靠的人啊，我想我应该表达一下谢意了。
-CharonGift01|Charon Gift 01|Charon|{#DialogueItalicFormat}呼呃呃啊啊啊啊啊啊啊{#PreviousFormat}，嗯嗯嗯……
+CharonGift01|Charon Gift 01|Charon|*呼呃呃啊啊啊啊啊啊啊*，嗯嗯嗯……
 CharonGift01|Charon Gift 01|Zagreus|等下，你不用送我东西回礼的，这是给你的礼物！既然你坚持要给我的话。
 CharonGift02|Charon Gift 02|Charon|嚯嚯…
 CharonGift02|Charon Gift 02|Zagreus|你喜欢就好，伙计。谢谢你和你的好货，帮了我大忙。就算你的价格是那样离谱。
@@ -82,4 +82,4 @@ CharonGift05|Charon Gift 05|Zagreus|我就料到你会这样说，卡戎老伙�
 CharonGift06|Charon Gift 06|Charon|喝啊啊啊啊啊……呼啊啊啊啊啊……哈啊啊啊啊啊……
 CharonGift06|Charon Gift 06|Zagreus|能跟你做朋友我也很开心，卡戎。我很高兴。
 CharonGift07|Charon Gift 07|Zagreus|卡戎，我知道你一直都很忙，也知道你本不需要像这样为了我的事情分心。所以，请收下这个吧，是我送给你的一点点心意。如果你想找人聊聊的话，我随时愿意奉陪。
-CharonGift07|Charon Gift 07|Charon|{#DialogueItalicFormat}嗯嗯嗯嗯嗯嗯嗯{#PreviousFormat}……！呃嗯嗯嗯嗯嗯……呃啊啊啊啊啊……！
+CharonGift07|Charon Gift 07|Charon|*嗯嗯嗯嗯嗯嗯嗯*……！呃嗯嗯嗯嗯嗯……呃啊啊啊啊啊……！

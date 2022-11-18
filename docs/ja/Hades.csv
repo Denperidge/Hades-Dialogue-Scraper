@@ -10,7 +10,7 @@ Ending01|Ending 01|Hades|考えだと？連中を招いて、アンブロシア�
 Ending01|Ending 01|Persephone|ええ、あなたの言うとおりよ。私だけでは無理。\nだから、あなたに協力をお願いしているの。
 Ending01|Ending 01|Hades|…おまえが望むならば、\nいかなることにも応じる所存だ。
 Ending01|Ending 01|Persephone|なら、まずはザグレウスと話を。
-Ending01|Ending 01|Hades|...{#DialogueItalicFormat}うむ{#PreviousFormat}。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
+Ending01|Ending 01|Hades|...*うむ*。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
 Ending01|Ending 01|Zagreus|父上に名前で呼んでもらえるなんて！なんとも言えない気持ちです。これが父上の言う、「礼節」というものの作用ですか？
 Ending01|Ending 01|Persephone|ふたりとも、やめて！\nハデスも、せっかくの機会を台無しにしないで。\nもっと素直に向き合ってちょうだい。\n私のことではなく、自分のことを話すの。
 Ending01|Ending 01|Hades|…ザグレウスよ。私はたしかに、おのれの苛立ちを\nおまえにぶつける嫌いがあった。気長に見守ってやる\nこともせず、おまえの判断を頭ごなしに否定することも\n常であった。みずからの誤った判断を棚に上げ…\n弁解の余地もない。許しを乞うつもりもない。
@@ -61,7 +61,7 @@ LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Zagreus|しかるべ
 LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Hades|よかろう。私の大槍ギガロスには、忌まわしき\n曰くなどない。武具として格上であることも明らか。\n大仰に姿形を変えずとも、おまえを刺し殺すには\n十分だ。いざ、尋常に勝負！
 LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|おまえが帯びるその剣、スティギウスには、\n特に思い入れはなかった。わが弟ポセイドンが\n携えた際の、不格好な態の印象が強いせいもあろう。\nおまえの手中にある今は、ずいぶんと印象が異なるが。
 LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Zagreus|スティギウスとの絆が深まったせいでしょう。\nおかげで、この剣の秘められた態を知ることもできた。\nこれは「アーサー」という男の態です。\nよければ、俺から父上を「紹介」させてください。
-LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|{#DialogueItalicFormat}アーサー{#PreviousFormat}だと？私の知り得るいかなる地にも、\nそのような名の神や王は思い当たらぬ。よかろう… \nこの無知蒙昧の徒に、その刃の切れ味を示してみよ。
+LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|*アーサー*だと？私の知り得るいかなる地にも、\nそのような名の神や王は思い当たらぬ。よかろう… \nこの無知蒙昧の徒に、その刃の切れ味を示してみよ。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|弓は臆病者の得物。ヘラにも直接、そう告げた\nことがある。その点、おまえにはふさわしき武具と\n言えよう。だがその弓… ヘラが携えていた頃とは\n様子が異なるようだ。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Zagreus|コロナハトの姿が変化したことですか？\nこれは、「聖なる守護者」と呼ばれた人物の\n態のようです。姿が見えたのは一瞬でしたが、\n多才で、勇猛な人物のようでした。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|おまえがなぜそこまで冥府の武具にこだわるのか、\n理解に苦しむ。仰々しい態の数々を見いだそうと、\nわが力には到底及びもつかぬ。
@@ -235,27 +235,27 @@ LordHadesDefeated02|Lord Hades Defeated 02|Zagreus|だったら、さっさと�
 LordHadesChaosSurfaceQuestDefeat01|Lord Hades Chaos Surface Quest Defeat 01|Hades|我らも、我らが引き起こした事態もすべて、\n原初の混沌より生じるべきではなかった…
 LordHadesExtremeMeasuresDefeat01|Lord Hades Extreme Measures Defeat 01|Hades|…！な… なぜだ…！わが全力を注いでもなお、\nかなわぬというのか…？
 LordHadesMiscDefeat01|Lord Hades Misc Defeat 01|Hades|愚かな… この程度で私を制したなどとは、\nゆめゆめ思わぬことだ。
-LordHadesMiscDefeat02|Lord Hades Misc Defeat 02|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}若さにものを言わせおって…！
-LordHadesMiscDefeat03|Lord Hades Misc Defeat 03|Hades|{#DialogueItalicFormat}フン… {#PreviousFormat}話は、館に戻ってからだ…
+LordHadesMiscDefeat02|Lord Hades Misc Defeat 02|Hades|*…！*若さにものを言わせおって…！
+LordHadesMiscDefeat03|Lord Hades Misc Defeat 03|Hades|*フン… *話は、館に戻ってからだ…
 LordHadesMiscDefeat04|Lord Hades Misc Defeat 04|Hades|なぜだ… こんなはずでは…！
-LordHadesMiscDefeat05|Lord Hades Misc Defeat 05|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}よいか、おまえが目指す地上は… \n冥界よりも非情な世界だ…
-LordHadesMiscDefeat06|Lord Hades Misc Defeat 06|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}ばかな… 私も腕が落ちたか…
+LordHadesMiscDefeat05|Lord Hades Misc Defeat 05|Hades|*…！*よいか、おまえが目指す地上は… \n冥界よりも非情な世界だ…
+LordHadesMiscDefeat06|Lord Hades Misc Defeat 06|Hades|*…！*ばかな… 私も腕が落ちたか…
 LordHadesMiscDefeat07|Lord Hades Misc Defeat 07|Hades|よりによって我が息子に…\nこのような目に遭わされるとは…
 LordHadesMiscDefeat08|Lord Hades Misc Defeat 08|Hades|幾度私を倒そうと、おまえが我が息子である事実は\n変えられぬ…！
 LordHadesMiscDefeat09|Lord Hades Misc Defeat 09|Hades|またしても、我が息子に破れるとは…
 LordHadesMiscDefeat10|Lord Hades Misc Defeat 10|Hades|どうすれば… どうすればおまえは…
-LordHadesMiscDefeat11|Lord Hades Misc Defeat 11|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}よいか… このことは、くれぐれも… 他言無用だ…
-LordHadesMiscDefeat12|Lord Hades Misc Defeat 12|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}殺しても殺しても…\n何事もなかったかのように舞い戻りおって…！
+LordHadesMiscDefeat11|Lord Hades Misc Defeat 11|Hades|*…！*よいか… このことは、くれぐれも… 他言無用だ…
+LordHadesMiscDefeat12|Lord Hades Misc Defeat 12|Hades|*…！*殺しても殺しても…\n何事もなかったかのように舞い戻りおって…！
 LordHadesMiscDefeat13|Lord Hades Misc Defeat 13|Hades|幾度倒されようと、戻ってやる…\nおまえのようにな…！
 LordHadesMiscDefeat14|Lord Hades Misc Defeat 14|Hades|倒されようと戦いつづけるのは…\nおまえだけではない…
 LordHadesMiscDefeat15|Lord Hades Misc Defeat 15|Hades|なるほど…\nさすがのおまえも、何かしら学び取ったということか…
-LordHadesMiscDefeat16|Lord Hades Misc Defeat 16|Hades|{#DialogueItalicFormat}フン… {#PreviousFormat}\nオリュンポスの連中が、余計な手出しさえしなければ…
-LordHadesMiscDefeat17|Lord Hades Misc Defeat 17|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}またしても… 愚息に倒されるとは…
-LordHadesMiscDefeat18|Lord Hades Misc Defeat 18|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}よいか… この件は… 他言無用だ…！
-LordHadesMiscDefeat19|Lord Hades Misc Defeat 19|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}なぜ… おまえごときに…！
-LordHadesMiscDefeat20|Lord Hades Misc Defeat 20|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}なんぴとも… 逃れることはできぬ…
-LordHadesMiscDefeat21|Lord Hades Misc Defeat 21|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}行きたければ行け…\nその先に何があるか、おのれの目で見るがいい…
-LordHadesMiscDefeat22|Lord Hades Misc Defeat 22|Hades|{#DialogueItalicFormat}…！{#PreviousFormat}またしても、おまえに破れるとは…！
+LordHadesMiscDefeat16|Lord Hades Misc Defeat 16|Hades|*フン… *\nオリュンポスの連中が、余計な手出しさえしなければ…
+LordHadesMiscDefeat17|Lord Hades Misc Defeat 17|Hades|*…！*またしても… 愚息に倒されるとは…
+LordHadesMiscDefeat18|Lord Hades Misc Defeat 18|Hades|*…！*よいか… この件は… 他言無用だ…！
+LordHadesMiscDefeat19|Lord Hades Misc Defeat 19|Hades|*…！*なぜ… おまえごときに…！
+LordHadesMiscDefeat20|Lord Hades Misc Defeat 20|Hades|*…！*なんぴとも… 逃れることはできぬ…
+LordHadesMiscDefeat21|Lord Hades Misc Defeat 21|Hades|*…！*行きたければ行け…\nその先に何があるか、おのれの目で見るがいい…
+LordHadesMiscDefeat22|Lord Hades Misc Defeat 22|Hades|*…！*またしても、おまえに破れるとは…！
 LordHadesMiscPostEndingDefeat01|Lord Hades Misc Post Ending Defeat 01|Hades|…！おまえのその気骨は、紛れもなく母親譲り。\nかようにも強大な力を身につけるとは。
 LordHadesMiscPostEndingDefeat02|Lord Hades Misc Post Ending Defeat 02|Hades|…！どうやら… こたびはおまえに力及ばぬようだ…
 LordHadesMiscPostEndingDefeat03|Lord Hades Misc Post Ending Defeat 03|Hades|…！思うに任せぬこの身体…\n寄る年波には勝てぬか…
@@ -338,7 +338,7 @@ HadesMiscMeeting06|Hades Misc Meeting 06|Hades|どうだ？少しは頭が冷え
 HadesMiscMeeting06|Hades Misc Meeting 06|Zagreus|彼女たちとはもう、話をつけました。
 HadesMiscMeeting06|Hades Misc Meeting 06|Hades|父に公然と盾突くだけでは飽き足らず、妄言まで\n吐くとは… いずれにせよ、エリニュスたちとの\n定例会議の際、当人たちより詳細を聞くこととなろう。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|なんと！わが息子が帰ってきたぞ！見ろ、ケルベロス！おまえの友のご帰還だ！
-HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|{#DialogueItalicFormat}ケルベロスは、哀れむような目で王子を見た。
+HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|*ケルベロスは、哀れむような目で王子を見た。*
 HadesMiscMeeting07|Hades Misc Meeting 07|Zagreus|…ケルベロスを巻き込まないでください。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|ケルベロスの前で言えぬようなことを、\n私に言わねばよいだけのこと。\nおまえもこの忠犬の従順な態度に倣ってはどうだ？
 HadesMiscMeeting08|Hades Misc Meeting 08|Hades|見ろ、ケルベロス。\n私の言ったとおり、もう戻ってきおったぞ。

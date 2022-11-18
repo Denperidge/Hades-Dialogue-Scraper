@@ -67,8 +67,8 @@ AchillesAboutFurySisters01|Achilles About Fury Sisters 01|Zagreus|我担心的�
 AchillesAboutThanatos01|Achilles About Thanatos 01|Achilles|你看到塔纳托斯回来了吧，小伙子。他只要在，就总是一副焦虑不安的样子。
 AchillesAboutThanatos01|Achilles About Thanatos 01|Zagreus|我看到了，阿喀琉斯。我觉得因为我打算离开这里，所以他在生我的气。但这根本跟他没关系啊。
 AchillesAboutThanatos01|Achilles About Thanatos 01|Achilles|你可别这么说。当一个人发现他要好的朋友和他暴脾气的父亲吵架并打算离家出走，这可不是一件小事。我觉得他在这件事情上不知如何是好。对他友善一点，可以吗？
-AchillesAboutZagreus01|Achilles About Zagreus 01|Zagreus|嘿，阿喀琉斯，我……刚发现手稿中有这么一段，和塔纳托斯还有我有关……它说，应说{#DialogueItalicFormat}你{#PreviousFormat}写的，你觉得那啥……我是{#DialogueItalicFormat}鲜血{#PreviousFormat}之神？要我说，我觉得，我……应该什么神也不是……
-AchillesAboutZagreus01|Achilles About Zagreus 01|Achilles|别这样，小伙子。如果你是一位神祇，我很肯定，那你一定会是掌管{#DialogueItalicFormat}某一领域{#PreviousFormat}的神。书上说的只是我的观察，而且我诚挚的希望这些话对你没有冒犯？不过，仔细想一想，你的父亲，你的母亲，你的血石，以及你的处事方式……
+AchillesAboutZagreus01|Achilles About Zagreus 01|Zagreus|嘿，阿喀琉斯，我……刚发现手稿中有这么一段，和塔纳托斯还有我有关……它说，应说*你*写的，你觉得那啥……我是*鲜血*之神？要我说，我觉得，我……应该什么神也不是……
+AchillesAboutZagreus01|Achilles About Zagreus 01|Achilles|别这样，小伙子。如果你是一位神祇，我很肯定，那你一定会是掌管*某一领域*的神。书上说的只是我的观察，而且我诚挚的希望这些话对你没有冒犯？不过，仔细想一想，你的父亲，你的母亲，你的血石，以及你的处事方式……
 AchillesAboutSkelly01|Achilles About Skelly 01|Zagreus|阿喀琉斯，我一直想问你，院子里那个奇怪骷髅的事。是你的熟人吗？大概是雇来的吧？
 AchillesAboutSkelly01|Achilles About Skelly 01|Achilles|那个，骨头，是吧？你的逃跑计划开始的时候我们才见到他。如果我跟他有关系，那就奇怪了。他有说他认识我吗？也许他活着的时候就是我杀了他。
 AchillesAboutSkelly01|Achilles About Skelly 01|Zagreus|我也是一头雾水。看来我俩都搞不清楚他从哪来，怎么来的。你有头绪吗？倪克斯好像也不认识他。
@@ -89,19 +89,19 @@ AchillesAboutNyxChaosReunionQuest01|Achilles About Nyx Chaos Reunion Quest 01|Ac
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Zagreus|阿喀琉斯先生，你有没有印象我的父亲最近授权把马其顿塔乌-拉姆达战车转移到至福乐土？我遇到一位昔日的英雄忒修斯，他当时正驾着其中一辆在兜风。
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|我知道你说的那辆战车。那可不是普通的马其顿族产物，它显然是经过了狄德勒斯的亲手改造。俗世的武器根本与之无法匹敌。但... 别告诉我忒修斯戴上了那张面具?
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Zagreus|什么，你是说他的黄金面具吗？我看他当时是戴着的。我当时还想呢，真是够傻的。那面具有什么不一般的吗？
-AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，还真是这样！我觉得狄德勒斯也会同意你的看法。我听说他在制作那张面具和战衣的时候，故意做得很滑稽，就是想让那些狂妄自大的人在浑然不知的情况下出丑。这套装备一定很适合忒修斯，不是吗？
+AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|*哈哈哈*，还真是这样！我觉得狄德勒斯也会同意你的看法。我听说他在制作那张面具和战衣的时候，故意做得很滑稽，就是想让那些狂妄自大的人在浑然不知的情况下出丑。这套装备一定很适合忒修斯，不是吗？
 AchillesAboutWeaponEnchantments01|Achilles About Weapon Enchantments 01|Zagreus|阿喀琉斯，我想问问你更多有关我在用的这把武器的问题。它们可以变形！所以，它们会为了适应我而改变形态，同时还记得自己的前任主人，这样的吗？
 AchillesAboutWeaponEnchantments01|Achilles About Weapon Enchantments 01|Achilles|差不多吧。它们看上去就像有生命一样，对不对？仔细一想的话，我认为它们的存在甚至比你的父亲还要久远。某些武器形态已经见过了许多不同的持有者，你也应该不会是最后一位。
 AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|小伙子，你可能也知道，我和你使用的武器还有点关系，曾经一度也有一把。当然，我当时不知道它的厉害，好像有点离题了。它有时候……还保持着和我的关系。我就看到过一些幻象。
 AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|什么，您是说永恒之矛瓦拉塔？ 这……异乎寻常，而且有点令人担忧。 那么，您看到了什么？
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|是这样……我看到了一个伟大的，有胡子的战士。 比我高大，一头黑发。他的瓦拉塔的姿态与我所熟悉的任何姿态都有所不同。然后他走了。但是，这些词仍然挥之不去：{#DialogueItalicFormat}我透过绯红凤凰的眼睛看着你{#PreviousFormat}。
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|{#DialogueItalicFormat}我透过绯红凤凰的眼睛看着你{#PreviousFormat}…… 我不明白。 那会是什么意思？
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|还有，这也不是我第一次看到这些幻象。很久以前……我还看到过瓦拉塔的另一位主人，那就是{#DialogueItalicFormat}你{#PreviousFormat}。你的冥府兵器……肯定出自命运女神之手，它们早就知道挥舞自己的主人是谁。现在，它们要请你帮个忙。找到瓦拉塔，说出唤醒它的咒语，去吧。
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|是这样……我看到了一个伟大的，有胡子的战士。 比我高大，一头黑发。他的瓦拉塔的姿态与我所熟悉的任何姿态都有所不同。然后他走了。但是，这些词仍然挥之不去：*我透过绯红凤凰的眼睛看着你*。
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|*我透过绯红凤凰的眼睛看着你*…… 我不明白。 那会是什么意思？
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|还有，这也不是我第一次看到这些幻象。很久以前……我还看到过瓦拉塔的另一位主人，那就是*你*。你的冥府兵器……肯定出自命运女神之手，它们早就知道挥舞自己的主人是谁。现在，它们要请你帮个忙。找到瓦拉塔，说出唤醒它的咒语，去吧。
 AchillesRevealsGuanYuAspect02|Achilles Reveals Guan Yu Aspect 02|Zagreus|阿喀琉斯……！当我对着瓦拉塔说出那些话的时候，我感觉有什么东西觉醒了。那种形态是我从来没有见过的。一个名叫关羽的勇士挥舞着它。穿着华丽的衣服！就像你说的那样。这不像希腊人的名字，难道是……
-AchillesRevealsGuanYuAspect02|Achilles Reveals Guan Yu Aspect 02|Achilles|不，小伙子，我不这么认为。 我不知道这个关羽是谁，或者他来自哪里。 甚至是他来自什么{#DialogueItalicFormat}时代{#PreviousFormat}。 但是命运必然为他，还有你，制定过一个计划。 无论如何……我认为我在这方面的工作已经结束。 瓦拉塔为你做的很好，不是吗？ 我在活着时信任过它； 我现在还是一样信任它。 恐惧是弱者的专利。
+AchillesRevealsGuanYuAspect02|Achilles Reveals Guan Yu Aspect 02|Achilles|不，小伙子，我不这么认为。 我不知道这个关羽是谁，或者他来自哪里。 甚至是他来自什么*时代*。 但是命运必然为他，还有你，制定过一个计划。 无论如何……我认为我在这方面的工作已经结束。 瓦拉塔为你做的很好，不是吗？ 我在活着时信任过它； 我现在还是一样信任它。 恐惧是弱者的专利。
 AchillesAboutArthurAspect01|Achilles About Arthur Aspect 01|Zagreus|阿喀琉斯先生，我发现了斯第格思的隐藏形态！倪克斯这次向我透露了那些话，还有一位高贵的凡人领袖的幻象。那是一整支壮盛的装甲军团！他的名字叫做亚瑟。
 AchillesAboutArthurAspect01|Achilles About Arthur Aspect 01|Achilles|一位出类拔萃的凡人，挥舞着那把利剑？地狱武器奥秘深深，不是吗？不过你和斯第格思似乎形成了不错的关系。
-AchillesAboutRamaAspect01|Achilles About Rama Aspect 01|Zagreus|阿喀琉斯，我发现了索心弓的秘密，是阿尔忒弥斯女士亲口告诉我的。而且……看起来科罗纳赫特曾属于，或者说{#DialogueItalicFormat}以后会{#PreviousFormat}属于一个叫罗摩的人。这把弓就算是在众神之中，也是举世无双……
+AchillesAboutRamaAspect01|Achilles About Rama Aspect 01|Zagreus|阿喀琉斯，我发现了索心弓的秘密，是阿尔忒弥斯女士亲口告诉我的。而且……看起来科罗纳赫特曾属于，或者说*以后会*属于一个叫罗摩的人。这把弓就算是在众神之中，也是举世无双……
 AchillesAboutRamaAspect01|Achilles About Rama Aspect 01|Achilles|孩子，以我的经验来看，很多人都声称自己的弓举世无双。不过……至于这把古老的武器以后会怎么样，我不打算妄下评判。希望时机到来的时候，这个叫罗摩的家伙也能明智地使用这把弓，就像你一样。
 AchillesAboutBeowulfAspect01|Achilles About Beowulf Aspect 01|Zagreus|阿喀琉斯先生，我发现了混沌之盾的秘密……这多亏了卡俄斯本人的指点。以后会有个叫贝奥武夫的战士身披重铠，而它将会保护他免受各种各样的危险……甚至抵挡巨龙的攻击！凡人恐怕不会是龙的对手，是吧？
 AchillesAboutBeowulfAspect01|Achilles About Beowulf Aspect 01|Achilles|我觉得，这得取决于是什么样的龙，我听说世界各地的龙都不太一样。不过，这个发现确实很有意思，孩子。这个叫贝奥武夫的人……听起来他很清楚要如何使用防御性的装备。虽然我更在乎灵活性，不过各人都有各人的喜好。
@@ -109,12 +109,12 @@ AchillesAboutGilgameshAspect01|Achilles About Gilgamesh Aspect 01|Zagreus|米诺
 AchillesAboutGilgameshAspect01|Achilles About Gilgamesh Aspect 01|Achilles|你说的是吉尔伽美什吗……？这个名字我没听过，不过……这些隐藏形态一定会与未来或过去有关。我想知道，米诺斯的公牛为什么会帮助你呢？我还以为他是你的敌人，负责在至福乐土拦住你呢。
 AchillesAboutGilgameshAspect01|Achilles About Gilgamesh Aspect 01|Zagreus|哦，他是敌人，对忒修斯忠心耿耿，在战斗中也从不手下留情。不过和他那位搭档不一样，他似乎懂得尊重对手。
 AchillesAboutLuciferAspect01|Achilles About Lucifer Aspect 01|Zagreus|阿喀琉斯先生，我发现了狮鹫弩炮的秘密，是宙斯大人亲口告诉我的。这个弩炮以前的主人，是个长着翅膀的家伙，叫路西法……看起来，他和他的天主父亲也闹了矛盾，不知道他后来怎么样了。
-AchillesAboutLuciferAspect01|Achilles About Lucifer Aspect 01|Achilles|{#DialogueItalicFormat}呵{#PreviousFormat}！恐怕他们闹矛盾的年代，要比奥林匹斯众神反抗泰坦的统治要更加古老吧。不过，无论有没有翅膀，我听说过的人里都没有叫路西法的。要我猜的话，他和他父亲吵了一架之后，结果恐怕不怎么样。
+AchillesAboutLuciferAspect01|Achilles About Lucifer Aspect 01|Achilles|*呵*！恐怕他们闹矛盾的年代，要比奥林匹斯众神反抗泰坦的统治要更加古老吧。不过，无论有没有翅膀，我听说过的人里都没有叫路西法的。要我猜的话，他和他父亲吵了一架之后，结果恐怕不怎么样。
 AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Zagreus|阿喀琉斯，有的时候我不禁在想……如今我已经解锁了所有武器的隐藏形态……据我所知，这些人之间好像根本就没有任何关联，关羽、吉尔伽美什、罗摩、还有其他人……你知道为什么会是他们吗？
 AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Achilles|如果想弄清楚原因，我猜你只能问命运女神本人……从她们那里听到答案了。我自己也思考过，在所有人里你为什么会偏偏找到属于我的形态呢？你觉得，我有什么特别的呢？
 AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Zagreus|因为你是位伟大的战士啊！在你的时代赫赫有名！命运女神会把你的形态加入到这不断变换的武器之中，我一点都不觉得奇怪。
 AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Achilles|是啊，或许就是这样！我生前赫赫有名，或者说，恶名昭著，这都不重要。或许只是因为这些武器也希望自己能威名远扬，希望能在它们主人的手中，给人留下过目不忘的印象。
-AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Zagreus|你觉得这些冥府兵器只是希望能{#DialogueItalicFormat}为人所知{#PreviousFormat}？希望人们能讲起关于它们的传奇故事，类似这样的吗？
+AchillesAboutLegendaryAspects01|Achilles About Legendary Aspects 01|Zagreus|你觉得这些冥府兵器只是希望能*为人所知*？希望人们能讲起关于它们的传奇故事，类似这样的吗？
 AchillesAboutAchillesAspect01|Achilles About Achilles Aspect 01|Zagreus|我终于有机会能使用你的瓦拉塔了，先生。所以，这把武器是你以前用过的吗？它……让我心里充满了对战斗的渴望，比平时要更加强烈。我猜，这大概就是你的斗志吧。
 AchillesAboutAchillesAspect01|Achilles About Achilles Aspect 01|Achilles|一定要当心这种斗志，小伙子。虽然这把长矛我确实用得很顺手，但也正是因为它，我才会英年早逝，来到这个地方。这是我曾经的师父喀戎送给我的临别赠礼，他当时也是这么谆谆教导我的。希望你能比我更听得进劝告。
 AchillesAboutChironAspect01|Achilles About Chiron Aspect 01|Zagreus|阿喀琉斯，有件事想问一下。你知道索心弓科罗纳赫特曾是半人马喀戎的东西吗？因为其中一个形态是属于他的。你和他一起训练的时候，这把弓就已经不在他手里了，是吗……？
@@ -132,7 +132,7 @@ AchillesAboutLegendary01|Achilles About Legendary 01|Achilles|是啊，我是说
 AchillesVsHades01|Achilles Vs Hades 01|Zagreus|阿喀琉斯，我…有时候我有点怕，怕我父亲万一知道你一直在帮助我，他会…找你麻烦。
 AchillesVsHades01|Achilles Vs Hades 01|Achilles|不用担心我，小伙子。我生前给他带来的问题他到现在还没处理完呢。再说……他无法再从我这里夺走什么了。这是我和他之间的共同协定。
 AchillesVsHades02|Achilles Vs Hades 02|Zagreus|阿喀琉斯，我担心父亲会生你的气。他觉得你面对这一切时没有跟他站一边。我不想你有什么事。
-AchillesVsHades02|Achilles Vs Hades 02|Achilles|他没错，小伙子。我确实站边了。不过，至于你说的不想发生什么事…我知道你的意思，我不想听到你再说这样的话。明白了吗？你这样做，是因为有些事情，它{#DialogueItalicFormat}必须要{#PreviousFormat}发生。收起你的恐惧。
+AchillesVsHades02|Achilles Vs Hades 02|Achilles|他没错，小伙子。我确实站边了。不过，至于你说的不想发生什么事…我知道你的意思，我不想听到你再说这样的话。明白了吗？你这样做，是因为有些事情，它*必须要*发生。收起你的恐惧。
 AchillesVsAphrodite01|Achilles Vs Aphrodite 01|Zagreus|老师，阿弗洛狄忒女士请我帮她给你带个话。她说她很欣赏你，她还提到了一场战争。
 AchillesVsAphrodite01|Achilles Vs Aphrodite 01|Achilles|她欣赏我，真的吗？小伙子，有时候啊，我就觉得阿弗洛狄忒是众神当中最强大的。她的力量能督促我们行动。不管是爱，还是战争。又或者两者皆有。很高兴听到你带的话。
 AchillesVsArtemis01|Achilles Vs Artemis 01|Zagreus|阿喀琉斯，阿尔忒弥斯女士跟我说了。她似乎有点中意你。她想让我告诉你，你是最棒的！她真的没弄错。
@@ -146,7 +146,7 @@ AchillesAboutDemeter01|Achilles About Demeter 01|Zagreus|哦，只是……我�
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|所有的神灵都值得敬畏。得墨忒尔，她有能力赋予生命或夺取生命。 似乎她对后者更感兴趣。她是奥林匹斯山年龄最大的神，而你的父亲似乎对她特别讨厌。我不知道为什么。小心为妙。
 AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|阿喀琉斯，倪克斯和杜莎之间到底发生了什么？杜莎真的走了吗？
 AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|倪克斯把杜莎撵走了，小伙子。我很遗憾，我知道你很在乎她。我听说这件事情的时候，我也很震惊。我知道杜莎干活实在是过于卖力了，倪克斯对此也感到很担心，不过……我没想到她会这么做。
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|干活实在是过于卖力了……你真的觉得她是因为这个才被撵走的吗？我一直觉得这都是我的错。倪克斯不希望她和我说话，就好像她和我相比是个下等人一样！{#DialogueItalicFormat}啊{#PreviousFormat}，我到底该怎么办？
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|干活实在是过于卖力了……你真的觉得她是因为这个才被撵走的吗？我一直觉得这都是我的错。倪克斯不希望她和我说话，就好像她和我相比是个下等人一样！*啊*，我到底该怎么办？
 AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|听着……我不太清楚这件事情的来龙去脉，听起来你也不怎么了解。倪克斯很爱你，很尊重你。我相信，她也想弄清楚这么做会对你造成怎样的影响。
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Zagreus|你看到了吗，先生？杜莎回来了！倪克斯肯定是重新考虑过了。
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Achilles|肯定是这样，小伙子。杜莎回来了，我也很高兴。而且你知道吗……？我觉得她变了，她看起来气色不错。虽然说这未必是最好的局面，但我希望会带来不错的结果。
@@ -167,7 +167,7 @@ AchillesRunNotCleared01|Achilles Run Not Cleared 01|Zagreus|好吧，至少我�
 AchillesRunNotCleared01|Achilles Run Not Cleared 01|Achilles|别泄气，小伙子。我训练的不是你父亲，而是你。他是个神没错；但也只是个神。如果你能原谅我这小小的背叛。
 AchillesAboutPersephoneMeeting01|Achilles About Persephone Meeting 01|Zagreus|我找到她了，先生！我的母亲，她……还活着，都很好，不过……呃，我没办法在地上的世界呆得太久，我得再回去找她！
 AchillesAboutPersephoneMeeting01|Achilles About Persephone Meeting 01|Achilles|你真的逃出去了吗？你肯定已经……击败了你的父亲，这真是太了不起了，小伙子。不过，等等，她是个怎样的人？你遇到了什么事情？
-AchillesAboutPersephoneMeeting01|Achilles About Persephone Meeting 01|Zagreus|她……她太棒了！和父亲一点都不一样，更像是……{#DialogueItalicFormat}你{#PreviousFormat}，我猜有点像吧！不过呆在地上世界的时候，明明没有冥界的暗灵在阻挠我，但感觉就像是我的生命要被吸干了一样。
+AchillesAboutPersephoneMeeting01|Achilles About Persephone Meeting 01|Zagreus|她……她太棒了！和父亲一点都不一样，更像是……*你*，我猜有点像吧！不过呆在地上世界的时候，明明没有冥界的暗灵在阻挠我，但感觉就像是我的生命要被吸干了一样。
 AchillesAboutPersephoneMeeting01|Achilles About Persephone Meeting 01|Achilles|不过，你还是能有一点时间的！听起来你还有其它事情想要和她说。既然你能见到她一次……那你肯定能再找到她，没错吧？
 AchillesAboutPersephoneMeeting02|Achilles About Persephone Meeting 02|Achilles|怎么样了，小伙子？我已经有段时间没见到你了，希望是好事吧？
 AchillesAboutPersephoneMeeting02|Achilles About Persephone Meeting 02|Zagreus|我又见到她了，先生……我们谈了一些其它的事情，可我还是有很多问题要问她，毕竟我父亲肯定是不会回答的……
@@ -191,7 +191,7 @@ AchillesPostEpilogue01|Achilles Post Epilogue 01|Zagreus|这么说吧，我得�
 AchillesPostEpilogue01|Achilles Post Epilogue 01|Achilles|我也很开心。上一次参加筵席的时候，那时我还在忙着在阳间打仗，想想看这都多了多久了。不得不说，你的母亲真的很擅长辞令。她和所有的人都能聊到一起去，哈哈大笑……
 AchillesPostEpilogue01|Achilles Post Epilogue 01|Zagreus|她真的很了不起！不过……虽然她很有信心，但我不觉得她有稳操胜券的把握。因为如果她……如果她能早一些去找奥林匹斯众神的话……很多事情可能就会完全不一样了。
 AchillesPostEpilogue01|Achilles Post Epilogue 01|Achilles|不必纠结这个。我之前和倪克斯谈了谈，你母亲有她的理由，而且没人可以在知晓一切的情况下采取行动，不是吗？我们所拥有的，只有我们所知道的事情，以及我们的良心指引我们去做的。你的母亲已经做到了最好……这都多亏了你。
-AchillesPostEpilogue01|Achilles Post Epilogue 01|Zagreus|都多亏了我吗？我这一路上都一直有人帮我。比如说，如果没有{#DialogueItalicFormat}你{#PreviousFormat}的话，我根本不可能做得到，说不定我还在拿条破椅子腿当武器用呢。
+AchillesPostEpilogue01|Achilles Post Epilogue 01|Zagreus|都多亏了我吗？我这一路上都一直有人帮我。比如说，如果没有*你*的话，我根本不可能做得到，说不定我还在拿条破椅子腿当武器用呢。
 AchillesPostEpilogue01|Achilles Post Epilogue 01|Achilles|就算真是这样，那也会是把名震四方的椅子腿！总之……你马上要出发了，是吧？奥林匹斯众神应该会很愿意帮助你进行安保审查工作，不知道是不是这么称呼的。
 AchillesPostEpilogue01|Achilles Post Epilogue 01|Zagreus|是啊，我得走了，我很快就会回来见你。
 AchillesPostEpilogue02|Achilles Post Epilogue 02|Achilles|你做到的一切给我留下了深刻的印象，小伙子。我像你这么大……或者说，像你看起来这么大的时候……我想要的只有荣耀，只想永远被人铭记。看看我落得了什么下场！我很高兴你明白不该像我这样。
@@ -204,12 +204,12 @@ AchillesCodexProgress02|Achilles Codex Progress 02|Achilles|小伙子，读了�
 AchillesCodexProgress02|Achilles Codex Progress 02|Zagreus|凡人们一定也有自己的故事版本吧。关于自己死后会怎样，来了这里会怎样之类的。
 AchillesCodexProgress02|Achilles Codex Progress 02|Achilles|你说的没错。他们惧怕你的父亲，这可以理解。他们也怕你的狗。但是他们中的大部分人，对其他方面就几乎没有了解了。我认为就连他们的恐惧，也是出于无知。就像大部分的恐惧原因一样。
 AchillesCodexProgress03|Achilles Codex Progress 03|Zagreus|阿喀琉斯，老师…手稿里，你写的一些内容，里头说你在自己有血有肉还活着的时候…跟另一个人共享了自己的生命？
-AchillesCodexProgress03|Achilles Codex Progress 03|Achilles|{#DialogueItalicFormat}…啊{#PreviousFormat}。那个就是我的私事啦，小伙子。很久以前我就决定我的手稿只给我自己看。我的过去其实也没什么好提的…而且，我现在正执勤呢，不好意思了。
+AchillesCodexProgress03|Achilles Codex Progress 03|Achilles|*…啊*。那个就是我的私事啦，小伙子。很久以前我就决定我的手稿只给我自己看。我的过去其实也没什么好提的…而且，我现在正执勤呢，不好意思了。
 AchillesCodexProgress05|Achilles Codex Progress 05|Zagreus|呃，阿喀琉斯老师，关于你的手稿，我有些问题想问一下。这些都是你写的，但是我要通过自己的行动才可以理解其中的意思。凡人的手稿也是这样的吗？
 AchillesCodexProgress05|Achilles Codex Progress 05|Achilles|啊。小伙子，你要知道，我在你父亲的国度里已经呆了很久了。我所记录的知识，已经与我紧密相连，就像这根矛一样，看到了吗？久而久之，你就可以解开这种联系。如此一来，我的知识就为你所有了。不管多少。
 AchillesCodexProgress06|Achilles Codex Progress 06|Achilles|我有种非常古怪的感觉，小伙子。你不介意……我看看那卷手稿吧？
 AchillesCodexProgress06|Achilles Codex Progress 06|Zagreus|当然不介意，我一直在努力完善它的内容，已经基本完成了！
-AchillesCodexProgress06|Achilles Codex Progress 06|Achilles|{#DialogueItalicFormat}已经{#PreviousFormat}完成了！真是太了不起了……冥界的百科全书……我学到的、感受到的一切，都在这里。
+AchillesCodexProgress06|Achilles Codex Progress 06|Achilles|*已经*完成了！真是太了不起了……冥界的百科全书……我学到的、感受到的一切，都在这里。
 AchillesCodexProgress06|Achilles Codex Progress 06|Zagreus|不过，总会有更多可以学习、可以感受的东西，是吧？
 AchillesMysteryDoor01|Achilles Mystery Door 01|Zagreus|嗨，阿喀琉斯。我父亲的大厅，你应该不会让我进去的吧？我想在里头找一些东西。
 AchillesMysteryDoor01|Achilles Mystery Door 01|Achilles|你知道我会尽我所能去帮助你的，小伙子。只要我能够坚守在自己的岗位上就行了。如果有什么不对劲，我马上就会通知你的。
@@ -218,9 +218,9 @@ AchillesDrinking01|Achilles Drinking 01|Zagreus|下次吧，阿喀琉斯。就�
 AchillesBackstory01|Achilles Backstory 01|Zagreus|阿喀琉斯，你能不能…告诉我有关普特洛克勒斯的事情？你提到过你们关系不错。
 AchillesBackstory01|Achilles Backstory 01|Achilles|我们的关系再好不过了。我跟他的骨灰现在还在凡界上的某处混在一起呢。要怎么说呢，小伙子。我全心全意地爱着他。但他却早早离开了我。
 AchillesBackstory01|Achilles Backstory 01|Zagreus|那他肯定在冥界的什么地方…你没试过去找他吗？或者问问我父亲？
-AchillesBackstory01|Achilles Backstory 01|Achilles|{#DialogueItalicFormat}哈，哈哈。{#PreviousFormat}我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。你也知道外头是什么样，你很难找到路。我要告诉你。如果你在茫茫暗灵之中见到了普特洛克勒斯，请给他带去我的问候。
+AchillesBackstory01|Achilles Backstory 01|Achilles|*哈，哈哈。*我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。你也知道外头是什么样，你很难找到路。我要告诉你。如果你在茫茫暗灵之中见到了普特洛克勒斯，请给他带去我的问候。
 AchillesBackstory01B|Achilles Backstory 01 B|Zagreus|但你们现在都在冥界了啊！你不能去找他吗？或者跟我父亲修改一下你们的协定？
-AchillesBackstory01B|Achilles Backstory 01 B|Achilles|{#DialogueItalicFormat}哈，哈。{#PreviousFormat}我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。以后我再跟你细说吧。下次你在路上见到普特洛克勒斯的时候，替我多陪他聊聊天，可以吗？
+AchillesBackstory01B|Achilles Backstory 01 B|Achilles|*哈，哈。*我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。以后我再跟你细说吧。下次你在路上见到普特洛克勒斯的时候，替我多陪他聊聊天，可以吗？
 AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|进展得如何，小伙子？看你的表情。是有什么事吗？
 AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|就是…我在至福乐土，遇到了一个暗灵，他说他认识你。说他想你。你认识普特洛克勒斯吗，老师？
 AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|什么…我…认识。我认识普特洛克勒斯，他有没…他怎么样？
@@ -247,13 +247,13 @@ AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Achilles
 AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Zagreus|你发现了这件事情之后……决定为他报仇，你踏上了复仇之路。
 AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Achilles|确实如此。到最后，我也死在了他们手上，可我也给他们造成了惨重的伤亡。在那之后，那场战争很快就结束了。这件事真的很矛盾，如果你想早点结束战争，你就得拼了命地往死里杀人，而那个时候的我还没有意识到这一点。
 AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Zagreus|你是……有意寻死的吗？这样你就可以在这里与普特洛克勒斯相见了，是吗？
-AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Achilles|……我也不清楚，或许是吧。我只知道，我那个时候被愤怒冲昏了头脑。而来到这里之后，我的怒火很快就平息了，我感到……空虚。我再也没见过普特洛克勒斯，但我听说我的兄弟们完成了我的遗愿，把我的骨灰撒在了他的骨灰上。{#DialogueItalicFormat}<叹气> {#PreviousFormat}总之呢……！这酒挺好喝的。
+AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Achilles|……我也不清楚，或许是吧。我只知道，我那个时候被愤怒冲昏了头脑。而来到这里之后，我的怒火很快就平息了，我感到……空虚。我再也没见过普特洛克勒斯，但我听说我的兄弟们完成了我的遗愿，把我的骨灰撒在了他的骨灰上。*<叹气> *总之呢……！这酒挺好喝的。
 AchillesAboutPatroclusBackstory01|Achilles About Patroclus Backstory 01|Achilles|我猜我得赶紧回去安安静静地站岗了。至于那场战争呢，小伙子？以后再也别问我这件事了，好吗？
 AchillesAboutPatroclus05|Achilles About Patroclus 05|Achilles|你最近在旅途的过程中有没有见过他，小伙子？他还好吗？我指的是你在至福乐土遇到的那个阵亡战士。
 AchillesAboutPatroclus05|Achilles About Patroclus 05|Zagreus|我觉得，他看起来还不错。你和我说过很多……他之前并不知道的事情，包括他是怎么来到这里的，还有你的事情。
 AchillesAboutPatroclus05|Achilles About Patroclus 05|Achilles|所以说，你都告诉他了，而且没事先征求过我的同意！你，到底，和他说了什么？
 AchillesAboutPatroclus05|Achilles About Patroclus 05|Zagreus|阿喀琉斯，我……我很抱歉。我……我只和他说了你们的骨灰被混在一起了，就是这些事情！还有关于契约的事情。你之前和我说要向他传达你对他的爱与敬意！这些话没有让他感到喜悦，只让他问了许多问题！你说这些话不准告诉我父亲，可你没说不准告诉他！
-AchillesAboutPatroclus05|Achilles About Patroclus 05|Achilles|{#DialogueItalicFormat}<叹气>{#PreviousFormat}.……你说得没错，我……我应该早点和你说明白。或者就不应该和你说这些。既然你把话都说了，那这可能就是最好的结果了吧。我不是有意和你发脾气的，小伙子，我只是……我想说，谢谢你去找他。你是为了我们好。我只是希望你多加小心。
+AchillesAboutPatroclus05|Achilles About Patroclus 05|Achilles|*<叹气>*.……你说得没错，我……我应该早点和你说明白。或者就不应该和你说这些。既然你把话都说了，那这可能就是最好的结果了吧。我不是有意和你发脾气的，小伙子，我只是……我想说，谢谢你去找他。你是为了我们好。我只是希望你多加小心。
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Zagreus|那个至福乐土的阵亡战士让我给你带句话，阿喀琉斯先生。他说……他只说他想让你知道，他要放手一搏了。
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Achilles|放手一搏？这是他的原话吗？
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Zagreus|是啊，这……这句话有什么特别的含义吗？
@@ -281,7 +281,7 @@ MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Achilles|……只�
 AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Zagreus|先生，你回来啦！至福乐土那边怎么样，一切都还顺利吗？
 AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Achilles|事情很顺利，小伙子，和我希望得一样美好，担心的事情也都没发生。嘿，普特洛克勒斯管你叫“陌生人”，别太往心里去好吗？他对那些不怎么在乎的人，一直都没什么好脸色。
 AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Zagreus|来嘛，阿喀琉斯，我想听细节！你们两个怎么样了，不介意和我说说吧？
-AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Achilles|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，这么说吧，多亏你的努力，当我到达的时候，我们之间无需多言。他只是叫了我的名字，然后，我们……就顺其自然了，我们两人的灵魂融合在了一起。幽灵们徘徊留恋的样子让人悲哀，是吧？但其实也不总是如此。
+AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Achilles|*哈哈哈*，这么说吧，多亏你的努力，当我到达的时候，我们之间无需多言。他只是叫了我的名字，然后，我们……就顺其自然了，我们两人的灵魂融合在了一起。幽灵们徘徊留恋的样子让人悲哀，是吧？但其实也不总是如此。
 AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Zagreus|这可正是个好消息。有你在他身边，他看起来精神多了，你们肯定有很多事情要做吧。
 AchillesAfterMyrmidonReunionQuestComplete01|Achilles After Myrmidon Reunion Quest Complete 01|Achilles|我们要好好弥补失去的那些时间，如今，我们终于可以闲下来了。这种感觉很奇怪，因为我们之间大部分的回忆都是战争的时候留下的，而现在，我们可以在宁静的时光中创造新的回忆了。总之……希望你没事能来看看，好吗？
 AchillesAboutHadesBedroom01|Achilles About Hades Bedroom 01|Achilles|怎么了，小伙子，出了什么问题？我能帮什么忙吗？
@@ -321,7 +321,7 @@ AchillesWithMegaeraAboutMyrmidonReunionQuest01|Achilles With Megaera About Myrmi
 AchillesWithMegaeraAboutMyrmidonReunionQuest01|Achilles With Megaera About Myrmidon Reunion Quest 01|Megaera|这么说吧，如果你要离开这座圣殿的话，那么……你也不过只是个幽灵罢了，所以……也会有其它的幽灵，不过……要多保重，好吗？
 AchillesWithPersephone01|Achilles With Persephone 01|Persephone|……能认识你很荣幸，伟大的阿喀琉斯，我们的皇家护卫！如果这里发生了什么事情的话，我很高兴能知道该和谁谈谈。所以说，就是你锻炼了我儿子的战斗技巧吗？
 AchillesWithPersephone01|Achilles With Persephone 01|Achilles|确实如此，冥后殿下，他是个天资聪颖的学生。如果您也能看到他的进步就好了，您一定会感到非常骄傲的。
-AchillesWithPersephone01|Achilles With Persephone 01|Persephone|我{#DialogueItalicFormat}真的{#PreviousFormat}很荣幸！说真的，我还在奥林匹斯山上的时候，你的大名就已经如雷贯耳了。我早该想到，在那之后，你的传奇故事会口耳相传到更远的地方！
+AchillesWithPersephone01|Achilles With Persephone 01|Persephone|我*真的*很荣幸！说真的，我还在奥林匹斯山上的时候，你的大名就已经如雷贯耳了。我早该想到，在那之后，你的传奇故事会口耳相传到更远的地方！
 AchillesWithPersephone01|Achilles With Persephone 01|Achilles|哦，我可说不好……不过还是谢谢您，冥后殿下。
 AchillesChat01|Achilles Chat 01|Achilles|记住你的训练，小伙子。
 AchillesChat02|Achilles Chat 02|Achilles|我相信你可以做到。
@@ -360,7 +360,7 @@ AchillesGift02|Achilles Gift 02|Achilles|不会吧，这个是给我的？你真
 AchillesGift02|Achilles Gift 02|Zagreus|我只是觉得你确实配得上这些，阿喀琉斯。
 AchillesGift03|Achilles Gift 03|Achilles|什么，给我…？我不能接受这样的东西，小伙子，你明白的。
 AchillesGift03|Achilles Gift 03|Zagreus|拿着吧，阿喀琉斯，别死脑筋啦…这是你应得的。我俩谁也别说出去。
-AchillesGift04_A|Achilles Gift 04 A|Achilles|{#DialogueItalicFormat}啊{#PreviousFormat}，注意听我说，小伙子！我不想认为你只是单纯为了把这个带给我才回来。虽然我真的很高兴。
+AchillesGift04_A|Achilles Gift 04 A|Achilles|*啊*，注意听我说，小伙子！我不想认为你只是单纯为了把这个带给我才回来。虽然我真的很高兴。
 AchillesGift04_A|Achilles Gift 04 A|Zagreus|你一直在支持着我，阿喀琉斯。就算父亲冷眼待我。这没什么的。这恩情我永远报答不完。
 AchillesGift05_A|Achilles Gift 05 A|Achilles|小伙子，你这么大方，我…我不想让你会错意。我确实是单身，但是我的心早已有所属。从我还活着的时候就是这样。我希望你可以理解。
 AchillesGift05_A|Achilles Gift 05 A|Zagreus|我…明白你的意思，阿喀琉斯。不管怎么样我都想让你收下这个，只是…别再借酒消愁了，表面上有效，实际上只会让你更忧愁。

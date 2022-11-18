@@ -1,14 +1,14 @@
 Id|Description|Speaker|Text
 ZeusWithArtemis01|Zeus With Artemis 01|Zeus|Non appena sarai giunto sull'Olimpo, Zagreus, dovremo trovar modo di accasarti, non ti pare? Sei un buon partito, dopotutto! Troverai che quassù c'è molta scelta, fatte le debite eccezioni... prendi la mia scaltra figlia Artemide: non intende proprio scegliersi un compagno!
 ZeusWithArtemis01|Zeus With Artemis 01|Artemis|Proprio così, Zagreus: malgrado i molti scolpiti pretendenti che mi pressano in modo imbarazzante per la mia mano, per chissà quale ragione, preferisco di gran lunga passare il mio tempo da sola nei boschi o con le mie amiche ninfe!
-ArtemisWithZeus01|Artemis With Zeus 01|Artemis|{#DialogueItalicFormat}Tsk{#PreviousFormat}, {#DialogueItalicFormat}ehm{#PreviousFormat}, Zagreus... anziché salutarti come farei di solito, lascia che ti presenti il mio illustre, gentile, magnanimo e nobile padre, e più grande fra i tuoi zii, Zeus!
-ArtemisWithZeus01|Artemis With Zeus 01|Zeus|{#DialogueItalicFormat}Ehm{#PreviousFormat}, grazie dell'introduzione, figliola. Ora va', torna a giocare con le tue ninfette, o che so io, e lascia che assista il mio diletto nipotino! E lasciagli un po' del tuo flebile potere, se proprio devi.
-ArtemisWithPoseidon01|Artemis With Poseidon 01|Artemis|Ormai conoscerai mio padre e mio zio, no, Zagreus? Non so chi tra i due sia peggiore. {#DialogueItalicFormat}Ah{#PreviousFormat}, voglio dire... superiore! Superiore, benché tecnicamente trascorra gran parte del suo tempo in mare, al di sotto dell'Olimpo, dico bene, zio?
+ArtemisWithZeus01|Artemis With Zeus 01|Artemis|*Tsk*, *ehm*, Zagreus... anziché salutarti come farei di solito, lascia che ti presenti il mio illustre, gentile, magnanimo e nobile padre, e più grande fra i tuoi zii, Zeus!
+ArtemisWithZeus01|Artemis With Zeus 01|Zeus|*Ehm*, grazie dell'introduzione, figliola. Ora va', torna a giocare con le tue ninfette, o che so io, e lascia che assista il mio diletto nipotino! E lasciagli un po' del tuo flebile potere, se proprio devi.
+ArtemisWithPoseidon01|Artemis With Poseidon 01|Artemis|Ormai conoscerai mio padre e mio zio, no, Zagreus? Non so chi tra i due sia peggiore. *Ah*, voglio dire... superiore! Superiore, benché tecnicamente trascorra gran parte del suo tempo in mare, al di sotto dell'Olimpo, dico bene, zio?
 ArtemisWithPoseidon01|Artemis With Poseidon 01|Poseidon|Oh, Artemide, non c'è bisogno che tu mi lodi a tal punto di fronte a Zagreus! E comunque, star dentro, sopra, o sotto il mare non fa differenza, quando si è un dio! Voi due siete ancora giovani! Continuate così, e presto sarete grandi quasi quanto me!
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|Ehi, {#DialogueItalicFormat}ehm{#PreviousFormat}, Zagreus! C'è una cosa che mi stavo chiedendo, ma non voglio che tu fraintenda, d'accordo? Oh, no. È lei.
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Aphrodite|Oh, Artemide, ma sei proprio una frana! È il nostro piccolo deuccio dell'Oltretomba a farti questo effetto, o è solo a causa mia? {#DialogueItalicFormat}Hm-hm{#PreviousFormat}, ne verrai a capo a tempo debito, ne sono certa!
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|Senti, che stavo... {#DialogueItalicFormat}ugh{#PreviousFormat}, lascia perdere. Parleremo un'altra volta, immagino.
-ArtemisWithAphrodite02|Artemis With Aphrodite 02|Artemis|{#DialogueItalicFormat}Ehm{#PreviousFormat}, Zagreus? Malgrado i miei istinti di cacciatrice, pare che stavolta io non sia riuscita a sfuggire ad Afrodite, e... ha insistito perché ci presentassimo a te allo stesso tempo, per chissà quale ragione...
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|Ehi, *ehm*, Zagreus! C'è una cosa che mi stavo chiedendo, ma non voglio che tu fraintenda, d'accordo? Oh, no. È lei.
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Aphrodite|Oh, Artemide, ma sei proprio una frana! È il nostro piccolo deuccio dell'Oltretomba a farti questo effetto, o è solo a causa mia? *Hm-hm*, ne verrai a capo a tempo debito, ne sono certa!
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|Senti, che stavo... *ugh*, lascia perdere. Parleremo un'altra volta, immagino.
+ArtemisWithAphrodite02|Artemis With Aphrodite 02|Artemis|*Ehm*, Zagreus? Malgrado i miei istinti di cacciatrice, pare che stavolta io non sia riuscita a sfuggire ad Afrodite, e... ha insistito perché ci presentassimo a te allo stesso tempo, per chissà quale ragione...
 ArtemisWithAphrodite02|Artemis With Aphrodite 02|Aphrodite|Oh, suvvia, Artemide! Sarai più che abile nel nasconderti da un animale, magari, ma io ti vedo eccome. Perché non sei più onesta con te stessa, un'altra volta?
 ArtemisWithAres01|Artemis With Ares 01|Artemis|Zagreus, vorrei proprio che potessimo sentirti, così almeno potresti spiegare al nobile Ares che i miei poteri hanno scopi del tutto diversi dai suoi!
 ArtemisWithAres01|Artemis With Ares 01|Ares|Può darsi che le nostre abilità avessero fini differenti in origine, cara Artemide, ma che mi dici del risultato finale? Osserva che cosa accade quando si combinano nel nostro diletto consanguineo.
@@ -16,14 +16,14 @@ ArtemisWithAres02|Artemis With Ares 02|Artemis|Zagreus, speravo proprio di poter
 ArtemisWithAres02|Artemis With Ares 02|Ares|Ma mia cara Artemide, la caccia è un preludio alla guerra, non ti pare? Se i mortali non avessero imparato a cacciare, non sarebbero oggi altrettanto esperti nell'uccidersi a vicenda.
 ArtemisWithAres02|Artemis With Ares 02|Artemis|Senti, nobile Ares: che ne dici se ti concedo una mira migliore, e tu in cambio vai a importunare qualcun altro?
 ArtemisWithDionysus01|Artemis With Dionysus 01|Artemis|Oh, bene, sei tu, Zagreus! Tieni, lascia che ti offra qualche nuovo Dono insieme al nobile Dioniso, che di sicuro avrà piacere di stordirti di chiacchiere al mio posto!
-ArtemisWithDionysus01|Artemis With Dionysus 01|Dionysus|{#DialogueItalicFormat}Eh{#PreviousFormat}, mi dice che parlo a voce troppo alta, di lasciarla in pace, un sacco di cattiverie del genere. Che ci vuoi fare, dico bene?
+ArtemisWithDionysus01|Artemis With Dionysus 01|Dionysus|*Eh*, mi dice che parlo a voce troppo alta, di lasciarla in pace, un sacco di cattiverie del genere. Che ci vuoi fare, dico bene?
 ArtemisWithDemeter01|Artemis With Demeter 01|Artemis|Oh, ehilà, Zagreus. Stavo giusto facendo un vano tentativo di persuadere Demetra a darci un taglio, con tutta questa neve. I mortali cominciano a non poterne più, e onestamente anch'io non riesco più a cacciare come prima!
 ArtemisWithDemeter01|Artemis With Demeter 01|Demeter|I mortali sanno arrangiarsi, Artemide; è forse la loro unica qualità apprezzabile! In qualche modo supereranno questo nostro lungo inverno. Sarà meglio, dato che infuria a causa loro.
-ArtemisAboutRamaAspect01|Artemis About Rama Aspect 01|Artemis|Ehm, Zagreus, hai poi provato a fare due chiacchiere con Coronacht? Ricorda, devi dire {#DialogueItalicFormat}vedo la tua corda tendersi per mano del settimo avatar! {#PreviousFormat}Dovrebbe accadere qualcosa riguardo al sembiante di un qualche arciere divino, credo? Pensi di provarci presto, o no?
+ArtemisAboutRamaAspect01|Artemis About Rama Aspect 01|Artemis|Ehm, Zagreus, hai poi provato a fare due chiacchiere con Coronacht? Ricorda, devi dire *vedo la tua corda tendersi per mano del settimo avatar! *Dovrebbe accadere qualcosa riguardo al sembiante di un qualche arciere divino, credo? Pensi di provarci presto, o no?
 ArtemisAboutRamaAspect02|Artemis About Rama Aspect 02|Artemis|Ehi, ma guarda! Il mio messaggio ha fatto effetto! Riesco a vedere quell'arco lucente fin da quassù! Io non ho mai usato Coronacht, almeno non ancora. Ma se le Moire mi inviano visioni dei suoi possessori passati e futuri, be', immagino che prima o poi verrà il mio turno!
 ArtemisAboutOlympianReunionQuest01|Artemis About Olympian Reunion Quest 01|Zagreus|Ti ho trovata, Cacciatrice. Nel nome di Ade! Olimpo, questo è un messaggio ufficiale! Specialmente rivolto a te, divina Artemide!
 ArtemisAboutOlympianReunionQuest01|Artemis About Olympian Reunion Quest 01|Artemis|Un qualche tipo di messaggio indirizzato a me...! Oh, sembra ce ne sia uno per ognuno di noi, dunque. Per un attimo mi ero sentita un po' speciale! E ora mi costringi a controllare cos'hanno ricevuto gli altri. Grandioso!
-ArtemisPostEpilogue01|Artemis Post Epilogue 01|Artemis|Ammetto di essermi un pochino divertita nel farti visita insieme a tutti gli altri! Ho incontrato te, zio Ade... perfino il grande Achille! Non mi va ancora giù che tu ci abbia ingannati, ma... {#DialogueItalicFormat}eh{#PreviousFormat}! Mi passerà, col tempo. Intanto ti servirà ancora il mio aiuto, no?
+ArtemisPostEpilogue01|Artemis Post Epilogue 01|Artemis|Ammetto di essermi un pochino divertita nel farti visita insieme a tutti gli altri! Ho incontrato te, zio Ade... perfino il grande Achille! Non mi va ancora giù che tu ci abbia ingannati, ma... *eh*! Mi passerà, col tempo. Intanto ti servirà ancora il mio aiuto, no?
 ArtemisAboutZeus01|Artemis About Zeus 01|Artemis|Ah, il buon vecchio padre Zeus ti ha fatto dono delle sue saette, è così? Si prende sempre cura di tutti, questo è certo.
 ArtemisAboutPoseidon01|Artemis About Poseidon 01|Artemis|Zio Poseidone ti ha dato la sua benedizione, eh? E pensare che quel grosso babbeo è fratello di tuo padre. Mi dicono di mostrare rispetto quando è nei paraggi, ma è proprio dura.
 ArtemisAboutAthena01|Artemis About Athena 01|Artemis|Hai già incontrato Atena, suppongo? Non scambierei mai il mio arco con le sue corazze pompose, ma... a ciascuno il suo, immagino.
@@ -57,19 +57,19 @@ ArtemisAboutSpearWeapon01|Artemis About Spear Weapon 01|Artemis|Ehi, quella è V
 ArtemisAboutAchillesAspect01|Artemis About Achilles Aspect 01|Artemis|Ehi, quella non sarà mica la lancia un tempo brandita dal grande Achille, vero?! Quella forma è inconfondibile. Hai la minima idea di quanti mortali siano stati massacrati da quell'aggeggio? Ne ha visti di campi di battaglia!
 ArtemisAboutChironAspect01|Artemis About Chiron Aspect 01|Artemis|Quello non è il Coronacht che conosco io, è... l'arco del centauro Chirone? Era sempre Coronacht, allora? Si direbbe che qualsiasi arco decente non fosse che lui in un'altra veste! A parte il mio, ovviamente.
 ArtemisAboutHeraAspect01|Artemis About Hera Aspect 01|Artemis|Ehi, quello è l'arco della mia matrigna Era, non è così? Il suo sembiante di Coronacht! Lo riconosco dai... minacciosi teschi che lo ricoprono, a dirla tutta. È proprio nel suo stile, credimi.
-ArtemisAboutFistWeapon01|Artemis About Fist Weapon 01|Artemis|Quando sei riuscito a mettere le mani sui Magli Gemelli di Malphon? O a metterci le mani {#DialogueItalicFormat}dentro{#PreviousFormat}, dovrei dire! Ho sentito che una volta Demetra ci ha dato a suo padre un cazzotto dritto sul muso! La capisci, scommetto.
+ArtemisAboutFistWeapon01|Artemis About Fist Weapon 01|Artemis|Quando sei riuscito a mettere le mani sui Magli Gemelli di Malphon? O a metterci le mani *dentro*, dovrei dire! Ho sentito che una volta Demetra ci ha dato a suo padre un cazzotto dritto sul muso! La capisci, scommetto.
 ArtemisAboutGunWeapon01|Artemis About Gun Weapon 01|Artemis|Ma tu guarda, imbracci Exagryph, il Rostro d'Adamante! Un po' troppo complessa e rumorosa come arma per la caccia, se vuoi la mia opinione, ma ehi, a ciascuno il suo.
-ArtemisRevealsRamaAspect01|Artemis Reveals Rama Aspect 01|Artemis|Ascolta, Zagreus, ammetto che è una cosa piuttosto strana perfino per me, ma ho un messaggio... per il tuo arco! Proprio così. Va' da Coronacht, e con voce ferma e perentoria digli: {#DialogueItalicFormat}vedo la tua corda tendersi per mano del settimo avatar! {#PreviousFormat}Fammi sapere come va, ok?
+ArtemisRevealsRamaAspect01|Artemis Reveals Rama Aspect 01|Artemis|Ascolta, Zagreus, ammetto che è una cosa piuttosto strana perfino per me, ma ho un messaggio... per il tuo arco! Proprio così. Va' da Coronacht, e con voce ferma e perentoria digli: *vedo la tua corda tendersi per mano del settimo avatar! *Fammi sapere come va, ok?
 ArtemisAboutKeepsake01|Artemis About Keepsake 01|Artemis|Ehi, è il mio Strale Adamantino quello che porti con te! Di norma mi serve ad abbattere le prede, ma nel tuo caso mi rende più facile fiutare la tua pista, anche al buio. E ora che ti ho scovato... prendi!
 ArtemisAboutZagreus01|Artemis About Zagreus 01|Artemis|Il tuo nome significa \"grande cacciatore\", Zagreus! Tua madre Nyx si aspettava che un giorno ti avrei dato un consiglio o due, evidentemente!
 ArtemisRunCleared01|Artemis Run Cleared 01|Artemis|Ehi, aspetta un momento, Zagreus, avrei giurato che... c'eri così vicino, prima, ma ora sei di nuovo laggiù? Ah, sarai inciampato a un passo dalla vittoria, immagino. Succede di continuo. Ti tireremo fuori da lì, vedrai!
 ArtemisLowHealth01|Artemis Low Health 01|Artemis|Ehi, tutto bene laggiù, Zagreus? Non vorrei che mi morissi un attimo dopo esserci incontrati.
-ArtemisLowHealth02|Artemis Low Health 02|Artemis|{#DialogueItalicFormat}Oh{#PreviousFormat}! Ma guardati, sei messo proprio male. Tu resta concentrato sulla caccia, vedrai che aiuterà a tenere a bada il dolore.
+ArtemisLowHealth02|Artemis Low Health 02|Artemis|*Oh*! Ma guardati, sei messo proprio male. Tu resta concentrato sulla caccia, vedrai che aiuterà a tenere a bada il dolore.
 ArtemisLowHealth03|Artemis Low Health 03|Artemis|Senti, solo la dea della caccia, non della medicina, perciò... non so se questo potrà aiutarti, ma prendi lo stesso!
 ArtemisLowHealth04|Artemis Low Health 04|Artemis|La caccia non sta andando granché bene, a quanto vedo. Ma forse siamo ancora in tempo per cambiarti la giornata.
 ArtemisLowHealth05|Artemis Low Health 05|Artemis|Be', un lato positivo di tutto il sangue che hai perso è che mi è stato ancor più semplice rintracciarti, stavolta!
 ArtemisLegendaryPickUp01|Artemis Legendary Pick Up 01|Artemis|Bene, tieniti pronto, Zagreus, perché di rado condivido i miei più grandi segreti di caccia come sto per fare adesso.
-ArtemisLegendaryPickUp02|Artemis Legendary Pick Up 02|Artemis|D'accordo, non c'è bisogno di continuare a giocare con la preda. Eccoti uno dei miei doni più potenti, {#DialogueItalicFormat}vai{#PreviousFormat}!
+ArtemisLegendaryPickUp02|Artemis Legendary Pick Up 02|Artemis|D'accordo, non c'è bisogno di continuare a giocare con la preda. Eccoti uno dei miei doni più potenti, *vai*!
 ArtemisLegendaryPickUp03|Artemis Legendary Pick Up 03|Artemis|Non rivelo le mie migliori tecniche di caccia a chicchessia, Zagreus, perciò farai meglio ad apprezzare il gesto e a farne buon uso per uscire da lì!
 ArtemisLegendaryPickUp04|Artemis Legendary Pick Up 04|Artemis|Che ne dici di non correre rischi stavolta, Zagreus? Tieni, queste sono le migliori frecce al mio arco. Non sprecarle!
 ArtemisFirstPickUp|Artemis First Pick Up|Zagreus|C'è un solo arciere divino che io conosca. Parecchi, a dire il vero. Be', poco importa! Nel nome di Ade! Olimpo? Accetto questo messaggio.
@@ -77,7 +77,7 @@ ArtemisFirstPickUp|Artemis First Pick Up|Artemis|Ho sentito parlare di te. Sta' 
 ArtemisMiscPickup01|Artemis Misc Pickup 01|Artemis|Ehi. Non sei solo. Non sei solo laggiù, capito? Ecco, lascia che te lo dimostri.
 ArtemisMiscPickup03|Artemis Misc Pickup 03|Artemis|I morti devono essere un bersaglio piuttosto facile, non credi? Vediamo come riuscirai a ridurli, dopo aver scelto fra questi.
 ArtemisMiscPickup04|Artemis Misc Pickup 04|Artemis|Sei impegnato, Zagreus? Pensavo che magari potessi essere interessato a qualcuno dei miei vecchi trucchi di caccia.
-ArtemisMiscPickup05|Artemis Misc Pickup 05|Artemis|Come va la caccia stavolta? Tutto bene? Scommetto che potrebbe andare meglio, perciò, {#DialogueItalicFormat}ehm{#PreviousFormat}, ecco qua! Magari questo può esserti d'aiuto.
+ArtemisMiscPickup05|Artemis Misc Pickup 05|Artemis|Come va la caccia stavolta? Tutto bene? Scommetto che potrebbe andare meglio, perciò, *ehm*, ecco qua! Magari questo può esserti d'aiuto.
 ArtemisMiscPickup06|Artemis Misc Pickup 06|Artemis|Facciamo una piccola battuta di caccia, ti va? Farai quasi tutto tu, ma ehi, sarò con te in spirito!
 ArtemisMiscPickup07|Artemis Misc Pickup 07|Artemis|Mi spiace che tu sia ancora bloccato laggiù. Capita anche a me di sentirmi in trappola, ma una buona caccia mi rimette sempre in sesto.
 ArtemisMiscPickup08|Artemis Misc Pickup 08|Artemis|Quando vado a caccia la mia mente è sgombra, e niente può frapporsi tra me e il mio bersaglio. A ogni modo, eccoti un aiuto in caso non valga lo stesso per te!
@@ -89,7 +89,7 @@ ArtemisMiscPickup13|Artemis Misc Pickup 13|Artemis|Ehi, Zagreus, buona fortuna l
 ArtemisMiscPickup14|Artemis Misc Pickup 14|Artemis|La caccia richiede assoluta concentrazione, perciò ti lascerò in pace e... mi limiterò a seguire ogni tua mossa in silenzio da qui...
 ArtemisMiscPickup15|Artemis Misc Pickup 15|Artemis|Se vuoi fuggire da quel posto... non devi dare ascolto a una parola di quello che dico, a essere sinceri, ma... le mie benedizioni dovrebbero comunque esserti d'aiuto.
 ArtemisMiscPickup16|Artemis Misc Pickup 16|Artemis|Ebbene, Zagreus, riuscirai a evadere stavolta, o dovrò continuare a cacciare da sola per adesso? Mi sa che è la seconda?
-ArtemisMiscPickup17|Artemis Misc Pickup 17|Artemis|Mi pare che possa servirti un po' d'aiuto, perciò diamo un'occhiata nel mio bel sacco di doni e, {#DialogueItalicFormat}oh{#PreviousFormat}! Questo fa proprio al caso tuo!
+ArtemisMiscPickup17|Artemis Misc Pickup 17|Artemis|Mi pare che possa servirti un po' d'aiuto, perciò diamo un'occhiata nel mio bel sacco di doni e, *oh*! Questo fa proprio al caso tuo!
 ArtemisMiscPickup18|Artemis Misc Pickup 18|Artemis|Nella caccia, tutto si riduce a uccidere o essere uccisi. Eccetto noi immortali, che dobbiamo convivere con la vergogna del fallimento... il che è anche peggio?
 ArtemisMiscPickup19|Artemis Misc Pickup 19|Artemis|Quei reietti che ti danno la caccia per tutto l'Oltretomba non si stancano proprio mai, eh? Be', tu continua a farli fuori, allora!
 ArtemisMiscPickup20|Artemis Misc Pickup 20|Artemis|Ti serve una compagna di caccia, Zagreus? Non che io possa raggiungerti laggiù, o sentirti rispondere, se è per questo, ma in ogni caso, serviti pure.
@@ -118,7 +118,7 @@ ArtemisMiscPickupExtra11|Artemis Misc Pickup Extra 11|Artemis|Hai visto quanto m
 ArtemisMiscPickupExtra12|Artemis Misc Pickup Extra 12|Artemis|Ho qui un Dono per te, Zagreus, ma assicurati di non farmi fare brutta figura.
 ArtemisMiscPickupExtra13|Artemis Misc Pickup Extra 13|Artemis|Tempismo perfetto, Zagreus. Ora fa' il pieno e prosegui.
 ArtemisMiscPickupExtra14|Artemis Misc Pickup Extra 14|Artemis|Se vuoi sopravvivere là fuori, i miei Doni sono l'unica ricetta sicura.
-ArtemisMiscPickupExtra15|Artemis Misc Pickup Extra 15|Artemis|Non lasciare che tuo padre o {#DialogueItalicFormat}chiunque {#PreviousFormat}altro ti metta i piedi in testa, Zagreus.
+ArtemisMiscPickupExtra15|Artemis Misc Pickup Extra 15|Artemis|Non lasciare che tuo padre o *chiunque *altro ti metta i piedi in testa, Zagreus.
 ArtemisMiscPickupExtra16|Artemis Misc Pickup Extra 16|Artemis|Scommetto che posso aiutarti a evadere dal regno di tuo padre in men che non si dica, Zagreus!
 ArtemisMiscPickupRare01|Artemis Misc Pickup Rare 01|Artemis|Ho deciso di portarmi dietro qualcosa di speciale per questa battuta di caccia, se te la senti!
 ArtemisMiscPickupRare02|Artemis Misc Pickup Rare 02|Artemis|Abbiamo giocato abbastanza con le nostre prede, Zagreus. È ora di dargli il colpo di grazia, che ne dici?
@@ -136,17 +136,17 @@ ArtemisLootBought02|Artemis Loot Bought 02|Artemis|Immagino che per questo tu ab
 ArtemisLootBought03|Artemis Loot Bought 03|Artemis|A quanto pare anche laggiù nell'Oltretomba l'attrezzatura da caccia non è affatto a buon mercato!
 ArtemisLootBought04|Artemis Loot Bought 04|Artemis|Se hai finito di fare compere, Zagreus, che ne dici di buttarci di nuovo nella mischia?
 ArtemisLootBought05|Artemis Loot Bought 05|Artemis|Hai fiutato un ottimo affare laggiù nel negozio di Caronte, ma che ne diresti se ti offrissi il modo di fare un colpo ancora più grosso?
-ArtemisRejection01|Artemis Rejection 01|Artemis|Perché mai ti schieri con...?! {#DialogueItalicFormat}Ugh{#PreviousFormat}, perché mi scomodo tanto per un dio minore?!
+ArtemisRejection01|Artemis Rejection 01|Artemis|Perché mai ti schieri con...?! *Ugh*, perché mi scomodo tanto per un dio minore?!
 ArtemisRejection02|Artemis Rejection 02|Artemis|Pensavo avessimo un accordo, Zagreus, ma questa non sarebbe la prima volta che mi sbaglio su qualcuno.
-ArtemisRejection03|Artemis Rejection 03|Artemis|{#DialogueItalicFormat}Oh{#PreviousFormat}, quindi è questa la tua decisione! Forse sei più simile ai miei parenti di quanto non voglia ammettere.
-ArtemisRejection04|Artemis Rejection 04|Artemis|Bel colpo, Zagreus! Mi hai presa in pieno. Ora prova a prendere {#DialogueItalicFormat}questo{#PreviousFormat}.
+ArtemisRejection03|Artemis Rejection 03|Artemis|*Oh*, quindi è questa la tua decisione! Forse sei più simile ai miei parenti di quanto non voglia ammettere.
+ArtemisRejection04|Artemis Rejection 04|Artemis|Bel colpo, Zagreus! Mi hai presa in pieno. Ora prova a prendere *questo*.
 ArtemisRejection05|Artemis Rejection 05|Artemis|Non giocare coi miei sentimenti, Zagreus. La mia lealtà si conquista duramente e si perde in un attimo.
 ArtemisRejection06|Artemis Rejection 06|Artemis|Hai mancato un bersaglio facile, Zagreus. Io non farò lo stesso. Sta' a vedere.
 ArtemisRejection07|Artemis Rejection 07|Artemis|Ah, ma bene! Mi stavo giusto dimenticando come ci si sente con una freccia piantata nella schiena!
 ArtemisRejection08|Artemis Rejection 08|Artemis|Ti sembro forse uno zerbino, Zagreus? È così che mi vedi?
 ArtemisRejection09|Artemis Rejection 09|Artemis|Oh, ma tu guarda, è proprio ora di un po' di tiro al bersaglio! Comincia a correre, Zagreus.
 ArtemisRejection10|Artemis Rejection 10|Artemis|Che cosa ti ha fatto credere che avrei tollerato un comportamento simile?
-ArtemisRejection11|Artemis Rejection 11|Artemis|{#DialogueItalicFormat}Ah-hah{#PreviousFormat}, sapevo che mi avresti giocato questo vecchio trucchetto, Zagreus. Sono pronta ad affrontarti.
+ArtemisRejection11|Artemis Rejection 11|Artemis|*Ah-hah*, sapevo che mi avresti giocato questo vecchio trucchetto, Zagreus. Sono pronta ad affrontarti.
 ArtemisRejection12|Artemis Rejection 12|Artemis|I tuoi tradimenti si stanno facendo prevedibili, Zagreus! Comincia a correre, allora.
 ArtemisRejection13|Artemis Rejection 13|Artemis|Oh, davvero? È così che mi ripaghi? Voi dèi dell'Oltretomba siete tutti uguali!
 ArtemisMakeUp01|Artemis Make Up 01|Artemis|E va bene, non sono più arrabbiata, o almeno non troppo, ma stai attento quando hai a che fare con me, è chiaro?
@@ -163,7 +163,7 @@ ArtemisMakeUp11|Artemis Make Up 11|Artemis|Potrei continuare a darti la caccia f
 ArtemisGift01|Artemis Gift 01|Zagreus|Divina Artemide, spero vorrai accettare quest'offerta per tutta la tua gentilezza e disponibilità.
 ArtemisGift01|Artemis Gift 01|Artemis|Ehi, grazie davvero, ed eccoti in cambio qualcosa che fa proprio al caso tuo. È solo un pensiero, d'accordo?
 ArtemisGift02|Artemis Gift 02|Zagreus|Mia signora Artemide! Questo è niente in confronto al tuo favore e alla tua grazia.
-ArtemisGift02|Artemis Gift 02|Artemis|Ehi, aspetta, un'offerta per me? Io, {#DialogueItalicFormat}oh{#PreviousFormat}... sei molto gentile, ma torniamo alla caccia ora, che ne dici?
+ArtemisGift02|Artemis Gift 02|Artemis|Ehi, aspetta, un'offerta per me? Io, *oh*... sei molto gentile, ma torniamo alla caccia ora, che ne dici?
 ArtemisGift03|Artemis Gift 03|Zagreus|Dama Artemide! Sono in debito con te, per la forza e l'astuzia di cui mi hai fatto dono.
 ArtemisGift03|Artemis Gift 03|Artemis|Ascolta, Zagreus, non so proprio che dire, a parte... grazie!
 ArtemisGift04|Artemis Gift 04|Zagreus|Mia signora Artemide, il tuo favore mi è stato inestimabile. Non esiste cacciatrice più eccelsa di te, sopra o sotto la terra.
@@ -175,14 +175,14 @@ ArtemisGift06|Artemis Gift 06|Artemis|Senti... mi piace essere venerata quanto a
 ArtemisGift07|Artemis Gift 07|Zagreus|So che non ne sarete certo a corto sull'Olimpo, dama Artemide, ma immagino sia molto raro che l'Ambrosia si faccia strada da lì a qui e ritorno. Che posso dire? Mi rendi fiero di essere un membro della famiglia.
 ArtemisGift07|Artemis Gift 07|Artemis|Non ho mai sentito di poter davvero essere me stessa su questa montagna, sai? Tutto questo darsi arie e battibeccare... alla fine me ne sto per conto mio nei boschi, perlopiù. Può darsi che tu mi capisca meglio di molti altri, chissà. Di certo stai facendo un tentativo. Grazie.
 AphroditeWithArtemis01|Aphrodite With Artemis 01|Aphrodite|Ehilà, pulcino! Ti ho portato qui la cara Artemide, che a quanto pare è troppo presa dalla caccia per coltivare le doti sociali necessarie a farsi viva senza aiuto!
-AphroditeWithArtemis01|Aphrodite With Artemis 01|Artemis|\"Doti sociali\", le chiama lei! Andare in giro {#DialogueItalicFormat}così {#PreviousFormat}conciata! Di certo sai che so come trovarti quando è necessario, Zagreus. Quello che non so è come liberarmi di Afrodite.
+AphroditeWithArtemis01|Aphrodite With Artemis 01|Artemis|\"Doti sociali\", le chiama lei! Andare in giro *così *conciata! Di certo sai che so come trovarti quando è necessario, Zagreus. Quello che non so è come liberarmi di Afrodite.
 DionysusWithArtemis01|Dionysus With Artemis 01|Dionysus|Zag, bello mio! Stavo giusto provando a convincere la nostra buona amica Artemide a presenziare finalmente a uno dei miei festini, ma... guarda il caso, pare sia già occupata. Qualcosa riguardo a una battuta di caccia?
-DionysusWithArtemis01|Dionysus With Artemis 01|Artemis|Esatto, nobile Dioniso! Una {#DialogueItalicFormat}battuta di caccia {#PreviousFormat}che richiede {#DialogueItalicFormat}totale {#PreviousFormat}silenzio e concentrazione, per cui, se vuoi scusarmi...?
+DionysusWithArtemis01|Dionysus With Artemis 01|Artemis|Esatto, nobile Dioniso! Una *battuta di caccia *che richiede *totale *silenzio e concentrazione, per cui, se vuoi scusarmi...?
 AthenaWithArtemis01|Athena With Artemis 01|Athena|Hai un momento, Zagreus? Una delle mie parenti mi accusa di rubarti troppo tempo. L'ho perciò invitata a contattarti di persona.
 AthenaWithArtemis01|Athena With Artemis 01|Artemis|Ehm, salve, Zagreus... Atena sta facendo una scenata per dimostrare qualcosa, credo, anche se non so bene cosa. In ogni caso, è bello vederti.
 AthenaWithArtemis01|Athena With Artemis 01|Athena|Ebbene, direi che la questione è risolta. Temo che simili interazioni non siano inusuali nella nostra famiglia; ma che cos'è una famiglia senza i suoi difetti?
 PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|Di me devi sapere, nipote, che quassù vado d'accordo con tutti, nessuno escluso! Un talento raro, a quanto pare! Prendi mia nipote Artemide: non sa stare neppure al più innocuo scherzo! Non ti sarà facile trovare marito con un broncio simile, ragazza!
 PoseidonWithArtemis01|Poseidon With Artemis 01|Artemis|Oh, sarebbe una disgrazia, non farmici pensare, zio. Mi chiedo quale può mai essere la causa di questo mio perpetuo malumore. Forse lo sa Zagreus, che ne dici?
-PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|{#DialogueItalicFormat}Ahahah{#PreviousFormat}! Visto che intendo, nipote?
+PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|*Ahahah*! Visto che intendo, nipote?
 DemeterWithArtemis|Demeter With Artemis|Demeter|Oh, Zagreus, la mia dolce Artemide mi stava giusto informando di quanto sia in pensiero per te! Sono certa che l'apprezzerebbe se potessimo dare un contributo congiunto alla tua causa.
 DemeterWithArtemis|Demeter With Artemis|Artemis|In pensiero? Nessuno è in pensiero qui, Zagreus, ho piena fiducia in te! Non ti serve l'aiuto di nessuno, puoi farcela benissimo da solo! Ma giusto in caso contrario, cioè, non si sa mai, ecco... ehm, prendi questo.

@@ -1,6 +1,6 @@
 Id|Description|Speaker|Text
-ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect 01 A|Chaos|我发现，你还没有对那件叫埃癸斯的全视圣物说出那句咒语。如果你不愿意遵守命运女神的安排，随你便就好。不过如果你改变主意的话，记得对它说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中。”{#PreviousFormat}
-ChaosAboutBeowulfAspect01|Chaos About Beowulf Aspect 01|Chaos|你还没说出我告诉你的那句唤醒咒语，是吗？或者说，你只是单纯地不想让我看到结果而已。不过终有一日，我是会看到它的。记住，冥王之子，对那件全视圣器说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中。”{#PreviousFormat}
+ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect 01 A|Chaos|我发现，你还没有对那件叫埃癸斯的全视圣物说出那句咒语。如果你不愿意遵守命运女神的安排，随你便就好。不过如果你改变主意的话，记得对它说：*“我看到你傲然屹立在巨蛇的烈焰之中。”*
+ChaosAboutBeowulfAspect01|Chaos About Beowulf Aspect 01|Chaos|你还没说出我告诉你的那句唤醒咒语，是吗？或者说，你只是单纯地不想让我看到结果而已。不过终有一日，我是会看到它的。记住，冥王之子，对那件全视圣器说：*“我看到你傲然屹立在巨蛇的烈焰之中。”*
 ChaosAboutBeowulfAspect02|Chaos About Beowulf Aspect 02|Chaos|在一切无穷无尽的可能性中，冥王之子来到了我的面前，拿着我的全视圣器。而它的形象却属于某个尚未出生的战士，他日后会颇负盛名，整个北境称他为贝奥武夫。这真是太奇妙了。
 ChaosSurfaceQuestComplete|Chaos Surface Quest Complete|Chaos|我隐约地感觉到，你之前面对你父亲的时候，带着我给你的圆形催化剂。看来无论是我对你的请求，还是你成功地击败了你的父亲，都符合命运三女神的安排，而结果甚至比我预想得更加有趣。所以，谢谢你。
 ChaosAboutNyx05|Chaos About Nyx 05|Chaos|我注意到冥界中有一些不正常的活动，冥王之子……大量的黑暗在远古催化剂的作用下聚合起来。它现在看起来就像个信标，在黑夜中发出光芒。这可能是倪克斯的成果，可能是你的成果，也可能是你们二人共同的成果。我很期待后续的发展。
@@ -37,7 +37,7 @@ ChaosAboutOlympians03|Chaos About Olympians 03|Chaos|你向奥林匹斯众神进
 ChaosAboutHades01|Chaos About Hades 01|Chaos|当你父亲和他的兄弟们把泰坦封印在世界最黑暗的地方，那也是他们最后一次见到我。你和他们不一样，我觉得这样和你交流很安全。
 ChaosAboutNyx01_C|Chaos About Nyx 01 C|Chaos|很久以前，当我和倪克斯女神关系比较亲密的时候，我有时对她非常严厉。在她生下第一个孩子之后，我仍然希望她不要因为孩子而分心。我一直都在创造，当我终于放慢脚步时，才意识到了自己的错误。可那个时候，我们之前的联系已经被切断了。
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|我感觉出了什么问题，冥王之子。说说吧，你在想什么？就算你不说，我也能猜个八九不离十，但我还是更喜欢你自愿讲出来。
-ChaosAboutNyx02|Chaos About Nyx 02|Zagreus|{#DialogueItalicFormat}嗯{#PreviousFormat}，卡俄斯君主？女神倪克斯，她……好像想和你再谈一次。我想，你能不能找个时间和她联系一下？她似乎确信，如果你愿意的话，你可以自己决定。
+ChaosAboutNyx02|Chaos About Nyx 02|Zagreus|*嗯*，卡俄斯君主？女神倪克斯，她……好像想和你再谈一次。我想，你能不能找个时间和她联系一下？她似乎确信，如果你愿意的话，你可以自己决定。
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|女神倪克斯想收到我的信息……？这真是太意外了，冥王之子，你没有在开玩笑吧。不过，我可以看出你的意图是真诚的。虽然我不能保证，但是……我会考虑这件事情的可能性的。
 ChaosAboutNyx03|Chaos About Nyx 03|Chaos|冥王之子啊，到了最后，你也会有你自己的后代……我建议你与他们在时间与空间上不要相隔太远。哪怕他们再怎么令人讨厌，你总会有想要见到他们的时候。
 ChaosAboutNyx04|Chaos About Nyx 04|Chaos|在经过了考虑，以及你的建议之后，我最近决定再次与女神倪克斯联系。当然，她现在离我很远。如果你刚好知道的话……她有没有收到我的消息吗？请回答。
@@ -85,13 +85,13 @@ ChaosLowHealth05|Chaos Low Health 05|Chaos|冥王之子啊，这听上去可能�
 ChaosLowHealth06|Chaos Low Health 06|Chaos|尽管你很快就伤重而死了，但还是希望你能充分利用余下的生命，而不是寄希望于下一次。除了命运之神以外，没人能知道自己的未来。
 ChaosAboutShieldWeapon01|Chaos About Shield Weapon 01|Chaos|你带着一个全视全知的制品来到了我的领域，它正是创世之初从我的身体中诞生的。我本打算把它做成作为一件防御性的工具，不过我猜你已经发现了，或者马上就要发现了，实际上并不是这么回事。
 ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Chaos|我已经预见到了你的到来，冥王之子，因为我能看到你所看到的一切。或者说，有了这件创世之初从我的身体中诞生的全视饰品，我可以通过它看到一切。在你的手中，它显现出了最初的形态。请回答。
-ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Zagreus|什么，您是指混沌之盾吗？我是说，{#DialogueItalicFormat}您的{#PreviousFormat}盾，卡俄斯君主。它可真是无与伦比，无比威风！您的那些原初造物一定非常惊人吧。
+ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Zagreus|什么，您是指混沌之盾吗？我是说，*您的*盾，卡俄斯君主。它可真是无与伦比，无比威风！您的那些原初造物一定非常惊人吧。
 ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Chaos|我接受你的回答，我也很高兴，我最近已对这广阔的领域初窥端倪。
 ChaosAboutZeusAspect01|Chaos About Zeus Aspect 01|Chaos|啊，你又拿着我的那件全视制品了，不过是以宙斯大人拼死反抗他父亲时用过的模样。有段时间，我就是通过它观察宙斯的动向。
-ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Chaos|我有一事要传达给你，冥王之子。此事所描述的概念在其所处时代尚未出现。记住这句话：{#DialogueItalicFormat}我看到你傲然屹立在巨蛇的烈焰之中。{#PreviousFormat}这是一句唤醒咒语，我创造出来的那件全视圣器和你或许会有所回应。
-ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Zagreus|唤醒咒语……还有全视圣器，你指的是埃癸斯，是吧？只要我对它说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中，”{#PreviousFormat}它就会被唤醒。不过，你可以告诉我这句话是什么意思吗？是谁说的？
+ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Chaos|我有一事要传达给你，冥王之子。此事所描述的概念在其所处时代尚未出现。记住这句话：*我看到你傲然屹立在巨蛇的烈焰之中。*这是一句唤醒咒语，我创造出来的那件全视圣器和你或许会有所回应。
+ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Zagreus|唤醒咒语……还有全视圣器，你指的是埃癸斯，是吧？只要我对它说：*“我看到你傲然屹立在巨蛇的烈焰之中，”*它就会被唤醒。不过，你可以告诉我这句话是什么意思吗？是谁说的？
 ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Chaos|哦，你想知道的一切，我差不多都可以告诉你。不过，我更希望你能靠自己的力量找到绝大部分问题的答案。
-ChaosFirstPickUp|Chaos First Pick Up|Zagreus|我不认识这个人……好吧，以哈迪斯之名！{#DialogueItalicFormat}呃{#PreviousFormat}，你好？请问是谁在呼唤我？
+ChaosFirstPickUp|Chaos First Pick Up|Zagreus|我不认识这个人……好吧，以哈迪斯之名！*呃*，你好？请问是谁在呼唤我？
 ChaosFirstPickUp|Chaos First Pick Up|Chaos|……奥林匹斯山上的神都变得软弱了……你不这么认为吗？
 ChaosFirstPickUp|Chaos First Pick Up|Zagreus|呃……我们见过面吗？
 ChaosFirstPickUp|Chaos First Pick Up|Chaos|哦，我们通过某种形式见过面。我认识这里和那里的每个人。你想离开这里吗？那么，我希望你这样做的时候能更有趣一点……如果有一天你遇到了奥林匹斯山上的神，请代我向他们问好。

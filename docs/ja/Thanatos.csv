@@ -5,8 +5,8 @@ Text|Text|Megaera|…そうなのか？それならかまわない。\nでは、
 Text|Text|Zagreus|…ああ。俺はときどき、事を急ぎすぎる嫌いがある。\nおまえとよい関係を築けていることはありがたいが、\nちょっと強引すぎたかもしれない、申し訳なかった。\nおまえは大切な友人だ。おまえも、他の誰かも、\n傷つけたくはない。
 Text|Text|Thanatos|…そうか。承知した。俺にとっても、おまえは\nかけがえのない友だ。ここ最近は、その関係が\nおびやかされることも多かった。俺はただ、\nおまえの無事を願っている。…では、失敬。
 Text|Text|Zagreus|…ああ、またな。
-Text|Text|Zagreus|タナトス… {#DialogueItalicFormat}ハハ… {#PreviousFormat} 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
-Text|Text|Thanatos|{#DialogueItalicFormat}フン… {#PreviousFormat}メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
+Text|Text|Zagreus|タナトス… *ハハ… * 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
+Text|Text|Thanatos|*フン… *メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
 Text|Text|Zagreus|ハッ！そういうことか。
 Text|Text|Thanatos|そうか… 承知した。では、俺は仕事に戻るとしよう。
 Text|Text|Zagreus|…ああ、またな。
@@ -16,8 +16,8 @@ Text|Text|Thanatos|話なら、あとで聞かせてもらう。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス…！もう来てくれたのか。頼んだのは俺だが… うれしいよ。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|ひとつ、確認させてほしい。\nおまえは、「距離を置きたい」と言った。\nあれは、本心か？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|俺はただ… あまり強引に迫るようなことはしたくない\nだけだ。決して衝動に任せて言っているわけではないし\nおいそれと答えは出せないだろう。おまえが\n納得するまで、俺はいつまででも待つつもりだ。
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|{#DialogueItalicFormat}まったく… {#PreviousFormat}おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… {#DialogueItalicFormat}ハハ… {#PreviousFormat}たしかに、そのとおりだな！
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|*まったく… *おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… *ハハ… *たしかに、そのとおりだな！
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… どうした？\nそんなふうに黙り込まれると不安になる。\n考え事か？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|俺はいつも、山のように考え事をしている。\n慣れてもらうほかない。いや… 俺が黙りこくって\nいても、心配にはおよばない、ということだ。\nそろそろ行かなくては。仕事が遅れている。\nまた会おう。おまえさえよければ。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|ああ。もちろんだよ。

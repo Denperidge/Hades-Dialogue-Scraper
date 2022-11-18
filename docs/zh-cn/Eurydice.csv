@@ -36,7 +36,7 @@ EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Eurydice|嘿，你一定是
 EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Zagreus|你好！不用这样正式啦，我叫扎格列欧斯。只是出来例行公事。经过凶恶的骸骨九头蛇。不太好意思，但是我着实赶时间。
 EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Eurydice|可别把自己忙坏了，亲！你可以走，但是我这里有一条规矩：谁都不能空手而归，明白吗？那么拿好了噢，我请你的！
 EurydiceFirstMeeting01_C|Eurydice First Meeting 01 C|Zagreus|你好！不用这样正式啦，我叫扎格列欧斯。只是出来例行公事。这么说，如果你是欧律狄克，你应该认识俄耳甫斯把？喜好音乐，有点严肃，引人注目的头发？
-EurydiceFirstMeeting01_C|Eurydice First Meeting 01 C|Eurydice|{#DialogueItalicFormat}他{#PreviousFormat}让你来的？听着，亲，你还是趁早离开吧。但是你不能空手而归，这是规矩，拿好了，我请的！没他的份。
+EurydiceFirstMeeting01_C|Eurydice First Meeting 01 C|Eurydice|*他*让你来的？听着，亲，你还是趁早离开吧。但是你不能空手而归，这是规矩，拿好了，我请的！没他的份。
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|嘿，亲，怎么了，跟我说说吧！当我觉得有问题的时候，就肯定有问题。
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Zagreus|嗯就是，你认不认识俄耳甫斯？喜好音乐，有点严肃，引人注目的头发？他现在是我父亲圣殿里的宫廷乐师。他说你是她的缪斯。还说他非常想你。我…认为你应该要知道。
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|俄耳甫斯亲口说的？告诉你，下次你碰到他的时候，你就问他，问他当时历尽艰难来救我的事情，尽管我当时就已经死了。你知道后来怎么了吗？
@@ -44,23 +44,23 @@ EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Zagreus|呃…我想我知道�
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|是啊，没错，他也不想！你知道吗？行动才是一切，亲。别说了，拿好了，不送。
 EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Eurydice|怎么了，亲？噢不，别告诉我你一路从塔耳塔罗斯过来，就为了向我打听你那个一无是处的宫廷乐师朋友。
 EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Zagreus|当然不是！我来这里只是为了欣赏你美妙的歌唱、烹饪以及交流技巧。不过，既然你提到了，你…好像有很多话要对他说。有什么我能帮忙的吗？
-EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Eurydice|看看我是否能理解。俄耳甫斯像个白痴一样把事情搞砸了，现在还指望我去找{#DialogueItalicFormat}他{#PreviousFormat}？对不起，亲，这是不可能的。我跟他之间已经结束了。还有。你也趁早走吧。不好意思！
+EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Eurydice|看看我是否能理解。俄耳甫斯像个白痴一样把事情搞砸了，现在还指望我去找*他*？对不起，亲，这是不可能的。我跟他之间已经结束了。还有。你也趁早走吧。不好意思！
 EurydiceAboutOrpheus03|Eurydice About Orpheus 03|Eurydice|你好，亲！你觉得怎么样，非常好的曲子，对吧？不知道为什么其他人不唱歌。放松心情，消磨时间。有什么不好的？
 EurydiceAboutOrpheus03|Eurydice About Orpheus 03|Zagreus|真是首不错的歌啊。尽管你生他的气。俄耳甫斯，我是说…你现在还经常在唱歌吗？
 EurydiceAboutOrpheus03|Eurydice About Orpheus 03|Eurydice|噢，这不是俄耳甫斯的歌，开玩笑吗？这首歌是我自己创作的。他总说我是他的缪斯女神，因为他的歌有一半都是我给他写的！我敢说他从没提到过这件事。
 EurydiceAboutOrpheus03|Eurydice About Orpheus 03|Zagreus|呃，只是说法有点不同…俄耳甫斯他有点复杂。
 EurydiceAboutOrpheus03|Eurydice About Orpheus 03|Eurydice|他也有点难让人接受。希望这种品质不会影响到他的同伴。我要回去继续练习了，再见。
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Zagreus|听着，欧律狄克，我每次都保证不会拿这个烦扰你，但是…你俩的事情让你的丈夫很受打击。他真的非常内疚，而且他还是深爱着你，这点我敢肯定。
-EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Eurydice|{#DialogueItalicFormat}啧{#PreviousFormat}…那我应该怎么做呢，我的王子殿下…？
+EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Eurydice|*啧*…那我应该怎么做呢，我的王子殿下…？
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Zagreus|我…我不知道。我告诉你噢。你不应该只听我说的。你也要听他怎么说。
 EurydiceAboutOrpheus04|Eurydice About Orpheus 04|Eurydice|据我所知，我近期内应该不会再遇到他了。但你可是哈迪斯的孩子啊！如果你想在我俩之间牵线搭桥，做就是了。但这是不可能的。就算我有这个能力。
-EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Eurydice|那么，{#DialogueItalicFormat}呃{#PreviousFormat}，俄耳甫斯最近怎么样了？还是留着那头整洁的小卷发吗？我敢说他的皮肤一定都褪色了。
+EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Eurydice|那么，*呃*，俄耳甫斯最近怎么样了？还是留着那头整洁的小卷发吗？我敢说他的皮肤一定都褪色了。
 EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Zagreus|卷发？呃，算不上吧，不过他现在过得还不错，最近又开始唱歌了！这是个相当不错的进步，因为他以前从来没唱过歌，他总是不断地说他是如何失去了他的缪斯。
 EurydiceProgressWithOrpheus01|Eurydice Progress With Orpheus 01|Eurydice|现在他知道我就在这外头了。真是…嗯，谢谢你带来的消息，亲。他没把自己的音乐天赋荒废掉，真是太好了。
 EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Zagreus|欧律狄克，我能请你帮个忙吗？不是说你欠我什么，不过，你能听我说吗？
 EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Eurydice|没问题，亲，你说吧。不过你最好不要问我食谱的事。这是家族秘密！要我说，我会把这个秘密带进坟墓里，不过…
 EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Zagreus|不是食谱的事，尽管真的非常美味。是你的歌。这首歌一定能在圣殿里爆红的！而且，我知道有谁要去听一听这歌。你应该有羊皮纸副本吧，能给我吗？
-EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Eurydice|王子殿下，你想要我的{#DialogueItalicFormat}歌{#PreviousFormat}？你应该知道歌名叫{#DialogueItalicFormat}《彻底解放》{#PreviousFormat}对吧？{#DialogueItalicFormat}啧{#PreviousFormat}，那好吧，给你了。如果音乐在你的圣殿中奏响，应该也不错。然后我要给你点东西你才能走。
+EurydiceProgressWithOrpheus02|Eurydice Progress With Orpheus 02|Eurydice|王子殿下，你想要我的*歌*？你应该知道歌名叫*《彻底解放》*对吧？*啧*，那好吧，给你了。如果音乐在你的圣殿中奏响，应该也不错。然后我要给你点东西你才能走。
 EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Eurydice|……关于这首歌，他是怎么说的，亲爱的？我打赌他肯定喜欢，是不是！但我不敢确定。这段时间，我一直不断想起这个问题。
 EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Zagreus|不用再想了。他唱歌非常动听，有时候他会绕着圣殿唱。听起来比你唱的时候要多一点哀伤，但是…你又给了他灵感。就像你以前做的那样，就我所知。
 EurydiceProgressWithOrpheus_SongReaction01|Eurydice Progress With Orpheus Song Reaction 01|Eurydice|嗯。大获成功，你是这么说的吧？我预感到了。有时候你总是可以在正确的场合说正确的话，你知道，你很有天赋。
@@ -72,7 +72,7 @@ EurydiceAboutSingersReunionQuestComplete01|Eurydice About Singers Reunion Quest 
 EurydiceAboutSingersReunionQuestComplete01|Eurydice About Singers Reunion Quest Complete 01|Eurydice|你真是太贴心了，亲爱的。你现在依然能在圣殿见到俄耳，不过这次我也要去见他了。有点期待，真的很不错啊，你说呢？我敢说肯定有人对你也有同样的感觉。
 EurydiceAboutSingersReunionQuestComplete02|Eurydice About Singers Reunion Quest Complete 02|Eurydice|嘿！这是怎么了，殿下？你看起来很低落啊。平时无论发生什么，你都是满面笑容的！
 EurydiceAboutSingersReunionQuestComplete02|Eurydice About Singers Reunion Quest Complete 02|Zagreus|哦，我……回头想想你和俄耳甫斯之间的事情，我突然意识到……希望我没有太操之过急吧。我并不应该窥探你们之间的私事，我应该提前和你说一声才对。
-EurydiceAboutSingersReunionQuestComplete02|Eurydice About Singers Reunion Quest Complete 02|Eurydice|哦，这件事吗？{#DialogueItalicFormat}噗{#PreviousFormat}，你可千万别担心这件事情。如果你真的操之过急的话，那我恐怕早就把你撵回去了，才不会管你是不是什么王子呢。不过，当涉及到别人的过去、感受之类的事情，再怎么谨慎也不为过，是吧？
+EurydiceAboutSingersReunionQuestComplete02|Eurydice About Singers Reunion Quest Complete 02|Eurydice|哦，这件事吗？*噗*，你可千万别担心这件事情。如果你真的操之过急的话，那我恐怕早就把你撵回去了，才不会管你是不是什么王子呢。不过，当涉及到别人的过去、感受之类的事情，再怎么谨慎也不为过，是吧？
 EurydiceAboutSingersReunionQuestComplete03|Eurydice About Singers Reunion Quest Complete 03|Eurydice|说真的，亲爱的，俄耳甫斯和上次见面的时候变得不一样了。我是说，他变得充满生机，就像是还活着的时候那样。
 EurydiceAboutSingersReunionQuestComplete03|Eurydice About Singers Reunion Quest Complete 03|Zagreus|我猜这可能是因为他试着救你，结果失败了，自己后来也死了，死后成了宫廷乐师，却拒绝唱歌，结果被单独监禁了起来，之后得知了你的事情，可能这一切给他的压力太大了吧。怎么了，一切还好吗？自从上次见到你们之后，你们好像一直相处得很好。
 EurydiceAboutSingersReunionQuestComplete03|Eurydice About Singers Reunion Quest Complete 03|Eurydice|哦，我们相处得很好！比以前更好了。他以前多多少少有点端着架子，不过现在呢，他变得更加……那个词怎么说来着……多愁善感？他现在在想什么，我一眼就看得出来。
@@ -93,8 +93,8 @@ EurydiceAboutHermes01|Eurydice About Hermes 01|Eurydice|哦，他可真贴心！
 EurydiceAboutNymphs01|Eurydice About Nymphs 01|Eurydice|这个地方确实没多少仙女，是吧！我们仙女不怎么容易死，绝大多数是这样，这让我感觉自己与众不同！
 EurydiceAboutNymphs01|Eurydice About Nymphs 01|Zagreus|被你这么一说，我发现确实没见过其它仙女，不过我听说过几个！阿尔忒弥斯女神似乎更喜欢和仙女们呆在一起，而不是和其他的奥林匹斯众神打交道。
 EurydiceAboutNymphs01|Eurydice About Nymphs 01|Eurydice|我也是这么听说的！不过我们也并不是全都能打成一片。我是说，这世上有林中仙女、溪中仙女、湖中仙女、海中仙女……差不多无论是什么样的地方，总会有一种仙女很喜欢！说不定咱们也应该弄个冥界仙女出来才是。
-EurydiceAboutPersephone01|Eurydice About Persephone 01|Zagreus|欧律狄刻，俄耳甫斯过来找你，想把你救出冥界的这个过程中，你有没有刚好见过一个叫{#DialogueItalicFormat}珀尔塞福涅{#PreviousFormat}的人？
-EurydiceAboutPersephone01|Eurydice About Persephone 01|Eurydice|哦，她吗？是啊，她那时和哈迪斯大人在一起，怎么了？等等，{#DialogueItalicFormat}哇啊{#PreviousFormat}，你该不会是……？我就在想……
+EurydiceAboutPersephone01|Eurydice About Persephone 01|Zagreus|欧律狄刻，俄耳甫斯过来找你，想把你救出冥界的这个过程中，你有没有刚好见过一个叫*珀尔塞福涅*的人？
+EurydiceAboutPersephone01|Eurydice About Persephone 01|Eurydice|哦，她吗？是啊，她那时和哈迪斯大人在一起，怎么了？等等，*哇啊*，你该不会是……？我就在想……
 EurydiceAboutPersephone01|Eurydice About Persephone 01|Zagreus|这件事情很复杂，希望你不要说出去。我很好奇……她是个什么样子的人呢？如果你还能想起来的话。
 EurydiceAboutPersephone01|Eurydice About Persephone 01|Eurydice|她的样子我没太记住，不过有件事可以告诉你：她在音乐方面的品味非常出色！我觉得，那时我和俄耳甫斯的二重奏赢得了她的好感。不过最近我都没怎么见过她了，希望一切都还好。
 EurydiceAboutPersephone01_B|Eurydice About Persephone 01 B|Eurydice|她的事情我不太清楚，不过这一点我可以肯定：她在音乐方面的品味非常出色！我觉得，之前我和俄耳甫斯的二重奏赢得了她的好感。不过最近我都没怎么见过她了。
@@ -107,21 +107,21 @@ EurydicePostEpilogue02|Eurydice Post Epilogue 02|Eurydice|真是个好消息！�
 EurydiceAboutMusic01|Eurydice About Music 01|Eurydice|你有没有演奏过，或是唱过歌什么的，哈迪斯之子？这对你的身心有好处，真的！
 EurydiceAboutMusic01|Eurydice About Music 01|Zagreus|老实说，我试过弹奏里拉琴！俄耳甫斯本人也给了我一些建议。不过我还没试过唱歌呢，老实说，我根本想象不出来我唱歌的样子。
 EurydiceAboutMusic01|Eurydice About Music 01|Eurydice|这么说吧，或许你有空的话可以试试？说不定你就是下一个俄耳甫斯，谁知道呢？
-EurydiceAboutOnions01|Eurydice About Onions 01|Eurydice|你最近是吃了{#DialogueItalicFormat}洋葱{#PreviousFormat}之类的东西吗，亲爱的？无意冒犯，但你的味道闻起来像是生吃了一整颗洋葱。
-EurydiceAboutOnions01|Eurydice About Onions 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，是啊，不过……等等，洋葱不就是应该生吃的吗？
+EurydiceAboutOnions01|Eurydice About Onions 01|Eurydice|你最近是吃了*洋葱*之类的东西吗，亲爱的？无意冒犯，但你的味道闻起来像是生吃了一整颗洋葱。
+EurydiceAboutOnions01|Eurydice About Onions 01|Zagreus|*呃*，是啊，不过……等等，洋葱不就是应该生吃的吗？
 EurydiceAboutOnions01|Eurydice About Onions 01|Eurydice|怎么，你是认真的吗？洋葱可以烤、可以炸、可以炒、可以煮、可以腌、可以熏！哦，亲爱的。你错过了多少美味啊。
 EurydiceAboutLove01|Eurydice About Love 01|Eurydice|顺便问一句，你的心里有没有某个特别的人，亲爱的？你看起来似乎对这里的某个人有好感。
 EurydiceAboutLove01|Eurydice About Love 01|Zagreus|老实说，是啊，欧律狄刻。不过，最近发生的事情实在是太多了，我都没什么机会好好思考这些事情。这样一来，我就不用什么事情都自己扛着了……我知道，我很快就能再见到那个人了。
 EurydiceAboutLove01|Eurydice About Love 01|Eurydice|我明白你的意思，这不是很好嘛！只要你依然能坚持内心就好。有的仙女一生都在追逐她们心爱的人，这种仙女我已经见过太多了。在我看来，无论是谁爱你……都是因为她们爱的是你这个人。
 EurydiceMiscMeeting01|Eurydice Misc Meeting 01|Zagreus|欧律狄克，你来这里多久了，不介意我问的话？你好像很自在的样子，这地方真的挺不错的！
-EurydiceMiscMeeting01|Eurydice Misc Meeting 01|Eurydice|我来这里多久了啊，亲爱的？{#DialogueItalicFormat}哈{#PreviousFormat}！我自己都不记得了。一旦成为了暗灵，你就失去时间观念了，或者头顶没有太阳也没有月亮的时候。不过，我给自己找到了一块好地方，稍微修缮了一下！
+EurydiceMiscMeeting01|Eurydice Misc Meeting 01|Eurydice|我来这里多久了啊，亲爱的？*哈*！我自己都不记得了。一旦成为了暗灵，你就失去时间观念了，或者头顶没有太阳也没有月亮的时候。不过，我给自己找到了一块好地方，稍微修缮了一下！
 EurydiceMiscMeeting02|Eurydice Misc Meeting 02|Eurydice|你来的正是时候，我的殿下！我正在做饭呢，一定会让你胃口大开的。你饿了吧？
 EurydiceMiscMeeting02|Eurydice Misc Meeting 02|Zagreus|非常饿。你总是如此慷慨。你总是在烹饪！在唱歌！经常有客人来吗？你的这个地方…有点偏僻。
-EurydiceMiscMeeting02|Eurydice Misc Meeting 02|Eurydice|怎么了，你觉得我这里经常来客人？{#DialogueItalicFormat}哈哈{#PreviousFormat}，不，但是我喜欢烹饪！某些方面来说，这就像唱歌。尝试次数越多，就会变得更好，但是每次都好像有点不同。
+EurydiceMiscMeeting02|Eurydice Misc Meeting 02|Eurydice|怎么了，你觉得我这里经常来客人？*哈哈*，不，但是我喜欢烹饪！某些方面来说，这就像唱歌。尝试次数越多，就会变得更好，但是每次都好像有点不同。
 EurydiceMiscMeeting03|Eurydice Misc Meeting 03|Zagreus|欧律狄克，你是怎么在这种炙热环境下煮出这些东西的？这里一直都是这样烈焰滚滚吗？
-EurydiceMiscMeeting03|Eurydice Misc Meeting 03|Eurydice|炙热的温度？{#DialogueItalicFormat}哈哈{#PreviousFormat}，我已经是个死人了，王子殿下！炙热对我来说只能拿来烹饪。我也不用睡觉！我想怎么烹就怎么烹。还不错！
+EurydiceMiscMeeting03|Eurydice Misc Meeting 03|Eurydice|炙热的温度？*哈哈*，我已经是个死人了，王子殿下！炙热对我来说只能拿来烹饪。我也不用睡觉！我想怎么烹就怎么烹。还不错！
 EurydiceMiscMeeting04|Eurydice Misc Meeting 04|Zagreus|你知道，我从来没有遇见过仙女呢。你比凡人更接近神，对吧？
-EurydiceMiscMeeting04|Eurydice Misc Meeting 04|Eurydice|是啊，会{#DialogueItalicFormat}死{#PreviousFormat}的神！太不公平了？我只不过是被一条愚蠢的蛇咬了一口，你知道这有多尴尬吗？你在那正忙着自己的事呢，然后{#DialogueItalicFormat}突然间{#PreviousFormat}！你就死了，一路到了这里。
+EurydiceMiscMeeting04|Eurydice Misc Meeting 04|Eurydice|是啊，会*死*的神！太不公平了？我只不过是被一条愚蠢的蛇咬了一口，你知道这有多尴尬吗？你在那正忙着自己的事呢，然后*突然间*！你就死了，一路到了这里。
 EurydiceMiscMeeting04|Eurydice Misc Meeting 04|Zagreus|我…对这种感觉理解颇深。
 EurydiceMiscMeeting04|Eurydice Misc Meeting 04|Eurydice|我是一直困在这里了。希望我一直这样好下去。不过，我想你们应该是在进来的时候就锁定了年龄了吧？要是每个人都老死可就难堪了。
 EurydiceMiscMeeting05|Eurydice Misc Meeting 05|Eurydice|那你的公事是什么呢，王子殿下？似乎你最近经常到水仙花平原里来。
@@ -133,8 +133,8 @@ EurydiceMiscMeeting06|Eurydice Misc Meeting 06|Eurydice|巧合？别傻了，亲
 EurydiceAboutAcorn01|Eurydice About Acorn 01|Zagreus|欧律狄克，再次谢谢你送我这颗令人着迷的橡子。这是凡界的植物长出来的？
 EurydiceAboutAcorn01|Eurydice About Acorn 01|Eurydice|哦，它可不是普普通通的植物，亲爱的！是一种树！长满树叶的高大橡树。有些可以活几百年呢！它比凡人的生命长得多。你像这样看管好它，没准它也能长成一棵与众不同的树呢！
 EurydiceAboutAcorn02|Eurydice About Acorn 02|Zagreus|嘿，我有个奇怪的问题……这颗常绿橡子，应该和你……没什么关系吧？因为，一半的你也是……橡树，对吗？
-EurydiceAboutAcorn02|Eurydice About Acorn 02|Eurydice|没错，我有一半是橡树。但可能和你想得不一样，你以为我会把我的宝贝或其他什么送给你吗？{#DialogueItalicFormat}哈哈哈哈{#PreviousFormat}，那也太恶心了！
-EurydiceAboutDistantMemory01|Eurydice About Distant Memory 01|Eurydice|等等，亲爱的，那是……{#DialogueItalicFormat}呃{#PreviousFormat}！我感觉好像俄耳甫斯就在你身边一样。我这是在说什么傻话呢？肯定是我最近练高音练得太多了吧。
+EurydiceAboutAcorn02|Eurydice About Acorn 02|Eurydice|没错，我有一半是橡树。但可能和你想得不一样，你以为我会把我的宝贝或其他什么送给你吗？*哈哈哈哈*，那也太恶心了！
+EurydiceAboutDistantMemory01|Eurydice About Distant Memory 01|Eurydice|等等，亲爱的，那是……*呃*！我感觉好像俄耳甫斯就在你身边一样。我这是在说什么傻话呢？肯定是我最近练高音练得太多了吧。
 EurydiceAboutDistantMemory01|Eurydice About Distant Memory 01|Zagreus|不，等等，你说得没错……我觉得肯定是感觉到了俄耳甫斯的遥远记忆！他把这件礼物给了我，作为我们友情的信物。不过像这样的东西……我觉得给你更合适。
 EurydiceAboutDistantMemory01|Eurydice About Distant Memory 01|Eurydice|噢，所以说那就是他嘛！你看，我就知道自己的感觉没错。没事，这件礼物你继续留着吧，我这里关于他的记忆已经够多了，谢谢！
 EurydiceLowHealth01|Eurydice Low Health 01|Eurydice|哦，亲爱的，你看起来糟透了。你这是碰上了什么事情啊？来，吃点点心吧，这样应该能让你舒服一些。
@@ -189,7 +189,7 @@ EurydiceAintEvenMadChat10|Eurydice Aint Even Mad Chat 10|Eurydice|我很爱俄�
 EurydiceAintEvenMadChat10|Eurydice Aint Even Mad Chat 10|Eurydice|我知道你不能在这里长待，亲爱的。所以好好吃点东西，一路顺风，好吗？
 EurydiceAintEvenMadChat11|Eurydice Aint Even Mad Chat 11|Eurydice|俄耳甫斯在的时候我会唱歌，不在的时候我也一样会唱，就是这么简单！
 EurydiceGift01|Eurydice Gift 01|Zagreus|欧律狄克，谢谢你让我在你温馨的家中受到如此款待。我最近去过的大多数地方都不如这里。我这里有个小礼物希望你可以收下。
-EurydiceGift01|Eurydice Gift 01|Eurydice|{#DialogueItalicFormat}噢{#PreviousFormat}，你真是太贴心了，王子殿下。给我送来新鲜的原料！我也有东西要给你，能保证你的安全！
+EurydiceGift01|Eurydice Gift 01|Eurydice|*噢*，你真是太贴心了，王子殿下。给我送来新鲜的原料！我也有东西要给你，能保证你的安全！
 EurydiceGift02|Eurydice Gift 02|Eurydice|这正是我想要的原料，亲爱的，太感谢你了！你知道吗，你也不是别人说的那么坏嘛！
 EurydiceGift02|Eurydice Gift 02|Zagreus|噢，没事，我们还在互相了解当中呢！我有足够的时间来不辜负我的恶名。不过我很惊讶你竟然听说过我。
 EurydiceGift03|Eurydice Gift 03|Eurydice|啊，给我的，真的吗，殿下？这个完美契合我最新的食谱。

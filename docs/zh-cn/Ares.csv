@@ -12,7 +12,7 @@ AresWithAphrodite01|Ares With Aphrodite 01|Aphrodite|这里至少还有几个人
 AresWithAphrodite02|Ares With Aphrodite 02|Ares|为了爱情而发动战争，我的家人……你能想象得到这种事情吗？像这种话题，我和阿弗洛狄忒女士能讨论上三天三夜。我相信，你时常会停下来，反思自己为什么要用战斗的方式解决问题。当然了，想战斗是不需要理由的。
 AresWithAphrodite02|Ares With Aphrodite 02|Aphrodite|哦，阿瑞斯大人，没必要对这位小小神说这些话，让他的思想和判断蒙上阴影，不是吗？我们只要给他想要的东西就好，至于其它的事情，我们可以私下里做。
 AresWithDionysus01|Ares With Dionysus 01|Ares|啊，我的家人！我刚刚在询问迪奥尼索司大人，对凡人而言，什么样的盛宴才是最美味的？因为关于这个问题，我有我自己的看法……
-AresWithDionysus01|Ares With Dionysus 01|Dionysus|没错，没错，阿瑞斯。我就直说了吧，伙计。没什么能比大战之后的盛宴更美味的了！当然了，你得是活下来的一方！否则我猜，那个人就只能来这里和{#DialogueItalicFormat}你{#PreviousFormat}共进晚餐了，扎格！
+AresWithDionysus01|Ares With Dionysus 01|Dionysus|没错，没错，阿瑞斯。我就直说了吧，伙计。没什么能比大战之后的盛宴更美味的了！当然了，你得是活下来的一方！否则我猜，那个人就只能来这里和*你*共进晚餐了，扎格！
 AresWithDemeter01|Ares With Demeter 01|Ares|对得墨忒尔女神而言，死亡的酷寒和她的气质很搭。你不这么觉得吗，我杀人无数的家人？就连她自己也已经习惯于这一点了。
 AresWithDemeter01|Ares With Demeter 01|Demeter|我觉得你有点太得意忘形了，阿瑞斯大人。我比你要年长得多，恐怕你才刚刚动起想杀人的念头，我带来的饥荒就早已杀死成千上万的凡人了。
 AresKillQuestComplete|Ares Kill Quest Complete|Ares|上万亡灵因为你而陨落，我的地狱之子。我确实有点失控，这一点我必须承认。很好。
@@ -22,7 +22,7 @@ AresPostEpilogue01|Ares Post Epilogue 01|Ares|我想再告诉你一次，在咱�
 AresAboutZeus01|Ares About Zeus 01|Ares|我明白了，宙斯大人先来找的你吧？我父亲送礼的确很大方，不过……我可以用自己的方式来帮助他。
 AresAboutPoseidon01|Ares About Poseidon 01|Ares|你叔叔海神波塞冬的祝福可能在这一点上对你有帮助，但在这里：我的礼物会让你走得更远。
 AresAboutAthena01|Ares About Athena 01|Ares|你得到了雅典娜的祝福，对吗？她会让你不受敌人的伤害，但我宁愿你杀了他们，然后一了百了。
-AresAboutAphrodite01|Ares About Aphrodite 01|Ares|{#DialogueItalicFormat}嗯{#PreviousFormat}，我看你已经得到了阿弗洛狄忒女士的祝福。爱与死亡，一齐到来？听起来，甚合我意。
+AresAboutAphrodite01|Ares About Aphrodite 01|Ares|*嗯*，我看你已经得到了阿弗洛狄忒女士的祝福。爱与死亡，一齐到来？听起来，甚合我意。
 AresAboutArtemis01|Ares About Artemis 01|Ares|所以阿尔忒弥斯，我那孤独的同父异母的妹妹先找了你？她只能帮你打猎，而我将帮你消灭敌人。这一点你要注意。
 AresAboutDionysus01|Ares About Dionysus 01|Ares|酒鬼迪奥尼索司对你的帮助远不及我，我冥界出生的亲人。把他给你的礼物和我给你的比较一下。
 AresAboutHermes01|Ares About Hermes 01|Ares|我们的信使赫尔墨斯应该和你联系上了吧？或许你不经常见他，因为我的工作几乎占用了他的所有时间和精力，比如看管亡灵之类的工作。
@@ -36,7 +36,7 @@ AresAboutThanatos01|Ares About Thanatos 01|Ares|你应该认识一位叫塔纳�
 AresAboutThanatos02|Ares About Thanatos 02|Ares|我相信塔纳托斯过得不错？虽然他会给凡人带来幸运的解脱，而我几乎肯定不会做这种事，不过还是要感谢他有这样的担当。
 AresAboutThanatos03|Ares About Thanatos 03|Ares|我没猜错的话，你和塔纳托斯的关系不错吧，我的亲人？他真会选朋友啊；不过我承认，我没想到，除了他自己，死神还会对另一个人产生感情。
 AresRunProgress01|Ares Run Progress 01|Ares|自从我们上次见面以来，你已经走了很远的路程，我的亲人。也就是说，你消灭了不计其数的亡灵。所以，我必须为你竖大拇指。
-AresRunProgress02|Ares Run Progress 02|Ares|{#DialogueItalicFormat}啊{#PreviousFormat}，我的亲人，我感觉到你最近的杀气很重，真的很重！你在凡界附近大开杀戒了吧？虽然只是杀了些鼠兽，但我也能感觉得出来。
+AresRunProgress02|Ares Run Progress 02|Ares|*啊*，我的亲人，我感觉到你最近的杀气很重，真的很重！你在凡界附近大开杀戒了吧？虽然只是杀了些鼠兽，但我也能感觉得出来。
 AresRunCleared01|Ares Run Cleared 01|Ares|地面世界最近爆发了冲突，差不多就是你在的地方，不过要更靠上面。总之很奇怪，肯定是这场冲突让你不得不返回的吧。不过不要紧，我们有的是时间。
 AresRunCleared02|Ares Run Cleared 02|Ares|我的家人，我最近在你父亲的死亡之门上感受到了数不胜数的死亡。我知道那扇门看起来平淡无奇，只是……它绝不是它看起来那么简单。不知道你知不知道其中缘由……
 AresRunCleared03|Ares Run Cleared 03|Ares|我的好亲人，我知道你一直都想来到奥林匹斯山，也知道你的努力屡屡受挫。不过，我们在这段时间里散播了如此多的暴力，我们完全可以把这当做真正的胜利。无论这场旅途要走多久，我们都一起走下去吧。
@@ -89,7 +89,7 @@ AresLowHealth05|Ares Low Health 05|Ares|要是凡人受了像你这么重的伤�
 AresFirstPickUp|Ares First Pick Up|Zagreus|我猜这一天一定会出现。以哈迪斯之名！奥林匹斯山！我收到了这条消息。
 AresFirstPickUp|Ares First Pick Up|Ares|我不得不说，在那里，你的斗志很强。真是耐人寻味，不过对于一个出生在地狱的人来说，倒也不足为奇。你快离开那里，好好和我说说。你知道，我是专门研究亡灵的。
 AresMiscPickup01|Ares Misc Pickup 01|Ares|不得不说，你的亡灵屠杀功夫十分了得。不过，也许在这类事情上我还可以再帮点忙。
-AresMiscPickup02|Ares Misc Pickup 02|Ares|{#DialogueItalicFormat}啊{#PreviousFormat}！我猜地下世界的所有杀戮都是你的杰作。让我看看，能不能让你的亡灵屠杀功夫更加精进。
+AresMiscPickup02|Ares Misc Pickup 02|Ares|*啊*！我猜地下世界的所有杀戮都是你的杰作。让我看看，能不能让你的亡灵屠杀功夫更加精进。
 AresMiscPickup03|Ares Misc Pickup 03|Ares|好了，地狱出生的亲人，现在你获得了我的祝福，可以随心所欲了；只要替我给他们一些小小的惩罚就好。
 AresMiscPickup04|Ares Misc Pickup 04|Ares|这次我正好有你想要的，我的亲人。我可以展示一下杀人秘籍吗？
 AresMiscPickup05|Ares Misc Pickup 05|Ares|我希望你的杀戮战局还算顺利，希望这种事情永远不要有尽头。我将一如既往地为你服务。
@@ -143,7 +143,7 @@ AresLootBought02|Ares Loot Bought 02|Ares|我送你这个礼物，略表敬意�
 AresLootBought03|Ares Loot Bought 03|Ares|拜我所赐，冥河摆渡人卡戎最近肯定特别忙吧？
 AresLootBought04|Ares Loot Bought 04|Ares|要赶上我的速度，摆渡人卡戎得花钱造一艘大船了，我的亲人。
 AresLootBought05|Ares Loot Bought 05|Ares|你的摆渡人看起来是个很可靠的死亡使者，我觉得我们三个可以组个队。
-AresRejection01|Ares Rejection 01|Ares|难道你要拒绝我的慷慨相助吗？{#DialogueItalicFormat}哈哈哈哈哈{#PreviousFormat}，你肯定不太了解我吧。无论是敌人还是你自己，死亡都无法避免。
+AresRejection01|Ares Rejection 01|Ares|难道你要拒绝我的慷慨相助吗？*哈哈哈哈哈*，你肯定不太了解我吧。无论是敌人还是你自己，死亡都无法避免。
 AresRejection02|Ares Rejection 02|Ares|你会拒绝我的帮助吗？真是太让人失望了。看来，关于对付亡灵的艺术，你还有很多东西要学。
 AresRejection03|Ares Rejection 03|Ares|我的亲人，和我唱反调可不是一个正确的决定。血还是要流的，而你的血就足够了。
 AresRejection04|Ares Rejection 04|Ares|你这样拒绝我的好意似乎不太明智。那么，就让我来调教调教你吧。

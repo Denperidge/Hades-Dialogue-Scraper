@@ -47,7 +47,7 @@ PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|괜찮아요. �
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|당신의 아버지는 분명 죽은 자들의 기록을 가지고 있겠지. 그래서 말인데 내 부탁 하나만 들어주겠소? 내가 알던 누군가의 행방을 조회해 줄 수 있는지 물으려 했소.
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|절 위해 여러 가지로 애써 주셨는데 주변에 물어보는 게 뭐 어려운 일이겠어요. 누구를 찾고 있는 거죠?
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|아킬레우스라는 자를 찾고 있소. 산 자들 사이에서는 꽤 이름을 날렸지만 죽은 자들에겐 어떠할지 어찌 알겠소. 이곳으로 올 줄 알았는데 오지 않더군.
-PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|...아킬레우스라... 이름 들어 본 적 있어요. 그래서, {#DialogueItalicFormat}어{#PreviousFormat}, 그분의 행방이 왜 궁금한지 물어봐도 되나요? 혹시 누가 물을지도 모르니까.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|...아킬레우스라... 이름 들어 본 적 있어요. 그래서, *어*, 그분의 행방이 왜 궁금한지 물어봐도 되나요? 혹시 누가 물을지도 모르니까.
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|단지... 그가 그리운 것일 뿐이오. 그게 전부요.
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|뭐 문제라도 있소, 이방인? 아니면 의미 없는 대화로 날 괴롭히려고 다시 온 거요?
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|아킬레우스 아시죠? 그렇죠? 당신은 파트로클로스일 테고. 아킬레우스는... 저희 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
@@ -55,7 +55,7 @@ PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|...그 이름.
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|하지만 그럴 리가 없어요. 뭔가 오해가 있는 게 분명하다고요. 죽은 뒤로 한 번도 그와 이야기한 적이 없나요?
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|없소. 그리고 앞으로도 없을 것이오. 하지만 당신이 그의 마음을 달래 줄 수 있겠지. 난 아무 문제 없이 잘 지내고 있다고 전해 주시오. 그래 주시겠소?
 PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Zagreus|파트로클로스. 전 당신이 누군지 알아요. 그리고 당신은 아킬레우스를 아시잖아요. 아킬레우스는 우리 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
-PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? {#DialogueItalicFormat}쯧쯧{#PreviousFormat}. 내 말투가 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
+PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? *쯧쯧*. 내 말투가 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|그래서 아킬레우스는 요즘 어떻게 지내고 있소? 당신이야 쉽게 그와 만날 수 있을 테니 나에게 그 정도는 말해 줄 수 있겠지.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Zagreus|아버지가 시키는 일을 강제로 하고 있어요. 그리고 비밀을 유지해야 한다는 맹세를 했죠. 저도 무슨 영문인지 제대로 알지 못해요. 하지만 대체로 잘 지내고 있는 것 같아요. 당신이... 직접 만나 볼 수 있었으면 좋겠네요.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|잘 이해가 안 되겠지만 그랬으면 좋겠어요. 알겠소. 혹시 언젠가 당신이 이 비밀의 밑바닥에 이르게 된다면 날 이해해 주시오. 그럴 수 있겠소?
@@ -66,23 +66,23 @@ PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|참으로 단�
 PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Zagreus|방법은 제가 생각해 볼게요. 하지만 그사이에 한 가지만 부탁해도 될까요? 지금 느끼는 무력감에 굴복하지 마세요, 아시겠죠? 아킬레우스는 여전히 당신을 아껴요. 당신은 모를 테지만.
 PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|그가? 난 이제 약속 같은 건 하지 않지만... 운명이 당신이 하고자 하는 일에 도움을 주길 기도하겠소.
 PatroclusAboutAchilles03B|Patroclus About Achilles 03 B|Patroclus|난 이제 약속 같은 건 하지 않지만... 소식 전해 줘서 고맙소. 나도 여전히 그를 아끼고 있소. 운명이 당신이 하고자 하는 일에 도움을 주길 기도하겠소.
-PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|그의 고집은 대단하지 않소? 꿈쩍도 하지 않지. 그가 우리가 싸웠던 전쟁에 대해 얘기했소? {#DialogueItalicFormat}내{#PreviousFormat}가 싸웠다고 해야겠지. 아킬레우스가 그 전쟁을 끝낼 수 있었소. 그가 무기를 들기 거부했지만.
+PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|그의 고집은 대단하지 않소? 꿈쩍도 하지 않지. 그가 우리가 싸웠던 전쟁에 대해 얘기했소? *내*가 싸웠다고 해야겠지. 아킬레우스가 그 전쟁을 끝낼 수 있었소. 그가 무기를 들기 거부했지만.
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Zagreus|아킬레우스 님은 살아계실 때 얘기를 잘 안 해서 몰랐습니다. 싸우지 않았다고요? 싸우길 싫어하는 필멸자들이 있다고는 들었는데... 그러한 명분이 없었는데 그가 왜 싸워야 했다고 하시는 거죠?
-PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|우리는 명분을 {#DialogueItalicFormat}공유{#PreviousFormat}했으니까! 또한 온전히 그의 명분이 아니면 어떻소. 아킬레우스의 고집만 아니었다면 난... 여기 좀 더 늦게 왔을 거요.
+PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|우리는 명분을 *공유*했으니까! 또한 온전히 그의 명분이 아니면 어떻소. 아킬레우스의 고집만 아니었다면 난... 여기 좀 더 늦게 왔을 거요.
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Zagreus|그래서 아킬레우스 님이 자책하고 계시길래, 저는 파트로클로스 님을 보호하는 데 실패하셨나 생각했죠. 그런데... 아예 싸우지를 않으셨다니. 그래도 파트로클로스 님이 죽고 나서 아킬레우스 님이 분노에 차서 곧장 그 뒤를 따랐다고 하셨는걸요...
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|그건 전혀 모르오, 이방인. 보다시피... 난 이미 죽었으니 말이오. 이곳에서 내 자리를 찾자 모든 것이 정리됐지. 이 모든 것이 익숙해지기까지 시간이 걸렸지만 말이오.
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|괜찮다면 한 가지 묻고 싶소, 이방인. 우리가 마지막으로 대화한 이후로 떨쳐내질 못한 게 있어서 말이오. 내가 죽고 나서 아킬레우스에게 무슨 일이 있었던 거요? 소문을 들었소만... 도통 믿을 수가 없으니.
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Zagreus|뭐, 제가 들은 얘기로는... 파트로클로스 님이 죽고 나서 아킬레우스 님은 비탄과 분노에 사로잡혔어요. 이후로 전쟁에 참전해서 거의 혼자서 끝내다시피 했죠.
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|그런 다음 자기 생명을 버린 거군. 내가 목숨을 잃고 오래지 않아서 말이오. 그런데 혼자서 군대를 상대하고도 타르타로스 밑바닥에 떨어진 거요? 여기 위대한 인물들과 함께하지 않고?
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Zagreus|아킬레우스 님은 파트로클로스 님과 함께 묻혔어요. 당신의 재와 함께 말이죠. 그게 아킬레우스 님의 마지막 부탁이었습니다. 어쩌다가 우리 아버지의 집에 오게 되었는지는, 그분이 설명할 수 있을 거예요. 저는 두 분이 대화할 기회를 마련하는 데 최선을 다하겠습니다.
-PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|...우리의 재 말이오? {#DialogueItalicFormat}쯧. {#PreviousFormat}어리석긴. 우리가 살아남았을 수도 있었을 텐데! 벌레 먹이가 되지 않고. 그러나... 알려줘서 고맙소, 이방인. 이제... 가 주시오.
+PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|...우리의 재 말이오? *쯧. *어리석긴. 우리가 살아남았을 수도 있었을 텐데! 벌레 먹이가 되지 않고. 그러나... 알려줘서 고맙소, 이방인. 이제... 가 주시오.
 PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|...용서하시오, 이방인. 돌이켜 보니 당신이 아킬레우스 이야기를 해 줬는데 내가 너무 매몰찼던 것 같소. 아킬레우스의 마지막 전투, 그의 재와 나의 재가 함께 묻힌 일... 모두 처음 듣는 이야기였소.
 PatroclusAboutAchilles06|Patroclus About Achilles 06|Zagreus|사과하실 것 없습니다. 아킬레우스 님은 제 가장 가까운 친구인 걸요. 다만... 본인 얘기를 잘 하지 않아서요. 그 오랜 시간 동안 말입니다. 정말 고통스러웠겠죠. 두 분 다요.
-PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|이제 우리가 나눈 고통을 모두 알겠소. 다만... 아킬레우스가 내가{#DialogueItalicFormat}죽고나서야 {#PreviousFormat}나를 위해 나서줬다는 걸 알게 되니... 감흥이 떨어지는군. 이 대화처럼 말이오.
+PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|이제 우리가 나눈 고통을 모두 알겠소. 다만... 아킬레우스가 내가*죽고나서야 *나를 위해 나서줬다는 걸 알게 되니... 감흥이 떨어지는군. 이 대화처럼 말이오.
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|뭘 좀 묻겠소, 이방인. 내 부탁을 하나 들어주지 않겠소? 혹시 가는 길에 방해가 되지 않는다면 말이오. 대답 전에 무슨 내용인지 먼저 들어보시오.
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Zagreus|물론입니다. 무슨 일이시죠?
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|내가 아는 아킬레우스라면 우리가 처한 궁지 때문에 방어적으로 행동하고 있을 거요. 그렇게 자신만만한 자가 어떻게 그렇게 몸을 사리는지? 모든 것을 다 걸라고 전해 주시오.
-PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Zagreus|다 걸라고요? {#DialogueItalicFormat}뭐{#PreviousFormat}를 걸란 말씀이시죠? 아킬레우스 님은 당신이 잘되기만을 원해요. 무슨 일이 일어나는 것을 바라지 않을 거예요.
+PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Zagreus|다 걸라고요? *뭐*를 걸란 말씀이시죠? 아킬레우스 님은 당신이 잘되기만을 원해요. 무슨 일이 일어나는 것을 바라지 않을 거예요.
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|벌써 오래 전 일이오. 지금 당신이 한 말이 맞다면... 잃을 것보다 얻을 것이 더 많은 것 같소. 두려움은 약자들이나 느끼는 것이 아니었소?
 PatroclusWithAchilles01|Patroclus With Achilles 01|Achilles|널 만날 수도 있다고 생각했지만... 여기서 이렇게 만나니 참 이상하군, 젊은 친구. 이곳을 내가 직접 보게 되다니 말이야. 아직도 믿어지지가 않아...
 PatroclusWithAchilles01|Patroclus With Achilles 01|Patroclus|정말 믿지 못하고 있소. 내가 아무리 말해 줘도 말이오. 위험을 짊어지지 않으면 아무 것도 이룰 수 없지. 안 그렇소? 당신에게는 고마워해야겠지, 이방인. 우리에게 신경을 쓰지 않아도 되었을 텐데.
@@ -115,7 +115,7 @@ PatroclusAboutKeepsake02|Patroclus About Keepsake 02|Patroclus|창을 휘둘렸�
 PatroclusAboutWar01|Patroclus About War 01|Zagreus|그 전쟁에선 무슨 일이 있었나요? 실례가 안 된다면 말씀해 주세요.
 PatroclusAboutWar01|Patroclus About War 01|Patroclus|솔직히 말하겠소, 이방인... 실례가 되기는 하오. 마치 전쟁을 겪어보지 않은 것처럼 말씀하시는군. 우리처럼 살아남은 자들은... 무슨 뜻인지 아시겠소만... 우리는 역사에 일종의 책임감을 느낀다오. 그렇다고 할지라도 내가 그 책임을 다할 만한 시간과 장소는 아닌 것이오. 무슨 말인지 이해하리라 믿소.
 PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Zagreus|항상 궁금했는데요. 아킬레우스 님은 어떠셨나요...? 젊었을 때요. 말해주실 수 있다면 해 주세요.
-PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Patroclus|{#DialogueItalicFormat}하{#PreviousFormat}. 누가 어땠는지 어떻게 묘사해야 할지? 모두가 전장에서 아킬레우스를 보면 대단하다고 생각했다오, 이방인. 아군과 적군을 가리지 않고 말이오. 그러나 그게 전부는 아니었소. 확고한 관점. 정의감. 나는 아킬레우스가 전사가 되기 전부터 알았지. 내가 아킬레우스를 좋아했던 유일한 이유였을 거요.
+PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Patroclus|*하*. 누가 어땠는지 어떻게 묘사해야 할지? 모두가 전장에서 아킬레우스를 보면 대단하다고 생각했다오, 이방인. 아군과 적군을 가리지 않고 말이오. 그러나 그게 전부는 아니었소. 확고한 관점. 정의감. 나는 아킬레우스가 전사가 되기 전부터 알았지. 내가 아킬레우스를 좋아했던 유일한 이유였을 거요.
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Patroclus|최근에 테세우스를 몇 번이나 쓰러뜨렸다고 들었소. 아니면... 당신과 닮은 누군가겠지, 이방인. 들었을 때 웃음을 터트릴 뻔 했소. 아무래도 그 자는 아무 것도 배운 게 없는 모양이오.
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Zagreus|테세우스를 아세요? 자기 방식이 확고한 친구 같더라고요. 제가 무슨 저 심연에서 올라온 악마라고 굳게 믿던데요. 뭐... 어느 정도는 사실이기도 합니다만.
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Patroclus|당신은 이 곳에서 아주 악명이 높소. 당신 아버지의 집에 갇혀 있는 괴물 같은 아들이라고 말이오. 공포와 무지는 거창한 이야기를 만들어낸다오.
@@ -223,7 +223,7 @@ PatroclusReunionChat16|Patroclus Reunion Chat 16|Patroclus|그동안 도와줘�
 PatroclusReunionChat17A|Patroclus Reunion Chat 17 A|Patroclus|당신의 모든 인내와 친절에 감사하오.
 PatroclusReunionChat17|Patroclus Reunion Chat 17|Patroclus|이걸 받으시오.
 PatroclusGift01|Patroclus Gift 01|Zagreus|이봐요. 지금 고통받고 있다는 건 알겠고... 이게 도움이 될지 확신할 순 없지만 그래도... 받아 주셨으면 해요.
-PatroclusGift01|Patroclus Gift 01|Patroclus|{#DialogueItalicFormat}아{#PreviousFormat}, 날 동정하는 거로군? 난 여기 있는 다른 혼령들처럼 자존심이 세지 않으니 받겠소. 그래도 교환은 교환인데 공평한 교환이 되어야겠지? 안 그렇소?
+PatroclusGift01|Patroclus Gift 01|Patroclus|*아*, 날 동정하는 거로군? 난 여기 있는 다른 혼령들처럼 자존심이 세지 않으니 받겠소. 그래도 교환은 교환인데 공평한 교환이 되어야겠지? 안 그렇소?
 PatroclusGift02|Patroclus Gift 02|Patroclus|나 같은 자에게 왜 그런 좋은 술을 낭비하려는 거요? 이런 질문에는 답을 안 듣는 편이 나을지도 모르겠군.
 PatroclusGift02|Patroclus Gift 02|Zagreus|잠시나마 당신이 짊어진 짐을 덜어낼 수 있다면 그걸로 만족해요.
 PatroclusGift03|Patroclus Gift 03|Patroclus|아, 술로서 내 슬픔을 일시적으로 잊으란 말이군. 그거 좋네. 매우 사려가 깊은 분이군.
@@ -239,7 +239,7 @@ PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|암브로시아 같은 귀한 �
 PatroclusGift07_A|Patroclus Gift 07 A|Zagreus|아니에요. 제가 엘리시움에 올 때마다 뵙기를 고대하는 분이시죠. 다른 혼령들과는 전혀 다릅니다. 그러니... 마음껏 드세요. 아킬레우스 님하고 같이 드셔도 좋죠.
 PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|그럼... 마셔보겠소. 당신은 나쁜 자가 아니군. 알고 있소, 이방인? 조심하시오, 안 그러면 지금 가진 무자비한 명성에 해가 될 테니 말이오.
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|지난 번에 드린 암브로시아 병이 안 보이네요. 그렇다면... 하나 더 필요하시겠군요. 받으세요. 지금까지 저를 가끔씩 상대해 주셔서 고마워요.
-PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|{#DialogueItalicFormat}나보고 {#PreviousFormat}고맙다는 거요, 이방인? 나는 이곳에 제법 오래 머물렀지만... 아직도 당신네 관행은 이상하게 느껴지는군. 당신은 내가 그 누구에게도 바랄 수 없을만큼 내게 잘해줬소.
+PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|*나보고 *고맙다는 거요, 이방인? 나는 이곳에 제법 오래 머물렀지만... 아직도 당신네 관행은 이상하게 느껴지는군. 당신은 내가 그 누구에게도 바랄 수 없을만큼 내게 잘해줬소.
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|그냥 암브로시아 한 병일 뿐인데요. 별 거 아니에요. 그래요, 사실 손에 넣기 힘들긴 하지만. 그래도!
 PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|당신은 농담을 하지만 나는 그렇지 않소. 내 평생의 감사를 전하고 싶소만... 알다시피 내가 지금.
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|앞으로 살 날이 많이 남으셨잖아요. 여기서 새로 시작하는 겁니다. 자그레우스든 이방인이든 편한 대로 부르세요.

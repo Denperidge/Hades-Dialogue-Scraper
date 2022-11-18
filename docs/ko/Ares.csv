@@ -12,7 +12,7 @@ AresWithAphrodite01|Ares With Aphrodite 01|Aphrodite|그래도 관심 있는 자
 AresWithAphrodite02|Ares With Aphrodite 02|Ares|전쟁이 사랑을 이긴다, 내 혈족아... 상상이 되느냐? 아프로디테 님과 내가 끝없이 논의하는 주제지. 때로는 네가 어떻게 싸움을 선택하게 되었는지 스스로에게 물어 보거라. 물론 싸움에 이유가 필요한 건 아니다만.
 AresWithAphrodite02|Ares With Aphrodite 02|Aphrodite|오, 아레스 님. 그런 말씀으로 우리 꼬맹이 신의 생각이나 판단을 흐려 놓을 필요는 없지 않을까요? 이 작은 신에게는 필요한 것을 제공해 주고, 그 얘기는 우리끼리 하시지요.
 AresWithDionysus01|Ares With Dionysus 01|Ares|아, 내 혈족아. 여기 디오니소스 님에게 가장 위대한 필멸자들의 축제가 언제 치러지는지 묻던 참이었다. 왜냐면 내겐 내 나름대로의 이론이 있거든...
-AresWithDionysus01|Ares With Dionysus 01|Dionysus|그래, 아레스. 내가 졌어. 전쟁이 끝난 뒤에 열리는 축제만한 게 없지! 이긴 쪽에게나 해당되는 소리지만 말이야! 진 놈들은 저 아래에서 {#DialogueItalicFormat}너{#PreviousFormat}랑 축제를 해야겠지, 자그레우스!
+AresWithDionysus01|Ares With Dionysus 01|Dionysus|그래, 아레스. 내가 졌어. 전쟁이 끝난 뒤에 열리는 축제만한 게 없지! 이긴 쪽에게나 해당되는 소리지만 말이야! 진 놈들은 저 아래에서 *너*랑 축제를 해야겠지, 자그레우스!
 AresWithDemeter01|Ares With Demeter 01|Ares|죽음의 냉기가 데메테르 여신의 본색이 되어가고 있구나. 안 그러냐, 내 혈족아? 데메테르 님도 슬슬 익숙해지고 있는 것 같다.
 AresWithDemeter01|Ares With Demeter 01|Demeter|당신 스스로를 잊으신 모양입니다, 아레스 님. 내가 당신보다 훨씬 나이가 많지요. 그런 생각을 하시는 동안에도 나의 기아가 수만 명의 필멸자들을 죽이고 있습니다.
 AresKillQuestComplete|Ares Kill Quest Complete|Ares|1만 개의 영혼이 네 손에 스러졌구나, 내 지옥의 혈육아. 놀라 까무러치겠군. 아주 훌륭해.
@@ -36,9 +36,9 @@ AresAboutThanatos01|Ares About Thanatos 01|Ares|타나토스라는 신을 아나
 AresAboutThanatos02|Ares About Thanatos 02|Ares|타나토스도 잘 지내고 있지? 타나토스가 나와는 달리 필멸자들에게 자비로운 해방을 가져다 주기는 하지만, 나는 그의 일을 존중한다네.
 AresAboutThanatos03|Ares About Thanatos 03|Ares|타나토스와 제법 가까워진 것 같구나, 내 혈육아? 친구를 잘 사귀었어. 솔직히 죽음이 다른 존재에 그렇게 애정을 가지리라고는 생각하지 않았는데 말이야.
 AresRunProgress01|Ares Run Progress 01|Ares|우리가 마지막으로 만났을 때보다 많이 전진했군. 그렇다면 셀 수 없이 많은 죽음을 초래했다는 건데. 칭찬받아 마땅해.
-AresRunProgress02|Ares Run Progress 02|Ares|{#DialogueItalicFormat}아{#PreviousFormat}, 내 혈육아! 네게서 방금 흘린 신선한 피비린내가 나는구나. 지상 근처의 생명체들을 베었구나, 안 그러냐? 그저 해충들이지만 내게는 충분하지.
+AresRunProgress02|Ares Run Progress 02|Ares|*아*, 내 혈육아! 네게서 방금 흘린 신선한 피비린내가 나는구나. 지상 근처의 생명체들을 베었구나, 안 그러냐? 그저 해충들이지만 내게는 충분하지.
 AresRunCleared01|Ares Run Cleared 01|Ares|최근 지상에서 엄청난 폭력이 있었어. 네가 있는 곳과 가깝지만 좀 더 위지. 이상한 일이지만 그것이 너를 다시 돌아가게 만들었을 거다. 걱정 마라. 시간은 우리 편이니.
-AresRunCleared02|Ares Run Cleared 02|Ares|네 아버지의 영역 정문에서 많은 죽음이 느껴지는구나, 내 혈족아. 그게 이상한 일은 아니다만... 그래도 뭔가 있군. {#DialogueItalicFormat}네{#PreviousFormat}가 혹시 그 이유를 아는가 하는데...
+AresRunCleared02|Ares Run Cleared 02|Ares|네 아버지의 영역 정문에서 많은 죽음이 느껴지는구나, 내 혈족아. 그게 이상한 일은 아니다만... 그래도 뭔가 있군. *네*가 혹시 그 이유를 아는가 하는데...
 AresRunCleared03|Ares Run Cleared 03|Ares|네가 여기 오기까지 수많은 실패를 겪었다는 걸 안다, 내 혈족아. 그러나 우리는 그 사이에 이렇게 큰 폭력을 일으켰으니, 반드시 진정한 승리로 이끌어야겠지. 하는 데까지 해 보자.
 AresAboutWar01|Ares About War 01|Ares|여기 지상에서 일어난 전쟁에 대해선 들어봤겠지? 죽은 필멸자들이 한가득 몰려드는 걸 보았을 게다. 아주 멋진 일이지! 하지만 위대하다고 하기엔 좀 부족한 것 같다. 전쟁에 참여한 병사들이 너무 적어.
 AresAboutWar02|Ares About War 02|Ares|전쟁은 멋진 것이다, 내 혈족아. 아주 많은 문제를 해결하면서 그 자체를 피할 수 없게 만들지. 앞으로도 계속해 보자, 알겠지?
@@ -89,7 +89,7 @@ AresLowHealth05|Ares Low Health 05|Ares|필멸자가 지금 너 정도로 부상
 AresFirstPickUp|Ares First Pick Up|Zagreus|언젠간 나타날 거라고 생각했어. 하데스의 이름으로! 올림포스! 메시지를 받아들이겠다.
 AresFirstPickUp|Ares First Pick Up|Ares|자네에겐 전의가 넘쳐흐르는군. 매우 흥미롭지만 지옥에서 태어난 자이니 놀라운 일도 아니지. 거기서 나오면 나한테 전부 얘기해 줘. 나도 죽음에 대해 궁금한 게 많거든.
 AresMiscPickup01|Ares Misc Pickup 01|Ares|죽음을 대하는 자네의 태도가 꽤 정교하다고나 할까. 혹시 아나? 앞으로 그런 일이 생기면 내가 더 도움이 될지?
-AresMiscPickup02|Ares Misc Pickup 02|Ares|{#DialogueItalicFormat}아{#PreviousFormat}, 지면 아래에서 유혈 사태를 일으키고 있는 장본인이 바로 자네로군. 죽음과 맞서는 자네의 투쟁을 내가 조금이나마 효율적으로 만들어 줄 수 있을지 보자고.
+AresMiscPickup02|Ares Misc Pickup 02|Ares|*아*, 지면 아래에서 유혈 사태를 일으키고 있는 장본인이 바로 자네로군. 죽음과 맞서는 자네의 투쟁을 내가 조금이나마 효율적으로 만들어 줄 수 있을지 보자고.
 AresMiscPickup03|Ares Misc Pickup 03|Ares|지옥에서 태어난 나의 친족이여, 자네가 원하는 대로 할 수 있도록 나의 축복을 내려 주지. 날 위해 조금이나마 고통을 가해 준다면 말이야.
 AresMiscPickup04|Ares Misc Pickup 04|Ares|내가 자넬 위해 준비한 게 있는데 말이지. 내 고통의 도구를 소개해도 될까?
 AresMiscPickup05|Ares Misc Pickup 05|Ares|자네의 학살이 계획대로, 오랫동안 잘되어 가고 있길 바라네. 끝나지 않을 싸움이니 말이야. 난 언제나처럼 자넬 도와줄 준비가 되어 있어.
@@ -143,7 +143,7 @@ AresLootBought02|Ares Loot Bought 02|Ares|자네에게 파묻혀 있던 이 경�
 AresLootBought03|Ares Loot Bought 03|Ares|그 뱃사공 카론이 나 덕분에 아주 바빠졌겠지?
 AresLootBought04|Ares Loot Bought 04|Ares|뱃사공 카론이 내 작업을 따라잡으려면 배 크기를 더 키워야 할 게다.
 AresLootBought05|Ares Loot Bought 05|Ares|네 뱃사공은 죽음을 아주 잘 전달하는 존재지. 우리 셋 다 마찬가지겠구나.
-AresRejection01|Ares Rejection 01|Ares|내 관대한 도움을 거절하겠다고? {#DialogueItalicFormat}하하하{#PreviousFormat}, 나를 잘 모르는 모양이구나. 어쨌든 너와 네 적 가운데 한쪽에 죽음이 찾아올 것이다.
+AresRejection01|Ares Rejection 01|Ares|내 관대한 도움을 거절하겠다고? *하하하*, 나를 잘 모르는 모양이구나. 어쨌든 너와 네 적 가운데 한쪽에 죽음이 찾아올 것이다.
 AresRejection02|Ares Rejection 02|Ares|내가 도움을 주겠다는데 거절하겠다고? 이렇게 실망스러울 수가. 죽음을 불러오는 기술에 대해 자넨 아직 배울 게 많은 것 같군.
 AresRejection03|Ares Rejection 03|Ares|나와 반대편에서 싸우겠다는 건 잘못된 결정이야. 누군가 피를 흘려야 한다면 자네 피로 충분하겠어.
 AresRejection04|Ares Rejection 04|Ares|내 제안을 일축하다니 현명하지 못하군. 그렇다면 내가 직접 고통을 느끼게 해 줄 수밖에.

@@ -1,234 +1,234 @@
 Id|Description|Speaker|Text
-InspectHouse01|Inspect House 01|Storyteller|{#DialogueItalicFormat}神々の取り決めにより、冥王の所領となった広大な\n暗き根城、「ハデスの館」。それは、冥王神ハデスが、\nわがままな嫡男とともに暮らす居城でもある。
-InspectLoungeClosed01|Inspect Lounge Closed 01|Storyteller|{#DialogueItalicFormat}かつてはささやかな酒場だった一画は、現在封鎖されている。多頭の番犬ケルベロスが、姿を消した王子に\n会えぬ悲しみから、暴れて破壊し尽くしたためだ。
-InspectShades01|Inspect Shades 01|Storyteller|{#DialogueItalicFormat}死して冥界に送られてきた亡霊たちは、\nみずからの因果な境涯を嘆き、愚痴を吐き出す相手を\n求めて、館内をあてもなく彷徨っている。
-InspectLoungeOpen01|Inspect Lounge Open 01|Storyteller|{#DialogueItalicFormat}ハデスの館に住まう、渋面の面々。\n彼らにささやかな娯楽の場をと設けられた酒場だが、\n皮肉にも、そこで過ごせばかえって気分がふさぐ。
-InspectEmployeeOfTheMonth01|Inspect Employee Of The Month 01|Storyteller|{#DialogueItalicFormat}酒場の殺風景な壁の一角に、華やかな掲示板が\n備えられている。冥王ハデスにとりわけ\n貢献した者たちを褒めたたえるものだ。
-InspectCellar01|Inspect Cellar 01|Storyteller|{#DialogueItalicFormat}冥王ハデスの館の奥部に隠された、古の酒樽。\nこれらの美酒を味わえる者は、ひと握りだ。\n貯蔵場所に近づくことを許される者にいたっては、\nさらに限られる。
-InspectCellar01|Inspect Cellar 01|Storyteller|{#DialogueItalicFormat}ハデスの館に蓄えられた、酒樽の数々。中を満たして\nいた葡萄酒は、オリュンポスの神々が一堂に会する宴が開かれて以降、ほぼ空のままとなっている。
-InspectOlympusSculpture01|Inspect Olympus Sculpture 01|Storyteller|{#DialogueItalicFormat}オリュンポス山より切り出した石を使用し、技術の粋を尽くして彫り上げたオリュンポス神殿の彫刻は、薄暗いハデスの館でも、絶えず輝きを放つ。当主の一族に当たる神々より、餞別の品として贈られたものだ。
-InspectMural01|Inspect Mural 01|Storyteller|{#DialogueItalicFormat}こまやかに描き上げられた、巨大なモザイク画。\n広大な領地を統べる冥王と、\n彼を畏怖する冥界の住人たちの姿をとらえたものだ。
-InspectThrone01|Inspect Throne 01|Storyteller|{#DialogueItalicFormat}厳格な冥王ハデスが、権力の象徴ともいうべき玉座を\n空けることは、きわめて珍しい。館の使用人たちは\n不在の理由を尋ねようとすらせず、\n普段どおりめいめいの仕事に邁進している。
-InspectHouseGarden01|Inspect House Garden 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子が、生まれてこの方足を踏み入れる\nことの許されなかった、王妃ペルセポネの庭園。\nその美しき全貌が、ついにあらわとなった。
-Flashback02|Flashback 02|Storyteller|{#DialogueItalicFormat}見とがめられることを半ば恐れつつ、\n冥王の荘厳な玉座に近づくザグレウス。\n彼はそこで、思いも寄らぬものを発見する。
-Flashback03|Flashback 03|Storyteller|{#DialogueItalicFormat}明確に何かを探していたわけではない。\nただ、漠然と、違和感だけは抱きつづけてきた。\n自分はいったい、何者なのか。冥王ハデスに\n問うたところで相手にされるはずもなく、\n王子はみずから答えを探すことにしたのだった。
-Flashback04|Flashback 04|Storyteller|{#DialogueItalicFormat}父王の私物を探る。特にめぼしい物はなさそうだ。\n台帳、書類、目を通した形跡のないオリュンポスからの書簡… 嫡男に関するものは見当たらない。
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。
-Flashback05|Flashback 05|Persephone|{#DialogueItalicFormat}ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。
+InspectHouse01|Inspect House 01|Storyteller|*神々の取り決めにより、冥王の所領となった広大な\n暗き根城、「ハデスの館」。それは、冥王神ハデスが、\nわがままな嫡男とともに暮らす居城でもある。*
+InspectLoungeClosed01|Inspect Lounge Closed 01|Storyteller|*かつてはささやかな酒場だった一画は、現在封鎖されている。多頭の番犬ケルベロスが、姿を消した王子に\n会えぬ悲しみから、暴れて破壊し尽くしたためだ。*
+InspectShades01|Inspect Shades 01|Storyteller|*死して冥界に送られてきた亡霊たちは、\nみずからの因果な境涯を嘆き、愚痴を吐き出す相手を\n求めて、館内をあてもなく彷徨っている。*
+InspectLoungeOpen01|Inspect Lounge Open 01|Storyteller|*ハデスの館に住まう、渋面の面々。\n彼らにささやかな娯楽の場をと設けられた酒場だが、\n皮肉にも、そこで過ごせばかえって気分がふさぐ。*
+InspectEmployeeOfTheMonth01|Inspect Employee Of The Month 01|Storyteller|*酒場の殺風景な壁の一角に、華やかな掲示板が\n備えられている。冥王ハデスにとりわけ\n貢献した者たちを褒めたたえるものだ。*
+InspectCellar01|Inspect Cellar 01|Storyteller|*冥王ハデスの館の奥部に隠された、古の酒樽。\nこれらの美酒を味わえる者は、ひと握りだ。\n貯蔵場所に近づくことを許される者にいたっては、\nさらに限られる。*
+InspectCellar01|Inspect Cellar 01|Storyteller|*ハデスの館に蓄えられた、酒樽の数々。中を満たして\nいた葡萄酒は、オリュンポスの神々が一堂に会する宴が開かれて以降、ほぼ空のままとなっている。*
+InspectOlympusSculpture01|Inspect Olympus Sculpture 01|Storyteller|*オリュンポス山より切り出した石を使用し、技術の粋を尽くして彫り上げたオリュンポス神殿の彫刻は、薄暗いハデスの館でも、絶えず輝きを放つ。当主の一族に当たる神々より、餞別の品として贈られたものだ。*
+InspectMural01|Inspect Mural 01|Storyteller|*こまやかに描き上げられた、巨大なモザイク画。\n広大な領地を統べる冥王と、\n彼を畏怖する冥界の住人たちの姿をとらえたものだ。*
+InspectThrone01|Inspect Throne 01|Storyteller|*厳格な冥王ハデスが、権力の象徴ともいうべき玉座を\n空けることは、きわめて珍しい。館の使用人たちは\n不在の理由を尋ねようとすらせず、\n普段どおりめいめいの仕事に邁進している。*
+InspectHouseGarden01|Inspect House Garden 01|Storyteller|*ザグレウス王子が、生まれてこの方足を踏み入れる\nことの許されなかった、王妃ペルセポネの庭園。\nその美しき全貌が、ついにあらわとなった。*
+Flashback02|Flashback 02|Storyteller|*見とがめられることを半ば恐れつつ、\n冥王の荘厳な玉座に近づくザグレウス。\n彼はそこで、思いも寄らぬものを発見する。*
+Flashback03|Flashback 03|Storyteller|*明確に何かを探していたわけではない。\nただ、漠然と、違和感だけは抱きつづけてきた。\n自分はいったい、何者なのか。冥王ハデスに\n問うたところで相手にされるはずもなく、\n王子はみずから答えを探すことにしたのだった。*
+Flashback04|Flashback 04|Storyteller|*父王の私物を探る。特にめぼしい物はなさそうだ。\n台帳、書類、目を通した形跡のないオリュンポスからの書簡… 嫡男に関するものは見当たらない。*
+Flashback05|Flashback 05|Storyteller|*しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。*
+Flashback05|Flashback 05|Persephone|*ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。*
+Flashback05|Flashback 05|Storyteller|*こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。*
 Flashback05|Flashback 05|Zagreus|「みずからの母」… ？ってことは… \nこの「ペルセポネ」が、俺の…？でも父上は、\n俺の母親はニュクスだと… 父上もニュクスも、\n俺をずっとだましてたのか…！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…
-Flashback06|Flashback 06|Storyteller|{#DialogueItalicFormat}ペルセポネ… 一時は冥界全土を統べる王妃だった\n彼女は、なぜ館を去ったのか。今はいずこにいるのか。\n新たな疑問と怒りに駆られ、ザグレウスは父王に\n直接問いただすことを決意した。
-Flashback_DayNightJob_02|Flashback Day Night Job 02|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、おのれに課された責任の\n一切を放棄し、父王の館内を悠長に歩く。\nこうした状況下では早急な対応をと命じられている\nにもかかわらず、まるで意に介していない様子だ。
-Flashback_DayNightJob_03|Flashback Day Night Job 03|Storyteller|{#DialogueItalicFormat}廊下の先で手招きする、執務室への扉。\nうまくやれば、中で働く者たちに気づかれる\nことなく、室内に入ることができるかもしれない。
-Inspect_HousePillars_01|Inspect House Pillars 01|Storyteller|{#DialogueItalicFormat}地中に大量に秘された、玲瓏な宝珠の数々。\nその多くは、ハデスの館の装飾に使用されている。\n冥王ハデスは死者の神であると同時に、\n富の神でもあるのだ。
-Inspect_NorthFountain_01|Inspect North Fountain 01|Storyteller|{#DialogueItalicFormat}生命の源である水は、闇に沈む冥界の片隅にも流れる。\n彷徨う亡霊たちはその様を眺め、\n水でのどを潤し空気を吸うことのできた、\n在りし日の儚いひとときを追憶する。
-Inspect_SouthFountain_01|Inspect South Fountain 01|Storyteller|{#DialogueItalicFormat}ザグレウスはみずから集めた宝珠を費やし、\nかくも豪華な噴水を発注した。それを目の当たりにした亡霊たちは皆、いまだに王子に感謝している。
-Inspect_Cauldron_01|Inspect Cauldron 01|Storyteller|{#DialogueItalicFormat}死者に食事は必要ない。にもかかわらず、\n彼らは料理を味わわんとする。生者の暮らしに\n思いをはせることで、心の平穏を得られるかのように。
-Inspect_KitchenIsland|Inspect Kitchen Island|Storyteller|{#DialogueItalicFormat}ザグレウスは空腹である。しかし、\n厨房にあれほど多大な投資をしたにもかかわらず、\nそこにまっとうな食料は見当たらない。
-Inspect_PoetBust_01|Inspect Poet Bust 01|Storyteller|{#DialogueItalicFormat}ギャラリーには、名高い詩人の胸像が飾られている。\n歳の割には精悍な顔だちだ。未来に運命づけられた\n名声をつかむには至っていないものの、\n彼はいつの日か、名を上げることだろう。
-Inspect_AsphodelStatue_01|Inspect Asphodel Statue 01|Storyteller|{#DialogueItalicFormat}調度品として、永久に館を飾ることとなった、\nブラッドレスの白骨。館の主への務めを果たした、\n凶暴な従者への追悼の品である。
-Inspect_WarriorStatue_01|Inspect Warrior Statue 01|Storyteller|{#DialogueItalicFormat}見事に彫り上げられた、ギリシャが誇る英雄の像。\nギャラリーを訪れる見物人の多くは、\nその姿を目の当たりにし、\nおのれとは比較にならぬ威光に圧倒される。
-Inspect_MainHallFireplace01|Inspect Main Hall Fireplace 01|Storyteller|{#DialogueItalicFormat}奈落に燃ゆる炎の灯りが、酒場をやわらかに照らす。\nその暖かさは、数少ない生者の常連客たちの心に\n安らぎをもたらす。
-Inspect_Sundial01|Inspect Sundial 01|Storyteller|{#DialogueItalicFormat}死者たちが永遠の時を過ごすこの地では、\n時の流れすら静止しているかのようだ。\nその流れを計る仕掛けすら、それを物語る。
-Flashback_Mother_01|Flashback Mother 01|Storyteller|{#DialogueItalicFormat}それは、冥界において「真夜中」に相当する時間の\nこと。浅い眠りから目覚めた冥界の王子ザグレウスは、\n悪さのかぎりを尽くしてやろうとたくらんでいた。
-Flashback_DayNightJob_01|Flashback Day Night Job 01|Storyteller|{#DialogueItalicFormat}冥界の王子は、深い眠りより目覚めた。\n昼夜の区別のないこの地での奮闘に疲れ、\nつかの間仮眠を取るつもりだったが、\n思いの外、熟睡してしまったようだ…
-InspectBedroom01|Inspect Bedroom 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子の寝室は、いついかなるときでも乱雑に散らかっている。家主である父王が、再三片づけるよう説教しても、どこ吹く風である。
-InspectBedroom_TrojanArms|Inspect Bedroom Trojan Arms|Storyteller|{#DialogueItalicFormat}イリオンの包囲戦で使用された、\n武具たちのなれの果て。今は、散らかり放題の\n王子の部屋を飾る調度品に成り下がっている。
-InspectBedroom_AchillesPoster|Inspect Bedroom Achilles Poster|Storyteller|{#DialogueItalicFormat}英雄アキレウスの武勇を未来永劫たたえる絵巻物。\n王子の寝室の壁を飾るそれは、\n見る者の内にさらなる勇気を湧き立たせるかのようだ。
-InspectBedroom_AphroditePoster|Inspect Bedroom Aphrodite Poster|Storyteller|{#DialogueItalicFormat}女神アフロディテの姿を写した絵巻物。\n王子の居室の壁を飾るそれは、次に彼が死を迎えるとき\n癒やしを与えてくれるやもしれない。
-InspectBedroom_DionysusPoster|Inspect Bedroom Dionysus Poster|Storyteller|{#DialogueItalicFormat}葡萄酒に染まった顔をほころばせるディオニュソス神の肖像画が、ザグレウス王子の寝室の壁を彩る。\nこの画が王子にもたらす影響が懸念される。
-InspectBedroom_ScryingPool|Inspect Bedroom Scrying Pool|Storyteller|{#DialogueItalicFormat}軽微な魔法がかけられた、美しい意匠の水盆。\nザグレウスの部屋の、特に散らかった一角に備えられた\nその水面をのぞくと、不運な王子がこれまでに失敗した\n脱出劇の記録をかいま見ることができる。
-InspectBedroom_Lyre|Inspect Bedroom Lyre|Storyteller|{#DialogueItalicFormat}常に騒がしく、繊細さとは無縁な王子の居室に、\n楽器が置かれている。精巧に組み立てられた\nそれに心があったなら、王子の手荒な扱いに、\nさぞおびえていることだろう。
-InspectBedroomGamingTable01|Inspect Bedroom Gaming Table 01|Storyteller|{#DialogueItalicFormat}複雑な意匠を施した、娯楽専用の調度品。\n享楽的な王子の居室にふさわしくも思えるが、\n対戦相手のいない彼がその神髄を味わう機会はない。
-InspectBedroomRug01|Inspect Bedroom Rug 01|Storyteller|{#DialogueItalicFormat}やわらかな繊維をふんだんに使用し、織り上げられた\n敷物。炎にあぶられたザグレウスの足では、\nその感触を存分に味わうことはかなわない。
-InspectBedroom_FancyBed|Inspect Bedroom Fancy Bed|Storyteller|{#DialogueItalicFormat}死を思わせる刺繍が施されたザグレウス王子の\n新たな寝具は、絶妙なやわらかさを備える。\n安らかな眠りを願う者たちの垂涎の的だ。
-InspectBedroomCouch01|Inspect Bedroom Couch 01|Storyteller|{#DialogueItalicFormat}活力のありあまるザグレウス王子は、\nじっと座っていることができない。\nこれほどまでにしなやかで、\n座り心地のよい座面を持つ椅子でも。
-InspectBedroomWeights01|Inspect Bedroom Weights 01|Storyteller|{#DialogueItalicFormat}来客の目に触れる場所に並べられた、\nいかにも重たげなウエイト。これを見た者は\nザグレウスを、実際よりも屈強で見栄えのよい\n体格の持ち主と錯覚するだろう。
-InspectBedroom_QuestLog|Inspect Bedroom Quest Log|Storyteller|{#DialogueItalicFormat}運命はみずから切り開くものと信じるザグレウス王子は\n「些事の運命を記した書」を、みずからの意志で\n入手したと思っていることだろう。しかし実際は、\nそれも運命のひとつとして記されているのだ。
-Flashback01|Flashback 01|Storyteller|{#DialogueItalicFormat}館は静まりかえっている。よからぬことをたくらむ\nザグレウス王子の命を受け、夢みごこちのヒュプノスが\n館に魔法をかけたのだ。王子をのぞく住人たちは皆、\n寝静まっている。すべては計画通りだ。
-Inspect_DeathAreaBedroomHades_Portrait_01|Inspect Death Area Bedroom Hades Portrait 01|Storyteller|{#DialogueItalicFormat}父王の私室の鍵を開け、内部に足を踏み入れた\nザグレウス王子は、精巧に描かれた肖像画を\n目の当たりにする。それはまぎれもなく、\nペルセポネの姿… 表面を覆う埃から、長きにわたり、\nそこに掲げられていることがうかがい知れる。
-Inspect_DeathAreaBedroomHades_Capes_01|Inspect Death Area Bedroom Hades Capes 01|Storyteller|{#DialogueItalicFormat}冥王の座に君臨する館の当主は、贅沢を好まず、\n貯め込む一方の財産の額は底知れず。冥王はその一部を\n日々身にまとう小ぎれいな衣を調えるために費やした。
-Inspect_DeathAreaOffice_Teleporter_01|Inspect Death Area Office Teleporter 01|Storyteller|{#DialogueItalicFormat}執務室の奥には、ハデスの館に受け継がれる\n「最古の旗印」が設えられている。それは、運命の\n三女神より授かった冥界統治権の証しであると同時に、闇の領域内を自在に移動する手段としても機能する。
-Inspect_DeathAreaOffice_WaterCooler01|Inspect Death Area Office Water Cooler 01|Storyteller|{#DialogueItalicFormat}冷たく清らかな、ステュクス川の水。\n館の執務室で永遠の労働に就くことを許された\n使用人は、それをいくらでも口にすることができる。
-Inspect_DeathAreaOffice_Poster_01|Inspect Death Area Office Poster 01|Storyteller|{#DialogueItalicFormat}執務室で、休む間もなく職務をこなす亡霊たち。\nそこには一切の見返りはない。彼らを突き動かすのは、\n熱心に働くことを促す惹句のみである。
-Inspect_DeathAreaOffice_SealedContract_01|Inspect Death Area Office Sealed Contract 01|Storyteller|{#DialogueItalicFormat}無数に置かれた、死者と罪人の記録。うち一通は、\n「ごろつき王の罪状」の名で知られる、封印された\n文書である。「ごろつき王」なる人物を、ひたすら\n巨岩を運びつづける永久の刑に処す旨が記されている。
-Inspect_DeathAreaOffice_SealedContract_02|Inspect Death Area Office Sealed Contract 02|Storyteller|{#DialogueItalicFormat}うずたかく積み上がった、死者の処遇に関する書類。\nそれらに埋もれるように、一枚の古びた文書がある。\n生者であった頃に宮廷楽士を生業とし、死せる妻を\n冥界から救おうとして失敗した男…\nその者が結んだ、ある盟約に関して記されている。
-Inspect_DeathAreaOffice_SealedContract_03|Inspect Death Area Office Sealed Contract 03|Storyteller|{#DialogueItalicFormat}冥王ハデスと死者の間に取り交わされた、\n無数の盟約。それらの記録を収めた\n書庫の最奥部に、ひときわ古びた契約書が眠る。\n名戦士に館での務めを課す代わりに、彼の伴侶には\nエリュシオンでの死後生を約束する内容だ。
-Flashback_DayNightJob_Office_01|Flashback Day Night Job Office 01|Storyteller|{#DialogueItalicFormat}王子が当館で担う職務。それは、少なくとも開始の\n段階では、きわめて容易である。持ち場に出向き、\n今日の仕事を開始する旨、伝達するだけだ。
-Flashback_DayNightJob_Office_02|Flashback Day Night Job Office 02|Storyteller|{#DialogueItalicFormat}冥王の所領を管理する仕事には、\n所定の形式での台帳の記帳も含まれる。\nなんとかこなそうと奮闘する王子だが、\nこの手の事柄は、彼の得意とするところではない。
-Flashback_DayNightJob_Office_03|Flashback Day Night Job Office 03|Storyteller|{#DialogueItalicFormat}判決文を承認する仕事に着手する王子だったが、\nいまだ見習いの域を出ない彼の仕事ぶりは、\n完璧とはほど遠い。
-Flashback_DayNightJob_Office_04|Flashback Day Night Job Office 04|Storyteller|{#DialogueItalicFormat}冥王の所領の管理業務を担当する亡霊たちは、\nおのれの職務を粛々とこなしつつ、\n王子の雑な仕事ぶりをただ見守っている。
-Flashback_DayNightJob_Office_05|Flashback Day Night Job Office 05|Storyteller|{#DialogueItalicFormat}怠け癖のある王子は、父王の所領に含まれる\n各地の記録をまとめる業務について、\n正しく学ぼうとする姿勢をとったためしがない。
-Flashback_DayNightJob_Office_06|Flashback Day Night Job Office 06|Storyteller|{#DialogueItalicFormat}こうした職務の遂行には細心の注意を要するが、\nしかるべき研修をこなした適正者にとっては、\nさほど困難ではない。しかし、常に気もそぞろで仕事に\n身が入らないザグレウス王子の場合、話は別である。
-Flashback_DayNightJob_Office_07|Flashback Day Night Job Office 07|Storyteller|{#DialogueItalicFormat}ハデスの館では、すべての支出について、\n細大漏らさず記録せねばならない。詳細な表を\n作成しての作業だが、王子は、その手の仕事を\nそつなくこなす素養を持ち合わせていない。
-Flashback_DayNightJob_Office_08|Flashback Day Night Job Office 08|Storyteller|{#DialogueItalicFormat}ハデスの館の台帳に、宝珠、金剛石、闇の結晶などの\n収入項目が、几帳面に記入されていく。\nこうした記録の管理は、王子が疎んでやまない仕事の\nほんのひとつにすぎない。
-Flashback_DayNightJob_Office_09|Flashback Day Night Job Office 09|Storyteller|{#DialogueItalicFormat}執務室の机には、期限を超過した改装依頼の記録が\n所狭しと並んでいる。これらの書類を、日付の古い\nものからアルファベット順に整理しようという気は、\nいまのところ、王子には毛頭ないようだ。
-Flashback_DayNightJob_Office_10|Flashback Day Night Job Office 10|Storyteller|{#DialogueItalicFormat}館で労役に就く亡霊たちの出勤記録を確認し、\n彼らに支払われる報酬を次々と承認してゆく王子。\nとはいえ、その作業の手順を覚えることは、\nいまだできないようだ。
-Flashback_DayNightJob_Office_11|Flashback Day Night Job Office 11|Storyteller|{#DialogueItalicFormat}所狭しと並ぶ、羊皮紙の山。そのすべてに記された\n職務の内容を逐一整理し、登録せねばならない。\n整理整頓を苦手とするザグレウス王子は、\nおのれの行く末に暗雲が垂れこめるのを感じた。
-Flashback_DayNightJob_Office_12|Flashback Day Night Job Office 12|Storyteller|{#DialogueItalicFormat}館の執務室での職務には、ザグレウス王子が比較的\n心楽しくこなせるものも、必ずや存在するであろう。\nしかし、彼がしかと身を入れて取り組む必要がある\n作業は、そこに含まれていない。
-Flashback_DayNightJob_Office_13|Flashback Day Night Job Office 13|Storyteller|{#DialogueItalicFormat}亡霊たちから寄せられた苦情一覧の確認は、\nこの館において、きわめて重要性の高い仕事である。\n…少なくとも、冥王ハデスはわがまま放題の嫡男に\nそう告げることで、やる気をあおろうとした。
-Flashback_DayNightJob_Office_14|Flashback Day Night Job Office 14|Storyteller|{#DialogueItalicFormat}冥界全域を彷徨う亡霊たちより寄せられた、\n大量の苦情の数々。それらを確認し、整理し、\n処理せねばならない。しかしザグレウス王子は、\nどこから手を着けてよいかすら、わからずにいた。
-Flashback_DayNightJob_Office_15|Flashback Day Night Job Office 15|Storyteller|{#DialogueItalicFormat}執務室に並ぶ机の上に置かれた備品は、入念に\n管理し、所定の方式に則って配置せねばならない。\nしかし王子は、そうした手順をいまだ完全に\n頭に入れることができずにいる。
-Flashback_DayNightJob_Office_16|Flashback Day Night Job Office 16|Storyteller|{#DialogueItalicFormat}タルタロスからの脱出を企てた亡霊に関する\n警備報告書は、遅延なく確認し、しかるべき\n対応をする必要がある。ザグレウス王子は、\nそのいずれも的確にこなす素質を備えていない。
-Flashback_DayNightJob_Office_Conclusion_01|Flashback Day Night Job Office Conclusion 01|Storyteller|{#DialogueItalicFormat}何かにつけて怠け癖のあるザグレウス王子だが、\n厳格な父王の館における執務をこなさんとした\n結果について、簡素な記録をつける程度のことは、\nかろうじてこなしている。
-InspectPreRun01|Inspect Pre Run 01|Storyteller|{#DialogueItalicFormat}ハデスの館の中庭は、整理整頓が行き届いている。その先に無秩序に広がる恐ろしき光景は、にわかには想像がつかない。
+Flashback05|Flashback 05|Storyteller|*…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…*
+Flashback06|Flashback 06|Storyteller|*ペルセポネ… 一時は冥界全土を統べる王妃だった\n彼女は、なぜ館を去ったのか。今はいずこにいるのか。\n新たな疑問と怒りに駆られ、ザグレウスは父王に\n直接問いただすことを決意した。*
+Flashback_DayNightJob_02|Flashback Day Night Job 02|Storyteller|*ザグレウス王子は、おのれに課された責任の\n一切を放棄し、父王の館内を悠長に歩く。\nこうした状況下では早急な対応をと命じられている\nにもかかわらず、まるで意に介していない様子だ。*
+Flashback_DayNightJob_03|Flashback Day Night Job 03|Storyteller|*廊下の先で手招きする、執務室への扉。\nうまくやれば、中で働く者たちに気づかれる\nことなく、室内に入ることができるかもしれない。*
+Inspect_HousePillars_01|Inspect House Pillars 01|Storyteller|*地中に大量に秘された、玲瓏な宝珠の数々。\nその多くは、ハデスの館の装飾に使用されている。\n冥王ハデスは死者の神であると同時に、\n富の神でもあるのだ。*
+Inspect_NorthFountain_01|Inspect North Fountain 01|Storyteller|*生命の源である水は、闇に沈む冥界の片隅にも流れる。\n彷徨う亡霊たちはその様を眺め、\n水でのどを潤し空気を吸うことのできた、\n在りし日の儚いひとときを追憶する。*
+Inspect_SouthFountain_01|Inspect South Fountain 01|Storyteller|*ザグレウスはみずから集めた宝珠を費やし、\nかくも豪華な噴水を発注した。それを目の当たりにした亡霊たちは皆、いまだに王子に感謝している。*
+Inspect_Cauldron_01|Inspect Cauldron 01|Storyteller|*死者に食事は必要ない。にもかかわらず、\n彼らは料理を味わわんとする。生者の暮らしに\n思いをはせることで、心の平穏を得られるかのように。*
+Inspect_KitchenIsland|Inspect Kitchen Island|Storyteller|*ザグレウスは空腹である。しかし、\n厨房にあれほど多大な投資をしたにもかかわらず、\nそこにまっとうな食料は見当たらない。*
+Inspect_PoetBust_01|Inspect Poet Bust 01|Storyteller|*ギャラリーには、名高い詩人の胸像が飾られている。\n歳の割には精悍な顔だちだ。未来に運命づけられた\n名声をつかむには至っていないものの、\n彼はいつの日か、名を上げることだろう。*
+Inspect_AsphodelStatue_01|Inspect Asphodel Statue 01|Storyteller|*調度品として、永久に館を飾ることとなった、\nブラッドレスの白骨。館の主への務めを果たした、\n凶暴な従者への追悼の品である。*
+Inspect_WarriorStatue_01|Inspect Warrior Statue 01|Storyteller|*見事に彫り上げられた、ギリシャが誇る英雄の像。\nギャラリーを訪れる見物人の多くは、\nその姿を目の当たりにし、\nおのれとは比較にならぬ威光に圧倒される。*
+Inspect_MainHallFireplace01|Inspect Main Hall Fireplace 01|Storyteller|*奈落に燃ゆる炎の灯りが、酒場をやわらかに照らす。\nその暖かさは、数少ない生者の常連客たちの心に\n安らぎをもたらす。*
+Inspect_Sundial01|Inspect Sundial 01|Storyteller|*死者たちが永遠の時を過ごすこの地では、\n時の流れすら静止しているかのようだ。\nその流れを計る仕掛けすら、それを物語る。*
+Flashback_Mother_01|Flashback Mother 01|Storyteller|*それは、冥界において「真夜中」に相当する時間の\nこと。浅い眠りから目覚めた冥界の王子ザグレウスは、\n悪さのかぎりを尽くしてやろうとたくらんでいた。*
+Flashback_DayNightJob_01|Flashback Day Night Job 01|Storyteller|*冥界の王子は、深い眠りより目覚めた。\n昼夜の区別のないこの地での奮闘に疲れ、\nつかの間仮眠を取るつもりだったが、\n思いの外、熟睡してしまったようだ…*
+InspectBedroom01|Inspect Bedroom 01|Storyteller|*ザグレウス王子の寝室は、いついかなるときでも乱雑に散らかっている。家主である父王が、再三片づけるよう説教しても、どこ吹く風である。*
+InspectBedroom_TrojanArms|Inspect Bedroom Trojan Arms|Storyteller|*イリオンの包囲戦で使用された、\n武具たちのなれの果て。今は、散らかり放題の\n王子の部屋を飾る調度品に成り下がっている。*
+InspectBedroom_AchillesPoster|Inspect Bedroom Achilles Poster|Storyteller|*英雄アキレウスの武勇を未来永劫たたえる絵巻物。\n王子の寝室の壁を飾るそれは、\n見る者の内にさらなる勇気を湧き立たせるかのようだ。*
+InspectBedroom_AphroditePoster|Inspect Bedroom Aphrodite Poster|Storyteller|*女神アフロディテの姿を写した絵巻物。\n王子の居室の壁を飾るそれは、次に彼が死を迎えるとき\n癒やしを与えてくれるやもしれない。*
+InspectBedroom_DionysusPoster|Inspect Bedroom Dionysus Poster|Storyteller|*葡萄酒に染まった顔をほころばせるディオニュソス神の肖像画が、ザグレウス王子の寝室の壁を彩る。\nこの画が王子にもたらす影響が懸念される。*
+InspectBedroom_ScryingPool|Inspect Bedroom Scrying Pool|Storyteller|*軽微な魔法がかけられた、美しい意匠の水盆。\nザグレウスの部屋の、特に散らかった一角に備えられた\nその水面をのぞくと、不運な王子がこれまでに失敗した\n脱出劇の記録をかいま見ることができる。*
+InspectBedroom_Lyre|Inspect Bedroom Lyre|Storyteller|*常に騒がしく、繊細さとは無縁な王子の居室に、\n楽器が置かれている。精巧に組み立てられた\nそれに心があったなら、王子の手荒な扱いに、\nさぞおびえていることだろう。*
+InspectBedroomGamingTable01|Inspect Bedroom Gaming Table 01|Storyteller|*複雑な意匠を施した、娯楽専用の調度品。\n享楽的な王子の居室にふさわしくも思えるが、\n対戦相手のいない彼がその神髄を味わう機会はない。*
+InspectBedroomRug01|Inspect Bedroom Rug 01|Storyteller|*やわらかな繊維をふんだんに使用し、織り上げられた\n敷物。炎にあぶられたザグレウスの足では、\nその感触を存分に味わうことはかなわない。*
+InspectBedroom_FancyBed|Inspect Bedroom Fancy Bed|Storyteller|*死を思わせる刺繍が施されたザグレウス王子の\n新たな寝具は、絶妙なやわらかさを備える。\n安らかな眠りを願う者たちの垂涎の的だ。*
+InspectBedroomCouch01|Inspect Bedroom Couch 01|Storyteller|*活力のありあまるザグレウス王子は、\nじっと座っていることができない。\nこれほどまでにしなやかで、\n座り心地のよい座面を持つ椅子でも。*
+InspectBedroomWeights01|Inspect Bedroom Weights 01|Storyteller|*来客の目に触れる場所に並べられた、\nいかにも重たげなウエイト。これを見た者は\nザグレウスを、実際よりも屈強で見栄えのよい\n体格の持ち主と錯覚するだろう。*
+InspectBedroom_QuestLog|Inspect Bedroom Quest Log|Storyteller|*運命はみずから切り開くものと信じるザグレウス王子は\n「些事の運命を記した書」を、みずからの意志で\n入手したと思っていることだろう。しかし実際は、\nそれも運命のひとつとして記されているのだ。*
+Flashback01|Flashback 01|Storyteller|*館は静まりかえっている。よからぬことをたくらむ\nザグレウス王子の命を受け、夢みごこちのヒュプノスが\n館に魔法をかけたのだ。王子をのぞく住人たちは皆、\n寝静まっている。すべては計画通りだ。*
+Inspect_DeathAreaBedroomHades_Portrait_01|Inspect Death Area Bedroom Hades Portrait 01|Storyteller|*父王の私室の鍵を開け、内部に足を踏み入れた\nザグレウス王子は、精巧に描かれた肖像画を\n目の当たりにする。それはまぎれもなく、\nペルセポネの姿… 表面を覆う埃から、長きにわたり、\nそこに掲げられていることがうかがい知れる。*
+Inspect_DeathAreaBedroomHades_Capes_01|Inspect Death Area Bedroom Hades Capes 01|Storyteller|*冥王の座に君臨する館の当主は、贅沢を好まず、\n貯め込む一方の財産の額は底知れず。冥王はその一部を\n日々身にまとう小ぎれいな衣を調えるために費やした。*
+Inspect_DeathAreaOffice_Teleporter_01|Inspect Death Area Office Teleporter 01|Storyteller|*執務室の奥には、ハデスの館に受け継がれる\n「最古の旗印」が設えられている。それは、運命の\n三女神より授かった冥界統治権の証しであると同時に、闇の領域内を自在に移動する手段としても機能する。*
+Inspect_DeathAreaOffice_WaterCooler01|Inspect Death Area Office Water Cooler 01|Storyteller|*冷たく清らかな、ステュクス川の水。\n館の執務室で永遠の労働に就くことを許された\n使用人は、それをいくらでも口にすることができる。*
+Inspect_DeathAreaOffice_Poster_01|Inspect Death Area Office Poster 01|Storyteller|*執務室で、休む間もなく職務をこなす亡霊たち。\nそこには一切の見返りはない。彼らを突き動かすのは、\n熱心に働くことを促す惹句のみである。*
+Inspect_DeathAreaOffice_SealedContract_01|Inspect Death Area Office Sealed Contract 01|Storyteller|*無数に置かれた、死者と罪人の記録。うち一通は、\n「ごろつき王の罪状」の名で知られる、封印された\n文書である。「ごろつき王」なる人物を、ひたすら\n巨岩を運びつづける永久の刑に処す旨が記されている。*
+Inspect_DeathAreaOffice_SealedContract_02|Inspect Death Area Office Sealed Contract 02|Storyteller|*うずたかく積み上がった、死者の処遇に関する書類。\nそれらに埋もれるように、一枚の古びた文書がある。\n生者であった頃に宮廷楽士を生業とし、死せる妻を\n冥界から救おうとして失敗した男…\nその者が結んだ、ある盟約に関して記されている。*
+Inspect_DeathAreaOffice_SealedContract_03|Inspect Death Area Office Sealed Contract 03|Storyteller|*冥王ハデスと死者の間に取り交わされた、\n無数の盟約。それらの記録を収めた\n書庫の最奥部に、ひときわ古びた契約書が眠る。\n名戦士に館での務めを課す代わりに、彼の伴侶には\nエリュシオンでの死後生を約束する内容だ。*
+Flashback_DayNightJob_Office_01|Flashback Day Night Job Office 01|Storyteller|*王子が当館で担う職務。それは、少なくとも開始の\n段階では、きわめて容易である。持ち場に出向き、\n今日の仕事を開始する旨、伝達するだけだ。*
+Flashback_DayNightJob_Office_02|Flashback Day Night Job Office 02|Storyteller|*冥王の所領を管理する仕事には、\n所定の形式での台帳の記帳も含まれる。\nなんとかこなそうと奮闘する王子だが、\nこの手の事柄は、彼の得意とするところではない。*
+Flashback_DayNightJob_Office_03|Flashback Day Night Job Office 03|Storyteller|*判決文を承認する仕事に着手する王子だったが、\nいまだ見習いの域を出ない彼の仕事ぶりは、\n完璧とはほど遠い。*
+Flashback_DayNightJob_Office_04|Flashback Day Night Job Office 04|Storyteller|*冥王の所領の管理業務を担当する亡霊たちは、\nおのれの職務を粛々とこなしつつ、\n王子の雑な仕事ぶりをただ見守っている。*
+Flashback_DayNightJob_Office_05|Flashback Day Night Job Office 05|Storyteller|*怠け癖のある王子は、父王の所領に含まれる\n各地の記録をまとめる業務について、\n正しく学ぼうとする姿勢をとったためしがない。*
+Flashback_DayNightJob_Office_06|Flashback Day Night Job Office 06|Storyteller|*こうした職務の遂行には細心の注意を要するが、\nしかるべき研修をこなした適正者にとっては、\nさほど困難ではない。しかし、常に気もそぞろで仕事に\n身が入らないザグレウス王子の場合、話は別である。*
+Flashback_DayNightJob_Office_07|Flashback Day Night Job Office 07|Storyteller|*ハデスの館では、すべての支出について、\n細大漏らさず記録せねばならない。詳細な表を\n作成しての作業だが、王子は、その手の仕事を\nそつなくこなす素養を持ち合わせていない。*
+Flashback_DayNightJob_Office_08|Flashback Day Night Job Office 08|Storyteller|*ハデスの館の台帳に、宝珠、金剛石、闇の結晶などの\n収入項目が、几帳面に記入されていく。\nこうした記録の管理は、王子が疎んでやまない仕事の\nほんのひとつにすぎない。*
+Flashback_DayNightJob_Office_09|Flashback Day Night Job Office 09|Storyteller|*執務室の机には、期限を超過した改装依頼の記録が\n所狭しと並んでいる。これらの書類を、日付の古い\nものからアルファベット順に整理しようという気は、\nいまのところ、王子には毛頭ないようだ。*
+Flashback_DayNightJob_Office_10|Flashback Day Night Job Office 10|Storyteller|*館で労役に就く亡霊たちの出勤記録を確認し、\n彼らに支払われる報酬を次々と承認してゆく王子。\nとはいえ、その作業の手順を覚えることは、\nいまだできないようだ。*
+Flashback_DayNightJob_Office_11|Flashback Day Night Job Office 11|Storyteller|*所狭しと並ぶ、羊皮紙の山。そのすべてに記された\n職務の内容を逐一整理し、登録せねばならない。\n整理整頓を苦手とするザグレウス王子は、\nおのれの行く末に暗雲が垂れこめるのを感じた。*
+Flashback_DayNightJob_Office_12|Flashback Day Night Job Office 12|Storyteller|*館の執務室での職務には、ザグレウス王子が比較的\n心楽しくこなせるものも、必ずや存在するであろう。\nしかし、彼がしかと身を入れて取り組む必要がある\n作業は、そこに含まれていない。*
+Flashback_DayNightJob_Office_13|Flashback Day Night Job Office 13|Storyteller|*亡霊たちから寄せられた苦情一覧の確認は、\nこの館において、きわめて重要性の高い仕事である。\n…少なくとも、冥王ハデスはわがまま放題の嫡男に\nそう告げることで、やる気をあおろうとした。*
+Flashback_DayNightJob_Office_14|Flashback Day Night Job Office 14|Storyteller|*冥界全域を彷徨う亡霊たちより寄せられた、\n大量の苦情の数々。それらを確認し、整理し、\n処理せねばならない。しかしザグレウス王子は、\nどこから手を着けてよいかすら、わからずにいた。*
+Flashback_DayNightJob_Office_15|Flashback Day Night Job Office 15|Storyteller|*執務室に並ぶ机の上に置かれた備品は、入念に\n管理し、所定の方式に則って配置せねばならない。\nしかし王子は、そうした手順をいまだ完全に\n頭に入れることができずにいる。*
+Flashback_DayNightJob_Office_16|Flashback Day Night Job Office 16|Storyteller|*タルタロスからの脱出を企てた亡霊に関する\n警備報告書は、遅延なく確認し、しかるべき\n対応をする必要がある。ザグレウス王子は、\nそのいずれも的確にこなす素質を備えていない。*
+Flashback_DayNightJob_Office_Conclusion_01|Flashback Day Night Job Office Conclusion 01|Storyteller|*何かにつけて怠け癖のあるザグレウス王子だが、\n厳格な父王の館における執務をこなさんとした\n結果について、簡素な記録をつける程度のことは、\nかろうじてこなしている。*
+InspectPreRun01|Inspect Pre Run 01|Storyteller|*ハデスの館の中庭は、整理整頓が行き届いている。その先に無秩序に広がる恐ろしき光景は、にわかには想像がつかない。*
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|小さき者よ、再び私と一戦交えに来たか。\nだがその顔は… 私に何か尋ねたいことでも？
 MinotaurAutograph01|Minotaur Autograph 01|Zagreus|じつは… 眠りの神ヒュプノスが、あなたに\n憧れていて… サインをもらってほしいと、\nしつこくせがまれている。差し支えなければ、\nメッセージ付きで一筆もらっても？こんなことを\n頼むのは気が引けるが… 友人の喜ぶ顔も見たい。
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|なるほど… 私を庇護する神がいるのならば、\n名誉なこと。では、一筆したためるとしよう。
-MinotaurAutograph01|Minotaur Autograph 01|Storyteller|{#DialogueItalicFormat}神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。
+MinotaurAutograph01|Minotaur Autograph 01|Storyteller|*神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。*
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|…あくまで、おまえの頼みに応えたまで。\nヒュプノスみずから私に挑戦する気になれば、\nいつでも受けて立つと伝えてほしい。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|なんと！わが息子が帰ってきたぞ！見ろ、ケルベロス！おまえの友のご帰還だ！
-HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|{#DialogueItalicFormat}ケルベロスは、哀れむような目で王子を見た。
+HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|*ケルベロスは、哀れむような目で王子を見た。*
 HadesMiscMeeting07|Hades Misc Meeting 07|Zagreus|…ケルベロスを巻き込まないでください。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|ケルベロスの前で言えぬようなことを、\n私に言わねばよいだけのこと。\nおまえもこの忠犬の従順な態度に倣ってはどうだ？
-CerberusMiscMeeting01|Cerberus Misc Meeting 01|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスは、複雑な表情で\nザグレウス王子を見つめた。心の底からのよろこびと、深い悲しみが入り交じった感情を抱いているようだ。
+CerberusMiscMeeting01|Cerberus Misc Meeting 01|Storyteller|*地獄の番犬ケルベロスは、複雑な表情で\nザグレウス王子を見つめた。心の底からのよろこびと、深い悲しみが入り交じった感情を抱いているようだ。*
 CerberusMiscMeeting01|Cerberus Misc Meeting 01|Zagreus|おまえも連れていけたらどんなにいいか…\nこの館のこと、頼んだぞ？
 CerberusMiscMeeting02|Cerberus Misc Meeting 02|Zagreus|調子はどうだ？3頭とも、腹いっぱい食べてるか？
-CerberusMiscMeeting02|Cerberus Misc Meeting 02|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスの3つのあぎとが、\n次々と反応する。おのれを気遣う王子を、\n「心配ない」となだめているようだ。
+CerberusMiscMeeting02|Cerberus Misc Meeting 02|Storyteller|*地獄の番犬ケルベロスの3つのあぎとが、\n次々と反応する。おのれを気遣う王子を、\n「心配ない」となだめているようだ。*
 CerberusMiscMeeting03|Cerberus Misc Meeting 03|Zagreus|大丈夫、どうせすぐに戻ってくるよ。
-CerberusMiscMeeting03|Cerberus Misc Meeting 03|Storyteller|{#DialogueItalicFormat}番犬ケルベロスは、やわらかい寝床に横たわったまま、ふてくされている。
+CerberusMiscMeeting03|Cerberus Misc Meeting 03|Storyteller|*番犬ケルベロスは、やわらかい寝床に横たわったまま、ふてくされている。*
 CerberusMiscMeeting04|Cerberus Misc Meeting 04|Zagreus|父上が館の空気を悪くしないように、ちゃんと見張っておいてくれ。
-CerberusMiscMeeting04|Cerberus Misc Meeting 04|Storyteller|{#DialogueItalicFormat}ケルベロスは承知したようだが、\nどう見張るつもりなのかは不明だ。
+CerberusMiscMeeting04|Cerberus Misc Meeting 04|Storyteller|*ケルベロスは承知したようだが、\nどう見張るつもりなのかは不明だ。*
 CerberusMiscMeeting05|Cerberus Misc Meeting 05|Zagreus|元気でやってるか？\n何かあったら、遠慮なく言ってくれ。
-CerberusMiscMeeting05|Cerberus Misc Meeting 05|Storyteller|{#DialogueItalicFormat}ザグレウス王子がかけた何気ないひと言に、\nケルベロスはいらだちを覚えた。3つの頭はいずれも、\n言葉を話す能力を持ち合わせていない。
+CerberusMiscMeeting05|Cerberus Misc Meeting 05|Storyteller|*ザグレウス王子がかけた何気ないひと言に、\nケルベロスはいらだちを覚えた。3つの頭はいずれも、\n言葉を話す能力を持ち合わせていない。*
 CerberusRunProgress01|Cerberus Run Progress 01|Zagreus|顔を見にきたぞ。おまえが見張りについていなくても、館の外は脱走者にとって危険な場所だった。
-CerberusRunProgress01|Cerberus Run Progress 01|Storyteller|{#DialogueItalicFormat}気高き地獄の番犬は、王子の言葉を聞き流した。現在の冥界の警備がかつてのように厳重でないことなど、百も承知なのだ。
+CerberusRunProgress01|Cerberus Run Progress 01|Storyteller|*気高き地獄の番犬は、王子の言葉を聞き流した。現在の冥界の警備がかつてのように厳重でないことなど、百も承知なのだ。*
 CerberusRunProgress02|Cerberus Run Progress 02|Zagreus|ケルベロス、今回はアスポデロスまで行けたぞ！\nおまえがあの場所を嫌っていた理由が、\nよくわかったよ… でも、あきらめずに\nまた挑戦するまでだ。それじゃあな！
-CerberusRunProgress02|Cerberus Run Progress 02|Storyteller|{#DialogueItalicFormat}ザグレウス王子が前向きな言葉をかけても、\n彼の愛犬ケルベロスは、ふてくされた態度を崩さない。
+CerberusRunProgress02|Cerberus Run Progress 02|Storyteller|*ザグレウス王子が前向きな言葉をかけても、\n彼の愛犬ケルベロスは、ふてくされた態度を崩さない。*
 CerberusRunProgress03|Cerberus Run Progress 03|Zagreus|ちゃんと帰ってこられたんだな。また見張りの仕事に\n就けて、よかったじゃないか！俺はおまえを\n突破する方法を考えないといけない。\nでも、おまえは自分の仕事をしてるだけだ。
-CerberusRunProgress03|Cerberus Run Progress 03|Storyteller|{#DialogueItalicFormat}見るからに恐ろしげな地獄の番犬ケルベロスは、\n気まずそうにザグレウス王子を見やった。\n 3対の目が、館の薄暗い明かりを映し、ぎらりと光る。
+CerberusRunProgress03|Cerberus Run Progress 03|Storyteller|*見るからに恐ろしげな地獄の番犬ケルベロスは、\n気まずそうにザグレウス王子を見やった。\n 3対の目が、館の薄暗い明かりを映し、ぎらりと光る。*
 CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Zagreus|最近、俺がしょっちゅう神殿に行くせいで、\nおまえに面倒をかけてないか？いつもどうやって\n館に戻ってくる？カロンに運んでもらってるのか？
-CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Storyteller|{#DialogueItalicFormat}冥界の王子は、地獄の番犬に尋ねる。\nこの多頭の怪物もまた、渡し守の舟の寝台を頻繁に\n利用する身であることは、聞かずとも承知の上だ。
+CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Storyteller|*冥界の王子は、地獄の番犬に尋ねる。\nこの多頭の怪物もまた、渡し守の舟の寝台を頻繁に\n利用する身であることは、聞かずとも承知の上だ。*
 CerberusAboutBall01|Cerberus About Ball 01|Zagreus|俺が用意してやったボール、じっと眺めるのは\n楽しいか？反撃してこないから、退屈か。
-CerberusAboutBall01|Cerberus About Ball 01|Storyteller|{#DialogueItalicFormat}奈落に生まれ落ちた多頭の怪物は、貴重な時を玩具と\nじゃれあうことに費やす意義を見いださない。絶えず\nこんこんと湧きでる活力は、脱走を試みた亡霊を\n喰らう必要が生じた際に備え、温存しておきたいのだ。
+CerberusAboutBall01|Cerberus About Ball 01|Storyteller|*奈落に生まれ落ちた多頭の怪物は、貴重な時を玩具と\nじゃれあうことに費やす意義を見いださない。絶えず\nこんこんと湧きでる活力は、脱走を試みた亡霊を\n喰らう必要が生じた際に備え、温存しておきたいのだ。*
 CerberusLoungeClosed01|Cerberus Lounge Closed 01|Zagreus|酒場をめちゃくちゃにしたそうだな？\nしかられなかったか？心配させてすまなかったな。
-CerberusLoungeClosed01|Cerberus Lounge Closed 01|Storyteller|{#DialogueItalicFormat}怪物ケルベロスはみずからの犯行を認め、\nザグレウス王子を巻き込んだことを\n悔いるかのように、しおらしい態度をとった。
+CerberusLoungeClosed01|Cerberus Lounge Closed 01|Storyteller|*怪物ケルベロスはみずからの犯行を認め、\nザグレウス王子を巻き込んだことを\n悔いるかのように、しおらしい態度をとった。*
 CerberusLoungeOpen01|Cerberus Lounge Open 01|Zagreus|ケルベロス、酒場が元どおりになったから、\n見てくるといい。\nただし… もう中で暴れるんじゃないぞ？
-CerberusLoungeOpen01|Cerberus Lounge Open 01|Storyteller|{#DialogueItalicFormat}朗報を耳にした怪物ケルベロスの3つの顔が、\nぞれぞれうれしげな表情を浮かべた。\n次はどうやって酒場を荒らしてやろうかと、\n考えを巡らせているに違いない。
+CerberusLoungeOpen01|Cerberus Lounge Open 01|Storyteller|*朗報を耳にした怪物ケルベロスの3つの顔が、\nぞれぞれうれしげな表情を浮かべた。\n次はどうやって酒場を荒らしてやろうかと、\n考えを巡らせているに違いない。*
 CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Zagreus|最近、館がいつも改装工事中で、不便をかけて\nすまないな。でも、もうすぐ酒場の修理が終わるぞ？\nまた思う存分、暴れて壊せるな！
-CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、どう猛かつ多感な番犬ケルベロスに\nさらなる破壊衝動の種を植えつけた。\nそれは次なる時代に芽吹き、満たされるだろう。
+CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Storyteller|*ザグレウス王子は、どう猛かつ多感な番犬ケルベロスに\nさらなる破壊衝動の種を植えつけた。\nそれは次なる時代に芽吹き、満たされるだろう。*
 CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Zagreus|どんなに無様な死に様をさらしても、こうしておまえを\nなでているうちに、また気力が湧いてくる。\nケルベロス、おまえがいてくれて本当によかった。
-CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Storyteller|{#DialogueItalicFormat}悪名高き地獄の番犬ケルベロスの目が、残り火のようにわずかに輝く。彼もまた、冥界の王子とのふれあいに\nいつでも応じる用意があり、その機会が頻繁に訪れる\nことを、心から歓迎している。
+CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Storyteller|*悪名高き地獄の番犬ケルベロスの目が、残り火のようにわずかに輝く。彼もまた、冥界の王子とのふれあいに\nいつでも応じる用意があり、その機会が頻繁に訪れる\nことを、心から歓迎している。*
 CerberusAboutPersephone01|Cerberus About Persephone 01|Zagreus|ケルベロス！母上を見つけたぞ！“ペルセポネ”だ、\n覚えてるだろう？おまえのことを話したら、すごく\n喜んでいた。俺は地上に長くとどまれないから、\nまた会いにいかないと…\n近いうちに、また神殿で、よろしくな。
-CerberusAboutPersephone01|Cerberus About Persephone 01|Storyteller|{#DialogueItalicFormat}ペルセポネの名を耳にした刹那、\n悪評高い地獄の番犬の醜怪な顔が、にわかにやわらぐ。\nケルベロスは、つかの間、心の平穏を得た。
+CerberusAboutPersephone01|Cerberus About Persephone 01|Storyteller|*ペルセポネの名を耳にした刹那、\n悪評高い地獄の番犬の醜怪な顔が、にわかにやわらぐ。\nケルベロスは、つかの間、心の平穏を得た。*
 CerberusPostEnding01|Cerberus Post Ending 01|Zagreus|ケルベロス！おまえにしては、元気いっぱいだな。\n母上はずっと、おまえに会いたがってた。\nおまえも、母上が恋しかったんだな。\nこれからは、思う存分甘えるといい。
-CerberusPostEnding01|Cerberus Post Ending 01|Storyteller|{#DialogueItalicFormat}冥王ハデスが館で飼う多頭の怪物に、\n地上の犬と同様の感情が備わっていたならば、\nこの幸福な状況を大いによろこび、\n駆け回ったことだろう。
+CerberusPostEnding01|Cerberus Post Ending 01|Storyteller|*冥王ハデスが館で飼う多頭の怪物に、\n地上の犬と同様の感情が備わっていたならば、\nこの幸福な状況を大いによろこび、\n駆け回ったことだろう。*
 CerberusPostEnding02|Cerberus Post Ending 02|Zagreus|母上が戻ってきて、うれしいんだな。母上のこと、\nどうしてもっと早く教えてくれなかったんだ？
-CerberusPostEnding02|Cerberus Post Ending 02|Storyteller|{#DialogueItalicFormat}口を利くことのかなわぬ地獄の怪物ケルベロスは、\n王子の無神経な発言を、涼しい顔で受け流した。
+CerberusPostEnding02|Cerberus Post Ending 02|Storyteller|*口を利くことのかなわぬ地獄の怪物ケルベロスは、\n王子の無神経な発言を、涼しい顔で受け流した。*
 CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Zagreus|神殿では、よくもやってくれたな。\n地上には父上もいた。\nおまえはじゃれてただけだとわかってるが…\n今度からはもう少し手加減してくれないか…？
-CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Storyteller|{#DialogueItalicFormat}自制心も悔悟の念も持ち合わせないケルベロスに、\n悪びれた様子はない。
+CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Storyteller|*自制心も悔悟の念も持ち合わせないケルベロスに、\n悪びれた様子はない。*
 CerberusPostEpilogue01|Cerberus Post Epilogue 01|Zagreus|ケルベロス、おまえは賢いな。宴のあいだ、\nよくおとなしくしていてくれた。おじたちが\n何か言うたびに、おまえが飛びかかりはしないかと、\n内心冷や冷やしてたんだぞ？よく辛抱したな。\nおかげでみんな、宴を楽しんでくれたみたいだ。
-CerberusPostEpilogue01|Cerberus Post Epilogue 01|Storyteller|{#DialogueItalicFormat}先頃開かれた宴の席で、地獄の番犬ケルベロスはなぜ、終始従順な態度を保つことができたのか…\nその理由は、出席者全員にとって、大いなる謎である。
-CerberusChat02|Cerberus Chat 02|Storyteller|{#DialogueItalicFormat}ザグレウス王子とケルベロスは、視線を交わした。
-CerberusChat03|Cerberus Chat 03|Storyteller|{#DialogueItalicFormat}番犬ケルベロスは、王子をまじまじと見つめた。
-CerberusChat04|Cerberus Chat 04|Storyteller|{#DialogueItalicFormat}ケルベロスは今、見張りで忙しいようだ。
-CerberusChat05|Cerberus Chat 05|Storyteller|{#DialogueItalicFormat}ケルベロスは心地よさそうに休みながら、\n館の住民たちを見張っている。
-CerberusChat06|Cerberus Chat 06|Storyteller|{#DialogueItalicFormat}ケルベロスは今日も、玉座に座す冥王の足下に\n横たわっている。
-CerberusChat07|Cerberus Chat 07|Storyteller|{#DialogueItalicFormat}ケルベロスは、じっと横たわったまま、\n動こうとしない。
-CerberusChat08|Cerberus Chat 08|Storyteller|{#DialogueItalicFormat}ケルベロスは、他にかじるものがないか、\nしきりに考えをめぐらせている。
-CerberusChat09|Cerberus Chat 09|Storyteller|{#DialogueItalicFormat}ケルベロスは、おのれのすべきこと、\nすなわち、物をかじることに集中している。
-CerberusChat10|Cerberus Chat 10|Storyteller|{#DialogueItalicFormat}ケルベロスは、おのれの身体を掻きむしり、\nかじりまわることに熱中している。
-CerberusChat11|Cerberus Chat 11|Storyteller|{#DialogueItalicFormat}ケルベロスは今、話をする気分ではないようだ。
-CerberusChat12|Cerberus Chat 12|Storyteller|{#DialogueItalicFormat}地獄の番犬は、気に入りの場所でくつろいでいる。
-CerberusChat13|Cerberus Chat 13|Storyteller|{#DialogueItalicFormat}番犬ケルベロスの3つの頭すべてが、うれしそうに王子を見た。
-CerberusChat14|Cerberus Chat 14|Storyteller|{#DialogueItalicFormat}冥界の門を守る獰猛な番犬は、\n軽く吠え、王子に挨拶した。
-CerberusChat15|Cerberus Chat 15|Storyteller|{#DialogueItalicFormat}忠犬ケルベロスは、所定の場所にどっしりと腰を据え、休んでいる。
-CerberusChat16|Cerberus Chat 16|Storyteller|{#DialogueItalicFormat}猛犬の悪名高いケルベロスは、\nただ静かに主の館を見張っている。
-CerberusChat17|Cerberus Chat 17|Storyteller|{#DialogueItalicFormat}番犬ケルベロスは、ひとつのあぎとで、\n残りの２つの頭をせわしなく毛繕いしている。
-CerberusChat18|Cerberus Chat 18|Storyteller|{#DialogueItalicFormat}多頭の怪物ケルベロスは、\n主のそばに従順にはべっている。
-CerberusChat19|Cerberus Chat 19|Storyteller|{#DialogueItalicFormat}多頭の怪物ケルベロスは、\n次の餌の刻を待ちわび、上の空だ。
-CerberusChat20|Cerberus Chat 20|Storyteller|{#DialogueItalicFormat}ケルベロスは、ザグレウス王子を愛おしそうに見た。\n長年培ってきた友情の賜だ。
-CerberusChat21|Cerberus Chat 21|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスは、館に詰めかける\n物憂げな亡霊たちに牙をむき、うなり声をあげた。
-CerberusChat22|Cerberus Chat 22|Storyteller|{#DialogueItalicFormat}誰もが恐れる怪物ケルベロスは、\n床にこびりついた何かをしきりになめている。
-CerberusChatExtra01|Cerberus Chat Extra 01|Storyteller|{#DialogueItalicFormat}満ち足りた様子の地獄の番犬ケルベロスは、\n王子をちらと見たきり、興味を失った。
-CerberusChatExtra02|Cerberus Chat Extra 02|Storyteller|{#DialogueItalicFormat}どう猛な多頭の怪物ケルベロスは、\n今のところ、暴れ出す様子はない。
-CerberusChatExtra03|Cerberus Chat Extra 03|Storyteller|{#DialogueItalicFormat}豪奢な館でぬくぬくと暮らすケルベロスは、こちらにはまるで興味を示さない。
-CerberusChatExtra04|Cerberus Chat Extra 04|Storyteller|{#DialogueItalicFormat}怪物ケルベロスは寝床に腰を下ろし、\nあたりを警戒している。
-CerberusChatExtra05|Cerberus Chat Extra 05|Storyteller|{#DialogueItalicFormat}ケルベロスの恐ろしげな3つのあぎとから、\n唾液が垂れ落ちる。餌の刻を、\n今や遅しと待っているのだ。
-CerberusChatExtra06|Cerberus Chat Extra 06|Storyteller|{#DialogueItalicFormat}恐ろしい番犬ケルベロスは、次に王子の\n行く手をふさぐ時に備え、力を蓄えている。
+CerberusPostEpilogue01|Cerberus Post Epilogue 01|Storyteller|*先頃開かれた宴の席で、地獄の番犬ケルベロスはなぜ、終始従順な態度を保つことができたのか…\nその理由は、出席者全員にとって、大いなる謎である。*
+CerberusChat02|Cerberus Chat 02|Storyteller|*ザグレウス王子とケルベロスは、視線を交わした。*
+CerberusChat03|Cerberus Chat 03|Storyteller|*番犬ケルベロスは、王子をまじまじと見つめた。*
+CerberusChat04|Cerberus Chat 04|Storyteller|*ケルベロスは今、見張りで忙しいようだ。*
+CerberusChat05|Cerberus Chat 05|Storyteller|*ケルベロスは心地よさそうに休みながら、\n館の住民たちを見張っている。*
+CerberusChat06|Cerberus Chat 06|Storyteller|*ケルベロスは今日も、玉座に座す冥王の足下に\n横たわっている。*
+CerberusChat07|Cerberus Chat 07|Storyteller|*ケルベロスは、じっと横たわったまま、\n動こうとしない。*
+CerberusChat08|Cerberus Chat 08|Storyteller|*ケルベロスは、他にかじるものがないか、\nしきりに考えをめぐらせている。*
+CerberusChat09|Cerberus Chat 09|Storyteller|*ケルベロスは、おのれのすべきこと、\nすなわち、物をかじることに集中している。*
+CerberusChat10|Cerberus Chat 10|Storyteller|*ケルベロスは、おのれの身体を掻きむしり、\nかじりまわることに熱中している。*
+CerberusChat11|Cerberus Chat 11|Storyteller|*ケルベロスは今、話をする気分ではないようだ。*
+CerberusChat12|Cerberus Chat 12|Storyteller|*地獄の番犬は、気に入りの場所でくつろいでいる。*
+CerberusChat13|Cerberus Chat 13|Storyteller|*番犬ケルベロスの3つの頭すべてが、うれしそうに王子を見た。*
+CerberusChat14|Cerberus Chat 14|Storyteller|*冥界の門を守る獰猛な番犬は、\n軽く吠え、王子に挨拶した。*
+CerberusChat15|Cerberus Chat 15|Storyteller|*忠犬ケルベロスは、所定の場所にどっしりと腰を据え、休んでいる。*
+CerberusChat16|Cerberus Chat 16|Storyteller|*猛犬の悪名高いケルベロスは、\nただ静かに主の館を見張っている。*
+CerberusChat17|Cerberus Chat 17|Storyteller|*番犬ケルベロスは、ひとつのあぎとで、\n残りの２つの頭をせわしなく毛繕いしている。*
+CerberusChat18|Cerberus Chat 18|Storyteller|*多頭の怪物ケルベロスは、\n主のそばに従順にはべっている。*
+CerberusChat19|Cerberus Chat 19|Storyteller|*多頭の怪物ケルベロスは、\n次の餌の刻を待ちわび、上の空だ。*
+CerberusChat20|Cerberus Chat 20|Storyteller|*ケルベロスは、ザグレウス王子を愛おしそうに見た。\n長年培ってきた友情の賜だ。*
+CerberusChat21|Cerberus Chat 21|Storyteller|*地獄の番犬ケルベロスは、館に詰めかける\n物憂げな亡霊たちに牙をむき、うなり声をあげた。*
+CerberusChat22|Cerberus Chat 22|Storyteller|*誰もが恐れる怪物ケルベロスは、\n床にこびりついた何かをしきりになめている。*
+CerberusChatExtra01|Cerberus Chat Extra 01|Storyteller|*満ち足りた様子の地獄の番犬ケルベロスは、\n王子をちらと見たきり、興味を失った。*
+CerberusChatExtra02|Cerberus Chat Extra 02|Storyteller|*どう猛な多頭の怪物ケルベロスは、\n今のところ、暴れ出す様子はない。*
+CerberusChatExtra03|Cerberus Chat Extra 03|Storyteller|*豪奢な館でぬくぬくと暮らすケルベロスは、こちらにはまるで興味を示さない。*
+CerberusChatExtra04|Cerberus Chat Extra 04|Storyteller|*怪物ケルベロスは寝床に腰を下ろし、\nあたりを警戒している。*
+CerberusChatExtra05|Cerberus Chat Extra 05|Storyteller|*ケルベロスの恐ろしげな3つのあぎとから、\n唾液が垂れ落ちる。餌の刻を、\n今や遅しと待っているのだ。*
+CerberusChatExtra06|Cerberus Chat Extra 06|Storyteller|*恐ろしい番犬ケルベロスは、次に王子の\n行く手をふさぐ時に備え、力を蓄えている。*
 CerberusGift01|Cerberus Gift 01|Zagreus|ほら、いいものをやるぞ！
-CerberusGift01|Cerberus Gift 01|Storyteller|{#DialogueItalicFormat}ケルベロスの３つの頭のうち1つが、王子からの贈り物を受け取り、別の1つが王子に何かを押しつけてきた。
+CerberusGift01|Cerberus Gift 01|Storyteller|*ケルベロスの３つの頭のうち1つが、王子からの贈り物を受け取り、別の1つが王子に何かを押しつけてきた。*
 CerberusGift02|Cerberus Gift 02|Zagreus|よしよし… 気に入ってくれてよかった。
-CerberusGift02|Cerberus Gift 02|Storyteller|{#DialogueItalicFormat}ケルベロスは、好物の餌にありつき、大喜びしている。
+CerberusGift02|Cerberus Gift 02|Storyteller|*ケルベロスは、好物の餌にありつき、大喜びしている。*
 CerberusGift03|Cerberus Gift 03|Zagreus|よし。大事な相棒に、とっておきの褒美をやるぞ。
-CerberusGift03|Cerberus Gift 03|Storyteller|{#DialogueItalicFormat}贅沢な褒美を受け取り、\nケルベロスはうれしそうに遠吠えした。
+CerberusGift03|Cerberus Gift 03|Storyteller|*贅沢な褒美を受け取り、\nケルベロスはうれしそうに遠吠えした。*
 CerberusGift04|Cerberus Gift 04|Zagreus|相棒にうまいものを食べさせてやるのは、\n俺の務めだからな。
-CerberusGift04|Cerberus Gift 04|Storyteller|{#DialogueItalicFormat}冥界の王子ザグレウスは、\n番犬ケルベロスの飽くなき食欲に応えてやった。
+CerberusGift04|Cerberus Gift 04|Storyteller|*冥界の王子ザグレウスは、\n番犬ケルベロスの飽くなき食欲に応えてやった。*
 CerberusGift05|Cerberus Gift 05|Zagreus|これ、好物だろ？おまえのために\nこっそり持ち込んでやるのは、俺も楽しいよ。
-CerberusGift05|Cerberus Gift 05|Storyteller|{#DialogueItalicFormat}地獄の番犬の飽くなき食欲を、ネクタルの\nかぐわしい風味が、つかの間、収めることだろう。
+CerberusGift05|Cerberus Gift 05|Storyteller|*地獄の番犬の飽くなき食欲を、ネクタルの\nかぐわしい風味が、つかの間、収めることだろう。*
 CerberusGift06|Cerberus Gift 06|Zagreus|どうした？ネクタルなんかじゃ、不満か？\nその歳で、ずいぶん贅沢を言うようになったな。
-CerberusGift06|Cerberus Gift 06|Storyteller|{#DialogueItalicFormat}ネクタルの甘美な風味にやや食傷気味とはいえ、\n多頭の怪物は、差し出された瓶を受け取った。
+CerberusGift06|Cerberus Gift 06|Storyteller|*ネクタルの甘美な風味にやや食傷気味とはいえ、\n多頭の怪物は、差し出された瓶を受け取った。*
 CerberusGift07|Cerberus Gift 07|Zagreus|見ろ、ケルベロス… アンブロシアだ！\nおまえにやるぞ。人も、神も、怪物も、\n生者だろうと死者だろうと、誰もが喜ぶ珍味だ。
-CerberusGift07|Cerberus Gift 07|Storyteller|{#DialogueItalicFormat}冥界では入手困難なオリュンポスの珍味、\nアンブロシアを差し出され、地獄の番犬ケルベロスは、\n 6つの目を見開いた。大いに興奮した様子だ。
+CerberusGift07|Cerberus Gift 07|Storyteller|*冥界では入手困難なオリュンポスの珍味、\nアンブロシアを差し出され、地獄の番犬ケルベロスは、\n 6つの目を見開いた。大いに興奮した様子だ。*
 CerberusGift08|Cerberus Gift 08|Zagreus|やっぱり、一級品は違うだろ？おまえも、父上と俺の\n板挟みになって、なにかとつらい立場だよな。\n面倒に巻き込んで、すまないな。
-CerberusGift08|Cerberus Gift 08|Storyteller|{#DialogueItalicFormat}多頭の怪物を餌で懐柔せんとする王子のもくろみは、\nこたびも成功した。天界よりもたらされた高級品、\nアンブロシアに勝る贈り物はない。
+CerberusGift08|Cerberus Gift 08|Storyteller|*多頭の怪物を餌で懐柔せんとする王子のもくろみは、\nこたびも成功した。天界よりもたらされた高級品、\nアンブロシアに勝る贈り物はない。*
 CerberusGift09|Cerberus Gift 09|Zagreus|ケルベロス、おまえとは、俺が生まれたときから\nいっしょに育った仲だから、\nお互い照れくさいのは承知であえて言うが…\nおまえがこの館にいるのは、俺のためでもあるんだろ？
-CerberusGift09|Cerberus Gift 09|Storyteller|{#DialogueItalicFormat}番犬と飼い主の絆は、アダマントのごとく堅い。怪物\nケルベロスが忠誠を誓う主が冥王ハデスであることは、火を見るより明白。しかし、その息子の\nザグレウス王子もまた、好意の対象といえよう。
+CerberusGift09|Cerberus Gift 09|Storyteller|*番犬と飼い主の絆は、アダマントのごとく堅い。怪物\nケルベロスが忠誠を誓う主が冥王ハデスであることは、火を見るより明白。しかし、その息子の\nザグレウス王子もまた、好意の対象といえよう。*
 CerberusGift09|Cerberus Gift 09|Zagreus|おまえは、冥界でいちばん利口な番犬だよ。\n頭ベータと頭ガンマは、なでられるのが\nあまり好きじゃないようだが…\n嫌というほどなで倒してやるから、覚悟しとけよ。
-CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|{#DialogueItalicFormat}冥界への入り口に立ちふさがる多頭の怪物ケルベロス。\nこの門を愚かにも突破しようとする者の行く末は、\n口にするのもはばかられるほど酸鼻をきわめる。
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|*冥界への入り口に立ちふさがる多頭の怪物ケルベロス。\nこの門を愚かにも突破しようとする者の行く末は、\n口にするのもはばかられるほど酸鼻をきわめる。*
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|ケルベロス… あんまりじゃないか。俺とおまえの\n仲だろ？まあでも、こうなったらしかたがない。\n俺から言えることはひとつだけだ… 覚悟しろ！
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|ハハハ… 冗談だよ。おまえがどうしてここにいるのかは\nよくわかってるし、おまえの気をそらす方法が必ずある\nはずだ。俺がサテュロスを片づけてやったら、通して\nくれるか？頼むよ… 俺はどうしても、母親を見つけ\nたいんだ。おまえなら、わかってくれるだろ？
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|凶暴な地獄の番犬は、一瞬、戸惑い考え込んで\nいるような表情を見せ、「承知した」とでも言うように、王子に向けてひとたび吠えてみせた。王子は、\n怪物の食欲を満たす品を求め、その場を立ち去った。
 CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Zagreus|ケルベロス、おまえの大好物を持ってきたぞ。\nこれをやったら、ここを通すと約束してくれるか？
-CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Storyteller|{#DialogueItalicFormat}恐ろしき番犬ケルベロスは、悪臭を放つ袋を受け取り、暗い部屋を見回した。吐き気をもよおすその中身を、\nどこで味わうか考えているのだ。
-CerberusBossDoorUnlockRepeatable01|Cerberus Boss Door Unlock Repeatable 01|Storyteller|{#DialogueItalicFormat}ケルベロスは、再び袋を受け取った。
-CerberusBossDoorUnlockRepeatable02|Cerberus Boss Door Unlock Repeatable 02|Storyteller|{#DialogueItalicFormat}巨大な番犬ケルベロスは、\n冥界の王子からの贈り物を受け取った。
-CerberusBossDoorUnlockRepeatable03|Cerberus Boss Door Unlock Repeatable 03|Storyteller|{#DialogueItalicFormat}恐ろしい番犬ケルベロスは、\nサテュロスの袋を受け取った。
-CerberusBossDoorUnlockRepeatable04|Cerberus Boss Door Unlock Repeatable 04|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、冥界の門を守る獰猛な番犬を\n手懐け、持ち場を離れさせることに成功した。
-CerberusBossDoorUnlockRepeatable05|Cerberus Boss Door Unlock Repeatable 05|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、多頭の怪物を手懐け、\n先へ進むことに成功した。
-CerberusBossDoorUnlockRepeatable06|Cerberus Boss Door Unlock Repeatable 06|Storyteller|{#DialogueItalicFormat}こうしてザグレウス王子は、行く手をふさぐ\n恐ろしき番犬ケルベロスを突破したのだった。
-CerberusBossDoorUnlockRepeatable07|Cerberus Boss Door Unlock Repeatable 07|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスは、サテュロスの袋を喜々として受け取った。
-CerberusBossDoorUnlockRepeatable08|Cerberus Boss Door Unlock Repeatable 08|Storyteller|{#DialogueItalicFormat}怪物ケルベロスが唯一抗えぬもの、サテュロスの袋は、今回も抜群の効果を発揮した。
-CerberusBossDoorUnlockRepeatable09|Cerberus Boss Door Unlock Repeatable 09|Storyteller|{#DialogueItalicFormat}鋭い牙をむく地獄の番犬ケルベロスの3つの頭は、\nすべて、サテュロスの袋に注意を向けた。
-CerberusBossDoorUnlockRepeatable10|Cerberus Boss Door Unlock Repeatable 10|Storyteller|{#DialogueItalicFormat}地獄の番犬は、自発的に休息を取り、\n小腹を満たすことにした。
-CerberusBossDoorUnlockRepeatable11|Cerberus Boss Door Unlock Repeatable 11|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、再度、\nケルベロスに好物を差し出した。
-CerberusBossDoorUnlockRepeatable12|Cerberus Boss Door Unlock Repeatable 12|Storyteller|{#DialogueItalicFormat}ケルベロスは、何が現れようと、\n持ち場を離れることはない。\nただし、サテュロスの袋は例外である。
-CerberusBossDoorUnlockRepeatable13|Cerberus Boss Door Unlock Repeatable 13|Storyteller|{#DialogueItalicFormat}常時警戒を怠らぬ番犬ケルベロスは、\n今回は例外とすることにした。
-CerberusBossDoorUnlockRepeatable14|Cerberus Boss Door Unlock Repeatable 14|Storyteller|{#DialogueItalicFormat}凶暴な番犬ケルベロスの3つの顔が、\nサテュロスの袋を今すぐ破壊すべきと判断した。
-CerberusBossDoorUnlockRepeatable15|Cerberus Boss Door Unlock Repeatable 15|Storyteller|{#DialogueItalicFormat}ケルベロスはしばし思案したのち、あの袋は受け取ってしかるべしと判断した。
+CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Storyteller|*恐ろしき番犬ケルベロスは、悪臭を放つ袋を受け取り、暗い部屋を見回した。吐き気をもよおすその中身を、\nどこで味わうか考えているのだ。*
+CerberusBossDoorUnlockRepeatable01|Cerberus Boss Door Unlock Repeatable 01|Storyteller|*ケルベロスは、再び袋を受け取った。*
+CerberusBossDoorUnlockRepeatable02|Cerberus Boss Door Unlock Repeatable 02|Storyteller|*巨大な番犬ケルベロスは、\n冥界の王子からの贈り物を受け取った。*
+CerberusBossDoorUnlockRepeatable03|Cerberus Boss Door Unlock Repeatable 03|Storyteller|*恐ろしい番犬ケルベロスは、\nサテュロスの袋を受け取った。*
+CerberusBossDoorUnlockRepeatable04|Cerberus Boss Door Unlock Repeatable 04|Storyteller|*ザグレウス王子は、冥界の門を守る獰猛な番犬を\n手懐け、持ち場を離れさせることに成功した。*
+CerberusBossDoorUnlockRepeatable05|Cerberus Boss Door Unlock Repeatable 05|Storyteller|*ザグレウス王子は、多頭の怪物を手懐け、\n先へ進むことに成功した。*
+CerberusBossDoorUnlockRepeatable06|Cerberus Boss Door Unlock Repeatable 06|Storyteller|*こうしてザグレウス王子は、行く手をふさぐ\n恐ろしき番犬ケルベロスを突破したのだった。*
+CerberusBossDoorUnlockRepeatable07|Cerberus Boss Door Unlock Repeatable 07|Storyteller|*地獄の番犬ケルベロスは、サテュロスの袋を喜々として受け取った。*
+CerberusBossDoorUnlockRepeatable08|Cerberus Boss Door Unlock Repeatable 08|Storyteller|*怪物ケルベロスが唯一抗えぬもの、サテュロスの袋は、今回も抜群の効果を発揮した。*
+CerberusBossDoorUnlockRepeatable09|Cerberus Boss Door Unlock Repeatable 09|Storyteller|*鋭い牙をむく地獄の番犬ケルベロスの3つの頭は、\nすべて、サテュロスの袋に注意を向けた。*
+CerberusBossDoorUnlockRepeatable10|Cerberus Boss Door Unlock Repeatable 10|Storyteller|*地獄の番犬は、自発的に休息を取り、\n小腹を満たすことにした。*
+CerberusBossDoorUnlockRepeatable11|Cerberus Boss Door Unlock Repeatable 11|Storyteller|*ザグレウス王子は、再度、\nケルベロスに好物を差し出した。*
+CerberusBossDoorUnlockRepeatable12|Cerberus Boss Door Unlock Repeatable 12|Storyteller|*ケルベロスは、何が現れようと、\n持ち場を離れることはない。\nただし、サテュロスの袋は例外である。*
+CerberusBossDoorUnlockRepeatable13|Cerberus Boss Door Unlock Repeatable 13|Storyteller|*常時警戒を怠らぬ番犬ケルベロスは、\n今回は例外とすることにした。*
+CerberusBossDoorUnlockRepeatable14|Cerberus Boss Door Unlock Repeatable 14|Storyteller|*凶暴な番犬ケルベロスの3つの顔が、\nサテュロスの袋を今すぐ破壊すべきと判断した。*
+CerberusBossDoorUnlockRepeatable15|Cerberus Boss Door Unlock Repeatable 15|Storyteller|*ケルベロスはしばし思案したのち、あの袋は受け取ってしかるべしと判断した。*
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|ケルベロス！この館が今もこうして栄えているのは、\nおまえのおかげね。地上から持ってきたお土産、\n食べてくれたかしら？
-PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|{#DialogueItalicFormat}地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。
+PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|*地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。*
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|きっと気に入ってくれると思ったの。\nあれがお肉じゃないなんて、気づかなかったでしょう？\nここでも材料を育てられないか、試してみるわね。
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|ケルベロス、あなたは本当にお利口ね。\n私がいないあいだも冥界の番をして、ザグレウスが\n私を訪ねてこられるように、協力もしてくれて…！
-PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。
-CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥界の闇に沈んだ片隅に、ひっそりと在る、エレボスの地。死者たちはそこで、おのれに下される永遠の判決を待つ。冥王ハデスに訴えが通じ、あわよくば慈悲を垂れてもらうことが、彼らの切なる願いである。
-CharonFight01_FirstInspect|Charon Fight 01 First Inspect|Storyteller|{#DialogueItalicFormat}霧深いエレボスの闇の中を、蕩々と流れるステュクス川。道理をわきまえぬ不届き者は、ここで冥府の渡し守カロンの制裁を受けることとなる。
-Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}燃えさかる炎の川プレゲトンを渡り、灼熱の地を踏破したザグレウス王子は、小高い一角にたたずみ、行く手を見晴らした。その先では、想像を絶するほど恐ろしい怪物が、虎視眈々と彼を待ち受ける。
-Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}燃えさかる炎の川を越えた先に姿を現した、秘密の階段。上った先にあるのは、冥界で最も神々しく、壮麗な地、エリュシオンだ。生前、大いなる偉業を成し遂げた者たちが永遠の死後生を送るその地では、侵入者を警戒する守りもひときわ堅い。
-Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}アスポデロスの一角に設えられた、ささやかな住居。響いてくる伸びやかな歌声は、そこで独りひっそりと暮らすエウリュディケのものだ。彼女もかつて、ザグレウス王子のように、冥界からの脱出を試みたことがあった。しかし彼女の望みもまた、叶うことはなかったのである。
-B_MiniBoss02_FirstInspect|B Mini Boss 02 First Inspect|Storyteller|{#DialogueItalicFormat}軽々に魔術に手を染める者の多くは不慮の死を迎え、\nタルタロスで永遠の死後生を送ることになる。\nしかしその一方で、魔術師の道を極め、\n死後に別の地を終のすみかとする者も存在する。
-Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|{#DialogueItalicFormat}冥界に送り込まれた死者の魂と、彼らの帯びる副葬品のすべてを舟に乗せ、地底を流れるあらゆる“水域”を行き来する渡し守、カロン。プレゲトン川の燃えさかる炎も、舞い上がる灰も、彼にとっては、なんら脅威となりえない。
-Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|{#DialogueItalicFormat}プレゲトン川の燃えさかる炎の内にも、ひっそりと、いくばくかの水が残る。それは、幸運にも運命の三女神から冥界の王子にもたらされた、恵みの滴であろうか。
-Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|{#DialogueItalicFormat}かつては豊かな草花に覆われていたアスポデロスも、今は燃えさかる炎にすっかり飲まれている。プレゲトン川を流れる灼熱の溶岩に触れれば、いかに熱に強い体質の持ち主であろうと、瞬く間に命を奪われるのだ。
-Inspect_B_Intro_02|Inspect B Intro 02|Storyteller|{#DialogueItalicFormat}生者なら呼吸もままならぬ、灼熱のアスポデロス。地上で死を迎えた者の大半が、この地で永遠の死後生を送る。
-Inspect_C_PreBoss_01_01|Inspect C Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子の前に、エリュシオン・コロシアムの厳めしい門構えが立ちふさがる。どこか不吉な空気をまとったその造形が、王子を、勝利する見込みのない戦いへと駆り立てる。
-Inspect_C_Shop_01_01|Inspect C Shop 01 01|Storyteller|{#DialogueItalicFormat}渡し守カロンが大量に貯め込んでいる財宝には、もとより冥界に眠っていたものもあれば、地上よりもたらされたものもある。カロンの助力を得られるのは、通例、エリュシオンでも指折りの財力を持つ者に限られるのだ。
-Inspect_C_Reprieve_01_01|Inspect C Reprieve 01 01|Storyteller|{#DialogueItalicFormat}精巧に造営されたエリュシオンの建造物内には、純然たる静謐さをたたえた安息の空間が存在する。そこに用意されている安らぎは、苦悩に満ちた短い一生を送る大半の人間には、まず味わう機会の訪れぬものだ。
-Inspect_C_Story_01_01|Inspect C Story 01 01|Storyteller|{#DialogueItalicFormat}エリュシオンの苔むした建築物の内部には、無数の石像が林立する。生前、大いなる偉業を成し遂げた人間の英雄たちを、死後も永遠に称えるべく建てられたものだ。
-Inspect_C_Intro_01|Inspect C Intro 01|Storyteller|{#DialogueItalicFormat}冥界の王子ザグレウスは、行く手に広がるエリュシオンの壮麗な景色を眺める。それは、英雄の中の英雄のみが死後に拝むことの許される絶景である。
-Inspect_C_Intro_02|Inspect C Intro 02|Storyteller|{#DialogueItalicFormat}聖なる地エリュシオンを流れる、忘却の川レーテー。その水には、死者が生前に味わった苦しみを、記憶もろとも洗い流す作用がある。エリュシオンに暮らすかつての英雄たちは、それを飲み、生者であった頃の痛みを和らげるのだ。
-Inspect_RoomSecret01_01|Inspect Room Secret 01 01|Storyteller|{#DialogueItalicFormat}冥界の最奥部に位置する、“無”なる場所。それは、開闢のときにすべての生命と魂が生まれ出た、カオスの領域である。死者の国に暮らす者の目にすら、ほぼ触れることのない場所だ。
-Inspect_RoomSecret02_01|Inspect Room Secret 02 01|Storyteller|{#DialogueItalicFormat}冥界の最暗部に秘された、果てしなき空間。冥王ハデスですら存在を把握していないその領域へと通じる道を、ザグレウス王子は発見した。
-Inspect_RoomSecret03_01|Inspect Room Secret 03 01|Storyteller|{#DialogueItalicFormat}冥界の内でも、最も濃い静寂に包まれた深淵。深い闇に沈んだその奥に、万物の萌芽の徴、カオスがひっそりと存る。それは、この世界を形作った、原初の創造者である。
-Inspect_D_MiniBoss_02_01|Inspect D Mini Boss 02 01|Storyteller|{#DialogueItalicFormat}冥界の建造物内に張り巡らされた、汚物のこびりついた巣。その内に待ち受けるのは、冥王ハデスですら言及をためらう、極めて醜悪な害獣である。
-Inspect_D_Reprieve_01_01|Inspect D Reprieve 01 01|Storyteller|{#DialogueItalicFormat}神々をも恐れぬ、汚らわしきサテュロスどもの巣窟。その奥部では、彼らが汚らわしき儀式で用いる正体不明の物体が悪臭を放っている。
-Inspect_D_Intro_01_01|Inspect D Intro 01 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子はついに、人間たちの暮らす地上の世界へと到達した。しかし、冥界の門は開かない。それより先の世界へ逃れることは、叶わないのだ。
-Inspect_D_Hub_01|Inspect D Hub 01|Storyteller|{#DialogueItalicFormat}巨大なステュクス神殿と、その内部で待ち受けるおびただしい危険の数々。地上を思い焦がれるザグレウス王子の前に立ちはだかるのは、もはやそれだけである。
-Inspect_D_Hub_02|Inspect D Hub 02|Storyteller|{#DialogueItalicFormat}命尽きた元生者たちは、この付近より冥界に入り、深淵へと送り届けられ、永遠の死後生を送る。ゆえに、この場所では冥府の渡し守カロンの姿がしばしば見られるのだ。
-Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|{#DialogueItalicFormat}恐ろしき多頭の怪物、ケルベロス。愚かにも逃亡を企てる亡者には、冥界の門を守る番犬の餌食となる末路が待っている。
-Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|{#DialogueItalicFormat}神殿の冷たき側面より伸びる、粗雑に掘られた隧道。編み目のごとく張り巡らされたその域内には、死してなお冥界で疎まれる、獰猛な害獣が潜む。
-Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}寒風にさらされ、凍てつく寒気に荒廃した地上の風景は、それでもなお、冥界の王子に畏怖の念を抱かせる。眼下に広がる壮大な光景は、彼がこれまで目にした、いかなる景色とも異なっている。
-Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}かつて冥界全土の女王として君臨したペルセポネ。彼女の秘密の園には、多種多様な果物と野菜が豊かに実る。死者の国より遠く離れたそこは、まさに生命の楽園である。
-A_PreBoss_01_FirstInspect|A Pre Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}この先に広がるのは、タルタロスの最果て。そこには、冥界の王子の想像を超える危険が待ち受ける…
-A_Boss_01_Inspect01|A Boss 01 Inspect 01|Storyteller|{#DialogueItalicFormat}「復讐の三女神」として知られるエリニュスたちは、冥王ハデスからの信頼も厚い、冥府の番人である。命限りある者のなかでも特に重罪を犯した者に罰を与え、冥界において、立ち入りを禁じられている領域に侵入せんとする者を排除する任を負う。
-A_PostBoss_01_FirstInspect|A Post Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}タルタロスより先へと続く道が、ついにあらわとなった。すでにはるか上方からは、燃えさかるプレゲトン川の熱がかすかに伝わってくる… だがそれは、この川の真の恐ろしさの片鱗ですらない。
-A_PostBoss_01_GearsInspect01|A Post Boss 01 Gears Inspect 01|Storyteller|{#DialogueItalicFormat}果てしなく広がる冥界の各領域をつなぐ、複雑に入り組んだ区画の数々。そこに足を踏み入れることが許されるのは、冥王ハデスより信頼を得た側近たちのみである。しかし冥界の王子は、かまわず侵入することにした。
-A_MiniBoss03_01_FirstInspect|A Mini Boss 03 01 First Inspect|Storyteller|{#DialogueItalicFormat}奈落タルタロスで罰を受ける亡者のうち、特に凶暴な者は、他者から隔離された一画に幽閉されている。彼らを訪ねるのは、愚かにも冥界からの脱出を計る者のみだ。
-A_MiniBoss04_01_FirstInspect|A Mini Boss 04 01 First Inspect|Storyteller|{#DialogueItalicFormat}冥界送りとなり、行き場をなくした亡者たちは、奈落タルタロスの深淵に集う。彼らはそこで土と交わり、名状しがたい醜怪な姿へと変化を遂げるのだ。
-A_Reprieve_01_FirstInspect|A Reprieve 01 First Inspect|Storyteller|{#DialogueItalicFormat}平穏とは無縁かに思える冥界にも、穏やかな安息の地は散在する。
-CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}乱雑に並べられた、冥府名物の品々。ステュクス川の渡し守カロンの飽くなき物欲を満たしてやれば、それらを手に入れることが叶うだろう。
-CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥界を流れる、悪名高きステュクス川。渡し守カロンは亡霊たちを舟に乗せ、生者の国から地の底へ、一瞬で渡りゆく。そうして運ばれた亡霊たちの大半は、そこで永遠の時を過ごすのだ。
-OpeningFirstInspect|Opening First Inspect|Storyteller|{#DialogueItalicFormat}冥王ハデスの統べる冥界は、絶えず姿形を変える無数の区画から成る。死者たちはその迷宮の底から、永久に逃れることはかなわない。
-OpeningProcGenHint|Opening Proc Gen Hint|Storyteller|{#DialogueItalicFormat}脱出を試みる王子が館に戻されるたびに、冥界を構成する区画の数々は姿を変え、並びかわる。その全貌を絵図に記録せんともくろむ王子にとっては、頭痛の種である。
-Inspect_A_Story_01_01|Inspect A Story 01 01|Storyteller|{#DialogueItalicFormat}タルタロスの奥底には、冥界を永遠にさまよう亡者の中でも、とりわけ不幸な者たちが居す。彼らのあるじは、死してなお生に固執する者に、容赦なく罰を与えるのだ。
+PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|*忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。*
+CharonFirstInspect|Charon First Inspect|Storyteller|*冥界の闇に沈んだ片隅に、ひっそりと在る、エレボスの地。死者たちはそこで、おのれに下される永遠の判決を待つ。冥王ハデスに訴えが通じ、あわよくば慈悲を垂れてもらうことが、彼らの切なる願いである。*
+CharonFight01_FirstInspect|Charon Fight 01 First Inspect|Storyteller|*霧深いエレボスの闇の中を、蕩々と流れるステュクス川。道理をわきまえぬ不届き者は、ここで冥府の渡し守カロンの制裁を受けることとなる。*
+Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|*燃えさかる炎の川プレゲトンを渡り、灼熱の地を踏破したザグレウス王子は、小高い一角にたたずみ、行く手を見晴らした。その先では、想像を絶するほど恐ろしい怪物が、虎視眈々と彼を待ち受ける。*
+Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|*燃えさかる炎の川を越えた先に姿を現した、秘密の階段。上った先にあるのは、冥界で最も神々しく、壮麗な地、エリュシオンだ。生前、大いなる偉業を成し遂げた者たちが永遠の死後生を送るその地では、侵入者を警戒する守りもひときわ堅い。*
+Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|*アスポデロスの一角に設えられた、ささやかな住居。響いてくる伸びやかな歌声は、そこで独りひっそりと暮らすエウリュディケのものだ。彼女もかつて、ザグレウス王子のように、冥界からの脱出を試みたことがあった。しかし彼女の望みもまた、叶うことはなかったのである。*
+B_MiniBoss02_FirstInspect|B Mini Boss 02 First Inspect|Storyteller|*軽々に魔術に手を染める者の多くは不慮の死を迎え、\nタルタロスで永遠の死後生を送ることになる。\nしかしその一方で、魔術師の道を極め、\n死後に別の地を終のすみかとする者も存在する。*
+Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|*冥界に送り込まれた死者の魂と、彼らの帯びる副葬品のすべてを舟に乗せ、地底を流れるあらゆる“水域”を行き来する渡し守、カロン。プレゲトン川の燃えさかる炎も、舞い上がる灰も、彼にとっては、なんら脅威となりえない。*
+Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|*プレゲトン川の燃えさかる炎の内にも、ひっそりと、いくばくかの水が残る。それは、幸運にも運命の三女神から冥界の王子にもたらされた、恵みの滴であろうか。*
+Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|*かつては豊かな草花に覆われていたアスポデロスも、今は燃えさかる炎にすっかり飲まれている。プレゲトン川を流れる灼熱の溶岩に触れれば、いかに熱に強い体質の持ち主であろうと、瞬く間に命を奪われるのだ。*
+Inspect_B_Intro_02|Inspect B Intro 02|Storyteller|*生者なら呼吸もままならぬ、灼熱のアスポデロス。地上で死を迎えた者の大半が、この地で永遠の死後生を送る。*
+Inspect_C_PreBoss_01_01|Inspect C Pre Boss 01 01|Storyteller|*ザグレウス王子の前に、エリュシオン・コロシアムの厳めしい門構えが立ちふさがる。どこか不吉な空気をまとったその造形が、王子を、勝利する見込みのない戦いへと駆り立てる。*
+Inspect_C_Shop_01_01|Inspect C Shop 01 01|Storyteller|*渡し守カロンが大量に貯め込んでいる財宝には、もとより冥界に眠っていたものもあれば、地上よりもたらされたものもある。カロンの助力を得られるのは、通例、エリュシオンでも指折りの財力を持つ者に限られるのだ。*
+Inspect_C_Reprieve_01_01|Inspect C Reprieve 01 01|Storyteller|*精巧に造営されたエリュシオンの建造物内には、純然たる静謐さをたたえた安息の空間が存在する。そこに用意されている安らぎは、苦悩に満ちた短い一生を送る大半の人間には、まず味わう機会の訪れぬものだ。*
+Inspect_C_Story_01_01|Inspect C Story 01 01|Storyteller|*エリュシオンの苔むした建築物の内部には、無数の石像が林立する。生前、大いなる偉業を成し遂げた人間の英雄たちを、死後も永遠に称えるべく建てられたものだ。*
+Inspect_C_Intro_01|Inspect C Intro 01|Storyteller|*冥界の王子ザグレウスは、行く手に広がるエリュシオンの壮麗な景色を眺める。それは、英雄の中の英雄のみが死後に拝むことの許される絶景である。*
+Inspect_C_Intro_02|Inspect C Intro 02|Storyteller|*聖なる地エリュシオンを流れる、忘却の川レーテー。その水には、死者が生前に味わった苦しみを、記憶もろとも洗い流す作用がある。エリュシオンに暮らすかつての英雄たちは、それを飲み、生者であった頃の痛みを和らげるのだ。*
+Inspect_RoomSecret01_01|Inspect Room Secret 01 01|Storyteller|*冥界の最奥部に位置する、“無”なる場所。それは、開闢のときにすべての生命と魂が生まれ出た、カオスの領域である。死者の国に暮らす者の目にすら、ほぼ触れることのない場所だ。*
+Inspect_RoomSecret02_01|Inspect Room Secret 02 01|Storyteller|*冥界の最暗部に秘された、果てしなき空間。冥王ハデスですら存在を把握していないその領域へと通じる道を、ザグレウス王子は発見した。*
+Inspect_RoomSecret03_01|Inspect Room Secret 03 01|Storyteller|*冥界の内でも、最も濃い静寂に包まれた深淵。深い闇に沈んだその奥に、万物の萌芽の徴、カオスがひっそりと存る。それは、この世界を形作った、原初の創造者である。*
+Inspect_D_MiniBoss_02_01|Inspect D Mini Boss 02 01|Storyteller|*冥界の建造物内に張り巡らされた、汚物のこびりついた巣。その内に待ち受けるのは、冥王ハデスですら言及をためらう、極めて醜悪な害獣である。*
+Inspect_D_Reprieve_01_01|Inspect D Reprieve 01 01|Storyteller|*神々をも恐れぬ、汚らわしきサテュロスどもの巣窟。その奥部では、彼らが汚らわしき儀式で用いる正体不明の物体が悪臭を放っている。*
+Inspect_D_Intro_01_01|Inspect D Intro 01 01|Storyteller|*ザグレウス王子はついに、人間たちの暮らす地上の世界へと到達した。しかし、冥界の門は開かない。それより先の世界へ逃れることは、叶わないのだ。*
+Inspect_D_Hub_01|Inspect D Hub 01|Storyteller|*巨大なステュクス神殿と、その内部で待ち受けるおびただしい危険の数々。地上を思い焦がれるザグレウス王子の前に立ちはだかるのは、もはやそれだけである。*
+Inspect_D_Hub_02|Inspect D Hub 02|Storyteller|*命尽きた元生者たちは、この付近より冥界に入り、深淵へと送り届けられ、永遠の死後生を送る。ゆえに、この場所では冥府の渡し守カロンの姿がしばしば見られるのだ。*
+Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|*恐ろしき多頭の怪物、ケルベロス。愚かにも逃亡を企てる亡者には、冥界の門を守る番犬の餌食となる末路が待っている。*
+Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|*神殿の冷たき側面より伸びる、粗雑に掘られた隧道。編み目のごとく張り巡らされたその域内には、死してなお冥界で疎まれる、獰猛な害獣が潜む。*
+Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|*寒風にさらされ、凍てつく寒気に荒廃した地上の風景は、それでもなお、冥界の王子に畏怖の念を抱かせる。眼下に広がる壮大な光景は、彼がこれまで目にした、いかなる景色とも異なっている。*
+Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|*かつて冥界全土の女王として君臨したペルセポネ。彼女の秘密の園には、多種多様な果物と野菜が豊かに実る。死者の国より遠く離れたそこは、まさに生命の楽園である。*
+A_PreBoss_01_FirstInspect|A Pre Boss 01 First Inspect|Storyteller|*この先に広がるのは、タルタロスの最果て。そこには、冥界の王子の想像を超える危険が待ち受ける…*
+A_Boss_01_Inspect01|A Boss 01 Inspect 01|Storyteller|*「復讐の三女神」として知られるエリニュスたちは、冥王ハデスからの信頼も厚い、冥府の番人である。命限りある者のなかでも特に重罪を犯した者に罰を与え、冥界において、立ち入りを禁じられている領域に侵入せんとする者を排除する任を負う。*
+A_PostBoss_01_FirstInspect|A Post Boss 01 First Inspect|Storyteller|*タルタロスより先へと続く道が、ついにあらわとなった。すでにはるか上方からは、燃えさかるプレゲトン川の熱がかすかに伝わってくる… だがそれは、この川の真の恐ろしさの片鱗ですらない。*
+A_PostBoss_01_GearsInspect01|A Post Boss 01 Gears Inspect 01|Storyteller|*果てしなく広がる冥界の各領域をつなぐ、複雑に入り組んだ区画の数々。そこに足を踏み入れることが許されるのは、冥王ハデスより信頼を得た側近たちのみである。しかし冥界の王子は、かまわず侵入することにした。*
+A_MiniBoss03_01_FirstInspect|A Mini Boss 03 01 First Inspect|Storyteller|*奈落タルタロスで罰を受ける亡者のうち、特に凶暴な者は、他者から隔離された一画に幽閉されている。彼らを訪ねるのは、愚かにも冥界からの脱出を計る者のみだ。*
+A_MiniBoss04_01_FirstInspect|A Mini Boss 04 01 First Inspect|Storyteller|*冥界送りとなり、行き場をなくした亡者たちは、奈落タルタロスの深淵に集う。彼らはそこで土と交わり、名状しがたい醜怪な姿へと変化を遂げるのだ。*
+A_Reprieve_01_FirstInspect|A Reprieve 01 First Inspect|Storyteller|*平穏とは無縁かに思える冥界にも、穏やかな安息の地は散在する。*
+CharonFirstInspect|Charon First Inspect|Storyteller|*乱雑に並べられた、冥府名物の品々。ステュクス川の渡し守カロンの飽くなき物欲を満たしてやれば、それらを手に入れることが叶うだろう。*
+CharonFirstInspect|Charon First Inspect|Storyteller|*冥界を流れる、悪名高きステュクス川。渡し守カロンは亡霊たちを舟に乗せ、生者の国から地の底へ、一瞬で渡りゆく。そうして運ばれた亡霊たちの大半は、そこで永遠の時を過ごすのだ。*
+OpeningFirstInspect|Opening First Inspect|Storyteller|*冥王ハデスの統べる冥界は、絶えず姿形を変える無数の区画から成る。死者たちはその迷宮の底から、永久に逃れることはかなわない。*
+OpeningProcGenHint|Opening Proc Gen Hint|Storyteller|*脱出を試みる王子が館に戻されるたびに、冥界を構成する区画の数々は姿を変え、並びかわる。その全貌を絵図に記録せんともくろむ王子にとっては、頭痛の種である。*
+Inspect_A_Story_01_01|Inspect A Story 01 01|Storyteller|*タルタロスの奥底には、冥界を永遠にさまよう亡者の中でも、とりわけ不幸な者たちが居す。彼らのあるじは、死してなお生に固執する者に、容赦なく罰を与えるのだ。*

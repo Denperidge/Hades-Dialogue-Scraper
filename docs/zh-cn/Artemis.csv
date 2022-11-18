@@ -2,12 +2,12 @@ Id|Description|Speaker|Text
 ZeusWithArtemis01|Zeus With Artemis 01|Zeus|扎格列欧斯，你一来这儿我们就会给你找一位合适的伴侣。我敢说，一定要是一位和你一样优秀的年轻人！正常来说，这里有很多可供你选择的，不过也有一些例外，比如……我可爱的女儿，阿尔忒弥斯。她根本不打算寻求一位伴侣！
 ZeusWithArtemis01|Zeus With Artemis 01|Artemis|是的，扎格列欧斯，尽管我到哪里都能遇到完美英俊的有为青年，他们与其说是想娶我，不如说是让我难堪，因为我宁愿独自待着或在森林里陪伴我的女仙朋友们！
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|啧，嗯，扎格列欧斯……今天我要向你介绍一个人，他就是我那集威望、善良、慷慨于一身的父亲大人，你的叔叔宙斯！
-ArtemisWithZeus01|Artemis With Zeus 01|Zeus|{#DialogueItalicFormat}嗯{#PreviousFormat}，谢谢你的介绍，女儿！现在没你的事啦，去跟你的仙女们玩儿去吧！让我来帮助我的侄儿吧。如果你想的话，现在就给予他你那微不足道的恩赐吧。
-ArtemisWithPoseidon01|Artemis With Poseidon 01|Artemis|你已经见过我的父亲和我的叔叔了吧，扎格列欧斯？我说不好他们两个哪个更烦人，{#DialogueItalicFormat}呃{#PreviousFormat}，我是说……更了不起！虽然确切地说，你绝大部分时间到呆在海里，呆在奥林匹斯山下面，你也依然很了不起！不是吗，叔叔？
+ArtemisWithZeus01|Artemis With Zeus 01|Zeus|*嗯*，谢谢你的介绍，女儿！现在没你的事啦，去跟你的仙女们玩儿去吧！让我来帮助我的侄儿吧。如果你想的话，现在就给予他你那微不足道的恩赐吧。
+ArtemisWithPoseidon01|Artemis With Poseidon 01|Artemis|你已经见过我的父亲和我的叔叔了吧，扎格列欧斯？我说不好他们两个哪个更烦人，*呃*，我是说……更了不起！虽然确切地说，你绝大部分时间到呆在海里，呆在奥林匹斯山下面，你也依然很了不起！不是吗，叔叔？
 ArtemisWithPoseidon01|Artemis With Poseidon 01|Poseidon|哦，阿尔忒弥斯，你就不用向小哈迪斯吹嘘我的事迹了！还有！无论你是在海里，是在天上，还是在地底下，这都改不了你是个神的事实！你们两个还很年轻呢！继续努力，过不了多久，你们就可以变得和我一样了不起了！
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|嗨，{#DialogueItalicFormat}呃{#PreviousFormat}，扎格列欧斯！我一直想知道一件事，不要误会我的意思，好吗？哦，糟了。她来了。
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Aphrodite|阿尔忒弥斯，你几乎说不出话来了！是因为我们的冥界小小神，还是因为我？{#DialogueItalicFormat}嗯……嗯{#PreviousFormat}，我相信你会把一切弄清楚的！
-ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|话说，什么来着，我，{#DialogueItalicFormat}呃{#PreviousFormat}，算了。还是改天再和你说好了。
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|嗨，*呃*，扎格列欧斯！我一直想知道一件事，不要误会我的意思，好吗？哦，糟了。她来了。
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Aphrodite|阿尔忒弥斯，你几乎说不出话来了！是因为我们的冥界小小神，还是因为我？*嗯……嗯*，我相信你会把一切弄清楚的！
+ArtemisWithAphrodite01|Artemis With Aphrodite 01|Artemis|话说，什么来着，我，*呃*，算了。还是改天再和你说好了。
 ArtemisWithAphrodite02|Artemis With Aphrodite 02|Artemis|呃，扎格列欧斯，虽然我有猎手的本能，但看来我这次是躲不掉阿弗洛狄忒了。她坚持无论出于什么理由，我们都应该同时在你面前出现……
 ArtemisWithAphrodite02|Artemis With Aphrodite 02|Aphrodite|哦，别害羞嘛，阿尔忒弥斯！我肯定你很擅长躲避普通的野兽，但在我眼中，你就像白纸一样，一眼就看透了。不如你下次对自己诚实一点吧？
 ArtemisWithAres01|Artemis With Ares 01|Artemis|扎格列欧斯，我希望大家能够听到你的声音，这样阿瑞斯大人就会明白，我跟他的神力为的是截然不同的目的！
@@ -19,11 +19,11 @@ ArtemisWithDionysus01|Artemis With Dionysus 01|Artemis|哦，太棒了，是你�
 ArtemisWithDionysus01|Artemis With Dionysus 01|Dionysus|呃，感觉我就像是个吵闹鬼一样，是个烦人的家伙，让人唯恐避之不及。不过，哎，我又能怎么样呢？
 ArtemisWithDemeter01|Artemis With Demeter 01|Artemis|哦，嘿，扎格列欧斯，我一直在劝说得墨忒尔女士女士，让她别再下那么多雪了，但一直都没太奏效。有些凡人已经要被压垮，这样的话，狩猎恐怕就要困难得多了！
 ArtemisWithDemeter01|Artemis With Demeter 01|Demeter|可别小看凡人噢，阿尔忒弥斯，这大概是他们的一个优点吧！他们总会找到度过漫长冬夜的方法。他们也应该这样做，因为这是他们自找的。
-ArtemisAboutRamaAspect01|Artemis About Rama Aspect 01|Artemis|呃，扎格列欧斯，你刚刚是不是打算和科罗纳赫特说话？记住，要和它说{#DialogueItalicFormat}我看到第七化身的手将你拉开！{#PreviousFormat}只要你对它说这句话，应该就会有好事发生了，或许是能唤醒什么弓术之神的形态吧？你打不打算马上试试看？
+ArtemisAboutRamaAspect01|Artemis About Rama Aspect 01|Artemis|呃，扎格列欧斯，你刚刚是不是打算和科罗纳赫特说话？记住，要和它说*我看到第七化身的手将你拉开！*只要你对它说这句话，应该就会有好事发生了，或许是能唤醒什么弓术之神的形态吧？你打不打算马上试试看？
 ArtemisAboutRamaAspect02|Artemis About Rama Aspect 02|Artemis|嘿，快看啊！那句咒语肯定是起作用了！我在这里几乎都能看到那把弓发出的亮光！我还没用过科罗纳赫特呢，至少到现在为止还没用过。不过，如果命运女神已经让我看过那把弓过去和未来的主人，那我猜我肯定能有机会用它一次！
 ArtemisAboutOlympianReunionQuest01|Artemis About Olympian Reunion Quest 01|Zagreus|找到你了，女猎手。奥林匹斯山，这是一份官方来信！是特别送给你的，阿尔忒弥斯女士！
 ArtemisAboutOlympianReunionQuest01|Artemis About Olympian Reunion Quest 01|Artemis|是给我的某种特别信息……！哦，看起来奥林匹斯山上的所有人都收到了这封信。有那么一会儿，我还以为自己是特别的呢！好吧，看来我不得不和其他人打交道了，真是太棒了！
-ArtemisPostEpilogue01|Artemis Post Epilogue 01|Artemis|不得不说，在最近那次小小的访问中，我和大家一起度过了相当不错的时光！我遇到了你，哈迪斯叔叔，甚至是伟大的阿喀琉斯！我还是不怎么喜欢你欺骗我们，不过{#DialogueItalicFormat}呃{#PreviousFormat}！我觉得我还是能克服这件事情的。总之，你以后还是可以来找我寻求帮助，好吗？
+ArtemisPostEpilogue01|Artemis Post Epilogue 01|Artemis|不得不说，在最近那次小小的访问中，我和大家一起度过了相当不错的时光！我遇到了你，哈迪斯叔叔，甚至是伟大的阿喀琉斯！我还是不怎么喜欢你欺骗我们，不过*呃*！我觉得我还是能克服这件事情的。总之，你以后还是可以来找我寻求帮助，好吗？
 ArtemisAboutZeus01|Artemis About Zeus 01|Artemis|啊，仁慈的老父亲宙斯，他一定用闪电球为你祝福了吧，对吗？他一直这么关心每个人。
 ArtemisAboutPoseidon01|Artemis About Poseidon 01|Artemis|波塞冬叔叔已经为你祝福了，不是吗？想想吧，那个大胖子是你父亲的兄弟。他们告诉我要尊重他，但这很难。
 ArtemisAboutAthena01|Artemis About Athena 01|Artemis|我猜你之前见过雅典娜，对吧？我永远不会拿我的弓去换那些华丽的装备和盔甲，但是……大家各有所爱吧。
@@ -59,17 +59,17 @@ ArtemisAboutChironAspect01|Artemis About Chiron Aspect 01|Artemis|那可不是�
 ArtemisAboutHeraAspect01|Artemis About Hera Aspect 01|Artemis|我说，这不就是继母赫拉本人用过的那把弓吗？这是科罗纳赫特的形态！我一看到这把弓上面那些……相当阴森的头骨就知道了。说真的，这很符合赫拉的风格。
 ArtemisAboutFistWeapon01|Artemis About Fist Weapon 01|Artemis|你什么时候得到的双子之拳玛尔封？伸出手来，让我看看！据说，得墨忒尔曾经用这双拳套把她父亲的脸都打歪了！我猜你能明白我说的是什么意思。
 ArtemisAboutGunWeapon01|Artemis About Gun Weapon 01|Artemis|哇，你手上的不是是伊格瑞菲，狮鹫坚炮嘛！作为狩猎武器而言，它的动静有点太大了，这点就不如弓了。不过，各有所爱嘛！
-ArtemisRevealsRamaAspect01|Artemis Reveals Rama Aspect 01|Artemis|听着，扎格列欧斯，我知道就算是由我来说，这也有点怪。不过，我有一条口信给你的弓！没错，等你下次再碰到科罗纳赫特的时候，你要用沉稳、确切的声音对它说：{#DialogueItalicFormat}我看到第七化身的手将你拉开{#PreviousFormat}。到时候发生什么，要记得告诉我，好吗？
+ArtemisRevealsRamaAspect01|Artemis Reveals Rama Aspect 01|Artemis|听着，扎格列欧斯，我知道就算是由我来说，这也有点怪。不过，我有一条口信给你的弓！没错，等你下次再碰到科罗纳赫特的时候，你要用沉稳、确切的声音对它说：*我看到第七化身的手将你拉开*。到时候发生什么，要记得告诉我，好吗？
 ArtemisAboutKeepsake01|Artemis About Keepsake 01|Artemis|喂，那是我的狮鹫箭头！一般来说，它是用来杀死猎物的。不过照你这么来用的话，我想把你干掉就更轻松了，就算在黑暗之中也能看得到你。我看到你了……就在这儿！
 ArtemisAboutZagreus01|Artemis About Zagreus 01|Artemis|你的名字，意思是“伟大的猎手”，扎格列欧斯！你的母亲倪克斯给你起名的时候，肯定是希望有朝一日你能从我这里学点什么！
 ArtemisRunCleared01|Artemis Run Cleared 01|Artemis|嘿，等一下，扎格列欧斯，说真的……你之前马上就要出去了，可你现在怎么回来了？啊，你肯定是胜利唾手可得的时候大意了吧，这种事情很常见啦。我们一定能帮你逃出去，走着瞧吧！
 ArtemisLowHealth01|Artemis Low Health 01|Artemis|嘿，你还好吗，扎格列欧斯？我才不会刚见面就让你死在我面前。
-ArtemisLowHealth02|Artemis Low Health 02|Artemis|{#DialogueItalicFormat}噢{#PreviousFormat}！看看你，伤得很重，但是，只要专注于狩猎，它会帮助你远离痛苦。
+ArtemisLowHealth02|Artemis Low Health 02|Artemis|*噢*！看看你，伤得很重，但是，只要专注于狩猎，它会帮助你远离痛苦。
 ArtemisLowHealth03|Artemis Low Health 03|Artemis|听着，我是狩猎女神，不是医术女神，所以……我也不知道这样能不能帮到你，总之试试吧！
 ArtemisLowHealth04|Artemis Low Health 04|Artemis|很显然，你的狩猎进展得并不很顺利，我看得出来。不过，或许我们还有机会翻盘。
 ArtemisLowHealth05|Artemis Low Health 05|Artemis|好消息是，你流了这么多血，这下子我能更容易找到你了！
 ArtemisLegendaryPickUp01|Artemis Legendary Pick Up 01|Artemis|好，准备好，扎格列欧斯，我很少像现在这样教别人狩猎绝技。
-ArtemisLegendaryPickUp02|Artemis Legendary Pick Up 02|Artemis|好吧，没必要继续玩弄猎物。这是我最好的祝福了，{#DialogueItalicFormat}拿好{#PreviousFormat}！
+ArtemisLegendaryPickUp02|Artemis Legendary Pick Up 02|Artemis|好吧，没必要继续玩弄猎物。这是我最好的祝福了，*拿好*！
 ArtemisLegendaryPickUp03|Artemis Legendary Pick Up 03|Artemis|我可不会把我最出色的狩猎技术随随便便展示给什么凡人，扎格列欧斯。所以我要传给你的技巧，你最好心怀感激地学会，然后靠着它继续前进！
 ArtemisLegendaryPickUp04|Artemis Legendary Pick Up 04|Artemis|我们这次还是不要心存侥幸了吧，扎格列欧斯？拿去吧，这是我最好的东西了，你最好别把它浪费掉！
 ArtemisFirstPickUp|Artemis First Pick Up|Zagreus|据我所知，天界只有一位弓箭手。好吧，其实有好几位！以哈迪斯之名！奥林匹斯山？我收到了这条消息。
@@ -85,11 +85,11 @@ ArtemisMiscPickup09|Artemis Misc Pickup 09|Artemis|我很想知道你在冥界�
 ArtemisMiscPickup10|Artemis Misc Pickup 10|Artemis|你在冥界打的那些暗灵们已经死了，有时不止一次。它们应该很容易对付，对吧？
 ArtemisMiscPickup11|Artemis Misc Pickup 11|Artemis|我从来没遇到过我打不垮的敌人。我希望你也一样，听到了吗？希望你能听到我的话。
 ArtemisMiscPickup12|Artemis Misc Pickup 12|Artemis|祝你猎运长久，扎格列欧斯！你越早离开那里，就能越快地把我从那些令人无法忍受的亲人手中解救出来。来吧？
-ArtemisMiscPickup13|Artemis Misc Pickup 13|Artemis|嗨，扎格列欧斯，祝你这次好运。我会告诉你{#DialogueItalicFormat}“愿你的梦想成真”{#PreviousFormat}，但我真的可以保证你实现梦想。
+ArtemisMiscPickup13|Artemis Misc Pickup 13|Artemis|嗨，扎格列欧斯，祝你这次好运。我会告诉你*“愿你的梦想成真”*，但我真的可以保证你实现梦想。
 ArtemisMiscPickup14|Artemis Misc Pickup 14|Artemis|狩猎需要全神贯注，所以，我就不打扰你了，我只要……在这里静静观察你的一举一动……
 ArtemisMiscPickup15|Artemis Misc Pickup 15|Artemis|说实话，想要成功，你……不必听我说什么，但……我的祝福应该会有所帮助。
 ArtemisMiscPickup16|Artemis Misc Pickup 16|Artemis|好吧，扎格列欧斯，你这次要离开这里，还是我要继续独自狩猎呢？很可能？
-ArtemisMiscPickup17|Artemis Misc Pickup 17|Artemis|看起来你需要一点帮助，所以我要看看我的祝福的储备，然后，{#DialogueItalicFormat}哦！{#PreviousFormat}就是这些。
+ArtemisMiscPickup17|Artemis Misc Pickup 17|Artemis|看起来你需要一点帮助，所以我要看看我的祝福的储备，然后，*哦！*就是这些。
 ArtemisMiscPickup18|Artemis Misc Pickup 18|Artemis|狩猎的结果要么是杀了猎物，要么就是被猎物杀掉。但对我们这些不朽之神来说，被杀与不得不带着失败的耻辱永生，你觉得哪种更糟？
 ArtemisMiscPickup19|Artemis Misc Pickup 19|Artemis|那些在冥界里折磨你的暗灵是不会放弃的，不是吗？我想，我们还是继续对付它们吧！
 ArtemisMiscPickup20|Artemis Misc Pickup 20|Artemis|需要狩猎伙伴吗，扎格列欧斯？虽然我不能自己去冥界找你，甚至无法听到你的回应，但是，无论如何，这个给你。
@@ -118,7 +118,7 @@ ArtemisMiscPickupExtra11|Artemis Misc Pickup Extra 11|Artemis|我很容易就找
 ArtemisMiscPickupExtra12|Artemis Misc Pickup Extra 12|Artemis|我有一个祝福要给你，扎格列欧斯，不过你可别让我难堪啊。
 ArtemisMiscPickupExtra13|Artemis Misc Pickup Extra 13|Artemis|嗯，时间正好，扎格列欧斯，准备好出发吧。
 ArtemisMiscPickupExtra14|Artemis Misc Pickup Extra 14|Artemis|如果你想离开这里，那么我的祝福就是唯一的出路。
-ArtemisMiscPickupExtra15|Artemis Misc Pickup Extra 15|Artemis|不要让你的父亲或是{#DialogueItalicFormat}任何人{#PreviousFormat}随意摆布你，扎格列欧斯。
+ArtemisMiscPickupExtra15|Artemis Misc Pickup Extra 15|Artemis|不要让你的父亲或是*任何人*随意摆布你，扎格列欧斯。
 ArtemisMiscPickupExtra16|Artemis Misc Pickup Extra 16|Artemis|我猜，我马上就能帮你逃出你父亲的地盘了，扎格列欧斯！
 ArtemisMiscPickupRare01|Artemis Misc Pickup Rare 01|Artemis|我给你带来了额外的狩猎用品，不知你能不能驾驭得了！
 ArtemisMiscPickupRare02|Artemis Misc Pickup Rare 02|Artemis|别再玩弄我们的猎物了，扎格列欧斯，这次不如彻底了结了吧？
@@ -139,14 +139,14 @@ ArtemisLootBought05|Artemis Loot Bought 05|Artemis|你在卡戎这里做了一�
 ArtemisRejection01|Artemis Rejection 01|Artemis|你怎么站在这家伙这边……？！啊，我干嘛要在乎这个小神呢！
 ArtemisRejection02|Artemis Rejection 02|Artemis|我以为我们心有灵犀呢，扎格列欧斯，但这也不是我第一次看人看走眼了。
 ArtemisRejection03|Artemis Rejection 03|Artemis|是吗，这就是你的选择吗！虽然我不想承认这一点，但也许你更喜欢我的亲戚。
-ArtemisRejection04|Artemis Rejection 04|Artemis|干得不错，扎格列欧斯！看来我是被你耍了，现在你不如来试试{#DialogueItalicFormat}这个{#PreviousFormat}吧。
+ArtemisRejection04|Artemis Rejection 04|Artemis|干得不错，扎格列欧斯！看来我是被你耍了，现在你不如来试试*这个*吧。
 ArtemisRejection05|Artemis Rejection 05|Artemis|不要惹我不高兴，扎格列欧斯。我的好感来之不易，而且很快就会消失。
 ArtemisRejection06|Artemis Rejection 06|Artemis|你真是错失良机了啊，扎格列欧斯。但是我可不会，你给我等着吧。
 ArtemisRejection07|Artemis Rejection 07|Artemis|啊，很好，我都快忘记被人背后放冷箭是什么感觉了！
 ArtemisRejection08|Artemis Rejection 08|Artemis|你觉得我很好对付吗，扎格列欧斯？你是真这么想的吗？
 ArtemisRejection09|Artemis Rejection 09|Artemis|噢，看啊，又是一次射击练习呢！快跑吧，扎格列欧斯。
 ArtemisRejection10|Artemis Rejection 10|Artemis|你觉得我会放任你这样做吗？
-ArtemisRejection11|Artemis Rejection 11|Artemis|{#DialogueItalicFormat}啊哈{#PreviousFormat}，我就知道你会用这种老花招，扎格列欧斯。我已经有所准备了。
+ArtemisRejection11|Artemis Rejection 11|Artemis|*啊哈*，我就知道你会用这种老花招，扎格列欧斯。我已经有所准备了。
 ArtemisRejection12|Artemis Rejection 12|Artemis|你背叛我还真是意料之中啊，扎格列欧斯！快跑吧。
 ArtemisRejection13|Artemis Rejection 13|Artemis|哦，真的吗？真的要变成这个样子吗？你们冥界里的神都一个样！
 ArtemisMakeUp01|Artemis Make Up 01|Artemis|好吧，我不再生气了，唔，真的不生气了。你给我小心点，明白了吗？
@@ -183,6 +183,6 @@ AthenaWithArtemis01|Athena With Artemis 01|Artemis|嗯，你好，扎格列欧�
 AthenaWithArtemis01|Athena With Artemis 01|Athena|嗯，那我就认为问题解决了。恐怕这样的互动在我的家庭中并不少见；但是没有缺陷的家庭会是什么样子呢？
 PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|关于我嘛，有件事得和你说说，侄子。我和这里的所有人都相处得来！这种本事可不是人人都有啊！就比如说我的侄女阿尔忒弥斯吧！她一丁点玩笑都开不起！丫头，你如果总是摆着这么张臭脸，可是勾搭不到男人的啊！
 PoseidonWithArtemis01|Poseidon With Artemis 01|Artemis|哦，这可太遗憾了，波塞冬叔叔。我想知道，到底是因为谁，我才总摆着这么张臭脸的？说不定扎格列欧斯知道呢。
-PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}！你看到了吧，侄子？
+PoseidonWithArtemis01|Poseidon With Artemis 01|Poseidon|*哈哈哈*！你看到了吧，侄子？
 DemeterWithArtemis|Demeter With Artemis|Demeter|你看，扎格列欧斯，我温柔的阿尔忒弥斯只是对你的困境表示关心而已！我想，如果我们都能帮助你的话，她应该会很高兴吧。
 DemeterWithArtemis|Demeter With Artemis|Artemis|关心？我可没看到有谁关心。我有句话要对你说，扎格列欧斯！你不需要别人的帮助，你完全可以凭自己的力量完成这场旅途。不过万一，我是说，万一发生意外的话！呃，收下这个吧。

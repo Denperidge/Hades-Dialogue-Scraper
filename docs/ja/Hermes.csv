@@ -49,7 +49,7 @@ HermesAboutMegRelationship01|Hermes About Meg Relationship 01|Hermes|ボスっ�
 HermesAboutCharonFight01|Hermes About Charon Fight 01|Hermes|僕の同僚に勝負を吹っかけるなんて、どうかしてるよ。\n僕の知るかぎり、あいつと、あいつの舟のことは、\nみんなけっこう怖がってる。なのにボスときたら…\nあいつを倒せるとでも思ったの？
 HermesAboutCharonFight02|Hermes About Charon Fight 02|Hermes|僕の同僚に勝負を挑んで、しかも勝っちゃうなんて…！ボスが強いのは知ってたけど、まさかそこまでとはね！恐れ入ったよ！渡し守氏も、負けたのに、怒るどころか感心してたよ！
 HermesBeatCharonQuest01|Hermes Beat Charon Quest 01|Hermes|じつは… 同僚の渡し守氏と賭けをしててね。\n「ボスは絶対、渡し守氏に二連勝できる」って\n言っちゃった！\nヘンにプレッシャーかけるつもりはないけど…\nいつか、僕の言うとおりになったらうれしいな！
-HermesMessage01|Hermes Message 01|Hermes|オリュンポスから言付けです！読み上げます！\n{#DialogueItalicFormat}「こちらの山頂は、大変快適です。\n脱出チャレンジに明け暮れる必要もナシ！\nさあ、あなたも早く仲間入りを！」{#PreviousFormat}
+HermesMessage01|Hermes Message 01|Hermes|オリュンポスから言付けです！読み上げます！\n*「こちらの山頂は、大変快適です。\n脱出チャレンジに明け暮れる必要もナシ！\nさあ、あなたも早く仲間入りを！」*
 HermesMessage02|Hermes Message 02|Hermes|言付けでーす！読み上げまーす！「ずいぶん\n足が遅いようで。誰かに助けてもらっては？」\nハッ！これは奇遇だね！
 HermesMessage03|Hermes Message 03|Hermes|言付けです！読み上げますね…\n「さっさと脱出しやがれ」\n差出人は、地上の誰かみたいですね。\nここにそう書いてあるんで。
 HermesMessage04|Hermes Message 04|Hermes|また言付けです！読み上げますね… 「オレガノ\n小さじ1、エキストラバージン・オリーブオイル\n大さじ2、タマネギ（大）みじん切り、塩少々…」\nん？これはボス宛てじゃないな。\nま、脱出できたら、作ってみて。
@@ -87,12 +87,12 @@ HermesAboutEnemySpeedCondition02|Hermes About Enemy Speed Condition 02|Hermes|�
 HermesAboutBiomeSpeedCondition01|Hermes About Biome Speed Condition 01|Hermes|締め切りに追われてるね？\n親父さんの「盟約」のせいだね。\n先を急がなきゃいけない気持ち、よくわかるよ。\n手短に済ませるから、引き続きがんばって。
 HermesAboutBiomeSpeedCondition02|Hermes About Biome Speed Condition 02|Hermes|ボス、締め切りに追われてるね？\nじゃあ、余計なおしゃべりはカットだね。\nどうぞ、遠慮なく先を急いで！
 HermesAboutBiomeSpeedCondition03|Hermes About Biome Speed Condition 03|Hermes|時間に追われるスリルを満喫中？\n時間って、すごい速さで追いかけてくるよね。\n僕も時間に追われるの大好き！
-HermesAboutTimer01|Hermes About Timer 01|Hermes|{#DialogueItalicFormat}ハハ！{#PreviousFormat}タイム計ってるね！いい心がけだね。いつも\n時間を気にしていれば、どんどんすばやくなれる！\nま、僕より速くなるのはムリだけどね！
+HermesAboutTimer01|Hermes About Timer 01|Hermes|*ハハ！*タイム計ってるね！いい心がけだね。いつも\n時間を気にしていれば、どんどんすばやくなれる！\nま、僕より速くなるのはムリだけどね！
 HermesAboutTimer02|Hermes About Timer 02|Hermes|今、タイム計ってるよね？もう気づいてるかもしれないけど、こんなふうに僕と話してる間の時間は、\nカウントされないからね！僕が「絶対そうする\nべきだ！」って言ったから、そうなったんだ。
 HermesAboutTimer03|Hermes About Timer 03|Hermes|あれ、タイム計るのやめた？なんかあった？大丈夫？\n SOSかな？じゃあ、これを受け取って！
 HermesAboutTimer04|Hermes About Timer 04|Hermes|あ、またタイムってる！よかった！あ、\n「タイムってる」っていうのは、「タイム計りながら、\n自分を痛めつける」って意味ね。僕が考えた言葉だよ！
 HermesAboutTimer05|Hermes About Timer 05|Hermes|タイム計りたくないときは計らない…\nそれも選択肢だからね、僕は尊重するよ。\n理解はするように、努力するよ。
-HermesFirstRunCleared01|Hermes First Run Cleared 01|Hermes|ボス、またオリュンポスから言づてだよ。\n{#DialogueItalicFormat}「ザグレウス、慌てる必要はないから、ゆっくり来る\nように。道のりが険しいことは承知の上。どれだけ時間が掛かろうと、我々はおまえへの助力を続ける所存だ」{#PreviousFormat}…ってさ！
+HermesFirstRunCleared01|Hermes First Run Cleared 01|Hermes|ボス、またオリュンポスから言づてだよ。\n*「ザグレウス、慌てる必要はないから、ゆっくり来る\nように。道のりが険しいことは承知の上。どれだけ時間が掛かろうと、我々はおまえへの助力を続ける所存だ」*…ってさ！
 HermesRunCleared01|Hermes Run Cleared 01|Hermes|前回は、かなり早いタイムが出たって？\nよかったじゃない！
 HermesRunCleared02|Hermes Run Cleared 02|Hermes|ボスが地上に出たら、オリュンポスからでも\n姿が見えるようになるかというと… これが、\nそうでもないんだよね… ボスの周りだけ永遠に\n夜みたいに、暗くて見えないんだ。不思議だよねえ。
 HermesRunClearedNewRecord01|Hermes Run Cleared New Record 01|Hermes|すごい！最速記録が出たね！べつに、僕はずっとタイム計ってたわけじゃ… いや、計ってましたけど！

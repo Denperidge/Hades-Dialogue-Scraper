@@ -1,5 +1,5 @@
 Id|Description|Speaker|Text
-MegaeraBedroom01|Megaera Bedroom 01|Zagreus|Meg. {#DialogueItalicFormat}Och{#PreviousFormat}. Nie spodziewałem się towarzystwa. Czy po prostu sobie tutaj węszysz czy... jest coś, w czym mogę ci pomóc?
+MegaeraBedroom01|Megaera Bedroom 01|Zagreus|Meg. *Och*. Nie spodziewałem się towarzystwa. Czy po prostu sobie tutaj węszysz czy... jest coś, w czym mogę ci pomóc?
 MegaeraBedroom01|Megaera Bedroom 01|Megaera|...Właśnie wychodziłam, Zagreusie. Byłem po prostu w okolicy - wcale nie dzięki tobie - i pomyślałam, że zabiorę ostatnie z moich rzeczy. Muszę przyznać, że naprawdę piekielnie zaniedbałeś to miejsce.
 MegaeraBedroom01|Megaera Bedroom 01|Zagreus|...Wyszła. Świetnie. Wspaniale! Zdaje się, że w takim razie wrócimy do ciągłego zabijania się nawzajem.
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|Znowu czegoś zapomniałaś z mojej komnaty sypialnej, co, Meg?
@@ -8,7 +8,7 @@ MegaeraBedroom02|Megaera Bedroom 02|Zagreus|Przykro mi. Moja matka gdzieś tam j
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|Nie wiesz tego. Chodzi mi o to, że... zaangażowanie moich sióstr wiele zmienia. Zdejmuje ze mnie część presji.
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|O co ci chodzi?
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|Chodzi mi o to, że... wiem, że musisz odnaleźć swoją matkę, Zagreusie. Mam swoją rolę do odegrania w tym wszystkim, ale zobaczmy, co jestem w stanie dla ciebie zrobić, jeżeli w ogóle jest coś takiego.
-MegaeraBedroom02|Megaera Bedroom 02|Zagreus|Meg...! Ona... {#DialogueItalicFormat}ach{#PreviousFormat}.
+MegaeraBedroom02|Megaera Bedroom 02|Zagreus|Meg...! Ona... *ach*.
 MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|Wiem. Przykro mi. Ale to jest coś, co muszę zrobić. Nie zrozumiałabyś.
 MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|Część presji... czekaj, co masz zamiar zrobić?
 MegaeraBedroom02B|Megaera Bedroom 02 B|Megaera|Chodzi mi o to, że... wiem, że robisz to, co musisz zrobić, Zagreusie. Moje siostry i ja zawsze będziemy próbować cię powstrzymać. Ale ja robię to tylko dlatego, że muszę. Rozumiesz?
@@ -24,13 +24,13 @@ BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|Tak długo, jak b�
 BecameCloseWithMegaera01|Became Close With Megaera 01|Megaera|Zadajesz zbyt wiele pytań, Zag. Nie mam na nie odpowiedzi, a poza tym: Wiesz więcej o życiu chwilą niż ja. Do zobaczenia.
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|...Do zobaczenia! ...Tak.
 Text|Text|Zagreus|...Ja... Meg, to mi naprawdę schlebia i jesteś mi bardzo bliska, ale... to nie tego oczekuję od naszej relacji. Obawiam się, że musiałem cię zwieść. Wybacz mi. Proszę, powiedz, że nadal będziesz moją przyjaciółką?
-Text|Text|Megaera|...Naprawdę tego pragniesz...? Aby być moim przyjacielem? {#DialogueItalicFormat}Heh. {#PreviousFormat}Ciężko cię czasami rozgryźć, Zag. Ale wiesz co, próbowaliśmy różnych rzeczy. Czemu mielibyśmy nie spróbować tego, co proponujesz? A zatem, widzimy się w terenie.
+Text|Text|Megaera|...Naprawdę tego pragniesz...? Aby być moim przyjacielem? *Heh. *Ciężko cię czasami rozgryźć, Zag. Ale wiesz co, próbowaliśmy różnych rzeczy. Czemu mielibyśmy nie spróbować tego, co proponujesz? A zatem, widzimy się w terenie.
 Text|Text|Megaera|...Jesteś pewien? Słuchaj, ja... to naprawdę w porządku. Widzimy się zatem w terenie.
 Text|Text|Zagreus|...Tak. Czasami muszę spowolnić pewne sprawy. Jestem wdzięczny, że ostatnio lepiej się dogadujemy. Ale zbytnio się narzucałem. Wybacz mi. Jesteś mym drogim przyjacielem. Nie chcę zrobić nic, co by cię skrzywdziło. Albo kogokolwiek innego.
 Text|Text|Thanatos|Ja... och. Tak. Rozumiem. Ty również jesteś moim drogim przyjacielem. Chociaż ostatnio strasznie dużo zrobiliśmy, by temu zagrozić, czyż nie? Słuchaj, uważaj na siebie, Zag. Widzimy się później.
 Text|Text|Zagreus|...Tak, widzimy się później.
-Text|Text|Zagreus|Tan... {#DialogueItalicFormat}hahaha{#PreviousFormat}, tak się cieszę! Tylko... wiesz, że Megajra też tutaj była...?
-Text|Text|Thanatos|{#DialogueItalicFormat}Tsk. {#PreviousFormat}Znam Megajrę znacznie dłużej niż ty. Jak myślisz, kto mnie do tego namówił?
+Text|Text|Zagreus|Tan... *hahaha*, tak się cieszę! Tylko... wiesz, że Megajra też tutaj była...?
+Text|Text|Thanatos|*Tsk. *Znam Megajrę znacznie dłużej niż ty. Jak myślisz, kto mnie do tego namówił?
 Text|Text|Zagreus|Ha! Ona, czyż nie? To dobrze! To dobrze.
 Text|Text|Thanatos|Jesteś pewien? Cóż... rozumiem. Chyba powinienem wrócić już do swoich obowiązków.
 Text|Text|Zagreus|...Do zobaczenia, Tan.
@@ -44,42 +44,42 @@ BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|Tan nie jest g
 BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|Tak, ale... co z tobą, przecież ty karzesz za zazdrość. Co jeśli ja...
 BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|Nie jesteśmy śmiertelnikami, Zag. Śmiertelnicy kurczowo trzymają się siebie nawzajem, ponieważ ich życia są krótkie. Co nas to obchodzi? Jeśli jest coś, czego nauczyła mnie Nyks, to że serce nie ma granic. Więc przestań się martwić i przygotuj się na nasze kolejne spotkanie w terenie. Do zobaczenia.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Zagreusie, nie masz żadnych drzwi. Dlaczego zawsze jesteś zaskoczony?
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}Yyy{#PreviousFormat}, Meg, Tan, co... co wy dwoje... co się dzieje? Cokolwiek to jest, mogę wyjaśnić albo... moment, oboje się uśmiechacie. Och... pozwólcie... dajcie mi chwilę.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|*Yyy*, Meg, Tan, co... co wy dwoje... co się dzieje? Cokolwiek to jest, mogę wyjaśnić albo... moment, oboje się uśmiechacie. Och... pozwólcie... dajcie mi chwilę.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Nie doceniasz Tanatosa i mnie, Zag. Znamy się dłużej, niż ty żyjesz na tym świecie.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Thanatos|Powiedziałbym, że już całkiem dobrze się znamy, biorąc wszystko pod uwagę. Czy nie jest tak, Megajro?
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Nie widzisz, że jesteśmy teraz po służbie, Zagreusie?
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}Ha{#PreviousFormat}! No cóż... jeśli okaże się, że to był pewnego rodzaju sen, będę bardzo, bardzo zły. Choć... zdaje się, że jest jeden dobry sposób, by się przekonać.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|*Ha*! No cóż... jeśli okaże się, że to był pewnego rodzaju sen, będę bardzo, bardzo zły. Choć... zdaje się, że jest jeden dobry sposób, by się przekonać.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|Uff, cóż, więc, um, co to ja...
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Cóż! Wydaje mi się, że doszliśmy do porozumienia. Powinnam już iść. Do następnego, Zag. Tanatosie.
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|Uff, no, to było... to było... {#DialogueItalicFormat}ekhm{#PreviousFormat}.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|Uff, no, to było... to było... *ekhm*.
 MegaeraWithSisyphus01|Megaera With Sisyphus 01|Megaera|...Jeśli pomożesz mu ponownie, to przy naszym następnym spotkaniu dostaniesz tysiąc batów. A jak wrócę, to lepiej, żeby ten twój kamyczek był tam na górze, bo inaczej dostaniesz tysiąc więcej.
 MegaeraWithSisyphus01|Megaera With Sisyphus 01|Sisyphus|Brzmi dobrze, całkiem dobrze, szanowna Pani, to zdecydowanie sprawiedliwe. Trzymam za słowo! Do zobaczenia!
 MegaeraWithSisyphus02|Megaera With Sisyphus 02|Megaera|...A jeśli wiesz, co dla ciebie dobre, to lepiej zajmij się swoim głazem, ty mały oszuście. Niech ci się nie wydaje, że cię nie obserwuję.
 MegaeraWithSisyphus02|Megaera With Sisyphus 02|Sisyphus|Doceniam twoją czujność, Szanowna Pani i z pewnością wepchnę Głazika na sam szczyt tego wzgórza - pomimo faktu, że jeszcze nigdy, przenigdy mi się to nie udało!
 MegaeraWithSisyphus03|Megaera With Sisyphus 03|Megaera|...A kiedy ta cała sprawa z Księciem się zakończy, wrócimy do tego, jak było. Do tego czasu lepiej żebym regularnie widziała twój głaz na szczycie wzgórza.
-MegaeraWithSisyphus03|Megaera With Sisyphus 03|Sisyphus|W pełni to rozumiem, Szanowna Pani. Zapewniam, że Głazik, {#DialogueItalicFormat}yyy{#PreviousFormat}, to znaczy ten oto głaz - będę go regularnie pchał, ciągle do przodu, jak zawsze! No to do widzenia!
+MegaeraWithSisyphus03|Megaera With Sisyphus 03|Sisyphus|W pełni to rozumiem, Szanowna Pani. Zapewniam, że Głazik, *yyy*, to znaczy ten oto głaz - będę go regularnie pchał, ciągle do przodu, jak zawsze! No to do widzenia!
 FurySistersUnion01|Fury Sisters Union 01|Megaera|Moje siostry i ja. Miałyśmy szansę porozmawiać i doszłyśmy do porozumienia, Zagreusie. Jak widzisz.
 FurySistersUnion01|Fury Sisters Union 01|Alecto|Megajra, Tyz - gotowe?
-FurySistersUnion01|Fury Sisters Union 01|Tisiphone|{#DialogueItalicFormat}Mmorrrderca{#PreviousFormat}!
+FurySistersUnion01|Fury Sisters Union 01|Tisiphone|*Mmorrrderca*!
 FurySistersUnion01|Fury Sisters Union 01|Zagreus|Trzy na jednego. Nie wydaje się to być zbyt sportową zagrywką.
-FurySistersUnion01|Fury Sisters Union 01|Megaera|Wszystkie już dawno straciłyśmy ochotę na jakikolwiek sport. Zabijemy cię - niezależnie od tego, ile nas to będzie kosztować. Erynie! {#DialogueItalicFormat}Teraz{#PreviousFormat}.
+FurySistersUnion01|Fury Sisters Union 01|Megaera|Wszystkie już dawno straciłyśmy ochotę na jakikolwiek sport. Zabijemy cię - niezależnie od tego, ile nas to będzie kosztować. Erynie! *Teraz*.
 FurySistersUnion02|Fury Sisters Union 02|Megaera|Co jest, Zagreusie? Wyglądasz na nieco zakłopotanego. Chcesz mi coś powiedzieć? Albo którejś z nas?
 FurySistersUnion02|Fury Sisters Union 02|Zagreus|Cóż, po prostu... chciałem o czymś z tobą porozmawiać Meg, jak tylko będzie okazja, ale po zastanowieniu się stwierdzam, że to może nie jest najlepszy moment.
 FurySistersUnion02|Fury Sisters Union 02|Megaera|Całkowicie to rozumiem. Ale powinieneś wiedzieć, że moje siostry i ja nie mamy już przed sobą sekretów. Prawda, Siostry?
-FuryPostSistersUnion01|Fury Post Sisters Union 01|Megaera|{#DialogueItalicFormat}Uch{#PreviousFormat}, prawie chcę ci podziękować, Zagreusie. Myślałam, że nigdy nie zmienisz tego cholernego Paktu, żebym mogła tu być sama, w spokoju.
+FuryPostSistersUnion01|Fury Post Sisters Union 01|Megaera|*Uch*, prawie chcę ci podziękować, Zagreusie. Myślałam, że nigdy nie zmienisz tego cholernego Paktu, żebym mogła tu być sama, w spokoju.
 FuryPostSistersUnion01|Fury Post Sisters Union 01|Zagreus|Co, nie czujesz się bardziej samotna bez Alekto lub Tyzyfone? Wydają się być wprost wspaniałym towarzystwem.
 FuryPostSistersUnion01|Fury Post Sisters Union 01|Megaera|Toleruję je do pewnego stopnia. Mniej więcej to samo mogę powiedzieć o tobie. Zaczynajmy zatem.
 FurySisterUnionSingleSis01|Fury Sister Union Single Sis 01|Megaera|Widzisz, Alekto? Jest na czas, tak jak mówiłam.
-FurySisterUnionSingleSis01|Fury Sister Union Single Sis 01|Alecto|Megajro, {#DialogueItalicFormat}wykrwaw {#PreviousFormat}go!
+FurySisterUnionSingleSis01|Fury Sister Union Single Sis 01|Alecto|Megajro, *wykrwaw *go!
 FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Megaera|Uwaga, Tyzyfone. Chyba znalazłam dla ciebie mordercę.
-FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Tisiphone|{#DialogueItalicFormat}Mmmmorrrr{#PreviousFormat}derrrstwooo...
+FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Tisiphone|*Mmmmorrrr*derrrstwooo...
 FuryMetSisters01|Fury Met Sisters 01|Megaera|Muszę być z tobą szczera, Zagreusie. Po tym wszystkim co razem przeszliśmy... ani razu nie chciałam, abyś poznał moje siostry.
 FuryMetSisters01|Fury Met Sisters 01|Zagreus|Nie rozumiem czemu tego nie chciałaś! To był wspaniały czas, gdy mogliśmy się wzajemnie poznawać. Śmialiśmy się, płakaliśmy! Jedyne czego żałuję, to że sama nie mogłaś tam być.
 FuryMetSisters01|Fury Met Sisters 01|Megaera|Nie wiesz nawet, o czym mówisz. Istnieje powód, dla którego nie wolno im przebywać w Domu. Ale daj spokój. Jedno z nas i tak się tam zaraz uda.
 FuryMetSisters02|Fury Met Sisters 02|Megaera|Naprawdę dopiąłeś swego, Zagreusie. Moje siostry powróciły. Wszystkie trzy mamy teraz to samo zadanie.
 FuryMetSisters02|Fury Met Sisters 02|Zagreus|Czy to źle, że poniekąd jestem zaszczycony tym, że zdobyłem uwagę Erynii?
 FuryMetSisters02|Fury Met Sisters 02|Megaera|Och, rzekłabym, że to bardzo źle, w rzeczy samej.
-FuryNoDarknessReaction01|Fury No Darkness Reaction 01|Megaera|Wyczuwam w tobie coś innego, Zagreusie. Twoją dawną słabość. {#DialogueItalicFormat}Ach{#PreviousFormat}... Lustro. Wydawało mi się, że powiedziałeś, że nie próbujesz ze mną konkurować?
+FuryNoDarknessReaction01|Fury No Darkness Reaction 01|Megaera|Wyczuwam w tobie coś innego, Zagreusie. Twoją dawną słabość. *Ach*... Lustro. Wydawało mi się, że powiedziałeś, że nie próbujesz ze mną konkurować?
 FuryNoDarknessReaction01|Fury No Darkness Reaction 01|Zagreus|Nie próbowałem. Ale podrzuciłaś mi dobry pomysł, żeby spróbować. Nie jestem tak słaby jak kiedyś. Czy to z pomocą Lustra, czy też bez.
 FuryNoDarknessReaction01|Fury No Darkness Reaction 01|Megaera|Naprawdę? Zobaczmy zatem, czy masz rację. Dawaj.
 FuryAboutPersephoneMeeting01|Fury About Persephone Meeting 01|Megaera|Słyszałam, że uciekłeś. W takim razie co tu jeszcze robisz? Zapomniałeś czegoś po drodze?
@@ -97,11 +97,11 @@ FuryPostIntermission01|Fury Post Intermission 01|Megaera|Zawsze. Chociaż lubię
 FuryEncounterStoryProgress01|Fury Encounter Story Progress 01|Megaera|Posłuchaj mnie, Zagreusie. Twojej matki już dawno nie ma. Nigdy się stąd nie wydostaniesz, a nawet gdyby ci się udało, to jaką możesz mieć nadzieję, że znajdziesz ją w zewnętrznym świecie?
 FuryEncounterStoryProgress01|Fury Encounter Story Progress 01|Zagreus|Mam wystarczająco wiele nadziei. Choć to i tak już nie twoja sprawa.
 FuryEncounterStoryProgress01|Fury Encounter Story Progress 01|Megaera|Twoja rodzina jest tutaj. Podobnie jak twoje obowiązki. Uciekasz przed samym sobą. Choć myślę, że mogę cię odrobinę spowolnić.
-FuryEncounterGunWeapon01|Fury Encounter Gun Weapon 01|Megaera|{#DialogueItalicFormat}Co{#PreviousFormat}... skąd wziąłeś Miotacza? Czy ty w ogóle zdajesz sobie sprawę, co ty tam masz? Gdzie są twoje zwyczajowe bronie?
+FuryEncounterGunWeapon01|Fury Encounter Gun Weapon 01|Megaera|*Co*... skąd wziąłeś Miotacza? Czy ty w ogóle zdajesz sobie sprawę, co ty tam masz? Gdzie są twoje zwyczajowe bronie?
 FuryEncounterGunWeapon01|Fury Encounter Gun Weapon 01|Zagreus|Zostawiłem je w domu. I niejako wiem, co mam, jako że ta broń jest w dużym stopniu odpowiedzialna za to, że dotarłem aż tutaj. Chcesz zobaczyć małą demonstrację?
 FuryEncounterGunWeapon01|Fury Encounter Gun Weapon 01|Megaera|Tak, z chęcią. Właściwie to zawsze chciałam.
 FuryEncounterFistWeapon01|Fury Encounter Fist Weapon 01|Megaera|Co ty tam trzymasz, Zagreusie? Proszę cię, powiedz mi, że nie ukradłeś najbardziej niebezpiecznych i niestabilnych artefaktów zamkniętych na cztery spusty w skarbcu twego ojca.
-FuryEncounterFistWeapon01|Fury Encounter Fist Weapon 01|Zagreus|{#DialogueItalicFormat}Yyy{#PreviousFormat}, nie byłem tym, kto je ukradł, jeśli jest to dla ciebie jakieś pocieszenie, Meg!
+FuryEncounterFistWeapon01|Fury Encounter Fist Weapon 01|Zagreus|*Yyy*, nie byłem tym, kto je ukradł, jeśli jest to dla ciebie jakieś pocieszenie, Meg!
 FuryEncounterFistWeapon01|Fury Encounter Fist Weapon 01|Megaera|Jesteś beznadziejnym głupcem. To absolutnie niemożliwe, że wiesz, co z nimi wyprawiasz. Odłóż je z powrotem na swoje miejsce.
 FuryAboutDusaFiring01|Fury About Dusa Firing 01|Megaera|...Nyks naprawdę zwolniła Duzę?
 FuryAboutDusaFiring01|Fury About Dusa Firing 01|Zagreus|Tak... więc słyszałaś. Nie wiem, co się stało. Nie miałaś nawet szansy się pożegnać?
@@ -122,7 +122,7 @@ FuryAboutBeingClose01|Fury About Being Close 01|Megaera|Nie wszystko między nam
 FuryAboutBeingClose01|Fury About Being Close 01|Zagreus|Tak. Gdyby było inaczej, to nie bylibyśmy profesjonalistami. Nie masz zamiaru mi odpuszczać, prawda?
 FuryAboutBeingClose01|Fury About Being Close 01|Megaera|Udam, że nie zadałeś mi tego pytania. A teraz pokaż mi, na co cię stać!
 FuryAboutBeingClose02|Fury About Being Close 02|Megaera|O co chodzi, Zagreusie? Wyglądasz na bardzo zadowolonego z siebie, co może wyłącznie oznaczać, że masz mi coś nieznośnego do powiedzenia.
-FuryAboutBeingClose02|Fury About Being Close 02|Zagreus|{#DialogueItalicFormat}Nigdy{#PreviousFormat}! Słuchaj, zwyczajnie cieszę się, że cię widzę, Meg. Stąd ten niepohamowany uśmiech. Zamiast ciebie mogłaby tu być jedna z twoich uroczych sióstr...
+FuryAboutBeingClose02|Fury About Being Close 02|Zagreus|*Nigdy*! Słuchaj, zwyczajnie cieszę się, że cię widzę, Meg. Stąd ten niepohamowany uśmiech. Zamiast ciebie mogłaby tu być jedna z twoich uroczych sióstr...
 FuryAboutBeingClose02|Fury About Being Close 02|Megaera|Nie wyprowadzisz mnie tak łatwo z równowagi. Moje siostry dokuczałyby mi do końca świata.
 FuryAboutPersephoneMeeting02|Fury About Persephone Meeting 02|Megaera|A gdzie ty się niby wybierasz, Zagreusie?
 FuryAboutPersephoneMeeting02|Fury About Persephone Meeting 02|Zagreus|Wybieram się ponownie na sam szczyt, Meg. By odnaleźć moją matkę. Nie powstrzymasz mnie. Zejdź mi z drogi.
@@ -146,18 +146,18 @@ FuryRunProgress02|Fury Run Progress 02|Megaera|Ile to już razy się tutaj spotk
 FuryRunProgress02|Fury Run Progress 02|Zagreus|Oboje jesteśmy nieśmiertelni, Meg. Będziemy się jeszcze bardzo często widywać. Zaczęły mi się podobać te spotkania.
 FuryRunProgress02|Fury Run Progress 02|Megaera|To dobrze. Smaganie cię batem po głowie jest lepsze, niż wyczekiwanie takiej okazji. Chodź.
 FuryRunProgress03|Fury Run Progress 03|Megaera|Słyszałam, co się stało. Przekroczyłeś Rzekę Płomieni. Naprawdę ci się to udało.
-FuryRunProgress03|Fury Run Progress 03|Zagreus|Ta Hydra była jednak naprawdę okropna. Okropn{#DialogueItalicFormat}e{#PreviousFormat}. Ale brzmisz, jakbyś była pod wrażeniem, Meg! Czuję się zaszczycony!
+FuryRunProgress03|Fury Run Progress 03|Zagreus|Ta Hydra była jednak naprawdę okropna. Okropn*e*. Ale brzmisz, jakbyś była pod wrażeniem, Meg! Czuję się zaszczycony!
 FuryRunProgress03|Fury Run Progress 03|Megaera|Wkrótce poczujesz coś innego. Nie wiem jak ci się to udało. Nic to jednak nie zmienia.
-FuryRunProgress04|Fury Run Progress 04|Megaera|Jakże to jest całkowicie okropne... Właśnie tak sobie liczyłam, Zagreusie i tak się składa, że pokonałeś mnie już 50 razy! Jeśli nie więcej. Jesteś w stanie w to uwierzyć? {#DialogueItalicFormat}Uch{#PreviousFormat}, jak nisko upadłam.
+FuryRunProgress04|Fury Run Progress 04|Megaera|Jakże to jest całkowicie okropne... Właśnie tak sobie liczyłam, Zagreusie i tak się składa, że pokonałeś mnie już 50 razy! Jeśli nie więcej. Jesteś w stanie w to uwierzyć? *Uch*, jak nisko upadłam.
 FuryRunProgress04|Fury Run Progress 04|Zagreus|Och, nie bierz tego tak do siebie, Meg! Kiedy umierasz kilkadziesiąt razy, to zaczynasz przyzwyczajać się do bólu emocjonalnego, no i tego fizycznego też! Masz ochotę na trochę więcej?
 FuryRunProgress04|Fury Run Progress 04|Megaera|No pewnie! Za kogo ty mnie uważasz? Aczkolwiek, chyba nie ma sensu prowadzić z tobą punktacji.
 FuryRunProgress05|Fury Run Progress 05|Megaera|Wiesz, ile razy mnie pokonałeś, Zagreusie? Jesteś choćby w stanie zgadnąć?
-FuryRunProgress05|Fury Run Progress 05|Zagreus|{#DialogueItalicFormat}Yyy{#PreviousFormat}... czuję, że dużo, prawdę mówiąc, znaczy się, walczymy w ten sposób już od jakiegoś czasu. Czterysta dwanaście razy...?
-FuryRunProgress05|Fury Run Progress 05|Megaera|...Dokładnie pięćset razy. Chociaż wydaje mi się, że nie śledziłeś, ile razy to ja zabiłam ciebie. {#DialogueItalicFormat}Uch{#PreviousFormat}, może to mój problem. Cóż, będę mieć mnóstwo czasu, żeby się tym zająć, gdy skończymy.
+FuryRunProgress05|Fury Run Progress 05|Zagreus|*Yyy*... czuję, że dużo, prawdę mówiąc, znaczy się, walczymy w ten sposób już od jakiegoś czasu. Czterysta dwanaście razy...?
+FuryRunProgress05|Fury Run Progress 05|Megaera|...Dokładnie pięćset razy. Chociaż wydaje mi się, że nie śledziłeś, ile razy to ja zabiłam ciebie. *Uch*, może to mój problem. Cóż, będę mieć mnóstwo czasu, żeby się tym zająć, gdy skończymy.
 FuryAboutAlecto01|Fury About Alecto 01|Megaera|Pokonałeś Alekto, Zag. Jej gniewne wrzaski z tego powodu słychać było w całym Tartarze... Prawie chcę ci podziękować.
 FuryAboutAlecto01|Fury About Alecto 01|Zagreus|A ja prawie chcę powiedzieć „nie ma za co”. Czy wy zawsze miałyście takie złe relacje?
 FuryAboutAlecto01|Fury About Alecto 01|Megaera|Od dawna się różnimy. Z rodziną jest gorzej w tych kwestiach. Wiesz, jak to jest.
-FuryAboutTisiphone01|Fury About Tisiphone 01|Megaera|{#DialogueItalicFormat}Hmm{#PreviousFormat}. Nawet Tyzyfone nie była w stanie cię zatrzymać. Twój ojciec musi być gorzko rozczarowany.
+FuryAboutTisiphone01|Fury About Tisiphone 01|Megaera|*Hmm*. Nawet Tyzyfone nie była w stanie cię zatrzymać. Twój ojciec musi być gorzko rozczarowany.
 FuryAboutTisiphone01|Fury About Tisiphone 01|Zagreus|Trudno go zadowolić, to prawda. A tak w ogóle - co się stało Tyzyfone? Nie jest zbytnio gadatliwa.
 FuryAboutTisiphone01|Fury About Tisiphone 01|Megaera|To u nas rodzinne. Tyzyfone żyje swoją pracą. A profesjonalny dystans to podstawa.
 FuryAboutSisyphus01|Fury About Sisyphus 01|Megaera|Jeżeli jest w Podziemiach ktoś, kto jest ci cokolwiek winien, Zagreusie, to jest to twój przyjaciel, Syzyf. Byłby w dużo gorszej sytuacji, gdyby nie ty.
@@ -169,12 +169,12 @@ FuryNoHammerReaction01|Fury No Hammer Reaction 01|Megaera|Och, możemy to sprawd
 FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|To Lustro sprawiło, że stałeś się silniejszy, Zagreusie. Masz szczęście, że Nyks ci pomaga.
 FuryDarknessReaction01|Fury Darkness Reaction 01|Zagreus|Bez urazy. Myślę, że ona czuje się po części odpowiedzialna za to wszystko.
 FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|A nie powinna. Jedyną osobą, która jest za to wszystko odpowiedzialna, jesteś ty. Myślałam, że nawet ty będziesz to w stanie do tej pory zrozumieć.
-FuryPactReaction01|Fury Pact Reaction 01|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}. Nie mogę w to uwierzyć. Podpisałeś Pakt Skruchy. Czyś ty kompletnie oszalał? Czy po prostu próbujesz mnie obrazić?
+FuryPactReaction01|Fury Pact Reaction 01|Megaera|*Tsk*. Nie mogę w to uwierzyć. Podpisałeś Pakt Skruchy. Czyś ty kompletnie oszalał? Czy po prostu próbujesz mnie obrazić?
 FuryPactReaction01|Fury Pact Reaction 01|Zagreus|Cóż, jeżeli masz zamiar być taka niemiła, to może trochę to i to? Ale co cię w ogóle obchodzi, które pakty zawieram, a które nie?
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|Nie jestem głupia. Widzę, co robisz. Chcesz zostać ukarany? No to chodź.
-FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}. Naprawdę zgłosiłeś się na ochotnika do Paktu Skruchy? Nie możesz się już z niego wycofać. Jesteś jeszcze większym głupcem, niż myślałam.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|*Tsk*. Naprawdę zgłosiłeś się na ochotnika do Paktu Skruchy? Nie możesz się już z niego wycofać. Jesteś jeszcze większym głupcem, niż myślałam.
 FuryPactReaction01_B|Fury Pact Reaction 01 B|Zagreus|Może po prostu lubię wyzwania, przyszło ci to kiedyś do głowy? A poza tym, czemu w ogóle cię obchodzi, które pakty zawieram, a które nie?
-FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|Masz rację. {#DialogueItalicFormat}Nie {#PreviousFormat}obchodzi mnie to. Chcesz zostać ukarany? No to chodź.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|Masz rację. *Nie *obchodzi mnie to. Chcesz zostać ukarany? No to chodź.
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|Wprost nie mogłam się doczekać bardziej sprawiedliwej walki z tobą. Może właśnie dlatego podpisałeś Pakt? Aby się nade mną zlitować?
 FuryPactReaction02|Fury Pact Reaction 02|Zagreus|Mam swoje powody. Litość nie jest jednym z nich. Choć podejrzewam, że i tak mi nie wierzysz, czyż nie?
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|Jeśli chcesz kary, to jakże mogłabym odmówić?
@@ -182,8 +182,8 @@ FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|Zdajesz sobie sprawę, że 
 FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|Nie. Nie wydaje mi się. No to chodź, zobaczmy, dokąd cię zaprowadzi ta twoja cała litość.
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|To powinno się szybko skończyć, Zag. Nie spodziewałabym się po tobie Obowiązkowych Nadgodzin. To nie jest utrudnienie dla kogoś o słabych nerwach.
 FuryPactReaction04|Fury Pact Reaction 04|Zagreus|Ranisz mnie, Meg! Wiesz, że lubię bezmyślnie i lekkomyślnie mieszać się w pewne sytuacje i rozwiązywać wszystko później. Obowiązkowe Nadgodziny to idealne rozwiązanie!
-FuryPactReaction04|Fury Pact Reaction 04|Megaera|{#DialogueItalicFormat}Aach{#PreviousFormat}, no cóż, skoro ujmujesz to w taki sposób. Słuchaj, tylko nie mów, że cię nie ostrzegałam.
-FuryChaosReaction01|Fury Chaos Reaction 01|Megaera|Chwila, Zagreusie, czuję coś. Czy to... {#DialogueItalicFormat}och{#PreviousFormat}. Nawiązałeś kontakt z Chaosem. Więc nawet i on jest w to teraz zaangażowany.
+FuryPactReaction04|Fury Pact Reaction 04|Megaera|*Aach*, no cóż, skoro ujmujesz to w taki sposób. Słuchaj, tylko nie mów, że cię nie ostrzegałam.
+FuryChaosReaction01|Fury Chaos Reaction 01|Megaera|Chwila, Zagreusie, czuję coś. Czy to... *och*. Nawiązałeś kontakt z Chaosem. Więc nawet i on jest w to teraz zaangażowany.
 FuryChaosReaction01|Fury Chaos Reaction 01|Zagreus|Tylko dlatego, że Chaos daje mi moc, która pozwala mi cię zmiażdżyć, nie oznacza koniecznie, że się w to angażuje, prawda?
 FuryChaosReaction01|Fury Chaos Reaction 01|Megaera|Nie wiesz z kim lub z czym masz do czynienia. Zapytaj o niego kiedyś Nyks. Właściwie to dam ci szansę spytać ją bardzo niedługo.
 FuryThanatosReaction01|Fury Thanatos Reaction 01|Megaera|Wiem, że Tanatos pomógł ci dotrzeć aż tutaj. Nie podoba mi się jego ingerencja.
@@ -240,7 +240,7 @@ FuryEncounter03|Fury Encounter 03|Megaera|Nie pochlebiaj sobie. Myślę o tym, j
 FuryEncounter04|Fury Encounter 04|Megaera|No, Zag? Masz tym razem jakieś ostatnie życzenia, zanim odeślę cię do domu?
 FuryEncounter04|Fury Encounter 04|Zagreus|Niech się zastanowię, a może szybka i bolesna śmierć - jest to możliwe?
 FuryEncounter04|Fury Encounter 04|Megaera|Cwaniakuj ile chcesz. Dostaniesz dokładnie to, na co zasługujesz i nic więcej.
-FuryWinStreak01|Fury Win Streak 01|Megaera|{#DialogueItalicFormat}Pff{#PreviousFormat}. No i znowu tu jesteś. Widzę, że powoli przychodzi ci nauka.
+FuryWinStreak01|Fury Win Streak 01|Megaera|*Pff*. No i znowu tu jesteś. Widzę, że powoli przychodzi ci nauka.
 FuryWinStreak01|Fury Win Streak 01|Zagreus|Być może powoli się uczę, ale... przynajmniej jestem cierpliwy!
 FuryWinStreak01|Fury Win Streak 01|Megaera|Ta gadka o twojej cierpliwości zaczyna wystawiać na próbę moją własną. Wystarczy! Chodź i giń.
 FuryWinStreak02|Fury Win Streak 02|Megaera|Poddaj się wreszcie, Zag. Albo będę cię nadal zabijać za każdym razem, gdy dotrzesz aż tutaj.
@@ -304,7 +304,7 @@ FuryMiscStartLoseStreak10|Fury Misc Start Lose Streak 10|Megaera|Dopadnę cię z
 FuryMiscStartLoseStreak11|Fury Misc Start Lose Streak 11|Megaera|Podczas jednej z tych potyczek opuścisz swą gardę, a wtedy znów cię zabiję przez wzgląd na stare czasy.
 FuryMiscStartLoseStreak12|Fury Misc Start Lose Streak 12|Megaera|Nawet jeśli nie mogę cię zatrzymać... to mogę zadać ci kilka mocnych ciosów, tego jestem pewna.
 FuryMiscStartLoseStreak13|Fury Misc Start Lose Streak 13|Megaera|Powiem ci, że muszę ci się porządnie odpłacić pięknym za nadobne, Zag.
-FuryMiscStartLoseStreak14|Fury Misc Start Lose Streak 14|Megaera|{#DialogueItalicFormat}Uuch{#PreviousFormat}, praktycznie straciłam rachubę w kwestii tego ile razy pod rząd mnie pokonałeś, Zag...
+FuryMiscStartLoseStreak14|Fury Misc Start Lose Streak 14|Megaera|*Uuch*, praktycznie straciłam rachubę w kwestii tego ile razy pod rząd mnie pokonałeś, Zag...
 FuryMiscStart01|Fury Misc Start 01|Megaera|Tak myślałam, że możesz się pojawić.
 FuryMiscStart02|Fury Misc Start 02|Megaera|Jesteś idealnie na czas.
 FuryMiscStart03|Fury Misc Start 03|Megaera|Nie ma potrzeby na czcze gadanie, Zag.
@@ -341,12 +341,12 @@ FuryMiscStartMaxRelationship18|Fury Misc Start Max Relationship 18|Megaera|Chces
 FuryMiscStartMaxRelationship19|Fury Misc Start Max Relationship 19|Megaera|Jedno ci przyznam, Zag. Nigdy nie każesz mi zbyt długo czekać.
 FuryMiscStartMaxRelationship20|Fury Misc Start Max Relationship 20|Megaera|Wyglądasz całkiem dobrze, Zag. Zobaczmy jednak, co jestem w stanie z tobą zrobić.
 FuryMiscStartMaxRelationship21|Fury Misc Start Max Relationship 21|Megaera|Nie ma przyjemności bez bólu, racja, Zagreusie?
-Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|{#DialogueItalicFormat}Uch{#PreviousFormat}, no po prostu {#DialogueItalicFormat}popatrzcie {#PreviousFormat}tylko na niego! To zadziorne spojrzenie, ta postawa, {#DialogueItalicFormat}wszystko{#PreviousFormat}! Proszę, powiedz mi, że nie tracisz głowy dla tego śmieciowego boga, Siostro.
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|*Uch*, no po prostu *popatrzcie *tylko na niego! To zadziorne spojrzenie, ta postawa, *wszystko*! Proszę, powiedz mi, że nie tracisz głowy dla tego śmieciowego boga, Siostro.
 Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Megaera|Daj spokój, Alekto. Kiedy ostatnio pytałyśmy się wzajemnie o zdanie? Poza tym, dopóki go zabijamy, dlaczego miałoby cię to w ogóle obchodzić?
-Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|Wiesz co, słuszna uwaga, Siostro. Bardzo ładnie powiedziane. {#DialogueItalicFormat}Zabijmy go, teraz{#PreviousFormat}!
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|Wiesz co, słuszna uwaga, Siostro. Bardzo ładnie powiedziane. *Zabijmy go, teraz*!
 Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|Spójrz na tego okropnego śmiecia, który ponownie przyszedł tu, by krwawić wszędzie po tej naszej ładnej, błyszczącej podłodze. Gotów, by walczyć z moją kochaną siostrą, czerwonokrwisty?
 Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Megaera|Nie jest taki okropny, gdy pozna się go lepiej, Siostro. Nie żeby to miało jakieś znaczenie wobec tego, co mamy zamiar zrobić.
-Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|Wy oboje napawacie mnie wstrętem, Meg, wiesz o tym? Weź się w garść i {#DialogueItalicFormat}zabij {#PreviousFormat}go tym razem, niech cię szlag!
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|Wy oboje napawacie mnie wstrętem, Meg, wiesz o tym? Weź się w garść i *zabij *go tym razem, niech cię szlag!
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|...Co tam masz, Zjawo? Wygląda mi to na kontrabandę.
 AchillesWithMegaera01|Achilles With Megaera 01|Achilles|Tak jest, Pani. Cieszę się, że tu jesteś, bo może będziesz w stanie mi pomóc szybko się tego pozbyć.
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|Zróbmy to zatem bezzwłocznie. Zanim pojawią się obawy związane z obecnością tego w Domu.
@@ -362,7 +362,7 @@ AchillesChatWithMegaera02|Achilles Chat With Megaera 02|Megaera|...Włócznia je
 AchillesChatWithMegaera02|Achilles Chat With Megaera 02|Achilles|Muszę przyznać, O Pani, że nie mam wystarczającego doświadczenia przeciwko takiej broni, by obalić twoje roszczenia. Na całe szczęście.
 AchillesChatWithMegaera03|Achilles Chat With Megaera 03|Megaera|...Otwórz kolejną butelkę, kiedy skończysz z tą tutaj, Zjawo.
 AchillesChatWithMegaera03|Achilles Chat With Megaera 03|Achilles|Jak sobie życzysz, O Pani! Wybacz nam, młodzieńcze.
-ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|...Ale to było dawno temu, a teraz mamy pracę do wykonania... {#DialogueItalicFormat}Uch{#PreviousFormat}, w każdym razie, Tan, wydaje mi się, że lepiej będzie, jak dokończymy tę dyskusję kiedy indziej.
+ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|...Ale to było dawno temu, a teraz mamy pracę do wykonania... *Uch*, w każdym razie, Tan, wydaje mi się, że lepiej będzie, jak dokończymy tę dyskusję kiedy indziej.
 ThanatosWithMegaera01|Thanatos With Megaera 01|Thanatos|Przeszkadzasz w prywatnej rozmowie, Zagreusie. Zostaw nas samych.
 ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|Nie, niech zostanie, jeśli tego właśnie chce. Jakie to ma znaczenie? Technicznie rzecz biorąc ma pozwolenie, by przebywać w tym miejscu, choć musi wiedzieć, że nie jest już mile widziany.
 ThanatosChatWithMegaera01|Thanatos Chat With Megaera 01|Megaera|To prywatna rozmowa, wybacz, Zag.
@@ -377,7 +377,7 @@ ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Megaera|Spójrz, któż 
 ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Thanatos|Wymienialiśmy się informacjami na temat naszych ostatnich zadań.
 ThanatosChatWithMegaera06|Thanatos Chat With Megaera 06|Megaera|Jesteśmy w trakcie rozmowy, Zag.
 DusaWithMegaera01|Dusa With Megaera 01|Megaera|...A wtedy, wszystkich siedmiu nędzników próbowało wepchnąć się na początek kolejki - jesteś w stanie uwierzyć w taką bezczelność? Jak gdyby myśleli, że dostaną się w ten sposób na audiencję.
-DusaWithMegaera01|Dusa With Megaera 01|Dusa|{#DialogueItalicFormat}Ha, hahaha{#PreviousFormat}, co za banda głupków! Co oni sobie w ogóle myśleli - wpychać się w kolejkę, znaczy się, przed {#DialogueItalicFormat}tobą{#PreviousFormat}?
+DusaWithMegaera01|Dusa With Megaera 01|Dusa|*Ha, hahaha*, co za banda głupków! Co oni sobie w ogóle myśleli - wpychać się w kolejkę, znaczy się, przed *tobą*?
 DusaWithMegaera01|Dusa With Megaera 01|Megaera|Powiedzmy, że jeśli wciąż mają jakieś zażalenia do Lorda Hadesa, to będą jeszcze długo, długo czekać, zanim dostaną szansę na to, żeby o nich wspomnieć.
 DusaWithMegaera02|Dusa With Megaera 02|Megaera|...Przysięgam, masz rację, to idiota...! Tak czy inaczej, lepiej wrócę do pracy. Następna kolejka na mój koszt, Duzo, trzymaj się.
 DusaWithMegaera02|Dusa With Megaera 02|Dusa|Ty też się trzymaj, Panno Meg, dzięki za drinka! No to pa...!
@@ -388,7 +388,7 @@ DusaWithMegaera04|Dusa With Megaera 04|Megaera|...Od początku się nie dogadywa
 DusaWithMegaera04|Dusa With Megaera 04|Dusa|Ale to twoje siostry, znaczy się... to rodzina! Musicie mieć coś, co was łączy, coś, na co... no nie wiem... macie takie same poglądy?
 DusaWithMegaera04|Dusa With Megaera 04|Megaera|Jesteś dla mnie bardziej jak siostra niż one, Duzo. Nie zawsze zgadzam się z Lordem Hadesem, ale jestem wdzięczna, że nie wolno im przebywać w tym Domu.
 DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Megaera|...Jesteś pewna, że ci to wszystko nie przeszkadza? Ja tylko... nie chciałabym, żebyś znalazła się między młotem a kowadłem. Jeżeli choćbyś tylko wspomniała o tym, by to zakończyć...
-DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Dusa|Nie, {#DialogueItalicFormat}nie-nie-nie-nie{#PreviousFormat}, nie, Meg, nie! Nie, Meg! No daj spokój, żartujesz? Znaczy, bardzo się z tego cieszę, naprawdę! Zasługujesz na to! Dopóki tylko sama jesteś zadowolona, w porządku?
+DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Dusa|Nie, *nie-nie-nie-nie*, nie, Meg, nie! Nie, Meg! No daj spokój, żartujesz? Znaczy, bardzo się z tego cieszę, naprawdę! Zasługujesz na to! Dopóki tylko sama jesteś zadowolona, w porządku?
 DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Megaera|Cóż, dziękuję, Duzo. Zawsze byłaś dla mnie taka miła. Nie do końca wiem, co na to powiedzieć.
 DusaWithMegaeraHighAffinity01|Dusa With Megaera High Affinity 01|Dusa|Hej no, to moja kwestia! Słuchaj, muszę lecieć, ale chciałam tylko powiedzieć, że to świetna wiadomość, okej? Dzięki, że mi powiedziałaś!
 DusaChatWithMegaera01|Dusa Chat With Megaera 01|Megaera|Nie teraz, Zag. Mamy prywatne spotkanie.
@@ -400,12 +400,12 @@ DusaChatWithMegaera07|Dusa Chat With Megaera 07|Megaera|Wybacz, Zagreusie, jeste
 DusaChatWithMegaera08|Dusa Chat With Megaera 08|Megaera|Wiesz, że możesz po prostu dać nam rozmawiać bez przerywania nam, Zagreusie?
 DusaChatWithMegaera08|Dusa Chat With Megaera 08|Megaera|Ta konkretna dyskusja cię nie dotyczy, Zag.
 DusaChatWithMegaera09|Dusa Chat With Megaera 09|Megaera|...Ale czasami, Duzo, on nie jest zbyt dobry w kwestii pojmowania aluzji...
-MegaeraMeeting01|Megaera Meeting 01|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}. Syn marnotrawny powraca... Wszyscy mówią, że byłam dla ciebie pobłażliwa, Zag.
+MegaeraMeeting01|Megaera Meeting 01|Megaera|*Tsk*. Syn marnotrawny powraca... Wszyscy mówią, że byłam dla ciebie pobłażliwa, Zag.
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|Nie martw się, Meg. W końcu udało mi się dostać do domu w bolesny sposób.
 MegaeraMeeting01|Megaera Meeting 01|Megaera|Słuchaj, mam reputację do utrzymania. Jak uda ci się ponownie mnie w ten sposób ominąć, to lepiej, żebyś dotarł aż do końca. A teraz zostaw mnie i nie myśl sobie, że następnym razem będziesz miał tyle szczęścia.
 MegaeraMeeting01_B|Megaera Meeting 01 B|Zagreus|Nie martw się, Meg. Jakoś udało mi się wrócić do domu w bolesny sposób. Choć... prawdopodobnie udało mi się dotrzeć dalej, niż się tego spodziewałaś.
 MegaeraMeeting01_B|Megaera Meeting 01 B|Megaera|Spodziewałam się, że mnie nie pokonasz, tak. Słuchaj, mam reputację do utrzymania. Nie myśl sobie, że następnym razem będziesz miał tyle szczęścia.
-MegaeraMeeting02|Megaera Meeting 02|Zagreus|Hej, {#DialogueItalicFormat}uch{#PreviousFormat}, co tam pijesz, Meg? Coś dobrego?
+MegaeraMeeting02|Megaera Meeting 02|Zagreus|Hej, *uch*, co tam pijesz, Meg? Coś dobrego?
 MegaeraMeeting02|Megaera Meeting 02|Megaera|Cokolwiek to jest, jest słabe. Można by pomylić z twoją krwią.
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|Fajnie! Cóż, to ja nie przeszkadzam.
 MegaeraMeeting02Cont|Megaera Meeting 02 Cont|Megaera|Zapamiętaj to sobie - następnym razem rozerwę cię tam na strzępy.
@@ -425,11 +425,11 @@ MegaeraMirrorProgress01|Megaera Mirror Progress 01|Zagreus|Nie rywalizuję z tob
 MegaeraMirrorProgress01|Megaera Mirror Progress 01|Megaera|Nazywaj to jak tylko chcesz. Robisz to, co musisz. Rozumiem. Ale nie jesteś ode mnie silniejszy. Po prostu otrzymujesz więcej pomocy.
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|Pokonana. Przez ciebie. Bez pomocy lustra Nyks. Upokorzyłeś mnie. A teraz pewnie przyszedłeś mi to wypominać? Bardzo proszę, do dzieła. I tak mnie już bardziej nie upokorzysz.
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|Meg, co takiego muszę zrobić, byś przestała mnie traktować jako kogoś niekompetentnego? Czy nie dojrzałem choć trochę, odkąd się poznaliśmy? Miałaś mnie czegoś nauczyć - kim to czyni ciebie?
-MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}... może podniesiesz głos jeszcze bardziej, aby wszyscy w Domu cię usłyszeli? Tego właśnie chcesz? Aby wszyscy się dowiedzieli, że jesteś ode mnie lepszy?
+MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|*Tsk*... może podniesiesz głos jeszcze bardziej, aby wszyscy w Domu cię usłyszeli? Tego właśnie chcesz? Aby wszyscy się dowiedzieli, że jesteś ode mnie lepszy?
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|Nie słyszysz co mówię, Meg. Wiem, że to zabrzmi nieco obłudnie, biorąc pod uwagę fakt, że walczymy ze sobą na śmierć i życie, ale... nigdy nie chciałem cię skrzywdzić.
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|Zdecydowanie się przeceniasz, Zagreusie. Zostaw mnie w spokoju.
 MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|Meg, nie po to tu jestem, wiesz, że nie jestem taki. Czemu tego nie widzisz? Jedyne czego kiedykolwiek chciałem, to udowodnić ci moją wartość.
-MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}... myślisz, że możesz udowodnić mi swoją wartość, zwyciężając w walce?
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|*Tsk*... myślisz, że możesz udowodnić mi swoją wartość, zwyciężając w walce?
 MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|Czasami mam wrażenie, że nigdy tak naprawdę z tobą nie wygram, Meg. Gdybym się powstrzymywał, to co byś pomyślała?
 MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|Skoro wydaje ci się, że tak dobrze mnie znasz mnie, Zagreusie, to powinieneś wiedzieć, że lepiej nie prowadzić ze mną dalej tej rozmowy.
 MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|Nie wierzę, Zag. Byłam przekonana, że lustro Nyks to jedyny powód, dla którego udało ci się mnie pokonać. Wiedziałam, że do pewnego stopnia się zmieniłeś, ale... nie żeby aż tak.
@@ -451,7 +451,7 @@ MegaeraRunProgress02|Megaera Run Progress 02|Zagreus|Nie próbowałem wyrządzi�
 MegaeraRunProgress02|Megaera Run Progress 02|Megaera|Interesujący zbieg okoliczności. W każdym razie, jest to dla reszty z nas jeden problem mniej. Dopóki Satyrowie nie wrócą, co zapewne nie potrwa długo.
 MegaeraRunProgress03|Megaera Run Progress 03|Megaera|Przeszedłeś przez piekło więcej razy, niż możesz zliczyć, co, Zagreusie? Zaczynasz się do tego przyzwyczajać? Nic dziwnego, że przyjaźnisz się z Syzyfem.
 MegaeraRunProgress03|Megaera Run Progress 03|Zagreus|W rzeczy samej, zaczynam się przyzwyczajać. Będę przez nie przechodził tyle razy, ile będzie trzeba. Nie mogę się doczekać naszego następnego spotkania.
-MegaeraRunProgress03|Megaera Run Progress 03|Megaera|{#DialogueItalicFormat}Spotkania{#PreviousFormat}. Dokładnie. Nie każ mi czekać. Mimo wszystkich twoich trudów, jestem pewna, że nie jesteś nawet blisko.
+MegaeraRunProgress03|Megaera Run Progress 03|Megaera|*Spotkania*. Dokładnie. Nie każ mi czekać. Mimo wszystkich twoich trudów, jestem pewna, że nie jesteś nawet blisko.
 MegaeraRunCleared01|Megaera Run Cleared 01|Megaera|Zagreusie, powiedz mi, że plotki nie są prawdziwe. Naprawdę go pokonałeś? Czyś ty kompletnie stracił rozum? Zniszczysz ten przeklęty Dom!
 MegaeraRunCleared01|Megaera Run Cleared 01|Zagreus|Daj spokój, Meg, Ojciec prosił się o to już od jakiegoś czasu. Zresztą, o co się martwisz? Dom jest bezpieczny.
 MegaeraRunCleared01|Megaera Run Cleared 01|Megaera|On naprawdę nie przyjmie tego z pokorą. Znajdzie jakiś sposób, aby ci za to odpłacić. I nam wszystkim. Uważaj na siebie, albo wszyscy za to zapłacimy.
@@ -473,30 +473,30 @@ MegaeraPostEnding03|Megaera Post Ending 03|Megaera|Nie znałam jej aż tak dobrz
 MegaeraPostEnding03|Megaera Post Ending 03|Zagreus|Nie, nie wydaje mi się. A zatem, co to oznacza dla Nyks, skoro ona wróciła? Albo dla ciebie, tak na dobrą sprawę?
 MegaeraPostEnding03|Megaera Post Ending 03|Megaera|Królowa zawsze dawała Nyks swobodę. Jednakże twój ojciec... nie wiem, co to będzie oznaczać dla niego, jeśli ona tym razem zdecyduje się zostać.
 MegaeraPostEpilogue01|Megaera Post Epilogue 01|Megaera|A zatem, bogowie Olimpu oficjalnie cię teraz wspierają? Wreszcie przyczyniają się, aby wesprzeć rodzinne sprawy. Lord Hades pewnie nigdy by nie pomyślał, że nadejdzie taki dzień. Noc? Wiesz, o co mi chodzi.
-MegaeraPostEpilogue01|Megaera Post Epilogue 01|Zagreus|Wydaje się to być jedynym sprawiedliwym rozwiązaniem, żeby w jakimś stopniu pomagali. Wszyscy pracują razem na powierzchni i spójrzmy prawdzie w oczy - są odpowiedzialni za sporą ilość zjaw napływających do tego królestwa. Chociaż tyle mogą zrobić, aby wesprzeć utrzymanie tej naszej całej reputacji w stylu {#DialogueItalicFormat}"nie ma ucieczki"{#PreviousFormat}.
+MegaeraPostEpilogue01|Megaera Post Epilogue 01|Zagreus|Wydaje się to być jedynym sprawiedliwym rozwiązaniem, żeby w jakimś stopniu pomagali. Wszyscy pracują razem na powierzchni i spójrzmy prawdzie w oczy - są odpowiedzialni za sporą ilość zjaw napływających do tego królestwa. Chociaż tyle mogą zrobić, aby wesprzeć utrzymanie tej naszej całej reputacji w stylu *"nie ma ucieczki"*.
 MegaeraPostEpilogue01|Megaera Post Epilogue 01|Megaera|Czyniąc cię niesprawiedliwie silnym, gdy próbujesz mnie pokonać?
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|Cóż, Zag? Lubisz, jak sprawy są nieźle skomplikowane, czyż nie? Najwyraźniej ja również.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|Jeżeli pytasz, czy żałuję czegokolwiek z tego, co między nami zaszło, odpowiedź brzmi: nie. Bycie z tobą... wszelkie komplikacje są tego warte.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|Nie musisz mi mówić. Dwie zasady, jeśli chcesz to dalej utrzymać. Po pierwsze... gdy jesteśmy w terenie, sprawy osobiste odstawiamy na bok. Lepiej żebym nie usłyszała, jak jakaś zjawa mówi, że ci pobłażam. I po drugie... utrzymaj to nieco bardziej dojrzałe nastawienie, które ostatnio przejawiasz.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|Nie planowałem wracać do nieczułych nonsensów młodości, więc nie wydaje mi się, żeby druga kwestia była problemem. Ale co do pierwszej... czy naprawdę możemy nadal się nawzajem zabijać tam w terenie jak gdyby nigdy nic?
-MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}... Daj spokój, Zag. Naprawdę będziesz teraz zachowywał się nieswojo za każdym razem, gdy mnie widzisz? Mam na myśli bardziej niż zazwyczaj.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|*Tsk*... Daj spokój, Zag. Naprawdę będziesz teraz zachowywał się nieswojo za każdym razem, gdy mnie widzisz? Mam na myśli bardziej niż zazwyczaj.
 MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Zagreus|Nie, tylko że... czuję się okropnie odtrącając cię. Po prostu... byłem ostatnio tak bardzo zdezorientowany i... ufam ci. Jesteś kimś, z kim mogę porozmawiać. Zdaje się, że... boję się to stracić.
 MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|Nie bądź idiotą, a nie stracisz. Dużo razem przeszliśmy. Może nawet dojrzeliśmy. Ta szczególna relacja... myślę, że nie umrze tak łatwo.
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|Odnoszę wrażenie, że wszyscy o nas wiedzą, Meg. Nawet sama Afrodyta zdawała się wiedzieć, że coś między nami jest. To nie tak, że chwaliłem się wszystkim dookoła. Nie chciałaś robić wokół tego dużego szumu, prawda?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|Zagreusie. Czy jesteś zadowolony z tego, jak jest teraz między nami? Czy masz z tym problem?
-MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|Cóż, obeszłoby się bez tego całego zabij-lub-zgiń, jeżeli mam być szczery, ta część wciąż jest trochę dziwna, ale poza tym... tak, znaczy... jestem zadowolony. Ty to {#DialogueItalicFormat}ty{#PreviousFormat}.
+MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|Cóż, obeszłoby się bez tego całego zabij-lub-zgiń, jeżeli mam być szczery, ta część wciąż jest trochę dziwna, ale poza tym... tak, znaczy... jestem zadowolony. Ty to *ty*.
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|A zatem, to wystarczy. Niech mówią co chcą. Jakie to ma znaczenie? Jesteśmy bogami. Rzeczy, które o nas mówią... o innych bogach... jeśli zwraca się na to zbyt dużo uwagi, to można od tego oszaleć.
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|Ale... wiem, jak istotna jest dla ciebie kariera. Czy to nie stworzy problemu?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|Myślę, że mamy to już za sobą. Przestań się martwić.
 MegaeraAboutRelationship03|Megaera About Relationship 03|Zagreus|Megajro... czy byłaś kiedyś w kimś zakochana?
-MegaeraAboutRelationship03|Megaera About Relationship 03|Megaera|...{#DialogueItalicFormat}Hm{#PreviousFormat}. Tak.
+MegaeraAboutRelationship03|Megaera About Relationship 03|Megaera|...*Hm*. Tak.
 MegaeraAboutRelationship03|Megaera About Relationship 03|Zagreus|W kim?
 MegaeraAboutRelationship03|Megaera About Relationship 03|Megaera|...Zamknij się.
 MegaeraAboutZagreusPromotion01|Megaera About Zagreus Promotion 01|Megaera|Nigdy nawet w moich najdzikszych fantazjach nie wyobrażałam sobie, że skończysz na tablicy wyróżnionych służących Domu. Wciąż nie mogę do końca w to uwierzyć.
-MegaeraAboutZagreusPromotion01|Megaera About Zagreus Promotion 01|Zagreus|{#DialogueItalicFormat}Łooł{#PreviousFormat}, wróć! Możesz powiedzieć coś więcej na temat tych najdzikszych fantazji, Meg?
+MegaeraAboutZagreusPromotion01|Megaera About Zagreus Promotion 01|Zagreus|*Łooł*, wróć! Możesz powiedzieć coś więcej na temat tych najdzikszych fantazji, Meg?
 MegaeraAboutZagreusPromotion01|Megaera About Zagreus Promotion 01|Megaera|Mówię poważnie. Powinieneś być dumny. Nie jakoś arogancko dumny aż do bólu czy coś, ale w tym przypadku odrobina dumy jest na miejscu.
 MegaeraAboutRepeatedLosses01|Megaera About Repeated Losses 01|Megaera|Muszę ci coś powiedzieć, Zagreusie. Wcale się nie przyzwyczajam do tego, że tak z tobą przegrywam. Znaczy się... nawet się nie zatrzymujesz, aby mi to wytknąć. Wiesz, jakie to jest upokarzające?
-MegaeraAboutRepeatedLosses01|Megaera About Repeated Losses 01|Zagreus|Moment, mówisz, że wstydziłabyś się wyników naszych potyczek {#DialogueItalicFormat}mniej{#PreviousFormat}, jeśli ja bym się tym {#DialogueItalicFormat}bardziej {#PreviousFormat}przechwalał? Jaki to ma sens?
+MegaeraAboutRepeatedLosses01|Megaera About Repeated Losses 01|Zagreus|Moment, mówisz, że wstydziłabyś się wyników naszych potyczek *mniej*, jeśli ja bym się tym *bardziej *przechwalał? Jaki to ma sens?
 MegaeraAboutRepeatedLosses01|Megaera About Repeated Losses 01|Megaera|Wiesz, co nie ma żadnego sensu? Że mnie wciąż pokonujesz. Muszę tracić formę, skoro jestem aż tak przewidywalna... szkoda, że żadna ze zjaw, którymi muszę się zajmować, nie jest godnym przeciwnikiem.
 MegaeraAboutSisters01|Megaera About Sisters 01|Zagreus|Nie dogadujesz się ze swoimi siostrami, co?
 MegaeraAboutSisters01|Megaera About Sisters 01|Megaera|Powiedziałabym, że Alekto, Tyzyfone i ja mamy odmienne spojrzenia na pewne sprawy. Nauczyłyśmy się, żeby nie wchodzić sobie w drogę.
@@ -507,12 +507,12 @@ MegaeraAboutSisters01|Megaera About Sisters 01|Megaera|Twoja rodzina pocięła n
 MegaeraAboutSisters02|Megaera About Sisters 02|Zagreus|Wiesz, pomimo że było to dość brutalne starcie z wami trzema, to muszę przyznać, Meg... Cieszę się, że byłaś ze swoimi siostrami. Nic tak dobrze nie robi, jak wspólny cel, aby połączyć zajadłych rywali, racja?
 MegaeraAboutSisters02|Megaera About Sisters 02|Megaera|Nasze zejście się razem zawdzięczasz swojemu Paktowi Skruchy. Musimy podporządkować się jego warunkom. Ale moje siostry i ja dogadałyśmy się lepiej, niż się spodziewałam, muszę ci to przyznać.
 MegaeraAboutSisters02|Megaera About Sisters 02|Zagreus|Wyjaśniłyście więc sobie wszystko? Zaczniecie spędzać ze sobą więcej czasu i tak dalej?
-MegaeraAboutSisters02|Megaera About Sisters 02|Megaera|{#DialogueItalicFormat}Hm{#PreviousFormat}, nie przesadzajmy. Polecenie służbowe, które zmusza nas do współpracy, to nie jest raczej duży krok w stronę poprawy naszych relacji.
+MegaeraAboutSisters02|Megaera About Sisters 02|Megaera|*Hm*, nie przesadzajmy. Polecenie służbowe, które zmusza nas do współpracy, to nie jest raczej duży krok w stronę poprawy naszych relacji.
 MegaeraAboutAlecto01|Megaera About Alecto 01|Zagreus|Alekto to dopiero ma charakterek. Musiała sprawiać duże trudności, co?
 MegaeraAboutAlecto01|Megaera About Alecto 01|Megaera|Moja młodsza siostra czerpie mnóstwo przyjemności ze swojej pracy. Trochę się od niej nauczyłam w tej kwestii. Ale myślę, że na tym kończą się podobieństwa.
 MegaeraAboutAlecto01|Megaera About Alecto 01|Zagreus|Z pewnością ona sama mogłaby nauczyć się czegoś od ciebie. Być może tego, aby mieć odrobinę ogłady.
 MegaeraAboutAlecto01|Megaera About Alecto 01|Megaera|Niczego się ode mnie nie nauczy. Pogarda, którą obdarza innych, jest bezwarunkowa. Nauczyłam się nie brać tego do siebie.
-MegaeraAboutTisiphone01|Megaera About Tisiphone 01|Zagreus|{#DialogueItalicFormat}Yyy{#PreviousFormat}, więc, odnośnie Tyzyfone, czy... {#DialogueItalicFormat}uch{#PreviousFormat}... wszystko z nią w porządku? Ta jej nieustanna gadka o morderstwie i w ogóle.
+MegaeraAboutTisiphone01|Megaera About Tisiphone 01|Zagreus|*Yyy*, więc, odnośnie Tyzyfone, czy... *uch*... wszystko z nią w porządku? Ta jej nieustanna gadka o morderstwie i w ogóle.
 MegaeraAboutTisiphone01|Megaera About Tisiphone 01|Megaera|Tyzyfone otrzymała zadanie karania najgorszego, co śmiertelnicy mają do zaoferowania. A nawet więcej, niż otrzymała. Praca jest dla niej wszystkim.
 MegaeraAboutTisiphone01|Megaera About Tisiphone 01|Zagreus|Rozumiem, że nie ma w takim razie czasu na rodzinę czy rozrywkę, co? To przykre co dzieje się z tymi, którzy mają obsesję na punkcie pracy.
 MegaeraAboutTisiphone01|Megaera About Tisiphone 01|Megaera|Rozumiem, co insynuujesz, Zagreusie. W ogóle nie jestem do niej podobna. W ogóle. I nie waż się nas więcej porównywać.
@@ -526,7 +526,7 @@ MegaeraAboutThanatos01|Megaera About Thanatos 01|Zagreus|Krzywoprzysięzców, zd
 MegaeraAboutThanatos01|Megaera About Thanatos 01|Megaera|Jeżeli nie jest to doświadczenie, którego pragną śmiertelni, to muszą jedynie dotrzymywać swych przysiąg i nie zdradzać tych, którzy są im najbliżsi. To nie jest takie trudne.
 MegaeraAboutHypnos01|Megaera About Hypnos 01|Zagreus|Nie jesteś zbytnio załamana tym, jak wszystko skończyło się między tobą a Hypnosem, czyż nie, Meg?
 MegaeraAboutHypnos01|Megaera About Hypnos 01|Megaera|Nadal jestem w szoku. Muszę się jakoś pozbierać i wymyślić, jak mam dalej istnieć.
-MegaeraAboutOrpheus01|Megaera About Orpheus 01|Megaera|Sprawiłeś, że ten nadworny muzyk znowu śpiewa. Wiem, że {#DialogueItalicFormat}ty {#PreviousFormat}nie potrafisz się zamknąć, ale nie widziałam, że to zaraźliwe.
+MegaeraAboutOrpheus01|Megaera About Orpheus 01|Megaera|Sprawiłeś, że ten nadworny muzyk znowu śpiewa. Wiem, że *ty *nie potrafisz się zamknąć, ale nie widziałam, że to zaraźliwe.
 MegaeraAboutOrpheus01|Megaera About Orpheus 01|Zagreus|Hej, to Orfeusz, nie ja. Nie może śpiewać w ten sposób bez porządnej motywacji, wewnętrznych zmagań i kto wie czego jeszcze. Co, nie podoba ci się? Ten salon wydaje się być lepszy, gdy rozbrzmiewa tu jakaś pieśń.
 MegaeraAboutOrpheus01|Megaera About Orpheus 01|Megaera|Ten salon ma się dobrze. A śpiewanie... jeszcze się do niego nie przyzwyczaiłam.
 MegaeraAboutSingersReunionQuestComplete01|Megaera About Singers Reunion Quest Complete 01|Megaera|Nie widziałam ostatnio nadwornego muzyka dąsającego się tutaj zbyt często. Twoja sprawka, jak słyszałam?
@@ -549,7 +549,7 @@ MegaeraAboutDusaVsNyx01|Megaera About Dusa Vs Nyx 01|Zagreus|Co ją to interesuj
 MegaeraAboutDusaVsNyx01|Megaera About Dusa Vs Nyx 01|Megaera|To nie moja sprawa, Zag. Nawet jeżeli chodzi o Duzę. Ale pilnuj się.
 MegaeraAboutDusaVsNyx02|Megaera About Dusa Vs Nyx 02|Megaera|Niech cię, Zagreusie. Ona była moją przyjaciółką. A teraz jej nie ma.
 MegaeraAboutDusaVsNyx02|Megaera About Dusa Vs Nyx 02|Zagreus|Co, masz na myśli Duzę? Tak jakbym miał z tym cokolwiek wspólnego. To na Nyks powinnaś być zła, nie na mnie!
-MegaeraAboutDusaVsNyx02|Megaera About Dusa Vs Nyx 02|Megaera|Nie wydaje mi się. Nyks cię ostrzegała. {#DialogueItalicFormat}Uch{#PreviousFormat}, wiesz, że nie mogę sama się do niej z tym zwrócić, więc {#DialogueItalicFormat}napraw to{#PreviousFormat}!
+MegaeraAboutDusaVsNyx02|Megaera About Dusa Vs Nyx 02|Megaera|Nie wydaje mi się. Nyks cię ostrzegała. *Uch*, wiesz, że nie mogę sama się do niej z tym zwrócić, więc *napraw to*!
 MegaeraAboutDusaVsNyx03|Megaera About Dusa Vs Nyx 03|Zagreus|Widziałaś, że Duza wróciła, czyż nie, Meg? Dostała kolejną szansę. Nyks przemyślała sprawę!
 MegaeraAboutDusaVsNyx03|Megaera About Dusa Vs Nyx 03|Megaera|Widziałam. Nyks nieczęsto zmienia swoje zdanie jeżeli chodzi o ten Dom. Ale nie będę tracić czasu na to co się stało ani dlaczego.
 MegaeraAboutDusaVsNyx03|Megaera About Dusa Vs Nyx 03|Zagreus|Nie brzmisz na zbyt zadowoloną...
@@ -590,7 +590,7 @@ MegaeraWithHades02|Megaera With Hades 02|Hades|Jest już na to za późno, Megaj
 MegaeraWithHades02|Megaera With Hades 02|Megaera|Wiesz, jakie one są. Lepiej, żeby wykonywały przydzielone im zadania. Ale nie to.
 MegaeraWithHades02|Megaera With Hades 02|Hades|Megajro, uwierz mi - bardzo dobrze znam to uczucie. Niemniej jednak, z pewnością - dzięki swej pomysłowości - możesz jeszcze znaleźć sposób na pogodzenie swoich sióstr.
 MegaeraWithHades03|Megaera With Hades 03|Megaera|...Nie mogę z nimi pracować, Lordzie Hadesie. Proszę. Nie szanują moich słów - ani nawet ich nie słuchają.
-MegaeraWithHades03|Megaera With Hades 03|Hades|{#DialogueItalicFormat}Wystarczy{#PreviousFormat}! Poza tym, Megajro, to nie twoja porażka. Ta porażka jest moja. Muszę wziąć czynny udział w tych sprawach.
+MegaeraWithHades03|Megaera With Hades 03|Hades|*Wystarczy*! Poza tym, Megajro, to nie twoja porażka. Ta porażka jest moja. Muszę wziąć czynny udział w tych sprawach.
 MegaeraWithHades03|Megaera With Hades 03|Megaera|...Często próbowałam, ale nigdy nie osiągnęłam zadowalającego rezultatu. Prosisz mnie o niemożliwe.
 MegaeraWithHades03|Megaera With Hades 03|Hades|Ja nie proszę, Megajro.
 MegaeraWithHades04|Megaera With Hades 04|Megaera|...Ale nie rozumiem, Lordzie Hadesie. Poległam w walce z nim niezliczoną ilość razy. Jak to możliwe...?
@@ -617,13 +617,13 @@ MegaeraWithNyx05|Megaera With Nyx 05|Megaera|Będę. Obiecuję, Nyks. I jeżeli 
 MegaeraWithNyx06|Megaera With Nyx 06|Megaera|...Im nie da się przemówić do rozsądku, Nyks, wiesz to. Jaki jest dla nas z nich pożytek w tym wszystkim? Tylko pogorszą sprawę.
 MegaeraWithNyx06|Megaera With Nyx 06|Nyx|To twoje siostry. Są częścią twojego życia, czy ci się to podoba, czy nie. Po twojej stronie należy ukształtowanie z nimi relacji.
 MegaeraWithNyx06|Megaera With Nyx 06|Megaera|Obawiam się, że niewiele mogę zrobić. Pokładasz w nie o wiele więcej wiary niż ja.
-MegaeraWithNyx06|Megaera With Nyx 06|Nyx|Pokładam o wiele więcej wiary w {#DialogueItalicFormat}tobie{#PreviousFormat}, Megajro. Jest wiele uporczywych osobowości, z którymi regularnie się zadajemy. A zatem, robimy to, co jest możliwe.
+MegaeraWithNyx06|Megaera With Nyx 06|Nyx|Pokładam o wiele więcej wiary w *tobie*, Megajro. Jest wiele uporczywych osobowości, z którymi regularnie się zadajemy. A zatem, robimy to, co jest możliwe.
 MegaeraWithHypnos01|Megaera With Hypnos 01|Megaera|...No spójrz na to, Hypnosie. Zechciałbyś powtórzyć mi tę nieproszoną poradę, którą mi przed chwilą dałeś, teraz, jak jest tu Zagreus?
-MegaeraWithHypnos01|Megaera With Hypnos 01|Hypnos|Och, {#DialogueItalicFormat}hahaha{#PreviousFormat}, cóż, moim zwyczajem jest dawanie wskazówek naszym gościom, którzy przybywają wbrew własnej woli, bo sporo się dowiaduję rozmawiając tu ze wszystkimi! Na temat, no wiesz... umierania?
+MegaeraWithHypnos01|Megaera With Hypnos 01|Hypnos|Och, *hahaha*, cóż, moim zwyczajem jest dawanie wskazówek naszym gościom, którzy przybywają wbrew własnej woli, bo sporo się dowiaduję rozmawiając tu ze wszystkimi! Na temat, no wiesz... umierania?
 MegaeraWithHypnos01|Megaera With Hypnos 01|Megaera|Zagreusie. Powiedział, że następnym razem powinnam unikać większej ilości twoich ataków. Pilnuj się zatem, bo teraz znam twoje sekrety - dzięki Hypnosowi.
 MegaeraWithHypnos02|Megaera With Hypnos 02|Megaera|...Myślę, że sama jestem w stanie odnaleźć salon, Hypnosie. Albo... chwila... czy ty mnie właśnie zaprosiłeś na randkę?
-MegaeraWithHypnos02|Megaera With Hypnos 02|Hypnos|Ja? Nie, {#DialogueItalicFormat}nienienienienie{#PreviousFormat}, nie! Nigdy nawet bym o tym nie pomyślał, Panienko, znaczy się, ty masz swoje stanowisko, ja mam swoje. Można by rzec, że pochodzimy z dwóch różnych światów. Przeznaczeni, by nigdy zbyt wiele się nie widywać.
-MegaeraWithHypnos02|Megaera With Hypnos 02|Megaera|Za każdym razem, gdy z tobą rozmawiam, jakimś sposobem uznajesz to za komplement, zgadza się? Pozwól więc, że choć raz to {#DialogueItalicFormat}ja {#PreviousFormat}udzielę ci rady. Przestań być idiotą.
+MegaeraWithHypnos02|Megaera With Hypnos 02|Hypnos|Ja? Nie, *nienienienienie*, nie! Nigdy nawet bym o tym nie pomyślał, Panienko, znaczy się, ty masz swoje stanowisko, ja mam swoje. Można by rzec, że pochodzimy z dwóch różnych światów. Przeznaczeni, by nigdy zbyt wiele się nie widywać.
+MegaeraWithHypnos02|Megaera With Hypnos 02|Megaera|Za każdym razem, gdy z tobą rozmawiam, jakimś sposobem uznajesz to za komplement, zgadza się? Pozwól więc, że choć raz to *ja *udzielę ci rady. Przestań być idiotą.
 MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|...Ostatnio nie witałeś mnie tak często, Hypnosie. Nie zauważyłabym tego, gdyby nie była to połowa twoich obowiązków. Jeżeli masz mi coś do powiedzenia, po prostu to z siebie wyduś.
 MegaeraWithHypnos03|Megaera With Hypnos 03|Hypnos|Och, um, cóż, ja, widzisz, chodzi o to, Megajro, Panno Megajro, mogę cię tak nazywać? Tak jak mówiłem, ja tylko, pomyślałem sobie może, no wiesz, coś między nami jest, prawdziwe połączenie, ostatnio, odkąd ciągle umierasz coraz więcej i więcej, a ja ciągle tutaj stoję? Ale z drugiej strony... zawsze myślałem, że byłaś niezwyciężona...
 MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|Rozumiem. Zaczynasz sobie właśnie uświadamiać, że wszystko, co o mnie wiesz, to tylko twoje wyobrażenia, czyż nie?
@@ -632,7 +632,7 @@ MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|To zabrzmiało tak, jak gdyby
 MegaeraWithHypnos03|Megaera With Hypnos 03|Hypnos|O tak! Słuchaj, po prostu cieszę się, że to jedno z was dwojga, bije to na głowę ciągłe witanie zjaw! One nigdy ze mną nie rozmawiają.
 MegaeraWithHypnos03|Megaera With Hypnos 03|Megaera|No dobrze, zatem... powitaj mnie następnym razem, gdy się tu pojawię.
 MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|...Było moim zadaniem, aby powstrzymać go przed dalszą drogą. Gdyby mi się udało... nigdy by cię nie odnalazł. A zatem, ten jeden raz cieszę się, że poniosłam porażkę. Mam nadzieję, że wiesz o tym, moja Królowo.
-MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|Miałam nadzieję, ale nie wiedziałam na pewno, dopóki tego od ciebie teraz nie usłyszałam, Nadzorco Megajro. I jeśli mogę? Rozumiem, że bardzo dużo osiągnęłaś odkąd wzięłam, {#DialogueItalicFormat}yyy{#PreviousFormat}, urlop od tego Domu. Widzę, czemu Nyks i Hades pokładają w tobie zaufanie!
+MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|Miałam nadzieję, ale nie wiedziałam na pewno, dopóki tego od ciebie teraz nie usłyszałam, Nadzorco Megajro. I jeśli mogę? Rozumiem, że bardzo dużo osiągnęłaś odkąd wzięłam, *yyy*, urlop od tego Domu. Widzę, czemu Nyks i Hades pokładają w tobie zaufanie!
 MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|Dziękuję ci, moja Królowo. A zatem, jeśli jest cokolwiek innego, co mogę zrobić, aby pomóc ci się tutaj dostosować, to zawsze jestem do usług. Jesteś tu bardzo mile widziana.
 MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|I wzajemnie, ty też daj mi znać, jeśli mój syn sprawi ci więcej problemów, niż byś tego chciała. W porządku?
 MegChat01|Meg Chat 01|Megaera|Nie widzisz, że mam teraz na głowie ważniejsze sprawy niż ty?
@@ -676,7 +676,7 @@ MegMaxChat05|Meg Max Chat 05|Megaera|Słyszałam, że ostatnio dotarłeś aż do
 MegMaxChat06|Meg Max Chat 06|Megaera|Wróciłeś. Dotarłeś aż na powierzchnię, co?
 MegMaxChat07|Meg Max Chat 07|Megaera|Cały czas tracę przy tobie czujność, Zag.
 MegMaxChat08|Meg Max Chat 08|Megaera|Ostatnim razem dotarłeś na sam szczyt, co? Całkiem nieźle.
-MegMaxChat09|Meg Max Chat 09|Megaera|{#DialogueItalicFormat}Uch{#PreviousFormat}, nie pamiętam, kiedy ostatni raz cię pokonałam, Zag...
+MegMaxChat09|Meg Max Chat 09|Megaera|*Uch*, nie pamiętam, kiedy ostatni raz cię pokonałam, Zag...
 MegMaxChat10|Meg Max Chat 10|Megaera|Przerwa prawie się skończyła. Widzimy się w terenie?
 MegMaxChat11|Meg Max Chat 11|Megaera|Hypnos dał ci ostatnio jakieś dobre wskazówki?
 MegMaxChat12|Meg Max Chat 12|Megaera|Robię sobie przerwę od przebywania z Alekto tam w terenie...
@@ -696,12 +696,12 @@ MegIntermissionChat05|Meg Intermission Chat 05|Megaera|Chodź ze mną, Zagreusie
 MegIntermissionChat05|Meg Intermission Chat 05|Megaera|Cóż! Wszystko wydaje się być w porządku. Kontynuuj.
 MegIntermissionChat06|Meg Intermission Chat 06|Megaera|Jeśli jesteś teraz dostępny, mam trochę pergaminowej roboty do przejrzenia.
 MegIntermissionChat06|Meg Intermission Chat 06|Megaera|Hmm. Mniej pergaminowej roboty, niż się spodziewałam. Cóż, dziękuję za poświęcony czas.
-MegaeraGift01|Megaera Gift 01|Zagreus|Hej, {#DialogueItalicFormat}uch{#PreviousFormat}, Meg? Słuchaj, wiem, że po prostu wykonujesz swoją pracę tam w terenie, w każdym razie, znalazłem to, no i pomyślałem o tobie i w ogóle, więc... proszę.
+MegaeraGift01|Megaera Gift 01|Zagreus|Hej, *uch*, Meg? Słuchaj, wiem, że po prostu wykonujesz swoją pracę tam w terenie, w każdym razie, znalazłem to, no i pomyślałem o tobie i w ogóle, więc... proszę.
 MegaeraGift01|Megaera Gift 01|Megaera|Ja... Dopilnuję, by ta kontrabanda została natychmiast wyrzucona. A teraz przyjmij znaleźne i zajmij się swoimi sprawami.
-MegaeraGift02|Megaera Gift 02|Zagreus|Hej, Meg! Ja, {#DialogueItalicFormat}uch{#PreviousFormat}, pomyślałem, że lepiej będzie, jak ci to dam.
+MegaeraGift02|Megaera Gift 02|Zagreus|Hej, Meg! Ja, *uch*, pomyślałem, że lepiej będzie, jak ci to dam.
 MegaeraGift02|Megaera Gift 02|Megaera|Skonfiskuję to, skoro naprawdę tego chcesz. Choć ostrzegam: nie jestem podatna na łapówki. Wielu już próbowało.
 MegaeraGift02|Megaera Gift 02|Zagreus|Hej, ja tylko przekazuję kontrabandę odpowiednim władzom. Nawet się nad tym nie zastanawiaj, Meg. Po prostu wykonujemy swoją pracę, racja?
-MegaeraGift03|Megaera Gift 03|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}. Ty tak na poważnie. Naprawdę mi to dajesz. Znaczy się, wezmę to od ciebie, jeśli naprawdę tego chcesz.
+MegaeraGift03|Megaera Gift 03|Megaera|*Tsk*. Ty tak na poważnie. Naprawdę mi to dajesz. Znaczy się, wezmę to od ciebie, jeśli naprawdę tego chcesz.
 MegaeraGift03|Megaera Gift 03|Zagreus|Naprawdę tego chcę. I mam szczerą nadzieję, że możemy przezwyciężyć nasze różnice. Nie żeby wręczenie tej kontrabandy miało z tym cokolwiek wspólnego.
 MegaeraGift04|Megaera Gift 04|Megaera|Takie podarunki nie zatrzymają mojego bicza następnym razem, gdy się spotkamy tam w terenie - zdajesz sobie z tego sprawę, prawda?
 MegaeraGift04|Megaera Gift 04|Zagreus|Zdaję sobie sprawę. I mam nadzieję, że nigdy się nie zmienisz, Meg.
@@ -714,9 +714,9 @@ MegaeraGift07|Megaera Gift 07|Megaera|Ambrozja... wiesz jaka jest kara za prób�
 MegaeraGift07|Megaera Gift 07|Zagreus|Nie mogę z całą pewnością powiedzieć, że wiem, ale jeżeli obejmuje to baty i tym podobne, to już i tak dostałem ich więcej, niż mi się należało, więc... pomyślałem sobie, że podejmę ryzyko. No to co powiesz?
 MegaeraGift07|Megaera Gift 07|Megaera|Powiem, żebyś dał mi tę cholerną butelkę. Dopilnuję, żeby została odpowiednio potraktowana. A jeżeli chodzi o ciebie... nie wiesz może kto mógł coś takiego zostawić, czyż nie? Na mocy nadanej mi jako Nadzorcy... zatrzymaj to dla siebie. Ale jeśli komukolwiek powiesz...!
 MegaeraGift08|Megaera Gift 08|Zagreus|Mam tę okropną kontrabandę, którą chciałem oddać jak najszybciej, jeśli mogłabyś ją ode mnie wziąć, Meg.
-MegaeraGift08|Megaera Gift 08|Megaera|{#DialogueItalicFormat}Tsk{#PreviousFormat}... nadal nie masz pojęcia, jak szczerze ze mną rozmawiać, prawda Zag? Może po prostu powiesz mi, dlaczego tu jesteś i czego chcesz.
-MegaeraGift08|Megaera Gift 08|Zagreus|{#DialogueItalicFormat}Yyy{#PreviousFormat}... więc ta cała sprawa z kontrabandą, nie kupujesz tego, co? Chociaż mimo to wzięłaś ode mnie butelkę... Po prostu chciałem z tobą porozmawiać. I być może rozwiązać nasze problemy.
-MegaeraGift08|Megaera Gift 08|Megaera|{#DialogueItalicFormat}Rozwiązać nasze problemy{#PreviousFormat}. Co takiego, według ciebie, wymaga między nami naprawy, {#DialogueItalicFormat}co{#PreviousFormat}?
+MegaeraGift08|Megaera Gift 08|Megaera|*Tsk*... nadal nie masz pojęcia, jak szczerze ze mną rozmawiać, prawda Zag? Może po prostu powiesz mi, dlaczego tu jesteś i czego chcesz.
+MegaeraGift08|Megaera Gift 08|Zagreus|*Yyy*... więc ta cała sprawa z kontrabandą, nie kupujesz tego, co? Chociaż mimo to wzięłaś ode mnie butelkę... Po prostu chciałem z tobą porozmawiać. I być może rozwiązać nasze problemy.
+MegaeraGift08|Megaera Gift 08|Megaera|*Rozwiązać nasze problemy*. Co takiego, według ciebie, wymaga między nami naprawy, *co*?
 MegaeraGift08|Megaera Gift 08|Zagreus|Ja... ja byłem naiwny. Starałem się zbytnio nie zbliżyć i powiedziałem wiele głupich rzeczy, a potem... cóż, wielokrotnie próbowaliśmy się nawzajem zabić, więc jest jeszcze to. Słuchaj, przepraszam, Meg.
 MegaeraGift08|Megaera Gift 08|Megaera|Powiedziałeś wiele głupich rzeczy, to prawda. A my Furie nie znamy się za dobrze na przebaczaniu i przeprosinach. Ale... widzę, że się starasz. Dziękuję ci za kontrabandę. Do widzenia.
 MegaeraGift09|Megaera Gift 09|Zagreus|Proszę, Meg. Kontrabanda. Chciałbym, żebyśmy mogli zacząć od początku.
@@ -733,4 +733,4 @@ MegaeraGift10|Megaera Gift 10|Megaera|...Szkoda, że nie widziałeś swojej miny
 MegaeraGift10|Megaera Gift 10|Zagreus|A ja myślę, że w głębi duszy nie jesteś taką pozbawioną serca zwiastunką zemsty, którą chcesz, aby widział świat. Zachowam jednak twój sekret, jeśli ty zachowasz mój. Co ty na to?
 MegaeraGift10|Megaera Gift 10|Megaera|Tsk... to naprawdę zabrzmiało jak szantaż, Zagreusie. Zniżyłbyś się dla mnie do takich środków?
 MegaeraGift10|Megaera Gift 10|Zagreus|Nie, ja... ja tylko... zupełnie nie o to mi chodziło...
-MegaeraGift10|Megaera Gift 10|Megaera|{#DialogueItalicFormat}Hahaha{#PreviousFormat}, po prostu chciałam zobaczyć, jak się wijesz. Dziękuję za twoje towarzystwo i drinka. Do zobaczenia niedługo, jak sądzę.
+MegaeraGift10|Megaera Gift 10|Megaera|*Hahaha*, po prostu chciałam zobaczyć, jak się wijesz. Dziękuję za twoje towarzystwo i drinka. Do zobaczenia niedługo, jak sądzę.

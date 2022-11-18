@@ -47,7 +47,7 @@ PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|没问题，先�
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|你父亲一定有死者记录吧。你愿不愿意帮我一个忙，帮我找一找我认识的一个人的所在。
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|那样的话真的帮了我大忙。至少我可以帮你四处打听一下。你要找的人是谁？
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|他叫阿喀琉斯。他还活着的时候，非常出名，但是在死后世界，就不知道了。我以为他会在这里，但是并没有。
-PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|…阿喀琉斯…我听过这个名字。那么，{#DialogueItalicFormat}唔{#PreviousFormat}，请问你为何要找到他呢？以防万一。
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|…阿喀琉斯…我听过这个名字。那么，*唔*，请问你为何要找到他呢？以防万一。
 PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|就是…我只是想他了，陌生人。就是这样。
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|有什么问题吗，陌生人？还是你又想用闲聊来作弄我了？
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|你认识阿喀琉斯，对吧，先生。你是普特洛克勒斯。阿喀琉斯…现在在我家中工作。他训练了我。他托我向你带来他的问候与爱。他说他无时无刻不在想念你。
@@ -55,7 +55,7 @@ PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|…那个名�
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|但是，这不可能啊。这其中一定有什么误会。你们死后就一直没有说过话吗？
 PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|没有，而且我也不认为有必要。但是，你可以为了我迎合一下他。就告诉他我现在过得非常好，怎么样？
 PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Zagreus|普特洛克勒斯。我知道你是谁，先生。并且，你认识阿喀琉斯。他目前在我家中工作。他训练了我。他托我向你带来他的问候与爱。他说他无时无刻不在想念你。
-PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Patroclus|……啊，所以你已经见过他了，是吗，他在你父亲的圣殿里。你还想让我相信他说过那些话？{#DialogueItalicFormat}啧{#PreviousFormat}，你得理解我有点多疑。活着时，是我离开了阿喀琉斯。死后，他离开了我。我们扯平了。现在我们之间没什么好说的了。
+PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Patroclus|……啊，所以你已经见过他了，是吗，他在你父亲的圣殿里。你还想让我相信他说过那些话？*啧*，你得理解我有点多疑。活着时，是我离开了阿喀琉斯。死后，他离开了我。我们扯平了。现在我们之间没什么好说的了。
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|阿喀琉斯最近怎么样，陌生人？我觉得既然你能够天天看到他，而我不能，所以你应该可以回答。
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Zagreus|我父亲强迫他做事。并且发誓要保守秘密，很明显。我不会装成我完全理解一样。不过，总而言之，我觉得他过得还可以。我希望…你可以自己去看他。
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|你没法完全理解，只能希望如此。我明白了。看来你要等自己弄明白这些谜团之后才能帮到我了，对吧？
@@ -66,19 +66,19 @@ PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|太无耻了�
 PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Zagreus|我要弄明白一些事。但你现在要帮我点忙，与此同时：不要被自己所谓的感觉给骗了。好吗？阿喀琉斯依然爱着你，但你不知道。
 PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|真的吗？现在我做出承诺已经没有任何意义了，但是…我祈祷命运之神能在你的前进道路上眷顾你。
 PatroclusAboutAchilles03B|Patroclus About Achilles 03 B|Patroclus|现在我做出承诺已经没有任何意义了，但是…谢谢你说的话。我也依然爱着他。我祈祷命运之神能在你的前进道路上眷顾你。
-PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|他还是和以前一样顽固，总是不肯让步，不是吗？他有没有告诉过你我们参加的那场战争？不对，应该说是{#DialogueItalicFormat}我{#PreviousFormat}参加的，他本可以结束这场争端，但他就是不肯拿起武器。
+PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|他还是和以前一样顽固，总是不肯让步，不是吗？他有没有告诉过你我们参加的那场战争？不对，应该说是*我*参加的，他本可以结束这场争端，但他就是不肯拿起武器。
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Zagreus|关于他活着的时候，他并没怎么和我说过。所以说，阿喀琉斯那个时候不肯参战，是吗？我知道，凡人有时候会对不肯参加战斗的士兵大为光火，可……如果连他自己都不相信战争的动机，他为什么还要参战呢？
-PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|他要与我们{#DialogueItalicFormat}同生共死{#PreviousFormat}！难道这不全是他的问题吗？要不是他这么固执，我根本……好吧……我可能得晚点才会来冥界。
+PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|他要与我们*同生共死*！难道这不全是他的问题吗？要不是他这么固执，我根本……好吧……我可能得晚点才会来冥界。
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Zagreus|你也知道，他一直为你的惨死而自责。我觉得，他没能保护好你，而不是……根本没有参加战斗。不过，他也确实说过一些事情。他说你死了之后，他马上就气得发疯了，之类的吧……
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|我对此一无所知，陌生人，你也明白……我已经死了，我在思考来世的事情。我花了不少时间，才渐渐地适应了这里的生活。
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|不介意的话，可以问你个问题吗，陌生人？上次和你谈过之后，这个问题就一直在折磨着我。我死了之后，阿喀琉斯到底怎么样了，可以告诉我吗？我听说过一些传闻，不过……我并不相信那群满口跑火车的家伙。
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Zagreus|据我所知，先生……你一死，他就被悲痛击垮了，陷入了狂怒之中。他像你希望的那样，上了战场，而且几乎靠一己之力就结束了这场战争。
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|所以说，在我死后不久，他也战死了。而且，尽管他靠着一己之力就消灭了一支军队，他却被困在了塔耳塔罗斯最阴暗的深渊之中，不能来到这里，与英雄们欢聚一堂？
 PatroclusAboutAchilles05|Patroclus About Achilles 05|Zagreus|你应该明白，先生，你们的骨灰被葬在了一起，那是他最后的遗愿。至于他怎么跑到了我父亲的圣殿，我想他肯定能解释清楚。而我要做的，就是确保他有这个解释的机会。
-PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|……你是说，我们的骨灰？被埋在了一起？{#DialogueItalicFormat}啧{#PreviousFormat}，那个傻瓜，我们本可以活下来的！而不是变成蛆虫的食粮。不过……很感谢你告诉我这件事情，陌生人。现在……请离开吧。
+PatroclusAboutAchilles05|Patroclus About Achilles 05|Patroclus|……你是说，我们的骨灰？被埋在了一起？*啧*，那个傻瓜，我们本可以活下来的！而不是变成蛆虫的食粮。不过……很感谢你告诉我这件事情，陌生人。现在……请离开吧。
 PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|……我很抱歉，陌生人。想想看，你告诉了我阿喀琉斯发生了什么事情，而我的态度实在是太生硬了。是你告诉我他最后的战斗，关于……他的骨灰……和我的骨灰的事情……这些事情我都是第一次听说。
 PatroclusAboutAchilles06|Patroclus About Achilles 06|Zagreus|不用客气，先生。阿喀琉斯差不多是我最亲密的朋友，可是……他从来不说他自己的事情，也不说曾经的事情。这对你们两个而言，一定非常痛苦吧。
-PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|噢，到了这个时候，我们都尝过该尝的那份痛苦了。可我知道……他还在乎我，哪怕是生命结束的时候……哪怕是生命结束{#DialogueItalicFormat}之后{#PreviousFormat}……我的感觉都有点变得迟钝了，我猜，这场谈话也是如此吧。
+PatroclusAboutAchilles06|Patroclus About Achilles 06|Patroclus|噢，到了这个时候，我们都尝过该尝的那份痛苦了。可我知道……他还在乎我，哪怕是生命结束的时候……哪怕是生命结束*之后*……我的感觉都有点变得迟钝了，我猜，这场谈话也是如此吧。
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|有件事想和你说一下，陌生人。如果你顺道的话，可以帮我个忙吗？在得到你的答案之前，我应该先告诉你是什么事情。
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Zagreus|没问题，先生，是什么事情？你有什么打算？
 PatroclusAboutMyrmidonReunionQuest01|Patroclus About Myrmidon Reunion Quest 01|Patroclus|如果他是我熟悉的那个阿喀琉斯的话，当我们处于这种困境的时候，他应该会相当谨慎。可如果是勇敢的人，又怎么能逃避不确定的风险呢？你告诉他，我打算放手一搏了。
@@ -115,7 +115,7 @@ PatroclusAboutKeepsake02|Patroclus About Keepsake 02|Patroclus|我以前也是�
 PatroclusAboutWar01|Patroclus About War 01|Zagreus|你提到的那场战争，后来怎么样了，先生？希望你不介意我这么问。
 PatroclusAboutWar01|Patroclus About War 01|Patroclus|老实说吧，陌生人……我很介意。从你说话的语气来看，你从来没经历过战争。我们之中活下来的人……或者说，你明白我的意思……我们要对历史负下责任。可也一样，如果还可以回到那个时候、那个地点的话，我绝不会想回去。我相信你能明白我的意思。
 PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Zagreus|我很好奇，先生。阿喀琉斯以前是什么样子……？我是说，他年轻的时候，可以告诉我吗？
-PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Patroclus|{#DialogueItalicFormat}哈{#PreviousFormat}，该怎么描述一个人是什么样子呢？每个在战场上见过他的人，无论是他的敌人还是盟友，都会同意他是个所向无敌的战士。但我觉得，他不仅仅如此，他还是个有远见、有正义感的人。早在他成为战士之前，我就认识他了。大概也正是如此，我才会喜欢他的吧。
+PatroclusAboutYoungAchilles01|Patroclus About Young Achilles 01|Patroclus|*哈*，该怎么描述一个人是什么样子呢？每个在战场上见过他的人，无论是他的敌人还是盟友，都会同意他是个所向无敌的战士。但我觉得，他不仅仅如此，他还是个有远见、有正义感的人。早在他成为战士之前，我就认识他了。大概也正是如此，我才会喜欢他的吧。
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Patroclus|我听说你最近不知道打败了忒修斯多少次，或者说……是某个和你长得一模一样的人干的，陌生人。我听说这件事的时候，差点就被逗笑了，不过我怀疑那家伙一点教训都没学到。
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Zagreus|等等，你认识他吗？不过你说得没错，他有些方面确实一成不变。他坚信我是来自地狱最深处的恶魔，不过……某种程度上来说，倒也没错吧。
 PatroclusAboutTheseus01|Patroclus About Theseus 01|Patroclus|你在这里已经臭名昭著了，大家都听说了你父亲有个像怪物一样的儿子，被锁在圣殿里禁止外出。恐惧和无知总是能让人编出有趣的故事，不是吗？
@@ -223,7 +223,7 @@ PatroclusReunionChat16|Patroclus Reunion Chat 16|Patroclus|我很感激你所做
 PatroclusReunionChat17A|Patroclus Reunion Chat 17 A|Patroclus|向你的耐心与仁慈致敬。
 PatroclusReunionChat17|Patroclus Reunion Chat 17|Patroclus|希望你能收下这个。
 PatroclusGift01|Patroclus Gift 01|Zagreus|我知道你现在内心煎熬……这也许不能帮你解决问题，但…我想让你收下这个。
-PatroclusGift01|Patroclus Gift 01|Patroclus|{#DialogueItalicFormat}啊{#PreviousFormat}，你又开始同情我了。我跟这里大部分骄傲的家伙不一样，我收下了。不过，我们还是要来场公平交易，怎么样？
+PatroclusGift01|Patroclus Gift 01|Patroclus|*啊*，你又开始同情我了。我跟这里大部分骄傲的家伙不一样，我收下了。不过，我们还是要来场公平交易，怎么样？
 PatroclusGift02|Patroclus Gift 02|Patroclus|为何要在我身上浪费这样好的葡萄酒呢？我想这些问题还是不要回答的好。
 PatroclusGift02|Patroclus Gift 02|Zagreus|如果这些东西能稍微减轻哪怕一丁点你的负担，我的目的也就达到了。
 PatroclusGift03|Patroclus Gift 03|Patroclus|啊，借酒消愁。不错。我得说，你真是太好了。
@@ -239,7 +239,7 @@ PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|这么珍贵的仙馔密酒，�
 PatroclusGift07_A|Patroclus Gift 07 A|Zagreus|才不是呢，你就是我在至福乐土一直想遇到的人。我在这里见过了这么多人，几乎没人能比得上你。所以请好好享受蜜酒吧，如果能和阿喀琉斯一起的话，就再好不过了。
 PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|好吧……我会尝尝的。你知道吗？你其实并不太邪恶，陌生人。以善意待人的时候一定要小心，否则可能会损害你残忍无情的名声。
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|之前那瓶仙馔密酒已经不见了，我觉得这意味着……是时候再给你拿一瓶过来了。收下吧，先生，感谢你一次又一次地帮助我渡过难关。
-PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|你是在感谢{#DialogueItalicFormat}我{#PreviousFormat}吗，陌生人？我已经来这里一段时间了，可你们的一些习俗在我看来还是很奇怪。你为我所做的一切，已经远远超出了我应得的待遇。
+PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|你是在感谢*我*吗，陌生人？我已经来这里一段时间了，可你们的一些习俗在我看来还是很奇怪。你为我所做的一切，已经远远超出了我应得的待遇。
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|不过是瓶仙馔密酒罢了，算不上什么大不了的事情。没错，这瓶酒确实不太容易弄到，但我还是弄到了！
 PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|你在开玩笑，但我是认真的。我今生今世都对你充满感激，不过……嗯，你懂的。
 PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|在我看来，你的余生才刚刚开始。你打算让一切重新开始，是吧？你可以叫我扎格列欧斯，或者叫我陌生人，只要你叫着顺口就行。

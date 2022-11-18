@@ -53,7 +53,7 @@ ZeusAboutRumors01|Zeus About Rumors 01|Zeus|冥界にも私の逸話の数々は
 ZeusAboutKeepsake01|Zeus About Keepsake 01|Zeus|それは… 私が贈った「雷霆の印判」だな！\nその印判より響く“呼び声”は、\nオリュンポスの山頂までしかと届いたぞ。
 ZeusLowHealth01|Zeus Low Health 01|Zeus|ザグレウス、なんというひどい有様だ！\n冥界の軍勢に手を焼いているようだな。\n私が手当をしてやろう。
 ZeusLowHealth02|Zeus Low Health 02|Zeus|わが甥の危難とみて、対処中の件を中断し、\nすぐに駆けつけてやったぞ。私が助力しよう。
-ZeusLowHealth03|Zeus Low Health 03|Zeus|どうした、ザグレウス！\n体内の血を、館に忘れてきたか？{#DialogueItalicFormat}ハーッハッハッハ！{#PreviousFormat}\n…冗談はさておき、ひどいけがではないか。
+ZeusLowHealth03|Zeus Low Health 03|Zeus|どうした、ザグレウス！\n体内の血を、館に忘れてきたか？*ハーッハッハッハ！*\n…冗談はさておき、ひどいけがではないか。
 ZeusLowHealth04|Zeus Low Health 04|Zeus|好きこのんで死ぬ者はおらぬが… おまえはいつ死んでもおかしくない状態だな。だが、気を落とすでないぞ！
 ZeusLowHealth05|Zeus Low Health 05|Zeus|ザグレウス、率直に言っておまえは今、\n死んだも同然だ。だがおまえには、ステュクス川より\n這い上がり、再度挑戦する気骨があろう？
 ZeusLowHealth06|Zeus Low Health 06|Zeus|よいか、ザグレウス！おまえは人間ではない。\nくれぐれも死に癖をつけぬようにな！\nだが、どうしても死なねばならぬときは、\n英雄らしく、最期まで戦い抜いて死ね！
@@ -156,7 +156,7 @@ ZeusGift04|Zeus Gift 04|Zeus|これはまた… 申し分のない品だ。\nオ
 ZeusGift05|Zeus Gift 05|Zagreus|ゼウス叔父上… あなたの栄光をたたえ、このネクタルを捧げます。これまでに受けた多大なる加護に見合わぬ、些少な品ですが…
 ZeusGift05|Zeus Gift 05|Zeus|叔父に敬意を払うとは、じつに殊勝な心がけ。\nおまえは必ずや、オリュンポスで大成することだろう。\nこの山には、礼儀をわきまえぬ輩や、\n浅はかな者も多いゆえ。
 ZeusGift06|Zeus Gift 06|Zagreus|ゼウス叔父上… この声が届いているのなら、ささやかな供物をお受け取りください。いつの日か、叔父上と父上が和解に至ることを願っています。
-ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。おまえとはいまだ\n直接顔を合わせたことはないが、すでにじつの息子同然に思っているぞ！その気持ちは、ともすれば、おまえの\n父以上だろう！{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}この際、皆に告げて\n回るか！おまえの実父は、この私だと！
+ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。おまえとはいまだ\n直接顔を合わせたことはないが、すでにじつの息子同然に思っているぞ！その気持ちは、ともすれば、おまえの\n父以上だろう！*ハッハッハ！*この際、皆に告げて\n回るか！おまえの実父は、この私だと！
 ZeusGift06_B|Zeus Gift 06 B|Zeus|これはまた… 申し分のない供物だ。おまえと直接顔を\n合わせたことこそないが、すでにじつの息子同然に\n思っているぞ！ともすれば、私はおまえの父以上に、\nおまえを息子のように思っているだろう！この際、\n皆に告げて回るか！おまえの実父は、この私だと！
 ZeusGift07|Zeus Gift 07|Zagreus|オリュンポスの神々の王、雷神ゼウスに、ささやかな\n供物を。アンブロシアなど、オリュンポスではつまらぬものでしょうが、冥界で入手できる供物としては、\n最良です。叔父上より受けた御加護に、多少なりとも\n返礼できれば。
 ZeusGift07|Zeus Gift 07|Zeus|私に供物を捧げ敬意を示すとは、じつに殊勝な心がけ。\nとはいえ、あまり親しくしすぎるのも、いかがなものか。おまえをひいきしていると思われては、他の神々の\n嫉妬を招く。とはいえ、私がおまえに特に目をかけて\nいることは、少なくとも当面は、事実だがな…
@@ -172,4 +172,4 @@ PoseidonWithZeus01|Poseidon With Zeus 01|Poseidon|ジュニア！俺の兄貴の
 PoseidonWithZeus01|Poseidon With Zeus 01|Zeus|弟よ、私の陰口とは、不届き千万。おまえに慎み深さを期待しても無駄だろうが、われらが甥にめったなことを言うものではないぞ。
 PoseidonWithZeus01|Poseidon With Zeus 01|Poseidon|あー、とにかく！兄のゼウスは、神々の王だ！\n誰よりも男前で、強くて… その… いかにも神！\nという風情がただよっている！
 DemeterWithZeus01|Demeter With Zeus 01|Demeter|ザグレウス。名ばかりのオリュンポスの王ゼウスとも、邂逅を果たしましたね。とはいえ… 雪に覆われた\nこの山の真の統治者にふさわしいのは、彼と私、\nどちらかしら？
-DemeterWithZeus01|Demeter With Zeus 01|Zeus|ハハハ… {#DialogueItalicFormat}ご冗談を。{#PreviousFormat}ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。
+DemeterWithZeus01|Demeter With Zeus 01|Zeus|ハハハ… *ご冗談を。*ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。

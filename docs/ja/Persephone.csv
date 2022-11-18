@@ -10,7 +10,7 @@ Ending01|Ending 01|Hades|考えだと？連中を招いて、アンブロシア�
 Ending01|Ending 01|Persephone|ええ、あなたの言うとおりよ。私だけでは無理。\nだから、あなたに協力をお願いしているの。
 Ending01|Ending 01|Hades|…おまえが望むならば、\nいかなることにも応じる所存だ。
 Ending01|Ending 01|Persephone|なら、まずはザグレウスと話を。
-Ending01|Ending 01|Hades|...{#DialogueItalicFormat}うむ{#PreviousFormat}。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
+Ending01|Ending 01|Hades|...*うむ*。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
 Ending01|Ending 01|Zagreus|父上に名前で呼んでもらえるなんて！なんとも言えない気持ちです。これが父上の言う、「礼節」というものの作用ですか？
 Ending01|Ending 01|Persephone|ふたりとも、やめて！\nハデスも、せっかくの機会を台無しにしないで。\nもっと素直に向き合ってちょうだい。\n私のことではなく、自分のことを話すの。
 Ending01|Ending 01|Hades|…ザグレウスよ。私はたしかに、おのれの苛立ちを\nおまえにぶつける嫌いがあった。気長に見守ってやる\nこともせず、おまえの判断を頭ごなしに否定することも\n常であった。みずからの誤った判断を棚に上げ…\n弁解の余地もない。許しを乞うつもりもない。
@@ -27,11 +27,11 @@ Ending01|Ending 01|Persephone|それと、地上にいるあいだに、私の�
 Ending01|Ending 01|Zagreus|ハハハ… わかりました、やってみます。
 Ending01|Ending 01|Persephone|できるかぎりでいいのよ。さて。私もいろいろと\nやることがあるし、お互い、忙しくなりそうね。\nそうと決まったら、さっそく仕事にかかりましょうか？
 Ending01|Ending 01|Zagreus|…あれからまだ、ほんの数日。でも、今のところ万事順調だ。母上と父上はまたいっしょに暮らすようになって、俺も新しい友人ができた。しかも、こんな立派な肖像画まで手に入るなんて… めでたしめでたし、だな！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。
-Flashback05|Flashback 05|Persephone|{#DialogueItalicFormat}ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。
+Flashback05|Flashback 05|Storyteller|*しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。*
+Flashback05|Flashback 05|Persephone|*ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。*
+Flashback05|Flashback 05|Storyteller|*こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。*
 Flashback05|Flashback 05|Zagreus|「みずからの母」… ？ってことは… \nこの「ペルセポネ」が、俺の…？でも父上は、\n俺の母親はニュクスだと… 父上もニュクスも、\n俺をずっとだましてたのか…！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…
+Flashback05|Flashback 05|Storyteller|*…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…*
 AchillesWithPersephone01|Achilles With Persephone 01|Persephone|…英雄アキレウス！この館の近衛兵を務めてくださっているそうですね。お目にかかれて光栄です。\n何かいさかいが起きても、あなたがいれば安心ですね。聞けば、息子に武術の指南をしてくださったとか。
 AchillesWithPersephone01|Achilles With Persephone 01|Achilles|さようにございます。ご子息は、じつに才能あふれる\n弟子でございました。その立派なご成長ぶり、\n女王陛下にもご覧に入れたかった…
 AchillesWithPersephone01|Achilles With Persephone 01|Persephone|今こうして、立派に成長した姿を見られるだけで、胸がいっぱいです。私がオリュンポスで暮らしていた頃から\nあなたは地上で勇名を馳せていましたね。あなたの\n伝説は、今も広く語り継がれていることでしょう。
@@ -319,10 +319,10 @@ PersephoneWithNyx02|Persephone With Nyx 02|Persephone|…あなたには、本�
 PersephoneWithNyx02|Persephone With Nyx 02|Nyx|私も、同様の感情を、時折覚えました。ですが、\n私に感謝の言葉を掛けてくださる必要はありません。\nあなたは、本来の居場所に無事帰還を果たした女王。\n私は、当然のことをしたまでです。
 PersephoneWithNyx02|Persephone With Nyx 02|Persephone|あなたは、私の秘密を誰にも明かさず、母親と離れた\n息子を育てて、その息子と母親を引き合わせるために\n壮大な計画まで実行したのよ？おかげで私は冥界に\n戻って、酒場でみんなとネクタルまで酌み交わせた。\nちっとも“当然のこと”なんかじゃないわ。
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|ケルベロス！この館が今もこうして栄えているのは、\nおまえのおかげね。地上から持ってきたお土産、\n食べてくれたかしら？
-PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|{#DialogueItalicFormat}地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。
+PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|*地上土産を平らげた地獄の番犬は、\n女王に向けて、はっきりと首肯して見せた。*
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|きっと気に入ってくれると思ったの。\nあれがお肉じゃないなんて、気づかなかったでしょう？\nここでも材料を育てられないか、試してみるわね。
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|ケルベロス、あなたは本当にお利口ね。\n私がいないあいだも冥界の番をして、ザグレウスが\n私を訪ねてこられるように、協力もしてくれて…！
-PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。
+PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|*忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。*
 PersephoneChat01|Persephone Chat 01|Persephone|ザグレウス、ごめんなさい。今は急ぎの用事があるの。
 PersephoneChat02|Persephone Chat 02|Persephone|私にできることがあれば、いつでも頼ってちょうだい。
 PersephoneChat03|Persephone Chat 03|Persephone|あなたの父上は、\nあれでもあなたを誇りに思っているのよ。

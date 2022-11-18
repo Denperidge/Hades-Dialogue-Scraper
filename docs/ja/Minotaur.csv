@@ -57,7 +57,7 @@ MinotaurExtremeMeasuresWinStreak01|Minotaur Extreme Measures Win Streak 01|Minot
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Minotaur|小さき者よ、我が身に授かった神力は失われたが、\n身体の自由を奪う鎧も消え去った。
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Zagreus|気分転換になっていいのでは？\n自分の身体ぴったりにあつらえた鎧なんて、\nあってもなくても、どうせ同じことだ。
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Minotaur|身体の自由を奪われ、永遠の虜囚となる苦しみ、\nおまえにはわかるまい。\nおまえごときとの戦いに、鎧など不要だ。
-MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|小さき者は、いまだに、武具に言葉をかけていない。\n告げる言葉は、\n{#DialogueItalicFormat}「われは見る。野性を制し、死と結ぶ、そなたの姿を」{#PreviousFormat}。\nこの言葉に、間違いはない。
+MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|小さき者は、いまだに、武具に言葉をかけていない。\n告げる言葉は、\n*「われは見る。野性を制し、死と結ぶ、そなたの姿を」*。\nこの言葉に、間違いはない。
 MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Zagreus|ここ最近、いろいろと忙しかった。雑用が片づき次第、唱えてみよう。あなたも、その結果を知りたいのでは？
 MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|ぜひ、知らせてほしい。一瞬で館へ帰してやる。\nさっそく試してみるといい。
 MinotaurAboutGilgameshAspect02|Minotaur About Gilgamesh Aspect 02|Minotaur|おまえが両手に帯びるその武具…\nマルフォンと言ったか。私の夢に現れた際と\n同じ姿をとっている。魔物のような… 私のような姿だ。
@@ -85,7 +85,7 @@ MinotaurPactHighHeatReaction01|Minotaur Pact High Heat Reaction 01|Minotaur|そ�
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|小さき者よ、再び私と一戦交えに来たか。\nだがその顔は… 私に何か尋ねたいことでも？
 MinotaurAutograph01|Minotaur Autograph 01|Zagreus|じつは… 眠りの神ヒュプノスが、あなたに\n憧れていて… サインをもらってほしいと、\nしつこくせがまれている。差し支えなければ、\nメッセージ付きで一筆もらっても？こんなことを\n頼むのは気が引けるが… 友人の喜ぶ顔も見たい。
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|なるほど… 私を庇護する神がいるのならば、\n名誉なこと。では、一筆したためるとしよう。
-MinotaurAutograph01|Minotaur Autograph 01|Storyteller|{#DialogueItalicFormat}神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。
+MinotaurAutograph01|Minotaur Autograph 01|Storyteller|*神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。*
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|…あくまで、おまえの頼みに応えたまで。\nヒュプノスみずから私に挑戦する気になれば、\nいつでも受けて立つと伝えてほしい。
 MinotaurAboutFistWeapon01|Minotaur About Fist Weapon 01|Minotaur|フン… 今回は、素手で戦うと？生前私は、武器を帯びぬエリュシオンの覇者にくだされた。強者と公正な勝負をして敗れたことを、むしろ誇りに思っている。
 MinotaurAboutFistWeapon01|Minotaur About Fist Weapon 01|Zagreus|双拳マルフォンを装備しているから、厳密には素手ではないが… 徒手であなたを倒せるとは、驚きだ。
@@ -102,7 +102,7 @@ MinotaurAboutSkelly01|Minotaur About Skelly 01|Zagreus|え…？じゃあ、ス�
 MinotaurAboutSkelly01|Minotaur About Skelly 01|Minotaur|ああ。そうしよう。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|小さき者よ、歓迎する。この時を夢に見ていた。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Zagreus|アステリウス、あなたとはもう、\n数え切れないほど戦ってきた。\n「夢に見た」は大げさでは？
-MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|実際に、夢に見たのだ。その夢の中で、\nおまえに伝えるべき言葉を知った。その言葉を、\nおまえは、両手に帯びる武具に伝えねばならない。\n{#DialogueItalicFormat}「われは見る。野性を制し、死と結ぶ、そなたの姿を」{#PreviousFormat}。
+MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|実際に、夢に見たのだ。その夢の中で、\nおまえに伝えるべき言葉を知った。その言葉を、\nおまえは、両手に帯びる武具に伝えねばならない。\n*「われは見る。野性を制し、死と結ぶ、そなたの姿を」*。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Zagreus|なるほど、覚醒の呪文か。それをマルフォンに\n伝えろというわけだな。でも、なぜ教えてくれる？\n敵を利することになるのに…
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|おまえを利することになるかは、わからない。\nだが、その夢の中で、古の英雄が、\n徒手で獣人と戦う様を見た。彼らは死闘を繰り広げ、\nそののち、友となった。私も、そのような戦いを望む。
 MinotaurClearProgress01|Minotaur Clear Progress 01|Minotaur|小さき者よ、おまえは繰り返し、私の前に現れる。\nなぜだ。おまえの目的は、冥界を脱することでは\nないのか。この先で、何者かに殺されているのか。

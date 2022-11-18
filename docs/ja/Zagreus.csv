@@ -10,7 +10,7 @@ Ending01|Ending 01|Hades|考えだと？連中を招いて、アンブロシア�
 Ending01|Ending 01|Persephone|ええ、あなたの言うとおりよ。私だけでは無理。\nだから、あなたに協力をお願いしているの。
 Ending01|Ending 01|Hades|…おまえが望むならば、\nいかなることにも応じる所存だ。
 Ending01|Ending 01|Persephone|なら、まずはザグレウスと話を。
-Ending01|Ending 01|Hades|...{#DialogueItalicFormat}うむ{#PreviousFormat}。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
+Ending01|Ending 01|Hades|...*うむ*。ザグレウスよ、すでに承知と心得るが、\nペルセポネは、この冥界の王妃だ。\n御前では、礼を欠くことのなきよう。
 Ending01|Ending 01|Zagreus|父上に名前で呼んでもらえるなんて！なんとも言えない気持ちです。これが父上の言う、「礼節」というものの作用ですか？
 Ending01|Ending 01|Persephone|ふたりとも、やめて！\nハデスも、せっかくの機会を台無しにしないで。\nもっと素直に向き合ってちょうだい。\n私のことではなく、自分のことを話すの。
 Ending01|Ending 01|Hades|…ザグレウスよ。私はたしかに、おのれの苛立ちを\nおまえにぶつける嫌いがあった。気長に見守ってやる\nこともせず、おまえの判断を頭ごなしに否定することも\n常であった。みずからの誤った判断を棚に上げ…\n弁解の余地もない。許しを乞うつもりもない。
@@ -27,11 +27,11 @@ Ending01|Ending 01|Persephone|それと、地上にいるあいだに、私の�
 Ending01|Ending 01|Zagreus|ハハハ… わかりました、やってみます。
 Ending01|Ending 01|Persephone|できるかぎりでいいのよ。さて。私もいろいろと\nやることがあるし、お互い、忙しくなりそうね。\nそうと決まったら、さっそく仕事にかかりましょうか？
 Ending01|Ending 01|Zagreus|…あれからまだ、ほんの数日。でも、今のところ万事順調だ。母上と父上はまたいっしょに暮らすようになって、俺も新しい友人ができた。しかも、こんな立派な肖像画まで手に入るなんて… めでたしめでたし、だな！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。
-Flashback05|Flashback 05|Persephone|{#DialogueItalicFormat}ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。
+Flashback05|Flashback 05|Storyteller|*しかしひとつだけ… 王子には見覚えのない\n筆跡と調子でつづられた書き付けがあった。*
+Flashback05|Flashback 05|Persephone|*ハデス。もう耐えられません。死ぬことになっても\nかまわない。私は出ていきます。オリュンポスには、\n戻りません。この世界に私の居場所があるなら、\nきっと、天界と冥界の狭間のどこか。ささやかな\n庭のある、海辺の地でしょう。ケルベロスのこと、\nよろしくお願いします。*
+Flashback05|Flashback 05|Storyteller|*こうして冥界の王子ザグレウスは、みずからの母が\nしたためた秘密の手紙の内容を知ったのだった。*
 Flashback05|Flashback 05|Zagreus|「みずからの母」… ？ってことは… \nこの「ペルセポネ」が、俺の…？でも父上は、\n俺の母親はニュクスだと… 父上もニュクスも、\n俺をずっとだましてたのか…！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…
+Flashback05|Flashback 05|Storyteller|*…。\nこうしてザグレウスは、厳重に隠匿されてきた、\nみずからの出自の真相を知ったのだった。\nそれは、完全なる偶然のできごとであった…*
 MegaeraBedroom01|Megaera Bedroom 01|Zagreus|メグ… 俺の部屋で何してる？人の部屋をかぎまわるのが趣味か？ それとも、俺に用か？
 MegaeraBedroom01|Megaera Bedroom 01|Megaera|落ち着け。いま帰るところだ。\n近くまで来たから、置いたままにしていた\n私物を引き取りに寄っただけのこと。\nそれにしても… ひどい散らかりようだな。
 MegaeraBedroom01|Megaera Bedroom 01|Zagreus|…本当に帰ったな。ということは… \n次に会うときはまた、殺し合いか。
@@ -62,8 +62,8 @@ Text|Text|Megaera|…そうなのか？それならかまわない。\nでは、
 Text|Text|Zagreus|…ああ。俺はときどき、事を急ぎすぎる嫌いがある。\nおまえとよい関係を築けていることはありがたいが、\nちょっと強引すぎたかもしれない、申し訳なかった。\nおまえは大切な友人だ。おまえも、他の誰かも、\n傷つけたくはない。
 Text|Text|Thanatos|…そうか。承知した。俺にとっても、おまえは\nかけがえのない友だ。ここ最近は、その関係が\nおびやかされることも多かった。俺はただ、\nおまえの無事を願っている。…では、失敬。
 Text|Text|Zagreus|…ああ、またな。
-Text|Text|Zagreus|タナトス… {#DialogueItalicFormat}ハハ… {#PreviousFormat} 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
-Text|Text|Thanatos|{#DialogueItalicFormat}フン… {#PreviousFormat}メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
+Text|Text|Zagreus|タナトス… *ハハ… * 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
+Text|Text|Thanatos|*フン… *メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
 Text|Text|Zagreus|ハッ！そういうことか。
 Text|Text|Thanatos|そうか… 承知した。では、俺は仕事に戻るとしよう。
 Text|Text|Zagreus|…ああ、またな。
@@ -79,8 +79,8 @@ BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|私たちは�
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス…！もう来てくれたのか。頼んだのは俺だが… うれしいよ。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|ひとつ、確認させてほしい。\nおまえは、「距離を置きたい」と言った。\nあれは、本心か？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|俺はただ… あまり強引に迫るようなことはしたくない\nだけだ。決して衝動に任せて言っているわけではないし\nおいそれと答えは出せないだろう。おまえが\n納得するまで、俺はいつまででも待つつもりだ。
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|{#DialogueItalicFormat}まったく… {#PreviousFormat}おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… {#DialogueItalicFormat}ハハ… {#PreviousFormat}たしかに、そのとおりだな！
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|*まったく… *おまえは何もわかっていない…\n衝動に任せて行動することも、ときには必要だ。\n「いつまででも待つ」？いったい何をだ。\n俺はもう、ここにいるというのに…
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… *ハハ… *たしかに、そのとおりだな！
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|タナトス… どうした？\nそんなふうに黙り込まれると不安になる。\n考え事か？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|俺はいつも、山のように考え事をしている。\n慣れてもらうほかない。いや… 俺が黙りこくって\nいても、心配にはおよばない、ということだ。\nそろそろ行かなくては。仕事が遅れている。\nまた会おう。おまえさえよければ。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|ああ。もちろんだよ。
@@ -218,7 +218,7 @@ SkellyAboutWeaponEnchantments02|Skelly About Weapon Enchantments 02|Zagreus|無�
 SkellyAboutWeaponEnchantments02|Skelly About Weapon Enchantments 02|Skelly|どうもこうも！あの武具が不気味になればなるほど、\nあっしは怖くてじっとしちゃあいられない。おかげで\n身体がなまらない！坊ちゃんが戻ったときには、\nベストコンディションで手合わせできやす。\nありがたいことでごぜえやすよ！
 SkellyAboutFistWeapon01|Skelly About Fist Weapon 01|Zagreus|スケリー、双拳マルフォンがどうしてこの中庭に現れたのか、教えてくれたりは… しないよな？
 SkellyAboutFistWeapon01|Skelly About Fist Weapon 01|Skelly|あっしの知ったこっちゃありやせんし、なぁんも\n見ちゃおりませんよ！仮に見てたとしたって、\nそれを坊ちゃんに教えることは、あっしの仕事じゃ\nございやせん。館に勤める、見張り担当の者にでも\n聞いたらどうです？
-SkellyAboutGuanYuAspect01|Skelly About Guan Yu Aspect 01|Skelly|坊ちゃん、聞いてくだせえ！前に坊ちゃんが\nおっしゃってた、{#DialogueItalicFormat}紅き鳳{#PreviousFormat}がどうしたこうしたっていう\nアレですがね、チンプンカンプンの呪文を唱えただけで新品の槍が手に入るだなんておったまげちまいやして…\nあっしもやってみることにしたんでございやす！
+SkellyAboutGuanYuAspect01|Skelly About Guan Yu Aspect 01|Skelly|坊ちゃん、聞いてくだせえ！前に坊ちゃんが\nおっしゃってた、*紅き鳳*がどうしたこうしたっていう\nアレですがね、チンプンカンプンの呪文を唱えただけで新品の槍が手に入るだなんておったまげちまいやして…\nあっしもやってみることにしたんでございやす！
 SkellyAboutGuanYuAspect01|Skelly About Guan Yu Aspect 01|Zagreus|スケリー… 何をやらかしてくれたんだ？
 SkellyAboutGuanYuAspect01|Skelly About Guan Yu Aspect 01|Skelly|またそんな怖い顔して！ご安心くだせえ。あっしは\nただ、坊ちゃんがお留守のあいだに、そこのバカでかい盆みたいな盾に例の呪文をつぶやいてみただけで\nごぜえやす。「われは見る。紅き鳳の目を通じ、そなたの姿を」ってね… そしたらどうなったと思いやす？
 SkellyAboutGuanYuAspect01|Skelly About Guan Yu Aspect 01|Zagreus|運命の三女神からじきじきに授かった呪文を、\n開闢とともに鍛えられた冥府の武具に、軽々しく\n唱えたわけか… アイギスのそばまで歩いていったのか？\nそれとも、そこから肩越しにでも唱えたのか？
@@ -269,7 +269,7 @@ SkellyTrueDeathQuestComplete|Skelly True Death Quest Complete|Zagreus|また一�
 SkellyTrueDeathQuestComplete|Skelly True Death Quest Complete|Skelly|いやいやいやちょっと待ってくだせえ！\nただの冗談でごぜえやすよ？\nちょっと場を和ませようと思っただけで！\n早まらないでくだせえ！
 FurySistersUnion01|Fury Sisters Union 01|Megaera|ザグレウス。\n妹たちと話し合い、互いに協力することにした。
 FurySistersUnion01|Fury Sisters Union 01|Alecto|メガイラ、ティシポネ、準備はいいかい？
-FurySistersUnion01|Fury Sisters Union 01|Tisiphone|{#DialogueItalicFormat}殺シィ…！{#PreviousFormat}
+FurySistersUnion01|Fury Sisters Union 01|Tisiphone|*殺シィ…！*
 FurySistersUnion01|Fury Sisters Union 01|Zagreus|三対一か… ちょっと卑怯じゃないか？
 FurySistersUnion01|Fury Sisters Union 01|Megaera|お互い、いまさら公正な戦いに\nこだわる意味がどこにある？\nおまえを殺すためなら、私は手段を選ばない。\nわれわれエリニュス三姉妹が相手をしてやる。
 FurySistersUnion02|Fury Sisters Union 02|Megaera|どうした、ザグレウス。気まずそうな顔をして。\n私に話があるのか？それとも、妹たちに用が？
@@ -541,60 +541,60 @@ Fury2LoseStreak03|Fury 2 Lose Streak 03|Alecto|ハハ… アハハハハハハ�
 Fury2LoseStreak04|Fury 2 Lose Streak 04|Alecto|これはこれは… またゴミの神が、ここいらを汚しに\n現れたね。行動がワンパターンすぎて、\nちっともおもしろみがないよ。
 Fury2LoseStreak04|Fury 2 Lose Streak 04|Zagreus|ひとの心配してる場合か？前回俺に倒されたってことは、そっちこそ行動がワンパターンなんじゃ？
 Fury2LoseStreak04|Fury 2 Lose Streak 04|Alecto|ゴミの分際で、偉そうな口利くんじゃないよ！\nおまえは血を流していればいい。\nわかったら、さっさと掛かってきな！
-Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|{#DialogueItalicFormat}殺シ… 殺シィ…
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|*殺シ… 殺シィ…*
 Fury3FirstAppearance|Fury 3 First Appearance|Zagreus|メグの妹だな？ザグレウスだ。よろしく。俺の名前は\n「殺シ」じゃないし、人殺しもしてない。
-Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|殺シ… {#DialogueItalicFormat}殺シィ…！
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|殺シ… *殺シィ…！*
 Fury3FirstAppearance|Fury 3 First Appearance|Zagreus|いや… たしかに俺は、いろいろ悪いこともやらかして\nきた。でも、人殺しだけは、誓ってやってない。
-Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|{#DialogueItalicFormat}殺… 殺シィィィィ…！
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|*殺… 殺シィィィィ…！*
 Fury3PostEnding01|Fury 3 Post Ending 01|Zagreus|ティシポネ、今日は仕事で来たんだ。\nできれば、そこをどいて…\nいや、この仕事の目的を果たすには、君にも全力で\n俺を止めようとしてもらわないと、意味がないか…
-Fury3PostEnding01|Fury 3 Post Ending 01|Tisiphone|殺、シ… シ… {#DialogueItalicFormat}シィィィ…{#PreviousFormat}
+Fury3PostEnding01|Fury 3 Post Ending 01|Tisiphone|殺、シ… シ… *シィィィ…*
 Fury3PostEpilogue01|Fury 3 Post Epilogue 01|Zagreus|館での宴に参加してもらえなくて、残念だ。\nまあ、君はああいう席には興味がないかも…\nいや、アレスがいたか。あいつはたぶん、\n確実に何人か殺してる。
-Fury3PostEpilogue01|Fury 3 Post Epilogue 01|Tisiphone|殺シ…？殺シィ。{#DialogueItalicFormat}殺シ！{#PreviousFormat}
-Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|{#DialogueItalicFormat}殺… シ…？{#PreviousFormat}
+Fury3PostEpilogue01|Fury 3 Post Epilogue 01|Tisiphone|殺シ…？殺シィ。*殺シ！*
+Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|*殺… シ…？*
 Fury3Encounter01|Fury 3 Encounter 01|Zagreus|…いや、「殺シ」は、ナシにしないか？\n殺シ、ナシ！
-Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|{#DialogueItalicFormat}殺… シ…{#PreviousFormat}
+Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|*殺… シ…*
 Fury3Encounter02|Fury 3 Encounter 02|Tisiphone|殺シ…？殺シ、殺シィ…！
 Fury3Encounter02|Fury 3 Encounter 02|Zagreus|なあ、せっかくだから、殺し以外の話をしないか？
-Fury3Encounter02|Fury 3 Encounter 02|Tisiphone|殺シィ… {#DialogueItalicFormat}殺シィ…！{#PreviousFormat}
+Fury3Encounter02|Fury 3 Encounter 02|Tisiphone|殺シィ… *殺シィ…！*
 Fury3Encounter03|Fury 3 Encounter 03|Tisiphone|コ…  コ…  殺…！
 Fury3Encounter03|Fury 3 Encounter 03|Zagreus|「殺シ」、だろ？ 君の言いたいことはわかってるよ。
 Fury3Encounter03|Fury 3 Encounter 03|Tisiphone|殺シ… 殺シィ…！！
 Fury3Encounter04|Fury 3 Encounter 04|Tisiphone|殺… 殺… シィ…
 Fury3Encounter04|Fury 3 Encounter 04|Zagreus|俺は誰も殺してない。そこをどいてくれ。
 Fury3Encounter04|Fury 3 Encounter 04|Tisiphone|殺シ… 殺…シィ…！
-Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|殺シィ… 殺シ。殺シ。{#DialogueItalicFormat}殺シ！{#PreviousFormat}
+Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|殺シィ… 殺シ。殺シ。*殺シ！*
 Fury3Encounter05|Fury 3 Encounter 05|Zagreus|話が通じないな… できれば戦いたくないが、\nしかたない。
-Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|殺シ。{#DialogueItalicFormat}殺シィィ！！{#PreviousFormat}
-Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|殺シ？{#DialogueItalicFormat}殺シ…？{#PreviousFormat}殺シ…
+Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|殺シ。*殺シィィ！！*
+Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|殺シ？*殺シ…？*殺シ…
 Fury3Encounter06|Fury 3 Encounter 06|Zagreus|悪いが、人違いだ。君は父上に、俺を足止めしろと\n命じられてるだけだろう？
-Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|殺シ… 殺シ。{#DialogueItalicFormat}殺シィ！{#PreviousFormat}
-Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|殺… 殺… シィ… {#DialogueItalicFormat}殺シィィ！{#PreviousFormat}
+Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|殺シ… 殺シ。*殺シィ！*
+Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|殺… 殺… シィ… *殺シィィ！*
 Fury3Encounter07|Fury 3 Encounter 07|Zagreus|「殺し」じゃない。ザグレウスだ。\n俺の名前は、ザグレウス。\nほら、言ってみろ。「ザグレウス」！
-Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|殺… シィ… {#DialogueItalicFormat}ザァ{#PreviousFormat}…
+Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|殺… シィ… *ザァ*…
 Fury3Encounter08|Fury 3 Encounter 08|Tisiphone|殺、殺… シィ… ザァァ！
 Fury3Encounter08|Fury 3 Encounter 08|Zagreus|今、「殺し、ザ」って言ったよな？\nいいぞ、その調子だ！「ザグレウス」。\n俺はザグレウスだ、誰も殺してない。\n「ザグレウス」って、言えるか？
-Fury3Encounter08|Fury 3 Encounter 08|Tisiphone|シィ… ザァ… ザー… ザー… {#DialogueItalicFormat}グゥ… ィ…！{#PreviousFormat}
+Fury3Encounter08|Fury 3 Encounter 08|Tisiphone|シィ… ザァ… ザー… ザー… *グゥ… ィ…！*
 Fury3Encounter09|Fury 3 Encounter 09|Tisiphone|ザー… ザ… ザァ… グ…！
 Fury3Encounter09|Fury 3 Encounter 09|Zagreus|ティシポネ。俺のこと、わかるか？冥界の王子、\nザグレウスだ。メガイラとは、そこそこ知った仲で… \nもう一度、「ザグレウス」って言えるか？
 Fury3Encounter09|Fury 3 Encounter 09|Tisiphone|ザ… グ… ザー… ザー… グレ… シィス…？
-Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|{#DialogueItalicFormat}ザアァァァ… シィィ…ィィ… {#PreviousFormat}ザァ… シィ…
+Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|*ザアァァァ… シィィ…ィィ… *ザァ… シィ…
 Fury3Encounter10|Fury 3 Encounter 10|Zagreus|そう！俺はザグレウスだ。\nだいぶ言えるようになったじゃないか。\n俺は敵じゃなくて、ただの「ザグレウス」。わかるか？
-Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|ザアァァァ… グレェ… ウス… ザアグレーゥス！\n{#DialogueItalicFormat}ザアグレゥス{#PreviousFormat}！！
-Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|{#DialogueItalicFormat}ザァグレゥス… {#PreviousFormat}殺… 殺シィィ…
+Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|ザアァァァ… グレェ… ウス… ザアグレーゥス！\n*ザアグレゥス*！！
+Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|*ザァグレゥス… *殺… 殺シィィ…
 Fury3Encounter11|Fury 3 Encounter 11|Zagreus|いや、最初の部分だけでいい。\n「殺し」は、いらないんだ。\nそれじゃあ… 「楽しい」って言えるか？\n「楽しい」、わかるか？
-Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|殺… {#DialogueItalicFormat}ザ… シィィィ{#PreviousFormat}…
-Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|殺シィ… ザァグレゥス… {#DialogueItalicFormat}殺シィィィ{#PreviousFormat}…
+Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|殺… *ザ… シィィィ*…
+Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|殺シィ… ザァグレゥス… *殺シィィィ*…
 Fury3Encounter12|Fury 3 Encounter 12|Zagreus|いや、そうじゃなくて… 「楽しい」って、言えるか？\n「た・の・し・い」、だ。\n「殺し」は、つけなくていい。
-Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|殺シィ… 殺ス… {#DialogueItalicFormat}ザァグレゥス！{#PreviousFormat}
-Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|殺、{#DialogueItalicFormat}殺シィィィ{#PreviousFormat}… ザ… ザアァグ…
+Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|殺シィ… 殺ス… *ザァグレゥス！*
+Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|殺、*殺シィィィ*… ザ… ザアァグ…
 Fury3Encounter13|Fury 3 Encounter 13|Zagreus|「楽しい」も無理か… やっぱり、俺を殺そうとすることは、やめてくれそうにないな。まあいい。名前を覚えてもらえただけでも、大きな進歩だ。
-Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|{#DialogueItalicFormat}殺シィィィ… ザァグレゥス{#PreviousFormat}…
-Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|殺、殺、シィィ… {#DialogueItalicFormat}殺シィィィィ{#PreviousFormat}…
+Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|*殺シィィィ… ザァグレゥス*…
+Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|殺、殺、シィィ… *殺シィィィィ*…
 Fury3Encounter14|Fury 3 Encounter 14|Zagreus|また振り出しに戻ったな… 俺が「ザグレウス」だの\n「楽しい」だの言わせようとしたのは、\n君と意思疎通がしたかったからだ。この話も\n通じてるのかわからないが… 君は今のまま、君らしく\nいればいいと思う。これからも、よろしくな。
-Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|ザァグ… ザァァ…グ… {#DialogueItalicFormat}ザァ…シィィィィ！{#PreviousFormat}
-Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|ザ… ザァ… {#DialogueItalicFormat}ザァググレウス？{#PreviousFormat}殺シィィ？
+Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|ザァグ… ザァァ…グ… *ザァ…シィィィィ！*
+Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|ザ… ザァ… *ザァググレウス？*殺シィィ？
 Fury3Encounter15|Fury 3 Encounter 15|Zagreus|一応、聞くが… やっぱり、「楽しい」って言えるようになりたくないか？念のため確認してるだけだ。無理強いするつもりはない。
-Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|ザグレゥス、{#DialogueItalicFormat}殺シィィ！{#PreviousFormat}
+Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|ザグレゥス、*殺シィィ！*
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Theseus|ハッハッハッハ！アステリウス、ついにこの時が\nやってきたぞ！卑しき冥府の申し子が、\nわれらに成敗されるべく、再び姿を現した！
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Zagreus|その真鍮の二輪馬車は… タウラムダ！？\nマケドニアで造られた、史上最高強度を誇る\n兵器のはず… あんたみたいに\n文句を言うぐらいしか能のない奴が、どうして…
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Theseus|答える義務はない！アステリウスと私は\n見事な働きをした！ゆえに、褒美を賜ったのだ！\n努力の末に手に入れたこの馬車で、\n貴様を轢きつぶしてくれる！ありがたく思うがよい！
@@ -726,7 +726,7 @@ MinotaurExtremeMeasuresWinStreak01|Minotaur Extreme Measures Win Streak 01|Minot
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Minotaur|小さき者よ、我が身に授かった神力は失われたが、\n身体の自由を奪う鎧も消え去った。
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Zagreus|気分転換になっていいのでは？\n自分の身体ぴったりにあつらえた鎧なんて、\nあってもなくても、どうせ同じことだ。
 MinotaurPactReverted01|Minotaur Pact Reverted 01|Minotaur|身体の自由を奪われ、永遠の虜囚となる苦しみ、\nおまえにはわかるまい。\nおまえごときとの戦いに、鎧など不要だ。
-MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|小さき者は、いまだに、武具に言葉をかけていない。\n告げる言葉は、\n{#DialogueItalicFormat}「われは見る。野性を制し、死と結ぶ、そなたの姿を」{#PreviousFormat}。\nこの言葉に、間違いはない。
+MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|小さき者は、いまだに、武具に言葉をかけていない。\n告げる言葉は、\n*「われは見る。野性を制し、死と結ぶ、そなたの姿を」*。\nこの言葉に、間違いはない。
 MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Zagreus|ここ最近、いろいろと忙しかった。雑用が片づき次第、唱えてみよう。あなたも、その結果を知りたいのでは？
 MinotaurAboutGilgameshAspect01|Minotaur About Gilgamesh Aspect 01|Minotaur|ぜひ、知らせてほしい。一瞬で館へ帰してやる。\nさっそく試してみるといい。
 MinotaurAboutGilgameshAspect02|Minotaur About Gilgamesh Aspect 02|Minotaur|おまえが両手に帯びるその武具…\nマルフォンと言ったか。私の夢に現れた際と\n同じ姿をとっている。魔物のような… 私のような姿だ。
@@ -754,7 +754,7 @@ MinotaurPactHighHeatReaction01|Minotaur Pact High Heat Reaction 01|Minotaur|そ�
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|小さき者よ、再び私と一戦交えに来たか。\nだがその顔は… 私に何か尋ねたいことでも？
 MinotaurAutograph01|Minotaur Autograph 01|Zagreus|じつは… 眠りの神ヒュプノスが、あなたに\n憧れていて… サインをもらってほしいと、\nしつこくせがまれている。差し支えなければ、\nメッセージ付きで一筆もらっても？こんなことを\n頼むのは気が引けるが… 友人の喜ぶ顔も見たい。
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|なるほど… 私を庇護する神がいるのならば、\n名誉なこと。では、一筆したためるとしよう。
-MinotaurAutograph01|Minotaur Autograph 01|Storyteller|{#DialogueItalicFormat}神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。
+MinotaurAutograph01|Minotaur Autograph 01|Storyteller|*神に見放された怪人ミノタウロスは、\n眠りの神への言づてをしたため、\nザグレウス王子に手渡した。*
 MinotaurAutograph01|Minotaur Autograph 01|Minotaur|…あくまで、おまえの頼みに応えたまで。\nヒュプノスみずから私に挑戦する気になれば、\nいつでも受けて立つと伝えてほしい。
 MinotaurAboutFistWeapon01|Minotaur About Fist Weapon 01|Minotaur|フン… 今回は、素手で戦うと？生前私は、武器を帯びぬエリュシオンの覇者にくだされた。強者と公正な勝負をして敗れたことを、むしろ誇りに思っている。
 MinotaurAboutFistWeapon01|Minotaur About Fist Weapon 01|Zagreus|双拳マルフォンを装備しているから、厳密には素手ではないが… 徒手であなたを倒せるとは、驚きだ。
@@ -771,7 +771,7 @@ MinotaurAboutSkelly01|Minotaur About Skelly 01|Zagreus|え…？じゃあ、ス�
 MinotaurAboutSkelly01|Minotaur About Skelly 01|Minotaur|ああ。そうしよう。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|小さき者よ、歓迎する。この時を夢に見ていた。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Zagreus|アステリウス、あなたとはもう、\n数え切れないほど戦ってきた。\n「夢に見た」は大げさでは？
-MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|実際に、夢に見たのだ。その夢の中で、\nおまえに伝えるべき言葉を知った。その言葉を、\nおまえは、両手に帯びる武具に伝えねばならない。\n{#DialogueItalicFormat}「われは見る。野性を制し、死と結ぶ、そなたの姿を」{#PreviousFormat}。
+MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|実際に、夢に見たのだ。その夢の中で、\nおまえに伝えるべき言葉を知った。その言葉を、\nおまえは、両手に帯びる武具に伝えねばならない。\n*「われは見る。野性を制し、死と結ぶ、そなたの姿を」*。
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Zagreus|なるほど、覚醒の呪文か。それをマルフォンに\n伝えろというわけだな。でも、なぜ教えてくれる？\n敵を利することになるのに…
 MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|おまえを利することになるかは、わからない。\nだが、その夢の中で、古の英雄が、\n徒手で獣人と戦う様を見た。彼らは死闘を繰り広げ、\nそののち、友となった。私も、そのような戦いを望む。
 MinotaurClearProgress01|Minotaur Clear Progress 01|Minotaur|小さき者よ、おまえは繰り返し、私の前に現れる。\nなぜだ。おまえの目的は、冥界を脱することでは\nないのか。この先で、何者かに殺されているのか。
@@ -850,7 +850,7 @@ LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Zagreus|しかるべ
 LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Hades|よかろう。私の大槍ギガロスには、忌まわしき\n曰くなどない。武具として格上であることも明らか。\n大仰に姿形を変えずとも、おまえを刺し殺すには\n十分だ。いざ、尋常に勝負！
 LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|おまえが帯びるその剣、スティギウスには、\n特に思い入れはなかった。わが弟ポセイドンが\n携えた際の、不格好な態の印象が強いせいもあろう。\nおまえの手中にある今は、ずいぶんと印象が異なるが。
 LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Zagreus|スティギウスとの絆が深まったせいでしょう。\nおかげで、この剣の秘められた態を知ることもできた。\nこれは「アーサー」という男の態です。\nよければ、俺から父上を「紹介」させてください。
-LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|{#DialogueItalicFormat}アーサー{#PreviousFormat}だと？私の知り得るいかなる地にも、\nそのような名の神や王は思い当たらぬ。よかろう… \nこの無知蒙昧の徒に、その刃の切れ味を示してみよ。
+LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|*アーサー*だと？私の知り得るいかなる地にも、\nそのような名の神や王は思い当たらぬ。よかろう… \nこの無知蒙昧の徒に、その刃の切れ味を示してみよ。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|弓は臆病者の得物。ヘラにも直接、そう告げた\nことがある。その点、おまえにはふさわしき武具と\n言えよう。だがその弓… ヘラが携えていた頃とは\n様子が異なるようだ。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Zagreus|コロナハトの姿が変化したことですか？\nこれは、「聖なる守護者」と呼ばれた人物の\n態のようです。姿が見えたのは一瞬でしたが、\n多才で、勇猛な人物のようでした。
 LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|おまえがなぜそこまで冥府の武具にこだわるのか、\n理解に苦しむ。仰々しい態の数々を見いだそうと、\nわが力には到底及びもつかぬ。
@@ -979,7 +979,7 @@ ZeusGift04|Zeus Gift 04|Zeus|これはまた… 申し分のない品だ。\nオ
 ZeusGift05|Zeus Gift 05|Zagreus|ゼウス叔父上… あなたの栄光をたたえ、このネクタルを捧げます。これまでに受けた多大なる加護に見合わぬ、些少な品ですが…
 ZeusGift05|Zeus Gift 05|Zeus|叔父に敬意を払うとは、じつに殊勝な心がけ。\nおまえは必ずや、オリュンポスで大成することだろう。\nこの山には、礼儀をわきまえぬ輩や、\n浅はかな者も多いゆえ。
 ZeusGift06|Zeus Gift 06|Zagreus|ゼウス叔父上… この声が届いているのなら、ささやかな供物をお受け取りください。いつの日か、叔父上と父上が和解に至ることを願っています。
-ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。おまえとはいまだ\n直接顔を合わせたことはないが、すでにじつの息子同然に思っているぞ！その気持ちは、ともすれば、おまえの\n父以上だろう！{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}この際、皆に告げて\n回るか！おまえの実父は、この私だと！
+ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。おまえとはいまだ\n直接顔を合わせたことはないが、すでにじつの息子同然に思っているぞ！その気持ちは、ともすれば、おまえの\n父以上だろう！*ハッハッハ！*この際、皆に告げて\n回るか！おまえの実父は、この私だと！
 ZeusGift07|Zeus Gift 07|Zagreus|オリュンポスの神々の王、雷神ゼウスに、ささやかな\n供物を。アンブロシアなど、オリュンポスではつまらぬものでしょうが、冥界で入手できる供物としては、\n最良です。叔父上より受けた御加護に、多少なりとも\n返礼できれば。
 ZeusGift07|Zeus Gift 07|Zeus|私に供物を捧げ敬意を示すとは、じつに殊勝な心がけ。\nとはいえ、あまり親しくしすぎるのも、いかがなものか。おまえをひいきしていると思われては、他の神々の\n嫉妬を招く。とはいえ、私がおまえに特に目をかけて\nいることは、少なくとも当面は、事実だがな…
 AresAboutOlympianReunionQuest01|Ares About Olympian Reunion Quest 01|Zagreus|よし… ハデス神の名において、\nオリュンポスの神に、言づてを捧げん！戦神アレス、\n内容を解したならば、われらの申し出を受諾し給え。
@@ -1189,7 +1189,7 @@ ChaosSurfaceQuest01|Chaos Surface Quest 01|Chaos|地の鳴動が、わが耳に�
 ChaosSurfaceQuest01|Chaos Surface Quest 01|Zagreus|そのとおりだ… 父上の部下たちが俺を止められないと、父上がみずから足止めにかかってくる。\n正直… 手を焼いている。
 ChaosSurfaceQuest01|Chaos Surface Quest 01|Chaos|今後ハデスとの戦闘に臨む際は、我が授けた、小型の\n球形触媒の装着を推奨する。この者の概念では、\n「卵」と呼ばれる形状。当該の戦闘の発生地では、\n効果を発揮しない装備品。しかし、この者が勝利を\n収めれば、この者と我にとって、心楽しき事態。
 ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Chaos|我は、ハデスの息子の到着を予期していた。この者を\n通じて… 正確には、この者が帯びる全能の武具を\n通じて。その原型は、世界開闢時に我より生じた。\nこの者が携えるそれは、当時の姿に極めて近しい。\n回答を求める。
-ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Zagreus|混沌の盾… つまり、{#DialogueItalicFormat}カオスの{#PreviousFormat}盾。これほど見事な、\n存在感のある武具はない。あなたから生じた原型は、\nもっと立派だったはずだ。
+ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Zagreus|混沌の盾… つまり、*カオスの*盾。これほど見事な、\n存在感のある武具はない。あなたから生じた原型は、\nもっと立派だったはずだ。
 ChaosAboutWeaponEnchantments01|Chaos About Weapon Enchantments 01|Chaos|好ましい回答。我も、その武具を通じ、\nこの広大な領域を直に目の当たりに\nすることが叶い、幸いと感じる。
 ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Chaos|我より、ハデスの息子へ、言づてる。未発生の時代の\n事象を含む内容。次の一節を記憶せよ。\n「われは見る。くちなわの炎を前に、ひるまずはだかる\nそなたの姿を」。この一節は、覚醒の呪文。我が鍛えた\n全知の武具に向けて唱えれば、同武具は反応する。
 ChaosRevealsBeowulfAspect01|Chaos Reveals Beowulf Aspect 01|Zagreus|その「覚醒の呪文」を、全知の武具… つまり、\nアイギスに唱えろということか… 「われは見る。\nくちなわの炎を前に、ひるまずはだかるそなたの姿を」…この呪文の意味は？いったい誰のことを言っている？
@@ -1290,7 +1290,7 @@ HadesMiscMeeting06|Hades Misc Meeting 06|Hades|どうだ？少しは頭が冷え
 HadesMiscMeeting06|Hades Misc Meeting 06|Zagreus|彼女たちとはもう、話をつけました。
 HadesMiscMeeting06|Hades Misc Meeting 06|Hades|父に公然と盾突くだけでは飽き足らず、妄言まで\n吐くとは… いずれにせよ、エリニュスたちとの\n定例会議の際、当人たちより詳細を聞くこととなろう。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|なんと！わが息子が帰ってきたぞ！見ろ、ケルベロス！おまえの友のご帰還だ！
-HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|{#DialogueItalicFormat}ケルベロスは、哀れむような目で王子を見た。
+HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|*ケルベロスは、哀れむような目で王子を見た。*
 HadesMiscMeeting07|Hades Misc Meeting 07|Zagreus|…ケルベロスを巻き込まないでください。
 HadesMiscMeeting07|Hades Misc Meeting 07|Hades|ケルベロスの前で言えぬようなことを、\n私に言わねばよいだけのこと。\nおまえもこの忠犬の従順な態度に倣ってはどうだ？
 HadesMiscMeeting08|Hades Misc Meeting 08|Hades|見ろ、ケルベロス。\n私の言ったとおり、もう戻ってきおったぞ。
@@ -1552,69 +1552,69 @@ Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Zagreus|父上�
 Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Hades|…自分の無能振りを、私のせいにするか。では何だ？\n知恵の女神は、おまえが必要なときに祈ればいつでも\n駆けつけ、批判さえも“跳ね返す”のか？\nこの館で働くことを願う亡霊は数知れぬ。\nおまえの代わりなど、いくらでもいるのだ。
 Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Zagreus|なら、代わりにその亡霊を雇ってください。\nそもそも俺は、こんなところで働きたくはない。\n父上がはずれクジを引いて、叔父上たちより\n不遇だからって、俺まで無意味な書類仕事を\n一生やらされるいわれはありません。
 Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Hades|では、望みどおりにしてやる。解雇だ。一人前の神と\nして、責任ある仕事を任せてもよかろうと思ったが、\n見込み違いだった。今後再びおまえが叔父の件を口に\nした際は、タルタロスの最奥に追放する。わかったら、\n私の視界に入らぬところへ失せるがいい。
-CerberusMiscMeeting01|Cerberus Misc Meeting 01|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスは、複雑な表情で\nザグレウス王子を見つめた。心の底からのよろこびと、深い悲しみが入り交じった感情を抱いているようだ。
+CerberusMiscMeeting01|Cerberus Misc Meeting 01|Storyteller|*地獄の番犬ケルベロスは、複雑な表情で\nザグレウス王子を見つめた。心の底からのよろこびと、深い悲しみが入り交じった感情を抱いているようだ。*
 CerberusMiscMeeting01|Cerberus Misc Meeting 01|Zagreus|おまえも連れていけたらどんなにいいか…\nこの館のこと、頼んだぞ？
 CerberusMiscMeeting02|Cerberus Misc Meeting 02|Zagreus|調子はどうだ？3頭とも、腹いっぱい食べてるか？
-CerberusMiscMeeting02|Cerberus Misc Meeting 02|Storyteller|{#DialogueItalicFormat}地獄の番犬ケルベロスの3つのあぎとが、\n次々と反応する。おのれを気遣う王子を、\n「心配ない」となだめているようだ。
+CerberusMiscMeeting02|Cerberus Misc Meeting 02|Storyteller|*地獄の番犬ケルベロスの3つのあぎとが、\n次々と反応する。おのれを気遣う王子を、\n「心配ない」となだめているようだ。*
 CerberusMiscMeeting03|Cerberus Misc Meeting 03|Zagreus|大丈夫、どうせすぐに戻ってくるよ。
-CerberusMiscMeeting03|Cerberus Misc Meeting 03|Storyteller|{#DialogueItalicFormat}番犬ケルベロスは、やわらかい寝床に横たわったまま、ふてくされている。
+CerberusMiscMeeting03|Cerberus Misc Meeting 03|Storyteller|*番犬ケルベロスは、やわらかい寝床に横たわったまま、ふてくされている。*
 CerberusMiscMeeting04|Cerberus Misc Meeting 04|Zagreus|父上が館の空気を悪くしないように、ちゃんと見張っておいてくれ。
-CerberusMiscMeeting04|Cerberus Misc Meeting 04|Storyteller|{#DialogueItalicFormat}ケルベロスは承知したようだが、\nどう見張るつもりなのかは不明だ。
+CerberusMiscMeeting04|Cerberus Misc Meeting 04|Storyteller|*ケルベロスは承知したようだが、\nどう見張るつもりなのかは不明だ。*
 CerberusMiscMeeting05|Cerberus Misc Meeting 05|Zagreus|元気でやってるか？\n何かあったら、遠慮なく言ってくれ。
-CerberusMiscMeeting05|Cerberus Misc Meeting 05|Storyteller|{#DialogueItalicFormat}ザグレウス王子がかけた何気ないひと言に、\nケルベロスはいらだちを覚えた。3つの頭はいずれも、\n言葉を話す能力を持ち合わせていない。
+CerberusMiscMeeting05|Cerberus Misc Meeting 05|Storyteller|*ザグレウス王子がかけた何気ないひと言に、\nケルベロスはいらだちを覚えた。3つの頭はいずれも、\n言葉を話す能力を持ち合わせていない。*
 CerberusRunProgress01|Cerberus Run Progress 01|Zagreus|顔を見にきたぞ。おまえが見張りについていなくても、館の外は脱走者にとって危険な場所だった。
-CerberusRunProgress01|Cerberus Run Progress 01|Storyteller|{#DialogueItalicFormat}気高き地獄の番犬は、王子の言葉を聞き流した。現在の冥界の警備がかつてのように厳重でないことなど、百も承知なのだ。
+CerberusRunProgress01|Cerberus Run Progress 01|Storyteller|*気高き地獄の番犬は、王子の言葉を聞き流した。現在の冥界の警備がかつてのように厳重でないことなど、百も承知なのだ。*
 CerberusRunProgress02|Cerberus Run Progress 02|Zagreus|ケルベロス、今回はアスポデロスまで行けたぞ！\nおまえがあの場所を嫌っていた理由が、\nよくわかったよ… でも、あきらめずに\nまた挑戦するまでだ。それじゃあな！
-CerberusRunProgress02|Cerberus Run Progress 02|Storyteller|{#DialogueItalicFormat}ザグレウス王子が前向きな言葉をかけても、\n彼の愛犬ケルベロスは、ふてくされた態度を崩さない。
+CerberusRunProgress02|Cerberus Run Progress 02|Storyteller|*ザグレウス王子が前向きな言葉をかけても、\n彼の愛犬ケルベロスは、ふてくされた態度を崩さない。*
 CerberusRunProgress03|Cerberus Run Progress 03|Zagreus|ちゃんと帰ってこられたんだな。また見張りの仕事に\n就けて、よかったじゃないか！俺はおまえを\n突破する方法を考えないといけない。\nでも、おまえは自分の仕事をしてるだけだ。
-CerberusRunProgress03|Cerberus Run Progress 03|Storyteller|{#DialogueItalicFormat}見るからに恐ろしげな地獄の番犬ケルベロスは、\n気まずそうにザグレウス王子を見やった。\n 3対の目が、館の薄暗い明かりを映し、ぎらりと光る。
+CerberusRunProgress03|Cerberus Run Progress 03|Storyteller|*見るからに恐ろしげな地獄の番犬ケルベロスは、\n気まずそうにザグレウス王子を見やった。\n 3対の目が、館の薄暗い明かりを映し、ぎらりと光る。*
 CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Zagreus|最近、俺がしょっちゅう神殿に行くせいで、\nおまえに面倒をかけてないか？いつもどうやって\n館に戻ってくる？カロンに運んでもらってるのか？
-CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Storyteller|{#DialogueItalicFormat}冥界の王子は、地獄の番犬に尋ねる。\nこの多頭の怪物もまた、渡し守の舟の寝台を頻繁に\n利用する身であることは、聞かずとも承知の上だ。
+CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Storyteller|*冥界の王子は、地獄の番犬に尋ねる。\nこの多頭の怪物もまた、渡し守の舟の寝台を頻繁に\n利用する身であることは、聞かずとも承知の上だ。*
 CerberusAboutBall01|Cerberus About Ball 01|Zagreus|俺が用意してやったボール、じっと眺めるのは\n楽しいか？反撃してこないから、退屈か。
-CerberusAboutBall01|Cerberus About Ball 01|Storyteller|{#DialogueItalicFormat}奈落に生まれ落ちた多頭の怪物は、貴重な時を玩具と\nじゃれあうことに費やす意義を見いださない。絶えず\nこんこんと湧きでる活力は、脱走を試みた亡霊を\n喰らう必要が生じた際に備え、温存しておきたいのだ。
+CerberusAboutBall01|Cerberus About Ball 01|Storyteller|*奈落に生まれ落ちた多頭の怪物は、貴重な時を玩具と\nじゃれあうことに費やす意義を見いださない。絶えず\nこんこんと湧きでる活力は、脱走を試みた亡霊を\n喰らう必要が生じた際に備え、温存しておきたいのだ。*
 CerberusLoungeClosed01|Cerberus Lounge Closed 01|Zagreus|酒場をめちゃくちゃにしたそうだな？\nしかられなかったか？心配させてすまなかったな。
-CerberusLoungeClosed01|Cerberus Lounge Closed 01|Storyteller|{#DialogueItalicFormat}怪物ケルベロスはみずからの犯行を認め、\nザグレウス王子を巻き込んだことを\n悔いるかのように、しおらしい態度をとった。
+CerberusLoungeClosed01|Cerberus Lounge Closed 01|Storyteller|*怪物ケルベロスはみずからの犯行を認め、\nザグレウス王子を巻き込んだことを\n悔いるかのように、しおらしい態度をとった。*
 CerberusLoungeOpen01|Cerberus Lounge Open 01|Zagreus|ケルベロス、酒場が元どおりになったから、\n見てくるといい。\nただし… もう中で暴れるんじゃないぞ？
-CerberusLoungeOpen01|Cerberus Lounge Open 01|Storyteller|{#DialogueItalicFormat}朗報を耳にした怪物ケルベロスの3つの顔が、\nぞれぞれうれしげな表情を浮かべた。\n次はどうやって酒場を荒らしてやろうかと、\n考えを巡らせているに違いない。
+CerberusLoungeOpen01|Cerberus Lounge Open 01|Storyteller|*朗報を耳にした怪物ケルベロスの3つの顔が、\nぞれぞれうれしげな表情を浮かべた。\n次はどうやって酒場を荒らしてやろうかと、\n考えを巡らせているに違いない。*
 CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Zagreus|最近、館がいつも改装工事中で、不便をかけて\nすまないな。でも、もうすぐ酒場の修理が終わるぞ？\nまた思う存分、暴れて壊せるな！
-CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Storyteller|{#DialogueItalicFormat}ザグレウス王子は、どう猛かつ多感な番犬ケルベロスに\nさらなる破壊衝動の種を植えつけた。\nそれは次なる時代に芽吹き、満たされるだろう。
+CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Storyteller|*ザグレウス王子は、どう猛かつ多感な番犬ケルベロスに\nさらなる破壊衝動の種を植えつけた。\nそれは次なる時代に芽吹き、満たされるだろう。*
 CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Zagreus|どんなに無様な死に様をさらしても、こうしておまえを\nなでているうちに、また気力が湧いてくる。\nケルベロス、おまえがいてくれて本当によかった。
-CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Storyteller|{#DialogueItalicFormat}悪名高き地獄の番犬ケルベロスの目が、残り火のようにわずかに輝く。彼もまた、冥界の王子とのふれあいに\nいつでも応じる用意があり、その機会が頻繁に訪れる\nことを、心から歓迎している。
+CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Storyteller|*悪名高き地獄の番犬ケルベロスの目が、残り火のようにわずかに輝く。彼もまた、冥界の王子とのふれあいに\nいつでも応じる用意があり、その機会が頻繁に訪れる\nことを、心から歓迎している。*
 CerberusAboutPersephone01|Cerberus About Persephone 01|Zagreus|ケルベロス！母上を見つけたぞ！“ペルセポネ”だ、\n覚えてるだろう？おまえのことを話したら、すごく\n喜んでいた。俺は地上に長くとどまれないから、\nまた会いにいかないと…\n近いうちに、また神殿で、よろしくな。
-CerberusAboutPersephone01|Cerberus About Persephone 01|Storyteller|{#DialogueItalicFormat}ペルセポネの名を耳にした刹那、\n悪評高い地獄の番犬の醜怪な顔が、にわかにやわらぐ。\nケルベロスは、つかの間、心の平穏を得た。
+CerberusAboutPersephone01|Cerberus About Persephone 01|Storyteller|*ペルセポネの名を耳にした刹那、\n悪評高い地獄の番犬の醜怪な顔が、にわかにやわらぐ。\nケルベロスは、つかの間、心の平穏を得た。*
 CerberusPostEnding01|Cerberus Post Ending 01|Zagreus|ケルベロス！おまえにしては、元気いっぱいだな。\n母上はずっと、おまえに会いたがってた。\nおまえも、母上が恋しかったんだな。\nこれからは、思う存分甘えるといい。
-CerberusPostEnding01|Cerberus Post Ending 01|Storyteller|{#DialogueItalicFormat}冥王ハデスが館で飼う多頭の怪物に、\n地上の犬と同様の感情が備わっていたならば、\nこの幸福な状況を大いによろこび、\n駆け回ったことだろう。
+CerberusPostEnding01|Cerberus Post Ending 01|Storyteller|*冥王ハデスが館で飼う多頭の怪物に、\n地上の犬と同様の感情が備わっていたならば、\nこの幸福な状況を大いによろこび、\n駆け回ったことだろう。*
 CerberusPostEnding02|Cerberus Post Ending 02|Zagreus|母上が戻ってきて、うれしいんだな。母上のこと、\nどうしてもっと早く教えてくれなかったんだ？
-CerberusPostEnding02|Cerberus Post Ending 02|Storyteller|{#DialogueItalicFormat}口を利くことのかなわぬ地獄の怪物ケルベロスは、\n王子の無神経な発言を、涼しい顔で受け流した。
+CerberusPostEnding02|Cerberus Post Ending 02|Storyteller|*口を利くことのかなわぬ地獄の怪物ケルベロスは、\n王子の無神経な発言を、涼しい顔で受け流した。*
 CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Zagreus|神殿では、よくもやってくれたな。\n地上には父上もいた。\nおまえはじゃれてただけだとわかってるが…\n今度からはもう少し手加減してくれないか…？
-CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Storyteller|{#DialogueItalicFormat}自制心も悔悟の念も持ち合わせないケルベロスに、\n悪びれた様子はない。
+CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Storyteller|*自制心も悔悟の念も持ち合わせないケルベロスに、\n悪びれた様子はない。*
 CerberusPostEpilogue01|Cerberus Post Epilogue 01|Zagreus|ケルベロス、おまえは賢いな。宴のあいだ、\nよくおとなしくしていてくれた。おじたちが\n何か言うたびに、おまえが飛びかかりはしないかと、\n内心冷や冷やしてたんだぞ？よく辛抱したな。\nおかげでみんな、宴を楽しんでくれたみたいだ。
-CerberusPostEpilogue01|Cerberus Post Epilogue 01|Storyteller|{#DialogueItalicFormat}先頃開かれた宴の席で、地獄の番犬ケルベロスはなぜ、終始従順な態度を保つことができたのか…\nその理由は、出席者全員にとって、大いなる謎である。
+CerberusPostEpilogue01|Cerberus Post Epilogue 01|Storyteller|*先頃開かれた宴の席で、地獄の番犬ケルベロスはなぜ、終始従順な態度を保つことができたのか…\nその理由は、出席者全員にとって、大いなる謎である。*
 CerberusGift01|Cerberus Gift 01|Zagreus|ほら、いいものをやるぞ！
-CerberusGift01|Cerberus Gift 01|Storyteller|{#DialogueItalicFormat}ケルベロスの３つの頭のうち1つが、王子からの贈り物を受け取り、別の1つが王子に何かを押しつけてきた。
+CerberusGift01|Cerberus Gift 01|Storyteller|*ケルベロスの３つの頭のうち1つが、王子からの贈り物を受け取り、別の1つが王子に何かを押しつけてきた。*
 CerberusGift02|Cerberus Gift 02|Zagreus|よしよし… 気に入ってくれてよかった。
-CerberusGift02|Cerberus Gift 02|Storyteller|{#DialogueItalicFormat}ケルベロスは、好物の餌にありつき、大喜びしている。
+CerberusGift02|Cerberus Gift 02|Storyteller|*ケルベロスは、好物の餌にありつき、大喜びしている。*
 CerberusGift03|Cerberus Gift 03|Zagreus|よし。大事な相棒に、とっておきの褒美をやるぞ。
-CerberusGift03|Cerberus Gift 03|Storyteller|{#DialogueItalicFormat}贅沢な褒美を受け取り、\nケルベロスはうれしそうに遠吠えした。
+CerberusGift03|Cerberus Gift 03|Storyteller|*贅沢な褒美を受け取り、\nケルベロスはうれしそうに遠吠えした。*
 CerberusGift04|Cerberus Gift 04|Zagreus|相棒にうまいものを食べさせてやるのは、\n俺の務めだからな。
-CerberusGift04|Cerberus Gift 04|Storyteller|{#DialogueItalicFormat}冥界の王子ザグレウスは、\n番犬ケルベロスの飽くなき食欲に応えてやった。
+CerberusGift04|Cerberus Gift 04|Storyteller|*冥界の王子ザグレウスは、\n番犬ケルベロスの飽くなき食欲に応えてやった。*
 CerberusGift05|Cerberus Gift 05|Zagreus|これ、好物だろ？おまえのために\nこっそり持ち込んでやるのは、俺も楽しいよ。
-CerberusGift05|Cerberus Gift 05|Storyteller|{#DialogueItalicFormat}地獄の番犬の飽くなき食欲を、ネクタルの\nかぐわしい風味が、つかの間、収めることだろう。
+CerberusGift05|Cerberus Gift 05|Storyteller|*地獄の番犬の飽くなき食欲を、ネクタルの\nかぐわしい風味が、つかの間、収めることだろう。*
 CerberusGift06|Cerberus Gift 06|Zagreus|どうした？ネクタルなんかじゃ、不満か？\nその歳で、ずいぶん贅沢を言うようになったな。
-CerberusGift06|Cerberus Gift 06|Storyteller|{#DialogueItalicFormat}ネクタルの甘美な風味にやや食傷気味とはいえ、\n多頭の怪物は、差し出された瓶を受け取った。
+CerberusGift06|Cerberus Gift 06|Storyteller|*ネクタルの甘美な風味にやや食傷気味とはいえ、\n多頭の怪物は、差し出された瓶を受け取った。*
 CerberusGift07|Cerberus Gift 07|Zagreus|見ろ、ケルベロス… アンブロシアだ！\nおまえにやるぞ。人も、神も、怪物も、\n生者だろうと死者だろうと、誰もが喜ぶ珍味だ。
-CerberusGift07|Cerberus Gift 07|Storyteller|{#DialogueItalicFormat}冥界では入手困難なオリュンポスの珍味、\nアンブロシアを差し出され、地獄の番犬ケルベロスは、\n 6つの目を見開いた。大いに興奮した様子だ。
+CerberusGift07|Cerberus Gift 07|Storyteller|*冥界では入手困難なオリュンポスの珍味、\nアンブロシアを差し出され、地獄の番犬ケルベロスは、\n 6つの目を見開いた。大いに興奮した様子だ。*
 CerberusGift08|Cerberus Gift 08|Zagreus|やっぱり、一級品は違うだろ？おまえも、父上と俺の\n板挟みになって、なにかとつらい立場だよな。\n面倒に巻き込んで、すまないな。
-CerberusGift08|Cerberus Gift 08|Storyteller|{#DialogueItalicFormat}多頭の怪物を餌で懐柔せんとする王子のもくろみは、\nこたびも成功した。天界よりもたらされた高級品、\nアンブロシアに勝る贈り物はない。
+CerberusGift08|Cerberus Gift 08|Storyteller|*多頭の怪物を餌で懐柔せんとする王子のもくろみは、\nこたびも成功した。天界よりもたらされた高級品、\nアンブロシアに勝る贈り物はない。*
 CerberusGift09|Cerberus Gift 09|Zagreus|ケルベロス、おまえとは、俺が生まれたときから\nいっしょに育った仲だから、\nお互い照れくさいのは承知であえて言うが…\nおまえがこの館にいるのは、俺のためでもあるんだろ？
-CerberusGift09|Cerberus Gift 09|Storyteller|{#DialogueItalicFormat}番犬と飼い主の絆は、アダマントのごとく堅い。怪物\nケルベロスが忠誠を誓う主が冥王ハデスであることは、火を見るより明白。しかし、その息子の\nザグレウス王子もまた、好意の対象といえよう。
+CerberusGift09|Cerberus Gift 09|Storyteller|*番犬と飼い主の絆は、アダマントのごとく堅い。怪物\nケルベロスが忠誠を誓う主が冥王ハデスであることは、火を見るより明白。しかし、その息子の\nザグレウス王子もまた、好意の対象といえよう。*
 CerberusGift09|Cerberus Gift 09|Zagreus|おまえは、冥界でいちばん利口な番犬だよ。\n頭ベータと頭ガンマは、なでられるのが\nあまり好きじゃないようだが…\n嫌というほどなで倒してやるから、覚悟しとけよ。
-CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|{#DialogueItalicFormat}冥界への入り口に立ちふさがる多頭の怪物ケルベロス。\nこの門を愚かにも突破しようとする者の行く末は、\n口にするのもはばかられるほど酸鼻をきわめる。
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|*冥界への入り口に立ちふさがる多頭の怪物ケルベロス。\nこの門を愚かにも突破しようとする者の行く末は、\n口にするのもはばかられるほど酸鼻をきわめる。*
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|ケルベロス… あんまりじゃないか。俺とおまえの\n仲だろ？まあでも、こうなったらしかたがない。\n俺から言えることはひとつだけだ… 覚悟しろ！
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|ハハハ… 冗談だよ。おまえがどうしてここにいるのかは\nよくわかってるし、おまえの気をそらす方法が必ずある\nはずだ。俺がサテュロスを片づけてやったら、通して\nくれるか？頼むよ… 俺はどうしても、母親を見つけ\nたいんだ。おまえなら、わかってくれるだろ？
 CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|凶暴な地獄の番犬は、一瞬、戸惑い考え込んで\nいるような表情を見せ、「承知した」とでも言うように、王子に向けてひとたび吠えてみせた。王子は、\n怪物の食欲を満たす品を求め、その場を立ち去った。
 CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Zagreus|ケルベロス、おまえの大好物を持ってきたぞ。\nこれをやったら、ここを通すと約束してくれるか？
-CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Storyteller|{#DialogueItalicFormat}恐ろしき番犬ケルベロスは、悪臭を放つ袋を受け取り、暗い部屋を見回した。吐き気をもよおすその中身を、\nどこで味わうか考えているのだ。
+CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Storyteller|*恐ろしき番犬ケルベロスは、悪臭を放つ袋を受け取り、暗い部屋を見回した。吐き気をもよおすその中身を、\nどこで味わうか考えているのだ。*
 AchillesFirstMeeting|Achilles First Meeting|Scratch|ザグレウス、顔を見られてよかった。\n稽古中に教えたことを、くれぐれも忘れるな。\n「死の痛みは、乗り越えうる障害にすぎぬ」…
 AchillesFirstMeeting|Achilles First Meeting|Zagreus|…「恐怖を感じるは、弱者の証し」。\n行ってきます、師匠。
 AchillesGrantsCodex|Achilles Grants Codex|Achilles|亡者との戦いにも、じきに慣れてくるだろう。\n私とも十分稽古を重ねたが、実戦に勝るものはない。\nおまえには、これを渡しておこう。
@@ -1705,14 +1705,14 @@ AchillesAboutNyxChaosReunionQuest01|Achilles About Nyx Chaos Reunion Quest 01|Ac
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Zagreus|エリュシオンで、マケドニア製二輪馬車の\nタウラムダを見かけました。\n父上が、あそこへ移すことを許可したんでしょうか？\nテセウスという英雄崩れが乗り回していましたが…
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|あれはたしかにマケドニア製だが、ダイダロス本人の\n手で改造が施されている。地上のいかなる武具も\nかなわぬ逸品だ。テセウスか… やつは、例の仮面を\nつけていたか？
 AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Zagreus|馬車とそろいの、黄金の仮面のことですか？\nはい、つけていましたよ。\nずいぶんと間抜けな出で立ちでしたが…
-AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|{#DialogueItalicFormat}ハハハ…{#PreviousFormat} ダイダロスもそう言うだろう。あの仮面と\n衣装は、冗談のつもりで製作したと聞く。思い上がった\n愚か者が、無自覚に間抜けな出で立ちになるようにと。\nテセウスには、さぞよく似合ったことだろう。
+AchillesAboutTheseusExtremeMeasures01|Achilles About Theseus Extreme Measures 01|Achilles|*ハハハ…* ダイダロスもそう言うだろう。あの仮面と\n衣装は、冗談のつもりで製作したと聞く。思い上がった\n愚か者が、無自覚に間抜けな出で立ちになるようにと。\nテセウスには、さぞよく似合ったことだろう。
 AchillesAboutWeaponEnchantments01|Achilles About Weapon Enchantments 01|Zagreus|中庭の武器庫に現れた得物は、形が変わるようです。\nどういうことなんでしょうか…？かつての持ち主を\n覚えていて、俺に合った姿に変化する、とか…？
 AchillesAboutWeaponEnchantments01|Achilles About Weapon Enchantments 01|Achilles|そんなところだ。あたかも生きているかのように、\nあらゆるものを吸収する。あの武具たちの起源は\nおそらく、冥王陛下の時代以前までさかのぼる。\n持ち主を幾たびも変えたものもあり、\nおまえも最後の持ち主とはなり得ぬだろう。
 AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|知ってのとおり、かつて私もおまえが帯びる武具を\n得物とし、絆を結んだことがある。当時は\nその特異な性質を真に理解してはいなかったが…\nいまだにその絆は健在で、ときおり“幻影”を見る。\nその内容を、おまえにも伝えておこう。
 AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|“幻影”？永遠の槍ヴァラサが、\n師匠に幻覚を見せている、ということですか？\nそれは… ちょっと不気味ですね。どんな内容ですか？
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|私よりも上背のある大男が見えた。漆黒の髪に、ひげを\nたくわえた戦士… その男は、私が見たことのない姿に\n変化したヴァラサを携えていた。そして、その幻影が\n消えた後も、ある言葉が頭から離れなかった。\n{#DialogueItalicFormat}「われは見る。紅き鳳の目を通じ、そなたの姿を」。{#PreviousFormat}
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|{#DialogueItalicFormat}「われは見る。紅き鳳の目を通じ、そなたの姿を」{#PreviousFormat}… \nどういう意味だろう…
-AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|それだけではない。遠い昔… 私は、ヴァラサを携えた\n{#DialogueItalicFormat}おまえ{#PreviousFormat}の幻影を見た。冥府の武具は、おそらく運命の\n三女神が生み出したものだろう。彼女たちには、それを\n手にする宿命にある者が見え、その者に使命を与えた\nのだ。さぁ、ヴァラサを探し、その言葉を唱えよ。
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|私よりも上背のある大男が見えた。漆黒の髪に、ひげを\nたくわえた戦士… その男は、私が見たことのない姿に\n変化したヴァラサを携えていた。そして、その幻影が\n消えた後も、ある言葉が頭から離れなかった。\n*「われは見る。紅き鳳の目を通じ、そなたの姿を」。*
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Zagreus|*「われは見る。紅き鳳の目を通じ、そなたの姿を」*… \nどういう意味だろう…
+AchillesRevealsGuanYuAspect01|Achilles Reveals Guan Yu Aspect 01|Achilles|それだけではない。遠い昔… 私は、ヴァラサを携えた\n*おまえ*の幻影を見た。冥府の武具は、おそらく運命の\n三女神が生み出したものだろう。彼女たちには、それを\n手にする宿命にある者が見え、その者に使命を与えた\nのだ。さぁ、ヴァラサを探し、その言葉を唱えよ。
 AchillesRevealsGuanYuAspect02|Achilles Reveals Guan Yu Aspect 02|Zagreus|前に教えてもらった言葉をヴァラサに唱えたら、\n見たことのない形状に変化したヴァラサの幻影が\n見えました。立派な衣に身を包んだ「関羽」という名の\n戦士が携えていました… 師匠が見た幻影と同じです。\nギリシャ人の名前ではないようですが…
 AchillesRevealsGuanYuAspect02|Achilles Reveals Guan Yu Aspect 02|Achilles|関羽がどこの誰で、いつの時代の者なのかも不明だが、\n運命の三女神には何らかの意図があり、おまえと引き\n合わせたのだろう。この件に関して、私の役目はここ\nまでのようだ。ヴァラサには私も生前世話になったし、\nそれは今でも変わらぬ。恐怖に屈せず、突き進め。
 AchillesAboutArthurAspect01|Achilles About Arthur Aspect 01|Zagreus|師匠、スティギウスの、秘された態を発見しました。ニュクスから教わった言葉を唱えたら、鎧に身を包んだ軍勢を率いる、人間の指導者のビジョンが見えた… 彼の名は、「アーサー」。未来の光景だったようです。
@@ -2258,8 +2258,8 @@ NyxAboutDusaRelationship01|Nyx About Dusa Relationship 01|Zagreus|よかった�
 NyxAboutDusaRelationship01|Nyx About Dusa Relationship 01|Nyx|両名についてです。あなたが彼女に悪影響を及ぼすと\n案じていましたが、彼女は以前より有能な働きを見せて\nいます。私は、彼女がみずからの役割を果たすことも、\n過ちから学ぶこともないと断じていましたが、\nその逆でした。今後も彼女への助力を願います。
 NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|待ちなさい。私の娘たちから、あなたに言づてが\nあります。あなたが携える、冥界の剣についてです。
 NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Zagreus|娘たち…？運命の三女神のことですか？\n彼女たちに気にとめてもらえるなんて、それだけでも\n光栄ですが… スティギウスの件で、どうして…
-NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|今から伝える言葉を、あなたが直に唱え、その剣に\n聞かせるようにとのことです。{#DialogueItalicFormat}「われは見る。\n王の手で石牢より解き放たれる、そなたの姿を」{#PreviousFormat}。\nこの言葉を繰り返し、記憶しなさい。
-NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Zagreus|{#DialogueItalicFormat}「われは見る。王の手で石牢より解き放たれる、{#PreviousFormat}\n{#DialogueItalicFormat}そなたの姿を」… {#PreviousFormat}それはきっと、\nこの剣の秘された態を解放する呪文ですね。\n三女神に、「感謝する」と伝えてください。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|今から伝える言葉を、あなたが直に唱え、その剣に\n聞かせるようにとのことです。*「われは見る。\n王の手で石牢より解き放たれる、そなたの姿を」*。\nこの言葉を繰り返し、記憶しなさい。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Zagreus|*「われは見る。王の手で石牢より解き放たれる、*\n*そなたの姿を」… *それはきっと、\nこの剣の秘された態を解放する呪文ですね。\n三女神に、「感謝する」と伝えてください。
 NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|承知しました。もっとも、彼女たちはすでに察知して\nいるでしょうが。これがあなたへの助力なのか、単に\n運命のなりゆきなのか… 私には判断しかねます。
 NyxRevealsArthurAspect02|Nyx Reveals Arthur Aspect 02|Zagreus|教わった呪文をスティギウスに唱えたら、\n人間の主導者の姿が見えました。円卓で、従者たちと\n何やら協議していた… あの男が統治者になる定めなら\n運命の三女神はなぜ、俺に協力を求めたんでしょうか？
 NyxRevealsArthurAspect02|Nyx Reveals Arthur Aspect 02|Nyx|私には、わかりかねます。未来のすべてを把握している娘たちとの母子関係は、極めて複雑。彼女たちが\nみずから望んで語ること以上に、決して詮索しては\nならないと、私は遠い昔に悟りました。
@@ -2713,14 +2713,14 @@ DusaAboutGorgons01|Dusa About Gorgons 01|Zagreus|デューサ… アスポデロ
 DusaAboutGorgons01|Dusa About Gorgons 01|Dusa|ああ、ご心配なく！血縁は、一応ありますけど、\nざっくりした話で… 「自分の血から生じた、知性の\nかけらもない凶暴なきょうだい」、みたいな感じで。\nそういう怪物と血がつながってるだけで、まともな\n仕事に就くのも一苦労で… ホント困るんですよね！
 DusaAboutGorgons01|Dusa About Gorgons 01|Zagreus|じゃあ、あのゴルゴンを倒しても、デューサとしては、べつにかまわない…？
 DusaAboutGorgons02|Dusa About Gorgons 02|Zagreus|ゴルゴンのことで、もうひとつ聞きたいことが\nあるんだ。デューサは言葉を話すとき、\nヘビのような音を立てないよな？\n他のゴルゴンがしゃべるときのあれは…\n“ゴルゴン語”、みたいなものなのか？
-DusaAboutGorgons02|Dusa About Gorgons 02|Dusa|いえ、そういうわけでは… 私たちって、舌の先が割れてるから、{#DialogueItalicFormat}シャァァァァーッ！！{#PreviousFormat}って、怖い音が出ちゃうだけで。私は早くみんなに溶け込みたくて、普通に\nしゃべれるように練習したんです。そういう若様も、\n冥界で生まれたのに、地上訛りで話しますよね？
+DusaAboutGorgons02|Dusa About Gorgons 02|Dusa|いえ、そういうわけでは… 私たちって、舌の先が割れてるから、*シャァァァァーッ！！*って、怖い音が出ちゃうだけで。私は早くみんなに溶け込みたくて、普通に\nしゃべれるように練習したんです。そういう若様も、\n冥界で生まれたのに、地上訛りで話しますよね？
 DusaAboutGorgons02|Dusa About Gorgons 02|Zagreus|俺が…？考えたこともなかったな。\n父上は赤ん坊の俺に自分で言葉を教えることに\nこだわったから、そのせいかもしれない。\n三つ子の魂百まで、ってことか…
 DusaAboutGorgons03|Dusa About Gorgons 03|Zagreus|デューサ、また聞きたいことがあるんだ…\nもし答えたくなかったら、無理に話さなくていいよ。\n君は… もともとは、身体があったのか？ゴルゴンには\n翼もあるという話を聞いて、ちょっと気になって…
 DusaAboutGorgons03|Dusa About Gorgons 03|Dusa|若様、すみません、その質問は… パスです。あまり人に話したくないことで… だから、ごめんなさい！この姿が今の私だし、私は翼なんてなくても飛べますから！
 DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Zagreus|デューサ、この前は、君の過去について\n立ち入ったことを聞いて、すまなかった。\nデューサのことをもっと知りたくて、つい…\n配慮が足りなかった。どうか許してほしい。
 DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Dusa|ザグレウス様、そんなの、気にしないでください！\nもうすっかり忘れてました。昔の自分なんて、\nほとんど他人です。この姿が今の私で、\nここでこうして働けて、幸せです。
 DusaAboutGorgons04|Dusa About Gorgons 04|Zagreus|狙った相手を石に変えられるのは、便利だろうな。\nあれは、自分の意志で、自在にできるのか？\n舌をペロッと出すぐらいの感覚で…？
-DusaAboutGorgons04|Dusa About Gorgons 04|Dusa|そこまで簡単じゃありませんけど、難しいことでもない\nです。気持ちをグッと高ぶらせて、今見てるものを…\n静止画みたいにイメージするんです。そうすると…\n{#DialogueItalicFormat}ポンッ！{#PreviousFormat}て、石になります。不思議ですよね。\n昔は、みんなできるものだと思ってました。
+DusaAboutGorgons04|Dusa About Gorgons 04|Dusa|そこまで簡単じゃありませんけど、難しいことでもない\nです。気持ちをグッと高ぶらせて、今見てるものを…\n静止画みたいにイメージするんです。そうすると…\n*ポンッ！*て、石になります。不思議ですよね。\n昔は、みんなできるものだと思ってました。
 DusaAboutSingersReunionQuest01|Dusa About Singers Reunion Quest 01|Dusa|楽士のオルフェウス様がお暇をもらって、“歌女神”に\n会いにいってるみたいですね。ひょっとして、\n若様のおかげですか？あのふたり、死んでからずっと\n離ればなれだったから… ホントによかった！
 DusaAboutSingersReunionQuest01|Dusa About Singers Reunion Quest 01|Zagreus|これからじっくり時間をかけて、関係を修復していってほしいと思う。あのふたりなら、きっと大丈夫だろう。
 DusaAboutHypnos01|Dusa About Hypnos 01|Zagreus|デューサは、ヒュプノスといっしょに仕事をすることも多いのか？最近、あいつとよく会う気がして…

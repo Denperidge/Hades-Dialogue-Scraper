@@ -1,12 +1,12 @@
 Id|Description|Speaker|Text
 Text|Text|Zagreus|……我……墨纪，我非常荣幸，你对我十分重要，只不过……这不是我想从我们之间的关系中得到的东西。恐怕是我骗了你。原谅我。我们还可以继续做朋友吧？
-Text|Text|Megaera|……这真的是你想要的吗……？想和我交朋友？{#DialogueItalicFormat}呵{#PreviousFormat}，我是真的搞不懂你啊，扎格。不过，既然我们已经一起做过那么多事情了，不如这次就按你说的办吧？我们到时候见吧。
+Text|Text|Megaera|……这真的是你想要的吗……？想和我交朋友？*呵*，我是真的搞不懂你啊，扎格。不过，既然我们已经一起做过那么多事情了，不如这次就按你说的办吧？我们到时候见吧。
 Text|Text|Megaera|……你确定？听着，我……完全没放在心上。那我们回头再见。
 Text|Text|Zagreus|……我真的这么觉得。有时候我需要放慢节奏。我们最近的关系越来越好，我也感到非常欣慰。但我的情绪有点过于激动。请你原谅。你是我的好朋友。我不想伤害你。或者其他人。
 Text|Text|Thanatos|我……哦，我知道，我明白的，你也是我亲爱的朋友。虽然我们最近做了不少破坏友谊的事情，不过我们还是朋友，对吧？多保重，扎格，下次再见。
 Text|Text|Zagreus|……再见了。
-Text|Text|Zagreus|塔纳……{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，我很高兴！只是……你知道吗，墨纪拉也在这里……？
-Text|Text|Thanatos|{#DialogueItalicFormat}哧。{#PreviousFormat}我认识墨纪拉可比你早得多。你以为在这件事情上是谁说服我的？
+Text|Text|Zagreus|塔纳……*哈哈哈*，我很高兴！只是……你知道吗，墨纪拉也在这里……？
+Text|Text|Thanatos|*哧。*我认识墨纪拉可比你早得多。你以为在这件事情上是谁说服我的？
 Text|Text|Zagreus|哈！难道是她？很好！不错。
 Text|Text|Thanatos|你确定吗？嗯……我明白。我现在最好重新肩负起自己的责任。
 Text|Text|Zagreus|……再见，塔纳。
@@ -16,20 +16,20 @@ Text|Text|Thanatos|改天再和你说，可以吗？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|塔纳托斯……！我正要叫你进来呢，这不……你就来了。很高兴见到你。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|告诉我一件事，扎格列欧斯。上次你说的话是真心的吗，就是……或许我们应该……慢慢来？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|我只是……不想给你太多压力，塔纳。我知道发生了太多的事。而且我想让你知道……对我来说，在这件事上我不会冲动。我会等你，不管多长时间。
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|{#DialogueItalicFormat}咳！{#PreviousFormat}你根本就不知道哪些事情需要冲动，哪些需要克制。你说你会等，好，那我问你：你在等什么？你在等什么，我就在这里啊。不是吗……？
-BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|塔纳……！{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，你说的没错！
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|*咳！*你根本就不知道哪些事情需要冲动，哪些需要克制。你说你会等，好，那我问你：你在等什么？你在等什么，我就在这里啊。不是吗……？
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|塔纳……！*哈哈哈*，你说的没错！
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|嘿，塔纳，听好了……有什么就说什么，我不喜欢你一直这样保持沉默，你究竟在想什么？
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|很多事情。而且你会慢慢喜欢上这样的我，扎格。我的意思是……不要对我的沉默产生误会，好吗？不过，我现在得继续忙了，工作进度有点落后……回聊。如果可以的话。
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|当然可以了。没问题。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|扎格列欧斯，你房间又没有门，你怎么老是这么惊讶？
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}嗳{#PreviousFormat}，等下，墨纪，塔纳，你们……你们两个……什么情况？总之，这里发生的事情我都可以解释……等等，你们怎么都在笑。哦……让我……让我先冷静一下。
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|*嗳*，等下，墨纪，塔纳，你们……你们两个……什么情况？总之，这里发生的事情我都可以解释……等等，你们怎么都在笑。哦……让我……让我先冷静一下。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|你对我和塔纳托斯实在是太不放心了，扎格，我们认识的时间比你活着的时间都长。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Thanatos|这么说吧，到目前为止，我们已经对彼此相当了解了。是这样吧，墨纪拉？
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|你看不出来我们现在不在上班吗，扎格列欧斯？
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}哈{#PreviousFormat}！好吧……如果这是个梦的话，那我肯定要气急败坏了。不过……我猜只有一个办法能弄清楚了。
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|*哈*！好吧……如果这是个梦的话，那我肯定要气急败坏了。不过……我猜只有一个办法能弄清楚了。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|呼，好了，现在，呃，我刚刚说到哪儿了……
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|很好！我觉得我们已经达成了共识。我得走了，下次见，扎格，塔纳托斯。
-MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|哎呀，这，这可真是……这可真是……{#DialogueItalicFormat}嗯嗯{#PreviousFormat}。
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|哎呀，这，这可真是……这可真是……*嗯嗯*。
 ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|……最后，以后你不准向扎格列欧斯王子提供任何帮助。明白吗？
 ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Sisyphus|哎呀，当然了，塔纳托斯大人，这种事情我想都不会想！再说了，我的脑子已经被推石头技巧大全占满了，哪有工夫想那种事情。
 ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|够了！你忙你的吧，我也要回去做点正事儿了。
@@ -51,7 +51,7 @@ ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|我还是不能
 ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Zagreus|为什么？你出去过。多亏了你，那些凡人才有一半的时间都呆在这个地方。
 ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|这不一样，这是我的工作。我不能待在那里，而且我自己也受不了那个地方。你知道那外头有多亮吗？
 ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Zagreus|不知道。但是我想自己去寻找答案。
-ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|{#DialogueItalicFormat}啧{#PreviousFormat}，行吧，看看命运女神有没有什么安排吧。或许狄德勒斯的暗灵可以帮你做一副保护眼罩什么的。
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|*啧*，行吧，看看命运女神有没有什么安排吧。或许狄德勒斯的暗灵可以帮你做一副保护眼罩什么的。
 ThanatosHomeRunProgress02|Thanatos Home Run Progress 02|Zagreus|塔纳托斯，外面的世界……你之前不是说过，如果在那里呆得太久，就会感到浑身不舒服吗？我现在终于明白你说的是什么意思了。那里确实很美，一切都很好，但是……能回来真是太好了。
 ThanatosHomeRunProgress02|Thanatos Home Run Progress 02|Thanatos|现在你明白我的意思了吧，扎格？那边偶尔去看看确实不错，但我真的不想住在那里。
 ThanatosBackstory01|Thanatos Backstory 01|Thanatos|你知道吗，我见过她，珀尔塞福涅。你看上去更像你的父亲，不过……你继承了她的眼睛。其中一只。
@@ -61,9 +61,9 @@ ThanatosBackstory01|Thanatos Backstory 01|Zagreus|我感觉，就算她想，父
 ThanatosBackstory01|Thanatos Backstory 01|Thanatos|也许吧。但事实如此，她抛弃了你。要我说的话，这里才是你的家。但是我可以理解…你想知道答案。
 ThanatosBackstory02|Thanatos Backstory 02|Zagreus|嗨，塔纳。看在咱俩交情的份上，来休息室陪我一下吧。不会有事的。工作待会再做。
 ThanatosBackstory02|Thanatos Backstory 02|Thanatos|你真的是邀我跟你喝一杯…？我是说…当然没问题了。工作待会再做。
-ThanatosBackstory02|Thanatos Backstory 02|Thanatos|……说真的，不知为何我很清楚，我很清楚你不会留在这里。你……在这里一直都烦躁不安，你只需要个离开的理由，而我之前一直希望你别这么快就找到理由离开！{#DialogueItalicFormat}呃{#PreviousFormat}，你肯定不明白我在说什么吧。
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|……说真的，不知为何我很清楚，我很清楚你不会留在这里。你……在这里一直都烦躁不安，你只需要个离开的理由，而我之前一直希望你别这么快就找到理由离开！*呃*，你肯定不明白我在说什么吧。
 ThanatosBackstory02|Thanatos Backstory 02|Zagreus|不，我知道你想说什么，塔纳。我很抱歉让你卷入到这事里头来，就是……这是我必须要做的。但是，我很高兴现在我们都知道我身世的真相了。或许咱们可以从现在开始，更进一步了。
-ThanatosBackstory02|Thanatos Backstory 02|Thanatos|{#DialogueItalicFormat}哧{#PreviousFormat}…我永远都不能像你这样乐观，扎格。好了…工作应该等我等得不耐烦了，我得回去了。谢谢你陪我喝酒。
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|*哧*…我永远都不能像你这样乐观，扎格。好了…工作应该等我等得不耐烦了，我得回去了。谢谢你陪我喝酒。
 ThanatosBackstory02|Thanatos Backstory 02|Thanatos|…外头当心点，扎格列欧斯。我得走了。
 ThanatosAboutDeath01|Thanatos About Death 01|Zagreus|塔纳托斯，其实我是想问一下……是不是很多凡人都非常怕死？
 ThanatosAboutDeath01|Thanatos About Death 01|Thanatos|是的，凡间的人怕我怕得要死。他们中的大多数人都分不清我和战神阿瑞斯，甚至连你父亲也认不清。我们让他们充满绝望，不过这也没办法。
@@ -71,7 +71,7 @@ ThanatosAboutDeath01|Thanatos About Death 01|Zagreus|为什么？我是说，他
 ThanatosAboutDeath01|Thanatos About Death 01|Thanatos|等他们来这里之后，我们有的是时间纠正他们。等他们死过之后，基本上就都不再会对死亡一无所知了。不过我觉得，提前认识死亡或许对他们更有好处。
 ThanatosAboutDeath02|Thanatos About Death 02|Zagreus|塔纳？我又想问个关于死亡的问题了。那就是……为什么这件事会让凡人如此悲伤？我知道……它确实会暂时造成一些痛苦，但是……也没那么糟糕吧。
 ThanatosAboutDeath02|Thanatos About Death 02|Thanatos|因为他们以为生命只有一次。想象一下，假设你死了之后，你就会再次回到卡俄斯无尽的身体之中。关于你的一切世事纷扰，都会尘归尘，土归土。
-ThanatosAboutDeath02|Thanatos About Death 02|Zagreus|但这也太荒谬了，生命只有一次吗？但是……{#DialogueItalicFormat}呃{#PreviousFormat}。光是想一想，就觉得好可怕。
+ThanatosAboutDeath02|Thanatos About Death 02|Zagreus|但这也太荒谬了，生命只有一次吗？但是……*呃*。光是想一想，就觉得好可怕。
 ThanatosAboutDeath02|Thanatos About Death 02|Thanatos|我说的没错吧？他们当中有些人知道事实并非如此，他们也试着跟其他人解释我们这边的情况，但是……进展很慢，真实的情况很难传播开来。不管怎样！我要成为好消息的传递者。
 ThanatosAboutDeath03|Thanatos About Death 03|Zagreus|嘿，塔纳？有些事一直困扰着我，就是你说的关于凡人如何看待死亡的问题。如果大多数人都坚信他们只有一次生命……他们是怎么生活的？我的意思是，我根本无法想象。起码，我会更加小心翼翼！
 ThanatosAboutDeath03|Thanatos About Death 03|Thanatos|他们会竭尽全力地热爱生活，或者至少要试着这么做。不过，老实说，我觉得这是有原因的。不过还有一些人，他们死的时候没有留下全尸。他们在没有我陪伴的情况下来到这里。独自前来，被绝望所侵蚀。关于这一点，真希望他们知道你的父亲总是说起的那些话。
@@ -184,7 +184,7 @@ ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest 
 ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Zagreus|是啊，而且确实是我干的，塔纳。如果他在余下的永生之中能更开心的话，就算少见他几面，我觉得也是可以忍受的。
 ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|你真的应该学学少管别人的闲事，他们让你帮忙了吗？我听说过他们最后一面的情形。在我看来，我很难想象俄耳甫斯求你帮这个忙，他的妻子当时肯定也百感交集。
 ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Zagreus|你在说什么呢？俄耳甫斯是我的伙伴，塔纳，我和他的缪斯女神欧律狄刻也很熟。他们依然彼此相爱，只是没办法交流而已。
-ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|所以你决定插手这件事，{#DialogueItalicFormat}唉{#PreviousFormat}。我觉得我对事情的考虑方式和你不太一样。我明白你的意图是好的，不过……算了吧，当我没说。
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|所以你决定插手这件事，*唉*。我觉得我对事情的考虑方式和你不太一样。我明白你的意图是好的，不过……算了吧，当我没说。
 ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Thanatos|我注意到命运小预言清单被包给了圣殿承包商。没想到你还是命运女神的信使呢，扎格列欧斯。
 ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Zagreus|我就是这样总能给人带来惊喜，塔纳托斯。不过命运三女神不是你的姐妹吗？我很惊讶你居然没自己申请命运清单。
 ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Thanatos|我猜命运不该如此吧，而且她们三个我完全不认识，她们一直独居在某个地方。有的时候我不禁在想：一切真的是早就注定的吗？还是说，这一切都是他们编出来的？
@@ -193,9 +193,9 @@ ThanatosRunCleared01|Thanatos Run Cleared 01|Zagreus|总体来说似乎还算公
 ThanatosRunCleared01|Thanatos Run Cleared 01|Thanatos|哎呀，扎格。该出手时就出手。不过……我觉得你有些事情要处理，我就先不打扰了，希望你能见谅，你自己多保重。
 ThanatosAboutStaying01|Thanatos About Staying 01|Thanatos|……你真的要留在这里吗，扎格列欧斯？我是说……你之前总是一次次徒劳无功地想要跑到地面上去。
 ThanatosAboutStaying01|Thanatos About Staying 01|Zagreus|是啊，我发现只有这样，我才能趁你工作的时候打扰你。你工作实在是太卖力了，塔纳。享受一下生活，好吗？
-ThanatosAboutStaying01|Thanatos About Staying 01|Thanatos|{#DialogueItalicFormat}呵{#PreviousFormat}，好吧，我尽量试试看吧。不过，你得让我看看你说的{#DialogueItalicFormat}“享受一下生活”{#PreviousFormat}是什么意思。
+ThanatosAboutStaying01|Thanatos About Staying 01|Thanatos|*呵*，好吧，我尽量试试看吧。不过，你得让我看看你说的*“享受一下生活”*是什么意思。
 ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|有件事情得告诉你，塔纳。我的生母……她并没有抛弃我，至少……她并没打算那么做。
-ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|她并没{#DialogueItalicFormat}打算{#PreviousFormat}那么做？你在说什么呢，扎格？你一生下来她就走了，在那之后再也没人见过她，听说过她的消息，直到你做了这一切为止。
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|她并没*打算*那么做？你在说什么呢，扎格？你一生下来她就走了，在那之后再也没人见过她，听说过她的消息，直到你做了这一切为止。
 ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|这么说吧……她根本不知道我还活着。我出生的时候出了很多状况，她一直都处于煎熬之中，我猜她已经承受不了了。等到倪克斯把我救活的时候……我的母亲早就走了。
 ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|什么？可倪克斯和你的父亲，他们……他们本可以去找她的，让她知道……他们肯定知道她去了哪里！
 ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|倪克斯知道。但我父亲肯定说服了她……他们认为我母亲不知情是最好的，那样她就可以过平静的生活，远离这一切。远离奥林匹斯。
@@ -225,18 +225,18 @@ ThanatosPostEnding02|Thanatos Post Ending 02|Zagreus|我猜他们还有很多事
 ThanatosPostEnding02|Thanatos Post Ending 02|Thanatos|我觉得所有人都很高兴有她在。另外，希望你别误会了我的意思，不过……我觉得你和你父亲之间也有很多要做的事情。
 ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|你的母亲非常聪明，扎格列欧斯。我一直以为你的聪明劲儿是从你父亲这里来的，但我现在没那么肯定了。所以，和奥林匹斯众神又重归于好了，是吗？
 ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Zagreus|我觉得目前是这样。不过，我猜你也知道他们是什么脾气，我们所有人是什么脾气。
-ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|{#DialogueItalicFormat}哈{#PreviousFormat}！是啊，没错！我猜，就像凡人们说的那样，及时行乐吧。下次见了。
+ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|*哈*！是啊，没错！我猜，就像凡人们说的那样，及时行乐吧。下次见了。
 ThanatosWithHades01|Thanatos With Hades 01|Hades|你兄弟可能经常会迟到，但是你不一样，塔纳托斯。你可以说是守时之神。
 ThanatosWithHades01|Thanatos With Hades 01|Thanatos|大人，对于我犯下的迟到错误，我深表歉意。我认为我最近跟进观察的凡间战争，其中的消耗远超我的预期。
 ThanatosWithHades01|Thanatos With Hades 01|Hades|塔纳托斯，就算是神也需要时不时休息一下。总有一天我们会让事情正常运转起来，只要等这该死的圣殿修整好。在那之前，我需要你继续努力。但不要累着自己了。
 ThanatosWithHades01|Thanatos With Hades 01|Thanatos|谢谢您，大人。随时为您效劳。我现在回去工作了。
 ThanatosWithHades03|Thanatos With Hades 03|Hades|塔纳托斯，我知道你一直在教唆他。背着我！这是背叛。我想知道为什么。好吧？
 ThanatosWithHades03|Thanatos With Hades 03|Thanatos|大人，他和我……拜托。把我关在塔耳塔罗斯吧，或者给我安上你觉得合适的罪名，可……我的忠诚永远不会变。在你们战斗的时候袖手旁观，我做不到。你和扎格列欧斯之间的事情……总要找到解决的方法才是。
-ThanatosWithHades03|Thanatos With Hades 03|Hades|你竟敢教训起我来了？啧。对我忠诚的属下怕是越来越少了。这是{#DialogueItalicFormat}你的{#PreviousFormat}地盘，不是我的；我不会把你丢进那可怕的深渊。再说，没有任何人可以取代你。你退下吧。
+ThanatosWithHades03|Thanatos With Hades 03|Hades|你竟敢教训起我来了？啧。对我忠诚的属下怕是越来越少了。这是*你的*地盘，不是我的；我不会把你丢进那可怕的深渊。再说，没有任何人可以取代你。你退下吧。
 ThanatosWithHades03|Thanatos With Hades 03|Thanatos|非常抱歉，大人……
 ThanatosWithHades04|Thanatos With Hades 04|Thanatos|您又想见我一面了吗，大人？从上次见您到现在，已经……过了很久了。
-ThanatosWithHades04|Thanatos With Hades 04|Hades|是啊，我们上次见面的时候你说什么来着？你说，关于我儿子的{#DialogueItalicFormat}事情{#PreviousFormat}，肯定能找到解决方法，是吧？现在看来，问题已经解决了。是吧，孩子？
-ThanatosWithHades04|Thanatos With Hades 04|Zagreus|我是想说，你依然和以前一样，尽你所能地阻止我逃出你的王国。所以，我也不知道这能不能算是事情都{#DialogueItalicFormat}解决{#PreviousFormat}了，不过……现在的感觉确实和以前不一样了。
+ThanatosWithHades04|Thanatos With Hades 04|Hades|是啊，我们上次见面的时候你说什么来着？你说，关于我儿子的*事情*，肯定能找到解决方法，是吧？现在看来，问题已经解决了。是吧，孩子？
+ThanatosWithHades04|Thanatos With Hades 04|Zagreus|我是想说，你依然和以前一样，尽你所能地阻止我逃出你的王国。所以，我也不知道这能不能算是事情都*解决*了，不过……现在的感觉确实和以前不一样了。
 ThanatosWithHades04|Thanatos With Hades 04|Hades|如你所见……如果你愿意的话，我将继续维持我们共同的利益。这座圣殿只有在高层管理人员达成一致的情况下才能正常运作，你说呢？
 ThanatosWithHades04|Thanatos With Hades 04|Thanatos|您的话让我不胜荣幸，大人。我很感谢您能亲口告诉我这些话。我也同意您的看法，为了整个冥界的利益，我们每个人都必须继续全力以赴。
 ThanatosWithHades04|Thanatos With Hades 04|Hades|很好，你一向如此，你可以退下了。
@@ -249,16 +249,16 @@ ThanatosWithHypnos02|Thanatos With Hypnos 02|Thanatos|你可别帮我出主意�
 ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|………修普诺斯，这份清单上有很多任务我都不知道是多久以前的了，我是说……上面有几件事已经是我去年干过的了！而且你已经做好了这个星期的登记工作，为什么不把它划掉呢？
 ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|这么说吧，我刚准备把它划掉！然后你就来了，我就分心了，然后我就把这件事给忘了！这种事情也是难免的，是吧？
 ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|你得专心点才行，兄弟，否则冥王哈迪斯就又要骂你了。我相信你可不想挨骂。
-ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|哦，这我可说不准。因为我上次去见冥王大人的时候，他已经说得{#DialogueItalicFormat}很清楚了{#PreviousFormat}，他说他再也不想和我说话了！
+ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|哦，这我可说不准。因为我上次去见冥王大人的时候，他已经说得*很清楚了*，他说他再也不想和我说话了！
 ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|修普诺斯，你并不是必不可少的人物，你是明白的吧？如果你不赶紧打起精神来，你的工作就要被别人抢走了。
-ThanatosWithHypnos04|Thanatos With Hypnos 04|Hypnos|哦，我听得很清楚，塔纳托斯！我告诉你吧，要是真的有人来替我了，他就可以干{#DialogueItalicFormat}整个冥界最有意思的工作了{#PreviousFormat}！
+ThanatosWithHypnos04|Thanatos With Hypnos 04|Hypnos|哦，我听得很清楚，塔纳托斯！我告诉你吧，要是真的有人来替我了，他就可以干*整个冥界最有意思的工作了*！
 ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|我觉得我的话你一点都没听进去，兄弟。好吧，等到时候麻烦来了的话，可别怪我没警告过你。
 ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|……我想问，你花在检查清单上面的时间有多少？如果你总是花很多时间来看清单的话，那你根本没时间去做事情。
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|哦，我{#DialogueItalicFormat}就是喜欢{#PreviousFormat}列清单……我总会阐述这些事项，每个事项都是{#DialogueItalicFormat}独一无二{#PreviousFormat}的！这样别人在检查成果的时候，就会明白每件事的{#DialogueItalicFormat}来龙去脉{#PreviousFormat}了，是吧？不过……我猜这确实耽误了不少时间。
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|哦，我*就是喜欢*列清单……我总会阐述这些事项，每个事项都是*独一无二*的！这样别人在检查成果的时候，就会明白每件事的*来龙去脉*了，是吧？不过……我猜这确实耽误了不少时间。
 ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|您必须得想办法做好你分内的事情。你时不时会休息一下，是吧？或许在每次休息前后，你应该确保你自己做事的优先列表都有好好更新过。
-ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|等等，我自己的优先事项列表吗……？你指的是，我可以列一个……我自己的列表吗？呃，哇啊，{#DialogueItalicFormat}哇哦{#PreviousFormat}……
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|等等，我自己的优先事项列表吗……？你指的是，我可以列一个……我自己的列表吗？呃，哇啊，*哇哦*……
 ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|我听说你最近的工作汇报非常出色，修普诺斯。你必须告诉我，到底是谁在帮你？肯定不是扎格列欧斯吧。
-ThanatosWithHypnos06|Thanatos With Hypnos 06|Hypnos|哦，{#DialogueItalicFormat}哈哈{#PreviousFormat}，不是，他可没帮忙。我只是列了个列表，把重要的事情排在了前面，花更多时间在优先度比较高的报告上，结果……你看，就做得很好！
+ThanatosWithHypnos06|Thanatos With Hypnos 06|Hypnos|哦，*哈哈*，不是，他可没帮忙。我只是列了个列表，把重要的事情排在了前面，花更多时间在优先度比较高的报告上，结果……你看，就做得很好！
 ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|听着，虽然我不知道是怎么回事……但你工作成效提高了，大家也都看在眼里。你得坚持下去。
 ThanatosWithHypnos07|Thanatos With Hypnos 07|Thanatos|……不过，我想说的是……我很抱歉，修普诺斯。你是我的兄弟，但我一直以来都没把你当成过兄弟，你可以原谅我吗？
 ThanatosWithHypnos07|Thanatos With Hypnos 07|Hypnos|哎哟，别这样，塔纳托斯，你是在和我开玩笑吧？我们简直是穿一条裤子的好兄弟！你是我最出色的兄弟，也一直都在好好照顾我。就算你已经不知多长时间没来找过我了，我也这么觉得！
@@ -380,7 +380,7 @@ ThanatosGift04|Thanatos Gift 04|Zagreus|我们经历了很多，塔纳，我觉�
 ThanatosGift04_B|Thanatos Gift 04 B|Thanatos|我不知道你在想什么，才把这个东西给我。如果你在打什么主意的话，我可不想知道。
 ThanatosGift05|Thanatos Gift 05|Thanatos|最近怎么这么大方了…？如果你除了把这东西给我以外，没其他可做的，那我就只好把这些东西都存起来了。
 ThanatosGift05|Thanatos Gift 05|Zagreus|这主意不错。总有一天，我们会有足够多的这些东西，全拿出来摆宴席，羡煞奥林匹斯众神。
-ThanatosGift06|Thanatos Gift 06|Thanatos|你没开玩笑吧…你认真的…？{#DialogueItalicFormat}呃{#PreviousFormat}还是算了，我收下这个，然后我们就各干各事去吧。但我还是不明白你为何这样。
+ThanatosGift06|Thanatos Gift 06|Thanatos|你没开玩笑吧…你认真的…？*呃*还是算了，我收下这个，然后我们就各干各事去吧。但我还是不明白你为何这样。
 ThanatosGift06|Thanatos Gift 06|Zagreus|为何？除了时不时给你带来这些东西之外，我还能怎样表达自己的心情呢？
 ThanatosGift07_A|Thanatos Gift 07 A|Zagreus|嘿，塔纳。每次都是你救我出来，每次你总是守护在我身边……我只能给你这个。货真价实的好东西。
 ThanatosGift07_A|Thanatos Gift 07 A|Thanatos|是仙馔密酒……！扎格列欧斯，你是从哪里……你不觉得这有点太奢侈了吗？
@@ -390,18 +390,18 @@ ThanatosGift08|Thanatos Gift 08|Zagreus|这是给你的，塔纳托斯。奥林�
 ThanatosGift08|Thanatos Gift 08|Thanatos|不得不说……奥林匹斯的众神在这方面很有眼光。你之前给的我那瓶蜜酒……味道比我想象得还要好。不过，我已经差不多下定决心要戒酒了。
 ThanatosGift08|Thanatos Gift 08|Zagreus|再喝一口嘛！再尝一口，就当是比较一下味道吧。你知道吧，每一瓶蜜酒的味道都不一样。
 ThanatosGift08|Thanatos Gift 08|Thanatos|不一样吗，哈，好吧，那我就试试你说的“不一样”是什么意思吧。谢谢你，扎格，你真不用这么破费。
-ThanatosGift09|Thanatos Gift 09|Zagreus|我希望你能够找到货真价实的东西，塔纳，因为我可以给你一些，而且我保证你在看到以后不会做出{#DialogueItalicFormat}“啧，这是什么，扎格”{#PreviousFormat}这样的反应。
+ThanatosGift09|Thanatos Gift 09|Zagreus|我希望你能够找到货真价实的东西，塔纳，因为我可以给你一些，而且我保证你在看到以后不会做出*“啧，这是什么，扎格”*这样的反应。
 ThanatosGift09|Thanatos Gift 09|Thanatos|啊，这是什么？拜托，扎格列欧斯，你是在和我捣乱吗？如果你刚刚得到什么好东西，怎么可能就这么草率地决定送给我？
 ThanatosGift09|Thanatos Gift 09|Zagreus|为了……哦，不，这是我在不停洗劫我的父亲的地盘时找到的，而且因为我喜欢你，塔纳托斯。如果还有疑虑，那真的是大可不必。
-ThanatosGift09|Thanatos Gift 09|Thanatos|你{#DialogueItalicFormat}喜欢{#PreviousFormat}我，扎格列欧斯……？我从来没想过这种事情，我……不知道为什么，这句话从你嘴里说出来很奇怪，尤其是考虑到最近发生的事情。
+ThanatosGift09|Thanatos Gift 09|Thanatos|你*喜欢*我，扎格列欧斯……？我从来没想过这种事情，我……不知道为什么，这句话从你嘴里说出来很奇怪，尤其是考虑到最近发生的事情。
 ThanatosGift09|Thanatos Gift 09|Zagreus|是吗。现在的情况是，如果你对我并没有相同的感觉，就让我知道你的真实想法。不要再这样扭扭捏捏地交换什么礼物了。
 ThanatosGift09|Thanatos Gift 09|Thanatos|我从来没说过这样的话！你知道吗，还有很多凡人……等着我去抓。再见。
 ThanatosGift10|Thanatos Gift 10|Zagreus|塔纳托斯，我想为上次给你的那瓶所谓的货真价实的东西道歉，要不我们再交换一次礼物吧。可以吗？
-ThanatosGift10|Thanatos Gift 10|Thanatos|{#DialogueItalicFormat}唔{#PreviousFormat}！你在征求我的同意，要给我一件很好的礼物吗？行！我答应你了。不过，是什么让你这么有信心这次会比上次更加成功呢？
+ThanatosGift10|Thanatos Gift 10|Thanatos|*唔*！你在征求我的同意，要给我一件很好的礼物吗？行！我答应你了。不过，是什么让你这么有信心这次会比上次更加成功呢？
 ThanatosGift10|Thanatos Gift 10|Zagreus|我也没把握。我根本不知道自己在你心中的位置。但我很清楚自己的感受，所以我宁愿和你直说，即使冒着和你的关系破裂的风险，就像现在这样。
 ThanatosGift10|Thanatos Gift 10|Thanatos|我们的关系？如果你不记得了，让我来提醒你。不久前为了回到阳间，你还把它抛在脑后。而现在，你竟然说你在乎我，你……究竟要干什么，扎格列欧斯？
 ThanatosGift10|Thanatos Gift 10|Zagreus|是的，我真的在乎你，塔纳。我不应该不辞而别。但就在你找到我的时候，我……就是那个时候……那个时候我才明白，或者开始意识到，你懂我的意思吗？
-ThanatosGift10|Thanatos Gift 10|Thanatos|我……知道。我知道，因为……当时听说你走了，我心里非常气恼……自己都控制不了。所以……{#DialogueItalicFormat}呃{#PreviousFormat}。那我们现在怎么办？
+ThanatosGift10|Thanatos Gift 10|Thanatos|我……知道。我知道，因为……当时听说你走了，我心里非常气恼……自己都控制不了。所以……*呃*。那我们现在怎么办？
 ThanatosGift10|Thanatos Gift 10|Zagreus|也许我们应该慢慢来？不像那个所谓货真价实的东西，它只不过是件随处可见的商品罢了。别忘了……如果你和我有同样的感受……你就会知道在哪里可以找到我。如果没有……我还是很感激。
 ThanatosGift10|Thanatos Gift 10|Thanatos|……我知道了。好吧……我现在可以说的，也只有感激而已。你自己保重，扎格。
 ThanatosGift07|Thanatos Gift 07|Thanatos|我一定要把这个给你，扎格，你为了让我能原谅你做过的事，可真是下了番工夫啊。说真的，我很吃惊。
@@ -464,7 +464,7 @@ ThanatosFieldBackstory01|Thanatos Field Backstory 01|Thanatos|我母亲倪克斯
 ThanatosFieldBackstory02|Thanatos Field Backstory 02|Thanatos|听我说。我不知道该怎么说，但是，我希望你可以回家。自愿回来。现在不光是你卷入了这些事情中了。我知道你没有让我也参与进来，但是，我还能怎么办呢？
 ThanatosFieldBackstory02|Thanatos Field Backstory 02|Zagreus|…塔纳。这个家再不能回到从前了。再怎么掩饰都没用。我得走了。
 ThanatosFieldBackstory02|Thanatos Field Backstory 02|Thanatos|你不必做这种事的。你真的不知道你在这里有多自在。也许有一天你可以理解。
-ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|你又赢了，呵。{#DialogueItalicFormat}唉{#PreviousFormat}，我不得不承认，你并没有我想象得那么差劲。刚见到你的时候，我很确定你根本不是我的对手。
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|你又赢了，呵。*唉*，我不得不承认，你并没有我想象得那么差劲。刚见到你的时候，我很确定你根本不是我的对手。
 ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Zagreus|根据以往的人际经验，我好像很容易被低估。不管怎样，欢迎你随时来这里。我知道这对你来说不容易，塔纳。
 ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|可以说，这是非常公正的评价。但对我来说，并不是什么轻松的事情。我知道，有些事我必须去做。但我没有义务一直帮你，像现在这样。
 ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Zagreus|……什么？你是说就这样了吗？我不是已经向你证明自己了吗，你怎么还是要离我而去，你什么意思？
@@ -473,7 +473,7 @@ ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Thanatos|很高�
 ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Zagreus|毫无疑问，他的确是个不错的同伴。很难想象在经历这么多事情之后，你竟然能够找到他！以前你总是把他带在身边，当时听说你把他弄丢了，我也很难过。
 ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Thanatos|我简直无法相信你竟然还记得这些。不管怎样，在你的照看下，他不会再把他弄丢了，我说得对吗？
 ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Zagreus|关于我们之前聊过的事情，我很在乎你，塔纳托斯，非常在乎。不过你问我，对我来说，你究竟是什么呢……我该怎么回答你这个问题呢？
-ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Thanatos|{#DialogueItalicFormat}呃{#PreviousFormat}，我也不清楚。有的时候，我怀念什么感情都没有的那段日子，毕竟感觉不是总能靠得住的。我有时候会想，我们仅仅是朋友而已吗，还是说……哎，这真是太让人尴尬了。
+ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Thanatos|*呃*，我也不清楚。有的时候，我怀念什么感情都没有的那段日子，毕竟感觉不是总能靠得住的。我有时候会想，我们仅仅是朋友而已吗，还是说……哎，这真是太让人尴尬了。
 ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Zagreus|想想看把，讨论感情问题比对抗我父亲的力量还要困难。不过……我也一直在问自己同样的问题，塔纳，不知这么说能不能让你宽慰点。
 ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Thanatos|好吧，如果你想到了答案的话，就告诉我一声吧。能遇到你，我很高兴。
 ThanatosFieldAboutSingersReunionQuestComplete01|Thanatos Field About Singers Reunion Quest Complete 01|Thanatos|嘿，你对俄耳甫斯做的那件事情，我倒不是想把锅甩到你头上，扎格。只是我们插手的时候，我会很担心……我们可能会把事情搞砸了。

@@ -14,9 +14,9 @@ AthenaWithDemeter01|Athena With Demeter 01|Demeter|アテナ、そのような�
 PoseidonWithDemeter01|Poseidon With Demeter 01|Poseidon|女神デメテルとは、姉弟として育てられた仲だ。\nお堅い印象を受けるだろうが、あれで、\n俺のことをからかったりもするんだぞ？\nお、噂をすれば…
 PoseidonWithDemeter01|Poseidon With Demeter 01|Demeter|また無駄話ですか、ポセイドン。あなたの意見など、\n誰も求めていません。ザグレウスも忙しいのですから、黙って祝福だけ授ければよいのです。\nそうでしょう、ザグレウス？
 DemeterWithZeus01|Demeter With Zeus 01|Demeter|ザグレウス。名ばかりのオリュンポスの王ゼウスとも、邂逅を果たしましたね。とはいえ… 雪に覆われた\nこの山の真の統治者にふさわしいのは、彼と私、\nどちらかしら？
-DemeterWithZeus01|Demeter With Zeus 01|Zeus|ハハハ… {#DialogueItalicFormat}ご冗談を。{#PreviousFormat}ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。
+DemeterWithZeus01|Demeter With Zeus 01|Zeus|ハハハ… *ご冗談を。*ユーモアのセンスも、姉上が\n手入れしていた地上の作物と同様、枯れ果てて\nしまったようですな。庭仕事に戻っていただきたい\nところだが、まずはわが甥に助力いたしましょう。
 DemeterWithPoseidon01|Demeter With Poseidon 01|Demeter|ザグレウス。ちょうど今、ポセイドンに話していた\nところです。彼の統べる水域はすべて、私の手のひらの上だと。私の力をもってすれば、海も一瞬で凍りつく…
-DemeterWithPoseidon01|Demeter With Poseidon 01|Poseidon|{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
+DemeterWithPoseidon01|Demeter With Poseidon 01|Poseidon|*ハッハッハ！*おっしゃるとおり！\n姉上はたしかに絶大な力をお持ちだ。\nしかし、海が凍れば皆が困る。なあ、ザグ坊！
 DemeterWithAthena01|Demeter With Athena 01|Demeter|知略に長けた戦女神アテナが、ゼウスの頭から\n生まれたとは… 彼の頭部には知性のかけらも\n感じられないのに、なんとも不思議なことです。
 DemeterWithAthena01|Demeter With Athena 01|Athena|ザグレウス、女神デメテルは、\n悪意のない冗談をおっしゃっているにすぎない。\n伯母上とわが父上は、困難のさなかにあってもなお、\nこのような戯れを言い合う仲なのだ。
 DemeterWithAres01|Demeter With Ares 01|Demeter|ザグレウス、オリュンポスに到着したら、\n戦神アレスによくよく説明なさい。彼の大いなる力も、\n私の力なくしては無益だと。戦が起こる要因の多くは、\n私の司る事象なのですから。
@@ -38,7 +38,7 @@ DemeterPostEpilogue01|Demeter Post Epilogue 01|Demeter|まさかコレが… 私
 DemeterLiftsWinterCurse01|Demeter Lifts Winter Curse 01|Demeter|私の娘、ペルセポネが生きているのなら、\n永遠の冬も、永遠である必要はないのかもしれません。長きにわたり地上を凍てつかせた冬を終わらせることは容易ではありませんが… 私は季節の女神。\nそろそろ、移ろいがあってもよいのかもしれません。
 DemeterLiftsWinterCurse02|Demeter Lifts Winter Curse 02|Demeter|ザグレウス。約束どおり、地上から寒さを\n取り除きました。ただし、あなたの父上が統べる\n領域の近くだけは、極寒の冬のままにしておきます。\n今回の件を、誰も忘れることのないように。
 DemeterAboutPoseidon01|Demeter About Poseidon 01|Demeter|ポセイドンの祝福を受けたようですね。あの者には\nいずれ、おのれの領分をわきまえさせねば。私の力を\nもってすれば、すべての水域は氷と化すのです…
-DemeterAboutAthena01|Demeter About Athena 01|Demeter|アテナより、{#DialogueItalicFormat}“知恵”{#PreviousFormat}を授かったようですね。\nとはいえ、真の知恵は歳を重ねることでしか\n培うことができぬもの。よく心得ておくことです。
+DemeterAboutAthena01|Demeter About Athena 01|Demeter|アテナより、*“知恵”*を授かったようですね。\nとはいえ、真の知恵は歳を重ねることでしか\n培うことができぬもの。よく心得ておくことです。
 DemeterAboutAphrodite01|Demeter About Aphrodite 01|Demeter|愛情も、美しさも、この世界に在るものはすべて、\n冬の訪れとともに枯れる定め。女神アフロディテに\n何か約束をされたときは、それを思い出すことです。
 DemeterAboutAres01|Demeter About Ares 01|Demeter|アレスとの邂逅を果たしたようですね。\n彼は人間を殺し合わせる才には長けていますが、\n繊細な判断力は一切持ち合わせていません。
 DemeterAboutArtemis01|Demeter About Artemis 01|Demeter|アルテミスと出会ったようですね。\nあの娘は私に従順です。狩るべき獲物が\nあるのは、私のおかげなのですから。
@@ -159,7 +159,7 @@ DemeterLootBought01|Demeter Loot Bought 01|Demeter|ザグレウス。冥界へ�
 DemeterLootBought02|Demeter Loot Bought 02|Demeter|渡し守カロンは、地上が凍てつく寒さに見舞われようと\nまるで意に介していないようですね。
 DemeterLootBought03|Demeter Loot Bought 03|Demeter|渡し守カロンを介して、私の言葉があなたのもとに\n届いたようですね。彼が協力的でなによりです。
 DemeterRejection01|Demeter Rejection 01|Demeter|私が祝福を授けることはまれ。\nあなたはそれを拒むつもりですか。
-DemeterRejection02|Demeter Rejection 02|Demeter|人間たちの不敬には慣れていますが…\nよもや{#DialogueItalicFormat}あなた{#PreviousFormat}まで…
+DemeterRejection02|Demeter Rejection 02|Demeter|人間たちの不敬には慣れていますが…\nよもや*あなた*まで…
 DemeterRejection03|Demeter Rejection 03|Demeter|私から慈しみを受ける気がないのなら、代わりに怒りを注ぐまでです。
 DemeterRejection04|Demeter Rejection 04|Demeter|このような不敬を働くとどうなるか、\n警告しませんでしたか…？\nいずれにせよ、許されざる行為です。
 DemeterRejection05|Demeter Rejection 05|Demeter|私の祝福は、誰でも自由に受けられるものではない。今、思い知らせてあげましょう。

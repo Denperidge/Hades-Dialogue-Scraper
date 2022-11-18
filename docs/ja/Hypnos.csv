@@ -50,7 +50,7 @@ HypnosConsolation04_B|Hypnos Consolation 04 B|Hypnos|また、復讐の女神メ
 HypnosConsolation04_C|Hypnos Consolation 04 C|Hypnos|復讐の女神メガイラにお仕置きされたね！\n「お仕置き」って言い方、ちょっとよくない？彼女の\n武器は、紫色の光る鞭だしさ！ボクが話しかけようと\nすると、いっつもあれで打たれそうになるんだよね！
 HypnosConsolation05|Hypnos Consolation 05|Hypnos|トゲトゲの罠にブッ刺されちゃった？\nそれじゃ、こういう作戦はどうかな？「トゲトゲが\n飛び出すときは、上に立たないようにする」！
 HypnosConsolation06|Hypnos Consolation 06|Hypnos|矢の罠にやられちゃったんだね… 痛かったでしょ？\n今度からは、何かの陰に隠れてみたら？
-HypnosConsolation07|Hypnos Consolation 07|Hypnos|爆発する壺にやられちゃったね？あれって、タチの悪い亡霊を中に閉じ込めてあるんだけど、触ったら最後…\n{#DialogueItalicFormat}ボーン！{#PreviousFormat}大爆発だよ！
+HypnosConsolation07|Hypnos Consolation 07|Hypnos|爆発する壺にやられちゃったね？あれって、タチの悪い亡霊を中に閉じ込めてあるんだけど、触ったら最後…\n*ボーン！*大爆発だよ！
 HypnosConsolation08|Hypnos Consolation 08|Hypnos|ブラッドレスの、インフェルノ・ボマーってタイプの\nヤツらにやられたね？ボクも、ずーっと気になって\nたんだよね！あいつらが投げた爆弾が爆発するとき、\n近くにいるとどうなるのかなー、って！
 HypnosConsolation09|Hypnos Consolation 09|Hypnos|あちゃー… アスポデロスで、\nボーン・ヒュドラに踏みつぶされちゃったかー。\n頭がいっぱいあるけど、それぞれ違う攻撃を\nしてくるんだって？やっかいだねえ。
 HypnosConsolation09_B|Hypnos Consolation 09 B|Hypnos|またボーン・ヒュドラにやられちゃった？\n残念だったねえ。でも、キミにはあきらめてほしくない\nなあ！またタルタロスからアスポデロスを抜けて、\nあのホネホネヘビ野郎を懲らしめてきてよね！
@@ -98,7 +98,7 @@ HypnosConsolation40_C|Hypnos Consolation 40 C|Hypnos|あれ、おかしいな…
 HypnosConsolation41|Hypnos Consolation 41|Hypnos|記録読んだけど… 神殿に仕掛けてある、デカい\nノコギリをまともに食らったの…？うわー、痛そう！\nまあでも、見たところケガはなさそうでよかった！
 HypnosConsolation42|Hypnos Consolation 42|Hypnos|え？ステュクス神殿で、デカい斧が降ってきて？\nそれに当たって、頭がガンガンする？\nじゃあ、どうしたらいいか教えてあげるよ。\n「今度からは当たらないようにすること」！
 HypnosConsolation_PoisonTrap|Hypnos Consolation Poison Trap|Hypnos|毒ガスの中に入っていったの？じゃあ、肺も心臓も、\nあっという間に動かなくなったでしょ？\n今度から、ちゃんと覚えといてね。\n緑の霧に近づくと、死ぬからね！
-HypnosConsolation_BiomeTimer|Hypnos Consolation Biome Timer|Hypnos|「懲罰の盟約」の規定で、時間切れになっただけで\n死んじゃったの？これがホントの、\n「 {#DialogueItalicFormat}“デッド”{#PreviousFormat}ライン」！なーんてね！\nアハハハハハ！
+HypnosConsolation_BiomeTimer|Hypnos Consolation Biome Timer|Hypnos|「懲罰の盟約」の規定で、時間切れになっただけで\n死んじゃったの？これがホントの、\n「 *“デッド”*ライン」！なーんてね！\nアハハハハハ！
 HypnosConsolation_GunGrenadeDropTrait|Hypnos Consolation Gun Grenade Drop Trait|Hypnos|記録によると、爆弾ぽいの拾って、\n自爆しちゃった、ってなってるけど… \n拾ったら、いつまでも持ってないで敵に投げないと！
 HypnosConsolation_MiniBossCrawler01|Hypnos Consolation Mini Boss Crawler 01|Hypnos|待って待って！この記録、なんかの間違いじゃない？\nだって、「ネズミに殺された」って書いてあるよ？\nハハ… アハハハハハハ！\n…ごめん、ごめん。ご愁傷さま。
 HypnosConsolation_DiedEarly01|Hypnos Consolation Died Early 01|Hypnos|え… もう戻ってきたの！？記録によると、館を\n出るか出ないかぐらいで、さっそく死んじゃった\nみたいだけど… ねえ、やる気ある？\n本気出してそれなら、相当がんばんないと厳しいよ？

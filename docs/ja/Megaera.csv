@@ -29,8 +29,8 @@ Text|Text|Megaera|…そうなのか？それならかまわない。\nでは、
 Text|Text|Zagreus|…ああ。俺はときどき、事を急ぎすぎる嫌いがある。\nおまえとよい関係を築けていることはありがたいが、\nちょっと強引すぎたかもしれない、申し訳なかった。\nおまえは大切な友人だ。おまえも、他の誰かも、\n傷つけたくはない。
 Text|Text|Thanatos|…そうか。承知した。俺にとっても、おまえは\nかけがえのない友だ。ここ最近は、その関係が\nおびやかされることも多かった。俺はただ、\nおまえの無事を願っている。…では、失敬。
 Text|Text|Zagreus|…ああ、またな。
-Text|Text|Zagreus|タナトス… {#DialogueItalicFormat}ハハ… {#PreviousFormat} 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
-Text|Text|Thanatos|{#DialogueItalicFormat}フン… {#PreviousFormat}メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
+Text|Text|Zagreus|タナトス… *ハハ… * 来てくれたんだな！\nじつはその… メガイラも来ていたんだが…
+Text|Text|Thanatos|*フン… *メガイラとのつきあいの長さでは、こちらの方がはるかに上だ。そもそも、誰に説得されてここへ来たと思っている？
 Text|Text|Zagreus|ハッ！そういうことか。
 Text|Text|Thanatos|そうか… 承知した。では、俺は仕事に戻るとしよう。
 Text|Text|Zagreus|…ああ、またな。
@@ -60,7 +60,7 @@ MegaeraWithSisyphus03|Megaera With Sisyphus 03|Megaera|…王子の件が片づ�
 MegaeraWithSisyphus03|Megaera With Sisyphus 03|Sisyphus|ご安心ください、イワコフは…\nあー、イワコフというのはこの岩のことですが、\nこれまでどおり、定期的に、きちんと、わずかずつ、\n押し上げて参りますゆえ。では、失敬！
 FurySistersUnion01|Fury Sisters Union 01|Megaera|ザグレウス。\n妹たちと話し合い、互いに協力することにした。
 FurySistersUnion01|Fury Sisters Union 01|Alecto|メガイラ、ティシポネ、準備はいいかい？
-FurySistersUnion01|Fury Sisters Union 01|Tisiphone|{#DialogueItalicFormat}殺シィ…！{#PreviousFormat}
+FurySistersUnion01|Fury Sisters Union 01|Tisiphone|*殺シィ…！*
 FurySistersUnion01|Fury Sisters Union 01|Zagreus|三対一か… ちょっと卑怯じゃないか？
 FurySistersUnion01|Fury Sisters Union 01|Megaera|お互い、いまさら公正な戦いに\nこだわる意味がどこにある？\nおまえを殺すためなら、私は手段を選ばない。\nわれわれエリニュス三姉妹が相手をしてやる。
 FurySistersUnion02|Fury Sisters Union 02|Megaera|どうした、ザグレウス。気まずそうな顔をして。\n私に話があるのか？それとも、妹たちに用が？
@@ -72,7 +72,7 @@ FuryPostSistersUnion01|Fury Post Sisters Union 01|Megaera|妹たちも、悪い�
 FurySisterUnionSingleSis01|Fury Sister Union Single Sis 01|Megaera|見ろ、アレクト。時間通りに現れただろう？
 FurySisterUnionSingleSis01|Fury Sister Union Single Sis 01|Alecto|メガイラ、その男の血を流せ！
 FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Megaera|見ろ、ティシポネ。“殺し”の犯人が現れたぞ。
-FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Tisiphone|{#DialogueItalicFormat}殺シィィ…{#PreviousFormat}
+FurySisterUnionSingleSis02|Fury Sister Union Single Sis 02|Tisiphone|*殺シィィ…*
 FuryMetSisters01|Fury Met Sisters 01|Megaera|ザグレウス… おまえとの間にはいろいろあったが…\n妹たちにだけは、会わせたくなかった。
 FuryMetSisters01|Fury Met Sisters 01|Zagreus|どうして？初対面だったが、楽しい時間だった。おおいに笑って、泣いて… あの場にメグがいなかったことだけが心残りだ。
 FuryMetSisters01|Fury Met Sisters 01|Megaera|妹たちが館への出入りを許されていないことには、理由がある… まあいい。今回、館へ戻るのは、おまえと私、どちらになるか… 勝負だ。

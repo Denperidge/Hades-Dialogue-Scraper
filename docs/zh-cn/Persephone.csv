@@ -4,9 +4,9 @@ Ending01|Ending 01|Hades|……珀尔塞福涅……我……
 Ending01|Ending 01|Persephone|刻耳柏洛斯！我真想念你。永远这么尽责，是不是。
 Ending01|Ending 01|Hades|……对不起。我真诚地道歉。
 Ending01|Ending 01|Persephone|哈迪斯……你看上去很疲惫。 但是，你不能只向我一人道歉。
-Ending01|Ending 01|Hades|我知道，我知道。我……你怎么回来了？如果让众神 …… 让你母亲知道了，那后果，即使是宙斯——即使是{#DialogueItalicFormat}他{#PreviousFormat}也拦不住啊！
+Ending01|Ending 01|Hades|我知道，我知道。我……你怎么回来了？如果让众神 …… 让你母亲知道了，那后果，即使是宙斯——即使是*他*也拦不住啊！
 Ending01|Ending 01|Persephone|噢，我想我有几个应对方案。但为了解决这个问题，我需要你和扎格列欧斯的协助。或者……我就这么原路返回更合你的意？
-Ending01|Ending 01|Hades|应对方案？什么，你还想把他们请过来喝一杯{#DialogueItalicFormat}仙馔密酒{#PreviousFormat}？即便是你也无法修复分崩离析的家庭关系，珀尔塞福涅。
+Ending01|Ending 01|Hades|应对方案？什么，你还想把他们请过来喝一杯*仙馔密酒*？即便是你也无法修复分崩离析的家庭关系，珀尔塞福涅。
 Ending01|Ending 01|Persephone|你说得对，哈迪斯！我做不到。只靠我自己肯定做不到。那，你愿意帮我吗？
 Ending01|Ending 01|Hades|……只要你开口，我愿意为你做任何事。
 Ending01|Ending 01|Persephone|那么首先，和你的儿子聊聊。
@@ -24,17 +24,17 @@ Ending01|Ending 01|Hades|啊，孩子。如果因为我们和解了你就有一�
 Ending01|Ending 01|Zagreus|所以我得一路杀到地面然后不断地杀了我的亲生父亲？
 Ending01|Ending 01|Hades|你只说对了一半！
 Ending01|Ending 01|Persephone|也许你还可以打理一下我的小园子？照料花园不需要占用你很多精力。我是说万一我没法在这逗留很久的话。
-Ending01|Ending 01|Zagreus|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，好吧！我会去看看我能做些什么。
+Ending01|Ending 01|Zagreus|*哈哈哈*，好吧！我会去看看我能做些什么。
 Ending01|Ending 01|Persephone|做你力所能及的事就好。而且，我也有工作要做。前路漫漫啊，我想。那么，我们现在开始吧？
-Ending01|Ending 01|Zagreus|{#DialogueItalicFormat}终于尘埃落定了{#PreviousFormat}，这不过是短短几天的事情！不过一切都很好。母亲和父亲重新团聚，我结识了一些新朋友，还弄到了这幅漂亮的画！真简单，在冥界一切都是那么美好！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}不过，王子发现了一张字条……上面有着他从未见闻过的优美字迹以及动听的声音。
-Flashback05|Flashback 05|Persephone|{#DialogueItalicFormat}“哈迪斯：我不想再在这个地方折磨自己了。我要离开，付出生命的代价也在所不惜。我不会再回奥林匹斯。如果这世界有可以包容我的地方，那它一定在天堂与地狱之间。也许是在海岸边，附带一个小花园。照顾好刻耳柏洛斯；我会想他的。”
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}母亲写下的字条内容深深吸引了扎格列欧斯，这位冥界的王子。
-Flashback05|Flashback 05|Zagreus|母亲写下的字条，母亲写下的，等等，{#DialogueItalicFormat}你说什么{#PreviousFormat}？！你是说，这个叫珀尔塞福涅的人，她是……我母亲……？可，可我父亲一直说，说倪克斯才是我的……那个骗子。他骗我，他们两个都在骗我，把我蒙在鼓里！
-Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}咳咳，就这样，王子在不经意间解开了自己的身世之谜。完完全全的偶然，没错……
+Ending01|Ending 01|Zagreus|*终于尘埃落定了*，这不过是短短几天的事情！不过一切都很好。母亲和父亲重新团聚，我结识了一些新朋友，还弄到了这幅漂亮的画！真简单，在冥界一切都是那么美好！
+Flashback05|Flashback 05|Storyteller|*不过，王子发现了一张字条……上面有着他从未见闻过的优美字迹以及动听的声音。*
+Flashback05|Flashback 05|Persephone|*“哈迪斯：我不想再在这个地方折磨自己了。我要离开，付出生命的代价也在所不惜。我不会再回奥林匹斯。如果这世界有可以包容我的地方，那它一定在天堂与地狱之间。也许是在海岸边，附带一个小花园。照顾好刻耳柏洛斯；我会想他的。”*
+Flashback05|Flashback 05|Storyteller|*母亲写下的字条内容深深吸引了扎格列欧斯，这位冥界的王子。*
+Flashback05|Flashback 05|Zagreus|母亲写下的字条，母亲写下的，等等，*你说什么*？！你是说，这个叫珀尔塞福涅的人，她是……我母亲……？可，可我父亲一直说，说倪克斯才是我的……那个骗子。他骗我，他们两个都在骗我，把我蒙在鼓里！
+Flashback05|Flashback 05|Storyteller|*咳咳，就这样，王子在不经意间解开了自己的身世之谜。完完全全的偶然，没错……*
 AchillesWithPersephone01|Achilles With Persephone 01|Persephone|……能认识你很荣幸，伟大的阿喀琉斯，我们的皇家护卫！如果这里发生了什么事情的话，我很高兴能知道该和谁谈谈。所以说，就是你锻炼了我儿子的战斗技巧吗？
 AchillesWithPersephone01|Achilles With Persephone 01|Achilles|确实如此，冥后殿下，他是个天资聪颖的学生。如果您也能看到他的进步就好了，您一定会感到非常骄傲的。
-AchillesWithPersephone01|Achilles With Persephone 01|Persephone|我{#DialogueItalicFormat}真的{#PreviousFormat}很荣幸！说真的，我还在奥林匹斯山上的时候，你的大名就已经如雷贯耳了。我早该想到，在那之后，你的传奇故事会口耳相传到更远的地方！
+AchillesWithPersephone01|Achilles With Persephone 01|Persephone|我*真的*很荣幸！说真的，我还在奥林匹斯山上的时候，你的大名就已经如雷贯耳了。我早该想到，在那之后，你的传奇故事会口耳相传到更远的地方！
 AchillesWithPersephone01|Achilles With Persephone 01|Achilles|哦，我可说不好……不过还是谢谢您，冥后殿下。
 NyxWithPersephone01|Nyx With Persephone 01|Nyx|……珀尔塞福涅，我的冥后……我们实在是太久没见面了，不过，漫长的岁月似乎对你很是仁慈。能再次见到你，我很荣幸。
 NyxWithPersephone01|Nyx With Persephone 01|Persephone|哦，拜托了，倪克斯！咱们就没必要这么客套了，是吧？见到你我也很高兴，我的朋友。在地上世界的那段日子里，白天和这里截然不同，可到了晚上……我总是会想起我们在这里，一起度过的时光。
@@ -48,27 +48,27 @@ ThanatosWithPersephone01|Thanatos With Persephone 01|Thanatos|您的儿子，他
 ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|……谢谢您的祝福，珀尔塞福涅冥后。您的儿子和我……我们的关系一直都很亲密。不过一起经历了这些磨难之后，我觉得，我们的感情已经变得密不可分了。
 ThanatosWithPersephone02|Thanatos With Persephone 02|Persephone|是吗，看得出来，他比我挑人的品味可好多了，塔纳托斯！我感觉得到你是多么勤奋的人。希望你能照顾好自己，也希望你们两个都能照顾好对方，好吗？
 ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|如您所愿，冥后。我是说，没问题。
-DusaWithPersephone01|Dusa With Persephone 01|Dusa|{#DialogueItalicFormat}呃{#PreviousFormat}，能见到您真是我的荣幸。请叫我杜莎就好！我，我算是您的圣殿管家？我时刻愿意为您效劳！如果需要什么，告诉我就好，好吗？
+DusaWithPersephone01|Dusa With Persephone 01|Dusa|*呃*，能见到您真是我的荣幸。请叫我杜莎就好！我，我算是您的圣殿管家？我时刻愿意为您效劳！如果需要什么，告诉我就好，好吗？
 DusaWithPersephone01|Dusa With Persephone 01|Persephone|杜莎，能认识你真的很高兴！这座圣殿真是太棒了！和以前完全不一样，我现在知道这都是谁的功劳了。
 DusaWithPersephone01|Dusa With Persephone 01|Dusa|谢谢您！我不会让您失望的！！
-OrpheusWithPersephone01|Orpheus With Persephone 01|Persephone|……{#DialogueItalicFormat}啊{#PreviousFormat}，想想看，我们尊贵的宫廷乐师正是{#DialogueItalicFormat}你{#PreviousFormat}，俄耳甫斯本人！至少在音乐方面，我和哈迪斯的品位还是很相似的。总之，我可没打算一直把你扣在这里！
+OrpheusWithPersephone01|Orpheus With Persephone 01|Persephone|……*啊*，想想看，我们尊贵的宫廷乐师正是*你*，俄耳甫斯本人！至少在音乐方面，我和哈迪斯的品位还是很相似的。总之，我可没打算一直把你扣在这里！
 OrpheusWithPersephone01|Orpheus With Persephone 01|Orpheus|能为您演奏是我的荣幸，冥后殿下。另外，不知能否多言一句？您和您儿子有很多俊美的地方长得很像。我现在明白，他这么风度翩翩是像谁了。
 MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|……我的职责就是阻止他逃出去，如果我那时成功的话……他恐怕永远都见不到您了。所以只有这一次，我很庆幸我失职了。希望您能明白，冥后殿下。
-MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|我想过，但那时我并不确定，直到你刚刚告诉我，墨纪拉主管！可以这么称呼你吗？我明白，自从我，{#DialogueItalicFormat}呃{#PreviousFormat}，离开了这座圣殿之后，你就做了相当多的工作。我能看得出来倪克斯和哈迪斯为什么这么信任你！
+MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|我想过，但那时我并不确定，直到你刚刚告诉我，墨纪拉主管！可以这么称呼你吗？我明白，自从我，*呃*，离开了这座圣殿之后，你就做了相当多的工作。我能看得出来倪克斯和哈迪斯为什么这么信任你！
 MegaeraWithPersephone01|Megaera With Persephone 01|Megaera|谢谢您，冥后殿下。如果有什么别的事情可以帮助您适应这里的话，请尽管开口，我随时愿意为您效劳。这里的一切都诚挚地欢迎您。
 MegaeraWithPersephone01|Megaera With Persephone 01|Persephone|你也一样，如果我儿子惹出来的麻烦已经超出了你能忍受的程度，你一定得告诉我，好吗？
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|我想问一下，你是哪位，一直在这里徘徊？你该明白，你正在非法闯入他人的住处。开口吧！
-PersephoneFirstMeeting|Persephone First Meeting|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，你一定是……珀尔塞福涅了。我的名字是扎格列欧斯，而且……我想我应该是你的儿子。
-PersephoneFirstMeeting|Persephone First Meeting|Persephone|{#DialogueItalicFormat}什么{#PreviousFormat}？！你竟敢……滚出去！赶紧滚出去，否则我就亲自把你撵走！！别让我再见到你！
-PersephoneFirstMeeting|Persephone First Meeting|Zagreus|不！！所以说你{#DialogueItalicFormat}就是{#PreviousFormat}她。我、我不在乎你讨不讨厌我，但我在得到答案之前是不会走的！我根本不知道你还活着，你为什么要离开我？
+PersephoneFirstMeeting|Persephone First Meeting|Zagreus|*呃*，你一定是……珀尔塞福涅了。我的名字是扎格列欧斯，而且……我想我应该是你的儿子。
+PersephoneFirstMeeting|Persephone First Meeting|Persephone|*什么*？！你竟敢……滚出去！赶紧滚出去，否则我就亲自把你撵走！！别让我再见到你！
+PersephoneFirstMeeting|Persephone First Meeting|Zagreus|不！！所以说你*就是*她。我、我不在乎你讨不讨厌我，但我在得到答案之前是不会走的！我根本不知道你还活着，你为什么要离开我？
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|可你已经死了！你、你死了……！你那双燃烧的双脚……你出生的时候，它熄灭了。可……你现在就站在我面前，这怎么可能……？
-PersephoneFirstMeeting|Persephone First Meeting|Zagreus|我死了？我死了……等等，你说的是{#DialogueItalicFormat}彻底{#PreviousFormat}死了，可我还活着啊！哦，天啊……你也不知道我还活着。
-PersephoneFirstMeeting|Persephone First Meeting|Persephone|你还活着！扎格列欧斯，他……连你的名字都没改过！你还活着，这怎么可能，你还活着？{#DialogueItalicFormat}你还活着{#PreviousFormat}……！哦，残酷的命运女神啊，是我的儿子！
+PersephoneFirstMeeting|Persephone First Meeting|Zagreus|我死了？我死了……等等，你说的是*彻底*死了，可我还活着啊！哦，天啊……你也不知道我还活着。
+PersephoneFirstMeeting|Persephone First Meeting|Persephone|你还活着！扎格列欧斯，他……连你的名字都没改过！你还活着，这怎么可能，你还活着？*你还活着*……！哦，残酷的命运女神啊，是我的儿子！
 PersephoneFirstMeeting|Persephone First Meeting|Zagreus|……简单地说，虽然他竭尽全力阻止我们像这样见面，但我还是把他打败了。不过有些事情他想让我告诉你，他想让我告诉你，刻耳柏洛斯一切都相当好。
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|啊，是他告诉你的，是吧？这太好了，这太好了！不过和我说说吧，扎格列欧斯。莫非……你就是这样找到我的吗？你走了这么远来到这里，我简直不敢相信……扎格列欧斯？
-PersephoneFirstMeeting|Persephone First Meeting|Zagreus|{#DialogueItalicFormat}呃啊{#PreviousFormat}……哦，我猜……我可能有点累了，没什么的。我还不怎么适应这里的“天气”，是这么说的吧。
+PersephoneFirstMeeting|Persephone First Meeting|Zagreus|*呃啊*……哦，我猜……我可能有点累了，没什么的。我还不怎么适应这里的“天气”，是这么说的吧。
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|不……不是这么回事，而是……你不能留在这里，你没办法留在这里。
-PersephoneFirstMeeting|Persephone First Meeting|Zagreus|真的吗，你真的……{#DialogueItalicFormat}呵{#PreviousFormat}……要赶走我吗？为什么？
+PersephoneFirstMeeting|Persephone First Meeting|Zagreus|真的吗，你真的……*呵*……要赶走我吗？为什么？
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|命运女神很残酷，扎格列欧斯。你被束缚在了冥界……就像你的父亲一样。所以，我们恐怕只能暂时分开了。知道你还活着，我的心都要飞起来了。可知道我们能在一起的时间如此短暂，我的心都要碎了。
 PersephoneFirstMeeting|Persephone First Meeting|Zagreus|不……我还会……回来的……既然我找到你了，那我就还能回来。他……或许他也会允许我回来的。
 PersephoneFirstMeeting|Persephone First Meeting|Persephone|你告诉他，是我要求你回来的。而且我要求他说清楚，为什么无论是他，还是倪克斯，都没告诉过我你还活着呢？奥林匹斯山上到处都是阴谋家，可那时的我太天真了，还以为他们会不一样呢。
@@ -83,46 +83,46 @@ PersephoneMeeting02|Persephone Meeting 02|Zagreus|我觉得我明白这种感觉
 PersephoneMeeting02|Persephone Meeting 02|Persephone|没有，没有。你父亲可能是个很难相处的人，但他对我一直很温和。没过多久，我们的感情就变得很好，有的时候甚至不仅仅是很好，可……当我怀孕的时候……我的心里非常难受，因为……地上世界的人生出来的孩子，是没办法在冥界生存的。
 PersephoneMeeting02|Persephone Meeting 02|Zagreus|没办法在冥界生存，这到底是谁说的？是命运三女神吗？
 PersephoneMeeting02|Persephone Meeting 02|Persephone|是啊，是她们说的，你的父亲和倪克斯也都说过这样的话。但即便如此……我还是打算冒险。可看到你一出生就夭折的时候……我实在是受不了了。我逃出来了，逃到了这里，无论是冥界还是奥林匹斯山，都不知道这个地方。
-PersephoneMeeting02|Persephone Meeting 02|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}……可是……父亲为什么要对你撒谎？如果他根本不想你……或者说，根本不想我诞生……他肯定应该有办法才对。
+PersephoneMeeting02|Persephone Meeting 02|Zagreus|*呃*……可是……父亲为什么要对你撒谎？如果他根本不想你……或者说，根本不想我诞生……他肯定应该有办法才对。
 PersephoneMeeting02|Persephone Meeting 02|Persephone|我不清楚，我也疑惑这个问题。不过，哦，看看你啊，扎格列欧斯！我们的时间不多了，又要这样了！求求你，呆在我身边吧！
 PersephoneMeeting02|Persephone Meeting 02|Zagreus|……我也想……但我已经……没办法呆太久了……我恐怕不行了。
 PersephoneMeeting02|Persephone Meeting 02|Persephone|啊，我亲爱的儿子！那就去吧……问哈迪斯你问我的那个问题！他为什么要撒谎？告诉他，你和我一定要知道答案。祝你一路顺利，我们下次见吧！
 PersephoneMeeting03|Persephone Meeting 03|Zagreus|母亲，我……我弄清楚父亲是怎么让你相信，我一生出来就会死了。确切地说，他并没有对你撒谎，他是这么说的。
 PersephoneMeeting03|Persephone Meeting 03|Persephone|等等，我跟不上了，扎格列欧斯，这是什么意思？他说过，你一生出来就会死，可你就站在我面前。这不就是他在撒谎吗？
 PersephoneMeeting03|Persephone Meeting 03|Zagreus|因为……他以为这是真的。命运女神让他统治整个冥界，但他没办法拥有子嗣，于是他就是这么理解的。他根本不认为我会出生，更不认为我会活下来。
-PersephoneMeeting03|Persephone Meeting 03|Persephone|他根本不认为你会活下来？请原谅我这么冒昧，可……你为什么还活着？你是{#DialogueItalicFormat}怎么{#PreviousFormat}活下来的？像这样的事情，命运三女神是绝不会搞错的。
+PersephoneMeeting03|Persephone Meeting 03|Persephone|他根本不认为你会活下来？请原谅我这么冒昧，可……你为什么还活着？你是*怎么*活下来的？像这样的事情，命运三女神是绝不会搞错的。
 PersephoneMeeting03|Persephone Meeting 03|Zagreus|是倪克斯救了我一命，或者说，是她赐予了我生命。你不在的时候，是她养大了我。命运三女神都是她的女儿，是吧？说不定是她劝她们别对我这么刻薄。她不能透露更多内情了。总之，她为了救我，花了相当大的力气……等我活过来的时候，你已经走了。
 PersephoneMeeting03|Persephone Meeting 03|Persephone|倪克斯……是啊，她肯定帮忙了。我能逃到这里，也都是多亏了她。在那之后，她把我死去的孩子救了回来，把他养大成人？而且我对这一切一无所知，直到那个孩子长大成人，知道真相之后，违抗他父亲的意愿，来这里找到了我，是吗？
-PersephoneMeeting03|Persephone Meeting 03|Zagreus|是啊，不过我们还是不清楚，为什么父亲和倪克斯从来没找过你。不过，{#DialogueItalicFormat}呃{#PreviousFormat}，如果可以的话，有件事我想问你，母亲。如果你发现……我还活着，而且活得好好的……你愿意回来吗？
+PersephoneMeeting03|Persephone Meeting 03|Zagreus|是啊，不过我们还是不清楚，为什么父亲和倪克斯从来没找过你。不过，*呃*，如果可以的话，有件事我想问你，母亲。如果你发现……我还活着，而且活得好好的……你愿意回来吗？
 PersephoneMeeting03|Persephone Meeting 03|Persephone|我愿意回到冥界……与我唯一的儿子团聚吗？我要是早知道你活着的话……我愿意再次横穿整个冥界去见你，扎格列欧斯。我一定会这么做的。
-PersephoneMeeting03|Persephone Meeting 03|Zagreus|可如果……如果……{#DialogueItalicFormat}呃{#PreviousFormat}……如果父亲……不希望你……这么做呢？
+PersephoneMeeting03|Persephone Meeting 03|Zagreus|可如果……如果……*呃*……如果父亲……不希望你……这么做呢？
 PersephoneMeeting03|Persephone Meeting 03|Persephone|如果他不希望我回到他身边呢？还是不希望我去见你？哦，不，你又要消失了，扎格列欧斯，你把自己逼得太狠了！不过，你刚刚说的话到底是什么意思？
 PersephoneMeeting04|Persephone Meeting 04|Persephone|真高兴又见到你了，扎格列欧斯。你上次离开之后，我就情不自禁地在想那些最可怕的事情，我离开之后……或是不久之前的事情。你上次提到了倪克斯……你觉得她和哈迪斯……应该不会不希望我回去吧？
 PersephoneMeeting04|Persephone Meeting 04|Zagreus|我……不觉得他们是这样的人。不过我想问你，你和我的父亲认识了多久？和倪克斯认识了多久？他们看起来可信吗？
 PersephoneMeeting04|Persephone Meeting 04|Persephone|可信，我和他们已经认识很久了，我觉得他们是可信的人，和我遇到的其他人一样可信。但我也知道，千万别把信任托付给错误的人，我必须考虑他们骗我的可能性。
 PersephoneMeeting04|Persephone Meeting 04|Zagreus|尤其是他们谁都没和我一起来，是这样吧？不过，我和你的感觉不太一样，母亲。父亲谈起你时的样子，还有倪克斯谈起你的样子……我觉得……他们很在乎你。
-PersephoneMeeting04|Persephone Meeting 04|Persephone|{#DialogueItalicFormat}啊，哈哈哈{#PreviousFormat}！那我觉得，他们关心人的方式可太有意思了。你的父亲，这么说吧……你每次来都得先打败{#DialogueItalicFormat}他{#PreviousFormat}，才能见到{#DialogueItalicFormat}我{#PreviousFormat}，是吗？
+PersephoneMeeting04|Persephone Meeting 04|Persephone|*啊，哈哈哈*！那我觉得，他们关心人的方式可太有意思了。你的父亲，这么说吧……你每次来都得先打败*他*，才能见到*我*，是吗？
 PersephoneMeeting04|Persephone Meeting 04|Zagreus|是啊，母亲。可如果……如果父亲觉得他这么做是在保护你呢？你有没有……这么想过？
 PersephoneMeeting04|Persephone Meeting 04|Persephone|保护我？你这么说是什么意思，扎格列欧斯？如你所见，我一个人也能过得很好。
-PersephoneMeeting04|Persephone Meeting 04|Zagreus|这么说吧……{#DialogueItalicFormat}呃{#PreviousFormat}……你来自奥林匹斯山，是吧？可……奥林匹斯众神好像都不知道……你在这里……所以……
+PersephoneMeeting04|Persephone Meeting 04|Zagreus|这么说吧……*呃*……你来自奥林匹斯山，是吧？可……奥林匹斯众神好像都不知道……你在这里……所以……
 PersephoneMeeting04|Persephone Meeting 04|Persephone|什么？这件事情你是怎么知道的？扎格列欧斯？啊，该死的命运女神，你又要离开我了……
 PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|儿子，我想问问你。关于你在奥林匹斯山上的亲戚们，你对他们有多少了解？
 PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|我觉得我已经对他们相当了解了。自从我第一次离开父亲的圣殿起，我就一直与雅典娜、宙斯，还有很多其他神明一直保持联系……来这里的路上，他们一直在帮我。
-PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|不……扎格列欧斯，你做了什么啊？你把他们带到了{#DialogueItalicFormat}这里{#PreviousFormat}？
-PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|不，不，他们以为……他们以为我打算逃出父亲的王国，去奥林匹斯山与他们相聚。至少我{#DialogueItalicFormat}觉得{#PreviousFormat}他们是这么想的，反正大部分是这么想的。
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|不……扎格列欧斯，你做了什么啊？你把他们带到了*这里*？
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|不，不，他们以为……他们以为我打算逃出父亲的王国，去奥林匹斯山与他们相聚。至少我*觉得*他们是这么想的，反正大部分是这么想的。
 PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|可是……哈迪斯知道这件事吗？他知道奥林匹斯众神也插手了吗？
 PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|知道，他和倪克斯都知道。老实说，是倪克斯让我和奥林匹斯众神取得联系的。要不是因为他们的帮助，我绝对没办法逃出冥界。
 PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|所以倪克斯和哈迪斯彼此敌视，奥林匹斯众神在帮助你……而据你所知，他们并不知道我在这里。
 PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|差不多算是这样吧，倪克斯和父亲看起来只能忍着对方，他们似乎也别无选择。不过，自从我得知了你的下落之后，倪克斯一直在帮我找你……而父亲一直试图阻止我。
-PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|那个蠢货……他之前想什么呢？他{#DialogueItalicFormat}在{#PreviousFormat}想什么呢……？你觉得……他是想保护我不被{#DialogueItalicFormat}他们{#PreviousFormat}找到吗？哦，不……
-PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|我……{#DialogueItalicFormat}呃{#PreviousFormat}……我觉得说不定他以为是在保护你……因为我已经见过奥林匹斯山的亲戚们了，我……很明显看得出来，他们对很多事情都有点……复仇心切。
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|那个蠢货……他之前想什么呢？他*在*想什么呢……？你觉得……他是想保护我不被*他们*找到吗？哦，不……
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|我……*呃*……我觉得说不定他以为是在保护你……因为我已经见过奥林匹斯山的亲戚们了，我……很明显看得出来，他们对很多事情都有点……复仇心切。
 PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|复仇心切是我们家族的传统，我的儿子。不过如果奥林匹斯众神也参与进来了，那很多事情就说得通了。如你所见，我在这里生活，而没有回去和他们在一起。不过，哦，看来我们只能下次再说了，等你下次再来吧……
 PersephoneMeeting06|Persephone Meeting 06|Persephone|我受不了在奥林匹斯山上的生活，扎格列欧斯。那所有的喧闹，惺惺作态……还有我那专横的母亲……我都不喜欢。我本打算自己离开奥林匹斯山的，可……
 PersephoneMeeting06|Persephone Meeting 06|Zagreus|……可父亲带你私奔了，是吧？他带着你私奔到了冥界。所以，如果奥林匹斯众神发现了这件事情的话……我都不敢想象会发生什么后果。
 PersephoneMeeting06|Persephone Meeting 06|Persephone|就算是现在，那个傻瓜也想要保护我。并不是他把我强行带到这里的，我的儿子，事情比这要复杂得多。能离开那里，我很开心。我很愿意在冥界生活，与你的父亲一起生活。
-PersephoneMeeting06|Persephone Meeting 06|Zagreus|我还是不问是谁{#DialogueItalicFormat}把你{#PreviousFormat}带到父亲那里的了。所以大体而言，你从家里私奔出来，要和他一起生活，是吗？我无意冒犯，可……你知不知道这样做会惹出什么麻烦？
+PersephoneMeeting06|Persephone Meeting 06|Zagreus|我还是不问是谁*把你*带到父亲那里的了。所以大体而言，你从家里私奔出来，要和他一起生活，是吗？我无意冒犯，可……你知不知道这样做会惹出什么麻烦？
 PersephoneMeeting06|Persephone Meeting 06|Persephone|我们年轻的时候都会比较莽撞，扎格列欧斯。早在见到你父亲之前，我就听说过很多关于他的事情，还欣赏过他的画像。虽然我们一开始相处得很别扭，但他那股率真劲儿让我着迷，他是个有原则的人。我可以告诉你，我觉得他比他的兄弟们好得多。
-PersephoneMeeting06|Persephone Meeting 06|Zagreus|所以，{#DialogueItalicFormat}呃{#PreviousFormat}……你偷偷离开了奥林匹斯山，是为了能和冥王一起生活，而且奥林匹斯众神并不知道这件事情。你觉得，如果他们知道了的话……会怎么样呢？
+PersephoneMeeting06|Persephone Meeting 06|Zagreus|所以，*呃*……你偷偷离开了奥林匹斯山，是为了能和冥王一起生活，而且奥林匹斯众神并不知道这件事情。你觉得，如果他们知道了的话……会怎么样呢？
 PersephoneMeeting06|Persephone Meeting 06|Persephone|……我猜……如果他们发现的话，他们多半会和你的父亲开战，尤其是这种时候，已经经历了这么多事情。他们以前就杀父弑母。如果他们连泰坦都能消灭的话，那我们肯定也无法幸免于难。
 PersephoneMeeting06|Persephone Meeting 06|Zagreus|这就说得通了……如果父亲也和你想得一样，觉得……只有让你藏在这里……才能阻止这场战争的话……
 PersephoneMeeting06|Persephone Meeting 06|Persephone|你父亲是个既精明、又一根筋的人，我看得出来，他应该一直都是这么想的。哦，扎格列欧斯啊……我都做了什么啊？
@@ -131,9 +131,9 @@ PersephoneMeeting07|Persephone Meeting 07|Zagreus|等等，你说什么？你害
 PersephoneMeeting07|Persephone Meeting 07|Persephone|是啊，涉及到这样的事情，你父亲绝对不傻。而且……所发生的一切……都是我的错，是我太自私了！如今，我们两边的家庭都有分崩离析的风险。
 PersephoneMeeting07|Persephone Meeting 07|Zagreus|都是你的错？这么说吧，假设你根本没有离开过奥林匹斯山！那一切就都会和你预想的那样。那我根本就不会出生了！而且奥林匹斯众神一直都没发现这件事情。你为什么觉得他们现在就会突然发现呢？
 PersephoneMeeting07|Persephone Meeting 07|Persephone|当你逃到这里的时候，是倪克斯隐去了你的行踪，就像她当年把我藏起来一样。但就算是她的力量，也不是绝对可靠的。你每次来见我，都是在冒着风险。一旦走错一小步，他们就会找到我，就会发现你在欺骗他们。回家吧，扎格列欧斯，拜托了。
-PersephoneMeeting07|Persephone Meeting 07|Zagreus|和我{#DialogueItalicFormat}一起{#PreviousFormat}回去吧，母亲！你是因为误会才会来这里的。我一遍又一遍地冲到这里，可不是为了这种时候扭头就走的。我的人生需要你！你怎么能……就这样赶我走呢？
+PersephoneMeeting07|Persephone Meeting 07|Zagreus|和我*一起*回去吧，母亲！你是因为误会才会来这里的。我一遍又一遍地冲到这里，可不是为了这种时候扭头就走的。我的人生需要你！你怎么能……就这样赶我走呢？
 PersephoneMeeting07|Persephone Meeting 07|Persephone|哦，扎格列欧斯……我不能回去了。我和哈迪斯，和所有人之间发生了这样的事情之后，我不清楚大家都是怎么想的。而且……如果奥林匹斯众神发现我和他，和你在一起，我们的风险就更高了。
-PersephoneMeeting07|Persephone Meeting 07|Zagreus|所以……{#DialogueItalicFormat}呃{#PreviousFormat}……你就打算……留在这里吗？一个人孤苦伶仃，呆在这座小花园里……呆一辈子吗？就这样和我们分开吗？
+PersephoneMeeting07|Persephone Meeting 07|Zagreus|所以……*呃*……你就打算……留在这里吗？一个人孤苦伶仃，呆在这座小花园里……呆一辈子吗？就这样和我们分开吗？
 PersephoneMeeting07|Persephone Meeting 07|Persephone|我的儿子……我知道为了来这里见我，你做出了很多艰难的决定，付出了很多牺牲。能见到你，我非常感激。可没错，这里如今就是我的家了，而你的家在冥界。拜托了，就算不是为了你，也是为了我吧……别再回来了。我爱你，扎格列欧斯，再见了。
 PersephoneMeeting08|Persephone Meeting 08|Zagreus|你不能这么对我，母亲。你说过父亲并不傻，你也不傻，那肯定会有什么办法解决问题才对。不仅仅是解决你和父亲的问题，而是解决所有人的问题。肯定会有什么方法才对！
 PersephoneMeeting08|Persephone Meeting 08|Persephone|……你和你的父亲一样顽固。听我说，你来这里会让你在乎的一切处于危险之中，你还不明白吗？而且……
@@ -141,36 +141,36 @@ PersephoneMeeting08|Persephone Meeting 08|Zagreus|什么？而且什么？拜托
 PersephoneMeeting08|Persephone Meeting 08|Persephone|……老实说，我很喜欢这个地方，扎格列欧斯。我一个人过得很好。至于你的父亲，他还要管理他的王国呢。他曾经对我的爱……我们在一起的那些感情……是会随着时间冲淡的。总有一天，你会明白这一点。
 PersephoneMeeting08|Persephone Meeting 08|Zagreus|我不！我才不想理解这些事情呢。父亲还爱着你，我很肯定！而且他还欠你个道歉呢，该死！我可没办法替他来让你们破镜重圆。只有你们齐心协力，才能办得到。
 PersephoneMeeting08|Persephone Meeting 08|Persephone|你说他还爱着我，这是什么意思，扎格列欧斯……？你是怎么知道的？
-PersephoneMeeting08|Persephone Meeting 08|Zagreus|与某位……{#DialogueItalicFormat}呃{#PreviousFormat}……我是他该死的儿子，所以我知道！不过只有一句{#DialogueItalicFormat}“相信我”{#PreviousFormat}是不够的，我也明白。我会向你证明这一点的，母亲！你等着看吧。
+PersephoneMeeting08|Persephone Meeting 08|Zagreus|与某位……*呃*……我是他该死的儿子，所以我知道！不过只有一句*“相信我”*是不够的，我也明白。我会向你证明这一点的，母亲！你等着看吧。
 PersephoneMeeting08|Persephone Meeting 08|Persephone|你要消失了，儿子……你什么都不用向我证明。求求你了，千万别做莽撞的事情。我们所有人都做出了选择，如今我们必须承受后果。知道我很安全，我一个人很满足，难道这还不够吗？
-PersephoneMeeting08|Persephone Meeting 08|Zagreus|不够……{#DialogueItalicFormat}呃{#PreviousFormat}……不够，对我来说不够。因为……这个该死的家庭……不能总是对问题视而不见！不能总是逃避问题！我们都是家人，我们……我们必须尽我们所能……为了家人！
+PersephoneMeeting08|Persephone Meeting 08|Zagreus|不够……*呃*……不够，对我来说不够。因为……这个该死的家庭……不能总是对问题视而不见！不能总是逃避问题！我们都是家人，我们……我们必须尽我们所能……为了家人！
 PersephoneMeeting08|Persephone Meeting 08|Persephone|我……哦，我亲爱的孩子……
 PersephoneMeeting09|Persephone Meeting 09|Persephone|……那座阴郁圣殿所有的东西里，我最想念的就是刻耳柏洛斯，不过其它的东西我也一样想念。那里没什么光照，对我的皮肤更好，也没上面这么冷，还有倪克斯和她年轻的儿子们。一切都很怪异，不过……
-PersephoneMeeting09|Persephone Meeting 09|Zagreus|母亲……在父亲的卧室里……我想告诉你，那里几乎什么都没有，只整齐地摆着一大排一模一样的披肩……不过在他的床头柜上……却摆着{#DialogueItalicFormat}你{#PreviousFormat}的肖像。你戴着红色的桂冠，是那里的皇后，{#DialogueItalicFormat}他的{#PreviousFormat}皇后。
+PersephoneMeeting09|Persephone Meeting 09|Zagreus|母亲……在父亲的卧室里……我想告诉你，那里几乎什么都没有，只整齐地摆着一大排一模一样的披肩……不过在他的床头柜上……却摆着*你*的肖像。你戴着红色的桂冠，是那里的皇后，*他的*皇后。
 PersephoneMeeting09|Persephone Meeting 09|Persephone|我刚到那里的时候，就穿着那样的衣服。那……并不是我一直以来的风格。所以说，哈迪斯还摆着一张我的画像，他干嘛要挑这种时候把它摆回去，做样子给别人看？
 PersephoneMeeting09|Persephone Meeting 09|Zagreus|不，不，他根本不让任何人进入他的卧室！是我闯进去的。你还看不出来吗？他才不是把它摆回去做样子。你走了之后，那副画像一直就摆在那里。所以说，母亲，你觉得他为什么要这么做？
 PersephoneMeeting09|Persephone Meeting 09|Persephone|因为他……因为他还爱着我，这就是你想听到的答案吗？
 PersephoneMeeting09|Persephone Meeting 09|Zagreus|你有没有爱过他？
 PersephoneMeeting09|Persephone Meeting 09|Persephone|我那时真正的愿望，不过是离开奥林匹斯山而已，我并不真的打算私奔。我觉得那时我也有很多其它选择，但我还是跑了。或许宙斯明白我的感受，他觉得他那样是在帮我。至于哈迪斯……我渐渐地爱上了他，是啊，他总是愿意给我私人空间。
-PersephoneMeeting09|Persephone Meeting 09|Zagreus|你就不想……{#DialogueItalicFormat}呃{#PreviousFormat}……就不想和他聊聊天吗？就不想再见见刻耳柏洛斯，或是倪克斯吗？至于奥林匹斯众神……你们齐心协力的话……总能想出什么办法吧……？
+PersephoneMeeting09|Persephone Meeting 09|Zagreus|你就不想……*呃*……就不想和他聊聊天吗？就不想再见见刻耳柏洛斯，或是倪克斯吗？至于奥林匹斯众神……你们齐心协力的话……总能想出什么办法吧……？
 PersephoneMeeting09|Persephone Meeting 09|Persephone|……我不知道，儿子。奥林匹斯众神就在我身后，至于冥界……已经过了这么久了，我觉得恐怕大家不会太欢迎我吧。
 PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|母亲，等等，这是怎么回事？
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|哦，扎格列欧斯，差点就没见到你。不过说实话，我本想给你个惊喜来着……
 PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|什么惊喜？
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|我的到来啊。我打算走了，去你那边，去找刻耳柏洛斯、倪克斯，还有你的父亲。
-PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|你……{#DialogueItalicFormat}真的吗{#PreviousFormat}？！母亲，你，你是认真的吗？
+PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|你……*真的吗*？！母亲，你，你是认真的吗？
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|是真的，可以帮我收拾一下剩下的东西吗？我只带了一些杂七杂八的东西，不过最好还是别漏下什么吧。如果动作快些的话，说不定你可以和我一起回去，而不用像你平时那么回去。像那样的场景，做母亲的是绝对不想看到的。
 PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|和你一起回去，可……你打算怎么回去呢？我……还没做过这么远的打算。
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|我刚好认识个人，可以顺道载我们一程。
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|不过他肯定还有很重要的事情要忙，所以咱们还是别让他干等着了，儿子。快来吧！
-PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|{#DialogueItalicFormat}<叹气>{#PreviousFormat}……我还活着……但这怎么可能？
+PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|*<叹气>*……我还活着……但这怎么可能？
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|你在冥河上，已经不在凡间了。
 PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|我真不敢相信，这一切居然成真了。
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|我明白，我的心也跳得厉害。来到了这条河上，就好像在提醒我已经没有回头路了一样。
 PersephoneReturnsHome01|Persephone Returns Home 01|Zagreus|是啊，不过就算经历了这么多……我感觉好像还是刚刚见到你一样，我还有那么多问题要问。
 PersephoneReturnsHome01|Persephone Returns Home 01|Persephone|我觉得咱们有的是时间！至于现在，还是保持安静吧，就当咱们只是是死去的凡人，准备踏上最后的旅途吧。
 PersephoneBoatRide02|Persephone Boat Ride 02|Zagreus|这说起来有点尴尬，不过……我不知道回去的路，我是说，除了我平时回去的那条路之外。
-PersephoneBoatRide02|Persephone Boat Ride 02|Persephone|没关系，我知道。{#DialogueItalicFormat}以冥后珀尔塞福涅之名{#PreviousFormat}！！把门打开！
+PersephoneBoatRide02|Persephone Boat Ride 02|Persephone|没关系，我知道。*以冥后珀尔塞福涅之名*！！把门打开！
 PersephoneHomeMeeting01|Persephone Home Meeting 01|Zagreus|最近还好吗，母亲？要再次适应这里的一切。你之前说过，在这里的生活很折磨人。如今你又回来了，永远生活在黑暗之中，这种感觉肯定很古怪吧。
 PersephoneHomeMeeting01|Persephone Home Meeting 01|Persephone|说实话，我觉得到目前为止一切都不错！谢谢你的关心，儿子，每个人都很热情。能回到黑暗之中也蛮不错的，虽然这条裙子可能不怎么容易穿……不过我还挺喜欢的。
 PersephoneHomeMeeting01|Persephone Home Meeting 01|Zagreus|这就好。不得不说，我刚刚还在担心你会不会特别想回到那座小屋里，这个地方可能有点太压抑了。
@@ -192,15 +192,15 @@ PersephoneHomeMeeting05|Persephone Home Meeting 05|Persephone|哦，真的是太
 PersephoneHomeMeeting06|Persephone Home Meeting 06|Persephone|不得不说，虽然这座花园里的植物不像地上世界那么丰富……但也打理得相当漂亮了！
 PersephoneHomeMeeting07|Persephone Home Meeting 07|Persephone|你把这里装点得真是太可爱了，扎格列欧斯！这里看起来比以前更漂亮了，谢谢。
 PersephoneRunCleared01|Persephone Run Cleared 01|Persephone|你可以帮我去上面那座小屋里看看吗，扎格列欧斯？希望我的薰衣草长得都还好。
-PersephoneRunCleared01|Persephone Run Cleared 01|Zagreus|我，{#DialogueItalicFormat}呃{#PreviousFormat}……我已经没办法再回到那里了，母亲。就好像是……你离开了地上世界之后，我就根本没办法再在上面呆太久了。
-PersephoneRunCleared01|Persephone Run Cleared 01|Persephone|{#DialogueItalicFormat}啊{#PreviousFormat}，我担心的就是这个。好吧，不用担心，我已经给种子施过法了，它们自己应该也能长得很好。你现在只要专心逃出这里就好了，再接再厉吧！
+PersephoneRunCleared01|Persephone Run Cleared 01|Zagreus|我，*呃*……我已经没办法再回到那里了，母亲。就好像是……你离开了地上世界之后，我就根本没办法再在上面呆太久了。
+PersephoneRunCleared01|Persephone Run Cleared 01|Persephone|*啊*，我担心的就是这个。好吧，不用担心，我已经给种子施过法了，它们自己应该也能长得很好。你现在只要专心逃出这里就好了，再接再厉吧！
 PersephoneAboutHades01|Persephone About Hades 01|Persephone|有件事想问你，扎格列欧斯……有的时候我会担心……你恨他吗？我是说，你的父亲。虽然他无意这样……但听起来他让你的生活非常糟糕。他那些压抑着的恐惧和愤怒……你总是第一个变成出气筒。
 PersephoneAboutHades01|Persephone About Hades 01|Zagreus|我恨他吗……？母亲，我觉得我谁都不恨，真的。关于他和奥林匹斯众神的故事，他们合力杀死了他们的父母，那些不朽的泰坦……我这点怒火和他们比起来，恐怕要差远了。不过我对他有怨气，这是肯定的，而且……我也不知道以后能不能完全化解这股怨气。
 PersephoneAboutHades01|Persephone About Hades 01|Persephone|我明白。哈迪斯对你说并不奢求你的原谅的时候，我觉得他也明白这一点，他的话也是真心实意的。尽管他有那么多缺点，但他并没有教你如何憎恨别人，这一点我很感激。就算不是为了他，也是为了你自己。
 PersephoneAboutHades02|Persephone About Hades 02|Persephone|所以，你和你父亲最近还好吗，扎格列欧斯？我知道你们两个还有很多问题需要解决，尤其是他那边。
 PersephoneAboutHades02|Persephone About Hades 02|Zagreus|我猜都挺好的吧。我觉得他有些事情很固执，但至少我们多多少少可以相互理解了。即便是我工作的时候，他和以前一点都没变，也不要紧。
 PersephoneAboutHades02|Persephone About Hades 02|Persephone|他说这么做是为了让你每次都全力以赴。这不是在为他对待你的态度找借口，对他来说，这也是个巨大的变化。看到我们在一起，你……开心吗？
-PersephoneAboutHades03|Persephone About Hades 03|Zagreus|{#DialogueItalicFormat}唔{#PreviousFormat}，到现在为止，你和父亲……一切都还好吗？
+PersephoneAboutHades03|Persephone About Hades 03|Zagreus|*唔*，到现在为止，你和父亲……一切都还好吗？
 PersephoneAboutHades03|Persephone About Hades 03|Persephone|一切都好，扎格列欧斯。我是从奥林匹斯山来的……我所知道的人际关系，全都特别复杂。可和你的父亲在一起时……尽管我们的性格与兴趣都不太一样……我们的理念却是相通的。
 PersephoneAboutHades03|Persephone About Hades 03|Zagreus|那……是什么样的理念呢？可以告诉我吗？
 PersephoneAboutHades03|Persephone About Hades 03|Persephone|我们只要有彼此就够了。无论发生什么，我们都会爱着对方。
@@ -212,9 +212,9 @@ PersephoneAboutNyx02|Persephone About Nyx 02|Persephone|扎格列欧斯……实
 PersephoneAboutNyx02|Persephone About Nyx 02|Zagreus|母亲，我觉得你做得很好啊。而且我确定，你明白你并不需要和倪克斯比什么。能有两位了不起的母亲照顾我，总比只有一位，或者根本没有要好。
 PersephoneAboutNyx02|Persephone About Nyx 02|Persephone|谢谢你，我的儿子。我知道你最难熬的那段日子我不在你身边，可……我现在在了。我知道这在所难免，不过如果我无意间伤害了你的感情，请一定要告诉我，好吗？
 PersephoneAboutCharon01|Persephone About Charon 01|Zagreus|母亲，有件事我一直很好奇。你是怎么把卡戎召唤到你在凡间的住处的？尤其是，我是说，你还没死。
-PersephoneAboutCharon01|Persephone About Charon 01|Persephone|{#DialogueItalicFormat}哦{#PreviousFormat}，这么说吧……他慷慨地帮我离开这里之后，就把名片给我了。毫无疑问，这是倪克斯的要求，不过我还是很感激。我以为我不会再用了，但……我还是留着了，以防万一。
+PersephoneAboutCharon01|Persephone About Charon 01|Persephone|*哦*，这么说吧……他慷慨地帮我离开这里之后，就把名片给我了。毫无疑问，这是倪克斯的要求，不过我还是很感激。我以为我不会再用了，但……我还是留着了，以防万一。
 PersephoneBackstory01|Persephone Backstory 01|Zagreus|母亲，这么问可能很唐突，不过……外婆以前给你起了另外一个名字，是吗？
-PersephoneBackstory01|Persephone Backstory 01|Persephone|{#DialogueItalicFormat}啊{#PreviousFormat}，别和我提这个名字。想象一下，如果自打你生出来，我就一直叫你{#DialogueItalicFormat}扎狗蛋儿{#PreviousFormat}，你是什么感觉？我差不多就是这个感觉。我父亲给我起的名字要好听多了。
+PersephoneBackstory01|Persephone Backstory 01|Persephone|*啊*，别和我提这个名字。想象一下，如果自打你生出来，我就一直叫你*扎狗蛋儿*，你是什么感觉？我差不多就是这个感觉。我父亲给我起的名字要好听多了。
 PersephoneBackstory01|Persephone Backstory 01|Zagreus|是你的凡人父亲，是吗……？所以，是他给你起名叫珀尔塞福涅，他是个什么样的人？
 PersephoneBackstory01|Persephone Backstory 01|Persephone|他对我很好，我很喜欢他，而我对他而言就像个惹祸精，真有意思！他说得没错，我就是个灾星。后来，他去世了，那时我还很小，我的母亲也再没有提起过他。
 PersephoneBackstory01|Persephone Backstory 01|Zagreus|得墨忒尔倒是和我提起过他，她看起来……我也说不好，不过我觉得，她对这段关系并不后悔，只是对这样的结果很难过。
@@ -226,10 +226,10 @@ PersephoneAboutNyxChaosReunionQuest01|Persephone About Nyx Chaos Reunion Quest 0
 PersephoneAboutNyxChaosReunionQuest01|Persephone About Nyx Chaos Reunion Quest 01|Zagreus|是啊，如果没有她……我都想象不出会是什么样子，真的。我出生之前，倪克斯有没有和你提起过卡俄斯的事情？
 PersephoneAboutNyxChaosReunionQuest01|Persephone About Nyx Chaos Reunion Quest 01|Persephone|没有，没提过。倪克斯对她自己的事情守口如瓶，但她也像其他人一样，有她自己的感情与愿望。这么说吧，和大部分人一样，不过我想说……这对她来说意义重大。
 PersephoneAboutMyrmidonReunionQuest01|Persephone About Myrmidon Reunion Quest 01|Persephone|看起来，阿喀琉斯和你父亲之前的协议很复杂。我明白你把事情变得更简单、更清楚了，而且他终于可以去至福乐土了，干得漂亮。
-PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Persephone|所以，因为你的缘故，俄耳甫斯终于和欧律狄刻团聚了，是吗，我的儿子？{#DialogueItalicFormat}啊{#PreviousFormat}，我太开心了！你父亲对他的处置太严苛了，不过他要求的也太多了，想要带着某个凡人的灵魂回到生者的世界……
+PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Persephone|所以，因为你的缘故，俄耳甫斯终于和欧律狄刻团聚了，是吗，我的儿子？*啊*，我太开心了！你父亲对他的处置太严苛了，不过他要求的也太多了，想要带着某个凡人的灵魂回到生者的世界……
 PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Zagreus|如果父亲愿意的话，他真的能让凡人的灵魂回到凡间吗？比如说，放幽灵们逃跑之类的？
 PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Persephone|哦，我也说不好，或许不能吧？但俄耳甫斯的歌声和请愿真的是深深地打动了我们……我觉得你父亲只是在同情他吧。
-PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Zagreus|等等，深深地打动了{#DialogueItalicFormat}我们{#PreviousFormat}？俄耳甫斯打算救走欧律狄刻的时候，你也在场吗？
+PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Zagreus|等等，深深地打动了*我们*？俄耳甫斯打算救走欧律狄刻的时候，你也在场吗？
 PersephoneAboutSingersReunionQuest01|Persephone About Singers Reunion Quest 01|Persephone|我在啊，你父亲知道我很喜欢他们的音乐。所以，当我看到他成了宫廷乐师的时候，你想象一下我有多惊喜！
 PersephoneAboutThanatosRelationship01|Persephone About Thanatos Relationship 01|Persephone|我一直都很喜欢塔纳托斯，所以祝你们一切都好！看到你们关系这么亲密，我很高兴，你们两个都还好吧？
 PersephoneAboutDusaRelationship01|Persephone About Dusa Relationship 01|Persephone|杜莎真的让这里的气氛活跃了不少，是吧，扎格列欧斯？有时候我会看到你们聊天，这让我心里充满了暖意。
@@ -260,25 +260,25 @@ PersephoneAboutOlympianReunionQuest03|Persephone About Olympian Reunion Quest 03
 PersephoneAboutOlympianReunionQuest03|Persephone About Olympian Reunion Quest 03|Zagreus|谢谢，我不知道卡俄斯能不能来，不过我还是很喜欢这个初衷。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|邀请好了，母亲！父亲。我已经把所有的请柬都私下里送给每个遇到过的人了。所以，咱们现在该做什么？
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|太棒了，扎格列欧斯！祝贺他吧，哈迪斯！他做得很好。
-OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|{#DialogueItalicFormat}呃，{#PreviousFormat}珀尔塞福涅，你怎么就能这么确定，一切都会按照你希望的进行呢？
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|*呃，*珀尔塞福涅，你怎么就能这么确定，一切都会按照你希望的进行呢？
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|这叫做信任，哈迪斯。或者说，信念？都差不多啦。你偶尔也试试吧！对你会有好处的。至于接下来该干什么……咱们还有盛大的庆典要准备呢！
-OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|这座圣殿不适合招待这些客人！迪奥尼索司一个人就能把这里搞得一团乱！或者说……{#DialogueItalicFormat}呃{#PreviousFormat}……我就相信你说的什么信念吧。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|这座圣殿不适合招待这些客人！迪奥尼索司一个人就能把这里搞得一团乱！或者说……*呃*……我就相信你说的什么信念吧。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|很好！既然如此……咱还有很多事情要做呢。不如把所有人都叫来，让大家都参与进来，让他们做适合他们的事情吧，怎么样？
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|好吧……
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|好啊。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|很好！
-OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|……{#DialogueItalicFormat}呼{#PreviousFormat}！不得不说，和我想象得一样顺利！而且清扫工作也没那么糟糕嘛，至少大多数情况下并不糟糕。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|……*呼*！不得不说，和我想象得一样顺利！而且清扫工作也没那么糟糕嘛，至少大多数情况下并不糟糕。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|我们很幸运，宙斯叔叔似乎马上就明白了我们的意图，配合我们一起圆谎。可这个故事是你精心编造出来的……我还记得，关于你的事情，当我发现父亲对我撒谎的时候，我当时有多伤心。现在我们又欺骗了奥林匹斯的众神。如果他们发现了呢？就算他们没发现……我也不喜欢这样。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|扎格列欧斯……我可能不是处理家庭问题的专家，但这是我对家庭的理解，至少对我们这个大家庭是这样。确切地说……我们彼此之间交流的方式，比我们说了什么更加重要。我觉得，这个家庭中的每个人，内心深处都明白这一点。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|你是说，他们明知道你没把所有的真相都说出来，但也还是接受了，是吗？我猜石榴那部分确实有点太牵强了。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|我们这个大家庭的所有人都希望能保持和睦。虽然阿瑞斯喜欢冲突，但他也希望冲突都发生在外面。至于那个精心编造的故事……与其说是欺骗，不如说是让步。这可以让我们从过去的阴影中走出来，重新开始，我并不觉得有什么难受的。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|你不觉得难受吗？那父亲的事情呢？得墨忒尔的事情呢？
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|这么说吧，这些确实让我很难受，但和能和孩子在一起的喜悦相比，简直就不值一提了。你父亲从来没想过我们之间的关系有朝一日能公开于众。至于我的母亲……我还活着，她就很开心了。
-OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|而且宙斯叔叔也很高兴，因为这一切并没有把{#DialogueItalicFormat}他{#PreviousFormat}推到风口浪尖。我明白了，他有时会凭冲动做事，之后再去处理后果。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|而且宙斯叔叔也很高兴，因为这一切并没有把*他*推到风口浪尖。我明白了，他有时会凭冲动做事，之后再去处理后果。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|我该怎么和你说呢，扎格列欧斯？我们是一家人。你以前也和我说过，说我们生来血脉相连。如果我们之中某个人，对另一位家人哪怕抱有一丝丝好感的话……我认为这也是个奇迹，是种祝福。
 OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|是啊，我明白你的意思。谢谢你，母亲。我觉得我马上就得再次出发了，等我回来之后再见吧？
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|不得不说，母亲，你的计划真是太妙了。你终于说服了父亲，让大家可以在这里开心地玩了。
-PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|{#DialogueItalicFormat}哈哈{#PreviousFormat}，是啊！一切都很顺利，我很高兴。不过有件事我必须告诉你，孩子。这并不是我们之间的秘密，只是……我很难开口而已。
+PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|*哈哈*，是啊！一切都很顺利，我很高兴。不过有件事我必须告诉你，孩子。这并不是我们之间的秘密，只是……我很难开口而已。
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|是关于得墨忒尔的事情吧？你们昨天聊到了后半夜。她希望你能和她一起回去，是吗？她希望永远能把你当做小女儿，是类似这样的事情吗？
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|是啊……确实如此。你的感觉真的很敏锐，不知我有没有和你说过，扎格列欧斯。不过，是啊，我的母亲，她相当矛盾。她也不知道是该责骂我，还是该拥抱我，或者两个都是吧。而且，没错，她想让我回去……让我履行我的职责。
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|所以……你要走了吗……？不要，母亲！你不能走，你才刚回来呢！
@@ -286,7 +286,7 @@ PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|哦，也
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|好吧那……你什么时候走呢？
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|很快就走了，或许你回来之前我就走了吧。
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|我猜……我没法和你一起走，是吗？
-PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|{#DialogueItalicFormat}哎呀{#PreviousFormat}，你也知道，外面的环境对你的身体不好！而且这里也需要你。不过如果你真的打算去看看的话，谁知道呢？说不定真的能找到让你出去的办法。
+PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Persephone|*哎呀*，你也知道，外面的环境对你的身体不好！而且这里也需要你。不过如果你真的打算去看看的话，谁知道呢？说不定真的能找到让你出去的办法。
 PersephoneLeavesToOlympus01|Persephone Leaves To Olympus 01|Zagreus|我会想念你的，母亲。
 PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Zagreus|欢迎回家，母亲！这一路还顺利吗？你和得墨忒尔的关系怎么样了？我是说……外婆，我正在努力适应这么称呼她。
 PersephoneReturnsFromOlympus01|Persephone Returns From Olympus 01|Persephone|说真的，很有趣……我觉得她真的是太想再见到我了，或许是她终于变了一些吧，我一直以为她是个绝不服软的人呢。她问我是不是真的出于自愿才来冥界的，我让她放心了。
@@ -296,17 +296,17 @@ PersephoneWithHades01|Persephone With Hades 01|Persephone|……哦，拜托，�
 PersephoneWithHades01|Persephone With Hades 01|Hades|这正是我担心的事情。你真的觉得，我的兄弟们和其他神明会尽心尽力照顾那些活着的凡人吗，就像我们一样尽心尽力？
 PersephoneWithHades01|Persephone With Hades 01|Persephone|确实如此，奥林匹斯的众神们只要照顾他们一阵子就行了，而我们必须得没完没了照顾他们。不过我们的亲戚们永远都是站在高山上看着一切！而且，就算他们对凡人视而不见一段时间……凡人们也能把自己照顾得不错。
 PersephoneWithHades01|Persephone With Hades 01|Hades|但凡人永远不知满足！他们总是在祈求我们，想得到更多，更多。
-PersephoneWithHades01|Persephone With Hades 01|Persephone|他们{#DialogueItalicFormat}喜欢{#PreviousFormat}我们，哈迪斯！他们赞美我们，和别人说着我们的事情。你还指望能怎么样？莫非你希望他们忘了我们吗？
-PersephoneWithHades01|Persephone With Hades 01|Hades|……不，不，我不这么想，可他们那是{#DialogueItalicFormat}需要{#PreviousFormat}我们！
+PersephoneWithHades01|Persephone With Hades 01|Persephone|他们*喜欢*我们，哈迪斯！他们赞美我们，和别人说着我们的事情。你还指望能怎么样？莫非你希望他们忘了我们吗？
+PersephoneWithHades01|Persephone With Hades 01|Hades|……不，不，我不这么想，可他们那是*需要*我们！
 PersephoneWithHades02|Persephone With Hades 02|Hades|……至福乐土那些抱怨怎么样了？他们希望能彻底修剪一下草坪，好为运动会做准备。
-PersephoneWithHades02|Persephone With Hades 02|Persephone|已经解决好了。不过水仙花平原发生的洪水，{#DialogueItalicFormat}嗯{#PreviousFormat}，似乎一时半会儿不会消退。不过还好，当地的居民似乎已经习惯了。
+PersephoneWithHades02|Persephone With Hades 02|Persephone|已经解决好了。不过水仙花平原发生的洪水，*嗯*，似乎一时半会儿不会消退。不过还好，当地的居民似乎已经习惯了。
 PersephoneWithHades02|Persephone With Hades 02|Hades|最近关于这个问题的投诉变少了。另外，萨提尔的麻烦呢？那些该死的东西还是肆无忌惮。
 PersephoneWithHades02|Persephone With Hades 02|Persephone|这么说吧，他们差不多已经被关起来了，而且扎格列欧斯一直在留意它们的情况，不是吗？
 PersephoneWithHades03|Persephone With Hades 03|Hades|……呃，我就是这么一说……如果那些幽灵让你觉得心烦的话，一定要告诉我，我马上把它们处理掉。
 PersephoneWithHades03|Persephone With Hades 03|Persephone|哦，哈迪斯……我觉得这附近的幽灵就待在这里好了，我不介意他们。我一个人呆了那么长时间，现在能有人陪着，我觉得挺不错的。
 PersephoneWithHades03|Persephone With Hades 03|Hades|你确定不需要什么别的了吗？我是说，如果你有什么别的要求的话……
-PersephoneWithHades03|Persephone With Hades 03|Persephone|{#DialogueItalicFormat}要求{#PreviousFormat}？看看这个地方吧，哈迪斯。看看{#DialogueItalicFormat}我{#PreviousFormat}吧！这一切都是我的！也都是你的。所以别总是担心了，对你自己的儿子耐心点，我对你的要求就这么多。
-PersephoneWithHades03|Persephone With Hades 03|Hades|珀尔塞福涅，这个我没法向你保证，这……不是我的强项。而且我还得维护我的名声呢！我可是{#DialogueItalicFormat}冥王{#PreviousFormat}！如果暗灵都不怕我了，或者说，不怕{#DialogueItalicFormat}你{#PreviousFormat}了……那会变成什么样子？
+PersephoneWithHades03|Persephone With Hades 03|Persephone|*要求*？看看这个地方吧，哈迪斯。看看*我*吧！这一切都是我的！也都是你的。所以别总是担心了，对你自己的儿子耐心点，我对你的要求就这么多。
+PersephoneWithHades03|Persephone With Hades 03|Hades|珀尔塞福涅，这个我没法向你保证，这……不是我的强项。而且我还得维护我的名声呢！我可是*冥王*！如果暗灵都不怕我了，或者说，不怕*你*了……那会变成什么样子？
 PersephoneWithHades03|Persephone With Hades 03|Persephone|我可不打算教你如何在工作、婚姻和为人父母的责任中找到平衡。我觉得关于这件事情，无论是奥林匹斯的众神，还是众神之下的凡人，都做不太好，我们只能尽力而为罢了。
 PersephoneWithHades04|Persephone With Hades 04|Hades|……有时候，我……我还是不敢相信你回来了，回到了我们身边。你如此明艳照人，却身处黑暗之中……你肯定很怀念海岸的景色吧。
 PersephoneWithHades04|Persephone With Hades 04|Persephone|海岸真的很漂亮，哈迪斯，不过没什么能永远完美，不是吗？无论怎么努力都不行。不过……我还是觉得，我们应该每隔一段时间，就在这里呆上一阵子。
@@ -315,14 +315,14 @@ PersephoneWithHades04|Persephone With Hades 04|Persephone|我们的心声总会�
 PersephoneWithNyx01|Persephone With Nyx 01|Persephone|……所以，如果有什么可以帮你做的，尽管开口，好吗，倪克斯？我准备尽我所能。
 PersephoneWithNyx01|Persephone With Nyx 01|Nyx|你的服务随时欢迎，请以你自己的节奏来适应这个地方吧。如果遇到什么问题的话，我随意愿意回答。
 PersephoneWithNyx01|Persephone With Nyx 01|Persephone|谢谢你，我的朋友。我不得不说……回来的感觉真好。
-PersephoneWithNyx02|Persephone With Nyx 02|Persephone|……我真不知道该怎么报答你。你把他养大成人，你做了{#DialogueItalicFormat}这一切{#PreviousFormat}。我走之后……除了老刻耳柏洛斯之外，我觉得我最想念的大概就是你了。
+PersephoneWithNyx02|Persephone With Nyx 02|Persephone|……我真不知道该怎么报答你。你把他养大成人，你做了*这一切*。我走之后……除了老刻耳柏洛斯之外，我觉得我最想念的大概就是你了。
 PersephoneWithNyx02|Persephone With Nyx 02|Nyx|我记得那个时候感觉到了类似的情绪。不过，你真的没必要用这种方式来感谢我。你是这里的皇后，已经回到了安全的地方，我只不过做了每个人都会做的事情罢了。
 PersephoneWithNyx02|Persephone With Nyx 02|Persephone|你满怀爱意地抚养我阔别已久的儿子，同时保守着我的秘密。你还精心地策划了计划，好让我和我儿子团聚，等我有朝一日回来的时候，能与他们一起在休息室里共饮蜜露。这真的是每个人都能做到的吗？
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|哦，刻耳柏洛斯！这座圣殿还能立在这里，你才是最大的功臣，对不对？你还喜欢我从地上世界给你带来的零食吗？
-PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|{#DialogueItalicFormat}那只地狱犬吞掉了所有来自地上世界的零食，向冥后做出了最坚定、最肯定的回应。
+PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|*那只地狱犬吞掉了所有来自地上世界的零食，向冥后做出了最坚定、最肯定的回应。*
 PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|我想也是。我敢打赌，你绝对看不出来它不是用肉做的！看看能不能让你长得更壮吧。
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|你可真是只乖狗狗，是不是，刻耳柏洛斯？没错，你就是！我不在的时候，你一直看守着这里，还让我儿子来见我！
-PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}相貌骇人、无比机警的刻耳柏洛斯接受了夸奖。
+PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|*相貌骇人、无比机警的刻耳柏洛斯接受了夸奖。*
 PersephoneChat01|Persephone Chat 01|Persephone|我很抱歉，扎格列欧斯，我有很重要的事情要忙。
 PersephoneChat02|Persephone Chat 02|Persephone|如果能帮上什么忙的话，尽管开口，好吗？
 PersephoneChat03|Persephone Chat 03|Persephone|你父亲为你感到骄傲，超乎你的想象。
@@ -367,7 +367,7 @@ PersephoneChatWithHades05|Persephone Chat With Hades 05|Persephone|要办的契�
 PersephoneChatWithHades06|Persephone Chat With Hades 06|Persephone|要对付的契约文书实在是太多了，我不骗你，扎格列欧斯！
 PersephoneChatWithHades07|Persephone Chat With Hades 07|Persephone|你们两个对对方别太严厉了，好吗？
 PersephoneChatWithHades08|Persephone Chat With Hades 08|Persephone|我听说你最近做得都很不错，扎格列欧斯。
-PersephoneGift01|Persephone Gift 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，母亲？在父亲的大殿里有件约定成俗的事，就是把蜜露送给自己在乎的人，这是向来如此吗？我猜这也可能是从奥林匹斯山上传过来的。我想送给你这个。我真的非常高兴自己终于找到你了。
+PersephoneGift01|Persephone Gift 01|Zagreus|*呃*，母亲？在父亲的大殿里有件约定成俗的事，就是把蜜露送给自己在乎的人，这是向来如此吗？我猜这也可能是从奥林匹斯山上传过来的。我想送给你这个。我真的非常高兴自己终于找到你了。
 PersephoneGift01|Persephone Gift 01|Persephone|哦，扎格列欧斯，你真是太贴心了，真的！你的父亲一直严禁蜜露运进来，我几乎已经忘了它的味道了。不过，稍微等一下，我也有礼物要给你！
 PersephoneGift02|Persephone Gift 02|Persephone|给我的？你确定吗？酿成这个的葡萄一定从人间前往高山，然后被一路运往这里。我们都经历了漫长的旅程，不是吗？
 PersephoneGift02|Persephone Gift 02|Zagreus|嗯，就我自己而言，我确信那一季的葡萄来到了对的地方。请你尽情享用。
@@ -375,7 +375,7 @@ PersephoneGift03|Persephone Gift 03|Persephone|不得不说，无论何时我都
 PersephoneGift03|Persephone Gift 03|Zagreus|那我一定是用那只绿色的眼睛盯着的。您给了我一只目光敏锐的眼睛，母亲！
 PersephoneGift04|Persephone Gift 04|Persephone|太感谢了，我的儿子！比起奥林匹斯山上繁复的社交礼节，在冥界互赠礼物的习俗可真是真诚直白呀！
 PersephoneGift04|Persephone Gift 04|Zagreus|如果还有除蜜露以外的表达爱意的方式，那么我敢肯定它们都会显得苍白无力！
-PersephoneGift05|Persephone Gift 05|Persephone|{#DialogueItalicFormat}噢{#PreviousFormat}，这真好，但……我无法给你很多回报，这让我很内疚。你从未从我这里得到过母爱。
+PersephoneGift05|Persephone Gift 05|Persephone|*噢*，这真好，但……我无法给你很多回报，这让我很内疚。你从未从我这里得到过母爱。
 PersephoneGift05|Persephone Gift 05|Zagreus|请别这样说，这只是我送给你的一个礼物，好吗？而且……我们不能从现在开始吗？就是母子关系之类的。如果你愿意的话。
 PersephoneGift05|Persephone Gift 05|Persephone|那比这瓶上好的蜜露还要合我心意，扎格列欧斯！
 PersephoneGift06|Persephone Gift 06|Persephone|有一个人非常用心抚养你，我的儿子。我想应该是倪克斯。身为母亲，我连她的一半都赶不上。她从上古开始就是一位母亲，而我才刚刚开始。
@@ -384,11 +384,11 @@ PersephoneGift06|Persephone Gift 06|Persephone|谢谢你，扎格列欧斯。希
 PersephoneGift07|Persephone Gift 07|Zagreus|母亲，我知道你对奥林匹斯山并没有太多留恋，但也许仙馔密酒会是个例外？我给你找来了一点，因为……好吧，给你。
 PersephoneGift07|Persephone Gift 07|Persephone|……怎么，这真的是仙馔密酒！扎格列欧斯，你是怎么弄来的？当然了，它使我回想起很多东西，而且无一例外都是好事……这应该就是我们如此赞赏它的原因。这是给我的吗？
 PersephoneGift07|Persephone Gift 07|Zagreus|是啊，是啊，当然了！而且我衷心希望，在很久之后当你正享用着一瓶仙馔密酒放松时——或许还是和父亲一起，这些美好的记忆也会涌上你的心头。
-PersephoneGift07|Persephone Gift 07|Persephone|{#DialogueItalicFormat}噢{#PreviousFormat}，我的儿子……我不必借助仙馔密酒也能够回想起这段怀着爱意逐渐了解你的日子。真的非常感谢你。
+PersephoneGift07|Persephone Gift 07|Persephone|*噢*，我的儿子……我不必借助仙馔密酒也能够回想起这段怀着爱意逐渐了解你的日子。真的非常感谢你。
 PersephoneGift08|Persephone Gift 08|Zagreus|母亲，这儿有更多的甜美回忆给您。我知道您对于长久地离开奥林匹斯山感到很高兴，但……我很高兴你曾留在那儿，因为你在那里的经历也造就了如今的你，那是你的一部分。
 PersephoneGift08|Persephone Gift 08|Persephone|你知道吗，上次你给我的那瓶让我回想起预料之外的许多美好之事，我几乎不敢想象我还遗忘了多少。好吧，我可以和你的父亲分享这个吗？
 PersephoneGift08|Persephone Gift 08|Zagreus|悉听尊便。
-PersephoneGift08|Persephone Gift 08|Persephone|{#DialogueItalicFormat}哈哈{#PreviousFormat}，听起来你像是在说{#DialogueItalicFormat}不{#PreviousFormat}！
+PersephoneGift08|Persephone Gift 08|Persephone|*哈哈*，听起来你像是在说*不*！
 PersephoneGift08|Persephone Gift 08|Zagreus|不是！我是说，好的，请你和父亲一同享用，如果他愿意的话……在我的印象里，他仅有的美好回忆都与你有关。
 PersephoneGift08|Persephone Gift 08|Persephone|胡言乱语，还有刻耳柏洛斯呢！公务除外。好啦，孩子，你的父亲尽管很忙，但我敢肯定他也非常珍惜和你在一起的回忆。不过，这话由我来说可能不那么令人安心。
 PersephoneGift08|Persephone Gift 08|Zagreus|不知为何，你的一举一动都很令人安心，母亲。
@@ -396,6 +396,6 @@ PersephoneGift09|Persephone Gift 09|Zagreus|我又想了一下，母亲，我真
 PersephoneGift09|Persephone Gift 09|Persephone|这酒真的很好，扎格列欧斯，但拜托！自我们相见以来，我起码知道了我们之间的信赖还处在起点。为什么他不能知道这酒是从哪儿来的？而且，我觉得他肯定清楚。
 PersephoneGift09|Persephone Gift 09|Zagreus|可是，当你谈到奥林匹斯神的时候，你亲口说他们容不下太多真相。我拿来这个给你们，你真的确定父亲会对此置之不理吗？
 PersephoneGift09|Persephone Gift 09|Persephone|我当然确定！如果他不宽容的话，我想原因大概在我。
-PersephoneGift09|Persephone Gift 09|Zagreus|{#DialogueItalicFormat}哈哈{#PreviousFormat}，好吧！只要某人善加利用它就行了。
+PersephoneGift09|Persephone Gift 09|Zagreus|*哈哈*，好吧！只要某人善加利用它就行了。
 PersephoneGift09|Persephone Gift 09|Persephone|……扎格列欧斯，你知道我一直都渴望成为一名母亲吗？但你出生之后……我断定自己失去了这个机会。于是，之后的一个美好的清晨，你走进了我的生命，所以我们现在在此。我仍然不敢完全相信这个现实。我只是想说……我爱你，儿子。我在尽我所能。
 PersephoneGift09|Persephone Gift 09|Zagreus|我知道。我也爱你，母亲。
