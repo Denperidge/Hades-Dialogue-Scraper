@@ -6,7 +6,8 @@ The functions in here will try to create them automatically from the provided ID
 """
 
 # Don't use \d: NameCloseWithName
-duo = (r"([A-Z][a-z]*)With(\D*)(\d*)", "Duo - {0} and {1} ({2})")
+duo = (r"((?!Close)[A-Z][a-z]*)With(\D*)(\d*)", "Duo - {0} and {1} ({2})")
+
 
 
 tests = [
