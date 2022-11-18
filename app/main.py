@@ -64,7 +64,7 @@ if __name__ == "__main__":
     # If lang code is provided
     # SETUP: get & check lang code
     if len(argv) >= 4:
-        lang = argv[2].lower()
+        lang = argv[3].lower()
         # Check if a correct language has been passed
         if lang not in lang_codes:
             raise Exception("The language directory could not be found at {}. Are you sure you've entered a correct Language code? Possible options:".format(lang_codes))
