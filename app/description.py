@@ -25,7 +25,6 @@ def id_to_description(id):
             # Parse out any camelcase remaining
             results = [split_camelcase(value) for value in result.groups()]
             results = [array_parse_ints(value) for value in results]
-            print(results)
             description = format_string.format(*results)
             return description
 
