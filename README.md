@@ -18,3 +18,6 @@ python app/main.py C:/Program Files (x86)/Steam/steamapps/common/Hades en
 ```
 
 Available lang values (as of writing): `['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt-BR', 'ru', 'zh-CN']`
+
+## License
+The code in this project is licensed under the [MIT License](LICENSE). The game - and thus anything extracted from it - belongs to Supergiant Games.
