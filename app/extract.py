@@ -71,6 +71,12 @@ def get_dialogues_from_folder(path, selector, en=False):
 def sanitize_json_value(value):
     return value.replace("\n", "").strip('"').strip()
 
+def dict_to_list(dict):
+    result = list()
+    for key in dict:
+        result.append(dict[key])
+    return result
+
 
 # The game uses .sjson. See https://github.com/SGG-Modding/SGG-Mod-Format/wiki/Import-Type:-SJSON
 """
@@ -112,12 +118,7 @@ def lines_to_dialogues(lines):
 
             dialogues[last_encountered_id].sentences.append(sentence)
 
-        # Convert dict to list
-    dialogues_list = list()
-    for id in dialogues:
-        dialogues_list.append(dialogues[id])
-
-    return dialogues_list
+    return dict_to_list(dialogues)
 
 """
 But if you wanna get the `en` dialogue you can throw a bit of that out of the window
