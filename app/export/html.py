@@ -1,43 +1,10 @@
-from platform import system
 from os import remove, makedirs, removedirs, rename
-from subprocess import run
 from os.path import join, isfile, realpath, dirname
 from shutil import which
-from urllib.request import urlretrieve
+from platform import system
+from subprocess import run
 from zipfile import ZipFile
-
-
-def export_dialogues(dialogues, output_dir, output_format="csv"):
-    output_format = output_format.lower().strip()
-
-    filename_all = join(output_dir, "@All." + output_format)
-
-    # I'll be honest, this one's not for readability. I just wanted to see if I could
-    speakers =  set([sentence.speaker for dialogue in dialogues for sentence in dialogue.sentences])
-
-    if output_format == "csv":
-        to_string = to_string_csv
-
-
-    with open(filename_all, "w", encoding="UTF-8") as file:
-        file.write(to_string(dialogues))
-    
-    for speaker in speakers:
-        filename_speaker = join(output_dir, "{0}.{1}".format(speaker, output_format))
-        # Same her as above. I just wanted to practice list comprehension. I'm so sorry
-        dialogues_speaker = [dialogue for dialogue in dialogues if speaker in [sentence.speaker for sentence in dialogue.sentences]]
-        with open(filename_speaker, "w", encoding="UTF-8") as file:
-            file.write(to_string(dialogues_speaker))
-
-def to_string_csv(dialogues):
-    string = "Id|Description|Speaker|Text\n"
-    
-
-    for dialogue in dialogues:
-        for sentence in dialogue.sentences:
-            string += "{0.id}|{0.description}|{1.speaker}|{1.text}\n".format(dialogue, sentence)
-    
-    return string
+from urllib.request import urlretrieve
 
 # This uses the Linux tree command
 def create_html_nav(path, title=None, pattern=None, ignore=None, dirs_only=False, level=None):
@@ -84,7 +51,7 @@ def is_tree_installed():
             return None
     # If on Windows, don't use the built-in tree
     elif os == "Windows":
-        vendor_dir = realpath(join(dirname(__file__), "../vendor/"))
+        vendor_dir = realpath(join(dirname(__file__), "../../vendor/"))
         tree_path = join(vendor_dir, "tree.exe")
         tree_url = "https://download.sourceforge.net/project/gnuwin32/tree/1.5.2.2/tree-1.5.2.2-bin.zip"
 

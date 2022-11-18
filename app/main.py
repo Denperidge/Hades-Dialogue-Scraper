@@ -2,8 +2,10 @@ from sys import argv
 from os.path import realpath, isdir, join, basename, dirname
 from os import makedirs
 from glob import glob
-from extract import get_dialogues_from_file, get_dialogues_from_folder
-from export import export_dialogues, create_html_nav
+
+from extract import get_dialogues_from_folder
+from export.index import export_dialogues
+from export.html import create_html_nav
 
 
 def extract_and_export(game_text_dir, lang):
