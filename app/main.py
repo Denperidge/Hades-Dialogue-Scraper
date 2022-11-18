@@ -55,4 +55,4 @@ if __name__ == "__main__":
         
         # Create top-level nav
         docs_dir = realpath(join(dirname(argv[0]), "../", "docs/"))
-        create_html_nav(docs_dir, "**.html")
+        create_html_nav(docs_dir, level=1)
