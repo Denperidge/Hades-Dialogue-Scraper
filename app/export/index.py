@@ -1,6 +1,8 @@
 from os.path import join
 
 from export.csv import to_string_csv
+from export.txt import to_string_txt
+
 
 def export_dialogues(dialogues, output_dir, output_format="csv"):
     output_format = output_format.lower().strip()
@@ -12,6 +14,8 @@ def export_dialogues(dialogues, output_dir, output_format="csv"):
 
     if output_format == "csv":
         to_string = to_string_csv
+    elif output_format == "txt":
+        to_string = to_string_txt
 
 
     with open(filename_all, "w", encoding="UTF-8") as file:
