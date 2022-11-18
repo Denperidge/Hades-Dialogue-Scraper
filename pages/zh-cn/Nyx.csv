@@ -1,0 +1,501 @@
+Id|Description|Speaker|Text
+NyxFirstMeeting|Nyx First Meeting|Nyx|不要绝望，孩子。这种挫折是不可避免的，可以通过努力和时间克服。你已经见到了雅典娜女神，她是一定会恪守诺言的。
+NyxFirstMeeting|Nyx First Meeting|Zagreus|我相信会是这样，倪克斯。我很高兴你让我们取得了联系，我知道你这么做冒了很大的风险。
+NyxFirstMeeting|Nyx First Meeting|Nyx|要冒风险的人并不是我，我早就知道奥林匹斯众神最后都会卷入这件事里。不要和他们说他们不知道的事情，明白了吗？
+NyxFirstMeeting_B|Nyx First Meeting B|Nyx|很高兴终于能和你说话了，孩子，雅典娜女神果然言出必行。在这件事情上，你和她都明智地采取了谨慎的态度。
+NyxFirstMeeting_B|Nyx First Meeting B|Nyx|要冒风险的人并不是我。奥林匹斯众神最终一定会卷入这件事里，唯一的问题是怎么卷入。
+NyxGrantsRespec|Nyx Grants Respec|Nyx|我相信你卧室里的那面镜子应该效果不错吧，亲爱的孩子…？
+NyxGrantsRespec|Nyx Grants Respec|Zagreus|比想象中的要好得多，倪克斯。您说过，一旦我习惯了这成长，它还可以做到更多的事。我觉得我已经准备好了。
+NyxGrantsRespec|Nyx Grants Respec|Nyx|我也觉得你准备好了，那就如你所愿吧。
+NyxMiscMeeting02|Nyx Misc Meeting 02|Nyx|在你离开之前，我的孩子…你父亲现在的情绪似乎很复杂。就不要去找他了吧。
+NyxMiscMeeting04|Nyx Misc Meeting 04|Zagreus|倪克斯，这个问题可能有点怪，但是……你知道命运之神打算对我做什么吗？毕竟她们可是您的女儿。
+NyxMiscMeeting04|Nyx Misc Meeting 04|Nyx|没错，孩子，三位命运之神都是我的女儿。不过，我对她们的工作跟地表上天真的凡人一样一无所知。就连奥林匹斯众神都不知道命运之神的安排。
+NyxMiscMeeting05|Nyx Misc Meeting 05|Nyx|愿黑暗引导你，孩子。我可以肯定，你已经长大，这圣殿已不适合你了。再回来的话，我会保护你的安全。
+NyxMiscMeeting05|Nyx Misc Meeting 05|Zagreus|我不会忘记你的，倪克斯。我发誓。
+NyxBackstory01|Nyx Backstory 01|Zagreus|不知为何，我一直都知道这件事情。我是说……你不是我的生母。我的意思是，看看修普诺斯和塔纳托斯，我不可能和{#DialogueItalicFormat}他们{#PreviousFormat}有血缘关系。这些事情大家早就知道了，可是……当我最后确定这一点的时候，我还是很震惊。
+NyxBackstory01|Nyx Backstory 01|Nyx|相应地，我也一直都知道，你终会了解这件事的真相。我曾十分担忧那一天的到来之后会发生什么，而我现在庆幸它已经过去。不过，我现在仍把你称作我的孩子，你希望从此刻起我不再这样叫你吗？
+NyxBackstory01|Nyx Backstory 01|Zagreus|不，倪克斯，请别这样，现在挺好的。你不是我的生母，但你依然关心我。我从不怀疑这一点。与之相对的，你真的觉得我可以继续直呼你的名字吗？
+NyxBackstory02|Nyx Backstory 02|Zagreus|倪克斯，你一定知道一些我父亲与奥林匹亚神决裂的原因，是吗？
+NyxBackstory02|Nyx Backstory 02|Nyx|这个问题只有你父亲能回答，孩子。我无法透露任何额外的信息。
+NyxAboutHades01|Nyx About Hades 01|Zagreus|倪克斯，我有一些疑问。你究竟欠了父亲什么？非常抱歉我听到了你们在讨论……只是……
+NyxAboutHades01|Nyx About Hades 01|Nyx|远在你父亲到来之前，我就已经在这里了。统治冥界的责任落在我肩上，但我却无法独自胜任。我掌管黑暗、确保这片领地的公正，而不擅长数量普查和制定条例，因此对这些职责我渐感无力。
+NyxAboutHades01|Nyx About Hades 01|Zagreus|这对你来说实在是太沉重了……所以，当父亲来到的时候……你迎接了他？然后他帮了你？
+NyxAboutHades01|Nyx About Hades 01|Nyx|当初我对他心怀疑虑。我以为他的出现是命运的恶作剧。但是……他努力地工作，然后在这片混乱中产生了秩序。所以我为他建造了这个宫廷，并打理至今。我们因而成为同伴，互相依赖。
+NyxAboutHades01|Nyx About Hades 01|Zagreus|他没因你的慷慨得寸进尺？
+NyxAboutHades01|Nyx About Hades 01|Nyx|没有，孩子。他没有。与你所见，他有时候会对我刻薄，但那顶多是在话语上。我们终能和解。但是你和他的关系，恐怕比我的来的复杂。
+NyxAboutHades02|Nyx About Hades 02|Zagreus|倪克斯，迄今为止你提供给我的帮助，像是和奥林匹亚神的联系、圣镜、圣殿的承包商……我担心如果父亲知道了这些，他会迁怒于你。我不愿这样的事情发生。
+NyxAboutHades02|Nyx About Hades 02|Nyx|你无须为我担心，我的孩子。我不是什么你父亲想罚便罚的小卒。我是夜之女神，是这座圣殿得以存在的根基。你父亲很明白这一点，因此，他和我有一些共同的目的。我们必须合作。
+NyxAboutHades02|Nyx About Hades 02|Zagreus|那……如果他对你毫无办法，你为什么要和他合谋隐瞒我？我的意思是，隐瞒我的生母一事？
+NyxAboutHades02|Nyx About Hades 02|Nyx|请你理解……我无法透露任何关于那件事的隐情。当你终有一天遇到你的亲生母亲……你就会明白的。
+NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|有合作的义务……难怪我把你俩当成一对夫妻了呢。
+NyxAboutHades02_B|Nyx About Hades B 02|Nyx|我和你父亲……有时候也是这么说服我们自己的。
+NyxAboutAthena01|Nyx About Athena 01|Zagreus|倪克斯，我最近与女神雅典娜有些来往。 她似乎很敬佩您。 我以为奥林匹斯众神不喜欢我们一类？
+NyxAboutAthena01|Nyx About Athena 01|Nyx|他们通常确实不喜欢我们。但是，你是家属，孩子。而我……我相信雅典娜足够明智，可以理解为什么像我这样的神会刻意寻求她，指定是她。 反过来，她也通告了她的家人。
+NyxAboutAthena02|Nyx About Athena 02|Zagreus|雅典娜向您致以最诚挚的问候，倪克斯。听起来自从这一切开始之后，你们一直保持着一定程度的往来，是吗？
+NyxAboutAthena02|Nyx About Athena 02|Nyx|谢谢你，我的孩子，我们确实保持着联系。雅典娜女神是以智慧闻名，因此，她是我认为最有可能倾听理性，理解我的观点，并最终愿意提供帮助的那位神。我很庆幸我没有认错。
+NyxAboutAthena02|Nyx About Athena 02|Zagreus|但是……您告诉她您是我的母亲。如果她这么聪明……那不是很大的风险吗？如果她发现您在误导她……
+NyxAboutAthena02|Nyx About Athena 02|Nyx|孩子，她{#DialogueItalicFormat}是{#PreviousFormat}明智。正是出于这个原因，我认为她会理解。
+NyxAboutAres01|Nyx About Ares 01|Zagreus|倪克斯，起初我以为我应该忽略这个，但是阿瑞斯阁下向您致以问候，他似乎对您很感兴趣。
+NyxAboutAres01|Nyx About Ares 01|Nyx|啊，是的，战争之神。在奥林匹斯众神中，他比较接受自冥界出生的我们。
+NyxAboutAres01|Nyx About Ares 01|Zagreus|您不是……等等，您不是对他感兴趣……我是说，他是……嗜血……但很礼貌？我不肯定。
+NyxAboutAres01|Nyx About Ares 01|Nyx|我的孩子，我对我感兴趣的人，感兴趣。谢谢你传话。
+NyxAboutAres02|Nyx About Ares 02|Zagreus|啊，倪克斯，{#DialogueItalicFormat}嗯{#PreviousFormat}，阿瑞斯大人想让您知道一些事情，容我引述：{#DialogueItalicFormat}“我在这里经常想起她” {#PreviousFormat}。大概这样吧？
+NyxAboutAres02|Nyx About Ares 02|Nyx|谢谢你，我的孩子，我会考虑的。如果战争之神这么贯注于我，那么，也许他应该考虑更慢地将成千上万的凡人送到我们这里。
+NyxAboutAres03|Nyx About Ares 03|Zagreus|请帮帮我, 倪克斯。 或者，确切的说，帮帮您自己。战神阿瑞斯寻求我帮您们两个联系。我的意思是……我不知道为什么我现在对此事如此抗拒。
+NyxAboutAres03|Nyx About Ares 03|Nyx|不要干涉我的人际关系，我的孩子。我很高兴战神阿瑞斯告诉你这些。奥林匹斯山的众神几乎不会对我们说起这些事情。
+NyxAboutAres04|Nyx About Ares 04|Zagreus|倪克斯，你真的开始与战神阿瑞斯有{#DialogueItalicFormat}“来往”{#PreviousFormat}吗，就像他最近告诉我的那样？你和他之间没发生什么吧？
+NyxAboutAres04|Nyx About Ares 04|Nyx|他是真的对冥界感兴趣，而且他也不会摆出高高在上的架子，虽然这其中还有些技术性问题，奥林匹斯山和冥界诸神之间……我们需要加深对彼此的了解。
+NyxAboutAres04|Nyx About Ares 04|Zagreus|父亲大人怎么办？他禁止任何联系！
+NyxAboutAres04|Nyx About Ares 04|Nyx|尽管你父亲如此下令，你还是一再收到这种联系啊，孩子。
+NyxAboutAres05|Nyx About Ares 05|Zagreus|你会偶尔去见阿瑞斯吗，倪克斯？或者你已经这么做了？
+NyxAboutAres05|Nyx About Ares 05|Nyx|这和你究竟有什么关系，孩子？和我说真话，否则不要浪费我的时间。
+NyxAboutAres05|Nyx About Ares 05|Zagreus|呃，我……只是，阿瑞斯，他……我不知道该怎么说，他应该不是你的菜！对你来说，他不会太年轻了吗？
+NyxAboutAres05|Nyx About Ares 05|Nyx|你不会理解我们之间的友谊基础的，孩子。战神阿瑞斯可能不符合某些人的道德标准，特别是那些讨厌他的凡人，或者躲着他的奥林匹斯山众神，但对于我？他既热情又好学。我有能力形成我自己对他的看法。
+NyxAboutAres06|Nyx About Ares 06|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，倪克斯，我……替阿瑞斯向您问好，他想向您打个招呼。
+NyxAboutAres06|Nyx About Ares 06|Nyx|谢谢你，我的孩子。我们的见面机会或许很少，他和我，但在奥林匹斯山上多一个朋友也不赖。即使雅典娜女神与他不合。
+NyxAboutBoons01|Nyx About Boons 01|Zagreus|倪克斯，奥林匹斯众神是不是无法看见我？我是说，至少看不清楚。我知道，他们能感知发生在各处的一些小事，但……他们并不能完整得知发生了什么。我们真的离他们那么远吗？
+NyxAboutBoons01|Nyx About Boons 01|Nyx|你不了解他们，孩子。这对你和对他们都好。他们知道在什么时候伸出援手。而且我相信他们会的，只要你真的需要。他们因为家庭关系而相互约束。他们知道你需要哪些帮助。不要因为过于骄傲而拒绝他们。
+NyxAboutOrpheus01|Nyx About Orpheus 01|Zagreus|我很高兴听说释放俄耳甫斯和圣殿承包商的命令正等待被批准，倪克斯。如果父亲想要他再次开口唱歌，把他锁在塔耳塔罗斯好像并没用。再者，我觉得他已经受了够多苦。
+NyxAboutOrpheus01|Nyx About Orpheus 01|Nyx|你的父亲可以在歌声中找到一丝平静，我的孩子。或许在被赦免以后，我们的俄耳甫斯会重新考虑一展他的歌喉。
+NyxAboutOrpheus01|Nyx About Orpheus 01|Zagreus|你在担心父亲在他的阴森的宫殿沉思时没有可欣赏的现场音乐？
+NyxAboutOrpheus01|Nyx About Orpheus 01|Nyx|在心情相对好点的时候，你的父亲的脾气更好捉摸。我的看法是，惩罚宫廷乐师无助于达成你的父亲对他的要求。
+NyxAboutOrpheus02|Nyx About Orpheus 02|Zagreus|你喜欢俄耳甫斯的歌声吗，倪克斯？他好像有点怕你不喜欢。
+NyxAboutOrpheus02|Nyx About Orpheus 02|Nyx|他的和声我非常满意，孩子。
+NyxAboutSkelly01|Nyx About Skelly 01|Zagreus|我猜你应该没听说过“骨头”这个名字吧，倪克斯？
+NyxAboutSkelly01|Nyx About Skelly 01|Nyx|我对它完全没有印象，我的孩子。不过，你为什么要在圣殿里提起这个名字？“骨头”是谁，还有你觉得我们之间是什么关系？
+NyxAboutSkelly01|Nyx About Skelly 01|Zagreus|噢，我……实际上，他是突然出现在我的卧室外面的会动的骷髅人，还让我以他为目标练习使用武器。我还以为是你让他来的，看来和你没有关系？
+NyxAboutSkelly01|Nyx About Skelly 01|Nyx|你肯定知道，阿喀琉斯总是以我的名义在这些房间活动。你现在手上有冥府兵器。但我还没用我的影响力做这件事。这个骷髅人靠得住吗？
+NyxRunNotCleared01|Nyx Run Not Cleared 01|Zagreus|我终于来到阳间了，倪克斯！在冥界与父亲对抗，饱受冷落。他会这么做，我一点也不惊讶，但是……我就差一点点！
+NyxRunNotCleared01|Nyx Run Not Cleared 01|Nyx|不要绝望，我过去就对你说过。只要肯下苦功，任何困难都可以被克服。包括你的父亲。你离目标只有一步之遥。再接再厉！
+NyxRunNotCleared02|Nyx Run Not Cleared 02|Nyx|你的父亲不在这里，而且你也回来了。这只能说明一件事。你还好吗，我的孩子？
+NyxRunNotCleared02|Nyx Run Not Cleared 02|Zagreus|是的，我还好，倪克斯。虽然借父亲之手回来特别伤人。话说，你有宝贵的建议如何打败他吗？比如他身上有什么只有你知道的弱点，诸如此类的？
+NyxRunNotCleared02|Nyx Run Not Cleared 02|Nyx|你比任何人都了解他的弱点，包括我在内。你们之间的矛盾不能通过其他方式解决，这一点让我非常痛苦。但如果必须如此……为了我去打败他，并为此奋战，无论需要多长时间。你会这样做吗？
+NyxAboutPact01|Nyx About Pact 01|Nyx|你一直要受惩罚契约的约束，孩子。我起初本来想劝劝你的父亲，不过……它让你的力量变得更强大。
+NyxAboutPact01|Nyx About Pact 01|Zagreus|我猜是挫折磨砺了人的个性？我以为你不是那种可以从正面看待事情的人呢，倪克斯。
+NyxAboutPact01|Nyx About Pact 01|Nyx|这是事实的重点。如果连契约的苛刻条件都能克服，你在这片领地上的影响力毫无疑问也会不断扩大。当然，也不能做过度延伸。
+NyxAboutFlowers01|Nyx About Flowers 01|Nyx|谢谢你送的漂亮的花，孩子。它们让我在圣殿的一角变得更舒适。我对这种简单的舒适感向来不屑一顾，但是……现在被它们包围着，我突然发现自己喜欢上它们的存在，我在过去可能不会承认。
+NyxAboutFlowers01|Nyx About Flowers 01|Zagreus|很高兴你喜欢它们，倪克斯。如果你不喜欢，只需要一句话，我就把它们拿走。可能一把火烧干净！话说回来，你为什么一直待在这个特定的角落呢？
+NyxAboutFlowers01|Nyx About Flowers 01|Nyx|这里离圣殿的中心和地基最近。因此，也是整个领地的中心。
+NyxAboutHerself01|Nyx About Herself 01|Zagreus|你在这里不曾感到寂寞吗，倪克斯……？我是说如果有人陪伴，因为……看看你自己，这么迷人，作为黑夜女神本尊！没有什么是你做不到的。小时候，我以为你和父亲，你知道我想说什么，但……你们中间没有其他人吗？
+NyxAboutHerself01|Nyx About Herself 01|Nyx|你真够直接的，孩子。我接受你的恭维。但正如你所知，我是黑夜女神。黑夜总能隐藏一切。至于你说的寂寞，我一无所知。整个领地……都是我的一部分。它的很多子民起源于我，只是我。
+NyxDarknessProgress01|Nyx Darkness Progress 01|Nyx|自从上次见面以来，你又变强了啊，孩子。你卧室的那面镜子应该就是原因…但是真正还是靠你自己。
+NyxDarknessProgress02|Nyx Darkness Progress 02|Nyx|我感觉到你体内的黑暗正在增加，孩子。我为你感到骄傲。你一直都很能干，而现在，你似乎散发着新获得的力量。
+NyxDarknessProgress03|Nyx Darkness Progress 03|Nyx|冥界里那股深不可测的力量正在你体内茁壮成长，孩子。上次谈话以来，你的虔诚有所增长了，你已经掌握了很多控制黑暗的方法。
+NyxDarknessProgress04|Nyx Darkness Progress 04|Nyx|那些很久以前就诞生在冥界的人，就算是在他们身上……我也很少能看到有谁能像你一样，能这么完美地与黑暗宝石融为一体，孩子。
+NyxDarknessProgress04|Nyx Darkness Progress 04|Zagreus|与黑暗宝石融为一体？我只不过是……到处捡捡罢了。不过既然你提到了，那我得说，我已经捡了不少了！但我并不确定身上有什么变化。
+NyxDarknessProgress04|Nyx Darkness Progress 04|Nyx|你确实感觉不太到，但想想这一切刚刚开始的时候吧。和那时相比，你知道的事情多了很多，能力也强了很多。
+NyxMirrorProgressComplete01|Nyx Mirror Progress Complete 01|Nyx|你已经展现了夜之圣镜的各个方面，将它的力量发挥到了极致，孩子。我早就知道你有可能做得到，可是……你做得比我预想得更快。
+NyxMirrorProgressComplete01|Nyx Mirror Progress Complete 01|Zagreus|要是没了它，我都不知道自己会在哪里，说不定还在塔耳塔罗斯和墨纪苦战呢。我只希望能变得更强大。
+NyxMirrorProgressComplete01|Nyx Mirror Progress Complete 01|Nyx|夜之圣镜和你的力量关系不大，和你的能耐就更没关系了。等你关闭那些效果，亲自试验一下就知道了。它只是给了你很多学习的机会而已，而你会继续学习下去的。
+NyxPostFlashback01|Nyx Post Flashback 01|Zagreus|倪克斯……我想问你个问题，你真的确定，我的寻找不是徒劳的吗？万一我的母亲，她……她已经不在了呢？
+NyxPostFlashback01|Nyx Post Flashback 01|Nyx|你母亲还活着。除此之外没有其他可能。如果，她没有，她就会在这里，跟我们在一起…她是一个好女人。高贵，善良。我原以为她会把你养大。
+NyxPostFlashback02|Nyx Post Flashback 02|Zagreus|倪克斯，有时候我会觉得，奥林匹斯众神看不起我们这些冥界出身的人。这只是我的臆想吗，你怎么看呢？
+NyxPostFlashback02|Nyx Post Flashback 02|Nyx|奥林匹斯山上的众神总觉得他们比我们高一等，孩子。你父亲就喜欢经常这样说。只有他一个人被贬到了这个国度，从此对上面的亲戚们心生怨恨。
+NyxAboutOlympians01|Nyx About Olympians 01|Nyx|孩子，奥林匹斯山上的绝大部分亲戚，你都已经见过了。尽管他们的祝福没办法在冥界持续太久，但只要你需要，他们一定会继续帮助你的。
+NyxAboutOlympians01|Nyx About Olympians 01|Zagreus|他们依然以为我打算去奥林匹斯山和他们相聚，所以他们才会帮我。
+NyxAboutOlympians01|Nyx About Olympians 01|Nyx|他们帮你，是因为你是他们的家人，而且你和他们之间并没有什么复杂的纠葛。
+NyxAboutOlympians02|Nyx About Olympians 02|Zagreus|倪克斯……奥林匹斯众神一直都在帮助我，不过……这件事情真的要把他们牵扯进来吗？我一个人也可以上路。
+NyxAboutOlympians02|Nyx About Olympians 02|Nyx|那你恐怕走不了太远，孩子。你的父亲太骄傲了，不肯让别人帮忙处理他的私事。不要放弃你已经得到的优势。
+NyxAboutOlympians02|Nyx About Olympians 02|Zagreus|可我在误导他们，我在利用他们的好意来寻找我的母亲。万一他们发现了怎么办？
+NyxAboutOlympians02|Nyx About Olympians 02|Nyx|我会尽我所能不让他们发现，你也应该这么做。
+NyxAboutPersephone01|Nyx About Persephone 01|Zagreus|倪克斯，你能不能……多给我讲讲我亲生母亲的事？什么事情都行。她当时是什么样子的，你们第一次遇见对方是什么时候？当时你觉得她怎么样？
+NyxAboutPersephone01|Nyx About Persephone 01|Nyx|你的生母，她……给我们留下了很深的印象，孩子。她一定是从很遥远的地方来的，不过……她散发着一种我从未感受过的光彩。时间一久，我喜欢上了她。你继承了她的很多优点。
+NyxAboutPersephone01|Nyx About Persephone 01|Zagreus|优点？比如说抛弃家人？她当时为什么离开？你们为什么瞒着我？
+NyxAboutPersephone01|Nyx About Persephone 01|Nyx|拜托……不要再问我这些问题了。我曾经发誓不再谈论这些事情。我也尽可能回避这些事情。去找她吧，孩子。找到她，你就明白了。
+NyxAboutPersephone02|Nyx About Persephone 02|Zagreus|倪克斯，就算我能一路杀到地面……你怎么知道我能找到她？你给我的提示……你怎么知道她就在那里，她一直没有离开吗，还是说……？
+NyxAboutPersephone02|Nyx About Persephone 02|Nyx|当你的生母离开的时候，我为她隐去了光芒，遮蔽了她的痕迹，只有我自己能看得到。我相信她还在那里，我相信把这些事情告诉你也无妨。
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|你的父亲败给了你，就像他的父亲也曾败给了他。不过，你比他仁慈多了，我知道这最多只能算作一次痛苦的胜利。不过，和我说说吧……接下来发生了什么，你怎么回来了？你找到你的生母了吗？
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Zagreus|我找到了，我……她就在那里……在你说的地方，而且比我想象得更美好。可是……我和她在一起的时间太短了，我没办法在上面存活太久。你为什么不告诉我，说无论发生什么，我都会死呢？
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|哦，我的孩子……这件事我确实没说过，可是……我之前也不知道，或者说……我也不愿相信……上面的世界会给你带来这样的影响。但看来，你也逃不过你父亲的命运。
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Zagreus|我父亲的命运？可我每次到那里的时候，他都会洋洋得意地等着我，而且他看起来都一点事都没有！不过……或许我们离开冥界越远……状况就会变得越差。因为他抽到的签……就是掌管冥界，是吗？
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|所以我的猜想是，你被某种力量束缚在这个世界，这种力量甚至比我的力量还强。我想知道……如果每次都只能与珀尔塞福涅见面一会儿……你是否还是会去找她呢？
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Zagreus|……会的，我会的。我还有那么多问题想要问她呢！
+NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|既然如此，就去问她吧，孩子。下定决心，再次去找她吧。尽可能地抓紧你们能在一起的短暂时间，就像凡人那样。
+NyxAboutPersephonePact01|Nyx About Persephone Pact 01|Zagreus|倪克斯……你为什么从来没告诉过我母亲，说我还活着？你至少大概知道她去了哪里。你和父亲……你们本可以让她没这么痛苦才对！
+NyxAboutPersephonePact01|Nyx About Persephone Pact 01|Nyx|我发过誓，永远不会说这件事情，孩子。我已经尽我所能地想要避开这一切了。你要知道……我这么做完全都是为了她的幸福，也是为了你的幸福。
+NyxAfterPersephoneMeeting02|Nyx After Persephone Meeting 02|Zagreus|倪克斯……我出生的时候，是你救了我，赐予了我生命。是父亲告诉我的，我不知道该说什么。你为什么从来都没告诉过我？
+NyxAfterPersephoneMeeting02|Nyx After Persephone Meeting 02|Nyx|有很多事情我是没办法提的，孩子。这都是我自己的选择，而你说的这件事情正是其中之一。这么说吧，为了复活你……我花了相当程度的力量，也花了相当多的时间。
+NyxAfterPersephoneMeeting02|Nyx After Persephone Meeting 02|Zagreus|我从一开始就不应该生下来……这就是命运女神想要的结果吗？你是违抗了你女儿们的意愿吗？
+NyxAfterPersephoneMeeting02|Nyx After Persephone Meeting 02|Nyx|安静，别再诱惑我的女儿们了。
+NyxAboutPersephoneMeeting03|Nyx About Persephone Meeting 03|Nyx|她还好吗，孩子？我是说，珀尔塞福涅，她在自己的小屋里过的还好吗？那里是什么样子的？
+NyxAboutPersephoneMeeting03|Nyx About Persephone Meeting 03|Zagreus|我觉得她过得很好，能见到她我很高兴。她的屋子很漂亮，是寒风之中的一栋小屋，而且所有的植物都盛开着！我都不知道该怎么描述。而且，那里很明亮。
+NyxAboutPersephoneMeeting03|Nyx About Persephone Meeting 03|Nyx|对喜欢光明的人来说，我猜这确实是个不错的地方。好吧……我相信你去见她这件事情，对你们两个来说都很重要。
+NyxAboutPersephoneMeeting05|Nyx About Persephone Meeting 05|Zagreus|倪克斯，听说奥林匹斯众神都在帮我，我的母亲很介意。把他们全都牵扯进来，这样会不会……让她遇到危险？没有别的办法了吗？
+NyxAboutPersephoneMeeting05|Nyx About Persephone Meeting 05|Nyx|没有了，她一直都处于危险之中。没错，我是隐藏了她的行踪，就连我都找不到她了，但这并不足以保障安全。我觉得没有了奥林匹斯众神的力量，你根本不可能找得到她。而且，如果不是你先去找了他们……而是他们先发现了你的真实身份……事情可能会变得更糟。
+NyxAboutPersephoneMeeting05|Nyx About Persephone Meeting 05|Zagreus|呃，真是一团乱麻啊。咱们该怎么解决这个问题？
+NyxAboutPersephoneMeeting05|Nyx About Persephone Meeting 05|Nyx|奥林匹斯众神依然以为你正在努力去见他们，我相信，我们可以让现状保持很长、很长时间。或许没办法把他们一直蒙在鼓里，不过……这段时间应该足以找到解决方案，说不定你的生母也会帮忙呢。
+NyxAboutPersephoneMeeting06|Nyx About Persephone Meeting 06|Nyx|孩子，你走之前我快速说几句。我知道这一切看起来很糟糕，但你要明白，我一直恪守着对珀尔塞福涅的承诺，我也很怀念和她一起度过的时光。
+NyxAboutPersephoneMeeting06|Nyx About Persephone Meeting 06|Zagreus|我当然明白，倪克斯，不过……你觉得她为什么要离开冥界呢？仅仅是因为我吗？她那时会不会以为我一出生就死了？
+NyxAboutPersephoneMeeting06|Nyx About Persephone Meeting 06|Nyx|她并没有感到过归属感，她不得不接受这个非常难以接受的变化。而且……她担心她最终可能会在奥林匹斯山与冥界之间不得安生，她担心自己可能会挑起战争。
+NyxAboutPersephoneMeeting06|Nyx About Persephone Meeting 06|Zagreus|挑起战争……我明白，就算是更微不足道的事情都能引发战争。而且，我父亲肯定也是个要命的负担吧。
+NyxAboutPersephoneMeeting06|Nyx About Persephone Meeting 06|Nyx|这你恐怕就不知道了，去问她本人吧，问她和你父亲是怎么相处的。不过……我说得已经太多了，我不能再说了。
+NyxAboutPersephoneMeeting07|Nyx About Persephone Meeting 07|Nyx|怎么了，孩子？我感觉到你很难过，但不知是为什么难过。
+NyxAboutPersephoneMeeting07|Nyx About Persephone Meeting 07|Zagreus|母亲不想再见我了。我是说……她希望我别再去找她了，她觉得这太冒险了。
+NyxAboutPersephoneMeeting07|Nyx About Persephone Meeting 07|Nyx|哦，她会这么想也无可厚非，那你打算怎么办？
+NyxAboutPersephoneMeeting07|Nyx About Persephone Meeting 07|Zagreus|……我还是要找她。
+NyxAboutPersephoneMeeting09|Nyx About Persephone Meeting 09|Zagreus|父亲很爱她，是吗？我是说，爱我的母亲。他怀着强烈的信念……固执地思念着她，是吧？至于母亲到底看上了父亲的哪点，我就不清楚了。
+NyxAboutPersephoneMeeting09|Nyx About Persephone Meeting 09|Nyx|从某种程度上来说，你父亲对珀尔塞福涅的态度完全不同。他一直都是你所熟知的样子，可我觉得……她的快乐……甚至都能感染你的父亲。而且你父亲也明白……有她在身边，比没有她要好。
+NyxAboutPersephoneMeeting09|Nyx About Persephone Meeting 09|Zagreus|听起来像是母亲为了改正他的缺点承受了巨大的压力……不过，听起来她也很在乎他。她也很在乎你，还有刻耳柏洛斯。她说她很想你。
+NyxAboutObscurity01|Nyx About Obscurity 01|Zagreus|倪克斯，为什么来这里的凡人对奥林匹斯山上的事情了如指掌，可对我们这里知之甚少？有没有什么办法能让大家更了解我们？
+NyxAboutObscurity01|Nyx About Obscurity 01|Nyx|这个王国之所以不为人知，都是出于我的设计与你父亲的意志，我的孩子。告诉我，你所寻求的关注会带来什么好处？
+NyxAboutObscurity01|Nyx About Obscurity 01|Zagreus|哦，我……我也不知道，只是大家对那些著名的神灵和怪物都很了解。我觉得，像你这样付出了这么多的人……你至少也应该和他们一样有名才对！
+NyxAboutObscurity01|Nyx About Obscurity 01|Nyx|不为人知并不是弱点，孩子，你明白吗？我们寻求的是获得价值，而并非为人所知。如果你是个有价值的人，那无论威名还是恶名，都是由此而来的结果。如果你为名声所累……我可以帮你。
+NyxRunProgress01|Nyx Run Progress 01|Nyx|你在水仙花平原受了不少苦了吧，孩子？那里的无血僵尸暗灵寻找着一切活着的生命并带给他们死亡。当心他们可怕的力量。
+NyxRunProgress02|Nyx Run Progress 02|Nyx|你曾在至福乐土与英灵抗衡，我的孩子。你的父亲以丰厚的赏赐引诱它们，让它们中断你的旅程。但我觉得打败你的荣誉感和满足感足以让它们再次拿起武器。
+NyxRunProgress03|Nyx Run Progress 03|Nyx|你差点就逃离了冥界，孩子。除了在神庙遇到的挫折，你取得了了不起的成绩……如果有什么值得安慰的话，你在那边面对的敌人对你的父亲来说也是一种负担。
+NyxRunProgress03|Nyx Run Progress 03|Zagreus|什么，连父亲也没办法解决这些害虫问题？在他的领地的上层横冲直撞，我从来没想过还能帮上什么忙。
+NyxAboutQuestLog01|Nyx About Quest Log 01|Nyx|我看到你拿着三位命运女神的那张小预言清单。我也应该和过去一样，从不怀疑我的女儿们的期望。我只是不确定你是否得到了必要的指点，在圣殿承包商提供的那么多机会中会选择它。
+NyxAboutQuestLog01|Nyx About Quest Log 01|Zagreus|你送我那张所谓的命运小预言清单，我就会把它收下。不过你好像还想和我说些什么，有什么是我应该注意的？
+NyxAboutQuestLog01|Nyx About Quest Log 01|Nyx|该知道的你都知道了。我比如何人都更明白，不能篡改命运的安排。如果在这张清单上写着你命中注定要经历可怕的事情……我想我还是会提醒你。
+NyxAboutQuestLog02|Nyx About Quest Log 02|Nyx|我的女儿们所做的预言，很多都已经在你身上应验了。虽然它们可能是必不可免的，但还是让我印象深刻。
+NyxAboutQuestLog02|Nyx About Quest Log 02|Zagreus|谢谢你，倪克斯。但它们只是一些{#DialogueItalicFormat}小{#PreviousFormat}预言，对吧？那些都不一定会实现，除非你把它说出来，然后给我奖励，让我不觉得是在浪费时间。甚至连命运女神也没有在其中推波逐浪？
+NyxAboutQuestLog02|Nyx About Quest Log 02|Nyx|命运女神完全知道要做些什么，以使她们所编织的未来成真。对于她们的最终安排，我们只是工具而已。当然，有些人可能更加重要。
+NyxAboutQuestLog03|Nyx About Quest Log 03|Nyx|我感觉到，命运清单上所有的小预言都已经实现了，是吗……？我不明白这到底是怎么做到的。
+NyxAboutQuestLog03|Nyx About Quest Log 03|Zagreus|这么说吧，这确实要花上一些工夫。而且其中一部分事情相当困难，也花了不少时间，不过……完成其中所有的内容，到底有什么特别之处呢？这只是份清单，是吧？
+NyxAboutQuestLog03|Nyx About Quest Log 03|Nyx|命运女神总是在编织命运。若是想弄清楚她们的安排的话……这么说吧，我觉得她们或许应该学着织得快一些才是。
+NyxAboutQuestLog03|Nyx About Quest Log 03|Zagreus|如果有什么需要实现的新预言，他们知道该去哪里找我。
+NyxAboutGhostAdmin01|Nyx About Ghost Admin 01|Nyx|怎么了，孩子？有什么问题吗？
+NyxAboutGhostAdmin01|Nyx About Ghost Admin 01|Zagreus|倪克斯，关于承包商最近的整修工作……父亲和我说，由你负责总体监工。我是说，这是我们两个人之间的秘密，我也不会再次提起这件事，但是……我要谢谢你，真的非常感谢。
+NyxAboutGhostAdmin01|Nyx About Ghost Admin 01|Nyx|啊……是的，不用再提这件事了。不过，我很乐意帮忙。
+NyxAboutGhostAdmin02|Nyx About Ghost Admin 02|Nyx|这座圣殿可不是适合庆祝的地方，孩子。考虑到我们的角色，我觉得保持一定程度的严肃才合适，甚至说是必要。
+NyxAboutGhostAdmin02|Nyx About Ghost Admin 02|Zagreus|这一切都是和圣殿承包商的装饰品有关吗？听我说，父亲反对我一点都不在乎，但如果你也不喜欢的话……告诉我就好，我会撤下来的。
+NyxAboutGhostAdmin02|Nyx About Ghost Admin 02|Nyx|你误会了，我很感激。这些变化……我自己是不会去委托这些事情的。可亲眼看到这些变化之后……我很感激这一切，你的眼光真的很不错。
+NyxAboutOffice01|Nyx About Office 01|Zagreus|倪克斯，假设说，我感觉某些人遭到了不公平对待，他们应该有更美好的命运……例如，他们被判定要承受过于苛刻的永世惩罚……难道我就不能动用我的父亲的哪怕一点点权限来做点什么吗？
+NyxAboutOffice01|Nyx About Office 01|Nyx|现在的你已经重新获得了进入行政厅的权限，孩子。你又重新获得自己梦寐以求的权力了。
+NyxAboutOffice01|Nyx About Office 01|Zagreus|但我又怎么可能在那里找到些什么？那地方堆满了契约和羊皮纸。我根本不知道该如何下手。
+NyxAboutOffice01|Nyx About Office 01|Nyx|你会摸清门路的，不过，在运用你的权限时要小心谨慎，并且把握正确的时机。明白了吗？
+NyxAboutOffice02|Nyx About Office 02|Zagreus|我从来没想过管理大厅居然是这么重要的地方，倪克斯。不过，这一切都得感谢你才是。
+NyxAboutOffice02|Nyx About Office 02|Nyx|用不着这样，孩子。我们的记录必须每天更新，而你看到的只是几份老早之前就该更新的记录，这一点就连你父亲也没法否认。
+NyxAboutDemeter01|Nyx About Demeter 01|Zagreus|倪克斯……我碰到了得墨忒尔。她跟我提起她的女儿……{#DialogueItalicFormat}珀尔塞福涅{#PreviousFormat}。你从来没说过她是我的外婆。你不觉得……在这种情况下……你应该和我说些什么吗？
+NyxAboutDemeter01|Nyx About Demeter 01|Nyx|……听我说，孩子。你知道什么，不知道什么，都是为了你的安全考虑。你的安全，还有你生母的安全。你可以怀揣着疑心和好奇心。但我目前对此无能为力，除了提醒你要小心。你能理解吗？
+NyxAboutHermes01|Nyx About Hermes 01|Zagreus|倪克斯，我认识了迅捷之神赫尔墨斯，不过……我看他和奥林匹斯山上的其他诸神没多少来往。你和他熟吗？
+NyxAboutHermes01|Nyx About Hermes 01|Nyx|赫尔墨斯先生是我们的信使，我认识他。在所有奥林匹斯山众神中，他与我们这边关系最密切，还会帮助护送死者的灵魂穿过我们的大门。接受他的帮助吧；因为他也忠于我们的事业。
+NyxAboutChildren01|Nyx About Children 01|Zagreus|希望以后能与你其他的孩子们见面，倪克斯，像厄里斯、涅墨西斯……塔纳托斯和我提起过的其中几位，他们来过这座圣殿吗？
+NyxAboutChildren01|Nyx About Children 01|Nyx|不，他们的职责在别的地方，这才是最好的安排。我的一部分子女和另一部分相处并不融洽，和我的关系也不太好。身为人母……会有很多成功之处，也会有很多失败之处。
+NyxAboutSisyphusLiberationQuest01|Nyx About Sisyphus Liberation Quest 01|Zagreus|倪克斯，我最近都在行政办公室忙于做记录，你知道吗，有时候我在想，在哪里可以找到西西弗斯的判决书呢，就是那位被迫在塔耳塔罗斯做苦力的无赖之王？然后我跟墨纪拉说起这件事……
+NyxAboutSisyphusLiberationQuest01|Nyx About Sisyphus Liberation Quest 01|Nyx|他一直在帮助你。起初我以为他在厚颜无耻地讨好你，但是……我试过了，确实找不到他的行为背后有什么不可告人的目的。话说回来……你要找的记录应该在西格玛-斐-阿尔法区的小写伽马文件夹。
+NyxAboutSisyphusLiberationQuest02|Nyx About Sisyphus Liberation Quest 02|Zagreus|我撤销了对无赖之王西西弗斯的惩罚，倪克斯，除非……他自己选择留下来！他选择留在塔耳塔罗斯，可能想和我不时地说说话是其中的部分原因！当然还有他的巨石朋友。
+NyxAboutSisyphusLiberationQuest02|Nyx About Sisyphus Liberation Quest 02|Nyx|听起来对他来说是不错的决定。不过他的自由并非其赎罪的终点。作为他的朋友……请确保他不会再冒犯你的父亲，孩子。
+NyxAboutSingersReunionQuest01|Nyx About Singers Reunion Quest 01|Zagreus|呃，倪克斯，你是否曾经有迫切地想要找出案件卷宗，看看我们的宫廷乐师出于什么原因要在这座圣殿里永远被奴役，而且和他心爱的缪斯分隔两地？我在想你有没有办法补救。
+NyxAboutSingersReunionQuest01|Nyx About Singers Reunion Quest 01|Nyx|我们的宫廷乐师给这个地方带来了安宁，我的孩子。不过，当你在泽塔-派-欧米伽区大写贝塔文件夹找到他的案件卷宗，你会发现他所受的惩罚相对于其犯下的错误来说过于严酷……
+NyxAboutSingersReunionQuest02|Nyx About Singers Reunion Quest 02|Zagreus|你没法想象，在看到俄耳甫斯和他的缪斯欧律狄克在水仙花平原相逢时，我有多么高兴。最棒的是……我认为他们不会永远分离。他会时不时地抽空去看欧律狄克！我要代表他们还有我自己谢谢你，倪克斯。
+NyxAboutSingersReunionQuest02|Nyx About Singers Reunion Quest 02|Nyx|你不需要感谢我，孩子。这都是你的功劳。我只是做了自己该做的事情而已。
+NyxAboutMyrmidonReunionQuest01|Nyx About Myrmidon Reunion Quest 01|Zagreus|我，{#DialogueItalicFormat}呃{#PreviousFormat}，碰巧在检查这里的安保情况，背景调查啊之类的，然后……我想问一下，你能不能帮我找一份古老的契约……是阿喀琉斯签署过的契约，倪克斯？这份契约至关重要……不仅仅是对他，对我来说也同样如此。
+NyxAboutMyrmidonReunionQuest01|Nyx About Myrmidon Reunion Quest 01|Nyx|阿喀琉斯啊……我们之中很难有谁能比得上他。不过，随它去吧……应该是埃普西隆——约塔——西塔，在㖻文件夹里，中间那层。你真的要这么做吗，孩子？
+NyxAboutMyrmidonReunionQuest02|Nyx About Myrmidon Reunion Quest 02|Zagreus|我在至福乐土看到阿喀琉斯和普特洛克勒斯在一起，倪克斯。他们现在自由了，在一起了，谢谢你。真希望你也可以去见见他们。
+NyxAboutMyrmidonReunionQuest02|Nyx About Myrmidon Reunion Quest 02|Nyx|哦，我现在就能看到他们，我的孩子，我已经见过他们了。阿喀琉斯对我们的圣殿忠心耿耿，能看到他从这奴役之中得到些许喘息，我真的很高兴。谢谢你为他所做的一切。
+NyxAboutMyrmidonReunionQuest02|Nyx About Myrmidon Reunion Quest 02|Zagreus|撕毁一个契约，应该不至于让父亲大发雷霆吧。
+NyxAboutMyrmidonReunionQuest02|Nyx About Myrmidon Reunion Quest 02|Nyx|你的父亲是个恪守规矩的人，而你根据他定下的规矩，解除了阿喀琉斯的契约。就算是他，也没办法让阿喀琉斯再次签下契约了。
+NyxAboutEnding01|Nyx About Ending 01|Nyx|珀尔塞福涅，冥后……她回来了！我真不敢相信，孩子。你把她带回来了，带到了我们身边。
+NyxAboutEnding01|Nyx About Ending 01|Zagreus|我也不敢相信。现在该怎么办呢？收拾残局，重新开始吗？
+NyxAboutEnding02|Nyx About Ending 02|Zagreus|最近怎么样，倪克斯？母亲又回来了，你们可以好好叙叙旧？
+NyxAboutEnding02|Nyx About Ending 02|Nyx|尽管让人想起了曾经的时光，但现在却大不相同了，孩子。比如说……你也在了，这和以前不同。
+NyxAboutEnding02|Nyx About Ending 02|Zagreus|哦，好吧。所以，你们相处得还好吗？一切都还好吗？
+NyxAboutEnding02|Nyx About Ending 02|Nyx|一切都很好。你的生母……珀耳塞福涅……我认为她在这里很受欢迎。
+NyxAboutEnding03|Nyx About Ending 03|Nyx|恭喜你有了新的职责，孩子。所以，你依然有理由逃出这里，前往地上世界。
+NyxAboutEnding03|Nyx About Ending 03|Zagreus|我觉得，这变得更加正规了。我的责任正是如此，和我以前一直在做的事情没什么差别。不过我要谢谢你，倪克斯。这种感觉很奇怪……想想看，我居然能靠一次次从这里逃出去来为这座圣殿提供服务。
+NyxAboutEnding03|Nyx About Ending 03|Nyx|没人能逃出这个地方，你父亲希望这样的声誉能在所有人那里传开，这样凡人和幽灵们才永远都不会尝试你曾实现过的事情。
+NyxAboutEnding03|Nyx About Ending 03|Zagreus|好吧，这总比呆在房间里无所事事要好。而且……我觉得，能感觉到自己有能力接受变化，这种感觉还挺好的。
+NyxAboutEnding03|Nyx About Ending 03|Nyx|能与你共事是我的荣幸，孩子。
+NyxAboutEnding04|Nyx About Ending 04|Zagreus|倪克斯，我想问的是……之前是卡戎把我和母亲送回来的。所以他……他一直都在侍奉你吗？这一切都是某个精心设计的计划的一部分吗？
+NyxAboutEnding04|Nyx About Ending 04|Nyx|卡戎只侍奉冥界，孩子，而且他非常可靠。我猜，说不定他对冥后怀着某种特别的感情吧，对你也是如此。
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Nyx|你仍然处于困境之中，我的孩子，我会与你共同面对困难。即便是现在，奥林匹斯众神也认为你在寻找他们，认为你是我的儿子。虽然我们的谎言出于好意，但撒下的谎却越来越多了。
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Zagreus|你说得没错。我们不能一直把他们蒙在鼓里，必须做点什么才行。
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Nyx|可如果你把所有的真相都说出来的话……我很担心他们的怒火。或许不是每个人都会发火，但至少其中一部分人并不喜欢谎言。
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Zagreus|我完全同意，不过幸好母亲有个计划！她要我一个接一个，和奥林匹斯山上的每位神明都取得联系。
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Nyx|你的生母足智多谋，这一点毫无异议。不过，你可以告诉我是什么样的计划吗？
+NyxAboutOlympianReunionQuest01|Nyx About Olympian Reunion Quest 01|Zagreus|如果我说，她打算请每个人都喝些仙馔密酒的话，你能相信吗？
+NyxAboutOlympianReunionQuest02|Nyx About Olympian Reunion Quest 02|Zagreus|倪克斯，关于母亲策划的这场盛宴……如果我把卡俄斯也邀请来，你觉得可以吗？
+NyxAboutOlympianReunionQuest02|Nyx About Olympian Reunion Quest 02|Nyx|我……很难想象卡俄斯会参与我们的庆典。我不确定他能不能参加我们的庆典，更不确定他到底愿不愿意这么做。不过……如果你真的打算问他的话，就去问吧。
+NyxPostEpilogue01|Nyx Post Epilogue 01|Nyx|终于有幸见到你那些亲人了，孩子。雅典娜、阿瑞斯，还有其他人，他们比我想象得要和蔼可亲得多。真是个值得铭记的夜晚啊，不是吗？
+NyxPostEpilogue01|Nyx Post Epilogue 01|Zagreus|确实是个难忘的夜晚，倪克斯！至少对大部分人来说是这样的，不过我估计迪奥尼索司肯定什么都记不住吧。不过很高兴看到大家欢聚一堂，都相处得很好，就好像没什么过节一样！所以说，我们已经没问题了，是吧？
+NyxPostEpilogue01|Nyx Post Epilogue 01|Nyx|珀尔塞福涅对他们说了他们需要听到的一切，有时候我们对家人只能这么做。不过，奥林匹斯众神……他们很容易误解别人，不是吗？像这样的亲族关系，可能没办法永远持续下去。
+NyxPostEpilogue01|Nyx Post Epilogue 01|Zagreus|那我猜，就趁它还在的时候，享受当下吧。
+NyxPostEpilogue02|Nyx Post Epilogue 02|Nyx|骄傲曾让无数凡人身败名裂，孩子，也曾让你许多家人名声扫地。可即便如此……你所成就的一切，让我感到无比骄傲，我希望你能明白这点。
+NyxPostEpilogue02|Nyx Post Epilogue 02|Zagreus|对我来说，这些话意义重大，倪克斯。可是没有你的帮助，我根本做不到这些事情。即便我得知了母亲的真相之后大发雷霆，你也从未停止对我的关心……你还违背了父亲的意愿，把自己推到了风口浪尖。为什么要为我付出这一切呢？
+NyxPostEpilogue02|Nyx Post Epilogue 02|Nyx|我永远效忠于这座圣殿。很久以前，你父亲还没成为冥王的时候，我就已经在这里了。他来这里的时候……我尽我所能地保证秩序，想办法与冥王哈迪斯建立友好的关系。不过除此之外，还有另一个原因……
+NyxPostEpilogue02|Nyx Post Epilogue 02|Zagreus|你希望能和奥林匹斯众神处好关系。他们以前总是对冥界不屑一顾，不过……如今他们已经和我们熟悉了，似乎也更愿意帮我们处理这里的事务了。
+NyxPostEpilogue02|Nyx Post Epilogue 02|Nyx|这个猜测很合理，而且也基于事实，但并不是这样，我的孩子。我帮助你的原因，比这要简单得多：因为我爱你。或许你并不是我的亲生儿子，但我待你视如己出，我尽我所能地把你养大成人。
+NyxPostEpilogue02|Nyx Post Epilogue 02|Zagreus|倪克斯……我也爱你，谢谢你为我做的一切。
+NyxPostEpilogue03|Nyx Post Epilogue 03|Nyx|你的生母冥后又离开这里了。不过，这次再想见她就没那么困难了。放心吧，她会回来的。
+NyxPostEpilogue03|Nyx Post Epilogue 03|Zagreus|这对她来说肯定很难受……回到奥林匹斯山。她一点都不喜欢那里，我希望她一切都好。
+NyxPostEpilogue03|Nyx Post Epilogue 03|Nyx|不要感到绝望，我们有办法观察她的动向。倒不是说我觉得她可能会碰上什么意外，不过……这么说吧，你那些家人还在，我们总得提前做好措施，你明白的吧。
+NyxPostEpilogue03|Nyx Post Epilogue 03|Zagreus|……我会想念她的。
+NyxPostEpilogue03|Nyx Post Epilogue 03|Nyx|我也会，不过我觉得她应该很快就回来了。
+NyxPostEpilogue04|Nyx Post Epilogue 04|Zagreus|就连卡俄斯都以它的灵魂形态，参加我们与奥林匹斯众神的小小盛典了，我感到很开心！你们有没有聊上几句？
+NyxPostEpilogue04|Nyx Post Epilogue 04|Nyx|只聊了一点点吧，这是我们这么长时间以来的第一次沟通，比预期得要好。或许在某些情况下，我可以和他继续进行对话。感谢你这么主动，孩子。
+NyxAboutHypnos01|Nyx About Hypnos 01|Nyx|唉，你最近跟修普诺斯交流的不少啊，孩子。希望你可以接受他的性格。不过这应该不是问题所在吧。
+NyxAboutHypnos01|Nyx About Hypnos 01|Zagreus|噢，他没什么不好啦，倪克斯。为你昏昏欲睡、无忧无虑的儿子感到骄傲吧！我们之中还有谁能有这种热情呢？
+NyxAboutHypnos02|Nyx About Hypnos 02|Zagreus|我很少看到你和修普诺斯联系，倪克斯，所以想要问问……你们之间还好吧？
+NyxAboutHypnos02|Nyx About Hypnos 02|Nyx|修普诺斯还在学习如何自立。因此我决定最好暂时和他保持距离，否则他会继续依赖我，连最基本的事情都做不了。我和他说好了，暂时不要来找我。
+NyxAboutHypnos02|Nyx About Hypnos 02|Zagreus|暂时？那是多久呢？既然你提起来，我都不记得上次你们说话是什么时候了。
+NyxAboutHypnos02|Nyx About Hypnos 02|Nyx|按照他的进步速度，我猜他的学习差不多会在下一个纪元开始前结束。
+NyxAboutCharon01|Nyx About Charon 01|Zagreus|倪克斯，你最近见过卡戎吗？他还好不？我都不知道他现在怎么样。
+NyxAboutCharon01|Nyx About Charon 01|Nyx|我和卡戎最近也断了联系。在我的孩子当中，他一直是最独立自主的那个，或许除了命运女神以外。我知道的就这些，但我可以向你保证：他肯定很满足于能够掌舵。
+NyxAboutCharon01|Nyx About Charon 01|Zagreus|他之所以会帮助我，我想我应该感谢你，比如他会把自己的商品卖给我。
+NyxAboutCharon01|Nyx About Charon 01|Nyx|不。你要感谢的人是他。他的沉默寡言并不代表他缺乏智慧。我们一样都在为圣殿做事。但他不用向我汇报工作。
+NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|呃，倪克斯？你觉得卡戎会不会记恨我，假设……我们小小地打了一架？我是说，打到至死方休的那种。
+NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|卡戎长大成人的这段日子里，他没有哪个兄弟敢和他打架。你怎么会想出这种自取灭亡的主意，孩子？
+NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|我们……算是已经打过了吧，而且我觉得他很强壮。我应该怎么弥补和他之间的关系？
+NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|或许你不用做什么，因为这没必要。说不定他很喜欢能有位势均力敌的对手，毕竟没几个人有胆量挑战他。
+NyxMegDefeated01|Nyx Meg Defeated 01|Nyx|你打败了墨纪拉，孩子，她现在正在休息室里生闷气呢。在这里你不用担心她的鞭子，但她的话就不一定了。
+NyxMegDefeated01|Nyx Meg Defeated 01|Zagreus|我最好跟她谈谈。多谢你的提醒，倪克斯。我们回头见。
+NyxMegDefeated01_Alt|Nyx Meg Defeated Alt 01|Nyx|你肯定打败了墨纪拉，我的孩子。因为她一直躲在那个角落里生闷气。你在这里很安全，她的鞭子抽不到你，但她的话依然很伤人。
+NyxAboutChaos01|Nyx About Chaos 01|Zagreus|倪克斯，你认识一位轻声细语说话，名为卡俄斯的吗？最近祂开始接近我，给了我个另类的祝福。
+NyxAboutChaos01|Nyx About Chaos 01|Nyx|原始者卡俄斯……没错，我的确认识，祂一定对你的事产生了兴趣。至于他的祝福，我建议你谨慎对待为妙。不过你得了解，卡俄斯或许很狡猾，但祂不会欺骗你。
+NyxAboutChaos02|Nyx About Chaos 02|Zagreus|能告诉我更多有关卡俄斯的事吗，倪克斯？我…有许多疑问。
+NyxAboutChaos02|Nyx About Chaos 02|Nyx|我的身份不允许我公开谈论卡俄斯，孩子。只能由祂自己来告诉你这些。我能说祂是这世界里最古老的一支力量。在祂之前，什么都没有。
+NyxAboutChaos03|Nyx About Chaos 03|Zagreus|卡俄斯似乎有点喜欢我了，倪克斯。祂提到了你。
+NyxAboutChaos03|Nyx About Chaos 03|Nyx|祂提到我了，那祂有没有……我还以为祂早就把我忘了。你应该知道，祂既是我的母亲，也是我的父亲，孩子。自从黎明到来之后，我们就再也没说过话。
+NyxAboutChaos04|Nyx About Chaos 04|Zagreus|倪克斯，我这样可能有点烦，但是我还是想再问一下有关卡俄斯的事。你最起码应该尝试一下与祂接触吧？
+NyxAboutChaos04|Nyx About Chaos 04|Nyx|如果想要重新认识彼此，那卡俄斯就应该自己来找我。孩子，如果可以不再谈论此事，我会感到很欣慰。
+NyxAboutChaos05|Nyx About Chaos 05|Nyx|孩子，我……不知道你做了什么，但是……我微弱地感觉到卡俄斯试图和我取得联系。有一条讯息，就在我快失去意识的时候，但我肯定有这么一条讯息，却怎么也无法分辨。卡俄斯想从我这里得到什么？
+NyxAboutChaos05|Nyx About Chaos 05|Zagreus|我猜……卡俄斯是想和你重新取得联系吧，倪克斯。你们两人渐渐疏远了，我可以想象出来。我也曾一度和塔纳托斯互不联络！但和你们比起来根本不算什么。你们没办法再沟通一下吗？
+NyxAboutChaos05|Nyx About Chaos 05|Nyx|想到现在圣殿如此强势，这片领地也井然有序，我不知道。但我会考虑的，孩子。请让我再好好想想。
+NyxAboutChaos06|Nyx About Chaos 06|Nyx|关于卡俄斯和我的事，我知道要做什么。我一般不会要求你的帮助，但是如果你愿意听我的请求，我希望你能够帮我做一些事。
+NyxAboutChaos06|Nyx About Chaos 06|Zagreus|当然了，倪克斯。任何事都行。我能做什么？
+NyxAboutChaos06|Nyx About Chaos 06|Nyx|去管理大厅的话，或许你会想起最古老的印记。我们可以通过它直接抵达冥界最黑暗的地方，而不再是卡俄斯的所在之处。虽然我们现在还做不到这一点，不过，我觉得这个问题可以解决。
+NyxAboutChaos06|Nyx About Chaos 06|Zagreus|等一下，印记？但我没有权限使用它呀。它从来没有对我起过作用，更何况我现在的权限已大不如前。
+NyxAboutChaos06|Nyx About Chaos 06|Nyx|就是因为你的权限被削弱了，才使这一切变得可能。它需要大量黑暗宝石。这样……通向卡俄斯所在之处的桥梁才有可能被修复。我也可以再去拜访他们了。你可以为我把黑暗宝石带到印记这里吗？如果可能的话。
+NyxAboutChaos06|Nyx About Chaos 06|Zagreus|我会尽量想办法的。对了，或许你可以为我向圣殿承包商提出请求？正式的请求？
+NyxAboutChaos07|Nyx About Chaos 07|Nyx|终于。通向混沌世界的桥梁被修复了。非常感谢，我的孩子。那我先走了，但不久就会回来。请不要担心。那我们先就此别过。我会替你向卡俄斯问好的。
+NyxChaosReunionQuestComplete|Nyx Chaos Reunion Quest Complete|Zagreus|倪克斯，你回来了！卡俄斯怎么样了，一切都还好吗？
+NyxChaosReunionQuestComplete|Nyx Chaos Reunion Quest Complete|Nyx|是的，一切都好，我的孩子，我……很感激有机会和我的伟大的祖先重新建立联系。多亏了你对我们两人的慷慨。我们必须弥补过去那段被浪费的时间。
+NyxChaosReunionQuestComplete|Nyx Chaos Reunion Quest Complete|Zagreus|那现在怎么样了？话说你也回来了，这是不是意味着……卡俄斯很快就会过来，或是怎样？
+NyxChaosReunionQuestComplete|Nyx Chaos Reunion Quest Complete|Nyx|卡俄斯在祂的领地过得逍遥自在。我也会经常去看祂，告诉祂这里都发生了什么。除此以外……卡俄斯也知道不要对这片领地施加太大的影响力。虽然是祂创造了这里，还有一切。
+NyxChaosReunionQuestCompleteAftermath01|Nyx Chaos Reunion Quest Complete Aftermath 01|Zagreus|你最近和卡俄斯相处得怎么样，倪克斯？听起来祂之前很想听到你的消息。祂说你就应该想白昼一样熠熠生辉之类的？我实在想象不出来。
+NyxChaosReunionQuestCompleteAftermath01|Nyx Chaos Reunion Quest Complete Aftermath 01|Nyx|熠熠生辉从来都不是我的强项。早在创世之初，就有很多事情要做。这个地方……你周围所见的一切……才是我的偏好。如今，卡俄斯更好地理解到了这一点。对我来说，这项工作也让我体会到了我能力的极限。
+NyxChaosReunionQuestCompleteAftermath01|Nyx Chaos Reunion Quest Complete Aftermath 01|Zagreus|你还有什么极限呢？你看起来什么事情都做得到，说不定在夜晚熠熠生辉也做得到。
+NyxChaosReunionQuestCompleteAftermath01|Nyx Chaos Reunion Quest Complete Aftermath 01|Nyx|你说笑了，孩子，我们每个人都有各自的极限。
+NyxAboutMeg01|Nyx About Meg 01|Nyx|复仇女神墨纪拉受命阻止你通过塔耳塔罗斯，孩子。你俩的冲突在所难免。看到你们剑刃相向让我很难过。
+NyxAboutMeg01|Nyx About Meg 01|Zagreus|别这样说，倪克斯。再说了！我跟墨纪拉起冲突的时候还是可以培养感情的。我们没事的。
+NyxAboutMeg02|Nyx About Meg 02|Zagreus|倪克斯，你跟墨纪拉那么熟，至少肯定比我更熟。那你能不能告诉我……以前的她是什么样的？
+NyxAboutMeg02|Nyx About Meg 02|Nyx|{#DialogueItalicFormat}啊哈哈……{#PreviousFormat}看到你们最近关系改善，我很开心。墨纪拉就是那样一个人。忠实尽职，但不失个性。体贴周到，彬彬有礼，非常可靠。
+NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|很高兴看到你和墨纪拉能够深入了解彼此。而且，我也一直希望你和她能够相处的如此融洽。
+NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|我们在一起，你很开心吧，倪克斯？我还以为你会担心这种关系会影响工作什么的呢。不过，能得到你的认可我很高兴。
+NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|我不担心墨纪拉会因此受影响，孩子。而且，这种事情往往能带来更多启发，激励她取得更大的成就。不过，主要是这本身也会让人产生更强烈的满足感。
+NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|我跟墨纪成为朋友，你很开心吧，倪克斯？当然我也很开心，不过……我担心这样会影响墨纪的工作。
+NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|我对你们两个都没有这种担忧。你们都会专注于自己的事业。我相信，偶尔发生的摩擦不会影响你们的友谊。毕竟你们也算是不打不相识吧，不是吗？
+NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|倪克斯……我在外面碰到塔纳托斯了。他帮助了我，但是我觉得他好像有点不开心。然后我就走了。
+NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|塔纳托斯在为你担心，孩子。希望你能理解，不管你感觉他有多恼火，那都不是真正他想表达的。还请原谅他的无礼。
+NyxAboutThanatos02|Nyx About Thanatos 02|Nyx|塔纳托斯终于回来了。你没看到他吗，孩子？他最近有点忙。再见到你一定让他感到高兴。
+NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|你和我的儿子……我很高兴看到最近你们俩的关系变得如此亲密。塔纳托斯这孩子向来喜欢独处，而且他也不愿意向别人倾诉自己的寂寞，不过……我知道，他肯定也会通过自己的方式和别人亲近。
+NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|谢谢你，倪克斯。我觉得我和他一直以来都对彼此有感觉，如今我们终于正视了这份感情。
+NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|这样一来，你们都得到了自己想要的了。还请你帮我关照一下我亲爱的儿子。我一直都怕他工作太卖力，累到自己。
+NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|{#DialogueItalicFormat}哦{#PreviousFormat}，他过得挺好的。不过我会帮你照看他的。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|在这种地方能交到朋友真的不容易。不过，我一直以来都很信任塔纳托斯，他对我也一样。我觉得我们现在更加了解彼此了。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|那么，只要圣殿依然统治着冥界，这片黑暗领地，我希望你们的友谊永远不会改变。照顾好我最心爱的儿子。
+NyxAboutDusa01|Nyx About Dusa 01|Nyx|怎么了，孩子？我感觉到你关心的东西和平时的不大一样。但我还不确定。
+NyxAboutDusa01|Nyx About Dusa 01|Zagreus|啊，那只是……请您别误解，倪克斯，我只是担忧您对杜莎太苛刻了。您甚至让她别和我说话，是吗？
+NyxAboutDusa01|Nyx About Dusa 01|Nyx|我让她注意自己的职责。我担心她忘记自己在这座圣殿里的身份。虽然你很随和……但再怎么说你也是王子！冥王哈迪斯的独子，命定的这片领地的主宰。你应该多与诸神作伴，而不是和不成器的蛇发女妖。
+NyxAboutDusa01|Nyx About Dusa 01|Zagreus|{#DialogueItalicFormat}切{#PreviousFormat}！如果我真的这么重要，连要和谁做朋友都没办法{#DialogueItalicFormat}自己{#PreviousFormat}做主吗？
+NyxAboutDusa01|Nyx About Dusa 01|Nyx|你还没弄清楚自己的身份，我的孩子。蛇发女妖显然也没有认清她的身份。请专心于手上的工作，由她去吧。
+NyxAboutDusa02|Nyx About Dusa 02|Nyx|你又和蛇发女妖厮混了，我的孩子。我希望你和她保持礼貌的距离，你却把我的劝告抛到脑后。
+NyxAboutDusa02|Nyx About Dusa 02|Zagreus|她是我的朋友，倪克斯。听着……我很爱你，你是知道的，但……你不能为我选择该和谁交朋友！我没办法接受。我知道你不相信她。难道你还信不过我吗？
+NyxAboutDusa02|Nyx About Dusa 02|Nyx|……我相信你。那好吧。但你要理解，即使你们之间的关系密切，她还是要不断地鞭策自己，善尽自己的职责。
+NyxAboutDusa03|Nyx About Dusa 03|Zagreus|杜莎出了什么事，倪克斯？你真的把她开除了，就因为她和我说话？她是我的朋友！
+NyxAboutDusa03|Nyx About Dusa 03|Nyx|她被开除的理由是，不服从上级、三番五次僭越职权，而且缺乏正确的判断能力，我的孩子。就因为你们之间的关系密切，我们在开除她时并没有为难她。
+NyxAboutDusa03|Nyx About Dusa 03|Zagreus|不服从上级，三番五次还有缺乏什么？为了保持圣殿整洁有序，她比任何人都拼命地工作！我以为你会看到这些！
+NyxAboutDusa03|Nyx About Dusa 03|Nyx|她过于努力地讨好就是错误。也许你在奥林匹斯山的亲戚们需要牺牲供奉，孩子，但这座圣殿只要效率，其他的都不重要。
+NyxAboutDusa03|Nyx About Dusa 03|Zagreus|效率……你现在的口吻像极了一个人，你知道吗，倪克斯？我简直无法相信。
+NyxAboutDusa03|Nyx About Dusa 03|Nyx|如果你执意要削弱我的威信，就不要当着我的面。
+NyxAboutDusa04|Nyx About Dusa 04|Zagreus|倪克斯……我很抱歉之前对着你大呼小叫，只是……我很在乎杜莎，我知道她多想留在这里，和你，和我们在一起……你就不能考虑一下别赶她走吗？
+NyxAboutDusa04|Nyx About Dusa 04|Nyx|你能够冷静下来，让我感觉很欣慰，我的孩子。至于蛇发女妖，这座圣殿需要稳重而警觉的性格，而不是盲目的奉献。我曾经多次规劝，但她拒绝以克制的态度履行她的义务。
+NyxAboutDusa04|Nyx About Dusa 04|Zagreus|等一下，你说你是因为她{#DialogueItalicFormat}工作太努力{#PreviousFormat}而开除她的？你之前有警告过她吗？
+NyxAboutDusa04|Nyx About Dusa 04|Nyx|她不理解如何正确地工作。虽然她做了很多，但最终还是成了这座圣殿的累赘。对于我来说，我没有警告她的义务。
+NyxAboutDusa04|Nyx About Dusa 04|Zagreus|请再给她一次机会吧，倪克斯。她愿意学习，她只是需要知道自己做错了什么。为了这份工作，她付出了全部。或许是操之过急。这样的她难道不应该被原谅吗？
+NyxAboutDusa04|Nyx About Dusa 04|Nyx|……你似乎比我有耐心得多了，孩子。而且我不知道你还会在乎别人。但请不要再求我收回已经做出的决定。明白了吗？
+NyxAboutDusa05|Nyx About Dusa 05|Zagreus|你真的让杜莎回来了。谢谢你，倪克斯！我真的很感激，墨纪拉也是，说不定这里的所有人都很感激！我敢肯定她不会让你失望的。
+NyxAboutDusa05|Nyx About Dusa 05|Nyx|我知道你很在乎她，孩子。我也得承认，我依然有些担忧，不仅仅担忧她的举止是否得当，还担忧她是否经验不足，行事莽撞。不过，我确实认为她能解决这些问题，或许她需要你的支持吧。
+NyxAboutDusaRelationship01|Nyx About Dusa Relationship 01|Nyx|起初，我特别担心你花太多时间和杜莎厮混，孩子。这对你们两人来说都不得体，而且可能干扰我们管家的日常工作。不过……我很高兴可以这么说，我误会你们了。
+NyxAboutDusaRelationship01|Nyx About Dusa Relationship 01|Zagreus|感谢你这么说，倪克斯。你是指误会我了，还是误会杜莎了？
+NyxAboutDusaRelationship01|Nyx About Dusa Relationship 01|Nyx|我错怪你们两个人了。以为你会给她造成不好的影响，但事实上她做好了自己该做的事，而且越来越熟练。我还以为她会把工作搞砸，但她会从自己的错误中吸取教训。请你一定要继续留意着她。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|等一下，孩子。我的几个女儿亲自捎人给我送来一条消息。关于你手上的冥界之刃。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Zagreus|等等，你是说命运女神？还有斯第格思？很荣幸她们会注意到我。她们想和我说什么？
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|她们让我告诉你这句话，然后由你亲自对着冥界之刃说出来：{#DialogueItalicFormat}汝在石之监狱得到赦免。{#PreviousFormat}重复一遍，然后牢牢记住。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Zagreus|{#DialogueItalicFormat}汝在石之监狱得到赦免{#PreviousFormat}……它肯定和武器的隐藏形态有关。请代我感谢你的几个女儿，倪克斯。
+NyxRevealsArthurAspect01|Nyx Reveals Arthur Aspect 01|Nyx|我会的，孩子。不过我肯定她们已经知道了。她们是否在帮助你，或者说有些事情注定会发生，我也说不清楚。
+NyxRevealsArthurAspect02|Nyx Reveals Arthur Aspect 02|Zagreus|倪克斯，你教我的那句话……当我对斯第格思说出来时，冥界之刃向我显现出万人拥戴的领袖形态，他正坐在圆桌边听取他的忠诚的随扈的建议。如果他的统治是不可避免的，为什么命运女神还需要我呢？
+NyxRevealsArthurAspect02|Nyx Reveals Arthur Aspect 02|Nyx|我也不大清楚，孩子。有女儿能准确预知未来，这种感觉很奇怪。也让我们之间的关系变得紧张，而且……我也学会了不要问太多问题，除非她们自己愿意告诉我。
+NyxFlashback01|Nyx Flashback 01|Zagreus|你…你……倪克斯，你不是我母亲。这么长时间以来，你和我父亲，你们…在骗我？
+NyxFlashback01|Nyx Flashback 01|Nyx|{#DialogueItalicFormat}噢{#PreviousFormat}，我亲爱的孩子！你知道了…？看来你知道了。但这只是真相的一部分，我可以给你解释剩下的部分…我并不想伤害你。
+NyxAboutLegendary01|Nyx About Legendary 01|Zagreus|嘿，倪克斯，我想告诉你，我现在为能够拥有冥界伴偶而感到自豪！它们是你的杰作，而且很靠得住。但……显然数量太少了。我费尽工夫还想再找到一个。
+NyxAboutLegendary01|Nyx About Legendary 01|Nyx|我感觉到了，也让我感到特别欣慰。不过，要找到它们从来就不是一件容易的事。它们每一个都是独一无二的，而且必须经由自愿赠予才能保持它们的形态，和力量。
+NyxAboutLegendary01|Nyx About Legendary 01|Zagreus|我不得不说，而且这是一句赞美：真的很难想象黑夜之神会亲自制作这些在朋友之间送来送去的小信物。
+NyxAboutLegendary01|Nyx About Legendary 01|Nyx|它们虽然其貌不扬，但不要低估它们。它们是两个灵魂之间牢不可破的纽带，蕴含着强大的力量。
+NyxAboutLegendary02|Nyx About Legendary 02|Zagreus|倪克斯，你真的把据说是整个冥界仅存的艾普西隆级冥界伴偶送给杜莎了吗？她对此感激涕零，甚至把菲迪交给我托管。这样它们的力量就会不断增加，对吗？
+NyxAboutLegendary02|Nyx About Legendary 02|Nyx|蛇发女妖也有自己的优点，我的孩子。不过，我希望这个伴偶很快归你所有，毕竟你们两个人走得这么近。这样，你们都会受到鼓舞。
+NyxWithHades01|Nyx With Hades 01|Hades|…你不应该在这种事上帮助他，倪克斯。你应该对他的愚蠢表示谴责，而不是纵容包庇。我们难道没达成共识？
+NyxWithHades01|Nyx With Hades 01|Nyx|我们之间确实存在共识，哈迪斯。毕竟他是你的儿子，你也有责任。同样地，我要信守对这片领地，还有这座圣殿所做的承诺。你帮助过我，我还欠着你的人情。
+NyxWithHades01|Nyx With Hades 01|Hades|这个不用你提醒。那些曾经蔑视我和我兄弟们的人，一定愿意呆在这圣殿内，而不是塔耳塔罗斯的深渊里吧。并不是说那里的黑暗会影响你。
+NyxWithHades02|Nyx With Hades 02|Hades|…很明显，你在帮助他。尽管我一再表示不许这样做。你觉得我现在应该怎么做，倪克斯？如果你是我，你会怎么做？在我的圣殿里，欺骗我！回答。
+NyxWithHades02|Nyx With Hades 02|Nyx|我和他的关系并没有改变，哈迪斯。 我与他的关系，从您第一次要求我照顾他那一刻，保持着一成不变。我给他我的全力支持，永远都会。 您已经知道这一点。 他现在希望离开。 我不会试图阻止他。
+NyxWithHades02|Nyx With Hades 02|Hades|啧，这对你又有什么好处呢？他根本不是你的儿子，而你却如此溺爱他。你和我都很清楚，他不可能做得到。你给他灌输了有害的幻想。如果你就希望他变成这个样子，那请便吧！随便你吧。
+NyxWithHades03|Nyx With Hades 03|Hades|{#DialogueItalicFormat}奥林匹斯众神知道了他的存在{#PreviousFormat}？！把他们那些没用的祝福赐给了他，这可是我的王国！我们的王国！你得和我说清楚这到底是怎么回事，倪克斯。要么是你无穷无尽的力量弱了很多，要么就是你在打什么主意。
+NyxWithHades03|Nyx With Hades 03|Nyx|不要质疑我的能力，哈迪斯。当你的儿子接近地面世界的时候，他就注定会被他们发现。奥林匹斯众神知道有这样一个远亲，他们很高兴，也欢迎他去奥林匹斯山做客，仅此而已。他们的影响力非常有限。
+NyxWithHades03|Nyx With Hades 03|Hades|鲜血与黑暗啊！别和我说什么他们的{#DialogueItalicFormat}影响力{#PreviousFormat}了！我亲眼见识过他们的影响力，你真是犯了个愚蠢的错误。
+NyxWithHades03|Nyx With Hades 03|Nyx|你居然说我犯了愚蠢的错误？路线已经设定好了，你是改变不了的。随便你怎么尝试吧。
+NyxWithHades04|Nyx With Hades 04|Hades|又怎么回事，倪克斯？你意识到你把她置于什么样的危险之中吗？你口口声声说要照顾她，可你现在却要暴露她的行踪，让{#DialogueItalicFormat}他们{#PreviousFormat}知道！
+NyxWithHades04|Nyx With Hades 04|Nyx|哈迪斯，我有哪次不清楚自己该做什么吗？我是不会让冥后受到任何伤害的，你的儿子也绝不会这么做。
+NyxWithHades04|Nyx With Hades 04|Zagreus|让冥后受到伤害？等等……你在说什么呢？
+NyxWithHades04|Nyx With Hades 04|Nyx|孩子！扎格列欧斯，你打算出卖你的生母，把她的消息告诉奥林匹斯众神吗？
+NyxWithHades04|Nyx With Hades 04|Zagreus|不！当然不是了。她……看起来一个人自得其乐。
+NyxWithHades04|Nyx With Hades 04|Hades|你居然听他的怂恿？你怎么知道他不会把一切都毁了？
+NyxWithHades04|Nyx With Hades 04|Nyx|我相信他，因为他就是这样引导我们走到这一步的。
+NyxWithHades05|Nyx With Hades 05|Hades|……我想对你说的是，我很感激，倪克斯。我很感激我们之间的长期合作。我之前把规矩强加在了你和你亲戚们的身上。按照你的权利，你应该会尽可能地阻挠我的一举一动，我以前也总以为你会这么做。可当奥林匹斯众神切断了与我的联系时……你依然与我站在同一阵线。
+NyxWithHades05|Nyx With Hades 05|Nyx|如你所知，我就是黑夜的化身，哈迪斯。就像我们初次见面的时候，我答应过你的那样：只要命运依然让你担任冥界的统治者，我就永远都会是你的盟友。
+NyxWithHades05|Nyx With Hades 05|Hades|你以后不用再提醒我这一点了。我也要告诉你，我将始终尽我所能来管理冥界。
+NyxWithAchilles01|Nyx With Achilles 01|Achilles|…我已经尽我所能，让他做好准备了。而我怕这还远远不够。从来没有人能逃离这里。
+NyxWithAchilles01|Nyx With Achilles 01|Nyx|你的学识让他做好了准备，阿喀琉斯。我感觉到是你对他的信任让他继续前进。不要对自己失去信心，不然他也会跟你一样。
+NyxWithAchilles02|Nyx With Achilles 02|Achilles|……你把他养育得很好，黑夜之母，希望你能明白这一点。不过，我觉得，可能连你都没有预料到这样的结果。谢谢你……让这一切变得可能，我代表所有人感谢你。
+NyxWithAchilles02|Nyx With Achilles 02|Nyx|这一切也有赖于你，或许你才更值得感谢。因为我没什么别的选择，只能效力于这座圣殿。我是在这里诞生的，这里对我来说就是我的一切。而你呢？你的忠诚无以复加。
+NyxWithAchilles02|Nyx With Achilles 02|Achilles|哦，我说不好。我感觉我也没什么别的选择，只能效力于这座圣殿，至少一开始我是这么想的。但在训练王子殿下的过程中……教导他的过程中……我感觉生命似乎又有了意义，这听起来可能很奇怪吧。
+NyxWithAchilles02|Nyx With Achilles 02|Nyx|即便如此，考虑到你的生活环境的繁重的苦役，你也本没必要付出这么多。即便是死后，你也依然保持着生前的伟名。
+NyxWithAchillesAfterMyrmidonReunionQuest01|Nyx With Achilles After Myrmidon Reunion Quest 01|Achilles|……我真不知道该如何报答您的恩情，黑夜女神。能继续在这里侍奉您，这是我的荣耀。
+NyxWithAchillesAfterMyrmidonReunionQuest01|Nyx With Achilles After Myrmidon Reunion Quest 01|Nyx|我不太明白你指的是什么，阿喀琉斯。不过你能继续在这里效力，这真是再好不过了。这是我的荣幸。
+NyxWithPersephone01|Nyx With Persephone 01|Nyx|……珀尔塞福涅，我的冥后……我们实在是太久没见面了，不过，漫长的岁月似乎对你很是仁慈。能再次见到你，我很荣幸。
+NyxWithPersephone01|Nyx With Persephone 01|Persephone|哦，拜托了，倪克斯！咱们就没必要这么客套了，是吧？见到你我也很高兴，我的朋友。在地上世界的那段日子里，白天和这里截然不同，可到了晚上……我总是会想起我们在这里，一起度过的时光。
+NyxWithPersephone01|Nyx With Persephone 01|Nyx|我相信那是美好的时光。
+NyxWithPersephone01|Nyx With Persephone 01|Persephone|都是美好的时光，大部分都是！至于剩下的，我尽量不去回忆！
+NyxWithPersephone01|Nyx With Persephone 01|Nyx|很高兴你能回来。不过我担心，对你而言，这恐怕又会是一次难以接受的变化，对我们所有人而言都是如此。
+NyxWithPersephone01|Nyx With Persephone 01|Persephone|这么说吧，我靠自己的力量盖起了一栋小房子，我觉得我什么事情都做得到！你知道这是种什么感觉。
+NyxChat01|Nyx Chat 01|Nyx|愿黑暗引导你，孩子。
+NyxChat02|Nyx Chat 02|Nyx|我有别的事，所以请忍耐一下，孩子。
+NyxChat03|Nyx Chat 03|Nyx|注意安全，孩子。
+NyxChat04|Nyx Chat 04|Nyx|我会守护你的，就像我守护这个圣殿一样。
+NyxChat05|Nyx Chat 05|Nyx|不用担心你的父亲。我来照看他。
+NyxChat06|Nyx Chat 06|Nyx|不用担心刻耳柏洛斯。你不在的时候，有人照顾他，他也不会饿着。
+NyxChat07|Nyx Chat 07|Nyx|去吧，完成自己的目标，孩子。
+NyxChat08|Nyx Chat 08|Nyx|你的命运就在外面这些墙壁的后面，孩子。
+NyxChat09|Nyx Chat 09|Nyx|我永远欢迎你，孩子。
+NyxChat10|Nyx Chat 10|Nyx|不要绝望，孩子，坚持下去。
+NyxChat11|Nyx Chat 11|Nyx|记住那些爱你的人，孩子。
+NyxChat12|Nyx Chat 12|Nyx|别让困境消磨了你的意志，孩子。
+NyxChat13|Nyx Chat 13|Nyx|谢谢你来看我，孩子。
+NyxChat14|Nyx Chat 14|Nyx|简短的会面也让我感到高兴，孩子。
+NyxChat15|Nyx Chat 15|Nyx|你父亲还和以前一样，孩子。
+NyxChat16|Nyx Chat 16|Nyx|总有一天，你会做到你心中所想的事，孩子。
+NyxChat17|Nyx Chat 17|Nyx|命运之神为你编织的命运就在前方，孩子。
+NyxChat18|Nyx Chat 18|Nyx|愿你发现自己所寻找的事物，孩子。
+NyxChat19|Nyx Chat 19|Nyx|你在这里的时候，我会保护你的安全，孩子。
+NyxChat20|Nyx Chat 20|Nyx|我很好，感谢你还记得我，孩子。
+NyxChat21|Nyx Chat 21|Nyx|能见到你真高兴，孩子。
+NyxChat22|Nyx Chat 22|Nyx|有你陪伴很开心，孩子。
+NyxChat23|Nyx Chat 23|Nyx|你能来看我真是太好了，孩子。
+NyxChat24|Nyx Chat 24|Nyx|你看上去状态不错，孩子。
+NyxChat25|Nyx Chat 25|Nyx|与你见面让我感到欣慰，孩子。
+NyxChat26|Nyx Chat 26|Nyx|我永远相信你，孩子。
+NyxChat27|Nyx Chat 27|Nyx|我感觉到你在担心我，孩子，看来我得设法让你打消这个念头。
+NyxChat28|Nyx Chat 28|Nyx|尽管你的旅程将你带到别处，我还是很高兴见到你，孩子。
+NyxChat29|Nyx Chat 29|Nyx|我的意志正集中在别的事上。
+NyxChat30|Nyx Chat 30|Nyx|请让我完成我手上的工作。
+NyxChat31|Nyx Chat 31|Nyx|下次再聊吧。
+NyxChat32|Nyx Chat 32|Nyx|我会尽我所能帮助你，我的孩子。
+NyxChat33|Nyx Chat 33|Nyx|无论你遇到什么挫折，我这里都永远欢迎你，亲爱的孩子。
+NyxChat34|Nyx Chat 34|Nyx|我的孩子，冥界的本质并不为人所知，也不为人所理解，无论是冥界的人还是冥界以外的人都是如此。
+NyxChat35|Nyx Chat 35|Nyx|这世上没有你无法克服的困难。
+NyxChat36|Nyx Chat 36|Nyx|目前一切都很好，孩子。
+NyxChat37|Nyx Chat 37|Nyx|你的努力让这座圣殿屹立不倒，孩子。
+NyxChat38|Nyx Chat 38|Nyx|你的成就让我感到无比自豪。
+NyxChat39|Nyx Chat 39|Nyx|去吧，侍奉这座圣殿吧。
+NyxChat40|Nyx Chat 40|Nyx|如果遇到塔纳托斯的话，希望他能助你一臂之力。
+NyxChat41|Nyx Chat 41|Nyx|避人耳目，我的孩子。
+NyxChat42|Nyx Chat 42|Nyx|珀尔塞福涅皇后肯定为你感到无比骄傲。
+NyxChat43|Nyx Chat 43|Nyx|去吧，以你的生母，冥界皇后的名义。
+NyxChat44|Nyx Chat 44|Nyx|冥后回来之后，这座圣殿变得更加强大了。
+NyxChat45|Nyx Chat 45|Nyx|荣耀属于冥后，我的孩子。
+NyxChat46|Nyx Chat 46|Nyx|最近你父亲也变得更有精神了。
+NyxChat47|Nyx Chat 47|Nyx|你的生母还在等你呢，去找她吧，孩子。
+NyxChat48|Nyx Chat 48|Nyx|再去寻找你的生母吧，我的孩子。
+NyxChat49|Nyx Chat 49|Nyx|珀尔塞福涅还在上面等着呢。
+NyxChat50|Nyx Chat 50|Nyx|我很清楚，你的生母正在等着你。
+NyxChat51|Nyx Chat 51|Nyx|去吧，你知道该去哪里找她。
+NyxChat53|Nyx Chat 53|Nyx|恐怕我现在帮不了你。
+NyxChat54|Nyx Chat 54|Nyx|时机合适的时候，你会找到你所找之物。
+NyxGift01|Nyx Gift 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，倪克斯？你为我做了这么多，我……希望这个你能喜欢。
+NyxGift01|Nyx Gift 01|Nyx|你知道，你的父亲不喜欢这座圣殿里有人送蜜露当礼物，亲爱的孩子。不过，我可不是他……无论如何，我都希望能把我的爱意送给你。
+NyxGift02|Nyx Gift 02|Nyx|我怎么能接受这样贵重的东西，孩子？一定有其他人配得上你给我的这些。
+NyxGift02|Nyx Gift 02|Zagreus|胡说，倪克斯。这就是给你的。你一直都很关心我。这我永远报答不完。
+NyxGift03|Nyx Gift 03|Nyx|你这样完全没有必要，孩子。我从没期望你或者任何人能送我这样的礼物。
+NyxGift03|Nyx Gift 03|Zagreus|我永远记得你，倪克斯。你将我当作自己的孩子养大，我很感激。
+NyxGift04|Nyx Gift 04|Nyx|我很欣慰，孩子。但我想我还是不能接受这样的礼物。没有必要这样讨好我。
+NyxGift04|Nyx Gift 04|Zagreus|请不要推脱了，倪克斯！我希望你可以收下这饱含我敬意的礼物。
+NyxGift05|Nyx Gift 05|Nyx|任何礼物都比不上你我之间的亲情，孩子。尽管如此，能收到礼物我还是非常感动。
+NyxGift05|Nyx Gift 05|Zagreus|别介意，倪克斯，真的。我知道你一直相信我，我可不打算把你的信任当做理所当然。
+NyxGift06|Nyx Gift 06|Nyx|在我所有的孩子中，无论是我生孕的还是代养的孩子，你都是他们中最体贴和最慷慨的之一。
+NyxGift06|Nyx Gift 06|Zagreus|您一直关心我，并保护我。给了我一位值得仰望的神。我给您的不算什么，倪克斯。
+NyxGift07|Nyx Gift 07|Zagreus|倪克斯，如果您能暂时原谅我的这种犯罪行为，请容许我献给您这瓶陈年仙馔密酒。您可以将它作为违禁品移交给墨纪拉，但是……这一次，我希望您先拥有它。
+NyxGift07|Nyx Gift 07|Nyx|啊。从奥林匹斯山的最高峰一直运到地内深层的冥界，装在水晶瓶里的一瓶仙馔密酒。你父亲总是说他讨厌那味道。
+NyxGift07|Nyx Gift 07|Zagreus|虽然，父亲大人的品味确实有些可疑。
+NyxGift07|Nyx Gift 07|Nyx|{#DialogueItalicFormat}啊，哈哈哈哈{#PreviousFormat}。那我只好充满感激地接受这份礼物，毕竟这是我没有品尝过的美味。也许我可能会珍存它，以备不时之需。谢谢你，我的孩子。
+NyxGift08|Nyx Gift 08|Nyx|顺便说一句，孩子，我想告诉你…… 你给我的仙馔密酒？ 与其一直保留着它，我最近决定品尝它一下。 你父亲说它的味道有点不对。 我从来没有尝过这样的东西，挺好的。
+NyxGift08|Nyx Gift 08|Zagreus|您喜欢就好，倪克斯！并且，时刻也不错，因为……我这里又有一瓶给您的。据说每一瓶味道都不一样！此外，奥林匹斯山的美味也应该与大家分享。 拜托，收下，好吗？
+NyxGift08|Nyx Gift 08|Nyx|你像你母亲一样有说服力，而像你父亲一样坚定，孩子。但是，如果你如此坚持，那么我不会拒绝这种饮料和它带来的简单的快乐。尽管在这里这种享受难得一见。
+NyxGift09|Nyx Gift 09|Zagreus|除了在这里给您这瓶仙馔密酒之外，我还想对您说些话。三位命运女神对我很照顾。因为，让我失去我的生母的同时……她们给我了您。没有您的稳重的母爱在这里，我……无法想象会是什么样。
+NyxGift09|Nyx Gift 09|Nyx|哦。那么，三位命运真是性情不定。当你出生时，我充满了恐惧，恐惧你活着的意味，恐惧要对你负责的意义……我必须承认，我没想到会有一天晚上，你会为我献上这样的礼物 ，以及这样的感情。
+NyxGift09|Nyx Gift 09|Zagreus|是么，可我每个词语都是诚意的。 我爱您，倪克斯。
+NyxInChaos01|Nyx In Chaos 01|Nyx|你好啊，孩子。很难得我们居然在这里相见。我和卡俄斯还想好好叙叙旧。你先去忙你的事情吧，我们晚点回圣殿再聊。当然，如果你还回去的话。另外，我还想再次感谢你。
+NyxInChaos02|Nyx In Chaos 02|Nyx|卡俄斯和我许久不见，有很多话。
+NyxInChaos03|Nyx In Chaos 03|Nyx|没想到会在这里见到你，我的孩子。
+NyxInChaos04|Nyx In Chaos 04|Nyx|请不要在乎我，孩子。
+NyxInChaos05|Nyx In Chaos 05|Nyx|谢谢你陪伴卡俄斯。
+NyxInChaos06|Nyx In Chaos 06|Nyx|带着卡俄斯的印记，前进吧。
+NyxInChaos07|Nyx In Chaos 07|Nyx|我和卡俄斯还有很多要讨论的事情呢。
+NyxInChaos08|Nyx In Chaos 08|Nyx|能再次回到这黑暗之中，感觉真舒服。
+NyxInChaos09|Nyx In Chaos 09|Nyx|到时候咱们在圣殿里见吧，孩子。
+NyxInChaos10|Nyx In Chaos 10|Nyx|回到了我诞生的地方，这种感觉真奇怪。
+NyxInChaos11|Nyx In Chaos 11|Nyx|哪怕很短暂，我们也很希望你能来。
+NyxInChaos12|Nyx In Chaos 12|Nyx|卡俄斯想见我并不容易，但我现在可以来见祂了。
+HypnosWithNyx01|Hypnos With Nyx 01|Hypnos|……有时候我觉得很困，妈妈。我是说，我最近一直都工作得很努力，是吧？或许你已经见过我接待幽灵、整理清单、营造快乐氛围的样子了……
+HypnosWithNyx01|Hypnos With Nyx 01|Nyx|要记得我和你之前说过的话，修普诺斯。在这里的时候，不要叫我妈妈，要把自己当做冥王圣殿的仆人，举止要得体……而且，你得努力变得独当一面才行，拜托了。
+HypnosWithNyx02|Hypnos With Nyx 02|Nyx|你在工作中表现出了长久稳定的才能，修普诺斯。看到你有了这么大的进步，我真的很高兴。你的努力值得表扬。
+HypnosWithNyx02|Hypnos With Nyx 02|Hypnos|啊，哇哦，{#DialogueItalicFormat}谢谢{#PreviousFormat}！是谁要表扬我？墨纪拉吗？塔纳托斯吗？说不定是杜莎！该不会是冥王大人本人吧？！
+HypnosWithNyx02|Hypnos With Nyx 02|Nyx|是我要表扬你。你也知道，我没办法总有经历照顾好我所有的孩子，他们必须照顾好自己，做好他们应尽的义务。身为你的母亲……看到你这么能干，我真的很欣慰。
+HypnosWithNyx02|Hypnos With Nyx 02|Hypnos|能干？是我吗？啊，妈妈……我是说，{#DialogueItalicFormat}倪克斯{#PreviousFormat}！以前{#DialogueItalicFormat}从来没有人{#PreviousFormat}夸过我能干！
+HypnosWithNyx02|Hypnos With Nyx 02|Nyx|你是我的孩子，你肯定是个能干的人。不过……我知道这绝非易事。继续努力吧，我会看着你的。
+ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|母亲，发生了这些事情，我能帮上什么忙吗？我离开圣殿太久了，还请您示下。
+ThanatosWithNyx01|Thanatos With Nyx 01|Nyx|你已经帮了不少忙了，我的孩子。继续这样做就好了。目前正是紧要关头，你的支持和选择将会影响事情的结果。
+ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|明白了，我会全力以赴的。谢谢您对所有事情的关照。母亲，我相信您，相信这座圣殿。再见了。
+ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|是我的错觉吗，母亲？还是说，这座圣殿里的气氛确实变得缓和了？虽然我明白，我这么说会让命运三女神情不自禁地想插手。
+ThanatosWithNyx02|Thanatos With Nyx 02|Nyx|是所有人的共同努力，才让这座圣殿欣欣向荣的，至少目前如此。不过，只有你和这里的很多其他人持之以恒地努力工作，才能让这个势头维持下去。这种时候很适合稍微休息一番，但我们这里依然需要你尽最大的努力才行，塔纳托斯。
+ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|我明白……希望你知道，我永远感激你，母亲，我也非常爱你。要不是你，我们现在会在什么地方呢？你为我们所做的一切，我都不会当做理所当然，这里的其他人也不会这么想。请你放心吧。
+ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Nyx|……我们有另一个任务要交给你。
+ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Thanatos|如您所愿，母亲，我会立刻把这件事情办好。
+ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Nyx|……我们又需要你的专业技术了。
+ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Thanatos|好的，了解了，母亲。我马上动身，很快就能回来。
+DusaWithNyx01|Dusa With Nyx 01|Nyx|…然后呢，杜莎，你要把房檐再清洁一次，接着把花园彻底修剪一番。做完这些的时候就应该去厨房了，然后把休息室再打扫一次。
+DusaWithNyx01|Dusa With Nyx 01|Dusa|是，是的，马上就去！
+DusaWithNyx02|Dusa With Nyx 02|Nyx|…最后，杜莎，你不准主动跟王子说话，除非他先开口。你对他来说就像不存在一样。现在明白了吗？
+DusaWithNyx02|Dusa With Nyx 02|Dusa|知道，倪克斯女士，明白了…我明白。那，那我就先走了。
+DusaWithNyx03|Dusa With Nyx 03|Dusa|倪克斯女士，您这是……？我想不想重新工作，我……{#DialogueItalicFormat}我{#PreviousFormat}当然想了呀！这份工作，对我来说比什么都重要，我是说，与{#DialogueItalicFormat}您{#PreviousFormat}共事吗？您可是夜的化身啊！这个地方，这里的人，所有的一切，都让我感到无比快乐，而我……我只是想帮忙！请……请再给我一次机会吧！
+DusaWithNyx03|Dusa With Nyx 03|Nyx|你的这次机会要签署特殊的契约，杜莎。如果你觉得自己没法在规定的时间里完成自己的工作，你可以请求帮助。在这座圣殿工作的人并不只有你一个。你对待工作的态度和工作的结果也很重要。那么……你现在可以回去工作了。
+DusaWithNyx03|Dusa With Nyx 03|Dusa|什么、我、倪克斯女士，您是说……现在就开始？{#DialogueItalicFormat}现在{#PreviousFormat}立刻？我是说，我现在没有什么要紧事，所以我会去做的，{#DialogueItalicFormat}没错！{#PreviousFormat}我愿意！能回来我真是太激动了！我该从哪里开始啊，我可以巡视休息室、清扫蜘蛛网、遛刻耳柏洛斯、检查储藏室……啊！太好了！
+DusaWithNyx04|Dusa With Nyx 04|Nyx|……因为，你一直以来的辛勤奉献，也因你获得如此进步……在此，我以夜的名义，任命你为哈迪斯圣殿的首席管家，同时给予你额外的特权。望你能珍惜这份荣耀，担起重任，杜莎。
+DusaWithNyx04|Dusa With Nyx 04|Dusa|倪克斯小姐，我感到非常荣幸，能有这次机会，获得您的信任，可以负责更多工作，我非常感激。我保证不会让您失望，也不会让这里的任何人失望！非常感谢您！！
+DusaWithNyx04|Dusa With Nyx 04|Nyx|不必如此客气。秩序井然的圣殿能从整体上反映这一领地的面貌。你深知这一点，你明白严谨有序的工作态度比埋头苦干更重要。而且，你也明白后者的重要性。
+MegaeraWithNyx01|Megaera With Nyx 01|Nyx|……我们每个人都要对这圣殿负责，墨纪拉。不用自责。既然你的姐妹不在，你就要承担起她们的责任。
+MegaeraWithNyx01|Megaera With Nyx 01|Megaera|我明白，只是…我该继续装作事情一点都没有变化吗？圣殿的裂隙越来越大，可大家都装作不知道。
+MegaeraWithNyx01|Megaera With Nyx 01|Nyx|圣殿会永远屹立，不管出现什么状况，这都取决于我们。我们的义务就是让圣殿里得的一切井井有条。
+MegaeraWithNyx01|Megaera With Nyx 01|Megaera|我知道。你说的没错，没错…我会尽我所能。我会为了我们两个，尽我所能，倪克斯。
+MegaeraWithNyx02|Megaera With Nyx 02|Nyx|……还有谁可以依靠……？你就是最佳人选，墨纪拉。没人可以取代你的位置。我希望你可以好好感受自己的内心。做好自己的工作对最后的结果非常重要。
+MegaeraWithNyx02|Megaera With Nyx 02|Megaera|…感谢您提供的建议，倪克斯。我不知道没了您，我该怎么办。没了您，这圣殿该怎么办。
+MegaeraWithNyx03|Megaera With Nyx 03|Megaera|……但是，您怎么可以这样对我？我不喜欢你那面圣镜。让圣境为他所用，那就是在和我作对啊……！
+MegaeraWithNyx03|Megaera With Nyx 03|Nyx|当危机严重到一定程度的时候，就不能再保持中立了，墨纪拉。你要选择到底站在哪边。在我们共同经历这些事情的时候，我一直在告诉你这一点。
+MegaeraWithNyx03|Megaera With Nyx 03|Megaera|我还以为我们都是站在圣殿这一边的，倪克斯。看来是我错了。您能想象我现在的压力有多大吗……？
+MegaeraWithNyx03|Megaera With Nyx 03|Nyx|跟我说话时的语气要谨慎一点，小监工。我是命运女神的母亲。我不会轻举妄动，但我的眼里也不揉沙子。做好你自己的工作，扮演好自己的角色。一切皆有定数。和你一样，我也不喜欢这中间的时间。
+MegaeraWithNyx04|Megaera With Nyx 04|Megaera|……倪克斯，如果我犯了错误，哪怕是一点小错，您都会告诉我的，对吧？这项任务，我需要您的指引，或者您的认可。
+MegaeraWithNyx04|Megaera With Nyx 04|Nyx|在这些事情上，你永远都是最佳的决策者，墨纪拉。不过，如果你在当下寻求我的恩赐或鼓励，请放心……我都会给你的。你知道该怎么走。
+MegaeraWithNyx04|Megaera With Nyx 04|Megaera|我希望您是对的。您一直都是对的……我只是希望能在这项任务中得到您的信任。
+MegaeraWithNyx05|Megaera With Nyx 05|Megaera|……我想我现在明白了，倪克斯。你驻守在这里的时间比我们其他所有人的总和还要长，包括哈迪斯大人掌管这里之前的时光。你见证了这座宫殿经历的太多太多。我永远不该怀疑你。
+MegaeraWithNyx05|Megaera With Nyx 05|Nyx|怀疑是种重要的本能，墨纪拉。没有它，我们永远无法设想出比我们所知的更好结果。此外……我是黑夜的化身，其他人总是会怀疑我，你也可能还会怀疑我。从现在开始，我只要求你好好听从自己的直觉。
+MegaeraWithNyx05|Megaera With Nyx 05|Megaera|我会的，我保证，倪克斯。而且，如果有什么我能为你做的，如果你需要……请你一定告诉我。
+MegaeraWithNyx06|Megaera With Nyx 06|Megaera|……他们真的不可理喻，倪克斯。你知道的。即使做了这些，他们对我们有什么用？他们只会让事情变得更糟。
+MegaeraWithNyx06|Megaera With Nyx 06|Nyx|无论你喜不喜欢，她们都是你的姐妹，是你生命中的一部分。至于你们之前的关系，要靠你来塑造。
+MegaeraWithNyx06|Megaera With Nyx 06|Megaera|恐怕没什么我能做的，我对他们远没有像你那样的信心。
+MegaeraWithNyx06|Megaera With Nyx 06|Nyx|我对{#DialogueItalicFormat}你{#PreviousFormat}的信心更是要多得多，墨纪拉。我们时常要与很多顽固的人打交道。因此，只要是有可能的事情，我们就要去做。
+PersephoneWithNyx01|Persephone With Nyx 01|Persephone|……所以，如果有什么可以帮你做的，尽管开口，好吗，倪克斯？我准备尽我所能。
+PersephoneWithNyx01|Persephone With Nyx 01|Nyx|你的服务随时欢迎，请以你自己的节奏来适应这个地方吧。如果遇到什么问题的话，我随意愿意回答。
+PersephoneWithNyx01|Persephone With Nyx 01|Persephone|谢谢你，我的朋友。我不得不说……回来的感觉真好。
+PersephoneWithNyx02|Persephone With Nyx 02|Persephone|……我真不知道该怎么报答你。你把他养大成人，你做了{#DialogueItalicFormat}这一切{#PreviousFormat}。我走之后……除了老刻耳柏洛斯之外，我觉得我最想念的大概就是你了。
+PersephoneWithNyx02|Persephone With Nyx 02|Nyx|我记得那个时候感觉到了类似的情绪。不过，你真的没必要用这种方式来感谢我。你是这里的皇后，已经回到了安全的地方，我只不过做了每个人都会做的事情罢了。
+PersephoneWithNyx02|Persephone With Nyx 02|Persephone|你满怀爱意地抚养我阔别已久的儿子，同时保守着我的秘密。你还精心地策划了计划，好让我和我儿子团聚，等我有朝一日回来的时候，能与他们一起在休息室里共饮蜜露。这真的是每个人都能做到的吗？

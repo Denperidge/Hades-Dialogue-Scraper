@@ -1,0 +1,234 @@
+Id|Description|Speaker|Text
+InspectHouse01|Inspect House 01|Storyteller|{#DialogueItalicFormat}冥王圣殿：这漆黑奢华的巢穴里，住着的并不单单只有冥王一个人，还有他执拗的子嗣。
+InspectLoungeClosed01|Inspect Lounge Closed 01|Storyteller|{#DialogueItalicFormat}冥王圣殿曾经的休息室现已被封闭，只剩一片废墟，因为三头犬刻耳柏洛斯忆主心切，一边哀嗥一边将这地儿毁了个精光。
+InspectShades01|Inspect Shades 01|Storyteller|{#DialogueItalicFormat}亡者的幽灵们时常在这里徘徊，抱怨自己苦难的同时也会寻找愿意倾听自己的人。
+InspectLoungeOpen01|Inspect Lounge Open 01|Storyteller|{#DialogueItalicFormat}冥王圣殿的休息室本来是让这里的居民们放松活跃的地方，可这里还是显得沉闷十足。
+InspectEmployeeOfTheMonth01|Inspect Employee Of The Month 01|Storyteller|{#DialogueItalicFormat}休息室里一面坚实的墙壁上挂着一块板子，用以表彰那些为冥王哈迪斯鞠躬尽瘁的人。
+InspectCellar01|Inspect Cellar 01|Storyteller|{#DialogueItalicFormat} 冥王哈迪斯圣殿的酒窖里藏着许多古老的佳酿……几乎没人品尝过这些陈酿令人沉醉的味道，至于允许接近酒窖的人，就更屈指可数了。
+InspectCellar01|Inspect Cellar 01|Storyteller|{#DialogueItalicFormat} 冥王圣殿里的酒桶在某个盛宴坚执地抵抗了奥林匹斯众神的饥渴，现在只剩下一片空虚。
+InspectOlympusSculpture01|Inspect Olympus Sculpture 01|Storyteller|{#DialogueItalicFormat}冥王的亲人赠送了一座用真正的山石精心打造的奥林匹斯山作为告别礼物，它那镀金的宏伟的轮廓即使是在幽暗的冥王圣殿中也闪耀着永恒的光芒。
+InspectMural01|Inspect Mural 01|Storyteller|{#DialogueItalicFormat}这副错综复杂的巨大马赛克绘画，描绘了冥王掌控着自己广阔领地的情形，而他的冥界子民们则敬畏地望着他。
+InspectThrone01|Inspect Throne 01|Storyteller|{#DialogueItalicFormat}冥王哈迪斯的威严王座非常少有地空了出来；而大家都忙着自己的事情，不敢询问其中的缘由。
+InspectHouseGarden01|Inspect House Garden 01|Storyteller|{#DialogueItalicFormat} 王子从未去过冥后珀耳塞福涅的花园，如今，这座光彩照人的花园终于向他敞开了大门。
+Flashback02|Flashback 02|Storyteller|{#DialogueItalicFormat}他小心翼翼地走向威严的王座，心想着可能会被逮到，但没想着会在那找到什么。
+Flashback03|Flashback 03|Storyteller|{#DialogueItalicFormat}他不确定自己到底在找什么。但总有什么东西让他感到浑身不自在，感觉自己不属于这里。他的身世到底如何？冥王哈迪斯不曾回答过这种问题。既然如此，扎格列欧斯王子只能自己去寻找答案了。
+Flashback04|Flashback 04|Storyteller|{#DialogueItalicFormat}他翻遍了父亲大人的所有。完全没有找到关键信息。不论是账簿，行政文件。还是父亲从来不看的来自奥林匹斯的通信文件。都没有一字一句提到他的儿子。
+Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}不过，王子发现了一张字条……上面有着他从未见闻过的优美字迹以及动听的声音。
+Flashback05|Flashback 05|Persephone|{#DialogueItalicFormat}“哈迪斯：我不想再在这个地方折磨自己了。我要离开，付出生命的代价也在所不惜。我不会再回奥林匹斯。如果这世界有可以包容我的地方，那它一定在天堂与地狱之间。也许是在海岸边，附带一个小花园。照顾好刻耳柏洛斯；我会想他的。”
+Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}母亲写下的字条内容深深吸引了扎格列欧斯，这位冥界的王子。
+Flashback05|Flashback 05|Zagreus|母亲写下的字条，母亲写下的，等等，{#DialogueItalicFormat}你说什么{#PreviousFormat}？！你是说，这个叫珀尔塞福涅的人，她是……我母亲……？可，可我父亲一直说，说倪克斯才是我的……那个骗子。他骗我，他们两个都在骗我，把我蒙在鼓里！
+Flashback05|Flashback 05|Storyteller|{#DialogueItalicFormat}咳咳，就这样，王子在不经意间解开了自己的身世之谜。完完全全的偶然，没错……
+Flashback06|Flashback 06|Storyteller|{#DialogueItalicFormat}珀尔塞福涅……曾经的冥后……她去哪儿了，她为什么要走？带着满心的疑问和怒气，王子决定与冥界之主当面对质。
+Flashback_DayNightJob_02|Flashback Day Night Job 02|Storyteller|{#DialogueItalicFormat}拒绝承担责任的王子在父亲的大厅里大步流星地走着。这种时候，他本该表现出一定程度的紧迫感，但他完全没有在意大家的期望。
+Flashback_DayNightJob_03|Flashback Day Night Job 03|Storyteller|{#DialogueItalicFormat}管理大厅的大门就在大厅的另一边向他招手。王子大概以为自己可以在不引起别人注意的情况下，悄悄地溜进去。
+Inspect_HousePillars_01|Inspect House Pillars 01|Storyteller|{#DialogueItalicFormat}在这地下数之不尽的华美宝石中，很多都拿来装饰冥王圣殿，死亡之神，财富之神。
+Inspect_NorthFountain_01|Inspect North Fountain 01|Storyteller|{#DialogueItalicFormat}水是生命之源，但它仍在冥界最黑暗的深处流动着，那些焦躁不安的凡躯暗灵们一看到它，就会回想起自己也曾饮水呼吸的短暂生命。
+Inspect_SouthFountain_01|Inspect South Fountain 01|Storyteller|{#DialogueItalicFormat}王子为这屋中修建了优雅的喷泉，从那时起，见证此事的暗灵无不思念着这位身着璀璨宝石的王子。
+Inspect_Cauldron_01|Inspect Cauldron 01|Storyteller|{#DialogueItalicFormat}尽管死人完全不用进食，但他们依然会大开餐宴，藉着这样的凡间习俗来寻得一丝安宁。
+Inspect_KitchenIsland|Inspect Kitchen Island|Storyteller|{#DialogueItalicFormat}虽然对冥王圣殿的厨房进行了大量投资，不过饥肠辘辘的扎格列欧斯还是找不到什么可口的食物。
+Inspect_PoetBust_01|Inspect Poet Bust 01|Storyteller|{#DialogueItalicFormat}如今，圣殿的画廊里摆着一尊杰出诗人的半身像，与他本人年龄相仿，带着一股粗犷的帅气劲儿。虽说他现在还没像命中注定的那般名声大噪，不过日后应该会变得更有名气吧。
+Inspect_AsphodelStatue_01|Inspect Asphodel Statue 01|Storyteller|{#DialogueItalicFormat}一个无血僵尸的苍白面容装饰着圣殿，为冥王那些残酷手下象征一道敬意。
+Inspect_WarriorStatue_01|Inspect Warrior Statue 01|Storyteller|{#DialogueItalicFormat}希腊有史以来最伟大的英雄之一的雕像，如今成了圣殿画廊的精美装饰。而大多数的观赏者都明白，这位雕像人物的很多方面，他们都望尘莫及。
+Inspect_MainHallFireplace01|Inspect Main Hall Fireplace 01|Storyteller|{#DialogueItalicFormat}地狱最深处的火焰发出的柔和光芒，照亮了休息室的区域，它的温暖抚慰了休息室里为数不多的居民。
+Inspect_Sundial01|Inspect Sundial 01|Storyteller|{#DialogueItalicFormat}在永恒的死亡国度之中，似乎连时间也变得停滞不前了，死者们用来度量时间的单位便证明了这一点。
+Flashback_Mother_01|Flashback Mother 01|Storyteller|{#DialogueItalicFormat}在一个深夜，或者这个国度里与之相近的场景。冥界王子扎格列欧斯从断续的睡眠中醒来，迷迷糊糊。
+Flashback_DayNightJob_01|Flashback Day Night Job 01|Storyteller|{#DialogueItalicFormat}熟睡不醒的冥界王子终于醒了。他原本只打算小睡一会儿，来缓解自己彻夜的疲劳，但他发现那恐怕并不是什么“小”睡……
+InspectBedroom01|Inspect Bedroom 01|Storyteller|{#DialogueItalicFormat}王子的卧室可以说是一团混乱。尽管他的国王，冥王圣殿的主人，再三叮嘱他记得收拾房间。
+InspectBedroom_TrojanArms|Inspect Bedroom Trojan Arms|Storyteller|{#DialogueItalicFormat}围攻伊利昂的武器碎片已经沦为王子凌乱小窝的窗饰了。
+InspectBedroom_AchillesPoster|Inspect Bedroom Achilles Poster|Storyteller|{#DialogueItalicFormat}无畏的阿喀琉斯的不朽英勇挂在王子房间的墙上，仿佛从中可以唤起额外的勇气。
+InspectBedroom_AphroditePoster|Inspect Bedroom Aphrodite Poster|Storyteller|{#DialogueItalicFormat}女神阿弗洛狄忒的样貌装饰着王子的卧室，也许下一次死亡的时候能给予些许安慰吧。
+InspectBedroom_DionysusPoster|Inspect Bedroom Dionysus Poster|Storyteller|{#DialogueItalicFormat}酒神迪奥尼索司那张满是酒气、欢天喜地的笑脸，如今成了王子房间墙上的装饰品，散发着让人走上歧途的气场。
+InspectBedroom_ScryingPool|Inspect Bedroom Scrying Pool|Storyteller|{#DialogueItalicFormat}带有华丽装饰、精致魔法的碗，上面显示的是倒霉的王子之前企图逃离冥界的踪迹。现在这碗在房间的一个凌乱角落占有一席之地。
+InspectBedroom_Lyre|Inspect Bedroom Lyre|Storyteller|{#DialogueItalicFormat}喜欢大吵大闹的王子，房间里多了一件精致的乐器。要是它也能有意识的话，它肯定会担心王子会笨手笨脚地去碰它。
+InspectBedroomGamingTable01|Inspect Bedroom Gaming Table 01|Storyteller|{#DialogueItalicFormat}如今，在热衷享乐的王子的房间里，摆着一件完全为娱乐目的而雕琢出来的精致雕塑。不过由于缺乏衬托，它显得没那么亮眼。
+InspectBedroomRug01|Inspect Bedroom Rug 01|Storyteller|{#DialogueItalicFormat}由于王子的双脚包裹在火焰之中，尽管他得到了那些厚实的棉织地毯，他恐怕没法充分感受那柔软的触感。
+InspectBedroom_FancyBed|Inspect Bedroom Fancy Bed|Storyteller|{#DialogueItalicFormat}扎格列欧斯王子的新寝具装饰着以死亡为主题的刺绣，柔软性也恰到好处，这让所有渴望安息的人羡慕不已。
+InspectBedroomCouch01|Inspect Bedroom Couch 01|Storyteller|{#DialogueItalicFormat}即便房间里摆着一张如此柔软、舒适的座椅，精力过剩的王子还是没法老老实实地坐在上面。
+InspectBedroomWeights01|Inspect Bedroom Weights 01|Storyteller|{#DialogueItalicFormat}一套巨大的举重器材被特意放置在了来访者的视线范围内，毫无疑问，这会让他们误以为王子更强壮、更有肌肉。
+InspectBedroom_QuestLog|Inspect Bedroom Quest Log|Storyteller|{#DialogueItalicFormat}这位不认命的王子或许认为，他之所以能获得这张小预言命运清单是因为自己一次次正确的抉择，但实际上，那是命中注定的。
+Flashback01|Flashback 01|Storyteller|{#DialogueItalicFormat}这时候一切都很安静；永远睡不醒的修普诺斯给这屋里施了咒语，这正是执拗的扎格列欧斯所要求的。除了王子以外，大家都陷入昏睡。正如他所计划的。
+Inspect_DeathAreaBedroomHades_Portrait_01|Inspect Death Area Bedroom Hades Portrait 01|Storyteller|{#DialogueItalicFormat}在他父亲大人的私密房间里，门锁破坏者——扎格列欧斯发现了一幅极为精美的画，那上面不是别人，正是珀尔塞福涅。那上面蒙附的尘埃诉说着它已在此处沉眠许久。
+Inspect_DeathAreaBedroomHades_Capes_01|Inspect Death Area Bedroom Hades Capes 01|Storyteller|{#DialogueItalicFormat}这位禁欲主义的圣殿主人拥有着超乎想像的财富，而他只花了其中很少的一部分，给自己购置了一套朴素的衣服，每天都穿。
+Inspect_DeathAreaOffice_Teleporter_01|Inspect Death Area Office Teleporter 01|Storyteller|{#DialogueItalicFormat}管理大厅的角落里，放置着圣殿之中最古老的印记：那是命运赋予的统治整个地下世界的权力的象征，持有它就可以在这世界里自由穿行。
+Inspect_DeathAreaOffice_WaterCooler01|Inspect Death Area Office Water Cooler 01|Storyteller|{#DialogueItalicFormat}那些在管理大厅里没日没夜工作的死神仆从们，如今可以喝到清凉、纯净的冥河水，想喝多少都可以。
+Inspect_DeathAreaOffice_Poster_01|Inspect Death Area Office Poster 01|Storyteller|{#DialogueItalicFormat}由于某场振奋人心的演出，暗灵们明白了自己应当具有怎样的奉献精神。如今，管理大厅里那些全年无休的暗灵们，依然投身于这费力不讨好的辛苦工作之中。
+Inspect_DeathAreaOffice_SealedContract_01|Inspect Death Area Office Sealed Contract 01|Storyteller|{#DialogueItalicFormat}在这些关于死亡与惩罚的羊皮纸文件中，有一份密封起来的文档，被称为“无赖国王的判决书”。根据判决，这位国王必须不停地将一块巨石推到山上，直到永远。
+Inspect_DeathAreaOffice_SealedContract_02|Inspect Death Area Office Sealed Contract 02|Storyteller|{#DialogueItalicFormat}在这座小山般的羊皮纸文件中，有一封老旧的文档，其中有一份特殊的契约。这份契约由某位当时还在世的音乐家签署，他试图将自己的妻子从死亡中拯救出来，但徒劳无功。
+Inspect_DeathAreaOffice_SealedContract_03|Inspect Death Area Office Sealed Contract 03|Storyteller|{#DialogueItalicFormat}这无数的档案都是冥王哈迪斯与死者签署过的协议，具有约束效力。而在这档案堆的深处，埋藏着一份古老的协议：某位了不起的战士愿意为冥界服务，以此换取让他心爱的伴侣永生永世留在至福乐土的权利。
+Flashback_DayNightJob_Office_01|Flashback Day Night Job Office 01|Storyteller|{#DialogueItalicFormat}白天与晚上的工作非常简单明了，最起码开始是这样。王子只要简单打个手势，就代表他要换班了。
+Flashback_DayNightJob_Office_02|Flashback Day Night Job Office 02|Storyteller|{#DialogueItalicFormat}为了妥善管理父亲的国度，成事不足的王子打算按照使用需求对账簿进行分类。
+Flashback_DayNightJob_Office_03|Flashback Day Night Job Office 03|Storyteller|{#DialogueItalicFormat}在管理批准审判条款的工作方面，缺乏训练的王子最终还是留下了很多遗憾。
+Flashback_DayNightJob_Office_04|Flashback Day Night Job Office 04|Storyteller|{#DialogueItalicFormat}对于王子注定徒劳无功的尝试，负责管理王子父亲国度的工作人员采取了冷眼旁观的态度。
+Flashback_DayNightJob_Office_05|Flashback Day Night Job Office 05|Storyteller|{#DialogueItalicFormat}喜欢偷懒的王子从来都没花多少时间去学习，也不知道该如何正确地安排他父亲国度的区域预订记录。
+Flashback_DayNightJob_Office_06|Flashback Day Night Job Office 06|Storyteller|{#DialogueItalicFormat}这一系列的精细工作其实很容易就能完成，只要是有能力、接受过相关训练的人就能做好，但心不在焉的冥界王子恐怕没戏。
+Flashback_DayNightJob_Office_07|Flashback Day Night Job Office 07|Storyteller|{#DialogueItalicFormat}完整的记录应当详实记录圣殿内所有的开销。这个过程需要耐心与细致，而王子的能力显然无法胜任。
+Flashback_DayNightJob_Office_08|Flashback Day Night Job Office 08|Storyteller|{#DialogueItalicFormat}圣殿的账簿必须不断更新，时刻记录宝石、钻石、黑暗宝石等各种形式的进账。这份工作王子做的一塌糊涂，他搞砸的工作也不仅仅只有这件。
+Flashback_DayNightJob_Office_09|Flashback Day Night Job Office 09|Storyteller|{#DialogueItalicFormat}早就过期的圣殿承包商翻新记录就摆在管理大厅的桌子上，但王子完全不想把这些文件按照日期和名称顺序进行整理。
+Flashback_DayNightJob_Office_10|Flashback Day Night Job Office 10|Storyteller|{#DialogueItalicFormat}在圣殿里工作的暗灵必须再三核实到岗登记，暗灵们应得的补偿也要快速批准，但王子到现在都记不住这些必要的步骤。
+Flashback_DayNightJob_Office_11|Flashback Day Night Job Office 11|Storyteller|{#DialogueItalicFormat}不守规矩的扎格列欧斯王子望着这桌上一堆又一堆的羊皮纸文件，每一份文件都包含了需要登记整理的工作细节。王子原本的乐观情绪开始消退。
+Flashback_DayNightJob_Office_12|Flashback Day Night Job Office 12|Storyteller|{#DialogueItalicFormat}扎格列欧斯王子非要在圣殿的管理大厅里干些自己喜欢干的事情不可，不过可以肯定，这些事与他的本职工作完全不相干。
+Flashback_DayNightJob_Office_13|Flashback Day Night Job Office 13|Storyteller|{#DialogueItalicFormat}检阅那些忿忿不平的暗灵们的索赔清单，是圣殿中一项非常重要的业务。至少，冥王哈迪斯曾经试图让他任性的儿子牢记这一点。
+Flashback_DayNightJob_Office_14|Flashback Day Night Job Office 14|Storyteller|{#DialogueItalicFormat}必须有人负责评估、管理、处理冥界中那些不安分的暗灵们发来的投诉清单，但扎格列欧斯王子完全没有头绪该怎么做。
+Flashback_DayNightJob_Office_15|Flashback Day Night Job Office 15|Storyteller|{#DialogueItalicFormat}管理大厅桌子上所有的用品都必须小心维护，并以特定的方式整齐摆放，但健忘的王子到现在都没有完全记住这些规矩。
+Flashback_DayNightJob_Office_16|Flashback Day Night Job Office 16|Storyteller|{#DialogueItalicFormat}安全报告上记录了塔耳塔罗斯越狱失败的事故，需要进行及时核实并给出官方回应，但扎格列欧斯王子完全不知道该怎么办。
+Flashback_DayNightJob_Office_Conclusion_01|Flashback Day Night Job Office Conclusion 01|Storyteller|{#DialogueItalicFormat}到最后，不爱工作的王子整理了一份记录，记载了他为了加强圣殿管理做过的事情，也记录了这些尝试的结果。
+InspectPreRun01|Inspect Pre Run 01|Storyteller|{#DialogueItalicFormat}冥王圣殿的大厅整洁有序，与其背后涌动的暗流形成了鲜明的对比。
+MinotaurAutograph01|Minotaur Autograph 01|Minotaur|{#DialogueItalicFormat}啊{#PreviousFormat}，我察觉到有另一场激烈战斗在等待着我们，小矮个。你似乎有什么想知道的事…
+MinotaurAutograph01|Minotaur Autograph 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，噢！我就是，有一个奇怪的问题。睡神，修普诺斯你知道吧？我的同事。他是你粉丝。他特别想要你的亲笔签名。专门写给他的话之类的。你可能不会这样轻易就给他。但是这对他来说非常重要。
+MinotaurAutograph01|Minotaur Autograph 01|Minotaur|亲笔签名。我明白了。嗯，看来还是有天神青睐我的。那我就来写点东西给你的同事吧。
+MinotaurAutograph01|Minotaur Autograph 01|Storyteller|{#DialogueItalicFormat}遭众神遗弃的弥诺陶在羊皮纸上为睡神写下了些简短的话，并把它交给了这位替人求情的王子。
+MinotaurAutograph01|Minotaur Autograph 01|Minotaur|听好，小矮个，我做这些是因为你，而不是修普诺斯。不过他也可以随时来挑战我。
+HadesMiscMeeting07|Hades Misc Meeting 07|Hades|哈，我是老眼昏花了吗，是你吗，小子？！刻耳柏洛斯，看看是谁回来了！
+HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯悲哀地看向王子。
+HadesMiscMeeting07|Hades Misc Meeting 07|Zagreus|别把狗也扯进来，父亲。
+HadesMiscMeeting07|Hades Misc Meeting 07|Hades|你对我说的话，刻耳柏洛斯也能听到！你或许还能从他身上学点什么，学会听话，学会服从！
+CerberusMiscMeeting01|Cerberus Misc Meeting 01|Storyteller|{#DialogueItalicFormat}地狱看门犬刻耳柏洛斯用复杂的表情看着冥界王子，从最纯粹的喜悦到最深沉的忧郁。
+CerberusMiscMeeting01|Cerberus Misc Meeting 01|Zagreus|有好好看守吗，乖狗狗？如果可以的话我也想把你带上。
+CerberusMiscMeeting02|Cerberus Misc Meeting 02|Zagreus|怎么样，乖乖，有好好吃饭吗？三张嘴都吃饱喝足了吧？
+CerberusMiscMeeting02|Cerberus Misc Meeting 02|Storyteller|{#DialogueItalicFormat}地狱看门犬刻耳柏洛斯的三张血盆大口依次作出了肯定的回应,生怕王子不相信似的.
+CerberusMiscMeeting03|Cerberus Misc Meeting 03|Zagreus|没事没事，乖狗狗。我应该马上就能回来。
+CerberusMiscMeeting03|Cerberus Misc Meeting 03|Storyteller|{#DialogueItalicFormat}看门犬刻耳柏洛斯仅仅是窝在他舒适的床铺上生闷气。
+CerberusMiscMeeting04|Cerberus Misc Meeting 04|Zagreus|帮我看好父亲噢，乖乖。可别让他坏了大家的情绪。
+CerberusMiscMeeting04|Cerberus Misc Meeting 04|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯以他自己的方式表示答应。
+CerberusMiscMeeting05|Cerberus Misc Meeting 05|Zagreus|最近怎么样，乖狗狗？有什么好消息吗？
+CerberusMiscMeeting05|Cerberus Misc Meeting 05|Storyteller|{#DialogueItalicFormat}冥界王子的随口发问让这头地狱猎犬感到难过，因为它的三个头里没有一个头有说话的天赋或者诅咒。
+CerberusRunProgress01|Cerberus Run Progress 01|Zagreus|乖乖，我又来了。就算外头没有你，也还是危险四伏啊。
+CerberusRunProgress01|Cerberus Run Progress 01|Storyteller|{#DialogueItalicFormat}庄严的地狱猎犬不太认同王子温柔说出的这番话，它知道冥界早已不如以前那般戒备森严了。
+CerberusRunProgress02|Cerberus Run Progress 02|Zagreus|你猜怎么着，乖狗狗？我终于到达水仙花平原了！我算是明白你为什么不喜欢那里了。现在我要走了，多保重！
+CerberusRunProgress02|Cerberus Run Progress 02|Storyteller|{#DialogueItalicFormat}尽管冥界王子如此乐观，他的老伙计三头猎犬刻耳柏洛斯，仍旧保持着一种生气的情绪。
+CerberusRunProgress03|Cerberus Run Progress 03|Zagreus|能回来见到你真好，乖乖。真高兴你又能继续看守了！尽管这说明我得想办法通过你的看守。我知道你只是在做自己的工作而已。
+CerberusRunProgress03|Cerberus Run Progress 03|Storyteller|{#DialogueItalicFormat}可怕的地狱猎犬不安地盯着冥界王子，六只眼睛在屋内昏暗的光线下闪闪发光。
+CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Zagreus|我最近总是往圣殿这边跑，希望没给你带来太多麻烦，乖狗狗。你最近还好吗？卡戎有没有载你一程？
+CerberusAboutFastTravel01|Cerberus About Fast Travel 01|Storyteller|{#DialogueItalicFormat}王子向地狱之门的守护者如是问道。不过他早已心知肚明，这只长着好几个脑袋的猛犬肯定会对冥河的摆渡人敬而远之，就像冥界其他脑子正常的人那样。
+CerberusAboutBall01|Cerberus About Ball 01|Zagreus|你喜欢我给你的那个球吗，乖狗狗？不过它不会还手，这恐怕就没劲了吧……
+CerberusAboutBall01|Cerberus About Ball 01|Storyteller|{#DialogueItalicFormat}这只来自地狱的多头怪兽并不急着把自己的宝贵时间浪费在简单的玩物上，它宁愿将自己需要的能量储备起来，以备万一需要的时候能够一口吃掉闯入者。
+CerberusLoungeClosed01|Cerberus Lounge Closed 01|Zagreus|你是真的把休息室搞得一团乱是吗，乖乖？希望你没让自己惹上其他麻烦。真抱歉让你这样担心我。
+CerberusLoungeClosed01|Cerberus Lounge Closed 01|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯满怀愧疚地承认了自己犯过的罪行，并表达了自己将王子也牵连进来的懊悔。
+CerberusLoungeOpen01|Cerberus Lounge Open 01|Zagreus|嗨，看到没有，乖乖？老休息室又重焕新光了，来看看吧！别再跟上次一样搞坏东西就行了。
+CerberusLoungeOpen01|Cerberus Lounge Open 01|Storyteller|{#DialogueItalicFormat}听到这个消息后，刻耳柏洛斯的每一张脸都冒了光，一定是在盘算着把休息室再弄坏一次。
+CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Zagreus|嘿，乖狗狗，最近这里到处是翻修工作和施工，希望这没给你带来太多麻烦。不过，你看，休息室马上就要完工了，到时候你就可以再大肆破坏一通了！
+CerberusAboutUnderworldRenovations01|Cerberus About Underworld Renovations 01|Storyteller|{#DialogueItalicFormat}于是，扎格列欧斯王子怂恿着这只脾气暴躁、性格凶狠的冥府守门犬，想让它搞出更多破坏。这种对破坏的渴望，恐怕要再过上几百年才能平息了。
+CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Zagreus|说真的，以某种凄惨的方式丧命之后，好好拍拍我的好狗狗确实有助于让我重新振作起来。谢谢你在这里陪着我。
+CerberusAboutBeingBestBoy01|Cerberus About Being Best Boy 01|Storyteller|{#DialogueItalicFormat}声名狼藉的的地狱犬刻耳柏洛斯眼中的烈焰熊熊燃烧，表明它也很喜欢冥界王子殿下所说的“拍拍”。它很是感激王子总是会拍它。
+CerberusAboutPersephone01|Cerberus About Persephone 01|Zagreus|我找到她了，乖狗狗！我的母亲！珀尔塞福涅，你还记得她，是吧？她很高兴听到你的消息。不过我在上面待不了太久，所以我打算再去找她一次。所以我猜……到时候神殿里见吧？
+CerberusAboutPersephone01|Cerberus About Persephone 01|Storyteller|{#DialogueItalicFormat}一听到某个名字，这只恐怖的地狱恶犬散发出的凶狠气场立刻消失不见。之后，这只怪物进入了短暂的平静状态。
+CerberusPostEnding01|Cerberus Post Ending 01|Zagreus|哎哟，看看你，乖狗狗！我从来没有见过你这么活泼。当然，对你这样的硬汉来说，只是相对活泼一些。你一定很想念母亲吧？她也一样很想念你。好了，你们现在有足够的时间可以叙叙旧了！
+CerberusPostEnding01|Cerberus Post Ending 01|Storyteller|{#DialogueItalicFormat}在欢庆的场合中，哈迪斯豢养的这头三首地狱恶犬心里或许会充满纯粹的快乐，如果它做得到的话。
+CerberusPostEnding02|Cerberus Post Ending 02|Zagreus|我猜你再次见到母亲，一定很开心吧，乖狗狗？要是你以前能告诉我和她有关的事情就好了。
+CerberusPostEnding02|Cerberus Post Ending 02|Storyteller|{#DialogueItalicFormat}来自地狱的怪物刻耳柏洛斯开心地无视了王子冷酷无情、不合时宜的发言。
+CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Zagreus|哎呀，你可让我尝到厉害了，乖狗狗。你和父亲在地面上的时候，记得吗？我知道你是在闹，不过……下次对我下手轻点，好吗？
+CerberusExtremeMeasuresReaction01|Cerberus Extreme Measures Reaction 01|Storyteller|{#DialogueItalicFormat}不长记性的刻耳柏洛斯既没有表现出任何克制，也没有表现出任何懊恼。
+CerberusPostEpilogue01|Cerberus Post Epilogue 01|Zagreus|我们都为你感到自豪，乖狗狗！你在宴会上的表现真不错。我本来很担心某个脾气古怪的叔叔可能会惹你大发雷霆，但你简直就是耐心的化身。谢谢你让我们新的大家庭度过了一段美好的时光！
+CerberusPostEpilogue01|Cerberus Post Epilogue 01|Storyteller|{#DialogueItalicFormat}在最近举办的这场盛宴中，地狱猎犬刻耳柏洛斯究竟是如何始终保持温文尔雅的举止，这对所有宾客而言都是个未解之谜。
+CerberusChat02|Cerberus Chat 02|Storyteller|{#DialogueItalicFormat}王子和刻耳柏洛斯交换了一下眼神。
+CerberusChat03|Cerberus Chat 03|Storyteller|{#DialogueItalicFormat}看门犬刻耳柏洛斯打量着王子。
+CerberusChat04|Cerberus Chat 04|Storyteller|{#DialogueItalicFormat}现在还不能打扰刻耳柏洛斯。
+CerberusChat05|Cerberus Chat 05|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯正在休息，打量着周遭的一切。
+CerberusChat06|Cerberus Chat 06|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯像往常一样趴在主人的王座脚边。
+CerberusChat07|Cerberus Chat 07|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯一点也不想动。
+CerberusChat08|Cerberus Chat 08|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯此刻正在考虑要咬点什么东西。
+CerberusChat09|Cerberus Chat 09|Storyteller|{#DialogueItalicFormat}此时此刻，刻耳柏洛斯开始办他的事了：咬东西。
+CerberusChat10|Cerberus Chat 10|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯开始挠自己，咬自己。
+CerberusChat11|Cerberus Chat 11|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯现在不想谈话。
+CerberusChat12|Cerberus Chat 12|Storyteller|{#DialogueItalicFormat}地狱猎犬在他的地盘上安静地休息。
+CerberusChat13|Cerberus Chat 13|Storyteller|{#DialogueItalicFormat}看门犬刻耳柏洛斯骇人的三个头对王子表示欢迎。
+CerberusChat14|Cerberus Chat 14|Storyteller|{#DialogueItalicFormat}凶狠的死亡之门看门三头犬嚎叫着打了声招呼。
+CerberusChat15|Cerberus Chat 15|Storyteller|{#DialogueItalicFormat}忠诚的刻耳柏洛斯继续趴在自己的窝里休息。
+CerberusChat16|Cerberus Chat 16|Storyteller|{#DialogueItalicFormat}以凶狠闻名的刻耳柏洛斯安静地看着主人工作。
+CerberusChat17|Cerberus Chat 17|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯的其中一个头正在给另外两个梳理毛发。
+CerberusChat18|Cerberus Chat 18|Storyteller|{#DialogueItalicFormat}三头怪物刻耳柏洛斯像往常一样坐在那里。
+CerberusChat19|Cerberus Chat 19|Storyteller|{#DialogueItalicFormat}三头的刻耳柏洛斯正想着自己下一餐吃什么。
+CerberusChat20|Cerberus Chat 20|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯以一种时间打造的、温和的感情欢迎王子。
+CerberusChat21|Cerberus Chat 21|Storyteller|{#DialogueItalicFormat}地狱看门犬对着庭院里拥挤在一起的无精打采的暗灵们咆哮起来。
+CerberusChat22|Cerberus Chat 22|Storyteller|{#DialogueItalicFormat}骇人的刻耳柏洛斯对着地上的某种东西舔个没完。
+CerberusChatExtra01|Cerberus Chat Extra 01|Storyteller|{#DialogueItalicFormat}这只地狱猎犬已经安静了一段时间，几乎没怎么搭理王子。
+CerberusChatExtra02|Cerberus Chat Extra 02|Storyteller|{#DialogueItalicFormat}这只凶恶的三首猎犬刻耳柏洛斯表现出了一定的克制，至少暂时如此。
+CerberusChatExtra03|Cerberus Chat Extra 03|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯忙着享受安逸的生活，没时间搭理别人。
+CerberusChatExtra04|Cerberus Chat Extra 04|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯机警地坐在他的坐垫上。
+CerberusChatExtra05|Cerberus Chat Extra 05|Storyteller|{#DialogueItalicFormat}知道吃东西的时候到了，刻耳柏洛斯每张饥渴的巨口都流下了口水。
+CerberusChatExtra06|Cerberus Chat Extra 06|Storyteller|{#DialogueItalicFormat}恐怖的刻耳柏洛斯正在忙着积蓄力量，为下次阻止王子前进做好准备。
+CerberusGift01|Cerberus Gift 01|Zagreus|看看我给你带了什么，乖乖…！
+CerberusGift01|Cerberus Gift 01|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯的其中一个头接受了王子的礼物，另一个头把什么东西塞进了王子的手里。
+CerberusGift02|Cerberus Gift 02|Zagreus|乖狗狗…我就知道你喜欢！
+CerberusGift02|Cerberus Gift 02|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯收到这美味的礼物显得非常开心。
+CerberusGift03|Cerberus Gift 03|Zagreus|最好的东西只给最好的朋友，对吧，乖乖？
+CerberusGift03|Cerberus Gift 03|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯收到这件礼物后开心得直打哈欠。
+CerberusGift04|Cerberus Gift 04|Zagreus|尽我所能让我最好的伙伴尝够美食是我的责任。
+CerberusGift04|Cerberus Gift 04|Storyteller|{#DialogueItalicFormat}知道看门犬经不住美食的诱惑，王子也就成全他了。
+CerberusGift05|Cerberus Gift 05|Zagreus|你很喜欢这东西，是吧，我的好狗狗？那就好，因为这是特意给你偷偷拿过来的！
+CerberusGift05|Cerberus Gift 05|Storyteller|{#DialogueItalicFormat}蜜露甜美的味道，甚至足以让脾气暴躁的地狱犬安静下来。
+CerberusGift06|Cerberus Gift 06|Zagreus|你觉得这瓶蜜露的味道不够劲儿，是吧，我的好狗狗？你活了这么久，口味也变得很不错了嘛！
+CerberusGift06|Cerberus Gift 06|Storyteller|{#DialogueItalicFormat}尽管蜜露的味道实在是太清淡了，这只冥府多头犬对此并没什么兴趣，但它还是勉强接受了。
+CerberusGift07|Cerberus Gift 07|Zagreus|没错，我的好狗狗……这仙馔密酒是特地给你的，你肯定会喜欢。几乎所有人都喜欢仙馔密酒，无论是活人还是死人！
+CerberusGift07|Cerberus Gift 07|Storyteller|{#DialogueItalicFormat}看到了来自奥林匹斯山的仙馔密酒之后，这只丑陋的地狱犬立刻瞪大了它的六只眼睛。这份罕见的贵重礼物让它欣喜若狂。
+CerberusGift08|Cerberus Gift 08|Zagreus|你很喜欢吧，我的乖狗狗？我知道，你并不情愿被卷入这件事情之中，总是不得不衡量自己到底应该听谁的吩咐。把你置于这样的窘境之中，我很抱歉。
+CerberusGift08|Cerberus Gift 08|Storyteller|{#DialogueItalicFormat}冥界王子打算进一步收买这头可怕的三首猎犬，拉近与它的关系。事实证明，他的计划再次奏效了，因为仙馔密酒的美味真的是无与伦比。
+CerberusGift09|Cerberus Gift 09|Zagreus|刻耳柏洛斯，我倒不是想多愁善感，不过……哦，我这是在说什么傻话呢。你看，你一直都和我在一起生活！我知道，你会待在家里，或多或少是因为我的关系，是吧？
+CerberusGift09|Cerberus Gift 09|Storyteller|{#DialogueItalicFormat}这只地狱犬和它主人之间的感情，就像精金一样牢不可摧。恐怖的地狱巨怪刻耳柏洛斯负责看守者地狱的大门，必须首先听从王子父亲的命令。但事实证明，在那之后，能让它忠心不二的人，便是王子本人了。
+CerberusGift09|Cerberus Gift 09|Zagreus|你真是整个世界最乖的乖狗狗，不过你的第二个头和第三个头不怎么喜欢被摸，是吧？不过，我给你准备了相当丰富的礼物，拭目以待吧。
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|{#DialogueItalicFormat}三头犬刻耳柏洛斯机警地站在冥界入口前，而传说中那些想越过这道门的蠢货下场都过于凄惨，这里不便描述。
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|这一天真的来了，乖乖。经过了这么多。好吧，如果非得这样的话，也没什么好说的了。除了：准备战斗！！
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Zagreus|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，不，但是老实说，乖乖。我知道你为什么在这里。肯定有什么办法能让你放弃这样做。如果我帮你解决萨提尔的问题，你能放我走吗？求你了。我一定要找到珀尔塞福涅。你知道这对我意味着什么。
+CerberusStyxMeeting01|Cerberus Styx Meeting 01|Storyteller|{#DialogueItalicFormat}经过了片刻的犹豫和思考之后，贪吃的地狱猎犬，对王子发出肯定的叫声，王子开始寻找可以满足这怪兽胃口的东西。
+CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Zagreus|好了乖乖，这是你最喜欢的。给你可以，但是你得保证下次让我通过，怎么样？
+CerberusBossDoorUnlock01|Cerberus Boss Door Unlock 01|Storyteller|{#DialogueItalicFormat}骇人的刻耳柏洛斯收下了这散发着恶臭的袋子，开始在昏暗的大厅找一个角落，享用这令人反胃的美食。
+CerberusBossDoorUnlockRepeatable01|Cerberus Boss Door Unlock Repeatable 01|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯再次收下了袋子。
+CerberusBossDoorUnlockRepeatable02|Cerberus Boss Door Unlock Repeatable 02|Storyteller|{#DialogueItalicFormat}高大的刻耳柏洛斯收下了王子肮脏的贡品。
+CerberusBossDoorUnlockRepeatable03|Cerberus Boss Door Unlock Repeatable 03|Storyteller|{#DialogueItalicFormat}可怕的刻耳柏洛斯收下了萨提尔的袋子。
+CerberusBossDoorUnlockRepeatable04|Cerberus Boss Door Unlock Repeatable 04|Storyteller|{#DialogueItalicFormat}王子说服这冥界的凶恶守卫站向一边。
+CerberusBossDoorUnlockRepeatable05|Cerberus Boss Door Unlock Repeatable 05|Storyteller|{#DialogueItalicFormat}王子强迫这三头猎犬让自己通过。
+CerberusBossDoorUnlockRepeatable06|Cerberus Boss Door Unlock Repeatable 06|Storyteller|{#DialogueItalicFormat}王子再一次说服了凶恶的刻耳柏洛斯为自己让出一条路。
+CerberusBossDoorUnlockRepeatable07|Cerberus Boss Door Unlock Repeatable 07|Storyteller|{#DialogueItalicFormat}开心的地狱猎犬愉快地接受了另一个萨提尔麻袋。
+CerberusBossDoorUnlockRepeatable08|Cerberus Boss Door Unlock Repeatable 08|Storyteller|{#DialogueItalicFormat}再次证明，这只怪物唯一的弱点，即萨提尔麻袋，极为有效。
+CerberusBossDoorUnlockRepeatable09|Cerberus Boss Door Unlock Repeatable 09|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯露着尖牙，三只脑袋的注意力都被萨提尔麻袋吸引了。
+CerberusBossDoorUnlockRepeatable10|Cerberus Boss Door Unlock Repeatable 10|Storyteller|{#DialogueItalicFormat}这只地狱的守护者打算打个盹，吃点零食。
+CerberusBossDoorUnlockRepeatable11|Cerberus Boss Door Unlock Repeatable 11|Storyteller|{#DialogueItalicFormat}扎格列欧斯王子再次给刻耳柏洛斯带来了他最喜欢的麻袋。
+CerberusBossDoorUnlockRepeatable12|Cerberus Boss Door Unlock Repeatable 12|Storyteller|{#DialogueItalicFormat}无论是谁来，刻耳柏洛斯都不会让路。不过如果是为了萨提尔麻袋的话，他可以破个例。
+CerberusBossDoorUnlockRepeatable13|Cerberus Boss Door Unlock Repeatable 13|Storyteller|{#DialogueItalicFormat}机警的刻耳柏洛斯打算睁一只眼闭一只眼，仅限这次而已。
+CerberusBossDoorUnlockRepeatable14|Cerberus Boss Door Unlock Repeatable 14|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯每张凶狠的脸都认为必须摧毁萨提尔麻袋。
+CerberusBossDoorUnlockRepeatable15|Cerberus Boss Door Unlock Repeatable 15|Storyteller|{#DialogueItalicFormat}仔细考虑了一阵子之后，刻耳柏洛斯得出了结论：他愿意收下这个麻袋。
+PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|哦，刻耳柏洛斯！这座圣殿还能立在这里，你才是最大的功臣，对不对？你还喜欢我从地上世界给你带来的零食吗？
+PersephoneWithCerberus01|Persephone With Cerberus 01|Storyteller|{#DialogueItalicFormat}那只地狱犬吞掉了所有来自地上世界的零食，向冥后做出了最坚定、最肯定的回应。
+PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|我想也是。我敢打赌，你绝对看不出来它不是用肉做的！看看能不能让你长得更壮吧。
+PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|你可真是只乖狗狗，是不是，刻耳柏洛斯？没错，你就是！我不在的时候，你一直看守着这里，还让我儿子来见我！
+PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}相貌骇人、无比机警的刻耳柏洛斯接受了夸奖。
+CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}厄瑞玻斯黑暗世界隐藏在冥界无边的黑暗深处，死者在这里等待着永恒的审判；他们渴望得到主人冥王哈迪斯的关注和恩典。
+CharonFight01_FirstInspect|Charon Fight First Inspect 01|Storyteller|{#DialogueItalicFormat}无尽的冥河之中有一条隐藏的河段，可以穿过浓雾笼罩的厄瑞玻斯。这为船夫卡戎提供了一个合适的场所，让他能好好处理那些最为桀骜不驯的灵魂。
+Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}穿过地狱之河的无边火海，占据这个有利位置，冷酷无情的扎格列欧斯现在必须面对无比野蛮的敌人，它就在前方，耐心地等待着进攻的时机。
+Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}穿过烈焰重重的地狱之河，就可以通过隐藏的楼梯向上攀爬，通向冥界守卫最森严、最壮丽的环境：天堂的极乐世界，这里是伟大亡灵永恒的家园。
+Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}从水仙花平原的简陋屋子中传出欧律狄克悲凉的金铃般的声音，他曾经试图逃离冥界，但最后彻底失败了，就像扎格列欧斯王子一样。
+B_MiniBoss02_FirstInspect|B Mini Boss First Inspect 02|Storyteller|{#DialogueItalicFormat}对那些的粗心大意的灵魂而言，从事巫术活动通常会让他们死于非命，永生永世被困在塔耳塔罗斯。不过，也有某些灵魂能够精通此道，改去别处生活……
+Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|{#DialogueItalicFormat}对摆渡人卡戎而言，地狱之河的烈焰和灰烬都算不了什么，他载着各种亡灵、被诅咒的人和他们所有的服饰渡过冥界所有的水域。
+Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|{#DialogueItalicFormat}不知为何，在地狱之河无边无际的地狱深处，竟有一股生命之水的涓涓细流；仿佛是命运之神为幸运的王子奉上的礼物。
+Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|{#DialogueItalicFormat}曾经郁郁葱葱的水仙花平原现在被烈焰吞没，淹没在地狱之河汹涌的波涛下，河中可怕的滚滚烈焰顷刻间就会让人粉身碎骨，万劫不复，就算是金刚之身也难以抵挡。
+Inspect_B_Intro_02|Inspect B Intro 02|Storyteller|{#DialogueItalicFormat}在水仙花平原令人窒息的高温中居住着绝大多数曾经在凡界生活，最后死掉的人。他们在那里苦苦煎熬，直到世界末日的来临。
+Inspect_C_PreBoss_01_01|Inspect C Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}宏伟森严的极乐园高墙耸立，镇压着这位鼓动人心的王子，仿佛要把他引入一场不可能获胜的对抗中。
+Inspect_C_Shop_01_01|Inspect C Shop 01 01|Storyteller|{#DialogueItalicFormat}摆渡人卡戎私吞凡界和冥界的大量财富，并谨献给至福乐土里最富有的人。
+Inspect_C_Reprieve_01_01|Inspect C Reprieve 01 01|Storyteller|{#DialogueItalicFormat}在雕梁画栋、巧夺天工的至福乐土有一片凡人在人世间纷纷扰扰的短暂轮回中鲜有感悟、宁静祥和的净土。
+Inspect_C_Story_01_01|Inspect C Story 01 01|Storyteller|{#DialogueItalicFormat}在至福乐土布满青苔的石室中，供奉着无数高大不朽的纪念碑，用来纪念逝世的大英雄，生荣死哀。
+Inspect_C_Intro_01|Inspect C Intro 01|Storyteller|{#DialogueItalicFormat}只有最完美无瑕的亡灵才能享有至福乐土难得一见的天堂圣境，王子穿过火海才最终看到。
+Inspect_C_Intro_02|Inspect C Intro 02|Storyteller|{#DialogueItalicFormat}水汽弥漫的遗忘之河流过至福乐土的神室，让幽闭于此的高贵暗灵得以忘却生前尘世间的痛苦和记忆。
+Inspect_RoomSecret01_01|Inspect Room Secret 01 01|Storyteller|{#DialogueItalicFormat}冥界的最深处……黎明时分，所有的生命和灵体从虚空中涌现出来……混沌的领域。甚至死亡国度的居民也几乎无法看到这片神秘的土地。
+Inspect_RoomSecret02_01|Inspect Room Secret 02 01|Storyteller|{#DialogueItalicFormat}隐藏在冥界最黑暗的角落，深不可测，遥不可及，甚至冥王哈迪斯自己都无法察觉；然而，事事关心的王子不知怎么发现了通往这里的密道。
+Inspect_RoomSecret03_01|Inspect Room Secret 03 01|Storyteller|{#DialogueItalicFormat}在冥界最安静、最孤独、最黑暗的深渊里，隐藏着万物起源的证据，这里就是混沌！世界起源的远古幻境。
+Inspect_D_MiniBoss_02_01|Inspect D Mini Boss 02 01|Storyteller|{#DialogueItalicFormat}冥界那些阴森的巨大建筑之中有一些洞穴，盘踞其中的则是令冥王哈迪斯本人都谈其色变的污秽之物。
+Inspect_D_Reprieve_01_01|Inspect D Reprieve 01 01|Storyteller|{#DialogueItalicFormat}在亵渎神灵的萨提尔肮脏巢穴深处，隐藏着他们在世俗仪式中令人厌恶的勾当，肮脏得难以形容。
+Inspect_D_Intro_01_01|Inspect D Intro 01 01|Storyteller|{#DialogueItalicFormat}最后，这位任性的王子冒险来到了凡尘，但他仍然被困在地下：这里是通往冥界的大门，一个无法逃脱的禁地。
+Inspect_D_Hub_01|Inspect D Hub 01|Storyteller|{#DialogueItalicFormat}巨大的冥河神庙及其周边无数的险境阻碍着冥界王子来到地面世界，亲眼看看外面的风景。
+Inspect_D_Hub_02|Inspect D Hub 02|Storyteller|{#DialogueItalicFormat}逝者的灵魂会在离这里不远的地方开始往生旅程，前往地下深处的最后安息之地；正因如此，冥河摆渡人卡戎常常在这里穿行。
+Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|{#DialogueItalicFormat}令人生畏的多头冥界守卫犬刻耳柏洛斯控制着这一神秘空间的入口，它会将那些冥顽不灵，企图逃跑的亡灵一口吞下。
+Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|{#DialogueItalicFormat}一个简单开凿的地下隧道网从冰冷神殿的一个侧殿延伸出来，里面住着现世和往生世界都不受欢迎的邪恶居民。
+Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}地上世界狂风怒号，遭受着冰冻与寒霜的肆虐。即便如此，王子的心里还是充满了敬畏与崇高的感觉，因为他从未见过这样的景象。
+Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}珀尔塞福涅曾是整个冥界的皇后，如今，各种各样的水果和蔬菜在她的秘密花园中繁衍生息。这个世界充满了生机，与死亡毫无关系。
+A_PreBoss_01_FirstInspect|A Pre Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}现在的密室之外就是塔耳塔罗斯的最外围，预示着可怕的危险远远超出冥界王子的控制范围。
+A_Boss_01_Inspect01|A Boss Inspect 01 01|Storyteller|{#DialogueItalicFormat}厄里倪厄斯，又名复仇三女神，她们是冥王哈迪斯的得力干将。她们的使命，是折磨那些生前罪大恶极的人，顺便在冥府里清理胆敢越界游走的傻子。
+A_PostBoss_01_FirstInspect|A Post Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}从塔耳塔罗斯出发的道路终于显现出来。我们已经可以隐约感受到远处地狱之河灼热的烈焰……就好像重重机关正等着那些不知天高地厚的家伙自投罗网。
+A_PostBoss_01_GearsInspect01|A Post Boss Gears Inspect 01 01|Storyteller|{#DialogueItalicFormat}唯有冥王哈迪斯最为亲信之人，才有资格在冥府地区的迷宫里行走。王子才不管这一套，硬是要闯它一闯。
+A_MiniBoss03_01_FirstInspect|A Mini Boss First Inspect 03 01|Storyteller|{#DialogueItalicFormat}塔耳塔罗斯最残暴的暗灵们被单独监禁，不得与其它被诅咒的灵魂相见。而它们唯一的访客，就是那些试图逃出这里的蠢货。
+A_MiniBoss04_01_FirstInspect|A Mini Boss First Inspect 04 01|Storyteller|{#DialogueItalicFormat}遭到诅咒、迷失方向的灵魂无处可去，便聚集在塔耳塔罗斯深的最深处，与大地融为一体，变成了难以言述的丑陋畸怪。
+A_Reprieve_01_FirstInspect|A Reprieve First Inspect 01|Storyteller|{#DialogueItalicFormat}实际上，我们偶尔也能在冥界找到一个安静祥和的地方，一个也许无法想象的地方。
+CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥河摆渡人卡戎在摊位上出售地狱物件，任何人都可以购买，只是这位摆渡人向来贪财，要价不菲。
+CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}臭名昭著的冥河流经冥界，只有摆渡人卡戎可以在凡界和冥界深渊自由穿行，让许多暗灵得以永远安息。
+OpeningFirstInspect|Opening First Inspect|Storyteller|{#DialogueItalicFormat}冥王哈迪斯的冥界由无数不断变化的连环密室组成，逝者的亡灵基本上都可以在这里安息，直到世界末日的来临。
+OpeningProcGenHint|Opening Proc Gen Hint|Storyteller|{#DialogueItalicFormat}每次王子深入到冥界时，不断变化的密室都会重新组合，让他无法画出地图。
+Inspect_A_Story_01_01|Inspect A Story 01 01|Storyteller|{#DialogueItalicFormat}塔耳塔罗斯的万丈深渊囚禁着冥界永世不得超生的暗灵，冥界之主对那些试图逃离的亡灵特别残酷无情。

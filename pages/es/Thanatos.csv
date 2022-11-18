@@ -1,0 +1,488 @@
+Id|Description|Speaker|Text
+Text|Text|Zagreus|Oye, me siento halagado por tus muestras de cariño, pero… no quiero que tengamos este tipo de relación. Te he dado falsas esperanzas. Perdóname. ¿Seguimos siendo amigos?
+Text|Text|Megaera|¿Es eso todo lo que quieres de verdad, ser mi amigo? {#DialogueItalicFormat}Je{#PreviousFormat}. A veces es difícil entenderte, Zag. Pero, ¿sabes qué? Ya he intentado muchas cosas en mi vida, ¿por qué no probamos lo que dices? Te veré por ahí.
+Text|Text|Megaera|¿Seguro? Oye, no pasa nada. Nos vemos ahí fuera.
+Text|Text|Zagreus|Sí… A veces, tengo que echar el freno. Me alegro de que nos llevemos mejor últimamente. Pero he pecado de impetuoso. Perdóname. Somos amigos del alma. No quiero que nada te haga daño. Ni nadie.
+Text|Text|Thanatos|Ya veo. Entiendo. También te considero mi amigo del alma, aunque últimamente hemos puesto esa relación en peligro, ¿no es así? Cuídate, Zag. Nos vemos.
+Text|Text|Zagreus|Hasta más ver, sí.
+Text|Text|Zagreus|Tan... {#DialogueItalicFormat}Ja, ja, ja{#PreviousFormat}. Qué alegría. ¿Sabes que… Megera también ha venido a verme...?
+Text|Text|Thanatos|{#DialogueItalicFormat}Tch{#PreviousFormat}. Conozco a Megera desde mucho antes que tú. ¿Quién crees que me metió en todo esto?
+Text|Text|Zagreus|¡Ja! Ella, ¿verdad? Eso está bien. Muy bien.
+Text|Text|Thanatos|¿Estás seguro? En fin… Lo entiendo. Será mejor que retome mis obligaciones.
+Text|Text|Zagreus|Hasta la vista, Tan.
+Text|Text|Zagreus|Mira, os aprecio mucho. A los dos. Muchísimo. Me alegra tener este nivel de intimidad... y que lo tengáis vosotros, en lugar de estar todo el día a la gresca como antes. Pero creo que ahora mismo esto me supera.
+Text|Text|Megaera|¿Seguro? Mira... me parece bien, ya tienes bastante presión. Nos vemos por ahí, entonces.
+Text|Text|Thanatos|Ya charlaremos en otra ocasión, ¿de acuerdo?
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|¡Tánatos…! Te invitaría a pasar, pero… ya estás dentro. Qué alegría me da verte.
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|Dime una cosa, Zagreo. Lo de antes... ¿lo has dicho en serio? ¿Crees que debemos… ir con más calma?
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|No quiero presionarte. Sé que todo esto resulta abrumador. Y quiero que sepas que… no he actuado por impulso. Te esperaré el tiempo que haga falta.
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|{#DialogueItalicFormat}Agh{#PreviousFormat}. Tú no sabes por qué impulsos debes dejarte llevar y cuáles debes mantener a raya. Dices que esperarás. Respóndeme entonces: ¿a qué esperas? ¿A qué esperas? Ya estoy aquí. ¿No es cierto...?
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|¡Tan…! {#DialogueItalicFormat}Ja, ja, ja{#PreviousFormat}. ¡Tienes razón!
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|Tan, habla de una vez. Detesto cuando te quedas callado tanto tiempo. ¿Qué te ronda por la cabeza?
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|Muchas cosas. Y has de aprender a aceptarlo. Intento decirte que no malinterpretes mi silencio, ¿de acuerdo? Me marcho. Tengo mucho trabajo atrasado. Ya nos veremos... si te parece bien.
+BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|Claro. Claro.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Zagreo, aquí no hay puertas. ¿Por qué te llevas siempre una sorpresa?
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}Esto{#PreviousFormat}, Meg, Tan... ¿qué hacéis? ¿Qué está pasando? Sea lo que sea, puedo explicarlo, o... espera, estáis sonriendo los dos. Ah... dejadme unos segundos para hacerme a la idea de todo esto.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|Qué poco confías en Tánatos y en mí, Zag. Nos conocemos desde mucho antes de que tú nacieras.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Thanatos|De hecho, diría que a estas alturas nos conocemos muy bien, ¿verdad, Megera?
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|¿Acaso no ves que ahora no estamos de servicio, Zagreo?
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|¡{#DialogueItalicFormat}Ja{#PreviousFormat}! De acuerdo, entonces... si al final esto no es más que un sueño, me voy a cabrear mucho. En fin, solo hay una forma de averiguarlo.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|Vaya, estooo… ¿Por dónde iba?
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|¡Bueno! Creo que hemos llegado a un acuerdo. Debería irme. Hasta la próxima, Zag. Y Tánatos.
+MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|Fiu, bueno, ha sido... ha sido... {#DialogueItalicFormat}ejem{#PreviousFormat}.
+ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|Y, por último, se te prohíbe ofrecer más ayuda al príncipe Zagreo. ¿Nos entendemos?
+ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Sisyphus|Pero, por supuesto, maestro Tánatos, ¡jamás se me ocurriría! De hecho, mi mente está totalmente ocupada con las últimas estrategias para empujar rocas.
+ThanatosWithSisyphus01|Thanatos With Sisyphus 01|Thanatos|Basta. Vuelve a tu trabajo, que yo volveré al mío.
+ThanatosWithSisyphus02|Thanatos With Sisyphus 02|Sisyphus|Comprendo, maestro Tánatos, y haré como dices. No más ayuda para el príncipe Zagreo, lo digo completamente en serio esta vez.
+ThanatosWithSisyphus02|Thanatos With Sisyphus 02|Thanatos|Bien. Nuestro pellejo depende de que no descubran tus engaños. Asegúrate de que eso no suceda.
+ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|... Sería sabio por tu parte el tener en cuenta mis palabras la próxima vez, y temer las consecuencias de eludirme. La Muerte puede ser harto desagradable, como estoy seguro de que ya sabes.
+ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Sisyphus|Bueno, ese es el caso, maestro Tánatos. Nunca me he sentido realmente aterrado por los Dioses, si me lo permitís. Hasta donde puedo recordar, todos parecéis sufrir los mismos problemas que padecen los mortales. Descontando el miedo a la muerte, claro.
+ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|¿Qué sabrás tú de los problemas de los dioses? Ahora tienes la eternidad por delante para pensar en lo que has hecho. Quizás vuelva a visitarte en uno o dos eones, a ver si para entonces has aprendido algo.
+ThanatosHomeFirstMeeting|Thanatos Home First Meeting|Thanatos|Pasa de largo, Zag. ¿Y si el señor Hades nos viera charlando? Lo he arriesgado todo ayudándote en la batalla y, aun así, has fracasado.
+ThanatosHomeFirstMeeting|Thanatos Home First Meeting|Zagreus|Resulta que hay que cargarse a bastantes muertos en el Inframundo. Aunque es probable que sí que haya llegado más lejos gracias a ti.
+ThanatosHomeFirstMeeting|Thanatos Home First Meeting|Thanatos|Encantado de ayudarte. Sobre todo, cuando me juego el puesto, cuando arriesgo todo por lo que he trabajado.
+ThanatosHomeFirstMeetingAlt|Thanatos Home First Meeting Alt|Thanatos|¿Qué estás haciendo ahí, Zagreo? He arriesgado mucho al ayudarte a salir. ¿Y todo para nada?
+ThanatosHomeFirstMeetingAlt|Thanatos Home First Meeting Alt|Zagreus|En absoluto, Tan. Llegué a donde necesitaba ir y, si no hubiera sido por tu ayuda, quizá no lo habría hecho. En cuanto a por qué he vuelto... como diría padre, tenía asuntos que atender aquí.
+ThanatosHomeFirstMeetingAlt|Thanatos Home First Meeting Alt|Thanatos|Bueno, que no sea yo quien te detenga. Siempre estoy dispuesto a arriesgar mi puesto por ti, al igual que todo aquello por lo que he trabajado.
+ThanatosHomeMiscMeeting01|Thanatos Home Misc Meeting 01|Thanatos|Sigue tu camino, Zagreo. Tengo audiencia con mi señor Hades ahora mismo para explicarle mis recientes ausencias.
+ThanatosHomeMiscMeeting01|Thanatos Home Misc Meeting 01|Zagreus|¿De qué te preocupas, Tan? Jamás le has dado motivos para que desconfíe.
+ThanatosHomeMiscMeeting01|Thanatos Home Misc Meeting 01|Thanatos|Últimamente, no estoy tan seguro. Hagas lo que hagas, espero que valga la pena.
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|Sigo sin creerme que pienses que hay un modo de escapar de aquí.
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Zagreus|¿Por qué? Tú has salido. Gracias a ti, los mortales acaban aquí abajo la mitad de las veces.
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|Eso es distinto, pues yo me dedico a ello. No me puedo quedar allí y, sinceramente, no lo soporto. ¿Tienes idea de lo luminosa que es la superficie?
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Zagreus|No, pero me muero de ganas de averiguarlo.
+ThanatosHomeRunProgress01|Thanatos Home Run Progress 01|Thanatos|{#DialogueItalicFormat}Tsss{#PreviousFormat}, en fin... A ver qué opinan las moiras sobre eso. Igual la sombra de Dédalo puede fabricarte una protección para los ojos.
+ThanatosHomeRunProgress02|Thanatos Home Run Progress 02|Zagreus|Tánatos, el mundo exterior... ¿No dijiste que me haría enfermar estar ahí fuera, por poco tiempo que fuese? Ahora entiendo lo que querías decir. Muy bonito y todo eso, pero... me alegro de haber vuelto.
+ThanatosHomeRunProgress02|Thanatos Home Run Progress 02|Thanatos|¿Entiendes ahora a qué me refería, Zag? Un buen sitio para ir de visita, sin duda, pero tengo claro que no querría quedarme ahí.
+ThanatosBackstory01|Thanatos Backstory 01|Thanatos|La conocía, ¿sabes? A Perséfone, digo. Te pareces más a tu padre, pero tienes los ojos de ella. Bueno, al menos, uno.
+ThanatosBackstory01|Thanatos Backstory 01|Zagreus|Nunca me has hablado de ella. Seguro que sabías que… ¿Me has ocultado la verdad, como Nicte?
+ThanatosBackstory01|Thanatos Backstory 01|Thanatos|No es eso. Sabía lo mismo que tú. Además, el señor Hades nos prohibió mencionarla. Pensé que se llevaban mal como pareja. No me di cuenta de que estaba abandonando a su hijo.
+ThanatosBackstory01|Thanatos Backstory 01|Zagreus|Algo me dice que mi padre no le habría permitido llevarme con ella, aunque hubiera querido.
+ThanatosBackstory01|Thanatos Backstory 01|Thanatos|Puede, pero, aun así, ella te abandonó. En mi opinión, tu familia está aquí, aunque entiendo que… necesites respuestas.
+ThanatosBackstory02|Thanatos Backstory 02|Zagreus|Ey, Tan. Acompáñame a la cantina, por los viejos tiempos. Tenemos vía libre. El trabajo puede esperar.
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|¿De verdad quieres que nos tomemos algo juntos? Pues... ¿sabes qué te digo? Que vale. Que el trabajo puede esperar.
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|De algún modo, lo sabía... Siempre supe que no ibas a quedarte, aquí estabas siempre tan... intranquilo. Necesitabas un motivo para marcharte. Y yo esperaba que no encontrases uno tan rápido. {#DialogueItalicFormat}Uff{#PreviousFormat}, ¿qué estoy diciendo? No tienes ni idea.
+ThanatosBackstory02|Thanatos Backstory 02|Zagreus|Sé perfectamente a lo que te refieres, Tan. Siento hacerte pasar por todo esto, pero… no me queda más remedio. Me alegro de que ahora sepamos la verdad. Igual podemos pasar página.
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|{#DialogueItalicFormat}Tss{#PreviousFormat}, nunca he tenido tu optimismo, Zag. En fin, el trabajo ya ha esperado bastante. Tengo que volver. Gracias por el trago.
+ThanatosBackstory02|Thanatos Backstory 02|Thanatos|Ve con cuidado, Zagreo... He de irme.
+ThanatosAboutDeath01|Thanatos About Death 01|Zagreus|Tánatos, tengo una pregunta. ¿Es cierto que muchos mortales le tienen un miedo espantoso a la muerte?
+ThanatosAboutDeath01|Thanatos About Death 01|Thanatos|Así es. Me temen mucho en la superficie. Casi nadie distingue entre yo y, digamos, Ares o incluso tu padre. Les infundimos desesperanza. No tienen remedio.
+ThanatosAboutDeath01|Thanatos About Death 01|Zagreus|¿Por qué no? ¿No supone un gran problema que hagan una asociación de ideas tan negativa? No sé... ¿No podemos hacer algo para educarlos?
+ThanatosAboutDeath01|Thanatos About Death 01|Thanatos|Tenemos la eternidad para educarlos. Aquí. Su desconocimiento de la muerte se soluciona en cuanto mueren por primera vez. Aunque supongo que les iría mejor sabiéndolo de antemano.
+ThanatosAboutDeath02|Thanatos About Death 02|Zagreus|Tengo otra pregunta acerca de la muerte. Dime, ¿por qué se afligen tanto los mortales? Vale que duele un momento, pero tampoco es para tanto…
+ThanatosAboutDeath02|Thanatos About Death 02|Thanatos|Piensan que solo tienen una oportunidad. Imagina que, después de fallecer, no hubiera nada más. De vuelta al Caos infinito. Todo lo que eres. De regreso a un estado incluso anterior a tu presencia.
+ThanatosAboutDeath02|Thanatos About Death 02|Zagreus|Qué tontería. ¿Una única vida? Pero… puaj. Me pongo enfermo de solo pensarlo.
+ThanatosAboutDeath02|Thanatos About Death 02|Thanatos|¿A que sí? Algunos saben que no es el caso y tratan de explicarles a sus iguales nuestra labor aquí, pero las cosas de palacio van despacio. Sea como sea, yo soy el portador de las buenas noticias.
+ThanatosAboutDeath03|Thanatos About Death 03|Zagreus|Oye, Tan. Sigo dándole vueltas a eso que dijiste sobre la opinión que tienen los mortales de la muerte. Si casi todos creen que solo tienen una vida, ¿cómo la viven? Es que ni me lo imagino. Yo sería muchísimo más precavido, eso como poco.
+ThanatosAboutDeath03|Thanatos About Death 03|Thanatos|Viven entregando toda su alma a ello. O, al menos, lo intentan. Me parece que tiene algo de especial. Sin embargo, algunos se derrumban. Llegan aquí sin mí; por su cuenta, presos de la desesperación. Ojalá supieran lo que dice tu padre de todo esto.
+ThanatosAboutDeath03|Thanatos About Death 03|Zagreus|¿Te refieres a eso de que {#DialogueItalicFormat}«no hay escapatoria»{#PreviousFormat}? ¿De qué? Los mortales están en la superficie, no aquí. Al menos, mientras siguen vivos, en el sentido que le dan a esa palabra.
+ThanatosAboutDeath03|Thanatos About Death 03|Thanatos|Me refiero a que no puedes escapar de tus problemas, Zagreo. Puedes huir de tu familia, pero no de todo lo demás. No te queda más remedio que afrontarlo y solucionarlo, tarde o temprano, de un modo u otro. Tú y todos nosotros.
+ThanatosAboutDeath03|Thanatos About Death 03|Zagreus|Empiezo a darme cuenta, sí. Aunque un mortal que todavía no ha muerto… ¿no considera la muerte una especie de liberación? ¿No pones fin a su agonía, por así decirlo?
+ThanatosAboutDeath03|Thanatos About Death 03|Thanatos|Los libero de sus cuerpos decadentes. En ocasiones, las moiras me ordenan que los traiga antes. Es lo único que puedo hacer. Algunos asimilan desde el principio cómo deben vivir. Me impresiona mucho que lo aprendan tan rápido.
+ThanatosAboutShifting01|Thanatos About Shifting 01|Zagreus|Oye, ¿cuánta distancia recorres al trasladarte, Tan? Nunca he podido recorrer más que la equivalente a una espada, mientras que parece que tú puedes moverte por el mundo entero.
+ThanatosAboutShifting01|Thanatos About Shifting 01|Thanatos|Casi entero, sí. Pero no te desanimes, Zagreo, es una habilidad que hay que practicar, pero parece que yo pude usarla desde que nací. Nicte dice que era un trasto.
+ThanatosAboutBalcony01|Thanatos About Balcony 01|Zagreus|Oye, ¿qué es eso que miras todo el rato, Tan? Yo no veo nada.
+ThanatosAboutBalcony01|Thanatos About Balcony 01|Thanatos|¿Tienes el río Estigia justo delante y no ves nada interesante, Zag? Yo no puedo dejar de mirarlo. Estudiando a la competencia, podría decirse. La mayoría de los mortales esperan llegar aquí por el río y con Caronte, no conmigo.
+ThanatosAboutBalcony01|Thanatos About Balcony 01|Zagreus|¿Así que estás enzarzado en una pugna sin cuartel contra un río, en busca de sus signos de debilidad o algo así? Qué estresante.
+ThanatosAboutBalcony01|Thanatos About Balcony 01|Thanatos|Pues de hecho me resulta relajante. Es un descanso de todo el ajetreo con las almas mortales. Y hablando de eso... tengo que ir a recoger una ahora mismo.
+ThanatosAboutNemesisAspect01|Thanatos About Nemesis Aspect 01|Zagreus|Entonces mi espada, la que tomé prestada de mi padre, me reveló un aspecto suyo más antiguo: el aspecto de Némesis. Nicte nunca habla de ella. ¿Os habéis visto alguna vez?
+ThanatosAboutNemesisAspect01|Thanatos About Nemesis Aspect 01|Thanatos|Por si no te has dado cuenta, la mayoría de los nacidos de Nicte no nos llevamos muy bien. Némesis está muy ocupada impartiendo justicia en la superficie y nuestras sendas no están destinadas a cruzarse. Por lo que sé de ella, que siga siendo así.
+ThanatosAboutErisAspect01|Thanatos About Eris Aspect 01|Thanatos|¿Qué tal te va últimamente con el Cañón Adamantino? Siempre he pensado que un enfoque directo era más de tu estilo, pero he estado mirando tu historial y resulta que estás haciendo un buen trabajo con ese trasto.
+ThanatosAboutErisAspect01|Thanatos About Eris Aspect 01|Zagreus|¡Vaya, Tánatos! ¡Estás aprendiendo a meterte en los asuntos de otros! Pues el cañón me va de fábula, gracias; aunque ahora que lo mencionas, ¿qué tal conoces a Eris, una de las hijas de Nicte? Parece que ella lo empuñó antes que yo.
+ThanatosAboutErisAspect01|Thanatos About Eris Aspect 01|Thanatos|Los mortales la llaman Discordia. Ella y sus hijos... digamos que sus esfuerzos son los que hacen que esté tan ocupado todo el tiempo. Aunque te agradecería que no habláramos de ella.
+ThanatosAboutSurface01|Thanatos About Surface 01|Zagreus|Tánatos, igual te lo he preguntado antes, pero... ¿cómo es? El mundo de fuera, la superficie. Como nunca hablas del tema... casi había olvidado de que trabajas allí.
+ThanatosAboutSurface01|Thanatos About Surface 01|Thanatos|¿Qué puedo contarte? Es… distinto. Nunca me quedo mucho tiempo. No creo que lo soportase, pues me enferma. Demasiadas sensaciones a la vez. Y cuando el carro de Helios aparece en el cielo, emite tal fulgor que apenas me deja ver.
+ThanatosAboutSurface01|Thanatos About Surface 01|Zagreus|Parece espantoso. Si tan malo resulta, ¿por qué los dioses del Olimpo lo pintan tan bien?
+ThanatosAboutSurface01|Thanatos About Surface 01|Thanatos|Sobre gustos, no hay nada escrito. Sin embargo, he omitido ciertos aspectos menos negativos. ¿Sabes? No quiero estropearte la sorpresa. Tengo la sensación de que muy pronto lo verás con tus propios ojos.
+ThanatosAboutSurface01_B|Thanatos About Surface B 01|Thanatos|Imagino que sobre gustos, no hay nada escrito.
+ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|Por cierto, ¿qué me puedes contar de Caronte? Se muestra parco en palabras, pero parece que conoce a la perfección los entresijos de este lugar.
+ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|Aunque lo veo constantemente, ni siquiera yo sé qué obligaciones tiene. Es un trabajador independiente, por así decirlo, que lleva aquí desde siempre. Tu padre le ha dado completa libertad de movimiento.
+ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|Recibirá una retribución muy elevada, después de tanto tiempo ocupándose de la llegada de las nuevas almas.
+ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|Dudo mucho que lo haga por la retribución, Zagreo. No hay Inframundo sin Caronte. Él lo sabe, y tu padre también.
+ThanatosAboutCharon02A|Thanatos About Charon A 02|Zagreus|¿Has tenido alguna vez una buena relación con Caronte, Tan? Parece que, por mucho que me esfuerce, no se relaja conmigo.
+ThanatosAboutCharon02A|Thanatos About Charon A 02|Thanatos|No me sorprendería que tú tengas una relación más estrecha con él que yo. No todos los hijos de Nicte se mantienen en contacto, aunque al menos no nos tiramos todo el rato al cuello de los otros, como la otra rama de tu familia.
+ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|Tan, no te lo vas a creer, pero... Caronte me ha estado ayudando. ¡Por iniciativa propia, según parece! Y yo que estaba seguro de que Nicte o alguien se lo había ordenado. Ese Huesos del que te hablé, ¡lo contrató Caronte!
+ThanatosAboutCharon02|Thanatos About Charon 02|Thanatos|¿De qué me hablas, Zagreo? Solo porque Caronte te esté vendiendo cosas, no significa que te esté ayudando. Espera, ¿estás seguro?
+ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|¡Segurísimo! Este ayudante, Huesos, es mucho más parlanchín y al final se le escapó, aunque no me pudo decir cómo es que Caronte decidió hacer algo así. Ni siquiera somos amigos...
+ThanatosAboutCharon02|Thanatos About Charon 02|Thanatos|Uhm. Lo único que se me ocurre es que Caronte está muy dedicado al servicio de la morada, como algunos de nosotros. Quizá pensó que podía ayudar a arreglar las cosas entre tú y tu padre, de una manera u otra.
+ThanatosAboutCharonFight01|Thanatos About Charon Fight 01|Zagreus|Oye, Tan, imagina que hubiera derrotado a Caronte en combate singular después de haber, por poner un ejemplo, cogido algunas de sus mercancías sin pagar... ¿Cuánto tiempo me estaría guardando rencor?
+ThanatosAboutCharonFight01|Thanatos About Charon Fight 01|Thanatos|Todo es un intercambio con Caronte, Zag. Si te has negado a pagar por algo, he de suponer que ese es el motivo de que estés de vuelta ahora. La deuda se paga en óbolos o en sangre, o en lo más parecido que tengas a esas divisas.
+ThanatosAboutSkelly01|Thanatos About Skelly 01|Zagreus|Tan, respóndeme con sinceridad, no habrás contratado a un tipejo extraño llamado Huesos para que me ayude de vez en cuando, ¿no?
+ThanatosAboutSkelly01|Thanatos About Skelly 01|Thanatos|¿Quién? ¿Qué? No, ¿por qué me lo preguntas?
+ThanatosAboutPersephone01|Thanatos About Persephone 01|Zagreus|¿Recuerdas algo más sobre mi madre, Tan? Lo que sea. No teníais mucho trato, imagino.
+ThanatosAboutPersephone01|Thanatos About Persephone 01|Thanatos|No. Si no recuerdo mal, era muy reservada, y yo lo respetaba. Al contrario que cierta persona, no hago demasiadas preguntas. Me parecía evidente que no era oriunda de estos lares.
+ThanatosAboutPersephone01|Thanatos About Persephone 01|Zagreus|Igual que padre. ¿En qué se diferenciaba ella?
+ThanatosAboutPersephone01|Thanatos About Persephone 01|Thanatos|A veces me tengo que recordar a mí mismo que Hades tampoco es de aquí. Pero Perséfone... resplandecía de cierta manera. Me recordaba al exterior... sin ánimo de ofender, claro.
+ThanatosAboutSisyphus01|Thanatos About Sisyphus 01|Zagreus|Tan, no le guardas rencor a Sísifo, ¿verdad? Se pone muy nervioso cuando habla de ti. Entiendo que no empezasteis con buen pie.
+ThanatosAboutSisyphus01|Thanatos About Sisyphus 01|Thanatos|Es un descarado, hay que reconocerlo. Había olvidado que estáis muy unidos. A pesar de que has tomado algunas decisiones discutibles, no juzgas mal a las personas, de modo que… igual me he equivocado con él.
+ThanatosAboutSisyphus01|Thanatos About Sisyphus 01|Zagreus|Solo me hago una ligera idea del tipo de hombre que era, aunque parece que ha cambiado mucho desde entonces. Gracias por tu comprensión.
+ThanatosAboutSisyphusLiberationQuestComplete01|Thanatos About Sisyphus Liberation Quest Complete 01|Thanatos|Me he enterado de que has conmutado la condena del rey de los granujas. Debería estar furioso contigo, Sísifo es el único mortal que me ha humillado, pero supongo que Nicte debe de haber estado de acuerdo contigo...
+ThanatosAboutSisyphusLiberationQuestComplete01|Thanatos About Sisyphus Liberation Quest Complete 01|Zagreus|Hicimos lo que teníamos que hacer. Por mucho que a padre le guste impartir condenas ejemplares, una para toda la eternidad parecía algo excesiva en este caso. Además, Sísifo no se va a marchar. Ha encontrado aquí su lugar.
+ThanatosAboutSisyphusLiberationQuestComplete01|Thanatos About Sisyphus Liberation Quest Complete 01|Thanatos|¿Ah, sí? Es un tipo peculiar, desde luego. Me parece bien, mientras no tenga que volver a tratar con él.
+ThanatosAboutAchilles01|Thanatos About Achilles 01|Zagreus|¿Habláis mucho Aquiles y tú, Tan?
+ThanatosAboutAchilles01|Thanatos About Achilles 01|Thanatos|Yo tengo mis órdenes, él las suyas. ¿Tú que crees? Incluso cuando él estaba vivo, teniendo en cuenta su trabajo, había pocas probabilidades de que yo lo trajese aquí.
+ThanatosAboutAchilles01|Thanatos About Achilles 01|Zagreus|Porque era un guerrero. Cuando los mortales perecen de forma violenta, ya no son cosa tuya, ¿cierto?
+ThanatosAboutAchilles01|Thanatos About Achilles 01|Thanatos|Exacto. Yo atiendo a quienes tienen menos prisa por venir.
+ThanatosAboutMyrmidonReunionQuestComplete01|Thanatos About Myrmidon Reunion Quest Complete 01|Thanatos|Tu instructor lleva ausente de su puesto más tiempo de lo normal. Has anulado su pacto con Hades, ¿verdad? No sé cómo lo has hecho.
+ThanatosAboutMyrmidonReunionQuestComplete01|Thanatos About Myrmidon Reunion Quest Complete 01|Zagreus|Sabes que es mucho más que mi instructor, Tan. En cuanto a cómo lo he hecho, ser el primogénito e hijo único de Hades tiene sus privilegios. Ahora Aquiles puede estar con alguien a quien quiere y que le quiere.
+ThanatosAboutMyrmidonReunionQuestComplete01|Thanatos About Myrmidon Reunion Quest Complete 01|Thanatos|El amor es común entre los mortales. ¿El que los une es tan especial que merece tanto esfuerzo? ¿No solo tuyo, sino suyo también?
+ThanatosAboutMegaera01|Thanatos About Megaera 01|Thanatos|Últimamente ves mucho a Megera, ¿no, Zag?
+ThanatosAboutMegaera01|Thanatos About Megaera 01|Zagreus|No es lo que parece. Intenta entorpecerme. Me corta el paso.
+ThanatosAboutMegaera01|Thanatos About Megaera 01|Thanatos|Si tú lo dices… Aunque me parece mucho más complicado de lo que dices.
+ThanatosAboutMegaera01|Thanatos About Megaera 01|Zagreus|Sí, sus hermanas han regresado. Y son… de trato arisco. Me parece que Meg no se lleva bien con ninguna.
+ThanatosAboutMegaera01|Thanatos About Megaera 01|Thanatos|No me refería a eso. Pero bueno, me has contado lo que quería saber de momento.
+ThanatosAboutMegaera02|Thanatos About Megaera 02|Zagreus|Tú y Meg os conocéis desde hace tiempo, ¿no? A veces se me olvida que sois uña y carne.
+ThanatosAboutMegaera02|Thanatos About Megaera 02|Thanatos|Nuestras responsabilidades hacen que nos crucemos a menudo, sí, pero no la conocí de verdad hasta todo ese asunto tan humillante con Sísifo.
+ThanatosAboutMegaera02|Thanatos About Megaera 02|Zagreus|Ah, cierto. Fue condenado al Tártaro después de eso, bajo la supervisión de Meg. ¿Estrechasteis lazos por vuestro desprecio común por Sísifo?
+ThanatosAboutMegaera02|Thanatos About Megaera 02|Thanatos|Ambos necesitábamos liberar tensiones, sí. Ha sido el trabajo más duro que he tenido, y creo que ella también. Cuando pasas por algo así con alguien, supongo que acabas forjando un vínculo.
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Zagreus|Tan, quería decirte algo. Más bien preguntártelo. Como amigo de Megera que eres… bueno, en fin, sabes lo {#DialogueItalicFormat}nuestro{#PreviousFormat}, ¿verdad?
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Thanatos|Sí, claro. ¿Por qué lo preguntas?
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Zagreus|Bueno, es que… como tienes contacto con los mortales muy a menudo, sé que algunos eligen a un único pretendiente. Es una sana costumbre, si es la tuya…
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Thanatos|Los mortales tienen sus costumbres, cierto. Y no pocas, a decir verdad. Sin embargo, ninguna me ha calado hondo. No pierdas el sueño con tales asuntos.
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Zagreus|Entonces... ¿no estás enfadado conmigo? ¿Ni con Meg?
+ThanatosAboutBeingCloseWithMegaera01|Thanatos About Being Close With Megaera 01|Thanatos|No más que de costumbre. Salúdala de mi parte cuando la veas.
+ThanatosAboutBeingCloseWithDusa01|Thanatos About Being Close With Dusa 01|Zagreus|Tan, no te molesta que haga tan buenas migas con Dusa, ¿verdad? Aporta tanta calidez a este lugar... Aprecio de verdad tenerla aquí.
+ThanatosAboutBeingCloseWithDusa01|Thanatos About Being Close With Dusa 01|Thanatos|No necesitas preguntarme esas cosas, Zagreo. Se trata de tus sentimientos.
+ThanatosAboutAres01|Thanatos About Ares 01|Zagreus|Tan, ¿qué relación mantienes con Ares, el dios del Olimpo? Sé que también provoca la muerte, pero… de una manera muy distinta a la tuya.
+ThanatosAboutAres01|Thanatos About Ares 01|Thanatos|Me dan igual los métodos que utilice. Me ha tratado con cortesía y profesionalidad, más de lo que puedo decir de la mayoría de tus parientes olímpicos.
+ThanatosAboutAres01|Thanatos About Ares 01|Zagreus|¿Insinúas que los demás dioses del Olimpo no te tratan bien?
+ThanatosAboutAres01|Thanatos About Ares 01|Thanatos|Diría que, aparte de Hermes, los demás no tienen mucha afinidad conmigo. Me imagino por qué. Sé lo complicado que resulta todo con tu padre aquí abajo. Sin embargo, Ares me parece un buen tipo.
+ThanatosAboutNyxAndAres01|Thanatos About Nyx And Ares 01|Zagreus|Tan, creo que deberías saber que Ares está... bastante interesado en Nicte. No para de pedirme que le hable de él a tu madre.
+ThanatosAboutNyxAndAres01|Thanatos About Nyx And Ares 01|Thanatos|Al fin. Ya era hora de que el Olimpo se fijase en mi madre y en sus logros.
+ThanatosAboutNyxAndAres01|Thanatos About Nyx And Ares 01|Zagreus|¿Al fin? ¿No te parece que las intenciones de Ares son deshonestas ni nada de eso?
+ThanatosAboutNyxAndAres01|Thanatos About Nyx And Ares 01|Thanatos|Sería un estúpido si así fuera. ¿Por qué crees que nos temen en el Olimpo, Zagreo? ¿Por Hipnos? No creo que tengas que preocuparte por Nicte, pero habla con ella si eso te tranquiliza.
+ThanatosAboutNyxAndChaos01|Thanatos About Nyx And Chaos 01|Thanatos|Nicte me ha dicho que has restaurado el Sello Ancestral, Zagreo. No podía creerme que fuera cosa tuya. Le has hecho un favor tremendo.
+ThanatosAboutNyxAndChaos01|Thanatos About Nyx And Chaos 01|Zagreus|Un placer. Dime, ¿Nicte te ha hablado alguna vez de su relación con Caos?
+ThanatosAboutNyxAndChaos01|Thanatos About Nyx And Chaos 01|Thanatos|No. No todo el mundo es tan comunicativo como tú, Zag, ni tan inquisitivo. Pero en este caso, parece que la cosa ha funcionado. Gracias. Por si no te las ha dado ella.
+ThanatosAboutNyxAndDusa01|Thanatos About Nyx And Dusa 01|Thanatos|Soy capaz de ver cuando madre Nicte está molesta, Zagreo, y no conviene preguntarle nada, así que te lo pregunto a ti: ¿qué ocurrió?
+ThanatosAboutNyxAndDusa01|Thanatos About Nyx And Dusa 01|Zagreus|Probablemente es porque a Nicte no le gusta que charle con Dusa de vez en cuando. ¿Es algo tan indigno? Ni siquiera a padre parece importarle.
+ThanatosAboutNyxAndDusa01|Thanatos About Nyx And Dusa 01|Thanatos|¡Pues a madre sí! Y yo soy lo bastante prudente como para no cuestionarla. Ninguno de nosotros estaría aquí de no ser por ella. Si te pide algo, hazlo.
+ThanatosAboutNyxAndDusa01|Thanatos About Nyx And Dusa 01|Zagreus|¿Me estás diciendo que debería empezar a ignorar a Dusa desde ahora, como tú?
+ThanatosAboutNyxAndDusa01|Thanatos About Nyx And Dusa 01|Thanatos|Eres un dios. Te pido que aprendas a comportarte como tal.
+ThanatosAboutNyxAndDusa02|Thanatos About Nyx And Dusa 02|Zagreus|Siento haber levantado la voz la última vez, Tan. Sé que Nicte dedica mucha energía a este sitio y nos ha cuidado a muchos.
+ThanatosAboutNyxAndDusa02|Thanatos About Nyx And Dusa 02|Thanatos|No es a mí a quien deberías pedir perdón, Zag, aunque en el caso de Nicte, a veces es mejor dejarlo estar. En cuando a Dusa... no quería decir que tuvieras que abandonar a tu amiga.
+ThanatosAboutNyxAndDusa03|Thanatos About Nyx And Dusa 03|Zagreus|Nicte la despidió, Tan. A Dusa. Ya no está. ¿Qué debería hacer?
+ThanatosAboutNyxAndDusa03|Thanatos About Nyx And Dusa 03|Thanatos|Si fuera tú, intentaría sobreponerme cuando antes, pero no te veo capaz. Tan solo recuerda que, quizá, esto no tiene que ver contigo. Puede que, simplemente, a Dusa le haya venido grande el trabajo. Nicte es estricta, pero justa.
+ThanatosAboutNyxAndDusa03|Thanatos About Nyx And Dusa 03|Zagreus|Entonces debería darle a Dusa otra oportunidad. ¿Se ha enterado Meg? Se pondrá furiosa.
+ThanatosAboutNyxAndDusa03|Thanatos About Nyx And Dusa 03|Thanatos|No lo hará. Algunos de nosotros no cuestionamos sistemáticamente cada decisión de nuestros superiores.
+ThanatosAboutNyxAndDusa04|Thanatos About Nyx And Dusa 04|Thanatos|He visto que Dusa ha vuelto. Debes haber obrado tu magia con madre Nicte. No sé cómo lo haces, no recuerdo la última vez que la vi ceder en algo.
+ThanatosAboutNyxAndDusa04|Thanatos About Nyx And Dusa 04|Zagreus|Nicte se preocupa de verdad por esta morada y por todos nosotros. Tenía que cambiar de opinión en algo como esto. Dusa es una de las trabajadoras más laboriosas, aunque necesite mejorar ciertos aspectos.
+ThanatosAboutNyxAndDusa04|Thanatos About Nyx And Dusa 04|Thanatos|Un trabajo duro e incesante puede dar lugar a problemas, Zagreo. Creo que por eso estaba preocupada madre. Todos sabemos cómo puede ponerse tu padre. No necesita que alguien como Dusa se obsesione igual.
+ThanatosAboutHypnos01|Thanatos About Hypnos 01|Zagreus|Tan, Hipnos te adora, por mucho que te desquicie de vez en cuando.
+ThanatosAboutHypnos01|Thanatos About Hypnos 01|Thanatos|Sé sobrellevar nuestra relación, pero gracias, Zagreo. Según parece, lo conoces muy bien.
+ThanatosAboutHypnos01|Thanatos About Hypnos 01|Zagreus|Bueno... Imagino que morir tantas veces puede unir bastante lo suficiente...
+ThanatosAboutHypnos01|Thanatos About Hypnos 01|Thanatos|No sé qué es peor: si morir una y otra vez, o Hipnos. Sin embargo, te agradezco la paciencia que tienes con él.
+ThanatosAboutHypnos02|Thanatos About Hypnos 02|Zagreus|Te voy a decir algo, Tan. ¡Tratas muy mal a Hipnos! Y te lo dice alguien que tampoco es que lo trate muy bien. Créeme, lo entiendo, pero aun así...
+ThanatosAboutHypnos02|Thanatos About Hypnos 02|Thanatos|Es un incompetente absoluto, Zag. Ni siquiera estaría aquí si no fuera porque madre quiere hacer de él un hombre de provecho.
+ThanatosAboutHypnos02|Thanatos About Hypnos 02|Zagreus|Sí, pero... aquí no habría prácticamente nada si no fuera por Nicte, ¿verdad? En fin, a lo que voy no es a que tengas que dejar de controlarle... pero no te enfades tanto. Saldréis ganando los dos.
+ThanatosAboutHypnos02|Thanatos About Hypnos 02|Thanatos|Ya, es solo que... Bueno, tienes razón. Francamente, a veces me siento fatal después de echarle la bronca. Puede ser muy frustrante y egocéntrico, aunque tiene buena intención. Probablemente.
+ThanatosAboutHypnos03|Thanatos About Hypnos 03|Zagreus|Casi no me lo creo, Hipnos se ha ganado al final un respeto, ¿eh? Incluso padre parece complacido con él. Eso supera mi entendimiento.
+ThanatosAboutHypnos03|Thanatos About Hypnos 03|Thanatos|Casi no me lo creo yo tampoco, Zagreo, pero al fin y al cabo, es otro retoño de Nicte, así que no debería sorprenderme tanto. Aunque tengo que agradecerte que tuvieses conmigo aquella conversación sobre él.
+ThanatosAboutHypnos03|Thanatos About Hypnos 03|Zagreus|¿Ah, sí? Me he fijado en que os lleváis mejor últimamente. ¿Cuál es tu secreto?
+ThanatosAboutHypnos03|Thanatos About Hypnos 03|Thanatos|Adora las listas. No se le dan bien las sutilezas, pero si le dejas las cosas claras, se encargará de todo. Siempre que esté despierto, claro. Aún está trabajando en esa parte.
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|He visto que has cancelado el antiguo pacto entre Orfeo y tu padre. Entonces, ¿ahora puede ver a su esposa de vez en cuando?
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Zagreus|Así es. Y sí, fui yo, Tan. Creo que podemos soportar verle menos por aquí si eso le hace estar más feliz por el resto de la eternidad.
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|Tienes que aprender a no meterte en los asuntos de los demás. ¿Acaso alguno de ellos te pidió ayuda? No puedo imaginarme que lo hiciera Orfeo, y supongo que los sentimientos de su esposa también deben de ser complicados, por lo que sé sobre su último encuentro.
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Zagreus|¿Qué dices? Orfeo es mi colega, Tan, y conocí a su musa Eurídice también. Aún sentían algo el uno por el otro, solo que no tenían forma de comunicarse.
+ThanatosAboutSingersReunionQuestComplete01|Thanatos About Singers Reunion Quest Complete 01|Thanatos|Y decidiste intervenir. {#DialogueItalicFormat}Tss{#PreviousFormat}. Creo que mis instintos me dicen algo distinto sobre este tema que los tuyos. Sé que tus intenciones son buenas, pero... ¿Sabes qué? Déjalo.
+ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Thanatos|He visto que alguien ha pedido la lista de augurios menores al contratista de la morada, Zagreo. No te tomaba por un agente de las moiras.
+ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Zagreus|Soy una caja de sorpresas, Tánatos. Pero las tres moiras son tus hermanas, ¿no? Me sorprende que no hayas solicitado la lista tú.
+ThanatosAboutQuestLog01|Thanatos About Quest Log 01|Thanatos|Supongo que no era mi destino. Tampoco es que las conozca. Viven ellas solas y aisladas... en algún lugar. A menudo me pregunto si todo está predestinado de verdad o simplemente van improvisando sobre la marcha.
+ThanatosRunCleared01|Thanatos Run Cleared 01|Thanatos|Has derrotado a Hades... Al final lo conseguiste. Nunca lo he visto así antes. Casi no me lo podía creer cuando apareció flotando en la fuente del Estigia.
+ThanatosRunCleared01|Thanatos Run Cleared 01|Zagreus|Parecía una cuestión de justicia cósmica. Al fin y al cabo, el mató a sus propios padres, ¿no? Creo que a las moiras les gustan estas cosas.
+ThanatosRunCleared01|Thanatos Run Cleared 01|Thanatos|Venga, Zag, tienes derecho a fardar por tu papel en esto. Aunque me vas a perdonar si mantengo las distancias un tiempo, porque creo que tienes algunos problemillas por resolver. Cuídate.
+ThanatosAboutStaying01|Thanatos About Staying 01|Thanatos|¿De verdad te vas a quedar, Zagreo? Quiero decir... Entre todos esos intentos fallidos y habituales de alcanzar la superficie.
+ThanatosAboutStaying01|Thanatos About Staying 01|Zagreus|Así es. He pensado que es la única manera de seguir interrumpiéndote mientras intentas hacer tu trabajo. Trabajas demasiado, Tan. ¡Disfruta de la vida de vez en cuando!
+ThanatosAboutStaying01|Thanatos About Staying 01|Thanatos|{#DialogueItalicFormat}Je{#PreviousFormat}. De acuerdo, veré lo que puedo hacer. Eso sí, tendrás que enseñarme a qué te refieres con lo de {#DialogueItalicFormat}disfrutar de la vida{#PreviousFormat}.
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|He de decirte algo, Tan. Mi madre biológica... no me abandonó. O al menos creía que no me estaba abandonando.
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|¿No {#DialogueItalicFormat}sabía {#PreviousFormat}que te estaba abandonando? ¿De qué hablas, Zag? Se marchó cuando naciste y nunca volvieron a hablar de ella ni a verla, hasta que tú hiciste todo esto.
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|Pues resulta que... no sabía ni que estaba vivo. Complicaciones en el parto. Ya le costaba acostumbrarse a vivir aquí, y eso supongo que fue el remate. Para cuando Nicte me devolvió a la vida... mi madre ya se había marchado.
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|¿Cómo? Pero madre Nicte y tu padre, podían haberla llamado, habérselo dicho... ¡deben haber sabido a dónde se fue!
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Zagreus|Nicte lo sabía, pero padre la convenció de que el asunto de mi madre... que sería mejor que nunca se enterase de lo mío, para que pudiera vivir en paz. Lejos de todo esto. Y lejos del Olimpo.
+ThanatosAboutPersephoneMeeting02|Thanatos About Persephone Meeting 02|Thanatos|Son... muchas cosas que asimilar.
+ThanatosAboutRelationship01|Thanatos About Relationship 01|Thanatos|Respóndeme a algo, Zagreo: ¿qué soy para ti, últimamente? Porque a veces, cuando estoy contigo...
+ThanatosAboutRelationship01|Thanatos About Relationship 01|Zagreus|A veces no lo sé ni yo, Tánatos. Lo que sí sé es que me encanta encontrarme contigo. ¡Es emocionante competir un rato y todo eso! Y eso también sé que significa que puede que te vea por aquí.
+ThanatosAboutRelationship01|Thanatos About Relationship 01|Thanatos|Pues aquí estoy. Pero aún no has contestado a mi pregunta. Mira, ¿sabes qué? Olvida que te he preguntado nada. Tengo que irme.
+ThanatosAboutRelationship02|Thanatos About Relationship 02|Zagreus|Oye, Tan, dime una cosa, y perdona que te haga una pregunta tan incómoda... ¿Va todo bien entre nosotros? ¿Tengo alguna costumbre molesta que deba conocer o algo por el estilo?
+ThanatosAboutRelationship02|Thanatos About Relationship 02|Thanatos|Sabes que no tengo tiempo para enumerar todas tus costumbres molestas, Zagreo. Pero si veo que alguna de ellas supera mi límite de tolerancia, prometo que te lo diré, ¿de acuerdo?
+ThanatosAboutRelationship02|Thanatos About Relationship 02|Zagreus|Vale. Entonces estamos bien. Porque a mí me parece que lo estamos, pero quería estar seguro.
+ThanatosAboutRelationship02|Thanatos About Relationship 02|Thanatos|Sí, lo estamos. Nos vemos, ¿vale?
+ThanatosAboutRelationship03|Thanatos About Relationship 03|Thanatos|Me sorprende lo mucho que has cambiado, Zag. Aún recuerdo cuando intentabas quemar la cola de Cerbero con los pies. Hace tiempo que no te veo hacerlo.
+ThanatosAboutRelationship03|Thanatos About Relationship 03|Zagreus|Sin duda, he aprendido la lección. Pero gracias, supongo. Tú mismo estás más receptivo, por cierto. Ahora, cuando hablo contigo, es completamente diferente a las primeras veces, en las que siempre parecía que me ibas a cortar la cabeza.
+ThanatosAboutRelationship03|Thanatos About Relationship 03|Thanatos|Te debió hacer falta mucho coraje para venir a decirme que me quedaba mejor mi antiguo corte de pelo. Aún me pregunto por qué no sigo ignorándote después de eso. O por qué no te he cortado aún la cabeza...
+ThanatosAboutRelationship03|Thanatos About Relationship 03|Zagreus|Bueno, siempre queda esa opción, supongo. Oye, ¿alguna vez has pensado en volver a dejártelo largo?
+ThanatosAboutRelationship03|Thanatos About Relationship 03|Thanatos|No, me estorbaba todo el rato. Desde que me lo corté, no lo he echado de menos. En fin, que los dos hemos crecido mucho, ¿verdad?
+ThanatosAfterPersephoneMeeting03|Thanatos After Persephone Meeting 03|Thanatos|¿Qué tal te va últimamente con tu madre, Zagreo? Has estado muy callado sobre todo este asunto, ¿todo bien? Puedes contármelo.
+ThanatosAfterPersephoneMeeting03|Thanatos After Persephone Meeting 03|Zagreus|Gracias por preguntar, Tan. No sé cuánto puedo decir ahora mismo, dadas las circunstancias. Ni yo mismo tengo las cosas claras aún. Agradezco que hayas estado aquí para ayudarme a verla a veces.
+ThanatosAfterPersephoneMeeting03|Thanatos After Persephone Meeting 03|Thanatos|Bueno, si hay algo más que pueda hacer para ayudarte en esto, dímelo, ¿de acuerdo? Parece que vas avanzando, al menos.
+ThanatosPostEnding01|Thanatos Post Ending 01|Thanatos|Entre tú y yo... todo eso de intentar escapar de aquí una y otra vez... ¿sigues autorizado a seguir haciéndolo? Descubrir puntos débiles en la seguridad del Inframundo... jumm...
+ThanatosPostEnding01|Thanatos Post Ending 01|Zagreus|Algo por el estilo. Creo que me he convertido en un experto en fugarme de sitios de los que se supone que es imposible escapar. Así sigo en contacto con la otra rama de la familia y podré trabajar contigo de vez en cuando.
+ThanatosPostEnding01|Thanatos Post Ending 01|Thanatos|He de decir que no imaginaba que llegaría el día en el que estarías deseando colaborar conmigo, Zag. ¿Te encuentras bien? ¿Estás pasando demasiado tiempo en la superficie, quizá?
+ThanatosPostEnding01|Thanatos Post Ending 01|Zagreus|Oh, de hecho estoy estupendamente. Pensaba que era un inútil, pero resulta que mi destino es frustrar los esfuerzos de padre por hacer que todo sea perfecto. Y me parece bien.
+ThanatosPostEnding01|Thanatos Post Ending 01|Thanatos|Bien, tengo muchas ganas de trabajar contigo de forma más oficial, aunque se suponga que tenemos que mantenerlo en secreto. Ya sabes, apariencias... Nos vemos.
+ThanatosPostEnding02|Thanatos Post Ending 02|Thanatos|He de decirte, Zag, que todo es distinto cuando tu madre está por aquí. No quiero ser descarado pero... creo que tiene que ver con tu padre.
+ThanatosPostEnding02|Thanatos Post Ending 02|Zagreus|Creo que tienen mucho trabajo por delante. Siempre que sigan intentándolo... que él siga intentándolo... creo que estoy conforme con la situación, al menos por el momento. Aunque me alegro de que ella esté aquí.
+ThanatosPostEnding02|Thanatos Post Ending 02|Thanatos|Empiezo a pensar que todos nos alegramos. Y no te tomes esto a mal, pero... creo que tu padre y tú también tenéis mucho trabajo por delante.
+ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|Tu madre es muy inteligente, Zagreo. Siempre pensé que eso lo habías heredado de tu padre, pero ahora no lo tengo tan claro. ¿Así que todo arreglado con los dioses del Olimpo?
+ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Zagreus|Por el momento, sí. Pero ya sabes cómo son. Cómo somos todos, de hecho.
+ThanatosPostEpilogue01|Thanatos Post Epilogue 01|Thanatos|¡{#DialogueItalicFormat}Ja{#PreviousFormat}! Sin duda. Bueno, disfrutémoslo mientras dure, como dicen los mortales a veces. Te veo por ahí.
+ThanatosWithHades01|Thanatos With Hades 01|Hades|Tanta tardanza es propia de tu hermano, pero ¿de ti, Tánatos? Podría decirse que eres el dios de la puntualidad.
+ThanatosWithHades01|Thanatos With Hades 01|Thanatos|Mi señor, mis más sinceras disculpas por mi escaso rendimiento últimamente. Mis obligaciones a raíz de la reciente guerra de la superficie me han pasado factura.
+ThanatosWithHades01|Thanatos With Hades 01|Hades|Tánatos, hasta los dioses descansamos de cuando en cuando. Algún día nos llegará el turno aquí, cuando esta condenada morada por fin esté en orden. Hasta entonces, valoro tu diligencia. No te extralimites.
+ThanatosWithHades01|Thanatos With Hades 01|Thanatos|Gracias, mi señor. A tu servicio. Debería retomar ya mis quehaceres.
+ThanatosWithHades03|Thanatos With Hades 03|Hades|Le has asistido, Tánatos. ¡A mis espaldas! Traición. Ahora te pregunto {#DialogueItalicFormat}por qué{#PreviousFormat}. ¿Y bien?
+ThanatosWithHades03|Thanatos With Hades 03|Thanatos|Mi señor, él y yo... Por favor. Enciérrame en el Tártaro o ajustíciame como creas conveniente, pero mi lealtad no cambiará. No puedo cruzarme de brazos mientras lucháis. Las rencillas entre Zagreo y tú... han de resolverse aquí y ahora.
+ThanatosWithHades03|Thanatos With Hades 03|Hades|¿Cómo osas sermonearme? {#DialogueItalicFormat}Bah{#PreviousFormat}. Mis súbditos leales escasean últimamente. Este es {#DialogueItalicFormat}tu {#PreviousFormat}reino, no el mío. No te desterraré a ese pozo infernal. Además, tampoco tengo a nadie que te sustituya aquí. Ahora, márchate.
+ThanatosWithHades03|Thanatos With Hades 03|Thanatos|Lo lamento profundamente, mi señor.
+ThanatosWithHades04|Thanatos With Hades 04|Thanatos|¿Querías verme de nuevo? Ha pasado bastante tiempo desde que tuve audiencia contigo por última vez.
+ThanatosWithHades04|Thanatos With Hades 04|Hades|Así es. La última vez que nos vimos... ¿qué fue lo que me dijiste? ¿Qué tenía que haber alguna solución al {#DialogueItalicFormat}asunto{#PreviousFormat}, como creo que lo llamaste, con mi hijo? Bueno, pues parece que ya está zanjado. ¿Verdad, muchacho?
+ThanatosWithHades04|Thanatos With Hades 04|Zagreus|A ver, tú sigues esforzándote todo lo que puedes en evitar que cruce el umbral de tu reino, así que no diría exactamente que considere el asunto {#DialogueItalicFormat}zanjado{#PreviousFormat}. Pero todo parece distinto ahora, sí.
+ThanatosWithHades04|Thanatos With Hades 04|Hades|Así que ya ves... Me gustaría que siguiéramos llevándonos bien, si no te importa. Esta morada solo puede funcionar si sus máximos responsables trabajan en la misma línea. ¿Qué me dices?
+ThanatosWithHades04|Thanatos With Hades 04|Thanatos|Me honras. Aprecio que me lo digas en persona, y estoy de acuerdo en que, por el bien de todo el Inframundo, es imperativo que los dos sigamos desempeñando nuestro trabajo a pleno rendimiento.
+ThanatosWithHades04|Thanatos With Hades 04|Hades|Sigue con lo que estuvieras haciendo, pues. Puedes marcharte.
+ThanatosWithHypnos01|Thanatos With Hypnos 01|Thanatos|Hipnos, en serio. Es la peor idea que he oído en mi vida. ¿Entiendes lo descabellada que es?
+ThanatosWithHypnos01|Thanatos With Hypnos 01|Hypnos|Solo digo que si tú... no sé, hicieras que todos los mortales muriesen a la vez, te ahorrarías un montonazo de viajes y pasaríamos más tiempo juntos, ¿eh?
+ThanatosWithHypnos01|Thanatos With Hypnos 01|Thanatos|No sé por qué me molesto contigo. Vuelve al trabajo y déjame trabajar a mí también.
+ThanatosWithHypnos02|Thanatos With Hypnos 02|Thanatos|No puedes seguir durmiéndote en el trabajo, Hipnos. Resulta del todo inaceptable.
+ThanatosWithHypnos02|Thanatos With Hypnos 02|Hypnos|Oh, ¡pero si solo ha sido una cabezadita de nada, Tánatos! Me quedo tranquilo sabiendo que estás aquí. Pero si he ganduleado, me puedes matar si quieres, ¿eh?
+ThanatosWithHypnos02|Thanatos With Hypnos 02|Thanatos|No me des ideas. Ponte firme y deja de hacer el vago. La morada necesita ayuda y tú tienes trabajo. ¡Manos a la obra!
+ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|Hipnos, esta lista tiene un puñado de encargos que ya completé hace tiempo, ¡varios de ellos el año pasado! Y ya has enviado los registros de esta semana. ¿Por qué no están marcados como completados?
+ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|Qué casualidad, ¡justo iba a ponerme ahora! Y entonces has aparecido y me he distraído, así que se me fue de la cabeza. Le puede pasar a cualquiera, ¿no?
+ThanatosWithHypnos03|Thanatos With Hypnos 03|Thanatos|Debes centrarte, hermano, o será Hades quien te eche la bronca la próxima vez. Y no te va a gustar.
+ThanatosWithHypnos03|Thanatos With Hypnos 03|Hypnos|No estés tan seguro, ¡la última vez que hablé con el jefe me dejó {#DialogueItalicFormat}bien clarito {#PreviousFormat}que no quería hablar conmigo nunca más!
+ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|Hipnos, no eres irremplazable; lo sabes, ¿verdad? Si no te lo tomas en serio pronto, alguien te quitará el puesto.
+ThanatosWithHypnos04|Thanatos With Hypnos 04|Hypnos|¡Me queda claro como el cristal, Tánatos! ¡Y déjame decirte que quien me lo quite tendrá el {#DialogueItalicFormat}mejor trabajo del Inframundo{#PreviousFormat}!
+ThanatosWithHypnos04|Thanatos With Hypnos 04|Thanatos|Creo que no me estás entendiendo, hermano. En fin, cuando ocurra lo inevitable, no vengas a decirme que no te avisé.
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|A ver... ¿cuántas veces consultas estas listas que elaboras? Si pasas demasiado tiempo haciendo listas, no te queda hueco para hacer nada.
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|Me {#DialogueItalicFormat}encanta {#PreviousFormat}hacer mis listas. Siempre pongo ilustraciones en los márgenes, ¡cada una es {#DialogueItalicFormat}única{#PreviousFormat}! Así, cada vez que alguien revisa mi trabajo, disfruta de una nueva {#DialogueItalicFormat}experiencia{#PreviousFormat}, ¿sabes? Pero sí, supongo que les dedico mucho tiempo.
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Thanatos|Tendrás que trabajar adaptándote a las limitaciones de tus posibilidades. Te tomas descansos, ¿no? Pues justo antes y después de cada uno puede ser buen momento para asegurarte de que tu lista de prioridades está al día.
+ThanatosWithHypnos05|Thanatos With Hypnos 05|Hypnos|Espera... ¿lista de prioridades? ¿Dices que vaya y haga una lista... para mí? Hala. Hala. {#DialogueItalicFormat}Hala{#PreviousFormat}...
+ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|Me he enterado de que últimamente tus informes son impecables, Hipnos. Dime, ¿quién te está ayudando? No puede ser Zagreo...
+ThanatosWithHypnos06|Thanatos With Hypnos 06|Hypnos|Oh, {#DialogueItalicFormat}ja, ja, ja{#PreviousFormat}. No, no es él. Tan solo he empezado a poner en lo alto de la lista lo importante e invierto algo más de tiempo en los informes prioritarios, ¡y supongo que funciona!
+ThanatosWithHypnos06|Thanatos With Hypnos 06|Thanatos|Mira, sea como sea, tu trabajo ha mejorado y nos hemos dado cuenta. Así que sigue así.
+ThanatosWithHypnos07|Thanatos With Hypnos 07|Thanatos|Lo que quería decir es que... lo siento, Hipnos. Eres mi hermano, pero no siempre te he tratado así. ¿Estarías dispuesto a perdonarme?
+ThanatosWithHypnos07|Thanatos With Hypnos 07|Hypnos|Venga, Tánatos, estás de broma, ¿no? ¡Somos como dos esqueletos en una cripta! Eres el mejor, y siempre buscas lo mejor para mí. ¡Incluso cuando no te veo durante lo que parecen eones!
+ThanatosWithHypnos07|Thanatos With Hypnos 07|Thanatos|No nos pasemos. Los dos tenemos trabajos importantes que hacer. ¿No es verdad, hermano?
+ThanatosWithHypnos08|Thanatos With Hypnos 08|Thanatos|¡Enhorabuena, hermano...! Veo que por fin te han añadido al tablón. Estamos orgullosos.
+ThanatosWithHypnos08|Thanatos With Hypnos 08|Hypnos|¡Sí! Todo un logro, ¿eh? Ahora perdona, Tánatos, pero no puedo charlar, se me acumulan las sombras, tengo que saludar a mucha gente y firmar muchas cosas... Mucho trabajo, ¿me entiendes?
+ThanatosWithHypnos08|Thanatos With Hypnos 08|Thanatos|Lo entiendo. Pues venga, al tajo los dos, ¿vale?
+ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|Madre, ¿hay algo que pueda hacer para ayudar en todo esto? Paso demasiado tiempo lejos de la morada. Por favor, dime algo.
+ThanatosWithNyx01|Thanatos With Nyx 01|Nyx|Ya estás haciendo todo lo que puedes, hijo mío, así que sigue así. Se están desarrollando acontecimientos que nos conciernen a todos. Tu apoyo y tus decisiones influirán en el resultado.
+ThanatosWithNyx01|Thanatos With Nyx 01|Thanatos|Entiendo, y haré lo que esté en mi mano. Gracias por encargarte de todo. Tengo fe absoluta en ti, madre, y en esta morada. Adiós.
+ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|¿Me lo estoy imaginando, madre, o las cosas en la morada están relativamente tranquilas estos últimos tiempos? Aunque sé que estoy provocando a las moiras al decirlo.
+ThanatosWithNyx02|Thanatos With Nyx 02|Nyx|Gracias a los esfuerzos coordinados de todos, la morada efectivamente prospera... por el momento. Aunque solo mientras tú y los demás sigáis trabajando con diligencia. Es una buena ocasión para tomarse un respiro, pero necesito que sigas dándolo todo en tu trabajo, Tánatos.
+ThanatosWithNyx02|Thanatos With Nyx 02|Thanatos|Bien... Has de saber que siempre te estaré agradecido, madre, y que te quiero de todo corazón. ¿Dónde estaríamos ahora si no fuera por ti? Ni yo ni nadie pasamos por alto todo lo que has hecho por nosotros, puedes estar segura.
+ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|… pero eso era antes. Hay que vivir en el ahora, y ahora tenemos trabajo… {#DialogueItalicFormat}Uh{#PreviousFormat}, en fin, Tan... Será mejor que retomemos esta charla en otro momento.
+ThanatosWithMegaera01|Thanatos With Megaera 01|Thanatos|Interrumpes una conversación privada, Zagreo. Márchate.
+ThanatosWithMegaera01|Thanatos With Megaera 01|Megaera|No, que se quede, si es lo que quiere. ¿Qué más da? Técnicamente, se le permite entrar en estas salas. Pero debe saber que ya no es bienvenido.
+ThanatosWithPersephone01|Thanatos With Persephone 01|Thanatos|Reina Perséfone, estamos todos encantados de que hayas regresado. Si hay algo que pueda hacer para facilitar tu adaptación a la morada, solo tienes que pedirlo.
+ThanatosWithPersephone01|Thanatos With Persephone 01|Persephone|¡Gracias, Tánatos! Aceptaré tu oferta si se me ocurre algo. ¡Cómo has crecido! Imagino que te ha tocado cuidar de mi hijo todo este tiempo, ¿no?
+ThanatosWithPersephone01|Thanatos With Persephone 01|Thanatos|Resulta que tu hijo ha sido muy capaz de cuidar de sí mismo, aunque sí que intento apoyarle, por si acaso. Y ahora, si me disculpas, mi reina, alguien me espera en la superficie.
+ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|Te agradezco tu bendición, reina Perséfone. Tu hijo y yo siempre hemos estado muy unidos, pero estas tribulaciones creo que nos han convertido en inseparables.
+ThanatosWithPersephone02|Thanatos With Persephone 02|Persephone|¡La verdad es que es evidente que tiene mejor gusto que yo, Tánatos! Puedo percibir lo trabajador que eres. Cuídate, por favor, y cuidad el uno del otro, ¿de acuerdo?
+ThanatosWithPersephone02|Thanatos With Persephone 02|Thanatos|Como desees, mi reina. Quiero decir... de acuerdo.
+ThanatosHomeChat01|Thanatos Home Chat 01|Thanatos|Perdona, Zagreo, pero tengo que irme. Últimamente no doy abasto. Lástima que no pueda estar en todas partes a la vez.
+ThanatosHomeChat02|Thanatos Home Chat 02|Thanatos|No perdamos el tiempo cotorreando, ¿vale, Zagreo?
+ThanatosHomeChat03|Thanatos Home Chat 03|Thanatos|Tengo trabajo y aquí no pintas nada. Nos vemos.
+ThanatosHomeChat04|Thanatos Home Chat 04|Thanatos|Ni te molestes, Zagreo. Ya me iba.
+ThanatosHomeChat05|Thanatos Home Chat 05|Thanatos|Espero que te lo hayas replanteado, por el bien de los dos.
+ThanatosHomeChat06|Thanatos Home Chat 06|Thanatos|No puedo sacarte del apuro cada vez que estés en peligro.
+ThanatosHomeChat07|Thanatos Home Chat 07|Thanatos|Tengo que decirte que te has metido en un buen aprieto, Zagreo.
+ThanatosHomeChat08|Thanatos Home Chat 08|Thanatos|Espero que sepas lo que haces.
+ThanatosHomeChat09|Thanatos Home Chat 09|Thanatos|Estás perdiendo el tiempo, vete.
+ThanatosHomeChat10|Thanatos Home Chat 10|Thanatos|¿No deberías estar por ahí intentando que te maten?
+ThanatosHomeChat11|Thanatos Home Chat 11|Thanatos|¿Sabes el lío en el que me he metido por tu culpa?
+ThanatosHomeChat12|Thanatos Home Chat 12|Thanatos|Entre nosotros está todo hablado.
+ThanatosHomeChat13|Thanatos Home Chat 13|Thanatos|No me hables. Lárgate.
+ThanatosHomeChat14|Thanatos Home Chat 14|Thanatos|Perdona, pero tengo trabajo.
+ThanatosHomeChat15|Thanatos Home Chat 15|Thanatos|Ahora no, tengo que irme.
+ThanatosHomeChat16|Thanatos Home Chat 16|Thanatos|No sé qué quieres que haga yo.
+ThanatosHomeChat17|Thanatos Home Chat 17|Thanatos|Tengo que ocuparme de mis responsabilidades.
+ThanatosHomeChat18|Thanatos Home Chat 18|Thanatos|Estás en un lío de mil infiernos.
+ThanatosHomeChat19|Thanatos Home Chat 19|Thanatos|Ándate con cuidado.
+ThanatosHomeChat20|Thanatos Home Chat 20|Thanatos|Cuídate.
+ThanatosHomeChat21|Thanatos Home Chat 21|Thanatos|Imagino que nos veremos ahí fuera.
+ThanatosHomeChat22|Thanatos Home Chat 22|Thanatos|Espero que todo esto valga la pena.
+ThanatosHomeChat23|Thanatos Home Chat 23|Thanatos|Nos vemos ahí fuera.
+ThanatosHomeChat24|Thanatos Home Chat 24|Thanatos|Espero que sepas lo que haces.
+ThanatosHomeChat25|Thanatos Home Chat 25|Thanatos|Ahora no puedo charlar, tengo trabajo.
+ThanatosHomeChat26|Thanatos Home Chat 26|Thanatos|Tengo que trabajar. Luego nos vemos.
+ThanatosHomeChat27|Thanatos Home Chat 27|Thanatos|Tu padre me va a despellejar vivo.
+ThanatosHomeChat28|Thanatos Home Chat 28|Thanatos|Estoy en apuros, no te imaginas cuánto...
+ThanatosHomeChat29|Thanatos Home Chat 29|Thanatos|¿En qué me he metido, Zag?
+ThanatosHomeMaxChat01|Thanatos Home Max Chat 01|Thanatos|Me encantaría quedarme a charlar, pero he de irme.
+ThanatosHomeMaxChat02|Thanatos Home Max Chat 02|Thanatos|Zag, ahora mismo estoy desbordado de mortales…
+ThanatosHomeMaxChat03|Thanatos Home Max Chat 03|Thanatos|Nos veremos pronto ahí fuera, ¿de acuerdo?
+ThanatosHomeMaxChat04|Thanatos Home Max Chat 04|Thanatos|Si tardas demasiado en regresar, iré en tu busca.
+ThanatosHomeMaxChat05|Thanatos Home Max Chat 05|Thanatos|Parece que ambos estamos ocupadísimos últimamente.
+ThanatosHomeMaxChat06|Thanatos Home Max Chat 06|Thanatos|Ahora que has regresado, por fin puedo marcharme yo.
+ThanatosHomeMaxChat07|Thanatos Home Max Chat 07|Thanatos|Ya nos pondremos al día en otra ocasión.
+ThanatosHomeMaxChat08|Thanatos Home Max Chat 08|Thanatos|Perdona, Zag, pero he de traer a un puñado de mortales.
+ThanatosHomeMaxChat09|Thanatos Home Max Chat 09|Thanatos|Lo siento, Zag, pero me han avisado para que suba a la superficie.
+ThanatosHomeMaxChat10|Thanatos Home Max Chat 10|Thanatos|Espero que a tu padre le parezca bien todo esto.
+ThanatosHomeMaxChat11|Thanatos Home Max Chat 11|Thanatos|Les dimos una buena a esos miserables, ¿a que sí?
+ThanatosHomeMaxChat12|Thanatos Home Max Chat 12|Thanatos|Me alegro de haberme topado contigo ahí fuera. Y de que escapases.
+ThanatosHomeMaxChat13|Thanatos Home Max Chat 13|Thanatos|Me impresiona que hayas llegado otra vez hasta el final.
+ThanatosHomeMaxChat14|Thanatos Home Max Chat 14|Thanatos|Ha sido un placer cubrirte las espaldas ahí fuera.
+ThanatosHomeMaxChat15|Thanatos Home Max Chat 15|Thanatos|Dicen que te has portado como un campeón ahí fuera.
+ThanatosHomeMaxChat16|Thanatos Home Max Chat 16|Thanatos|Las sombras comentan tus últimas hazañas, Zag.
+ThanatosHomeMaxChat17|Thanatos Home Max Chat 17|Thanatos|Ahora no tengo tiempo para hablar, Zag.
+ThanatosHomeIntermissionChat01|Thanatos Home Intermission Chat 01|Thanatos|No pareces tener prisa, ¿verdad, Zag?
+ThanatosHomeIntermissionChat01|Thanatos Home Intermission Chat 01|Thanatos|Vaya... Parece que algún mortal ha tenido una vida larga y provechosa.
+ThanatosHomeIntermissionChat02|Thanatos Home Intermission Chat 02|Thanatos|¿Te importa que practique mi capacidad de trasladarme distancias cortas con otra persona?
+ThanatosHomeIntermissionChat02|Thanatos Home Intermission Chat 02|Thanatos|Bueno, diría que la prueba ha sido un éxito, ¿verdad?
+ThanatosHomeIntermissionChat03|Thanatos Home Intermission Chat 03|Thanatos|He de marcharme, aunque si quieres hacerme compañía…
+ThanatosHomeIntermissionChat03|Thanatos Home Intermission Chat 03|Thanatos|Lástima que no pueda llevarte a la superficie conmigo, aunque no ha estado tan mal.
+ThanatosHomeIntermissionChat04|Thanatos Home Intermission Chat 04|Thanatos|Ey, vamos a escaparnos un rato, ¿vale?
+ThanatosHomeIntermissionChat04|Thanatos Home Intermission Chat 04|Thanatos|Fiuu. Gracias por la pausa. Ahora, de vuelta al tajo.
+ThanatosHomeIntermissionChat05|Thanatos Home Intermission Chat 05|Thanatos|Iba a tomarme un descanso. ¿Te apetece acompañarme?
+ThanatosHomeIntermissionChat05|Thanatos Home Intermission Chat 05|Thanatos|Me ha encantado charlar. Cuídate, Zag.
+ThanatosHomeIntermissionChat06|Thanatos Home Intermission Chat 06|Thanatos|Será mejor que regreses a tus aposentos, Zagreo.
+ThanatosHomeIntermissionChat06|Thanatos Home Intermission Chat 06|Thanatos|Mmm. Será mejor que retome mis obligaciones.
+ThanatosChatWithMegaera01|Thanatos Chat With Megaera 01|Megaera|Esto es una conversación privada. ¿Nos disculpas, Zag?
+ThanatosChatWithMegaera01|Thanatos Chat With Megaera 01|Thanatos|Nos vemos más tarde ahí fuera, Zagreo.
+ThanatosChatWithMegaera02|Thanatos Chat With Megaera 02|Thanatos|Me pillas poniéndome al día con Megera.
+ThanatosChatWithMegaera02|Thanatos Chat With Megaera 02|Megaera|Justo hablábamos de ti, Zagreo.
+ThanatosChatWithMegaera03|Thanatos Chat With Megaera 03|Megaera|Vaya, pero si es nuestro amigo en común…
+ThanatosChatWithMegaera03|Thanatos Chat With Megaera 03|Thanatos|Disfruta de un momento de paz con nosotros, Zag.
+ThanatosChatWithMegaera04|Thanatos Chat With Megaera 04|Megaera|Estaba charlando con Tánatos, así que si nos disculpas...
+ThanatosChatWithMegaera04|Thanatos Chat With Megaera 04|Thanatos|Hablábamos de cosas del trabajo, Zagreo.
+ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Megaera|Mira quién ha venido, Tan. Zagreo.
+ThanatosChatWithMegaera05|Thanatos Chat With Megaera 05|Thanatos|Intercambiábamos impresiones de nuestros últimos cometidos.
+ThanatosChatWithHypnos01|Thanatos Chat With Hypnos 01|Thanatos|Parece que lo tienes todo bajo control... Buen trabajo, Hipnos.
+ThanatosChatWithHypnos02|Thanatos Chat With Hypnos 02|Thanatos|Ya tendrás tiempo de sobra para dormir cuando acabe tu turno, ¿verdad, hermano?
+ThanatosChatWithHypnos03|Thanatos Chat With Hypnos 03|Thanatos|He oído que tus últimos informes tenían muy buena pinta, Hipnos. Sigue así.
+ThanatosChatWithHypnos04|Thanatos Chat With Hypnos 04|Thanatos|En fin, me alegra hablar contigo, Hipnos.
+ThanatosChatWithHypnos05|Thanatos Chat With Hypnos 05|Thanatos|Esos han sido los últimos recién llegados registrados, pero pronto vendrán más.
+ThanatosChatWithHypnos06|Thanatos Chat With Hypnos 06|Thanatos|Vale, mejor me voy marchando. Cuídate, hermano.
+ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Nyx|Tenemos otra tarea para ti...
+ThanatosChatWithNyx01|Thanatos Chat With Nyx 01|Thanatos|Como desees, madre. Se hará de inmediato.
+ThanatosChatWithNyx02|Thanatos Chat With Nyx 02|Thanatos|Entendido, madre. Comienzo la tarea ahora mismo.
+ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Nyx|Se necesita de nuevo tu talento.
+ThanatosChatWithNyx03|Thanatos Chat With Nyx 03|Thanatos|De acuerdo, madre. Empezaré de inmediato, vuelvo enseguida.
+ThanatosChatWithNyx04|Thanatos Chat With Nyx 04|Thanatos|Te oigo y obedezco, madre. Volveré cuando la tarea esté completada.
+ThanatosChatWithNyx05|Thanatos Chat With Nyx 05|Thanatos|Gracias por pensar en mí para esta tarea. Haré que se cumpla ipso facto.
+ThanatosChatWithNyx06|Thanatos Chat With Nyx 06|Thanatos|La tarea me queda clara, madre. me voy. Se hará tu voluntad.
+ThanatosChatWithHades01|Thanatos Chat With Hades 01|Thanatos|Será como pides, señor. Volveré pronto a informar.
+ThanatosChatWithHades02|Thanatos Chat With Hades 02|Thanatos|Sí, señor. Empiezo ahora mismo y no volveré hasta haber terminado.
+ThanatosChatWithHades03|Thanatos Chat With Hades 03|Thanatos|Si eso es todo, mi señor, emprenderé el camino a la superficie.
+ThanatosChatWithHades04|Thanatos Chat With Hades 04|Thanatos|Entiendo, mi señor. Sé dónde están y los traeré aquí en un abrir y cerrar de ojos.
+ThanatosChatWithHades05|Thanatos Chat With Hades 05|Thanatos|Aprecio tu fe en mí, mi señor. Con tu permiso.
+ThanatosChatWithHades06|Thanatos Chat With Hades 06|Thanatos|Me encargaré de este asunto de inmediato, mi señor. Volveré en breve.
+ThanatosGift01|Thanatos Gift 01|Zagreus|No es gran cosa, pero te he traído un detalle.
+ThanatosGift01|Thanatos Gift 01|Thanatos|¿Quieres que te lo quite de las manos? Bien, pero acepta esto de mi parte y, si te preguntan, estamos en paz. No, mejor aún: no cuentes nada, ¿entendido?
+ThanatosGift02|Thanatos Gift 02|Thanatos|¿Qué, en serio? ¿Qué es eso que me traes, Zagreo? ¿Crees que esto compensa todo el sufrimiento que nos has hecho pasar?
+ThanatosGift02|Thanatos Gift 02|Zagreus|Lo encontré durante una de mis aventuras y pensé que te gustaría, Tan. No le des importancia.
+ThanatosGift03|Thanatos Gift 03|Thanatos|No te molestes con gestos tan vacuos, Zag. Dices que quieres escapar de aquí. Pues céntrate en eso y déjame en paz.
+ThanatosGift03|Thanatos Gift 03|Zagreus|No es un gesto vacuo. Además, si no intentase centrarme, me lo habría bebido yo mismo.
+ThanatosGift04|Thanatos Gift 04|Thanatos|Esto no es buena idea, Zag. Has elegido bando y las cosas han cambiado. Un efímero momento de reflexión no solucionará nada.
+ThanatosGift04|Thanatos Gift 04|Zagreus|Hemos sufrido mucho, Tan, y creo que aún nos queda mucho por sufrir. Considéralo un símbolo de todo lo que nos une.
+ThanatosGift04_B|Thanatos Gift B 04|Thanatos|No sé qué esperas al darme algo así. Si va con segundas, no quiero saberlo.
+ThanatosGift05|Thanatos Gift 05|Thanatos|¿A qué viene tanta generosidad últimamente? Mira, lo guardaré con el resto, si no se te ocurre nada mejor que dármelo a mí.
+ThanatosGift05|Thanatos Gift 05|Zagreus|Pues es una idea. Uno de estos días, o noches, tendremos bastante como para organizar un festín que será la envidia del Olimpo.
+ThanatosGift06|Thanatos Gift 06|Thanatos|No hablas en serio. ¿Hablas en serio? {#DialogueItalicFormat}Eh{#PreviousFormat}, ¿sabes qué? Esta bien. Dámelo y, ahora, cada cual por su camino. Aun así, no sé por qué te molestas.
+ThanatosGift06|Thanatos Gift 06|Zagreus|¿Por qué me molesto? ¿De qué otro modo podría demostrarte mis sentimientos, aparte de regalándote estos frascos de cuando en cuando?
+ThanatosGift07_A|Thanatos Gift A 07|Zagreus|Oye, Tan. Por todas las veces que me has salvado el pellejo y que me has apoyado… me gustaría darte esto. El brebaje sublime.
+ThanatosGift07_A|Thanatos Gift A 07|Thanatos|¡Ambrosía! Zagreo, ¿de dónde...? ¿No te parece excesivo?
+ThanatosGift07_A|Thanatos Gift A 07|Zagreus|Lo dices como si eso fuera malo. Algún exceso de vez en cuando no le hace daño a nadie, me parece a mí.
+ThanatosGift07_A|Thanatos Gift A 07|Thanatos|{#DialogueItalicFormat}Oh{#PreviousFormat}, te sorprenderías. Aunque si tu intención es sacarme los colores, que sepas que yo voy a hacer lo mismo. ¡{#DialogueItalicFormat}Mira{#PreviousFormat}!
+ThanatosGift08|Thanatos Gift 08|Zagreus|Para ti, Tánatos. Puede que los olímpicos estén acostumbrados a eso pero me parece que deberíamos probarlo también por aquí abajo, o al menos tú.
+ThanatosGift08|Thanatos Gift 08|Thanatos|¿Sabes? Los olímpicos tienen buen gusto en ocasiones. La última botella que me diste era... mejor de lo que esperaba. Aunque por poco ni la pruebo.
+ThanatosGift08|Thanatos Gift 08|Zagreus|¡Pero lo hiciste al final! Y ahora podrás probar esta para comparar. Se supone que todas saben distinto, por si no lo sabías.
+ThanatosGift08|Thanatos Gift 08|Thanatos|Diferente... uhmm... Pues supongo que tendré que comprobarlo por mí mismo. Gracias, Zag, no tenías por qué hacerlo.
+ThanatosGift09|Thanatos Gift 09|Zagreus|Espero que te apetezca un poco más del líquido sublime, porque te traigo más. Y no pienso aceptar un {#DialogueItalicFormat}«Bah, ¿qué tienes ahí, Zag?» {#PreviousFormat}por respuesta.
+ThanatosGift09|Thanatos Gift 09|Thanatos|Pero... ¿qué tienes ahí? Venga ya, Zagreo, ¿acaso me tomas el pelo? ¿Cómo has conseguido más de esto? ¿Y, para colmo, me lo regalas?
+ThanatosGift09|Thanatos Gift 09|Zagreus|A lo primero, no, lo hago por molestarte; y a lo segundo; pues saqueando el reino de mi padre sin tregua. Y lo hago porque te estimo, por si aún te queda algún atisbo de duda.
+ThanatosGift09|Thanatos Gift 09|Thanatos|¿Me {#DialogueItalicFormat}estimas{#PreviousFormat}, Zagreo? Nunca pensé... No sé por qué suena tan extraño eso, viniendo de ti. Con todo lo que ha pasado últimamente.
+ThanatosGift09|Thanatos Gift 09|Zagreus|Ya. Mira, si no piensas lo mismo de mí a estas alturas, preferiría saberlo para dejar estos empalagosos intercambios de regalos.
+ThanatosGift09|Thanatos Gift 09|Thanatos|No he dicho nada por el estilo. ¿Sabes qué? Tengo que… recoger a un puñado de mortales. A más ver.
+ThanatosGift10|Thanatos Gift 10|Zagreus|Tánatos, te pido perdón por la última vez que te abordé con un frasco del líquido sublime. Quisiera que me dieras otra oportunidad. ¿Te parece bien?
+ThanatosGift10|Thanatos Gift 10|Thanatos|{#DialogueItalicFormat}Mmm{#PreviousFormat}. ¿Me pides permiso para darme otro regalo esplendoroso? Por supuesto. Concedido. Sin embargo, ¿qué te hace pensar que en esta ocasión tendrás más éxito que la última vez?
+ThanatosGift10|Thanatos Gift 10|Zagreus|Eso no lo sé. Nunca sé a qué atenerme contigo, pero sí sé lo que siento. Y prefiero ser sincero contigo, aunque ponga en riesgo nuestra relación, tal como están las cosas.
+ThanatosGift10|Thanatos Gift 10|Thanatos|¿Nuestra "relación"? No hace mucho, estabas dispuesto a tirarlo todo por la borda para alcanzar la superficie, no sé si te acuerdas. Y ahora dices que me tienes cariño y… ¿exactamente qué más, Zagreo?
+ThanatosGift10|Thanatos Gift 10|Zagreus|Sí, eso mismo digo, Tan. No debí marcharme de esa manera, sin decirte nada. Pero, cuando me encontraste, creo que ahí fue cuando… cuando lo supe. O empecé a darme cuenta, ¿entiendes?
+ThanatosGift10|Thanatos Gift 10|Thanatos|Pues… sí. Creo que lo entiendo, porque… cuando supe de tu partida, la ira se apoderó de mí, inesperadamente. En fin, ¿qué hacemos ahora?
+ThanatosGift10|Thanatos Gift 10|Zagreus|¿Quizá será mejor que vayamos con calma? A diferencia de los mortales, el tiempo es algo que nos sobra. Quiero que sepas que… si sientes lo mismo que yo… ya sabes dónde encontrarme. Y si no… te estoy agradecido de todas formas.
+ThanatosGift10|Thanatos Gift 10|Thanatos|Entiendo. En fin, lo mejor que puedo decir ahora es que también te estoy agradecido… por esto. Cuídate, Zag.
+ThanatosGift07|Thanatos Gift 07|Thanatos|Lo reconozco, Zag: te estás dejando la piel para que te perdone por todo lo que has hecho. De verdad que me sorprendes.
+ThanatosGift07|Thanatos Gift 07|Zagreus|No te sorprendas. Ese ágape nuestro será inolvidable, Tan.
+ThanatosFirstAppearance|Thanatos First Appearance|Thanatos|No creerías que podías huir de mí, ¿verdad?
+ThanatosFirstAppearance|Thanatos First Appearance|Zagreus|Tánatos. Sabía que era cuestión de tiempo antes de que mi padre te enviara a hacerle el trabajo sucio.
+ThanatosFirstAppearance|Thanatos First Appearance|Thanatos|Zagreo, ¿de verdad crees que es por eso por lo que estoy aquí? A ver cuántos de estos campeones excelsos puedes devolver al infierno... a no ser que prefieras que yo te devuelva a casa.
+ThanatosFieldAboutHermes01|Thanatos Field About Hermes 01|Thanatos|Ha sido difícil seguirte el ritmo, Zag. Supongo que Hermes te habrá echado una mano.
+ThanatosFieldAboutKeepsake01|Thanatos Field About Keepsake 01|Thanatos|Tienes la mariposa que te di. Entonces no te muevas, te fortalecerá una vez que acabe con esto.
+ThanatosFieldAboutLegendary02|Thanatos Field About Legendary 02|Thanatos|Así que llevas a Mort. Vale, parece pues que esta vez no hace falta que me invoques.
+ThanatosFieldRunCleared01|Thanatos Field Run Cleared 01|Thanatos|Has vuelto. Creía que habías logrado escapar. Es igual.
+ThanatosFieldPostEnding01|Thanatos Field Post Ending 01|Thanatos|Me alegra trabajar contigo de forma más oficial, Zag. ¿Empezamos?
+ThanatosMiscIntro01|Thanatos Misc Intro 01|Thanatos|Sabía que te encontraría por aquí. Aunque, sinceramente, me sorprende que sigas con vida.
+ThanatosMiscIntro01|Thanatos Misc Intro 01|Zagreus|Sé defenderme yo solito, por si no te habías dado cuenta.
+ThanatosMiscIntro01|Thanatos Misc Intro 01|Thanatos|Pues no me había fijado, Zag. Ahora échate a un lado y aprende del maestro.
+ThanatosMiscIntro02|Thanatos Misc Intro 02|Thanatos|Veo que no te rindes. Qué tozudo que eres. Me vas a meter en un buen lío antes de que todo esto acabe.
+ThanatosMiscStartRepeatable01|Thanatos Misc Start Repeatable 01|Thanatos|¿Echamos otro mano a mano, Zagreo?
+ThanatosMiscStartRepeatable02|Thanatos Misc Start Repeatable 02|Thanatos|Ya charlaremos en otra ocasión, aunque me alegro de verte.
+ThanatosMiscStartRepeatable03|Thanatos Misc Start Repeatable 03|Thanatos|Tengo la impresión de que no vamos a tardar mucho.
+ThanatosMiscStartRepeatable04|Thanatos Misc Start Repeatable 04|Thanatos|Dispongo de poco tiempo hasta mi próximo encargo, pero no deberíamos tardar mucho.
+ThanatosMiscStartRepeatable05|Thanatos Misc Start Repeatable 05|Thanatos|Me apetecía hacerte una visita en este rincón del Inframundo.
+ThanatosMiscStartRepeatable06|Thanatos Misc Start Repeatable 06|Thanatos|Has llegado muy lejos. Habrá que ayudarte con el empujón final, Zag.
+ThanatosMiscStartRepeatable07|Thanatos Misc Start Repeatable 07|Thanatos|Me han dicho que tenía que ocuparme de un asunto por aquí.
+ThanatosMiscStartRepeatable08|Thanatos Misc Start Repeatable 08|Thanatos|Tenía el presentimiento de que te encontraría aquí y solo.
+ThanatosMiscStartRepeatable09|Thanatos Misc Start Repeatable 09|Thanatos|¿Te echas a un lado y aprendes del maestro, Zag?
+ThanatosMiscStartRepeatable10|Thanatos Misc Start Repeatable 10|Thanatos|Que quede entre nosotros, Zagreo. ¡Lucha!
+ThanatosMiscStartRepeatable11|Thanatos Misc Start Repeatable 11|Thanatos|Al parecer, tenemos un problema laboral urgente entre manos.
+ThanatosMiscStartRepeatable12|Thanatos Misc Start Repeatable 12|Thanatos|¿Las fuerzas de tu padre te lo ponen difícil, Zag?
+ThanatosMiscStartRepeatable13|Thanatos Misc Start Repeatable 13|Thanatos|Ni una palabra de esto a nadie de la casa, ¿me oyes, Zagreo?
+ThanatosMiscStartRepeatable14|Thanatos Misc Start Repeatable 14|Thanatos|He oído que tenía que sacarte de otra situación desastrosa.
+ThanatosMiscStartRepeatable15|Thanatos Misc Start Repeatable 15|Thanatos|Luego hablamos. Ahora, vamos a encargarnos de estos miserables.
+ThanatosMiscStartRepeatable16|Thanatos Misc Start Repeatable 16|Thanatos|Espero que no te importe que interceda, Zagreo.
+ThanatosMiscStartRepeatable17|Thanatos Misc Start Repeatable 17|Thanatos|¿Qué te parece si despachamos a estos como teníamos por costumbre?
+ThanatosMiscStartRepeatable18|Thanatos Misc Start Repeatable 18|Thanatos|No puedo quedarme mucho. ¿Acabamos rápido con esto?
+ThanatosMiscStartRepeatable19|Thanatos Misc Start Repeatable 19|Thanatos|He pensado que igual te apetecía otro mano a mano. Venga, al ataque.
+ThanatosMiscStartRepeatable20|Thanatos Misc Start Repeatable 20|Thanatos|¿Y si traemos algo de muerte juntos, Zagreo?
+ThanatosMiscStartRepeatable21|Thanatos Misc Start Repeatable 21|Thanatos|No tengo mucho tiempo, pero a ver si puedo echarte una mano.
+ThanatosMiscStartRepeatable22|Thanatos Misc Start Repeatable 22|Thanatos|Recuerda: ni una palabra a nadie. Al ataque.
+ThanatosMiscStartRepeatable23|Thanatos Misc Start Repeatable 23|Thanatos|Creo que podría echarte una mano.
+ThanatosMiscStartRepeatable24|Thanatos Misc Start Repeatable 24|Thanatos|A ver quién es mejor, Zagreo.
+ThanatosMiscStartRepeatable25|Thanatos Misc Start Repeatable 25|Thanatos|Tengo la sensación de que te vendría bien algo de apoyo.
+ThanatosMiscStartRepeatable26|Thanatos Misc Start Repeatable 26|Thanatos|Manos a la obra.
+ThanatosMiscStart14|Thanatos Misc Start 14|Thanatos|Bien, al menos no llego tarde. Vine tan rápido como pude.
+ThanatosMiscStart15|Thanatos Misc Start 15|Thanatos|Recibí un mensaje sobre que necesitas ayuda, Zagreo.
+ThanatosFieldFirstMeeting|Thanatos Field First Meeting|Thanatos|Te marchaste y ni siquiera te despediste. Supongo que sabías que te encontraría tarde o temprano, ¿verdad? ¿Habías oído eso de que "nadie escapa a la muerte"?
+ThanatosFieldFirstMeeting|Thanatos Field First Meeting|Zagreus|Me marché cuando era necesario. Albergaba la esperanza de que entendieras que tengo que hacer esto.
+ThanatosFieldFirstMeeting|Thanatos Field First Meeting|Thanatos|Jamás te había visto tan motivado. Bueno, si no lo dices tú, lo digo yo. Con los dioses, Zagreo.
+ThanatosFieldMiscMeeting01|Thanatos Field Misc Meeting 01|Thanatos|Tengo que reconocerlo, Zag: es fácil seguirte el rastro. Las sombras del Tártaro empiezan a temerte más que a tu padre.
+ThanatosFieldMiscMeeting01|Thanatos Field Misc Meeting 01|Zagreus|Oh, no me tendrán miedo cuando me conozcan.
+ThanatosFieldMiscMeeting01|Thanatos Field Misc Meeting 01|Thanatos|No estoy tan seguro. Hasta yo empiezo a temerte. Parece que no te conozco tan bien como creía.
+ThanatosFieldMiscMeeting02|Thanatos Field Misc Meeting 02|Thanatos|¿A qué viene esa cara? Estabas desbordado y ahora no, gracias a mí… Bah, me lo agradeceré yo mismo, ya que tú eres un orgulloso.
+ThanatosFieldMiscMeeting03|Thanatos Field Misc Meeting 03|Thanatos|Te he visto un poco flojo, ¿no? Y ni siquiera estás cerca de la superficie todavía.
+ThanatosFieldMiscMeeting03|Thanatos Field Misc Meeting 03|Zagreus|Gracias por el voto de confianza, Tan.
+ThanatosFieldMiscMeeting03|Thanatos Field Misc Meeting 03|Thanatos|No hay de qué. Será mejor que me vaya, antes de que Hades se huela algo.
+ThanatosFieldMiscMeeting05|Thanatos Field Misc Meeting 05|Zagreus|Te he dicho que no necesito tu ayuda, Tánatos.
+ThanatosFieldMiscMeeting05|Thanatos Field Misc Meeting 05|Thanatos|Ni yo te la he ofrecido. Pasaba por aquí, nada más. Tú a lo tuyo, Zagreo.
+ThanatosFieldBackstory01|Thanatos Field Backstory 01|Thanatos|Sigues huyendo de ti mismo, por lo que veo. ¿Cómo te ha ido hasta ahora?
+ThanatosFieldBackstory01|Thanatos Field Backstory 01|Zagreus|Busco a mi madre. Como tú tienes a la tuya en casa, no sabes lo que se siente.
+ThanatosFieldBackstory01|Thanatos Field Backstory 01|Thanatos|Nicte se ha portado como una madre contigo, ¿y así se lo agradeces? Deberías sentirte avergonzado. Necesitas aprender lo que es la humildad.
+ThanatosFieldBackstory02|Thanatos Field Backstory 02|Thanatos|Escúchame. No sé de qué otra manera decírtelo, así que seré directo: quiero que vuelvas a la morada. Por voluntad propia. Ya no eres el único que se ha visto arrastrado a este despropósito. Sé que no querías que me involucrase, pero... ¿qué esperabas?
+ThanatosFieldBackstory02|Thanatos Field Backstory 02|Zagreus|Tan, la morada jamás volverá a ser la misma para mí... Es inútil fingir más. Tengo que marcharme.
+ThanatosFieldBackstory02|Thanatos Field Backstory 02|Thanatos|No {#DialogueItalicFormat}tienes {#PreviousFormat}que hacer nada de esto. No alcanzas a comprender la buena vida que has tenido aquí. Tal vez lo entiendas algún día.
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|Otra vez me has superado, ¿eh? {#DialogueItalicFormat}Tss{#PreviousFormat}. Reconozco que no luchas tan mal como esperaba. La primera vez que te vi, estaba convencido de que no tenías ninguna opción.
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Zagreus|Por lo visto, resulta fácil subestimarme, a tenor de la opinión de un buen número de parientes míos. En cualquier caso, siempre agradezco que aparezcas por aquí. Sé que no lo has tenido fácil.
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|Me parece una valoración justa. Sin embargo, nunca lo he tenido fácil. Sé que he de cumplir mi cometido, pero no tengo obligación de seguir ayudándote así.
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Zagreus|¿Qué? ¿Insinúas que esto se acabó? ¿Pretendes abandonarme a mi suerte ahora que te he demostrado mi valía? ¿Es eso?
+ThanatosFieldBuildingTrust01|Thanatos Field Building Trust 01|Thanatos|No, alcornoque. ¡Insinúo todo lo contrario! ¿Por qué crees que sigo apareciendo? Puede que, en realidad, no me necesites, Zagreo, pero aprovecho estas oportunidades para ayudar. Supongo que no te importa.
+ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Thanatos|Me alegro de que el pequeño Mort te acompañe en uno de tus paseos. Así me resulta más sencillo tenerte vigilado.
+ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Zagreus|Me ha sido de gran utilidad. Me parece increíble que lo encontrases después de tanto tiempo. Lo llevabas a todas partes y me apené mucho cuando se perdió.
+ThanatosFieldAboutLegendary01|Thanatos Field About Legendary 01|Thanatos|Y a mí me parece increíble que lo recuerdes. En cualquier caso, no volverá a perderse bajo tu custodia, ¿verdad?
+ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Zagreus|En cuanto a la última conversación que tuvimos... Te aprecio, Tánatos. Muchísimo. Aunque me preguntaste qué eras para mí... ¿Cómo se supone que debo responder a eso?
+ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Thanatos|{#DialogueItalicFormat}Pues{#PreviousFormat}... no sé. A veces echo de menos no sentir nada. Nunca puedes fiarte de lo que te dicen los sentimientos. Me puse a pensar en si éramos solo amigos o... Vaya, esto es muy embarazoso.
+ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Zagreus|Es curioso que hablar de sentimientos nos cueste más que aniquilar a las huestes de padre... pero yo también me he estado preguntando lo mismo, por si te sirve de consuelo.
+ThanatosFieldAboutRelationship01|Thanatos Field About Relationship 01|Thanatos|Bueno, pues si hallas la respuesta, avísame. Me alegro de verte.
+ThanatosFieldAboutSingersReunionQuestComplete01|Thanatos Field About Singers Reunion Quest Complete 01|Thanatos|Oye, no pretendía hacerte sentir mal por lo que hiciste con Orfeo, Zag. Tan solo me preocupa que, cuando nos metemos en asuntos de otros, a veces empeoramos las cosas.
+ThanatosFieldAboutSingersReunionQuestComplete01|Thanatos Field About Singers Reunion Quest Complete 01|Zagreus|Nunca has hecho que nada empeore, Tan, pero por lo que a mí respecta, entendí a lo que te referías. Tenía tantas ganas de hacer algo por Orfeo cuando conocí a Eurídice que no les pregunté si querían mi ayuda.
+ThanatosFieldAboutSingersReunionQuestComplete01|Thanatos Field About Singers Reunion Quest Complete 01|Thanatos|Al menos parece que todo ha salido bien, pero fue un golpe de suerte. Los problemas familiares, las relaciones personales y ese tipo de cosas son asuntos delicados. Pero no soy el mejor ejemplo, a mí no me pediste que apareciese así.
+ThanatosFieldBecameCloseBackOffAftermath01|Thanatos Field Became Close Back Off Aftermath 01|Zagreus|Oye, Tan, ¿estás bien? ¿Algún problema reciente?
+ThanatosFieldBecameCloseBackOffAftermath01|Thanatos Field Became Close Back Off Aftermath 01|Thanatos|Estoy bien, pero gracias por preguntar, Zag. El riesgo de abrirle tu corazón a alguien es que a veces las cosas se complican, y rápido. De acuerdo que no es un riesgo que suela asumir, pero en tu caso merece la pena, sin duda. Estamos bien, ¿no?
+ThanatosFieldAboutPersephoneFirstMeeting01|Thanatos Field About Persephone First Meeting 01|Thanatos|¿Qué haces aquí de nuevo, Zag? Pero si habías conseguido escapar.
+ThanatosFieldAboutPersephoneFirstMeeting01|Thanatos Field About Persephone First Meeting 01|Zagreus|Así es... pero tuve que volver. Y no por voluntad propia, exactamente. Subiré ahí arriba de visita ocasional, pero parece que me toca seguir viviendo aquí.
+ThanatosFieldAboutPersephoneFirstMeeting01|Thanatos Field About Persephone First Meeting 01|Thanatos|¿"De visita ocasional"? No lo entiendo.
+ThanatosFieldAboutPersephoneFirstMeeting01|Thanatos Field About Persephone First Meeting 01|Zagreus|Es mi madre... ¡Está viva y está bien! Solo que no puedo quedarme allí arriba con ella durante mucho tiempo. Así que tendremos que ponernos al día... de visita en visita.
+ThanatosFieldAboutPersephoneFirstMeeting01|Thanatos Field About Persephone First Meeting 01|Thanatos|Ya veo. Bien, me alegro porque... quiere decir que no tendré que buscarte por allí arriba. Entre tú y yo, no soporto mucho estar por ahí.

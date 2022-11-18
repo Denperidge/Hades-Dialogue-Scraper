@@ -1,0 +1,777 @@
+Id|Description|Speaker|Text
+Ending01|Ending 01|Persephone|……打理这座花园费了我很多日子，抑或是夜晚？毕竟在这里很难辨明时辰。然而，如我所料，它可能无法再继续留存了……
+Ending01|Ending 01|Hades|……珀尔塞福涅……我……
+Ending01|Ending 01|Persephone|刻耳柏洛斯！我真想念你。永远这么尽责，是不是。
+Ending01|Ending 01|Hades|……对不起。我真诚地道歉。
+Ending01|Ending 01|Persephone|哈迪斯……你看上去很疲惫。 但是，你不能只向我一人道歉。
+Ending01|Ending 01|Hades|我知道，我知道。我……你怎么回来了？如果让众神 …… 让你母亲知道了，那后果，即使是宙斯——即使是{#DialogueItalicFormat}他{#PreviousFormat}也拦不住啊！
+Ending01|Ending 01|Persephone|噢，我想我有几个应对方案。但为了解决这个问题，我需要你和扎格列欧斯的协助。或者……我就这么原路返回更合你的意？
+Ending01|Ending 01|Hades|应对方案？什么，你还想把他们请过来喝一杯{#DialogueItalicFormat}仙馔密酒{#PreviousFormat}？即便是你也无法修复分崩离析的家庭关系，珀尔塞福涅。
+Ending01|Ending 01|Persephone|你说得对，哈迪斯！我做不到。只靠我自己肯定做不到。那，你愿意帮我吗？
+Ending01|Ending 01|Hades|……只要你开口，我愿意为你做任何事。
+Ending01|Ending 01|Persephone|那么首先，和你的儿子聊聊。
+Ending01|Ending 01|Hades|……嗯。扎格列欧斯？见过我们的冥后，珀尔塞福涅。我希望你对她表现恭敬，无论何时！
+Ending01|Ending 01|Zagreus|哇哦，父亲大人，您称呼了我的名字！我现在这种受宠若惊的奇怪感觉是怎么回事？说不定这就是您说的恭敬？
+Ending01|Ending 01|Persephone|噢，你们两个，别这样。别让我后悔回来，哈迪斯。跟他说真心话，谈谈你自己，不是谈我。说吧。
+Ending01|Ending 01|Hades|好吧。我……扎格列欧斯。我知道之前有一段时间……我总是迁怒于你。我不够耐心。而且我也经常质疑你的判断，哪怕明明是我自己考虑得不够周全。因此，我向你道歉，我的儿子。我难辞其咎，并不奢求你的原谅。
+Ending01|Ending 01|Zagreus|关于母亲的事你向我撒了谎，你会为此道歉吗？你的那些臭脾气，还总是冲我发泄……我已经忍受够久的了，为此我真的恨你。但我本来一直以为……你没对我撒谎。
+Ending01|Ending 01|Hades|我第一次遇见你母亲的时候，她并不是自愿来冥府的。她离开的时候……她以为你是死胎……所以她心意已决。我曾认为我们，包括奥林匹斯神，都是她的负担。欺骗了你们俩一直使我心如刀割，但我别无他法。
+Ending01|Ending 01|Zagreus|那你也不必从我出生起就把那种自责向外发泄到我身上吧。不过，我想我现在理解了。我只是希望我能早点理解这一切。好了，呃……现在怎么办？我已经完全习惯把你的领地搅个底朝天了，今后我肯定会怀念这种感觉的。
+Ending01|Ending 01|Hades|关于这件事……你的胡闹暴露出我们的安保系统里有很多漏洞，这些漏洞以前从没被报告上来。我们的宗旨是从此处无路可逃，所以……你能不能继续试着逃出去。不是因为我，而是为了这片冥界。为了冥后。
+Ending01|Ending 01|Persephone|扎格列欧斯……如果你继续战斗的话……就能使一切看上去和往常一样。
+Ending01|Ending 01|Zagreus|我有一个问题，父亲大人。假如我同意了，那下次我到达地面世界的时候……还会是你在那儿等着我吗？
+Ending01|Ending 01|Hades|啊，孩子。如果因为我们和解了你就有一瞬间以为我会放你一马，你很快就会吃到苦头。
+Ending01|Ending 01|Zagreus|所以我得一路杀到地面然后不断地杀了我的亲生父亲？
+Ending01|Ending 01|Hades|你只说对了一半！
+Ending01|Ending 01|Persephone|也许你还可以打理一下我的小园子？照料花园不需要占用你很多精力。我是说万一我没法在这逗留很久的话。
+Ending01|Ending 01|Zagreus|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，好吧！我会去看看我能做些什么。
+Ending01|Ending 01|Persephone|做你力所能及的事就好。而且，我也有工作要做。前路漫漫啊，我想。那么，我们现在开始吧？
+Ending01|Ending 01|Zagreus|{#DialogueItalicFormat}终于尘埃落定了{#PreviousFormat}，这不过是短短几天的事情！不过一切都很好。母亲和父亲重新团聚，我结识了一些新朋友，还弄到了这幅漂亮的画！真简单，在冥界一切都是那么美好！
+LordHadesAboutPersephoneMeeting01|Lord Hades About Persephone Meeting 01|Hades|你现在应该明白了，就算你能打败我，过不了多久，你也只有死路一条，就算这样，你也要反抗！真是毫无意义。
+LordHadesAboutPersephoneMeeting01|Lord Hades About Persephone Meeting 01|Zagreus|我找到她了，父亲。我打算继续去找我的母亲，一次又一次地去找她，直到我得到某些答案为止。她有些问题也想知道答案，比如说{#DialogueItalicFormat}你为什么从来没告诉过她我还活着{#PreviousFormat}？是你放走了她，任由她沉湎在悲伤之中！
+LordHadesAboutPersephoneMeeting01|Lord Hades About Persephone Meeting 01|Hades|给我住口，孩子！你的无知和毫无根据的指责，还是省省为好。我要求你不要对你无法理解的事情插嘴，但你似乎没办法理解我的意思。既然如此，我就不和你费什么口舌了，来打吧！
+LordHadesAboutPersephoneMeeting02|Lord Hades About Persephone Meeting 02|Hades|你根本就不该活在世上，倪克斯花了所有的力量，才避开了这不可避免的结果。如今你想死也死不了，这就是命运三女神荒诞的玩笑。
+LordHadesAboutPersephoneMeeting02|Lord Hades About Persephone Meeting 02|Zagreus|是倪克斯救了我一命……所以根据命运女神的安排，我从一开始就不该生出来，因为你和我母亲都不是在冥界出生的，是因为这样的事情吗？还是说，这只是你对母亲和其他人撒的另一个谎？
+LordHadesAboutPersephoneMeeting02|Lord Hades About Persephone Meeting 02|Hades|{#DialogueItalicFormat}啧！{#PreviousFormat}你以为一切都是谎言。我们脚下的这个王国，是出于某些条件才由我管理的，在这点上我也没什么选择的余地。其中一个条件就是：像我这样曾经住在地上世界的人，是不可以有后代的。
+LordHadesAboutPersephoneMeeting02|Lord Hades About Persephone Meeting 02|Zagreus|你真的相信那些话吗？那你为什么还想要有个孩子呢？
+LordHadesAboutPersephoneMeeting02|Lord Hades About Persephone Meeting 02|Hades|你什么都不知道！为什么会有人给我生个孩子，我自己也不知道是怎么回事。命运女神说，我是不会有孩子的。或许{#DialogueItalicFormat}这{#PreviousFormat}才是她们的意图。
+LordHadesAboutPersephoneMeeting05|Lord Hades About Persephone Meeting 05|Hades|想想看，整个奥林匹斯山都在帮你。你肯定很感激他们的协助吧，要是没了他们，你是不可能走到这一步的。
+LordHadesAboutPersephoneMeeting05|Lord Hades About Persephone Meeting 05|Zagreus|是啊。关于这一点，父亲，你……你是故意让母亲走的吗，因为你担心奥林匹斯众神会发现这一点？如果……他们发现的话，恐怕不会有什么好脸色给你看，是吗？
+LordHadesAboutPersephoneMeeting05|Lord Hades About Persephone Meeting 05|Hades|{#DialogueItalicFormat}啧，{#PreviousFormat}你这么到处胡闹，而他们还没有发现真相，你真该心怀感激。奥林匹斯的众神可不像你想的那样。你扪心自问，她为什么要离开奥林匹斯山，是怎么离开的？或者说，你干脆去问{#DialogueItalicFormat}她{#PreviousFormat}好了。
+LordHadesAboutPersephoneMeeting05|Lord Hades About Persephone Meeting 05|Zagreus|这么说吧，她看起来是个很可爱的人，所以说……她认识了你，说不定你骗她和你签署了什么协议，让她来到冥界。既然奥林匹斯众神不允许你留在那里，那他们怎么从来没找过你呢？
+LordHadesAboutPersephoneMeeting05|Lord Hades About Persephone Meeting 05|Hades|{#DialogueItalicFormat}哈{#PreviousFormat}！你猜得和真相还真差不多。是我拐走了她，孩子！是我把她硬带到这里了，这就是你想听到的答案吗？这个答案让你愤怒吗？那就带着你的愤怒来吧！
+LordHadesAboutPersephoneMeeting06|Lord Hades About Persephone Meeting 06|Hades|所以，孩子，你问过她了吗？问过她是怎么来到冥界的了吗？她的答案证实了你的猜测吗？
+LordHadesAboutPersephoneMeeting06|Lord Hades About Persephone Meeting 06|Zagreus|很显然，并不是你把她拐到冥界的。虽然你不会告诉我是谁把她弄过来的，不过我也猜得到。你的兄弟们打算永远统治奥林匹斯山，而你却被送到了冥界。所以他们打算给你个安慰……是这么回事吧？
+LordHadesAboutPersephoneMeeting06|Lord Hades About Persephone Meeting 06|Hades|你一直都是这么马马虎虎。明明几乎一无所知，却口口声声地指控别人。波塞冬和这件事情一点关系都没有！他知道的内情甚至还没有你多。如果你还珍惜她，或者珍惜你自己，那你最好别再管这件事情，赶紧回去！
+LordHadesAboutPersephoneMeeting07|Lord Hades About Persephone Meeting 07|Hades|……她是皇后，冥界的皇后！我的皇后，是能引起别人尊重、敬畏与恐惧的人。她可不仅仅是什么……你刚刚说的那个词是什么来着？{#DialogueItalicFormat}安慰{#PreviousFormat}？你对她真是太不尊重了，就像对我一样不尊重。
+LordHadesAboutPersephoneMeeting07|Lord Hades About Persephone Meeting 07|Zagreus|哦，你现在知道尊重了？！你口口声声说尊重她，可她离开之后，你甚至连这里发生了什么事情都不告诉她，还敢说什么尊重！不过……话说回来……我知道你还爱着她，父亲。这最好能解释得通你怎么会做出那么多糟糕的抉择。
+LordHadesAboutPersephoneMeeting07|Lord Hades About Persephone Meeting 07|Hades|……我做了那么多糟糕的抉择。我只希望等你活到像我这么大的时候，你做出的糟糕抉择能比我少一些。不过我觉得，至少搞砸事情这方面，你比我更厉害。
+LordHadesBeforePersephoneReturn01|Lord Hades Before Persephone Return 01|Hades|……为了阻止这一切，我真的已经竭尽全力了，可这一切都……毫无意义。命运女神把我丢到地底还不满足，她们还要嘲笑我。
+LordHadesBeforePersephoneReturn01|Lord Hades Before Persephone Return 01|Zagreus|或许她们只是觉得你做错了，觉得你是个顽固、霸道、悲惨的父亲与丈夫。我正在努力解决你造成的问题，你难道不明白吗？这都是因为你不愿意自己解决那些问题。
+LordHadesBeforePersephoneReturn01|Lord Hades Before Persephone Return 01|Hades|你说得没错，我确实不愿意，这一切都是我造成的。我很爱她，真的，我爱她爱得发疯，可现在……看起来，我不过是在拖延不可避免的事情罢了。去吧，去找她吧。可要是有人敢伤害她的话……我一定会让那个人尝到我最恐怖的怒火……就连你也不例外。
+LordHadesBeforePersephoneReturn01|Lord Hades Before Persephone Return 01|Zagreus|什么？你就打算这么让我走了吗？你该不会只是害怕又败在我手上一次吧？你是认真的吗？
+LordHadesPostEnding01|Lord Hades Post Ending 01|Hades|{#DialogueItalicFormat}呵，{#PreviousFormat}像这样站在你面前……感觉已经不一样了。不过……这是我的职责，这一点没有变。没人能从我的王国逃脱，我必须亲自确认这一点才行。
+LordHadesPostEnding01|Lord Hades Post Ending 01|Zagreus|就是这个态度，父亲！对我来说，我得承认，我们在这里的互动让我感觉耳目一新，特别是我的武器与你的身体之间的互动。你的身体很结实，但想击中你实在是太容易了。
+LordHadesPostEnding01|Lord Hades Post Ending 01|Hades|而你虽然骨瘦如柴，却很敏捷，你这个小混蛋。你笑着说出的那些话后面，压抑的那些愤怒……来吧，再把它释放出来吧。我希望你能全力以赴，至死方休！
+LordHadesExtremeMeasures01|Lord Hades Extreme Measures 01|Hades|我刚刚在看你的惩罚契约上面的条款。就算我的仆人们采取了极端措施条款，他们也依然不是你的对手。所以，只能我亲自出马了。
+LordHadesExtremeMeasures01|Lord Hades Extreme Measures 01|Zagreus|上次被我打了个措手不及，是吧？见过忒修斯和他的马其顿号之后，我或多或少以为，你会乘着由黑色战马拉的金色战车，或是类似的东西四处游荡，可你什么都没乘。
+LordHadesExtremeMeasures01|Lord Hades Extreme Measures 01|Hades|是啊，确实是我的错觉。不过……那应该已经超出必要程度了。这次我不会留情了，扎格列欧斯。你准备好了吗？
+LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Hades|你对我的远古武器做了什么，孩子？我能从你孱弱的手中感受到了瓦拉塔的形态，但是……你似乎唤醒了它某种华而不实的力量，是不是？
+LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Zagreus|噢，只是适时地吸收了一点泰坦之血罢了。看来你也不是很了解你口中的远古武器啊，不过咱们闲话少说，开打吧？
+LordHadesHasGuanYuAspect01|Lord Hades Has Guan Yu Aspect 01|Hades|很好，废话少说。吉加罗斯要更加强大，它没什么悲惨的过去，也不需要那些花哨的变形来获得力量。接招吧！
+LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|我从来没正眼瞧过斯第格思，也就是你手里那把剑。或许这并不公平，可能是因为波塞冬用它的时候，它的样子实在是太臃肿了吧。不过到了你手上，它已经大不一样了。
+LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Zagreus|我觉得我们之间已经有了足够的羁绊，足以让我发现这把利刃的另一面。这就是某个叫亚瑟的形态！或许你们两个可以好好认识一下？
+LordHadesHasArthurAspect01|Lord Hades Has Arthur Aspect 01|Hades|{#DialogueItalicFormat}亚瑟！{#PreviousFormat}我听说过的神明或帝王之中，可没有叫这个名字的。既然如此，就如你所言，帮我们互相介绍一下吧，让我认识认识你的利刃所服侍的门外汉。
+LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|只有懦夫才会用弓，小子，这句话我甚至当着赫拉的面说过。你会喜欢上这把弓，我真是一点都不意外，不过……我看得出来，这把弓有点不太一样了。
+LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Zagreus|什么，您指的是科罗纳赫特继承了某个圣人的形态吗？虽然我可能只见过那个人几面，但那个人看起来无人能敌，而且非常勇敢，你是这个意思吗？
+LordHadesHasRamaAspect01|Lord Hades Has Rama Aspect 01|Hades|我不知道这把老旧的冥府兵器为什么会出现在你面前。而且，我根本不在乎你说的那个弱者是什么样子，反正那个人迟早都会落在我的手上。
+LordHadesHasBeowulfAspect01|Lord Hades Has Beowulf Aspect 01|Hades|原来是你啊，你拿着我哥哥的盾牌……如此鲁莽地招摇过市。不过，你到底对它做了什么？
+LordHadesHasBeowulfAspect01|Lord Hades Has Beowulf Aspect 01|Zagreus|老实说没做什么，我只不过是唤醒了某个勇猛无双的屠龙英雄，某个叫贝奥武夫的战士的形态。如果这面盾牌的力量足以帮助他对付大蜥蜴的话，我猜，它应该也能帮助我对付你才是。
+LordHadesHasBeowulfAspect01|Lord Hades Has Beowulf Aspect 01|Hades|你马上就会发现，我的力量可不是什么大蜥蜴能比的，小子。不过，让我们来看看这个贝奥武夫能怎么帮助你吧。
+LordHadesHasGilgameshAspect01|Lord Hades Has Gilgamesh Aspect 01|Hades|看来你想和我打一场拳击啊……不过，你是怎么把玛尔封变成那个样子的，我一点都不清楚。和我说说吧，那对怪物爪子是谁的？是狮身蝎尾兽的吗？
+LordHadesHasGilgameshAspect01|Lord Hades Has Gilgamesh Aspect 01|Zagreus|让我来告诉你吧，父亲。这对爪子曾属于某位远古的神王，名字叫做吉尔伽美什。你见过他吗？
+LordHadesHasGilgameshAspect01|Lord Hades Has Gilgamesh Aspect 01|Hades|{#DialogueItalicFormat}嗯嗯{#PreviousFormat}，只要他是有血有肉的生物，那他就肯定在我的王国里，说不定是在至福乐土的某个地方吧。可都是因为你，他失去了利爪，真是可悲。来让我见识见识这对利爪的威力吧。
+LordHadesHasLuciferAspect01|Lord Hades Has Lucifer Aspect 01|Hades|你拿着一把令人厌恶的弩炮，小子，它蕴含的地狱怒火甚至比以前更加强大。你让它焕发出了更强大的力量，我一点都不意外，毕竟这可是我以前最痛恨的武器。
+LordHadesHasLuciferAspect01|Lord Hades Has Lucifer Aspect 01|Zagreus|不过，某个叫路西法的家伙却很喜欢这把武器。他拿着这把武器，朝他的父亲开了火。我猜，这把武器应该就是给他用的吧。
+LordHadesHasLuciferAspect01|Lord Hades Has Lucifer Aspect 01|Hades|你一直都是这么傲慢，总是对那些你一无所知的名字夸夸其谈，真是太自以为是了。你把那把畸形的武器当朋友了吗？你要是有点脑子的话，应该当心它的力量才对。不过，话不多说了，开战吧。
+LordHadesMiscEncounter05|Lord Hades Misc Encounter 05|Hades|啊，你来到这里了，孩子，终于。在我印象里你总是慢人一拍，不过现在你似乎早就不再那样了。
+LordHadesMiscEncounter05|Lord Hades Misc Encounter 05|Zagreus|别说了吧，把你叉子拿上，身上那高贵披风给我焚了，我们干一架。我就搞不懂你哪来那么多披风！一定有一个专门的披风室吧。
+LordHadesMiscEncounter05|Lord Hades Misc Encounter 05|Hades|讥讽最多只能给你临时壮壮胆子，到最后并没有什么实质作用。
+LordHadesMiscEncounter03|Lord Hades Misc Encounter 03|Hades|从天堂飘落下来的这冰冷的白色物体。他们说这叫雪。仔细看的话，每一片。都像是小水晶！但又十分脆弱。会融化！这片领域……都属于我。
+LordHadesMiscEncounter03|Lord Hades Misc Encounter 03|Zagreus|如果你教完降雪现象这一课了，应该接着进行疯狂互殴环节了吧？
+LordHadesMiscEncounter03|Lord Hades Misc Encounter 03|Hades|如果你执意要让这雪白地面染上你凡人色的血，那来吧。我们继续。
+LordHadesMiscEncounter06|Lord Hades Misc Encounter 06|Hades|你到现在连太阳都没见到过。你只知道伊克西翁发出的光，但是阳光呢？阳光会强烈到刺瞎你的眼睛。非常可怕。
+LordHadesMiscEncounter06|Lord Hades Misc Encounter 06|Zagreus|既然你都提到了，现在每天黄昏都会下雪。上面从来不会下这样多的雪。
+LordHadesMiscEncounter06|Lord Hades Misc Encounter 06|Hades|并不总是这样。但是这对我们而言无关紧要。尤其是现在正要开始激烈战斗。
+LordHadesPostEpilogue01|Lord Hades Post Epilogue 01|Hades|既然你又来了……奥林匹斯众神肯定又借给你他们的力量了，就像以前一样！我真不敢相信，我的皇后那异想天开的点子居然真的行得通。只要一顿该死的家族盛宴，就能解决所有的旧怨。
+LordHadesPostEpilogue01|Lord Hades Post Epilogue 01|Zagreus|别这样，父亲。就算是你，有时候也得享受一下盛宴的欢乐，咱们以后应该多举办些盛宴才对！很高兴你在这件事情上相信了母亲的判断。那就再来一次，至死方休吧？
+LordHadesPostEpilogue01|Lord Hades Post Epilogue 01|Hades|是啊，和以前一样，至死方休吧，孩子。扎格列欧斯，准备好吧。
+LordHadesEncounter01|Lord Hades Encounter 01|Hades|……我一直都不习惯这里的空气。毫无规律地四处乱吹。比起下面的一片死寂，你应该更喜欢这里的空气吧。
+LordHadesEncounter01|Lord Hades Encounter 01|Zagreus|这倒没错。这里的空气目前来说还行。不过在我受够之前我还是持保留意见。我还是得说，父亲：黑暗之盔还蛮适合你的。你专门为我把它打理了一番，我很感动。
+LordHadesEncounter01|Lord Hades Encounter 01|Hades|事情本不该如此的。就算你对我，在圣殿，做了那么多莫名奇妙的事情，我依然憋着自己的怒气，是不是？不像你。
+LordHadesEncounter01|Lord Hades Encounter 01|Zagreus|那就来看看吧。你一直在指责我。你骗了我。一次又一次召集你的人马来杀我。但是没错，我承认你一直憋着自己的怒气。所有这些都将改变。
+LordHadesEncounter01|Lord Hades Encounter 01|Hades|我们是神，孩子。互相杀戮就是我们的命运。我一直以为自己可以不用这样。我告诉过你，你不能离开这里。看来现在必须由我亲自来执行了。现在我要送你回家了。
+LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Hades|你应该知道你在这里做的一切都毫无意义。就算我没有亲手杀死你，你通过那个入口后也会直接消散。这样你还不放弃吗？
+LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Zagreus|不放弃。另外，我做这样的事也方便在冥界修复的同时消磨自己的时间。等到修复完成，我就会变成一流的高手！
+LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Hades|如果再多一点帮助；整个修复说不定早就可以完成了！还是一样，你只想着你自己。如果你仍不肯放弃的话，我会一直在这里拦截你。一次都不落下。
+LordHadesEncounter_DoneTalking01|Lord Hades Encounter Done Talking 01|Hades|为什么？为什么你就是不放弃？就算你知道结果不会变，你还是不肯放弃。
+LordHadesEncounter_DoneTalking01|Lord Hades Encounter Done Talking 01|Zagreus|这可比在你手下艰辛工作要好得多。另外，你应该也知道了，我已经决心要离开这个地方了。
+LordHadesEncounter_DoneTalking01|Lord Hades Encounter Done Talking 01|Hades|呃啊啊……简直不可救药。下次我们再见的时候，就不要说这么多了吧。这种无意义的对话让我感觉很烦。准备好！
+LordHadesHadesKeepsakeReaction01|Lord Hades Hades Keepsake Reaction 01|Hades|你戴着死者印记，而我戴着黑暗之盔。不过就算没了这些神器，也不会有人在阴影之中……围观我们的决斗。
+LordHadesHadesKeepsakeReaction01|Lord Hades Hades Keepsake Reaction 01|Zagreus|要是每个人都知道你有个厉害的儿子就好了，无论你有没有突然消失的能力，你儿子都能把你揍得鼻青脸肿。
+LordHadesHadesKeepsakeReaction01|Lord Hades Hades Keepsake Reaction 01|Hades|我这个喜欢自卖自夸的儿子，总是觉得自己无人能比。那就过来吧！我只要几招就能弄死你。
+LordHadesPersephoneKeepsakeReaction01|Lord Hades Persephone Keepsake Reaction 01|Hades|……那是石榴花的香气……你过来的时候，我就闻到了它清淡的香味。我的皇后拥有她母亲的力量，而在自控方面更是要好得多。
+LordHadesPersephoneKeepsakeReaction01|Lord Hades Persephone Keepsake Reaction 01|Zagreus|怎么，你还怕起一朵小花了吗，父亲？这朵花赐予了我整个奥林匹斯山最所向披靡的力量！不过至少它看起来人畜无害。
+LordHadesPersephoneKeepsakeReaction01|Lord Hades Persephone Keepsake Reaction 01|Hades|恐怕你那朵小花的力量，比你的力量要强得多。我的皇后和她的母亲……她们拥有掌控生命的力量，所以，也有掌控死亡的力量。
+LordHadesExtremeMeasures02|Lord Hades Extreme Measures 02|Hades|你还开着极端措施条款，是吗？你肯定是疏忽大意，忘记更改惩罚契约上的条款了吧？
+LordHadesExtremeMeasures02|Lord Hades Extreme Measures 02|Zagreus|我没疏忽大意。你很强，父亲，我想变得像你一样强，甚至比你更强。这倒不是说我想以你为榜样什么的。
+LordHadesExtremeMeasures02|Lord Hades Extreme Measures 02|Hades|你想尝尝我拿出全力有多厉害，很好，你赢得了这个权利。除了你之外，只有泰坦巨人见识过我真正的怒火。很好，{#DialogueItalicFormat}开战吧{#PreviousFormat}！
+LordHadesExtremeMeasures03|Lord Hades Extreme Measures 03|Hades|即便我拼尽全力、超出极限与你战斗……你还是打败了我。我拿出了和泰坦战斗的劲头，可我还是输了。
+LordHadesExtremeMeasures03|Lord Hades Extreme Measures 03|Zagreus|哦，别这么难过嘛，父亲。总会有下一次机会，是吧？我指的也就是这一次，说不定这次我就没那么幸运了。
+LordHadesExtremeMeasures03|Lord Hades Extreme Measures 03|Hades|这一点我很确定。很好，来吧，让我们看看彼此的极限。我得警告你，我是不会手下留情的。至死方休！
+LordHadesNoBoonsReaction01|Lord Hades No Boons Reaction 01|Hades|……这次，你身上连一丝奥林匹斯众神的味道都没有。没了你那些亲人们的慷慨相助，你到底是怎么一路来到这里的？很显然，你只是把他们的祝福拿去换成钱罢了。
+LordHadesNoBoonsReaction01|Lord Hades No Boons Reaction 01|Zagreus|嘿，这么说就太不像话了，父亲！我就算只靠我自己，想来这里也绰绰有余，不必客气。
+LordHadesNoBoonsReaction01|Lord Hades No Boons Reaction 01|Hades|这种傲慢曾让无数凡人惨遭不测……神明也是如此。
+LordHadesNoBoonsReaction02|Lord Hades No Boons Reaction 02|Hades|真奇怪，这次你身上没有奥林匹斯众神的臭味。你真的是完全没靠亲戚们的帮助，自己一路走到这里的吗？还是说，你玩净化池玩过头了？
+LordHadesNoBoonsReaction02|Lord Hades No Boons Reaction 02|Zagreus|你不想知道是怎么回事吗？就连倪克斯都不相信我可以在没有奥林匹斯众神帮助的情况下走出这么远。或许我就是有本事向别人证明：他们都错了。
+LordHadesNoBoonsReaction02|Lord Hades No Boons Reaction 02|Hades|你很{#DialogueItalicFormat}擅长{#PreviousFormat}用各种各样蠢方法害死自己，这一点毫无疑问。好了，来吧！让我看看你的本事吧！
+LordHadesAboutFishing01|Lord Hades About Fishing 01|Hades|站着别动。这片水域里……充斥着波塞冬的河流中的居民们。就我面前的那条鱼……我觉得它一直都在嘲笑我，已经笑了很久了。
+LordHadesAboutFishing01|Lord Hades About Fishing 01|Zagreus|你是想和我一起{#DialogueItalicFormat}钓鱼{#PreviousFormat}吗，父亲？听起来比打打杀杀的要好多了。
+LordHadesAboutFishing01|Lord Hades About Fishing 01|Hades|你误会了我的意思。首先，我要让{#DialogueItalicFormat}你{#PreviousFormat}尝尝我长矛的滋味。其次，如果那条鱼还不知死活地呆在这里，它也会尝到长矛的滋味。不过，如果你能打败我的话，我敢肯定你的叔叔不会介意你把那条鱼钓走。
+LordHadesPactHighHeatReaction01|Lord Hades Pact High Heat Reaction 01|Hades|它见证了得墨忒尔恐怖的力量。即便你拿着惩罚契约胡闹，弄出了滚滚的热浪，这地方依然是一片冰封的废土。
+LordHadesPactHighHeatReaction01|Lord Hades Pact High Heat Reaction 01|Zagreus|惩罚契约确实让这一路过来的旅程变得有点坎坷。不过，如果它连我都拦不住的话，那恐怕就更拦不住得墨忒尔了。
+LordHadesPactHighHeatReaction01|Lord Hades Pact High Heat Reaction 01|Hades|别管她了，也别管那破契约了，我要亲自阻止你。
+LordHadesWinterCurseReaction01|Lord Hades Winter Curse Reaction 01|Hades|你还喜欢地面世界的温暖气候吗，孩——扎格列欧斯？很显然，四季女神对你的慷慨是无穷无尽的。
+LordHadesWinterCurseReaction01|Lord Hades Winter Curse Reaction 01|Zagreus|或许确实感觉不太一样。不过，得墨忒尔说了些关于这个地方的话。她说这里依然要保持严寒，以此提醒人们。你觉得，她真的已经知道发生在母亲身上的事情了吗？
+LordHadesWinterCurseReaction01|Lord Hades Winter Curse Reaction 01|Hades|得墨忒尔可能心怀仇恨或是怀疑，可她一点都不愚蠢。经验让我们明白什么时候该收手，不过显然，你还没学到这一课呢。
+LordHadesLowHealth01|Lord Hades Low Health 01|Hades|看看你自己，孩子。你站都站不稳，以你这样的状态你还能打赢我不成？
+LordHadesLowHealth01|Lord Hades Low Health 01|Zagreus|一路杀过来可不容易，你知道吗。但我绝不回去。现在不会。
+LordHadesLowHealth01|Lord Hades Low Health 01|Hades|现在是不会。但是马上，你就会了。
+LordHadesHasWeaponUpgrade01|Lord Hades Has Weapon Upgrade 01|Hades|瓦拉塔……我认得出来。你手里的可不是什么普通的三头长矛。我不敢正眼看它，我和我的兄弟姐妹曾经……曾经做过的那些丑恶的事。
+LordHadesHasWeaponUpgrade01|Lord Hades Has Weapon Upgrade 01|Zagreus|你是指你们曾经把自己的泰坦爹妈大卸八块那件事吗？真可惜你把它给扔了。还挺好用的。
+LordHadesHasWeaponUpgrade01|Lord Hades Has Weapon Upgrade 01|Hades|也许命运之神决定让持有过这长矛的人最终都与它脱不开干系。那来吧！让我们看看伟大的阿喀琉斯都教了你什么。
+LordHadesHasWeaponUpgrade02|Lord Hades Has Weapon Upgrade 02|Hades|哼！你觉得自己拿着我兄弟那把破旧刀剑就能打败我了吗。波塞冬一直用不好斯第格思。后来他嫉妒上了我的枪法。再后来他就跟他那把叉子一起出名了！实不至名不归的东西。
+LordHadesHasWeaponUpgrade02|Lord Hades Has Weapon Upgrade 02|Zagreus|一定很难过吧，所有人都认为你是跟波塞冬学的，而事实恰恰相反。至于斯第格思，我向你保证它现在在正确的人手里。
+LordHadesHasWeaponUpgrade02|Lord Hades Has Weapon Upgrade 02|Hades|你的保证对我毫无意义，孩子。你真的认为自己能独当一面了吗？证明给我看吧。
+LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Hades|你身上的是宙斯的埃癸斯。你还想怎样羞辱我？
+LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Zagreus|干嘛？我还什么都没说呢，父亲。只是见到这块旧混沌之盾就受不了了吗？
+LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Hades|宙斯甚至都不记得用过它没有。从那以后我就不应该再依靠他！来吧，让我们看看你跟你的伟大叔叔比起来，孰强孰弱。
+LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|嗯，你一来这里，这里就明显变冷了。看来你已经和那个叫得墨忒尔的女巫建立了联结，和我说说她都知道些什么吧。
+LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Zagreus|什么？我没有……等等，这场阴魂不散的寒冬都是她搞出来的吗？这是怎么回事？凡人不是会冻死的吗？听起来给你增加了不少工作量啊。
+LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|看来你真的是什么都不知道，不过你们就保持这个样子吧，这样你就不会孤注一掷了。明白我的意思吗？万一你孤注一掷，后果恐怕会比这恶劣的气候要严重得多。好了，废话就说到这里吧。
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Zagreus|她失去了自己的女儿……也就是我的母亲。但是，得墨忒尔仍然认为我是倪克斯的孩子，而且……你到底做了什么啊，父亲？这场无尽的寒冬是她弄出来的，是吧？凡人都冻死了，你为什么你不去阻止她？
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Hades|看来你们两个什么都不知道。不过就保持这个样子吧，特别是对她来说，这样你就不会孤注一掷了。明白我的意思吗？万一你孤注一掷，后果恐怕会比这恶劣的气候要严重得多。好了，废话就说到这里吧。
+LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|…海洋…天堂和大地。全都属于我的兄弟。我们是亲生兄弟。但在他们的国度我们却算外人。
+LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Zagreus|停。不搞煽情讲话。滚开吧。
+LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|没有礼貌的臭小子。行。这股冲动劲是家族遗传的。
+LordHadesMiscEncounter02|Lord Hades Misc Encounter 02|Hades|曾经，刻耳柏洛斯不让任何灵魂从你身后那扇大门离开这里。
+LordHadesMiscEncounter02|Lord Hades Misc Encounter 02|Zagreus|这不可能吧，那俄耳甫斯怎么解释？提修斯？赫拉克勒斯？奥德修斯？传说中的英雄们都是想来就来想走就走。
+LordHadesMiscEncounter02|Lord Hades Misc Encounter 02|Hades|那是因为我允许他们走。他们也自知这待遇不是白给的。你要是觉得自己可以大摇大摆走出去。就因为你是我儿子，还有你所谓的责任吗？我现在告诉你，{#DialogueItalicFormat}你错了{#PreviousFormat}。
+LordHadesMiscEncounter04|Lord Hades Misc Encounter 04|Hades|我和我的兄弟姐妹们，我们也想杀死自己的生父母。那些泰坦，真的是一群杂种，混账不如。
+LordHadesMiscEncounter04|Lord Hades Misc Encounter 04|Zagreus|然后你们成功了。把其中的泰坦切成无数碎片，抛撒到塔耳塔罗斯的深渊之中，这样他们就再也不能复原！我是这样听说的。很精彩！
+LordHadesMiscEncounter04|Lord Hades Misc Encounter 04|Hades|我们当时除了团结起来，别无他法。我们制定了一个特别的计划，然后计划成功了。然后呢，泰坦呢……？你觉得我很残酷，说明你对残酷一无所知。如果你想朝什么东西发泄怨恨，那你有了！
+LordHadesMiscEncounter07|Lord Hades Misc Encounter 07|Hades|我不得不承认，孩子。阿喀琉斯教得很好。我就知道如果有谁能将你训练地如此勇猛，那只能是他。
+LordHadesMiscEncounter07|Lord Hades Misc Encounter 07|Zagreus|但你不知道的是，有一天，我会用我从他那学到的每招每式来对付{#DialogueItalicFormat}你{#PreviousFormat}。
+LordHadesMiscEncounter07|Lord Hades Misc Encounter 07|Hades|我的眼光比你长远的多。但是毕竟阿喀琉斯只是对抗凡人。而你要对抗的是{#DialogueItalicFormat}我{#PreviousFormat}。
+LordHadesMiscStart01|Lord Hades Misc Start 01|Hades|一路过来，就为了败给我？如果你回到圣殿也这么尊重我就好了。
+LordHadesMiscStart02|Lord Hades Misc Start 02|Hades|到底要怎样你才能明白，你注定没法离开？！
+LordHadesMiscStart03|Lord Hades Misc Start 03|Hades|不可饶恕，孩子。我怀疑你可能有别的想法。
+LordHadesMiscStart04|Lord Hades Misc Start 04|Hades|今天傍晚的空气与海面都很平静。不过我想是时候改变一下气氛了。
+LordHadesMiscStart05|Lord Hades Misc Start 05|Hades|但我现在不得不做的事并非我的本意。
+LordHadesMiscStart06|Lord Hades Misc Start 06|Hades|你来了。那就让我们继续这丑陋的事务吧。
+LordHadesMiscStart07|Lord Hades Misc Start 07|Hades|我的兄弟掌管着海和天；但你所处的是我的领地。
+LordHadesMiscStart08|Lord Hades Misc Start 08|Hades|你又从刻耳柏洛斯身边溜走了吧。这对我们而言都很不幸。
+LordHadesMiscStart09|Lord Hades Misc Start 09|Hades|我虽然有其他要务在身，但我不能让你离开这里。
+LordHadesMiscStart10|Lord Hades Misc Start 10|Hades|不管多少次都一样，倔强对你没有任何帮助。
+LordHadesMiscStart11|Lord Hades Misc Start 11|Hades|你回来了啊，手里还拿着斯第格思。来吧，让我看看你的本事吧！
+LordHadesMiscStart12|Lord Hades Misc Start 12|Hades|冥界之刃在这里是帮不了你的，明白了吗，孩子？
+LordHadesMiscStart13|Lord Hades Misc Start 13|Hades|你的索心弓科罗纳赫特也许能帮你来到这里，但在这里，它帮不了你。
+LordHadesMiscStart14|Lord Hades Misc Start 14|Hades|你手上那把索心弓……只是给懦夫用的东西罢了，孩子。
+LordHadesMiscStartWithSpear01|Lord Hades Misc Start With Spear 01|Hades|很好，瓦拉塔和吉加罗斯将在这片土地上再次碰撞，动手吧。
+LordHadesMiscStartWithSpear02|Lord Hades Misc Start With Spear 02|Hades|我早就知道，总有一天永恒之矛会指向我。让我见识见识你的本事吧，孩子。
+LordHadesMiscStart15|Lord Hades Misc Start 15|Hades|混沌之盾……多么阴森的东西啊，很适合你。
+LordHadesMiscStart16|Lord Hades Misc Start 16|Hades|你挥舞埃癸斯的样子，就和你宙斯叔叔当年一模一样。
+LordHadesMiscStart17|Lord Hades Misc Start 17|Hades|你觉得这尊狮鹫坚炮能打败我吗？马上就能知道结果了。
+LordHadesMiscStart18|Lord Hades Misc Start 18|Hades|你竟敢用伊格瑞菲瞄准我？真是有出息了。
+LordHadesMiscStart19|Lord Hades Misc Start 19|Hades|你要用那野蛮至极的双子之拳来对付我吗？那来吧。
+LordHadesMiscStart20|Lord Hades Misc Start 20|Hades|你又想用玛尔封的力量来对付我了，好吧。
+LordHadesMiscStart21|Lord Hades Misc Start 21|Hades|我早就知道你会来这里，至于你要怎么战斗，我就说不好了。
+LordHadesMiscStart22|Lord Hades Misc Start 22|Hades|我刚刚还在想上一次打败你是什么时候呢，来吧，让我再打败你一次。
+LordHadesMiscStart23|Lord Hades Misc Start 23|Hades|不管你打败我多少次，我都会在这里。
+LordHadesMiscStart24|Lord Hades Misc Start 24|Hades|记住，我永远都能比你先到达这里。我比你更快，快得多。
+LordHadesMiscStart25|Lord Hades Misc Start 25|Hades|不管你腿脚有多快，我永远会在这里等着你。
+LordHadesMiscStart26|Lord Hades Misc Start 26|Hades|又来了，我又要放下手里的全部工作，从圣殿过来跟你战斗了。
+LordHadesMiscStart27|Lord Hades Misc Start 27|Hades|我不能让你走，孩子。总有一天，你会明白我的苦心。
+LordHadesMiscStart28|Lord Hades Misc Start 28|Hades|你这次还能不能击败我呢，孩子？我很感兴趣。
+LordHadesMiscStart29|Lord Hades Misc Start 29|Hades|来吧，使出你的毕生所学，与我战斗吧。
+LordHadesMiscStart30|Lord Hades Misc Start 30|Hades|你又从刻耳柏洛斯身边溜走了，拔剑吧，孩子。
+LordHadesMiscStart31|Lord Hades Misc Start 31|Hades|看来，我们又要在这里战个你死我活了。
+LordHadesMiscStart32|Lord Hades Misc Start 32|Hades|这该死的地方……你到底是怎么忍受地表的环境的？
+LordHadesMiscStart33|Lord Hades Misc Start 33|Hades|猜猜看，这次谁会先回圣殿呢？
+LordHadesMiscStart34|Lord Hades Misc Start 34|Hades|看来这次我又得亲自送你回家了。
+LordHadesMiscStart35|Lord Hades Misc Start 35|Hades|你一路上过关斩将，不过你的旅途到此为止了。
+LordHadesMiscStart36|Lord Hades Misc Start 36|Hades|我还在想你也该到了吧。好了，开始战斗吧。
+LordHadesMiscStart37|Lord Hades Misc Start 37|Hades|你休想跨过这道坎，孩子。
+LordHadesMiscStart38|Lord Hades Misc Start 38|Hades|我的国度之外的世界并不适合你，你得回家了。
+LordHadesMiscStart40|Lord Hades Misc Start 40|Hades|我想知道，孩子，这次谁会是赢家呢？
+LordHadesMiscStart41|Lord Hades Misc Start 41|Hades|我真是想不明白，你为什么偏要这么一次又一次地求死。
+LordHadesPostEndingStart01|Lord Hades Post Ending Start 01|Hades|你已经来了吗？看来和你打完之后，我要好好处理处理冥界里的那些废物了。
+LordHadesPostEndingStart02|Lord Hades Post Ending Start 02|Hades|来，让你的父亲见识一下你最近的长进吧，别手下留情。
+LordHadesPostEndingStart03|Lord Hades Post Ending Start 03|Hades|要是你在打扫房间的时候，也能像逃出这里一样充满干劲就好了。
+LordHadesPostEndingStart04|Lord Hades Post Ending Start 04|Hades|我的王国里有无数穷凶极恶的暗灵，都听从我的命令，可你依然来到了这里。
+LordHadesPostEndingStart05|Lord Hades Post Ending Start 05|Hades|你又一次逃过了我所有的安保措施，可你能过得了{#DialogueItalicFormat}我{#PreviousFormat}这关吗？
+LordHadesPostEndingStart06|Lord Hades Post Ending Start 06|Hades|我相信即便是这么多磨难之后，你也依然保留着足够的实力，让我们不枉大战一场，是吧？
+LordHadesPostEndingStart07|Lord Hades Post Ending Start 07|Hades|如果需要的话，稍微休息一下吧，让我看看你这次能不能赢得奖励。
+LordHadesPostEndingStart08|Lord Hades Post Ending Start 08|Hades|{#DialogueItalicFormat}啧{#PreviousFormat}！我那些主管又一次失败了，是吗？我真的事必躬亲不可吗？
+LordHadesPostEndingStart09|Lord Hades Post Ending Start 09|Hades|我还有别的工作要做！赶紧准备就绪，咱们速战速决吧，孩子。
+LordHadesPostEndingStart10|Lord Hades Post Ending Start 10|Hades|看起来我们的王国依然有很多漏洞，我会尽快把这些问题解决掉。
+LordHadesPostEndingStart11|Lord Hades Post Ending Start 11|Hades|让我看看，你从奥林匹斯众神那里得到的援助有没有用吧。
+LordHadesPostEndingStart12|Lord Hades Post Ending Start 12|Hades|该死的，不过你可真是锲而不舍！既然如此，咱们来看看你到底有多强吧。
+LordHadesPostEndingStart13|Lord Hades Post Ending Start 13|Hades|我应该回去工作才对，不过我觉得那些工作可以先放放。
+LordHadesPostEndingStart14|Lord Hades Post Ending Start 14|Hades|啊，你来了，孩子！我刚刚还在想，我是不是得穿件更厚实的披风才对。
+LordHadesPostEndingStart15|Lord Hades Post Ending Start 15|Hades|这么说吧，扎格列欧斯。就算你被我打败了，能来到这里也已经很了不起了。
+LordHadesPostEndingStart16|Lord Hades Post Ending Start 16|Hades|不得不承认，偶尔能从文书工作中抽出身来，还真是挺不错的。
+LordHadesPostEndingStart17|Lord Hades Post Ending Start 17|Hades|我猜，你肯定迫不及待想要报上次的一箭之仇了吧？
+LordHadesPostEndingStart18|Lord Hades Post Ending Start 18|Hades|我觉得这次赢的人还会是我，我们大可以走着瞧。
+LordHadesPostEndingStart19|Lord Hades Post Ending Start 19|Hades|或许该死的命运女神也该垂青{#DialogueItalicFormat}我{#PreviousFormat}一次了。
+LordHadesPostEndingStart20|Lord Hades Post Ending Start 20|Hades|我们上一次交手有很多不足之处，是我这边的问题。不过这一次，我们走着瞧吧。
+LordHadesR1FirstWin|Lord Hades R First Win 1|Hades|……哧。竟然把我逼到如此地步……你这逆子。我以为只有我的兄弟可以做到这样，你竟然也……？呃啊啊啊……
+LordHadesNextStageMisc01|Lord Hades Next Stage Misc 01|Hades|……竟然如此蔑视自己的父亲。还没结束呢。
+LordHadesNextStageMisc02|Lord Hades Next Stage Misc 02|Hades|……年轻的身体给与了你这种无脑的力量。但是这种力量，是有极限的。
+LordHadesNextStageMisc03|Lord Hades Next Stage Misc 03|Hades|……现在热完了身子，要开始认真了。
+LordHadesNextStageMisc04|Lord Hades Next Stage Misc 04|Hades|……你竟敢对自己的父亲出手。我总不能站着挨打吧。
+LordHadesNextStageMisc05|Lord Hades Next Stage Misc 05|Hades|……哼。好吧，孩子，你算是把我惹毛了。
+LordHadesFinalStage01|Lord Hades Final Stage 01|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……不……咱们之间……还没完事……{#DialogueItalicFormat}还没完{#PreviousFormat}！！
+LordHadesFirstDefeat|Lord Hades First Defeat|Hades|我……怎么……可能……走吧，走吧。{#DialogueItalicFormat}快走吧{#PreviousFormat}！！离开这个地方！快滚吧！
+LordHadesFirstDefeat|Lord Hades First Defeat|Zagreus|我说过了我会走的，父亲。现在也没有改变主意。再见。
+LordHadesFirstDefeat|Lord Hades First Defeat|Hades|……等等。等一下，如……如果……如果你找到她了。如果你遇见了她。替我跟她说一声，告诉她……告诉她刻耳柏洛斯现在很好。
+LordHadesFirstDefeat|Lord Hades First Defeat|Zagreus|什么？等下。我又不欠你什么干嘛帮你带话。不过，要是你回答我一个问题，我就考虑一下，怎么样？
+LordHadesFirstDefeat|Lord Hades First Defeat|Hades|……我知道你想问什么，孩子。问就是了。
+LordHadesFirstDefeat|Lord Hades First Defeat|Zagreus|珀尔塞福涅。我的母亲。她为什么要离开？
+LordHadesFirstDefeat|Lord Hades First Defeat|Hades|……我……啊……血，黑暗……
+LordHadesDefeated02|Lord Hades Defeated 02|Zagreus|这件事情你就不能通融一下吗？你明明知道母亲也很想见我一面，不是吗？
+LordHadesDefeated02|Lord Hades Defeated 02|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}！你这个混蛋……你总问那些该死的问题……你会把一切都毁了的！
+LordHadesDefeated02|Lord Hades Defeated 02|Zagreus|那就去死吧，别再挡我的路了。
+LordHadesChaosSurfaceQuestDefeat01|Lord Hades Chaos Surface Quest Defeat 01|Hades|……你这个臭小子……我们根本就不应该从卡俄斯身上诞生……这一切都不应该……
+LordHadesExtremeMeasuresDefeat01|Lord Hades Extreme Measures Defeat 01|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……{#DialogueItalicFormat}<喘息>{#PreviousFormat}不可能……我……已经全力以赴了！可还是……？
+LordHadesMiscDefeat01|Lord Hades Misc Defeat 01|Hades|小兔崽子。你觉得自己比我强吗？愚蠢。
+LordHadesMiscDefeat02|Lord Hades Misc Defeat 02|Hades|{#DialogueItalicFormat}啊啊啊……！{#PreviousFormat} 看起来，是你年轻的身体给了你这股力量。
+LordHadesMiscDefeat03|Lord Hades Misc Defeat 03|Hades|{#DialogueItalicFormat}啧……{#PreviousFormat}我……我们回家再见。
+LordHadesMiscDefeat04|Lord Hades Misc Defeat 04|Hades|这，这怎么可能？这……{#DialogueItalicFormat}啊！{#PreviousFormat}
+LordHadesMiscDefeat05|Lord Hades Misc Defeat 05|Hades|{#DialogueItalicFormat}呃……{#PreviousFormat}你所寻求的外面的世界……比这里要残酷的多。
+LordHadesMiscDefeat06|Lord Hades Misc Defeat 06|Hades|{#DialogueItalicFormat}啊啊！{#PreviousFormat}怎么会这样……看来我已经大不如从前了……
+LordHadesMiscDefeat07|Lord Hades Misc Defeat 07|Hades|啊，可恶！在我所有的家人之中，会对我做出这种事情的，只有你……
+LordHadesMiscDefeat08|Lord Hades Misc Defeat 08|Hades|{#DialogueItalicFormat}嗯{#PreviousFormat}……不管你打败我多少次……我们依然是一家人，这一点永远不会改变。
+LordHadesMiscDefeat09|Lord Hades Misc Defeat 09|Hades|无论如何，你又打败了我。但是……
+LordHadesMiscDefeat10|Lord Hades Misc Defeat 10|Hades|你要付出……你要付出怎样的代价……
+LordHadesMiscDefeat11|Lord Hades Misc Defeat 11|Hades|{#DialogueItalicFormat}呃，{#PreviousFormat}你……不准把这件事告诉圣殿里的人，听到了吗？
+LordHadesMiscDefeat12|Lord Hades Misc Defeat 12|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}，你这顽固的家伙……你总是对死亡嗤之以鼻，就好像它对你而言毫无意义……！
+LordHadesMiscDefeat13|Lord Hades Misc Defeat 13|Hades|……我还会回来的……和你一样……！
+LordHadesMiscDefeat14|Lord Hades Misc Defeat 14|Hades|你……你以为你是唯一一个……会坚持战斗的人吗？
+LordHadesMiscDefeat15|Lord Hades Misc Defeat 15|Hades|我必须承认……你学到了不少东西。在某一个时刻。
+LordHadesMiscDefeat16|Lord Hades Misc Defeat 16|Hades|{#DialogueItalicFormat}呃{#PreviousFormat}……要不是因为奥林匹斯山上的那群混蛋亲戚，你早就……
+LordHadesMiscDefeat17|Lord Hades Misc Defeat 17|Hades|{#DialogueItalicFormat}啊啊啊{#PreviousFormat}，我又输了……被我自己的傻儿子打败了……
+LordHadesMiscDefeat18|Lord Hades Misc Defeat 18|Hades|{#DialogueItalicFormat}啊啊{#PreviousFormat}！孩子，不准把这件事告诉任何人！
+LordHadesMiscDefeat19|Lord Hades Misc Defeat 19|Hades|{#DialogueItalicFormat}呃呃{#PreviousFormat}！你怎么……你是怎么做到的……？
+LordHadesMiscDefeat20|Lord Hades Misc Defeat 20|Hades|{#DialogueItalicFormat}呃{#PreviousFormat}！你是逃不掉的……我们谁都逃不掉。
+LordHadesMiscDefeat21|Lord Hades Misc Defeat 21|Hades|{#DialogueItalicFormat}啊啊{#PreviousFormat}……去吧，去看看这个世界有什么在等着你……
+LordHadesMiscDefeat22|Lord Hades Misc Defeat 22|Hades|{#DialogueItalicFormat}啊{#PreviousFormat}……我，又败给你了，我……怎么可能……？
+LordHadesMiscPostEndingDefeat01|Lord Hades Misc Post Ending Defeat 01|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……你和你母亲一样不屈不挠，你到底是怎么变得这么强的？
+LordHadesMiscPostEndingDefeat02|Lord Hades Misc Post Ending Defeat 02|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}！看起来……我这次不是你的对手。
+LordHadesMiscPostEndingDefeat03|Lord Hades Misc Post Ending Defeat 03|Hades|{#DialogueItalicFormat}啊啊{#PreviousFormat}……看来我已经大不如从前了，而你却……？
+LordHadesMiscPostEndingDefeat04|Lord Hades Misc Post Ending Defeat 04|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……你是阿喀琉斯的学生……但我觉得，你现在的技艺已经比他更强了……
+LordHadesMiscPostEndingDefeat05|Lord Hades Misc Post Ending Defeat 05|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……你又一次把我的安保措施全都摧毁了……
+LordHadesMiscPostEndingDefeat06|Lord Hades Misc Post Ending Defeat 06|Hades|{#DialogueItalicFormat}啊{#PreviousFormat}……我承认，这次是你赢了，扎格列欧斯……
+LordHadesMiscPostEndingDefeat07|Lord Hades Misc Post Ending Defeat 07|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……奥林匹斯众神给你的力量，还真是挺强的啊……
+LordHadesMiscPostEndingDefeat08|Lord Hades Misc Post Ending Defeat 08|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……你之所以能赢，多亏了你那些亲戚……
+HadesFirstMeeting|Hades First Meeting|Hades|傻孩子。我说过了不管是死人还是活人，没人能离开这里。不过，这次在我的领地搞破坏感觉怎么样啊？
+HadesFirstMeeting|Hades First Meeting|Zagreus|您好，父亲。这次搞破坏非常开心，谢谢您的关心。没什么事，我就继续前进了。
+HadesFirstMeeting|Hades First Meeting|Hades|那你就去吧。我才不在乎。你永远不可能去到地面。不信你就去试试吧。
+HadesFirstMeetingCont1|Hades First Meeting Cont 1|Hades|又怎么了？我这里有一大堆的文件要处理。
+HadesFirstMeetingCont2|Hades First Meeting Cont 2|Hades|别烦我了，快点走吧。
+HadesFirstMeeting_B|Hades First Meeting B|Hades|太阳打西边出来啦，小子？在这大殿里，我可真不习惯你主动来找我。
+HadesFirstMeeting_B|Hades First Meeting B|Zagreus|呃。我就是感觉我应该来看看你在忙些什么。契约文书之类的一切都还好吧？
+HadesFirstMeeting_B|Hades First Meeting B|Hades|哦，是啊，文书工作正在有条不紊地进行。你打算做一部分吗？如你所见，这里的文书工作多得做不完。
+HadesLoungeClosed01|Hades Lounge Closed 01|Zagreus|父亲，休息室那边怎么回事？那是这里唯一能让大家娱乐放松的地方，您怎么给封起来了？
+HadesLoungeClosed01|Hades Lounge Closed 01|Hades|噢，这事可不能怨我，孩子。听我说，你第一次溜出去之后，刻耳柏洛斯非常伤心。然后就把那地方全毁了。现在正在修整当中。拜你所赐啊。
+HadesLoungeClosed01|Hades Lounge Closed 01|Zagreus|您的意思是，我出门之后还得管着家里的狗是吧，您坐在这里干嘛呢？
+HadesLoungeClosed01|Hades Lounge Closed 01|Hades|没错，责任全部在你身上，还能有谁？幸亏刻耳柏洛斯此后平静下来了！它找回了它的理智，我希望你哪天也能找回你的理智。
+HadesAboutGhostAdmin01|Hades About Ghost Admin 01|Zagreus|你左边那位哭哭啼啼的幽灵是谁，父亲？看来你已经找到其他人来做这些无聊工作了。我还以为我是无可替代的呢。
+HadesAboutGhostAdmin01|Hades About Ghost Admin 01|Hades|他是我新找的承包商，小子，专门负责圣殿内的事务。不过说到底，究竟是谁应该为所有这些东西买单呢？
+HadesAboutGhostAdmin01|Hades About Ghost Admin 01|Zagreus|你想道德绑架我让我为你这些贵得要死的家具出钱？
+HadesAboutGhostAdmin01|Hades About Ghost Admin 01|Hades|你在我的领地大开杀戒，留下满目疮痍，或许打扫完这一片狼藉之后，我们才能腾出时间来处理堆积如山的修整工作。
+HadesAboutGhostAdmin02|Hades About Ghost Admin 02|Hades|你可让我们的承包商有的忙了。你从我的领地上掠夺财富、然后来做这些华而不实的东西，你到底想怎么样？
+HadesAboutGhostAdmin02|Hades About Ghost Admin 02|Zagreus|噢，我只是知恩图报罢了。如果我不断被强行送回这里，这地方说不定真的就适合住人了。
+HadesAboutGhostAdmin02|Hades About Ghost Admin 02|Hades|适合住人！据我所知，让这冥界变得宜居根本不在考虑范围内。在你嚣张的时候你还要记得，这里归谁管。
+HadesAboutGhostAdmin03|Hades About Ghost Admin 03|Zagreus|父亲，我们还有很多修整工作要做，对吗？你的圣殿承包商列出了一张长长的工作清单。
+HadesAboutGhostAdmin03|Hades About Ghost Admin 03|Hades|我已经下令让倪克斯来监工。完全是她的问题，孩子。也有可能是你的。知道自己的莽撞行为需要这么多的修缮工作，你有什么想法吗？
+HadesAboutGhostAdmin03|Hades About Ghost Admin 03|Zagreus|既然您问，那我告诉您，我感觉挺好的。让每个人都有事情做，不是吗？
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Zagreus|我不得不说，父亲大人！洗劫你的领地远远胜过待在行政办公室里无休止地工作。爽太多了，真的。
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Hades|{#DialogueItalicFormat}哈！{#PreviousFormat}你就是这么和我说话，好让我答应你重操旧业吗，孩子？你简直是个祸害，让你干的行政工作你全都搞砸了。
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Zagreus|是啊，拜托你了，父亲。让我回去干以前那份糟心的活吧，好不好？
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Hades|特权是{#DialogueItalicFormat}赢来{#PreviousFormat}的，不是求人求来的，孩子。拜你所赐，这座圣殿损失了不少收入。除非你打算赔偿你造成的损失，否则你别想再踏进管理大厅一步了。
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Zagreus|那我到底要赔多少钱呢？
+HadesAboutOfficeBackstory01|Hades About Office Backstory 01|Hades|你去找圣殿承包商，看看他那里记了多少吧，别再来烦我了！
+HadesAboutOffice01|Hades About Office 01|Hades|回答我，小子，我完全不能理解你为何要重新申请进入行政大厅的权限。
+HadesAboutOffice01|Hades About Office 01|Zagreus|我就知道你肯定以为我一辈子都不会那么做，父亲大人，而那就是我的理由。但是你别担心，我可不会申请什么职位。
+HadesAboutOffice01|Hades About Office 01|Hades|其实那令我意外地放心。许多为我劳碌的幽灵还对上次你短暂的工作所造成的混乱历历在目。
+HadesAboutShoulderSkulls01|Hades About Shoulder Skulls 01|Zagreus|有一件事我想问很久了，父亲。如果你不介意的话，能不能告诉我你肩膀上的头骨是谁的？
+HadesAboutShoulderSkulls01|Hades About Shoulder Skulls 01|Hades|我不记得巨人提丰的所有子嗣，孩子。没人能记得。他们之中的某些现在就在我们的肩膀上，以免我们忘记，一切原本会与现在完全不同，甚至要更加、更加可怕。
+HadesAboutShoulderSkulls01|Hades About Shoulder Skulls 01|Zagreus|所以你和你的兄弟们杀了史上最凶恶残暴的怪物，而这些就是他后代的遗骨咯？我猜你们想让他们死得其所。我简直无法想象在你和奥林匹斯众神掌管天地以前，世界是什么样的。
+HadesAboutKeepsake01|Hades About Keepsake 01|Hades|你已经把死者印记带在身上了，一定要确保你采取了恰当的防范措施。如果由于你的疏忽导致它出了什么意外，我这里可没有备用的了。
+HadesAboutKeepsake01|Hades About Keepsake 01|Zagreus|真不敢想象没了你的庇佑我能做些什么，父亲！好吧，我仍要谢谢你。继承命中注定的荣誉并不常见，我会珍惜它的。但……要是被奥林匹斯众神知道了怎么办？是不是不能让所有人都知道你帮了我一点小忙？
+HadesAboutKeepsake01|Hades About Keepsake 01|Hades|对。你很走运，无形者的力量可以随时隐藏自身；还记得你的老师总是怎么教导你的吗？
+HadesAboutKeepsake01|Hades About Keepsake 01|Zagreus|……恐惧是弱者的专利？
+HadesAllowsLegendaryKeepsakes01|Hades Allows Legendary Keepsakes 01|Hades|你从倪克斯那里得到的神秘伴偶……或者不管是从谁那里拿的……我知道它们在协助你。
+HadesAllowsLegendaryKeepsakes01|Hades Allows Legendary Keepsakes 01|Zagreus|是的，这么说吧……我打算采取一切手段逃出这个地方，是吧？我觉得如果我呼唤奥林匹斯众神寻求援助的话，或许我的一部分朋友可以在危难时刻助我一臂之力。
+HadesAllowsLegendaryKeepsakes01|Hades Allows Legendary Keepsakes 01|Hades|我不是那个意思。我是说，我们俩在地表战斗时，你的某些{#DialogueItalicFormat}朋友{#PreviousFormat}显然不太情愿违抗我。现在我准许他们在必要时这样做了。
+HadesAllowsLegendaryKeepsakes01|Hades Allows Legendary Keepsakes 01|Zagreus|等等，真的吗？你刚刚说即使你那些忠实下属在那里与你为敌也没关系？你真的不会追究他们的责任？
+HadesAllowsLegendaryKeepsakes01|Hades Allows Legendary Keepsakes 01|Hades|我将把那视为他们的义务之一。去吧。
+HadesAboutZagreusPromotion01|Hades About Zagreus Promotion 01|Zagreus|父亲，我想问问：你看，我当上了优秀圣殿仆从，整个休息室都看着我的大头照，这事你难不难受？
+HadesAboutZagreusPromotion01|Hades About Zagreus Promotion 01|Hades|你以为哪个人的照片会挂在那里，全都是我一个人能拍板决定的吗？不过，确实有些不愿透露姓名的人说过你的好话，说了好几次。
+HadesAboutZagreusPromotion01|Hades About Zagreus Promotion 01|Zagreus|鲜血与黑暗啊……我一直以为那个展板不过是个笑话罢了。可看到我自己的照片挂在上面……感觉还挺不错的。谢了，父亲，或许我还会再上榜呢。
+HadesAboutSundial01|Hades About Sundial 01|Hades|打扰一下，孩子，你干嘛要在那个地方安装个日晷呢？你明知道我一直都想安装个日晷。你这么做，是想展现一下你令人敬畏的权威吗？还是不想让我体验自己动手的乐趣？
+HadesAboutSundial01|Hades About Sundial 01|Zagreus|或许两者都有吧？或许，你不应该总是在揣测我做每件事的动机，妄想着那些我根本就没想过的邪恶念头，你说呢？
+HadesAboutSundial01|Hades About Sundial 01|Hades|{#DialogueItalicFormat}哈！{#PreviousFormat}反正要是让我来的话，我是不会选这种大理石材质的。
+HadesLoungeRepaired01|Hades Lounge Repaired 01|Zagreus|你猜怎么着，父亲？休息室整理好了。只要钱到位了，你那位承包商办起事来效率过人。有时间你也试试吧！
+HadesLoungeRepaired01|Hades Lounge Repaired 01|Hades|你花钱修好你一手造成的破坏，难道还要我夸你不成？我觉得你想要的不止夸奖而已。
+HadesLoungeRepaired01|Hades Lounge Repaired 01|Zagreus|如果我把这破地方的家具全部换新，您能不能对我态度好点？
+HadesLoungeRepaired01|Hades Lounge Repaired 01|Hades|我认为，你可以试试，孩子。不过我还是建议你省点力气比较好。
+HadesMiscMeeting01|Hades Misc Meeting 01|Hades|你回来了啊。改变主意了吗，还是打算接着挨打受苦？
+HadesMiscMeeting01|Hades Misc Meeting 01|Zagreus|那当然是接着挨打受苦了。毕竟是您教的我要学会追求更好的东西。
+HadesMiscMeeting01|Hades Misc Meeting 01|Hades|随你怎么说，孩子。不过，给我记住了，总有一天，你自己选择的路会告诉你，我是对的。
+HadesMiscMeeting02|Hades Misc Meeting 02|Hades|这么快就回来了？怎么样，孩子，要放弃吗，嗯？
+HadesMiscMeeting02|Hades Misc Meeting 02|Zagreus|你是想那样的吧？所幸我有另一家人信任我。
+HadesMiscMeeting02|Hades Misc Meeting 02|Hades|不要随随便便轻信他人。我的兄弟们在奥林匹斯娱乐嬉戏，而{#DialogueItalicFormat}我{#PreviousFormat}却在努力工作！你跟他们一样，难怪他们喜欢你。
+HadesMiscMeeting03|Hades Misc Meeting 03|Hades|进展如何？不吝赐教，这次你是怎么个死法？我和刻耳柏洛斯都等不及想听听了。
+HadesMiscMeeting03|Hades Misc Meeting 03|Zagreus|这样的话，那我就不说了。
+HadesMiscMeeting03|Hades Misc Meeting 03|Hades|好。你的失败真是显而易见，次数太多了！仿佛我的领地存在就是为了困住你一样。困住你，还有每一位曾经活着的灵魂。当然了，你可以继续挣扎。
+HadesMiscMeeting04|Hades Misc Meeting 04|Hades|欢迎回家，孩子。你错过了晚饭……还是早饭，或者其他什么乱七八糟的饭。
+HadesMiscMeeting04|Hades Misc Meeting 04|Zagreus|没事，父亲。我现在还不饿。
+HadesMiscMeeting04|Hades Misc Meeting 04|Hades|……我问了好几次，每次我让他们建一座日晷的时候，他们都不干，真是难以置信。你对我的无礼都让他们给学去了。
+HadesMiscMeeting04_B|Hades Misc Meeting B 04|Zagreus|没事，父亲。我现在还不饿。
+HadesMiscMeeting04_B|Hades Misc Meeting B 04|Hades|……我要求了无数次让他们造一台日晷，但每次他们都说不行，真是难以置信。
+HadesMiscMeeting05|Hades Misc Meeting 05|Hades|血与黑暗啊，真是可恶，这地方正分崩离析……根本没人在踏实工作。
+HadesMiscMeeting05|Hades Misc Meeting 05|Zagreus|父亲，大家都是死人了。您就饶了他们吧。
+HadesMiscMeeting05|Hades Misc Meeting 05|Hades|你知道什么叫踏实工作吗？最起码那些可怜的死人还知道尊称我为大人。那你可就不一样了。
+HadesMiscMeeting06|Hades Misc Meeting 06|Hades|满足自己愚蠢的冲动了吗？也许复仇三女神的皮鞭能让你清醒过来。
+HadesMiscMeeting06|Hades Misc Meeting 06|Zagreus|我跟她们交过手了，谢谢。
+HadesMiscMeeting06|Hades Misc Meeting 06|Hades|一派胡言。你先是公然蔑视我，现在又撒谎。你放心，我下次跟复仇女神见面的时候，我们会讨论一下这个问题的。
+HadesMiscMeeting07|Hades Misc Meeting 07|Hades|哈，我是老眼昏花了吗，是你吗，小子？！刻耳柏洛斯，看看是谁回来了！
+HadesMiscMeeting07|Hades Misc Meeting 07|Storyteller|{#DialogueItalicFormat}刻耳柏洛斯悲哀地看向王子。
+HadesMiscMeeting07|Hades Misc Meeting 07|Zagreus|别把狗也扯进来，父亲。
+HadesMiscMeeting07|Hades Misc Meeting 07|Hades|你对我说的话，刻耳柏洛斯也能听到！你或许还能从他身上学点什么，学会听话，学会服从！
+HadesMiscMeeting08|Hades Misc Meeting 08|Hades|他回来了，刻耳柏洛斯！就和我想得一样。
+HadesMiscMeeting08|Hades Misc Meeting 08|Zagreus|我回来了，父亲。
+HadesMiscMeeting08|Hades Misc Meeting 08|Hades|不好意思他又打扰你休息了，刻耳柏洛斯，但你做得很好。这地方依然守备森严，符合你定下的高标准。
+HadesMiscMeeting09|Hades Misc Meeting 09|Hades|我是怎么告诉你的，孩子？你总是在浪费你自己的时间，还有我的时间。我的冥界怎么样，{#DialogueItalicFormat}嗯{#PreviousFormat}？
+HadesMiscMeeting09|Hades Misc Meeting 09|Zagreus|我都不知道您是怎么熬过来的。
+HadesMiscMeeting09|Hades Misc Meeting 09|Hades|起码有些事情依然在稳定地运转。下次你死的时候，记得给那些受折磨的灵魂带去我温暖的慰问。
+HadesMiscMeeting10|Hades Misc Meeting 10|Hades|{#DialogueItalicFormat}啊{#PreviousFormat}，真丢人啊，孩子。我还以为这次你应该能成功了。
+HadesMiscMeeting10|Hades Misc Meeting 10|Zagreus|真的吗…？我是说，等下，原来你开玩笑呢。这强大的幽默感真是让我猝不及防。
+HadesMiscMeeting10|Hades Misc Meeting 10|Hades|我当然是在开玩笑呢，就像我一直说的那那样，你永远不可能成功。不过你到的地方比我想得更远，所以，谁知道呢……
+HadesMiscMeeting11|Hades Misc Meeting 11|Hades|……你离开有段时间了……
+HadesMiscMeeting11|Hades Misc Meeting 11|Zagreus|我要去找母亲。不管要花多久。
+HadesMiscMeeting11|Hades Misc Meeting 11|Hades|最后再说一次，你不准再在我的圣殿里提这个女人。你要想了解她，你就自己去找她。
+HadesPostFlashback01|Hades Post Flashback 01|Hades|是倪克斯在煽动你吧。你想利用她的怜悯？我无所谓。无论如何，她的力量是有极限的。
+HadesPostFlashback01|Hades Post Flashback 01|Zagreus|你怎么能……倪克斯是夜的化身，她想做什么都行，是这样的吧，父亲？你觉得是我把她扯进这些事情里的吗？
+HadesPostFlashback01|Hades Post Flashback 01|Hades|小子，我们这一家人，更别提还有那些愚蠢的亲戚，全都卷进了你制造的这场混乱当中。你还敢管这叫{#DialogueItalicFormat}事情{#PreviousFormat}？
+HadesPostFlashback02|Hades Post Flashback 02|Zagreus|那么，我们就开诚布公地说一说吧，父亲大人。既然我们最近能够更坦率地讨论我的继承权问题，那么……你和我的母亲……怎么说好呢，我是不是还有其他的兄弟姐妹？
+HadesPostFlashback02|Hades Post Flashback 02|Hades|我记得我跟你说过，别在我面前提她！庆幸你是独生子吧。你这么没用，而且又是这种性情……我何必冒这个险，再生一个像你这样的儿子或女儿呢？
+HadesPostFlashback02|Hades Post Flashback 02|Zagreus|当然，你的想法很有道理，但有时候总是事与愿违。至少从你那些兄弟们的传闻里我是这么觉得的。
+HadesPostFlashback02|Hades Post Flashback 02|Hades|噢，我那些兄弟和你都不是什么好东西！认识我的人都知道我没有继承人。如果你曾有心尝试，就不可能走到今天这般境况！而且，现在我们家再也没有其他人了。只有你，和我。
+HadesAboutOrpheusUnlockItem01|Hades About Orpheus Unlock Item 01|Zagreus|你说我的房间像个猪圈，那你看看你自己的桌子吧，父亲！你知不知道你的宫廷乐师遇到了什么事情，嗯？他的判决书在什么地方？他被困在了塔耳塔罗斯，这都是因为他不愿听令为你唱歌，你知道吗？
+HadesAboutOrpheusUnlockItem01|Hades About Orpheus Unlock Item 01|Hades|我的办公桌比{#DialogueItalicFormat}你的{#PreviousFormat}可有条理多了，小子！如果你真的那么关心我们的宫廷乐师，那么你何不亲自替他受刑？我一直没时间着手处理这件事。
+HadesAboutOrpheusUnlockItem01|Hades About Orpheus Unlock Item 01|Zagreus|何乐而不为呢。既然你这么忙，我会先问问大殿里的承包商。
+HadesAboutOrpheus01|Hades About Orpheus 01|Hades|我知道，你之前试图说服我们的乐师重新施展他的才华。这是你最近做过的比较有用的事情。
+HadesAboutOrpheus01|Hades About Orpheus 01|Zagreus|我虽然不敢肯定，但你刚才说的话里是不是带有一点赞美的意思？
+HadesAboutOrpheus01|Hades About Orpheus 01|Hades|我确定你的油嘴滑舌肯定能给他带来非常多的创作灵感。
+HadesAboutOrpheusSingsAgain02|Hades About Orpheus Sings Again 02|Hades|我有预感我们的乐师最后一定能重拾他的天赋和技艺，孩子。我的直觉又准了一次。你看起来似乎有点烦恼。不喜欢这首歌吗？主题可是{#DialogueItalicFormat}你{#PreviousFormat}哦！
+HadesAboutOrpheusSingsAgain02|Hades About Orpheus Sings Again 02|Zagreus|歌里说我其实是宙斯的私生子，跟酒神也有不可分割的联系，还被泰坦们大卸八块，最后复活成为凡人，但我将永远被困在这里。
+HadesAboutOrpheusSingsAgain02|Hades About Orpheus Sings Again 02|Hades|俄耳甫斯这家伙一天到晚胡言乱语都是和你学的。真希望这通胡言乱语传遍大江南北，好让大家都知道我跟你一点关系都没有。
+HadesAboutOrpheusSingsAgain02|Hades About Orpheus Sings Again 02|Zagreus|我觉得不大可能。因为俄耳甫斯的听众并不多。
+HadesAboutEurydice01|Hades About Eurydice 01|Zagreus|父亲，我遇到了一位叫欧律狄克的橡树仙女。你应该知道她。她跟俄耳甫斯之间的事是真的吗？他们说你差点让她离开了这里，那你为什么不让我离开？
+HadesAboutEurydice01|Hades About Eurydice 01|Hades|{#DialogueItalicFormat}呸！{#PreviousFormat}俄耳甫斯是个才华横溢的音乐家，也同时是个蠢货。我一开始就知道他不可能把他的妻子带出去。她，或任何人，包括你，都不可能逃出去。
+HadesAboutEurydice01|Hades About Eurydice 01|Zagreus|你把他耍了。或者说跟他进行了一次不公平交易。无所谓。要怎样才能撤销他们之间的分居令？
+HadesAboutEurydice01|Hades About Eurydice 01|Hades|这事没得谈，小子。撤销分居令！这可要花好大一笔钱。这件事没得商量。你还是忙自己的事去吧，这种事就不劳你费心了。
+HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|父亲大人，你有没有想过，如果俄耳甫斯能见到他的灵感女神，他或许能够将他的音乐才能发挥得更好？
+HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|我考虑过很多可能性，小子。 我相信俄耳甫斯在入侵我的领地时、在他自愿放弃见他所谓的灵感女神之前，也已经考虑了许多可能性！
+HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|所以，就因为他和你签了合同，你就可以强迫他在这里待一辈子？
+HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|和我签的合同是有约束力的！除非他们从档案卷宗里把它找出来，然后亲手撕毁！不过在近期，这是不可能发生的。
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Zagreus|父亲大人，假设我愿意付出代价，撤销俄耳甫斯和欧律狄克之间的分居令。您可以接受新的条款吗，还是会故意骗我答应你的无理要求？
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Hades|小子，我只接受自己承诺过的条款。这些规定是维持冥界表面和平的基石！但你的要求简直太荒谬了。撤销分居令的代价你根本无法承担。
+HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|是你让宫廷乐师签的合同失效。是你利用手上的权力忤逆我。
+HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Zagreus|是我又怎么样？我只是想让他有一些休息的时间。他还是你的宫廷乐师，不是吗？
+HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|他确实是。而且我认为他非常清楚不该冒犯我的权威。现在你给我出去！我另找时间来处理你的桀骜不驯。
+HadesAboutSingersReunionQuest02_B|Hades About Singers Reunion Quest B 02|Hades|他确实是。而且我认为他非常清楚不该冒犯我的权威。不过，我觉得冥后可能会和你一样，觉得他已经还清了所欠……？
+HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|父亲，我可以问一些和工作有关的问题吗？我知道这个叫西西弗斯的幽灵过去对你和塔纳托斯做了过分的事，他也因此付出了惨重的代价。但除了折磨他，复仇女神们现在没其他事可做了吗？
+HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Hades|你过来就是为了质疑{#DialogueItalicFormat}我{#PreviousFormat}对人力的分配吗？真可笑。我才不会在乎那个该死的幽灵。他饱受折磨也是咎由自取，谁让他如此傲慢自大。他的关押判决书早就丢了！
+HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|所以，如果我可以找到判决书，从理论上来说，我就可以赦免他？
+HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Hades|如果你可以做好自己的工作，并且引发奇迹的话，那么确实如此！到时候，你想干什么都可以，包括在这些不值一提的家伙身上浪费时间。
+HadesAboutMyrmidonReunionQuest01|Hades About Myrmidon Reunion Quest 01|Hades|你篡改了我亲自订下的契约，却没有征得我的同意……你撤销了那些早就成为共识的条款。孩子，你是打算破坏这座圣殿里的一切吗？还是说，你只是想推翻我？
+HadesAboutMyrmidonReunionQuest01|Hades About Myrmidon Reunion Quest 01|Zagreus|是你的错觉而已，父亲。事实上，我能成为你的儿子，拥有这一切，这就是命运赐予我的权利。如果我不这么做的话，你那些最忠诚的仆人们永远都会受到那些剥削条款的束缚。
+HadesAboutMyrmidonReunionQuest01|Hades About Myrmidon Reunion Quest 01|Hades|那些条款都是{#DialogueItalicFormat}他们{#PreviousFormat}自己签的！是他们自己！那些条款会为圣殿带来好处，否则如果阿喀琉斯打算擅离职守、前往至福乐土，该怎么办？
+HadesAboutMyrmidonReunionQuest01|Hades About Myrmidon Reunion Quest 01|Zagreus|找个人替代他不就完了？而且这个问题毫无意义，他人明明就在这里！他是不会走的。如今他的力量变强了，足以挣脱束缚了，说不定他干活会干得更好呢。
+HadesAboutMyrmidonReunionQuest01|Hades About Myrmidon Reunion Quest 01|Hades|说好听点，你是太天真了。人越是能够逃避责任，就越不想再和责任扯上关系。
+HadesRunProgress01|Hades Run Progress 01|Hades|墨纪拉跟我说你打败她了。可以说这件事让她感觉很难堪。
+HadesRunProgress01|Hades Run Progress 01|Zagreus|那你是不是想变着法儿地惩罚她？
+HadesRunProgress01|Hades Run Progress 01|Hades|噢，这个我早就安排好了。你以为她是自愿去处理你的吗？根本没有人自愿。这件事就是这样见不得人。
+HadesRunProgress02|Hades Run Progress 02|Hades|跟我说说，孩子，你喜欢水仙花平原的炎热气温吗？你是不是觉得自己能适应那里。
+HadesRunProgress02|Hades Run Progress 02|Zagreus|气候变化而已。就算有点让人不舒服也无所谓。
+HadesRunProgress02|Hades Run Progress 02|Hades|那你还没见识过真正的不舒服。闯出塔耳塔罗斯跟你即将面对的东西相比根本不值一提。
+HadesRunProgress03|Hades Run Progress 03|Hades|听说你在至福乐土引起了不小的轰动。永恒仙境里的激烈战斗！
+HadesRunProgress03|Hades Run Progress 03|Zagreus|你管那叫仙境？不过是一群好战的幽灵，通过战斗来让自己有活着的感觉。
+HadesRunProgress03|Hades Run Progress 03|Hades|你又知道些什么！那个地方能够满足最伟大的凡人灵魂们的一切需求。我真担忧他们会对这一切颇有微词。
+HadesRunProgress04|Hades Run Progress 04|Hades|回答我吧，孩子，这个问题我绞尽脑汁也无法想通：到底要怎样才能让你明白，你根本没法离开这里？
+HadesRunProgress04|Hades Run Progress 04|Zagreus|把我跟普罗米修斯栓一块儿，再派一只大鸟不停地啄食我的内脏就行了。
+HadesRunProgress04|Hades Run Progress 04|Hades|我怎么可能会用这种残忍手段？气死我了你这孩子。惩罚不是用来解决问题的；惩罚本身就是目的。我还以为经过塔耳塔罗斯的你已经明白这个道理了。
+HadesRunProgress05|Hades Run Progress 05|Hades|不好意思他又来骚扰你了，刻耳柏洛斯。我知道你喜欢在这里趴着休息，但是除了你，我找不到其他更能看守冥界入口的家伙了。
+HadesRunProgress05|Hades Run Progress 05|Zagreus|你应该知道，光靠让我内疚是不可能让我放弃行动的。你才是那个应该内疚的人，你命令刻耳柏洛斯去阻止我前进。
+HadesRunProgress05|Hades Run Progress 05|Hades|你又知道些什么？没人能命令得了刻耳柏洛斯。他只是清楚知道这是他的责任。
+HadesAboutCharonFight01|Hades About Charon Fight 01|Hades|{#DialogueItalicFormat}啊{#PreviousFormat}，过来证实一下，臭小子。根据最新提交上来的报告……你试图从卡戎，从他眼皮底下偷东西？而且最后还被杀了？哪怕是你，这也极度不光彩。
+HadesAboutCharonFight01|Hades About Charon Fight 01|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，我当时是{#DialogueItalicFormat}借用{#PreviousFormat}，不是扒窃，好吧？为什么从来没人跟我说过卡戎原来是这么个狠角色？我还以为天天摇船的人脾气肯定很好呢。
+HadesAboutCharonFight01|Hades About Charon Fight 01|Hades|你惹怒了古老的冥界之神，他杀了你，你却还觉得意外？你活了这么久，难道就什么都没学到吗？
+HadesAboutWeaponEnchantments01|Hades About Weapon Enchantments 01|Hades|找到我以前使的那柄趁手长矛了吗？还是说你用上了我兄弟姐妹们用过的武器？这些东西保管得很严，不过现在似乎到你手上了。
+HadesAboutWeaponEnchantments01|Hades About Weapon Enchantments 01|Zagreus|那些武器就在院子里，你现在当然知道它们了。我偷走了它们。你为什么不直接从我这把它们收回去？这样我就无处可逃了。
+HadesAboutWeaponEnchantments01|Hades About Weapon Enchantments 01|Hades|这件事情我想好久了。不过，我还没有傻到去驯服这些被诅咒的东西。这些东西捉摸不定，根本管不住。像你一样。现在，你和你的武器干嘛不接着取悦彼此呢？
+HadesAboutFurySistersUnion01|Hades About Fury Sisters Union 01|Zagreus|墨纪拉和她的姐妹联合起来对付我了。我是真没想到还有谁能说服她跟阿勒克图以及提西福涅合作。甚至说把她们三个放到一个房间。
+HadesAboutFurySistersUnion01|Hades About Fury Sisters Union 01|Hades|我的说服力你无法想象，孩子。我给你提个建议吧，你也不用非得接受，我建议你不要公开讨论这个事情。墨纪拉是很专业的；但她在这件事情上的态度已经非常明确。
+HadesAboutSatyrs01|Hades About Satyrs 01|Hades|很不幸，我极少能找到这样做的理由，但我还得谢谢你，孩子。你解决了那些萨提尔之后，鼠兽就把我们的神庙弄得一团糟！这些崽种们的增殖速度非常快。
+HadesAboutSatyrs01|Hades About Satyrs 01|Zagreus|它们根本不听你指挥，并且跟你手下那些难缠的仆人一样让人恼火。看来你们相处的不大好啊。
+HadesAboutSatyrs01|Hades About Satyrs 01|Hades|它们在冥界中就像是一场瘟疫，不过目前情况还在掌控之中。一旦它们真正死亡之后，就会全部归于我麾下了。
+HadesAboutCharon01|Hades About Charon 01|Zagreus|父亲，你总说奥林匹斯那帮人不想跟我们有任何瓜葛。但是卡戎不就跟赫尔墨斯共事吗？所以这只是{#DialogueItalicFormat}你自己{#PreviousFormat}单方面不想和{#DialogueItalicFormat}他们{#PreviousFormat}有瓜葛吧。
+HadesAboutCharon01|Hades About Charon 01|Hades|我确实是不想跟他们有瓜葛。我那焦躁的外甥是出于必要才帮助卡戎。凡人的死亡速度和越境需求让塔纳托斯都有点吃不消了。
+HadesAboutCharon01|Hades About Charon 01|Zagreus|要我帮忙吗？给我你的庇佑，然后我立刻就直冲凡界。
+HadesAboutCharon01|Hades About Charon 01|Hades|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，不。我觉得不行，孩子。你生来属于冥界。凡间不过是转瞬即逝、无物长驻的废墟。你只是身在福中不知福。
+HadesAboutMother01|Hades About Mother 01|Hades|她走了，孩子。不回来了。你找不到她的。我还以为你自己早就明白这点。但还是得我来告诉你。
+HadesAboutMother01|Hades About Mother 01|Zagreus|你在说母亲。你怎么知道呢？你还说我不可能到达凡界，但我现在近在咫尺。
+HadesAboutMother01|Hades About Mother 01|Hades|这是我最后一次警告你了，孩子…… 马上停止你鲁莽的行为。不然可能会导致你迄今为止都没有经历过的严重后果。
+HadesAboutThrone01|Hades About Throne 01|Hades|不论你对我的座椅做了什么，都与我无关。从我这个绝佳位置甚至看不见它！完全是愚蠢的胡闹，浪费宝贵的资源。再无其他。
+HadesAboutThrone01|Hades About Throne 01|Zagreus|那不是为你准备的，父亲，而是为其他人准备的。你就把它当做是对刻耳柏洛斯的致意吧！另外，你真的应该考虑时不时地换一下这里的装饰，让大家保持新鲜感！
+HadesAboutThrone01|Hades About Throne 01|Hades|没完没了的工作已经足以让大家保持新鲜感了。不过，如果你打算把你无穷无尽的时间浪费在毫无意义的装修上面，那我也无话可说。
+HadesAboutSkelly01|Hades About Skelly 01|Zagreus|父亲大人，有很多骷髅都是直接听命于你的……在这些骷髅里面，不会刚好有哪个就在这座圣殿里工作吧？比如说，在我的院子里面？
+HadesAboutSkelly01|Hades About Skelly 01|Hades|{#DialogueItalicFormat}骷髅{#PreviousFormat}！等你下次去水仙花平原的时候，它们肯定会好好欢迎你的。或许你没注意到，孩子，但这座圣殿还是很讲究礼仪的！
+HadesAboutWar01|Hades About War 01|Zagreus|你有没有想过让塔纳托斯休息一下，父亲？他最近的工作似乎已经超出他该干的量了。
+HadesAboutWar01|Hades About War 01|Hades|比起控诉我，不如去责备那些该死的凡人竟那样脆弱，或者去责备阿瑞斯。凡人们在地上发动战争，他们不仅彼此厮杀，还会死于战争带来的种种后果！
+HadesAboutWar01|Hades About War 01|Zagreus|什么战争？上面到底发生了什么事情？其他的奥林匹斯众神为什么不做点什么？
+HadesAboutWar01|Hades About War 01|Hades|{#DialogueItalicFormat}啧{#PreviousFormat}！我哪知道啊？那些凡人有的是办法来解决他们之间微不足道的纠纷。不管怎样，我们迟早都得想办法给他们腾出更多地方。
+HadesAboutMinotaur01|Hades About Minotaur 01|Hades|你好像在至福乐土跟弥诺陶交过手了吧。他应该是整个地府唯一比你还牛脾气的了。
+HadesAboutMinotaur01|Hades About Minotaur 01|Zagreus|你想说这句话很久了吧，父亲？我怀疑你把米诺斯的公牛送到至福乐土就是为了有朝一日能对我说这句话。
+HadesAboutMinotaur01|Hades About Minotaur 01|Hades|你太抬举我了，孩子。弥诺陶目前这样的情况完全是因为其他原因。
+HadesAboutMinotaur01|Hades About Minotaur 01|Zagreus|他为你做事对吧？你以为他能拦得住我。
+HadesAboutMinotaur01|Hades About Minotaur 01|Hades|我提出的任务，对至福乐土里大部分的人来说，那都是求之不得。那样子，你想也想象不到。去吧，看看你要怎样斗这头牛。
+HadesAboutTheseus01|Hades About Theseus 01|Hades|与雅典最伟大的国王打得怎么样，孩子？你与他和弥诺陶的那些战斗最近可是冥界的热门话题。
+HadesAboutTheseus01|Hades About Theseus 01|Zagreus|少来了，父亲。我看你是除了忒修斯之外，根本找不到其他愿意阻止我的英雄吧。这人张口闭口就吹自己是最强战士。我寻思，赫拉克勒斯是太忙没时间噢？
+HadesAboutTheseus01|Hades About Theseus 01|Hades|别跟我提赫拉克勒斯。你只了解这些英雄的作为，而他们的人格你一概不知。赫拉克勒斯很幸运，有我兄弟的庇佑，不然他现在还在塔耳塔罗斯呆着。凡人们对英雄这个词的理解简直是荒谬。
+HadesAboutNyxChaosReunionQuest01|Hades About Nyx Chaos Reunion Quest 01|Hades|我知道你干的“好事”。下次不要插手倪克斯的事情了，小子。这里需要她！她不应该沉湎于原始的黑暗中。
+HadesAboutNyxChaosReunionQuest01|Hades About Nyx Chaos Reunion Quest 01|Zagreus|你不过是因为我们之中还有人会为自己的父母着想而发怒。
+HadesAboutNyxChaosReunionQuest01|Hades About Nyx Chaos Reunion Quest 01|Hades|父母，{#DialogueItalicFormat}哼{#PreviousFormat}！你完全不知道父母能做什么。我不管你有什么盘算，现在离开这里。
+HadesRunCleared01|Hades Run Cleared 01|Hades|看来你打败我的九头蛇了，孩子。脑袋一个没留。这对你来说是一个巨大的进步。不过，最后你还是回来了。
+HadesRunCleared01|Hades Run Cleared 01|Zagreus|你耍我。根本没有路可走！我本该继续前进！去找母亲！
+HadesRunCleared01|Hades Run Cleared 01|Hades|你应该放弃。另外，如果你真想做点好事，你应该知道现在整个冥界都在修整当中。目前你没法继续前进了。
+HadesRunCleared01|Hades Run Cleared 01|Zagreus|我可以等。你不可能让整个地方永远封闭下去。上面的凡人可受不了这样。
+HadesRunCleared01|Hades Run Cleared 01|Hades|他们确实没有耐心。跟你一样。那就等吧，跟其他人一起等。与我无关。我有其他要紧事要做。
+HadesRunCleared01FollowUp|Hades Run Cleared Follow Up 01|Hades|现在你可以走了，至于你是去寻死还是干什么其他的我都不想管。
+HadesRunCleared02|Hades Run Cleared 02|Hades|孩子。我听说你把至福乐土最强战士和他的牛头人伙伴一起给拉下了神坛。跟我说说，你怎么做到的？
+HadesRunCleared02|Hades Run Cleared 02|Zagreus|首先，你得告诉我什么时候才能离开冥界。忒修斯看守的通道是条死路！真的存在凡界这种地方吗？外部世界什么的都是骗人的？！
+HadesRunCleared02|Hades Run Cleared 02|Hades|啊，这个问题问得挺好！你能成长到这个地步真是令人欣慰。就算外部世界真的存在，你在短时间内也是没法见到的。你知道原因，对吧？
+HadesRunCleared02|Hades Run Cleared 02|Zagreus|冥界仍在修整当中？
+HadesRunCleared02|Hades Run Cleared 02|Hades|冥界仍在修整当中。现在你可以回去继续让忒修斯国王拿他的矛扎你了，消磨消磨时间。到时候凡人会闹着要我重新开张，然后呢？
+HadesRunCleared03|Hades Run Cleared 03|Hades|你回来迟了，孩子！你知不知道现在几点了？
+HadesRunCleared03|Hades Run Cleared 03|Zagreus|等下，就这？我刚刚打败你了吧，你就没什么其他可说的？
+HadesRunCleared03|Hades Run Cleared 03|Hades|打败{#DialogueItalicFormat}我{#PreviousFormat}？{#DialogueItalicFormat}哈，哈哈哈{#PreviousFormat}，一派胡言。这种事情我可以直接撤回。
+HadesRunCleared03|Hades Run Cleared 03|Zagreus|你认真的？你就装作无事发生一样？
+HadesRunCleared03|Hades Run Cleared 03|Hades|一切照旧。除非命运之神有其他安排。又或者，等到我们的冥界修整结束之后。就看哪个快了。
+HadesRunCleared03_C|Hades Run Cleared C 03|Zagreus|所以你就非得等冥界修整结束之后，再回答我之前问的有关母亲的问题吗？
+HadesRunCleared03_C|Hades Run Cleared C 03|Hades|我不知道你到底想干什么，孩子。但是我现在精力确实都集中在修整这件事情上。也许有一天整个冥界都运转正常之后，我就有时间去回答你那些个问题了。
+HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|不。等等，什么？我刚刚单打独斗打赢了你，而且终于找到了母亲，你现在就只对我说这些？
+HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|{#DialogueItalicFormat}哈，哈哈{#PreviousFormat}！一派胡言。你以为我会记得有这回事？
+HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|开玩笑。你要假装根本没这回事？她想要你的答案，我也是。她要让你放我走，让我回到她身边！
+HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|住口！此事不必再提。这次我不想再纵容你那些神经质的妄想了。
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|我告诉过你了，小子。我早告诉过你！此处永无出路。非要吃点苦头吗？
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|你本可以告诉我更重要的事。母亲之所以离开是因为她不知道我还活着，这都是因为你！你完全可以想象她心中有多少疑问。现在我要去往她身边，你或许乐意放我一马？
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，一派胡言！给我听好，如果你那榆木脑袋里还剩下哪怕一点理智，我警告你，此时此刻，不许再提这个话题。
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|让我走。让我找到她。这也是她所希望的！
+HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Zagreus|不得不说，你真是惹出了相当大的麻烦啊，父亲，而且你在解决问题这方面完全没起到任何作用。不过，这里不是咱们闲聊的地方，是吧？
+HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Hades|不是！当然不是。不过我觉得，用不了多久，咱们就能再私下会面了。
+HadesRunCleared03_B|Hades Run Cleared B 03|Zagreus|怎么回事，父亲？您今天好像不怎么爱说话。甚至看上去好像有点忧郁，又有点懊恼。
+HadesRunCleared03_B|Hades Run Cleared B 03|Hades|住口，孩子，如果你现在就给我离开那最好不过了。我有更要紧的事要做，没空听你在这里吹牛。此时此刻还不是我们聊天的时候。
+HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|老实说，父亲。最近发生了很多让你分心的事情，我知道你肯定不喜欢，但你不停的鞭策确实带来了明显的效果。是我的错觉吗？还是说，冥界的翻修工作马上就要完成了？
+HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Hades|你又开始不切实际了，翻修工作的最后阶段是很重要的，重要程度仅次于最初的计划部分。还有很多重要的工作要干呢！
+HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|我倒不是说它不重要，我只是说，活终于算是要干完了。等你干完活，有空闲的时间的话，你打算干什么？
+HadesAboutShrine01|Hades About Shrine 01|Zagreus|院子里那张巨大的契约是什么东西，父亲？提供给我的工作岗位？
+HadesAboutShrine01|Hades About Shrine 01|Hades|别瞎想了。那个就是为了让你受更多的苦而已，就这样。
+HadesAboutShrine01|Hades About Shrine 01|Zagreus|我干嘛要让自己受更多的苦？
+HadesAboutShrine01|Hades About Shrine 01|Hades|谁知道呢，孩子，或者说，谁在乎呢？为了让上头的凡人因为你的事迹膜拜你吗？去吧，继续受苦，这样我就知道我的冥界还是可以管住你的。
+HadesAboutBounties01|Hades About Bounties 01|Hades|我的记录显示你的收入都来自你的战绩，对吗，小子。断绝一切关系后，我猜你需要有自己的收入来源。
+HadesAboutBounties01|Hades About Bounties 01|Zagreus|什么，你是指那些恩赐吗，那些不就是用来奖励能够打败墨纪和你的所有其他守护者的人吗？你不觉得你把他们都当成目标会给他们带来不必要的压力吗？
+HadesAboutBounties01|Hades About Bounties 01|Hades|他们必须超越原来的自己，否则就会被替换掉。如果想在各自的岗位上成长，他们就得认清自己的弱点。我也不例外。你能不能得到这些恩赐并不重要。
+HadesAboutBounties01|Hades About Bounties 01|Zagreus|如果是打败你的恩赐呢？谁会取代你呢？
+HadesAboutShrine02|Hades About Shrine 02|Zagreus|看到您在院子里的新的惩罚契约了，父亲。真不愧是您啊，能找到那么大的羊皮纸来写那么多的害人条款。所以您现在为了管住我，要开始动用更严格的手段了嘛？
+HadesAboutShrine02|Hades About Shrine 02|Hades|你同不同意那个契约你自己决定，孩子。不过，在你来来往往的时候，有很重要的一点，就是我们要充分了解哪些东西会被取走。
+HadesShrineProgress01|Hades Shrine Progress 01|Hades|我好像低估了你对惩罚契约的接受能力了，孩子。我几乎想夸你几句了。
+HadesShrineProgress01|Hades Shrine Progress 01|Zagreus|夸我？我可是在您地盘里迄今为止最恶劣的环境中杀了个死去活来。给您带来各种麻烦，还有一大笔修整费用。我还以为您会难过呢。
+HadesShrineProgress01|Hades Shrine Progress 01|Hades|难过？我有什么好难过的，你这样一通乱来，让我们发现了很多自己的不足之处，现在我的下人们正积极解决这些缺陷呢。
+HadesShrineProgress01|Hades Shrine Progress 01|Zagreus|你说下人们这个词的时候听起来真的很卑鄙，知道吗？
+HadesShrineProgress01|Hades Shrine Progress 01|Hades|别让我再耽搁你了，孩子，继续前进吧！继续尝试离开这里。你在帮助这冥界变得更完善呢。
+HadesShrineProgress02|Hades Shrine Progress 02|Hades|给我一个解释：你是怎么做到的？就是那个惩罚契约。尽管它强加了诸多限制……你依然胜过了我。怎么回事？
+HadesShrineProgress02|Hades Shrine Progress 02|Zagreus|我想就是勤加练习、日常锻炼、积极的态度，你看不上眼的各种家人的祝福，还有被你弃之如敝屣的能杀死泰坦的武器。也没什么特别的。为什么这么问？
+HadesShrineProgress02|Hades Shrine Progress 02|Hades|我在想，你竟然会把这样的才华浪费在这些无聊的追求上。你根本没意识到你做到了什么，对吧？
+HadesShrineProgress02|Hades Shrine Progress 02|Zagreus|等一下，等一下，可以重复一下你的前半句话吗？关于才华的部分？
+HadesShrineProgress02|Hades Shrine Progress 02|Hades|但愿你有倾听他人意见的才华。现在，你可以滚开了。
+HadesAboutExtremeMeasures01|Hades About Extreme Measures 01|Hades|清醒点了吗，孩子？假如你还没注意到，我得提醒你惩罚契约并不是可以轻率对待的东西。
+HadesAboutExtremeMeasures01|Hades About Extreme Measures 01|Zagreus|父亲……关于惩罚契约……你实在是强得不像话，我之前一点都不知道。我们交手过那么多次……我真不敢相信你一直都在放水。你真的是很想阻止我，你根本就可以！
+HadesAboutExtremeMeasures01|Hades About Extreme Measures 01|Hades|我们都被命运女神困在这个世界。这里是我们的世界，我们也属于这里。另外……我并没有退缩或是手下留情；相反……我忘记了我曾经拥有的力量。现在我又重新取回了一部分。
+HadesAboutExtremeMeasures01|Hades About Extreme Measures 01|Zagreus|是因为我们之间的惨烈战斗吗？还是因为母亲回到了你身边？
+HadesAboutExtremeMeasures01|Hades About Extreme Measures 01|Hades|这还需要问吗。驱使我们行动的动机是很复杂的，但是如果你渴望拥有我年轻时的力量，并且希望用那种力量来面对我……那你有的是办法实现。
+HadesAboutExtremeMeasures02|Hades About Extreme Measures 02|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}……走吧，把你那幸灾乐祸的表情收起来，我要回去处理那些文书工作了。我离开了太长时间，羊皮纸都堆成山了！
+HadesAboutExtremeMeasures02|Hades About Extreme Measures 02|Zagreus|我不是来幸灾乐祸的，父亲大人。那真是一场精彩的战斗，难以置信我竟然打倒你了。
+HadesAboutExtremeMeasures02|Hades About Extreme Measures 02|Hades|……我也没想到。下次命运女神可能就不会这般青睐你了。如果还有下次的话。
+HadesAboutZeus01|Hades About Zeus 01|Zagreus|父亲，宙斯叔叔他……我跟他联系过了，他希望可以和解。他让我这样告诉你。告诉你，他原谅你……之前的作为。
+HadesAboutZeus01|Hades About Zeus 01|Hades|我兄弟宙斯要……原谅我？就他还原谅{#DialogueItalicFormat}我{#PreviousFormat}？！他竟然说这种混账话？他胡子确实挺长，但是他的见识跟你一样短。原谅我？呸！
+HadesAboutZeus01|Hades About Zeus 01|Zagreus|你做了什么……？你们之间到底发生过什么？
+HadesAboutZeus01|Hades About Zeus 01|Hades|与你无关！继续回去跟你的好叔叔玩耍去吧，跟你两个叔叔一起！以后不准再跟我提他，听到没有？
+HadesAboutPersephone01|Hades About Persephone 01|Zagreus|给您的问题，父亲大人：有没有可能……{#DialogueItalicFormat}科瑞{#PreviousFormat}这个名字是不是对您有什么特别的意义？
+HadesAboutPersephone01|Hades About Persephone 01|Hades|{#DialogueItalicFormat}什么{#PreviousFormat}，你是从哪里……？！{#DialogueItalicFormat}啊{#PreviousFormat}，我知道了，是那个冷血的女巫告诉你的，对不对？不要再提起这个名字，不管在哪里都不行，你听到了吗，小子？你只要记住：拥有这个名字的人，比我更厌恶这个名字。
+HadesAboutPersephone01|Hades About Persephone 01|Zagreus|让我想想。得墨忒尔的女儿失踪了。她后来出现在冥界这里。我……诞生了。母亲走了。得墨忒尔，和奥林匹斯山上的众神，都似乎对这件事毫无头绪。差不多吧？告诉我，究竟发生了什么？
+HadesAboutPersephone01|Hades About Persephone 01|Hades|我什么都不会说！如果你继续执着于这些你无法理解的事情，奥林匹斯山的众神之怒将会降临到你所爱的人的头上。而且我之所以警告你也不是为了{#DialogueItalicFormat}我自己{#PreviousFormat}。
+HadesAboutPersephone02|Hades About Persephone 02|Hades|又怎么了？我从你脸上看到了轻蔑的表情，你肯定又想问无聊的问题了，是不是？
+HadesAboutPersephone02|Hades About Persephone 02|Zagreus|噢，这个问题一点也不无聊。我来理理清楚。我的母亲是珀尔塞福涅。她的母亲叫得墨忒尔，但她的父亲……显然是某个农家男孩？我的身上流着他的红色血液？而且我猜我也会死。
+HadesAboutPersephone02|Hades About Persephone 02|Hades|你要把自己的弱点归咎到长辈身上？你应该为身为神仙而感恩！不过，你那爱管闲事的好奇心和不时需要他人肯定的毛病无疑都是遗传自凡人。
+HadesAboutPersephone02|Hades About Persephone 02|Zagreus|那，母亲她……难道衰老了？她会像凡人那样死去吗？听说半神都有可能……
+HadesAboutPersephone02|Hades About Persephone 02|Hades|你这狗崽子，我说过永远不要提起她！ 你亲口说过她是四季女神的女儿！ 用一用你那笨脑子吧。
+HadesAboutDemeter01|Hades About Demeter 01|Zagreus|你好，父亲大人。刚刚出去的时候我碰到得墨忒尔女士，或是说，我的外婆 ？她对你来说算是什么？前岳母？或是包袱？我们家族真复杂。
+HadesAboutDemeter01|Hades About Demeter 01|Hades|别在我的大殿里提起这个名字，明白了吗，崽子? 你完全不了解她。但是我能理解你们为何能合得来。她恨她的父亲，但这情有可原，毕竟她的父亲比我的还差，比你的更不用说。
+HadesPostEnding01|Hades Post Ending 01|Zagreus|你好啊，父亲，所以说！我可以……什么时候想出去就出去？不用遵守什么作息时间表吗？
+HadesPostEnding01|Hades Post Ending 01|Hades|你说来就来说走就走，这也是你的特点。我们的安保系统必须时刻保持警惕。所以，没错，你什么时候打算干活都行！
+HadesPostEnding01|Hades Post Ending 01|Zagreus|而奥林匹斯众神依然会帮助我，他们以为我打算从你手上逃脱，逃到{#DialogueItalicFormat}他们{#PreviousFormat}那里。你也知道，我们不可能把他们永远蒙在鼓里。
+HadesPostEnding02|Hades Post Ending 02|Hades|和我说说吧，孩子……扎格列欧斯……你为什么要这么做？为了回到冥后那里，不辞辛苦。在某个时候……你肯定已经明白了我对她的感情，可你依然坚持去找她。如果我是你的话……我是绝不会帮我的忙的。
+HadesPostEnding02|Hades Post Ending 02|Zagreus|我当时并没考虑过这么多事情，我只知道我必须找到她……而且，当我一见到她的时候，我就知道我的生命中需要她。换句话说，帮不帮你的忙，并不是我需要着重考虑的事情，父亲。我猜，只是结果刚好帮到了你而已。
+HadesPostEnding02|Hades Post Ending 02|Hades|……我明白了，我很赞赏你的坦率。不管怎么样……我很感谢你。我不清楚这一切你是怎么做到的，但我很感谢你带来了这样的结果。我很多时候都没能采取这样的行动。
+HadesPostEnding03|Hades Post Ending 03|Zagreus|我想问一下，父亲……当时你和你兄弟们抽签的时候，你抽到了这里，成了冥王，而没能成为掌管天空或海洋的神……如果你能自己选的话，你想要当哪个神？
+HadesPostEnding03|Hades Post Ending 03|Hades|我不喜欢假设，孩子，每个王国都有各种各样让人眼花缭乱的问题。你从来没体会过海底刺骨的严寒，或是奥林匹斯山那令人眼晕的高峰，但我都体验过。而且我可以保证，你是不会喜欢的。
+HadesPostEnding03|Hades Post Ending 03|Zagreus|这么长时间以来，你自己就没试过逃出冥界吗？你之前暗示过我你也试过。我一直以为你想逃出这个地方，是因为你讨厌这里。
+HadesPostEnding03|Hades Post Ending 03|Hades|我讨厌的是没有选择。好好享受你现在的自由吧，等你慢慢长大了，你肩上的重担与责任也会越来越多，最后会把你束缚住。
+HadesPostEnding04|Hades Post Ending 04|Zagreus|父亲，这些幽灵……他们会不会泄露母亲回来的消息？要是流言传出……奥林匹斯众神知道了该怎么办？
+HadesPostEnding04|Hades Post Ending 04|Hades|只有你对公然反抗我习以为常，你甚至忘了没有人胆敢违抗我，无论是死是活。在这座大殿里，{#DialogueItalicFormat}没有人{#PreviousFormat}会谈论此事，除非我们以自己的名义发布关于此事的声明。
+HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|关于你的责任，你已经可以去找我们的资源总监了，他就在我的私人房间里。通常来说，一直都是我一个人把多余的资源运回我们的王国。
+HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|就是那个传说中的资源总监吗！所以，我那么长时间辛辛苦苦赚来的、来之不易的资源，我得把它们捐出去了吗？
+HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|一点都没错。这件事并不强求你做，不过，如果你打算提高现在的职级，就必须这么做才行。
+HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|提高我的职级到底有什么意义？我还以为咱们的工作得私下里来做呢。
+HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|确实毫无意义，只会让人感到骄傲，而骄兵必败。做你该做的事情吧，把所有的事情都做好就行了，别的事情我不关心。
+HadesRevealsBadgeSeller01_B|Hades Reveals Badge Seller B 01|Hades|关于你的责任，你已经可以去找我们的资源总监了，他就在行政办公室里。通常来说，一直都是我一个人把多余的资源运回我们的王国。
+HadesAboutBadgeSellerProgress01|Hades About Badge Seller Progress 01|Hades|简单地说一句吧， 孩子，我们的资源总监告诉我说你的等级提升了。值得表扬。就这样。
+HadesAboutBadgeSellerProgress02|Hades About Badge Seller Progress 02|Hades|从你的职位等级可以看出你正在进步，你还为我们的领地带回了大量的资源。做得不错。再接再厉。
+HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|我们不能直接谈起这个，除非……{#DialogueItalicFormat}无形者{#PreviousFormat}……那是我们能给予的最高等级。我从未想象过你能到达那个等级，或者别的什么值得一提的等级。
+HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Zagreus|你一直都太不把我当回事了，父亲。不过，谢谢你注意到了这点。我觉得我应该报答这个生我养我的王国才对。
+HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|是的。这毕竟是我们唯一了解的世界。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|父亲……和奥林匹斯众神的那些事情……你就不能告诉我发生了什么事情吗，哪怕一次也好？母亲怎么会和你来了这里？你和宙斯叔叔之间有什么过节？
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|我还以为她已经告诉过你了……！{#DialogueItalicFormat}呃啊{#PreviousFormat}，跟我来吧。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|……你要向我发誓，我告诉你的事情你绝对不会说出去。向我发誓！
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|好了，好了，我发誓，我发誓就是了。以你本人之名，你说的事情我绝不外传……好了，所以呢？
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|所以……和你之前猜得八九不离十。我成为了冥王之后……你的宙斯叔叔说他很同情我。他知道你母亲在奥林匹斯山上呆得很不开心，而且……他知道我很喜欢她。所以你猜他怎么着？他把你母亲带了过来，把她像件{#DialogueItalicFormat}礼物{#PreviousFormat}一样送给了我！
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|你当时没想到会收到这样的礼物。不过她确实不想再回奥林匹斯山，你也很喜欢她，于是你并没有把她赶走。你是在怨恨宙斯把你置于这样的境地？于是就和他一刀两断了？
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|{#DialogueItalicFormat}没错{#PreviousFormat}！！那个蠢货就是喜欢心血来潮！他简直是为所欲为！他本来有无数种合情合理的办法来促成类似的结果……可他却偏要靠绑架！{#DialogueItalicFormat}虽然{#PreviousFormat}她确实想离开奥林匹斯山！
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|要是得墨忒尔和其他众神发现了真相，你和母亲……就连宙斯都会摊上麻烦，没错吧？他的脾气肯定和你的脾气差不多。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|如果你是拿我做参考的话，那你对脾气这件事情简直一无所知，扎格列欧斯。好了，到此为止！剩下的事情你已经知道了，别忘了你发过的誓。
+HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Hades|在你走之前还有件事，孩子。除非是冥后本人打算和奥林匹斯众神见面……否则关于她在这里的事情，不要和任何人说，明白吗？
+HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Zagreus|我明白，但她也没必要一直这么躲着。
+HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|所以说，既然现在庆典已经结束，是不是要像平时那样继续工作了？
+HadesPostEpilogue01|Hades Post Epilogue 01|Hades|你知道当我们宣布冥界迎回了冥后时发生了什么事吗，小子？{#DialogueItalicFormat}呃，该死{#PreviousFormat}！{#DialogueItalicFormat}扎格列欧斯{#PreviousFormat}，我是说。你会被一群可恶的幽灵团团围住，淹没在别有用心的祝福里。
+HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|你在应付那些祝福？{#DialogueItalicFormat}哦…{#PreviousFormat}你难道不觉得你的一些属下其实是真心为你高兴吗？
+HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|我从一直都在想，为什么石榴可以在冥界生长，这是母亲的成果吗？还有，她和奥林匹斯众神说的那些事情，说他们把你束缚在这个地方……都是胡说八道吗？
+HadesPostEpilogue02|Hades Post Epilogue 02|Hades|你很清楚，冥界的石榴不仅仅美味可口，还拥有某种特别的力量，孩子。冥后……你也看到了，她对付植物很有一套。这算是来自她母亲的力量吧，而她运用得更加明智。
+HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|你一直种植着这些石榴……甚至让它们蓬勃生长，都是因为她。
+HadesPostEpilogue03A|Hades Post Epilogue A 03|Zagreus|我斗胆问一下，母亲第一次来冥界时发生了什么事？这里的一些居民好像记得冥后的往事。奥林匹斯众神莫非从来没弄清楚过？
+HadesPostEpilogue03A|Hades Post Epilogue A 03|Hades|他们管不到这儿，也无从知晓这里发生的事。呃，赫尔墨斯倒是可以，不过也很有限。在冥界以外的任何人看来…我们的冥后是倪克斯。切勿追根究底。
+HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|父亲……母亲不在身边的日子，你过得怎么样？她在奥林匹斯山上能照顾好自己吗？
+HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Hades|很显然，她相当擅长照顾好自己，而且我们已经习惯了她不在身边的日子。
+HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|所以说，一切又恢复原样了，是吗？听起来可真不错。
+HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Hades|一切都已经不一样了。而且！她还会回来的。知道她还会回来，对你来说这还不够吗？这一次你耐心点吧。
+HadesAboutPersephoneReturnsFromOlympus01|Hades About Persephone Returns From Olympus 01|Zagreus|很高兴看到母亲回来了。倒不是因为我很担心她，不过……我确实有点担心。
+HadesAboutPersephoneReturnsFromOlympus01|Hades About Persephone Returns From Olympus 01|Hades|我也明白你这种担心，是啊……皇后又回来了，真是太好了。在我们反应过来之前，她就不得不再次离开了。所以，好好珍惜和她在一起的时光吧，孩子！
+HadesPostEpilogue03|Hades Post Epilogue 03|Hades|简单地和我说说吧，孩子。咱们在奥林匹斯山的家人们……还是在继续帮助你吗？
+HadesPostEpilogue03|Hades Post Epilogue 03|Zagreus|一如既往。他们之中的一些神略显失望因为我并不打算加入他们，不过……我觉得他们应该已经明白他们欠冥界一个人情。在照料凡人的过程中——无论在他们生前还是死后，我们都有各自的职责。
+HadesPostEpilogue03|Hades Post Epilogue 03|Hades|是啊，我之前还以为他们会感到失望，把你一个人丢在这里呢。至少到目前为止，他们一直恪守着承诺。
+HadesPostEpilogue04|Hades Post Epilogue 04|Zagreus|所以，现在你和宙斯叔叔、波塞冬叔叔，还有其他人往来得更频繁了吗？哦，我是说……我可以在这里谈论他们的事情吧？
+HadesPostEpilogue04|Hades Post Epilogue 04|Hades|{#DialogueItalicFormat}呃{#PreviousFormat}……我敢肯定，随着时间的推移，我们之间那些肤浅的往来会渐渐变少。这和我们彼此相隔很远没什么关系，而是我们始终都合不来。我知道，宙斯对你母亲策划的活动感到很满意，所以我们暂时处于和平状态。
+HadesPostEpilogue04|Hades Post Epilogue 04|Zagreus|等等，你说的{#DialogueItalicFormat}暂时{#PreviousFormat}是什么意思？
+HadesPostEpilogue04|Hades Post Epilogue 04|Hades|我只是想说，我们的家人很喜欢自己制造麻烦，他们永远都不会满足于已经很好的结果。不过，只要别和他们扯上关系……别被卷入他们的争端，别被卷入奥林匹斯山上的破事里……那应该就没什么。
+HadesPostEpilogue05|Hades Post Epilogue 05|Hades|最新的报告显示，由于你造成的破坏，凡人对塔耳塔罗斯的恐惧程度是上一次评估的两倍。你正是这冥界之中看不见的力量，这很值得表扬。
+HadesPostEpilogue05|Hades Post Epilogue 05|Zagreus|值得表扬，我吗？看不见的力量，嗯。你居然会表扬我，这真让我意外，父亲。
+HadesPostEpilogue05|Hades Post Epilogue 05|Hades|该表扬的人我向来会表扬。至于那些凡人呢？他们对这里的一切一无所知。他们只会听到传言，说我们允许有人逃出冥界……这些传言会进一步加深他们最深切的恐惧，让他们担心起死后的日子。
+HadesPostEpilogue05|Hades Post Epilogue 05|Zagreus|所以说，我在冥界造成的破坏越多，凡人们就会听到越多的不满，然后……他们就会越害怕这个地方？如果能让更多人过上正直的生活的话，说不定塔耳塔罗斯就不会人满为患了。
+HadesChat01|Hades Chat 01|Hades|不管你想说什么，我都不会听。
+HadesChat02|Hades Chat 02|Hades|你打扰到我工作了。
+HadesChat03|Hades Chat 03|Hades|你的事我最近已经听得够多了。
+HadesChat04|Hades Chat 04|Hades|你就是明摆着想浪费我时间是吧。
+HadesChat05|Hades Chat 05|Hades|出去出去。我不拦你。
+HadesChat06|Hades Chat 06|Hades|你怎么还不回去接着让那些死人捅你？
+HadesChat07|Hades Chat 07|Hades|回你自己房间去，只要别在这就行。
+HadesChat08|Hades Chat 08|Hades|鲜血与黑暗啊，你想干什么？
+HadesChat09|Hades Chat 09|Hades|没有什么无礼的话要对我说的吗？
+HadesChat10|Hades Chat 10|Hades|你这种不敬的行为对我没有影响。
+HadesChat11|Hades Chat 11|Hades|你知不知道我现在很忙？
+HadesChat12|Hades Chat 12|Hades|我现在没兴趣跟你说话，孩子。
+HadesChat13|Hades Chat 13|Hades|这里不欢迎你。
+HadesChat14|Hades Chat 14|Hades|我看上去像是想跟你讲话的样子吗？
+HadesChat15|Hades Chat 15|Hades|你知不知道你搞坏了我多少东西？
+HadesChat16|Hades Chat 16|Hades|尽管死吧，你永远离不开这里。
+HadesChat17|Hades Chat 17|Hades|你还是得通过受苦才能了解自己的身份。
+HadesChat18|Hades Chat 18|Hades|我竟被自己的血脉如此侮辱。
+HadesChat19|Hades Chat 19|Hades|我真的想不明白你为何如此愚蠢。
+HadesChat20|Hades Chat 20|Hades|我们之间已经没什么好说的了。
+HadesChat22|Hades Chat 22|Hades|我说过你永远不可能离开这里的吧？
+HadesChat23|Hades Chat 23|Hades|你哪儿也去不了，孩子。我们都一样。
+HadesChat24|Hades Chat 24|Hades|正如你所见，我现在很忙。
+HadesPostEndingChat01|Hades Post Ending Chat 01|Hades|该死的文书工作，从来没个断绝的时候。
+HadesPostEndingChat02|Hades Post Ending Chat 02|Hades|你最近的努力卓有成效。
+HadesPostEndingChat03|Hades Post Ending Chat 03|Hades|去给外面那些暗灵们散播点恐惧，好吗？
+HadesPostEndingChat04|Hades Post Ending Chat 04|Hades|刻耳柏洛斯，他又回来了！下次我会尽量让他别留在这儿这么长时间。
+HadesPostEndingChat05|Hades Post Ending Chat 05|Hades|毫无疑问，下次我一定会报那一箭之仇。
+HadesPostEndingChat06|Hades Post Ending Chat 06|Hades|又有一个萨提尔等着你去收拾他的入侵了…
+HadesPostEndingChat07|Hades Post Ending Chat 07|Hades|确保也向你的母亲问好！
+HadesPostEndingChat08|Hades Post Ending Chat 08|Hades|我们已经在修缮你造成的一切狼藉了。
+HadesPostEndingChat09|Hades Post Ending Chat 09|Hades|我有时真想知道，我们还能做些什么才容得下你……
+HadesPostEndingChat10|Hades Post Ending Chat 10|Hades|显然我现在要叙叙旧。
+HadesPostEndingChat11|Hades Post Ending Chat 11|Hades|啊，我认为我们现在应该开庭了。
+HadesPostEndingChat12|Hades Post Ending Chat 12|Hades|你看见了，我必须得处理这一大堆文书工作。
+HadesPostEndingChat13|Hades Post Ending Chat 13|Hades|不得不说，你上次让忒修斯丢尽了脸面。
+HadesPostEndingChat14|Hades Post Ending Chat 14|Hades|很显然，我们在水仙花平原的安保措施不足。
+HadesPostEndingChat15|Hades Post Ending Chat 15|Hades|想休息就休息去吧，不过整个冥界都已经准备好了。
+HadesPostEndingChat16|Hades Post Ending Chat 16|Hades|那次是我自己犯蠢，对你手下留情了。
+HadesPostEndingChat17|Hades Post Ending Chat 17|Hades|就这样，我们短暂的寒暄开始了，结束了。
+HadesPostEndingChat18|Hades Post Ending Chat 18|Hades|和以前一样，继续履行你的职责吧。
+HadesPostEndingChat19|Hades Post Ending Chat 19|Hades|刻耳柏洛斯在等着你回来呢。
+HadesPostEndingChat20|Hades Post Ending Chat 20|Hades|你最近一次的成果，你的母亲早就预料到了。
+HadesPostEndingChat21|Hades Post Ending Chat 21|Hades|我看起来像是有话要和你说的样子吗，孩子？
+HadesPostEndingChat22|Hades Post Ending Chat 22|Hades|咱们下次再讨论讨论你的工作表现吧。
+HadesPostEndingChat23|Hades Post Ending Chat 23|Hades|你在至福乐土的恶名甚嚣尘上。
+HadesPostEndingChat24|Hades Post Ending Chat 24|Hades|我得承认……你上次确实做得不错。
+HadesGift01|Hades Gift 01|Zagreus|呃，父亲。我觉得，也许，这个，给。
+HadesGift01|Hades Gift 01|Hades|你从哪儿拿到的…？你觉得用这种小东西就能讨好我吗？东西给我，你有多远走多远。
+HadesGift01_B|Hades Gift B 01|Hades|你什么都不欠我的，至少不欠我这个，而且我也没什么回礼给你。不过好吧，我就尊重一下传统吧，这个给你。
+HadesGift02|Hades Gift 02|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，父亲……我知道过去的事情无法改变，但我们可以试着向前看。我想说，这东西我是不该有的，不过所有人都很喜欢，你要不要也试着尝尝？反正我先给你了。
+HadesGift02|Hades Gift 02|Hades|{#DialogueItalicFormat}嗯{#PreviousFormat}，我……可以把它妥善处理掉。说到处理……我已经不需要这件东西了，给你吧。所以……你何不替我把它处理掉？不过是你出去时顺手的事。
+HadesGift03|Hades Gift 03|Zagreus|父亲，如果你不介意的话，帮忙把这些蜜露也处理掉吧。来嘛，你肯定已经尝过这种蜜酒了，至少在你来这里之前肯定尝过！在那段时间里，你一次都没好好享受过美酒吗？
+HadesGift03|Hades Gift 03|Hades|我和你在奥林匹斯山上的亲戚们不一样，孩子。我不需要什么美酒，但这该死的东西还是来到了我的王国里。不过，好吧！如果你希望这里的习俗能更像奥林匹斯山的话，那有何不可呢？
+HadesGift04|Hades Gift 04|Zagreus|不如再来一瓶吧，父亲？我倒不是想说，再来一瓶就能改变我们之间的事情了，是吧？就算把整个冥界的蜜露都喝光，也改变不了曾经发生过的事情，也改变不了你这个人。
+HadesGift04|Hades Gift 04|Hades|{#DialogueItalicFormat}嗯{#PreviousFormat}，或许你说得没错。你肯定是觉得，我是上了年纪才会变得这么顽固。我改变不了我的本性，我也一直都这么不知变通。你觉得我为此很自豪吗？你叫我{#DialogueItalicFormat}“父亲”{#PreviousFormat}，就像是在侮辱我一样。我明白，我其实没干过什么像父亲的事。
+HadesGift04|Hades Gift 04|Zagreus|你随时都可以开始当个更出色的父亲。没人会阻止你的，除了你自己之外。
+HadesGift04|Hades Gift 04|Hades|是啊，呃……遗憾的是，我自己正是个相当大的阻碍，你应该很了解这一点才对。是{#DialogueItalicFormat}你{#PreviousFormat}改变了我，我自己一直都做不到这一点……
+HadesGift05|Hades Gift 05|Hades|够了，孩子！就连凡人都知道，我不需要你的什么蜜露、仙馔密酒，还是别的什么东西。你根本不欠我这些，我也不打算再收下你的礼物了。事实上，你看……这些东西你应该都拿回去！
+HadesGift05|Hades Gift 05|Zagreus|怎么了？不过是蜜露而已，父亲，看开点。我知道你对什么事情都没耐心，但你至少应该试着对我和善一些！就算不是为了我，也是为了母亲。
+HadesGift05|Hades Gift 05|Hades|你竟敢教训起我来了？我是说……{#DialogueItalicFormat}呃{#PreviousFormat}……你看，就像你之前亲口说的……发生过的事情是无法改变的。我们的记忆都是警告，当你像我一样活了这么久之后……你就会明白你自己的弱点。
+HadesGift05|Hades Gift 05|Zagreus|你想说什么？你不打算努力缓和与儿子的关系，而是打算就这么放弃，只呆在你觉得舒适的地方就好了吗？
+HadesGift05|Hades Gift 05|Hades|{#DialogueItalicFormat}呃啊{#PreviousFormat}，听我说。我打算缓和与你的关系，但我的努力不一定对你的胃口。我确实无法改变过去，而对于未来，我能做的事情也很有限。我和你说这些是因为……我不希望再对你撒谎了，至少这一点我可以向你保证。
+Hades_Flashback_DayNightJob_01|Hades Flashback Day Night Job 01|Hades|那么，你这次的迟到理由是什么呢？欣赏庭院的美景而忘了时间？或许你还没从战斗训练中恢复吧。阿喀琉斯是不会手下留情的。
+Hades_Flashback_DayNightJob_01|Hades Flashback Day Night Job 01|Zagreus|对……对不起，父亲，我只是睡过头了。我肯定是睡过头了。我甚至不知道什么时候该来这儿，我的意思是，这里的白天和晚上，每时每刻都没有任何差别！
+Hades_Flashback_DayNightJob_01|Hades Flashback Day Night Job 01|Hades|完全{#DialogueItalicFormat}不是{#PreviousFormat}一直一样！ 时间一到，伊克西翁的绿光会明显亮一个明度！小子，你不仅使我蒙羞，还使这儿的一切蒙羞。现在给我滚回去工作！
+Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Hades|你不仅又迟到了……而且还一而再、再而三地搞砸我交给你的任务，连最简单的也做不好。你究竟还需要多少次机会？我对你实在是太仁慈了。
+Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Zagreus|仁慈？！你有没有想过，与其不断地责骂我，你不如多训练一下我做你这些“令人着迷”工作直到你满意？你应该原谅我我没记住所有繁琐的细节，因为你上次在说这些怎么操作的时候根本是在单口相声。
+Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Hades|{#DialogueItalicFormat}什么意思{#PreviousFormat}？！如果我没理解错的话，你是在把你的无能怪罪于{#DialogueItalicFormat}我{#PreviousFormat}？说得好像智慧女神亲自给你启智了一样！我完全可以当场把你替换掉，争着来这工作的鬼魂多得很！
+Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Zagreus|那你还犹豫什么？！这些都不是我想要的。我不像某人，和兄弟几个抽签输了，然后被永远困在这里！！我为什么必须要为你做这些无意义的文书工作？
+Hades_Flashback_DayNightJob_02|Hades Flashback Day Night Job 02|Hades|被困？你没有。你被{#DialogueItalicFormat}炒鱿鱼{#PreviousFormat}了！我以为你可以承担起一些责任，但我想错了。还有，不许在这里再提起你的那些叔叔。否则我会把你丢到塔耳塔罗斯的最深层地狱。现在，给我滚，不要再让我看到你！
+AchillesWithHades01|Achilles With Hades 01|Achilles|……你曾让我训练他，大人。为了让他做好准备应对艰辛的生活。是您亲口下的令！现在您却在责备我？
+AchillesWithHades01|Achilles With Hades 01|Hades|注意你的言辞和态度，幽灵。你在我手下工作。你也许能到至福乐土的平原上游荡，或者被发配到更劣等的地方，全看我。
+AchillesWithHades01|Achilles With Hades 01|Achilles|…你想要我做什么？
+AchillesWithHades01|Achilles With Hades 01|Hades|这个我得想想。在这期间，你守好那大厅就可以。也守好你自己。
+AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Hades|……我发现你的雇佣条款已经以我的名义修改过了，幽灵。心怀感激吧，因为像这种小事根本没资格让我亲自过问。不过，你现在还是在为我工作，没错吧？
+AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Achilles|据我所知，是这样的，大人。我发过誓要永远效忠于您的圣殿，不过……现在看来，我似乎可以时不时地去至福乐土看看。当然，是等到下班之后。
+AchillesWithHadesAboutMyrmidonReunionQuest01|Achilles With Hades About Myrmidon Reunion Quest 01|Hades|这些条款实在是太宽大、太仁慈了。你现在已经下班了，不是吗？那就去吧，好好享受一下额外的福利吧。
+NyxWithHades01|Nyx With Hades 01|Hades|…你不应该在这种事上帮助他，倪克斯。你应该对他的愚蠢表示谴责，而不是纵容包庇。我们难道没达成共识？
+NyxWithHades01|Nyx With Hades 01|Nyx|我们之间确实存在共识，哈迪斯。毕竟他是你的儿子，你也有责任。同样地，我要信守对这片领地，还有这座圣殿所做的承诺。你帮助过我，我还欠着你的人情。
+NyxWithHades01|Nyx With Hades 01|Hades|这个不用你提醒。那些曾经蔑视我和我兄弟们的人，一定愿意呆在这圣殿内，而不是塔耳塔罗斯的深渊里吧。并不是说那里的黑暗会影响你。
+NyxWithHades02|Nyx With Hades 02|Hades|…很明显，你在帮助他。尽管我一再表示不许这样做。你觉得我现在应该怎么做，倪克斯？如果你是我，你会怎么做？在我的圣殿里，欺骗我！回答。
+NyxWithHades02|Nyx With Hades 02|Nyx|我和他的关系并没有改变，哈迪斯。 我与他的关系，从您第一次要求我照顾他那一刻，保持着一成不变。我给他我的全力支持，永远都会。 您已经知道这一点。 他现在希望离开。 我不会试图阻止他。
+NyxWithHades02|Nyx With Hades 02|Hades|啧，这对你又有什么好处呢？他根本不是你的儿子，而你却如此溺爱他。你和我都很清楚，他不可能做得到。你给他灌输了有害的幻想。如果你就希望他变成这个样子，那请便吧！随便你吧。
+NyxWithHades03|Nyx With Hades 03|Hades|{#DialogueItalicFormat}奥林匹斯众神知道了他的存在{#PreviousFormat}？！把他们那些没用的祝福赐给了他，这可是我的王国！我们的王国！你得和我说清楚这到底是怎么回事，倪克斯。要么是你无穷无尽的力量弱了很多，要么就是你在打什么主意。
+NyxWithHades03|Nyx With Hades 03|Nyx|不要质疑我的能力，哈迪斯。当你的儿子接近地面世界的时候，他就注定会被他们发现。奥林匹斯众神知道有这样一个远亲，他们很高兴，也欢迎他去奥林匹斯山做客，仅此而已。他们的影响力非常有限。
+NyxWithHades03|Nyx With Hades 03|Hades|鲜血与黑暗啊！别和我说什么他们的{#DialogueItalicFormat}影响力{#PreviousFormat}了！我亲眼见识过他们的影响力，你真是犯了个愚蠢的错误。
+NyxWithHades03|Nyx With Hades 03|Nyx|你居然说我犯了愚蠢的错误？路线已经设定好了，你是改变不了的。随便你怎么尝试吧。
+NyxWithHades04|Nyx With Hades 04|Hades|又怎么回事，倪克斯？你意识到你把她置于什么样的危险之中吗？你口口声声说要照顾她，可你现在却要暴露她的行踪，让{#DialogueItalicFormat}他们{#PreviousFormat}知道！
+NyxWithHades04|Nyx With Hades 04|Nyx|哈迪斯，我有哪次不清楚自己该做什么吗？我是不会让冥后受到任何伤害的，你的儿子也绝不会这么做。
+NyxWithHades04|Nyx With Hades 04|Zagreus|让冥后受到伤害？等等……你在说什么呢？
+NyxWithHades04|Nyx With Hades 04|Nyx|孩子！扎格列欧斯，你打算出卖你的生母，把她的消息告诉奥林匹斯众神吗？
+NyxWithHades04|Nyx With Hades 04|Zagreus|不！当然不是了。她……看起来一个人自得其乐。
+NyxWithHades04|Nyx With Hades 04|Hades|你居然听他的怂恿？你怎么知道他不会把一切都毁了？
+NyxWithHades04|Nyx With Hades 04|Nyx|我相信他，因为他就是这样引导我们走到这一步的。
+NyxWithHades05|Nyx With Hades 05|Hades|……我想对你说的是，我很感激，倪克斯。我很感激我们之间的长期合作。我之前把规矩强加在了你和你亲戚们的身上。按照你的权利，你应该会尽可能地阻挠我的一举一动，我以前也总以为你会这么做。可当奥林匹斯众神切断了与我的联系时……你依然与我站在同一阵线。
+NyxWithHades05|Nyx With Hades 05|Nyx|如你所知，我就是黑夜的化身，哈迪斯。就像我们初次见面的时候，我答应过你的那样：只要命运依然让你担任冥界的统治者，我就永远都会是你的盟友。
+NyxWithHades05|Nyx With Hades 05|Hades|你以后不用再提醒我这一点了。我也要告诉你，我将始终尽我所能来管理冥界。
+HypnosWithHades01|Hypnos With Hades 01|Hades|…你报告迟了，修普诺斯。又迟了。又迟了！死人可以等，但是我没那么有耐心。现在解释一下吧。
+HypnosWithHades01|Hypnos With Hades 01|Hypnos|噢！嗯，你看啊，我醒的时候，不知道是几点，不过我可以肯定跟往常一样，每个暗灵我都记录在案了。只是找不到我的表单了，你敢信吗？我还以为是我兄弟在整我，所以我就…
+HypnosWithHades01|Hypnos With Hades 01|Hades|给我说重点，我没空听你的流水账！说重点。啊！你的报告呢，哪儿去了？
+HypnosWithHades01|Hypnos With Hades 01|Hypnos|马上就到重点，大人！我在休息室看到了我的表单，在里头，但绝对不是我放进去的，不可能！然后我就要保证表单没有被人乱涂乱画，那上面记着每个人的名字，死亡原因，出生地，生前体重，有无任何过敏史或者用药…
+HypnosWithHades01|Hypnos With Hades 01|Hades|别说了！！血与黑暗啊，你不准再说了，你…确保你的死亡表单没有问题你就回自己的岗位去吧。啊，真希望你能像你兄弟一样。
+HypnosWithHades02|Hypnos With Hades 02|Hades|……你的报告最近变得准时多了，修普诺斯，这一点很值得期待。不过……画着插图的页缘……这个细节很巧妙，可以确保某些报告从一大叠羊皮纸中一眼就能找得到。
+HypnosWithHades02|Hypnos With Hades 02|Hypnos|哦，谢谢你，主人，很高兴你喜欢！自从塔纳托斯信誓旦旦地说我马上就要被炒掉之后，我就开始按我{#DialogueItalicFormat}自己的{#PreviousFormat}任务列表做事情了。我每天都会对这些任务进行排序，确定优先级，估算完成时间，进行成本效益分析……
+HypnosWithHades02|Hypnos With Hades 02|Hades|是啊，没错，当然了。你还有很多诸如此类的任务需要留意呢，那就继续努力工作吧。
+HypnosWithHades03|Hypnos With Hades 03|Hypnos|主人，你把我的画像摆在了休息室里，我真不知道该怎么感谢你才好！我听说那张画像画得很棒！我还没亲眼见过呢，不过我真打算去看看，这件事已经列在清单里了！
+HypnosWithHades03|Hypnos With Hades 03|Hades|修普诺斯……别再说了，省得我取消对你的嘉奖，把你从这里赶出去。
+HypnosWithHades03|Hypnos With Hades 03|Hypnos|……呃，你可以用小一点的字体把这句话再说一次吗，主人？因为这听起来像是在 {#DialogueItalicFormat}生气{#PreviousFormat}。
+ThanatosWithHades01|Thanatos With Hades 01|Hades|你兄弟可能经常会迟到，但是你不一样，塔纳托斯。你可以说是守时之神。
+ThanatosWithHades01|Thanatos With Hades 01|Thanatos|大人，对于我犯下的迟到错误，我深表歉意。我认为我最近跟进观察的凡间战争，其中的消耗远超我的预期。
+ThanatosWithHades01|Thanatos With Hades 01|Hades|塔纳托斯，就算是神也需要时不时休息一下。总有一天我们会让事情正常运转起来，只要等这该死的圣殿修整好。在那之前，我需要你继续努力。但不要累着自己了。
+ThanatosWithHades01|Thanatos With Hades 01|Thanatos|谢谢您，大人。随时为您效劳。我现在回去工作了。
+ThanatosWithHades02|Thanatos With Hades 02|Hades|……你最近工作很不上心啊，塔纳托斯。我还收到了塔耳塔罗斯的事件报告，里头有你。记住自己该干什么。记住，我一直在关注你。现在，退下吧。
+ThanatosWithHades03|Thanatos With Hades 03|Hades|塔纳托斯，我知道你一直在教唆他。背着我！这是背叛。我想知道为什么。好吧？
+ThanatosWithHades03|Thanatos With Hades 03|Thanatos|大人，他和我……拜托。把我关在塔耳塔罗斯吧，或者给我安上你觉得合适的罪名，可……我的忠诚永远不会变。在你们战斗的时候袖手旁观，我做不到。你和扎格列欧斯之间的事情……总要找到解决的方法才是。
+ThanatosWithHades03|Thanatos With Hades 03|Hades|你竟敢教训起我来了？啧。对我忠诚的属下怕是越来越少了。这是{#DialogueItalicFormat}你的{#PreviousFormat}地盘，不是我的；我不会把你丢进那可怕的深渊。再说，没有任何人可以取代你。你退下吧。
+ThanatosWithHades03|Thanatos With Hades 03|Thanatos|非常抱歉，大人……
+ThanatosWithHades04|Thanatos With Hades 04|Thanatos|您又想见我一面了吗，大人？从上次见您到现在，已经……过了很久了。
+ThanatosWithHades04|Thanatos With Hades 04|Hades|是啊，我们上次见面的时候你说什么来着？你说，关于我儿子的{#DialogueItalicFormat}事情{#PreviousFormat}，肯定能找到解决方法，是吧？现在看来，问题已经解决了。是吧，孩子？
+ThanatosWithHades04|Thanatos With Hades 04|Zagreus|我是想说，你依然和以前一样，尽你所能地阻止我逃出你的王国。所以，我也不知道这能不能算是事情都{#DialogueItalicFormat}解决{#PreviousFormat}了，不过……现在的感觉确实和以前不一样了。
+ThanatosWithHades04|Thanatos With Hades 04|Hades|如你所见……如果你愿意的话，我将继续维持我们共同的利益。这座圣殿只有在高层管理人员达成一致的情况下才能正常运作，你说呢？
+ThanatosWithHades04|Thanatos With Hades 04|Thanatos|您的话让我不胜荣幸，大人。我很感谢您能亲口告诉我这些话。我也同意您的看法，为了整个冥界的利益，我们每个人都必须继续全力以赴。
+ThanatosWithHades04|Thanatos With Hades 04|Hades|很好，你一向如此，你可以退下了。
+DusaWithHades01|Dusa With Hades 01|Hades|……要是我所有的仆从都能像你这么勤快就好了。可以请你开始汇报了吗，杜莎？
+DusaWithHades01|Dusa With Hades 01|Dusa|陛下！办公室目前运转正常，陛下！休息室的上座率提高百分之二十八，顾客的满意度在百分之八十以上，目前没有任何问题需要汇报。
+DusaWithHades01|Dusa With Hades 01|Hades|看来我们已经赶在下个时代到来前，完成了百分之{#DialogueItalicFormat}三十{#PreviousFormat}的目标，总管。除此之外……你的报告很让人满意，继续努力吧。
+OrpheusWithHades01|Orpheus With Hades 01|Orpheus|…是您在召唤卑微的宫廷乐师，对吗，哈迪斯大人？也就是我？
+OrpheusWithHades01|Orpheus With Hades 01|Hades|嗯，俄耳甫斯…如果你在塔耳塔罗斯深渊待够了的话，我想再问你一次：为我们奏支音乐好吗？否则下次我就不会这样宽容地惩罚你了。
+OrpheusWithHades01|Orpheus With Hades 01|Orpheus|噢，这样啊。我得再次表示抱歉，哈迪斯大人。因为现在我实在是无意歌唱。尽管你很有说服力。然后，嗯，这就是我想说的全部了。我说完了。
+OrpheusWithHades01|Orpheus With Hades 01|Hades|是这样吗…？既然这样，那我就只好继续等了。我可以永远等下去。
+OrpheusWithHades02|Orpheus With Hades 02|Hades|你来帮我参谋参谋，俄耳甫斯。我为何要把这么个没用的宫廷乐师留在我的圣殿里？你话倒是不少，但是连一个音符都弹不出来。
+OrpheusWithHades02|Orpheus With Hades 02|Orpheus|恕我冒昧，大人。也许您看到我，就会想起回忆里我以前的表现。您喜欢过我的歌，这使我倍感欣慰。
+OrpheusWithHades02|Orpheus With Hades 02|Hades|而我也容忍过您的傲慢。没什么可说的了。你找回自己的声音。立刻！我给你一百年时间，没有再多。
+OrpheusWithHades03|Orpheus With Hades 03|Hades|你终于恢复理智了，俄耳甫斯。拒绝唱歌的宫廷乐师算什么宫廷乐师！一派胡言。我相信你从今往后不会再抗旨不遵，对吧？
+OrpheusWithHades03|Orpheus With Hades 03|Orpheus|很荣幸我的歌声触动了您的灵魂，大人。但我必须说实话，我之所以愿意再次放声歌唱，主要是因为王子殿下。当然，还有我的缪斯。
+OrpheusWithHades03|Orpheus With Hades 03|Hades|还在提你那可笑的缪斯。你本来有机会和欧律狄克一起。但你却白白浪费了这个机会。但既然你在这里，说话就不能反悔。我希望你遵守我们的协议。
+OrpheusWithHades04|Orpheus With Hades 04|Orpheus|……我很高兴得知您对我新的、更有弹性的日程安排没有意见，大人。 我得承认，我之前担心过，我这样贸然离开可能会让我身陷塔耳塔罗斯的深渊之中。
+OrpheusWithHades04|Orpheus With Hades 04|Hades|别说这种话来暗示我，俄耳甫斯！去忙你自己的事情吧，哪里需要，你就去哪里唱你那些破歌吧。
+OrpheusWithHades04|Orpheus With Hades 04|Orpheus|我很乐意效劳，大人，我和欧律狄刻都很感激您的宽宏大量。
+MegaeraWithHades01|Megaera With Hades 01|Hades|…把话说清楚，墨纪拉。我最近发现，在这圣殿里的协助已大不如从前了。我相信你们可以让它回到正轨上来。
+MegaeraWithHades01|Megaera With Hades 01|Megaera|…如果这就是您想要的，哈迪斯大人，事情会如您所愿的。我会竭尽全力。
+MegaeraWithHades02|Megaera With Hades 02|Megaera|…请再给我一次机会，哈迪斯大人。我会做得更好。不要…把她们牵扯进来。
+MegaeraWithHades02|Megaera With Hades 02|Hades|已经太迟了，墨纪拉。在我们谈话期间，她们已经受命前往塔耳塔罗斯了。
+MegaeraWithHades02|Megaera With Hades 02|Megaera|您知道她们是什么样的人。她们是处理这种事情的专家。不是这样。
+MegaeraWithHades02|Megaera With Hades 02|Hades|墨纪拉，相信我，我太了解这种感觉了。不过，可以肯定，以你的聪慧，应该可以让你的姐妹达成共识。
+MegaeraWithHades03|Megaera With Hades 03|Megaera|…我没法跟她们一起工作，哈迪斯大人。求你了。她们根本听不进我说的话。
+MegaeraWithHades03|Megaera With Hades 03|Hades|{#DialogueItalicFormat}够了{#PreviousFormat}！另外，墨纪拉，这次失败不是你的错。是我的错。我必须更积极地处理这些事。
+MegaeraWithHades03|Megaera With Hades 03|Megaera|…我试过很多次，都没有得到满意的结果。您在让我做不可能的事。
+MegaeraWithHades03|Megaera With Hades 03|Hades|我没有在求你，墨纪拉。
+MegaeraWithHades04|Megaera With Hades 04|Megaera|……可我不明白，冥王哈迪斯。我已经死在他手上无数次了，这怎么可能……？
+MegaeraWithHades04|Megaera With Hades 04|Hades|你和你的姐妹们兢兢业业地守护着塔耳塔罗斯。事实证明，没人能管得住王子，这是我的错，不是你们的错。你在这方面做出了很多贡献，理当得到嘉奖。
+MegaeraWithHades04|Megaera With Hades 04|Megaera|我受宠若惊……我做的都是不足挂齿的小事，不值得如此嘉奖。应该还有别的事情我能胜任吧？
+MegaeraWithHades04|Megaera With Hades 04|Hades|是，但又不是，墨纪拉。我只要求你继续认真负责手上的工作，禁止任何人进入或离开塔耳塔罗斯。另外，如果王子再露面的话……你要好好给他点颜色看看。
+MegaeraWithHades04|Megaera With Hades 04|Megaera|这是我的荣幸，冥王哈迪斯大人。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|邀请好了，母亲！父亲。我已经把所有的请柬都私下里送给每个遇到过的人了。所以，咱们现在该做什么？
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|太棒了，扎格列欧斯！祝贺他吧，哈迪斯！他做得很好。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|{#DialogueItalicFormat}呃，{#PreviousFormat}珀尔塞福涅，你怎么就能这么确定，一切都会按照你希望的进行呢？
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|这叫做信任，哈迪斯。或者说，信念？都差不多啦。你偶尔也试试吧！对你会有好处的。至于接下来该干什么……咱们还有盛大的庆典要准备呢！
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|这座圣殿不适合招待这些客人！迪奥尼索司一个人就能把这里搞得一团乱！或者说……{#DialogueItalicFormat}呃{#PreviousFormat}……我就相信你说的什么信念吧。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|很好！既然如此……咱还有很多事情要做呢。不如把所有人都叫来，让大家都参与进来，让他们做适合他们的事情吧，怎么样？
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Hades|好吧……
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|好啊。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|很好！
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|……{#DialogueItalicFormat}呼{#PreviousFormat}！不得不说，和我想象得一样顺利！而且清扫工作也没那么糟糕嘛，至少大多数情况下并不糟糕。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|我们很幸运，宙斯叔叔似乎马上就明白了我们的意图，配合我们一起圆谎。可这个故事是你精心编造出来的……我还记得，关于你的事情，当我发现父亲对我撒谎的时候，我当时有多伤心。现在我们又欺骗了奥林匹斯的众神。如果他们发现了呢？就算他们没发现……我也不喜欢这样。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|扎格列欧斯……我可能不是处理家庭问题的专家，但这是我对家庭的理解，至少对我们这个大家庭是这样。确切地说……我们彼此之间交流的方式，比我们说了什么更加重要。我觉得，这个家庭中的每个人，内心深处都明白这一点。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|你是说，他们明知道你没把所有的真相都说出来，但也还是接受了，是吗？我猜石榴那部分确实有点太牵强了。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|我们这个大家庭的所有人都希望能保持和睦。虽然阿瑞斯喜欢冲突，但他也希望冲突都发生在外面。至于那个精心编造的故事……与其说是欺骗，不如说是让步。这可以让我们从过去的阴影中走出来，重新开始，我并不觉得有什么难受的。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|你不觉得难受吗？那父亲的事情呢？得墨忒尔的事情呢？
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|这么说吧，这些确实让我很难受，但和能和孩子在一起的喜悦相比，简直就不值一提了。你父亲从来没想过我们之间的关系有朝一日能公开于众。至于我的母亲……我还活着，她就很开心了。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|而且宙斯叔叔也很高兴，因为这一切并没有把{#DialogueItalicFormat}他{#PreviousFormat}推到风口浪尖。我明白了，他有时会凭冲动做事，之后再去处理后果。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Persephone|我该怎么和你说呢，扎格列欧斯？我们是一家人。你以前也和我说过，说我们生来血脉相连。如果我们之中某个人，对另一位家人哪怕抱有一丝丝好感的话……我认为这也是个奇迹，是种祝福。
+OlympianReunionQuestComplete|Olympian Reunion Quest Complete|Zagreus|是啊，我明白你的意思。谢谢你，母亲。我觉得我马上就得再次出发了，等我回来之后再见吧？
+PersephoneWithHades01|Persephone With Hades 01|Persephone|……哦，拜托，哈迪斯！凡人可比你说得坚强多了！怎么，你以为他们一股脑地冲到你的大门口吗？我们的家人得努力去寻找他们才行。
+PersephoneWithHades01|Persephone With Hades 01|Hades|这正是我担心的事情。你真的觉得，我的兄弟们和其他神明会尽心尽力照顾那些活着的凡人吗，就像我们一样尽心尽力？
+PersephoneWithHades01|Persephone With Hades 01|Persephone|确实如此，奥林匹斯的众神们只要照顾他们一阵子就行了，而我们必须得没完没了照顾他们。不过我们的亲戚们永远都是站在高山上看着一切！而且，就算他们对凡人视而不见一段时间……凡人们也能把自己照顾得不错。
+PersephoneWithHades01|Persephone With Hades 01|Hades|但凡人永远不知满足！他们总是在祈求我们，想得到更多，更多。
+PersephoneWithHades01|Persephone With Hades 01|Persephone|他们{#DialogueItalicFormat}喜欢{#PreviousFormat}我们，哈迪斯！他们赞美我们，和别人说着我们的事情。你还指望能怎么样？莫非你希望他们忘了我们吗？
+PersephoneWithHades01|Persephone With Hades 01|Hades|……不，不，我不这么想，可他们那是{#DialogueItalicFormat}需要{#PreviousFormat}我们！
+PersephoneWithHades02|Persephone With Hades 02|Hades|……至福乐土那些抱怨怎么样了？他们希望能彻底修剪一下草坪，好为运动会做准备。
+PersephoneWithHades02|Persephone With Hades 02|Persephone|已经解决好了。不过水仙花平原发生的洪水，{#DialogueItalicFormat}嗯{#PreviousFormat}，似乎一时半会儿不会消退。不过还好，当地的居民似乎已经习惯了。
+PersephoneWithHades02|Persephone With Hades 02|Hades|最近关于这个问题的投诉变少了。另外，萨提尔的麻烦呢？那些该死的东西还是肆无忌惮。
+PersephoneWithHades02|Persephone With Hades 02|Persephone|这么说吧，他们差不多已经被关起来了，而且扎格列欧斯一直在留意它们的情况，不是吗？
+PersephoneWithHades03|Persephone With Hades 03|Hades|……呃，我就是这么一说……如果那些幽灵让你觉得心烦的话，一定要告诉我，我马上把它们处理掉。
+PersephoneWithHades03|Persephone With Hades 03|Persephone|哦，哈迪斯……我觉得这附近的幽灵就待在这里好了，我不介意他们。我一个人呆了那么长时间，现在能有人陪着，我觉得挺不错的。
+PersephoneWithHades03|Persephone With Hades 03|Hades|你确定不需要什么别的了吗？我是说，如果你有什么别的要求的话……
+PersephoneWithHades03|Persephone With Hades 03|Persephone|{#DialogueItalicFormat}要求{#PreviousFormat}？看看这个地方吧，哈迪斯。看看{#DialogueItalicFormat}我{#PreviousFormat}吧！这一切都是我的！也都是你的。所以别总是担心了，对你自己的儿子耐心点，我对你的要求就这么多。
+PersephoneWithHades03|Persephone With Hades 03|Hades|珀尔塞福涅，这个我没法向你保证，这……不是我的强项。而且我还得维护我的名声呢！我可是{#DialogueItalicFormat}冥王{#PreviousFormat}！如果暗灵都不怕我了，或者说，不怕{#DialogueItalicFormat}你{#PreviousFormat}了……那会变成什么样子？
+PersephoneWithHades03|Persephone With Hades 03|Persephone|我可不打算教你如何在工作、婚姻和为人父母的责任中找到平衡。我觉得关于这件事情，无论是奥林匹斯的众神，还是众神之下的凡人，都做不太好，我们只能尽力而为罢了。
+PersephoneWithHades04|Persephone With Hades 04|Hades|……有时候，我……我还是不敢相信你回来了，回到了我们身边。你如此明艳照人，却身处黑暗之中……你肯定很怀念海岸的景色吧。
+PersephoneWithHades04|Persephone With Hades 04|Persephone|海岸真的很漂亮，哈迪斯，不过没什么能永远完美，不是吗？无论怎么努力都不行。不过……我还是觉得，我们应该每隔一段时间，就在这里呆上一阵子。
+PersephoneWithHades04|Persephone With Hades 04|Hades|刚来这里的时候，你花了好长时间才适应，现在你适应得快多了，这多少让我很惊讶。我当初是被迫来这里的，我从来没想过地上世界的人，会甘愿来这个地方。
+PersephoneWithHades04|Persephone With Hades 04|Persephone|我们的心声总会促使我们做各种古怪的事情，不是吗？

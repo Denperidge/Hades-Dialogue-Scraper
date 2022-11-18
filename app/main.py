@@ -18,7 +18,7 @@ def extract_and_export(game_text_dir, lang):
 
     dialogues = get_dialogues_from_folder(lang_dir, "_*", en)
 
-    export_dir = realpath(join(dirname(argv[0]), "../", "export/", lang))
+    export_dir = realpath(join(dirname(argv[0]), "../", "pages/", lang))
     # Create output_dir if needed
     makedirs(export_dir, exist_ok=True)
     export_dialogues(dialogues, export_dir)
