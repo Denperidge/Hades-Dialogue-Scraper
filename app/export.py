@@ -40,12 +40,15 @@ def to_string_csv(dialogues):
     return string
 
 # This uses the Linux tree command
-def create_html_nav():
+def create_html_nav(path):
     tree_bin = is_tree_installed()
     if tree_bin is None:
         print("'tree' binary not found, skipping html nav creation")
         return
     
+    index_html = join(path, "index.html")
+    # Thanks to https://stackoverflow.com/a/46383157
+    run([tree_bin, "-H", ".", "--noreport", "--charset", "utf-8", "-o", index_html], cwd=path)
         
 
 
