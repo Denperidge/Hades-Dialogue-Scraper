@@ -10,7 +10,7 @@ from zipfile import ZipFile
 def export_dialogues(dialogues, output_dir, output_format="csv"):
     output_format = output_format.lower().strip()
 
-    filename_all = join(output_dir, "all." + output_format)
+    filename_all = join(output_dir, "@All." + output_format)
 
     # I'll be honest, this one's not for readability. I just wanted to see if I could
     speakers =  set([sentence.speaker for dialogue in dialogues for sentence in dialogue.sentences])
