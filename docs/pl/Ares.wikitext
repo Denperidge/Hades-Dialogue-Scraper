@@ -1,0 +1,933 @@
+{| class="wikitable"
+|+
+! colspan="2" |Zeus With Ares 01
+|-
+|'''Zeus'''
+|"Bratanku! W imię mojej boskiej władzy, mój nader często błędnie rozumiany syn - Ares - wręczy ci teraz drobny symbol jego mocy. Jeszcze sprawię, że będzie pomocny!"
+|-
+|'''Ares'''
+|"Stanie się, jak sobie życzysz, Lordzie Ojcze. Twoje życzenia są identyczne z moimi."
+|-
+! colspan="2" |Ares With Poseidon 01
+|-
+|'''Ares'''
+|"Cóż, piekielny krewny mój, muszę powiedzieć, że są momenty, kiedy to chciałbym niejako lepiej poznać się z twoim ojcem, jeżeli mi wybaczysz, że tak mówię. Mój ojciec i mój tu obecny wuj... są w porównaniu do mnie nieco inaczej usposobieni."
+|-
+|'''Poseidon'''
+|"Być może gdybyś nie był tak dziwny i dokonał pewnego wysiłku, żeby dało się do ciebie dotrzeć, Aresie, to wtedy mielibyśmy więcej wspólnego, ty i ja! Gdybyś potrzebował w tej kwestii jakichś wskazówek, cóż, po prostu daj mi znać!"
+|-
+! colspan="2" |Ares With Athena 01
+|-
+|'''Ares'''
+|"Chciałem jedynie porozmawiać z tobą raz jeszcze na osobności, krewny mój, tylko że, widzisz..."
+|-
+|'''Athena'''
+|"...Tylko że widzisz, drogi Kuzynie, niektórzy członkowie naszej rodziny predysponowani są do rzeczy nie do opisania. Ja tylko ostrzegam cię przed moim przyrodnim bratem. A teraz kontynuuj."
+|-
+|'''Ares'''
+|"Znowu mi przerywasz, droga siostro. Wiesz, że tego nie lubię. Ostrzegam cię, żebyś nie wsadzała nosa w moje sprawy. Będę pomagał krewnym tak, jak mi się podoba."
+|-
+|'''Athena'''
+|"Ty i tak robisz tylko to, co ci się podoba, Lordzie Aresie. Żebyś tylko zmierzał w tym samym kierunku, co my wszyscy."
+|-
+! colspan="2" |Ares With Aphrodite 01
+|-
+|'''Ares'''
+|"Już nie mogę się doczekać dnia, gdy wreszcie dotrzesz na Olimp. Niewielu jest tu pośród nas z takimi zainteresowaniami jak te, które jak mniemam podzielamy."
+|-
+|'''Aphrodite'''
+|"Jest nas tu przynajmniej kilkoro z podobnymi zainteresowaniami, czyż nie, Lordzie Aresie? A jeśli chodzi o ''ciebie'', najdroższy, nie musisz się spieszyć!"
+|-
+! colspan="2" |Ares With Aphrodite 02
+|-
+|'''Ares'''
+|"Wojny toczyły się o miłość, krewny mój... wyobrażasz to sobie? Pani Afrodyta i ja możemy bez końca dyskutować o takich okolicznościach. Ufam, że od czasu do czasu przystajesz, by zadać sobie pytanie, dlaczego wybrałeś, aby walczyć. Nie żebyś potrzebował powodu, rzecz jasna."
+|-
+|'''Aphrodite'''
+|"O, Lordzie Aresie, doprawdy, nie ma takiej potrzeby, ażeby spowijać myśli i osądy naszego małego bożka tego typu komentarzami, czyż nie, ''hm''? Dajmy mu czego chce, a my możemy kontynuować tę rozmowę na osobności."
+|-
+! colspan="2" |Ares With Dionysus 01
+|-
+|'''Ares'''
+|"Ach, krewny mój! Właśnie pytałem Lorda Dionizosa, w jakich okolicznościach były wystawiane największe ze śmiertelnych uczt? Ponieważ mam w tej kwestii pewne przeczucie..."
+|-
+|'''Dionysus'''
+|"Tak, tak, Aresie, to ci przyznam, stary. Nie ma nic lepszego, niż uczta po wojnie, o tak! Zakładając, że jesteś po stronie wygranych, rzecz jasna! W przeciwnym razie, zdaje się, że ucztowali by z ''tobą ''tam na dole Zag!"
+|-
+! colspan="2" |Ares With Demeter 01
+|-
+|'''Ares'''
+|"Chłód śmierci przystoi Bogini Demeter, nie uważasz tak, mój zadający śmierć krewny? A ona się do niej coraz bardziej przyzwyczaja."
+|-
+|'''Demeter'''
+|"Myślę, że się pan zapomina, Lordzie Aresie. Jako że jestem starsza wiekiem; moje głodowe klęski zgładziły dziesiątki tysięcy śmiertelnych, zanim jeszcze myśli o tego typu rzeczach przyszły ci do głowy."
+|-
+! colspan="2" |Ares Kill Quest Complete
+|-
+|'''Ares'''
+|"Padło przed tobą dziesięć tysięcy dusz, piekielny krewny mój. Muszę przyznać, że jestem pod ogromnym wrażeniem. Dobra robota."
+|-
+! colspan="2" |Ares About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"No to do dzieła. W imię Hadesa! Olimpie, to jest oficjalna wiadomość! Lordzie Aresie, proszę, rozważ naszą propozycję... jak ją tylko rozszyfrujesz."
+|-
+|'''Ares'''
+|"O proszę, a cóż to, krewny mój? Pewnego rodzaju zaproszenie dla mnie, jak przypuszczam. Nie tylko dla mnie... to symbolizuje wszystkich innych, tak? Wielce intrygujące. A zatem, postaram się odkryć znaczenie tego tak szybko, jak będę w stanie. Lecz najpierw!"
+|-
+! colspan="2" |Ares Post Epilogue 01
+|-
+|'''Ares'''
+|"Pragnę raz jeszcze powiedzieć ci, że świetnie się bawiłem podczas naszej ostatniej wspólnej uroczystości, krewny mój. Nareszcie mogłem osobiście zobaczyć twoje wypełnione umarłymi królestwo! Wiele się nauczyłem. I nie mogę się doczekać, żeby nauczyć się jeszcze więcej z naszej udanej współpracy, hm?"
+|-
+! colspan="2" |Ares About Zeus 01
+|-
+|'''Ares'''
+|"Widzę, że Lord Zeus dotarł do ciebie przede mną? Dary mego ojca są hojne, w rzeczy samej, aczkolwiek... uważam, że na swój własny sposób również mogę pomóc."
+|-
+! colspan="2" |Ares About Poseidon 01
+|-
+|'''Ares'''
+|"Błogosławieństwo twego wuja Lorda Posejdona może i pomogło ci do tej pory, ale proszę: mój dar poniesie cię jeszcze dalej."
+|-
+! colspan="2" |Ares About Athena 01
+|-
+|'''Ares'''
+|"Dzierżysz błogosławieństwo Ateny, czy tak? Ona wolałaby ochronić cię przed wrogami. Ja zaś wolę, byś ich pozabijał i tyle."
+|-
+! colspan="2" |Ares About Aphrodite 01
+|-
+|'''Ares'''
+|"''Hm'', widzę, że masz już błogosławieństwo Pani Afrodyty. Miłość i śmierć - razem ramię w ramię? Dla mnie brzmi doskonale."
+|-
+! colspan="2" |Ares About Artemis 01
+|-
+|'''Ares'''
+|"Zatem, moja samotna przyrodnia siostra, Artemida, dotarła do ciebie pierwsza? Ona zaledwie pomoże ci w polowaniu - ja pomogę w zabijaniu. Spójrz."
+|-
+! colspan="2" |Ares About Dionysus 01
+|-
+|'''Ares'''
+|"Ten pijak Dionizos nie może pomóc ci w takim stopniu, jak ja - mój ty w piekle zrodzony krewny. Porównaj jego dar z tym, co ja ci oferuję."
+|-
+! colspan="2" |Ares About Hermes 01
+|-
+|'''Ares'''
+|"Nasz posłaniec Hermes kontaktował się już z tobą, prawda? Być może nie będziesz widywać się z nim zbyt często, jako że moja działalność dość mocno go zajmuje - wiesz, prowadzenie dusz i takie tam."
+|-
+! colspan="2" |Ares About Demeter 01
+|-
+|'''Ares'''
+|"Ledwie wyczuwam na tobie naznaczenie Bogini Demeter, ''czyż nie''? Jej moc związana z obfitością przeciwstawia się mojej w pewnych aspektach. Jednakże ostatnio zwróciła się w kierunku, który jest bardziej zgodny z moim własnym."
+|-
+! colspan="2" |Ares About Hades Keepsake 01
+|-
+|'''Ares'''
+|"Ach, nosisz błogosławieństwo swojego własnego ojca, krewny mój? Cóż za niespodzianka... wiem, że wy dwaj zostaliście sprzymierzeńcami, a jednak... nadal jestem przyzwyczajony do myśli, że jesteście wobec siebie nienawistni niczym na wojnie. Być może nadal coś z tego pozostało, hm?"
+|-
+! colspan="2" |Ares Kill Progress 01
+|-
+|'''Ares'''
+|"Czy wiedziałeś, drogi krewny mój, że odkąd zacząłeś swoją przygodę, zabiłeś ponad stu przeciwników? Tak jest! Jako że liczyłem. I jestem pod ogromny wrażeniem."
+|-
+! colspan="2" |Ares Kill Progress 02
+|-
+|'''Ares'''
+|"Jesteś naprawdę imponującym zabójcą, krewny mój. Wedle mych obliczeń, zabiłeś tam na dole co najmniej tysiąc dusz! Dusz, które co prawda w większości umarły już wcześniej, no ale i tak."
+|-
+! colspan="2" |Ares Kill Quest 01
+|-
+|'''Ares'''
+|"Wiem, że masz wiele aspiracji, zacny krewny mój. Będę przez chwilę z tobą szczery co do moich własnych motywów: Tak długo, jak będziesz przynosił szybką i pewną śmierć, będziesz miał moje nieugięte wsparcie."
+|-
+! colspan="2" |Ares Kill Quest Aftermath 01
+|-
+|'''Ares'''
+|"Myślę, że im więcej wrogów zabijasz, krewny mój, tym silniejsza będzie więź między nami. Też to czujesz? Aczkolwiek, być może żądza krwi obezwładnia twoje inne zmysły, hm?"
+|-
+! colspan="2" |Ares About Thanatos 01
+|-
+|'''Ares'''
+|"Być może słyszałeś o bogu, który nazywa się Tanatos? Wiesz, jesteśmy bardzo bliskimi wspólnikami. Przekaż mu proszę moje pozdrowienia, jeśli go zobaczysz."
+|-
+! colspan="2" |Ares About Thanatos 02
+|-
+|'''Ares'''
+|"Mam nadzieję, że u Tanatosa wszystko w porządku? Choć zapewnia śmiertelnikom litościwy pokój, podczas gdy ja z pewnością czegoś takiego ''nie ''czynię, to doceniam jego podejście."
+|-
+! colspan="2" |Ares About Thanatos 03
+|-
+|'''Ares'''
+|"Rozumiem, że zbliżyłeś się dość mocno do Tanatosa, krewny mój? To doskonały partner, choć przyznaję, że nie spodziewałem się zobaczyć u Śmierci słabości do istoty innej niż ona sama."
+|-
+! colspan="2" |Ares Run Progress 01
+|-
+|'''Ares'''
+|"Od naszego ostatniego spotkania udało ci się dotrzeć dość daleko, krewny mój. A to oznacza, że zadałeś śmierć niezliczoną ilość razy. Muszę cię za to pochwalić."
+|-
+! colspan="2" |Ares Run Progress 02
+|-
+|'''Ares'''
+|"''Ach'', krewny mój, poczułem od ciebie ostatnio prawdziwą, przelaną świeżo krew! Zabijałeś istoty żyjące w pobliżu powierzchni, prawda? Zwykłe szkodniki, tak, lecz to mi wystarczy."
+|-
+! colspan="2" |Ares Run Cleared 01
+|-
+|'''Ares'''
+|"Ostatnio mieliśmy wybuch przemocy na powierzchni, niedaleko ciebie, ale nieco wyżej. To samo w sobie było dziwne, ale musiało też zmusić cię do powrotu. Nic to - czas jest po naszej stronie."
+|-
+! colspan="2" |Ares Run Cleared 02
+|-
+|'''Ares'''
+|"Wyczuwam tak wiele śmierci u bram królestwa twojego ojca ostatni czasy, krewny mój. Wiem, że na pierwszy rzut oka wydaje się to zupełnie zwyczajne, ale... jest w tym coś więcej. Zastanawiam się, czy ''ty ''znasz ku temu powód..."
+|-
+! colspan="2" |Ares Run Cleared 03
+|-
+|'''Ares'''
+|"Wiem, że twoje starania, by tu dotrzeć, były wielokrotnie udaremniane, zacny krewny mój. Wywołaliśmy jednak w tym czasie taką przemoc, że musimy uznać to za prawdziwe zwycięstwo. Kontynuujmy, niezależnie od tego, jak długo to potrwa."
+|-
+! colspan="2" |Ares About War 01
+|-
+|'''Ares'''
+|"Z pewnością słyszałeś pogłoski o wojnie, która wybuchła tu na powierzchni? Bez wątpienia zauważyłeś napływ poległych śmiertelników. I to całkiem przyzwoity, muszę powiedzieć! Choć mało prawdopodobne, aby urósł do rangi największych. Obawiam się, że zbyt mało armii bierze w tym udział."
+|-
+! colspan="2" |Ares About War 02
+|-
+|'''Ares'''
+|"Wojna to wspaniała rzecz, krewny mój. Rozwiązuje tak wiele różnych problemów, a jednocześnie podtrzymuje swoją nieuchronność. Oby tak dalej, nieprawdaż?"
+|-
+! colspan="2" |Ares About War 03
+|-
+|'''Ares'''
+|"Czy kiedykolwiek myślisz sobie, że urodziłeś się nieco za późno, krewny mój? Jeżeli o mnie chodzi, to chciałbym osobiście uczestniczyć w wojnie, którą mój ojciec i inni toczyli przeciw Tytanom. Ach, to dopiero musiał być widok!"
+|-
+! colspan="2" |Ares About Weapon Enchantments 01
+|-
+|'''Ares'''
+|"Wyczuwam, że wykułeś lepszą więź ze swoimi narzędziami zniszczenia, krewny mój. To bardzo dobrze. Oby ich zmodyfikowane formy służyły ci jak najlepiej."
+|-
+! colspan="2" |Ares About Guan Yu Aspect
+|-
+|'''Ares'''
+|"No proszę, najwyraźniej dzierżysz Mroźne Ostrze Prawości! Rozumiem, że pewnego dnia stanie się preferowanym narzędziem kolejnego boga wojny. Chętnie go poznam, tego kolegę studenta śmierci."
+|-
+! colspan="2" |Ares About Arthur Aspect
+|-
+|'''Ares'''
+|"Ach, to twoje ostrze... wygląda, jakby było w stanie z łatwością uwolnić śmiertelnego od jego głowy. Ekskalibur, czy tak? Studiowałem wszystkie z projektów Mojr i ten jest jednym z moich ulubionych."
+|-
+! colspan="2" |Ares About Rama Aspect 01
+|-
+|'''Ares'''
+|"Mojrowy łuk Sarang, w twojej garści! Jest to forma, której nie spodziewałem się, że będziesz dzierżył. Masz wyśmienity gust w kwestii uzbrojenia, krewny mój!"
+|-
+! colspan="2" |Ares About Beowulf Aspect 01
+|-
+|'''Ares'''
+|"Czy to jest połykająca ogień tarcza wielkiego wojownika Beowulfa, którą tam masz? Wiem, że Mojry miały odnośnie jej plany, ale nie spodziewałem się, że ty będziesz ich częścią!"
+|-
+! colspan="2" |Ares About Gilgamesh Aspect 01
+|-
+|'''Ares'''
+|"To rękawice losem związanego króla Gilgamesza, czyż nie? Niosącego zniszczenie i wypełniającego zamysły Mojr. Jesteś pełen niespodzianek, krewny mój!"
+|-
+! colspan="2" |Ares About Lucifer Aspect 01
+|-
+|'''Ares'''
+|"Widzę, że wojujesz narzędziem kogoś o imieniu Lucyfer. Niewiele mam do powiedzenia na jego temat, ale jasne jest, że wie co nieco o destrukcji, czyż nie jest tak?"
+|-
+! colspan="2" |Ares About Keepsake 01
+|-
+|'''Ares'''
+|"Ach, nosisz Fiolkę Krwi, którą ci dałem! Krew śmiertelnika w niej zawarta... sam ją przelałem! Zbyt rzadko jestem w stanie bezpośrednio zaangażować się w takie sprawy."
+|-
+! colspan="2" |Ares Backstory 01
+|-
+|'''Ares'''
+|"Wiedz, że bardzo podziwiam twego Lorda Ojca. A to dlatego, że jego posępna praca pozwala mi kontynuować moją. Ufam, że pewnego dnia uda wam się rozwiązać wasz spór."
+|-
+! colspan="2" |Ares Post Flashback 01
+|-
+|'''Ares'''
+|"Mawiają, że jesteś synem samej Nocy? Fascynująca postać, nielubiana na Olimpie, choć ja zawsze chciałem ją poznać."
+|-
+! colspan="2" |Ares Post Gift Pickup 01
+|-
+|'''Ares'''
+|"Ach, mój ulubiony zabójca w Podziemiach. Jakże nie mogę się doczekać tego całego bólu, który zadasz tym razem."
+|-
+! colspan="2" |Ares Post Gift Pickup 02
+|-
+|'''Ares'''
+|"Gdyby tylko nagła plaga wojny mogła wydostać cię z kłopotów... Cóż, bez zastanowienia bym ją dla ciebie rozpętał."
+|-
+! colspan="2" |Ares Post Gift Pickup 03
+|-
+|'''Ares'''
+|"Ach, mój najbliższy krewny w całych Podziemiach, widzę cię tam, tak myślę! Jaki rodzaj przemocy rozsiejemy wspólnie tym razem, ty i ja?"
+|-
+! colspan="2" |Ares Post Gift Pickup 04
+|-
+|'''Ares'''
+|"Jest tu wiele niemożliwych do zniesienia rozmów o pokoju, krewny mój. To wielka ulga skupić się na dużo ważniejszych sprawach, z tobą."
+|-
+! colspan="2" |Ares Post Gift Pickup 05
+|-
+|'''Ares'''
+|"Musisz wiedzieć, że jestem często głodny zniszczeń, niemalże tego nie kontroluję. Chociaż odkrywam, że ty jesteś w stanie zaspokoić ten mój apetyt."
+|-
+! colspan="2" |Ares Post Gift Pickup 06
+|-
+|'''Ares'''
+|"Niech cała ta śmierć, którą przynosisz, stanie się przedmiotem legend opowiadanych w przerażonych szeptach śmiertelników na całym świecie, krewny mój."
+|-
+! colspan="2" |Ares About Nyx Intro 01
+|-
+|'''Ares'''
+|"Żebym to osobiście znał boginię Nyks, krewny mój! Tak wiele z mych wojen jest toczonych w nocy. Jestem niezwykle wdzięczny i dobrze jej życzę."
+|-
+! colspan="2" |Ares About Nyx 01
+|-
+|'''Ares'''
+|"Jak się ostatnio miewa twoja matka Nyks, krewny mój? Przekazałeś już jej moje pozdrowienia? Według mnie Noc i Wojna powinny mieć ze sobą trochę wspólnego."
+|-
+! colspan="2" |Ares About Nyx 01 B
+|-
+|'''Ares'''
+|"Jak się ostatnio miewa Nyks, krewny mój? Przekazałeś już jej moje pozdrowienia? Według mnie Noc i Wojna powinny mieć ze sobą trochę wspólnego."
+|-
+! colspan="2" |Ares About Nyx 02
+|-
+|'''Ares'''
+|"Powiedz swojej matce Nocy We Własnej Osobie, że często o niej tutaj myślę, mimo, że się nie spotkaliśmy. Musi uwierzyć, że są na Olimpie ci, którzy ją podziwiają."
+|-
+! colspan="2" |Ares About Nyx 02 B
+|-
+|'''Ares'''
+|"Powiedz Nocy We Własnej Osobie, że często o niej tutaj myślę. Musi uwierzyć, że są na Olimpie ci, którzy ją podziwiają."
+|-
+! colspan="2" |Ares About Nyx 03
+|-
+|'''Ares'''
+|"Może jak to wszystko się skończy, zacny krewny mój, mógłbyś zaaranżować między mną i twoją mroczną matką, Nyks, jakąś szansę na spotkanie? Zastanów się nad tym i jeśli chcesz, oświadcz jej moje zainteresowanie."
+|-
+! colspan="2" |Ares About Nyx 03 B
+|-
+|'''Ares'''
+|"Może jak to wszystko się skończy, zacny krewny mój, mógłbyś zaaranżować między mną i boginią Nyks, jakąś szansę na spotkanie? Zastanów się nad tym i jeśli chcesz, oświadcz jej moje zainteresowanie."
+|-
+! colspan="2" |Ares About Nyx 04
+|-
+|'''Ares'''
+|"Twoja matka Nyks i ja, rozpoczęliśmy korespondencję, zacny krewny mój. Doceniam, że zbliżyłeś nas do siebie. Ona jest cudownym okazem, jeśli nie masz nic przeciwko, że tak powiem?"
+|-
+! colspan="2" |Ares About Nyx 04 B
+|-
+|'''Ares'''
+|"Bogini Nyks i ja, rozpoczęliśmy korespondencję, zacny krewny mój. Doceniam, że zbliżyłeś nas do siebie. Ona jest cudownym okazem, jeśli nie masz nic przeciwko, że tak powiem?"
+|-
+! colspan="2" |Ares About Nyx 05
+|-
+|'''Ares'''
+|"Będziesz kontent usłyszeć, że twoja własna matka Nyks i ja - cóż, zamierzmy się spotkać. Jestem całkiem podekscytowany na tę wymianę pomysłów w cztery oczy."
+|-
+! colspan="2" |Ares About Nyx 05 B
+|-
+|'''Ares'''
+|"Będziesz kontent usłyszeć, że Nyks i ja - cóż, zamierzmy się spotkać. Jestem całkiem podekscytowany na tę wymianę pomysłów w cztery oczy."
+|-
+! colspan="2" |Ares About Nyx 06
+|-
+|'''Ares'''
+|"Proszę, przekaż swojej matce Nyks moje gorące pozdrowienia, zrobisz to, krewny mój? Gdyby tylko inni na Olimpie znali i rozumieli was tak, jak teraz i ja."
+|-
+! colspan="2" |Ares About Nyx 06 B
+|-
+|'''Ares'''
+|"Proszę, przekaż bogini Nyks moje gorące pozdrowienia, zrobisz to, krewny mój? Gdyby tylko inni na Olimpie znali i rozumieli was tak, jak teraz i ja."
+|-
+! colspan="2" |Ares Post Epilogue 02
+|-
+|'''Ares'''
+|"Wiesz, krewny mój, błędnie mniemałem, że to Nyks była twoją matką. Ale Persefona? Nigdy nie podejrzewałbym jej o to, że interesuje się twoim królestwem. Niestety, nigdy nie mieliśmy okazji rozmawiać na ten temat."
+|-
+! colspan="2" |Ares Post Epilogue 03
+|-
+|'''Ares'''
+|"Twoja zacna matka, Persefona... straszna Królowa Podziemi! Na pewno źle ją oceniłem, kiedy mieliśmy okazję porozmawiać, gdy przebywała na Olimpie. Być może i ja powinienem rozważyć życie tam w twoim królestwie..."
+|-
+! colspan="2" |Ares Has Weapon 01
+|-
+|'''Ares'''
+|"Dzierżysz Veratę, Wieczną Włócznię...! Myślałem, że przepadła! Czy masz pojęcie ile istnień pochłonęła w czasach świetności twego ojca?"
+|-
+! colspan="2" |Ares Has Weapon 02
+|-
+|'''Ares'''
+|"Ach, dzierżysz Koronachta - Poszukiwacza Serc. Przebił trzech Tytanów jednym strzałem, podczas wojny z naszym rodzajem. Proszę, dbaj o niego!"
+|-
+! colspan="2" |Ares Has Weapon 03
+|-
+|'''Ares'''
+|"Posiadasz Tarczę Chaosu - Egidę... zupełnie niepodobną do tej, którą to przechwalać się lubi moja siostra Atena. Masz o wiele lepszy gust."
+|-
+! colspan="2" |Ares Has Weapon 04
+|-
+|'''Ares'''
+|"A cóż to, dzierżysz Eksagryfa - Adamantowego Miotacza! Bardzo fascynujące urządzenie. Wyobraź sobie nowe oblicze wojny, gdyby tylko jego sekrety zostały kiedyś ujawnione i rozprzestrzeniły się wśród śmiertelników!"
+|-
+! colspan="2" |Ares Has Weapon 05
+|-
+|'''Ares'''
+|"No proszę, toż to Malfon, Bliźniacze Pięści, w twych bardzo zdolnych rękach! Tak wiele broni jest niebezpośrednich, tak myślę. Z Malfonem jesteś tak blisko zniszczenia, jak się tylko da."
+|-
+! colspan="2" |Ares Legendary Pick Up 01
+|-
+|'''Ares'''
+|"Największe wojny wymagają wielkich sojuszy, krewny mój. Dlatego powierzę ci najpotężniejsze metody zniszczenia, jakie do tej pory opracowałem."
+|-
+! colspan="2" |Ares Legendary Pick Up 02
+|-
+|'''Ares'''
+|"Wichry wojny wieją obecnie z dużą siłą na powierzchni, krewny mój. Dlatego jestem w stanie powierzyć ci jeszcze większą moc, niż to mam w zwyczaju."
+|-
+! colspan="2" |Ares Low Health 01
+|-
+|'''Ares'''
+|"Zdajesz się być na krawędzi śmierci, krewny mój. Nie mogę się doczekać, aby o tym usłyszeć! Doświadczanie śmierci - raz po raz! Jesteś jedyny w swoim rodzaju!"
+|-
+! colspan="2" |Ares Low Health 02
+|-
+|'''Ares'''
+|"Ach, krewny mój, okropnie wycierpiałeś, by tu dotrzeć. To bez znaczenia, gdyż wkrótce odpłacimy naszym wrogom pięknym za nadobne."
+|-
+! colspan="2" |Ares Low Health 03
+|-
+|'''Ares'''
+|"Tyleż upuszczonej krwi, tyleż z tego twej własnej. Skupmy się zatem na utrzymywaniu cię przy życiu i w zdolności do walki jeszcze przez jakiś czas."
+|-
+! colspan="2" |Ares Low Health 04
+|-
+|'''Ares'''
+|"Jesteś na krawędzi kolejnej śmierci jak widzę, mój w piekle zrodzony krewny. Weź ze sobą kilku innych, dobrze?"
+|-
+! colspan="2" |Ares Low Health 05
+|-
+|'''Ares'''
+|"Śmiertelny z pewnością już dawno padłby od obrażeń, których ty doznałeś. Imponujące jak nadal brniesz naprzód."
+|-
+! colspan="2" |Ares First Pick Up
+|-
+|'''Zagreus'''
+|"Ten oto musiał się pojawić, jak sądzę. W imię Hadesa! Olimpie! Przyjmuję tę wiadomość."
+|-
+|'''Ares'''
+|"Masz w sobie całkiem niezłego ducha walki, muszę przyznać. To intrygujące - a jednocześnie nie jest zaskoczeniem w stosunku do kogoś zrodzonego w samym piekle. Wyjdź stamtąd i wszystko mi o tym opowiedz. Widzisz, ja również jestem studentem śmierci."
+|-
+! colspan="2" |Ares Misc Pickup 01
+|-
+|'''Ares'''
+|"Muszę przyznać, że śmierć zadajesz raczej wykwintnie. Choć być może mogę ci w tych sprawach jeszcze odrobinę pomóc, hmm?"
+|-
+! colspan="2" |Ares Misc Pickup 02
+|-
+|'''Ares'''
+|"''Ach'', domyśliłem się, że to ty musiałeś być źródłem całego tego rozlewu krwi pod ziemią. Zobaczmy, czy mogę uczynić twe zadawanie śmierci jeszcze bardziej skutecznym."
+|-
+! colspan="2" |Ares Misc Pickup 03
+|-
+|'''Ares'''
+|"Cóż, mój w piekle zrodzony krewny, możesz z moim błogosławieństwem uczynić co ci się tylko żywnie podoba - przy założeniu, że zadasz trochę cierpienia w moim imieniu?"
+|-
+! colspan="2" |Ares Misc Pickup 04
+|-
+|'''Ares'''
+|"Mam dla ciebie coś w sam raz, krewny mój. Pozwolisz, że zaprezentuję me narzędzia bólu?"
+|-
+! colspan="2" |Ares Misc Pickup 05
+|-
+|'''Ares'''
+|"Mam nadzieję, że twój rozlew krwi idzie dobrze - chciałbym, by nigdy się nie skończył. Jestem tu, jak zawsze, by cię wesprzeć."
+|-
+! colspan="2" |Ares Misc Pickup 06
+|-
+|'''Ares'''
+|"Jak przebiega twoja niekończąca się wojna przeciw umarłym? Niech będzie wiadomo, że lubię opowiadać się po jednej stronie w takich kwestiach. Proszę, nalegam!"
+|-
+! colspan="2" |Ares Misc Pickup 07
+|-
+|'''Ares'''
+|"Śmierć ma wiele twarzy, jak z pewnością wiesz. Choć możliwe, że nie uda ci się ich wszystkich odnaleźć, tym niemniej zachęcam, byś spróbował."
+|-
+! colspan="2" |Ares Misc Pickup 08
+|-
+|'''Ares'''
+|"Przeklęci umarli, z którymi się mierzysz, chyba się zapominają. Idź zatem, przypomnij im o agonii, która sprowadziła ich do twojego królestwa."
+|-
+! colspan="2" |Ares Misc Pickup 09
+|-
+|'''Ares'''
+|"Życie i śmierć są ze sobą nierozerwalnie związane - a często łączy je wojna. Zgodzisz się?"
+|-
+! colspan="2" |Ares Misc Pickup 10
+|-
+|'''Ares'''
+|"Ten świat ma nieograniczoną zdolność do znoszenia bólu - tym samym z przyjemnością pomogę ci w jego zadawaniu."
+|-
+! colspan="2" |Ares Misc Pickup 11
+|-
+|'''Ares'''
+|"Zarówno żywi, jak i umarli pożądają tego, co sobą reprezentuję. Ich apetytu na rozlew krwi nie można łatwo zaspokoić. Cel, do którego warto dążyć, czyż nie?"
+|-
+! colspan="2" |Ares Misc Pickup 12
+|-
+|'''Ares'''
+|"Być może umarli, którym stawiasz czoła już dawno zapomnieli jak to jest doświadczać boleści i rozpaczy. Ufam, że wkrótce im to przypomnisz w moim imieniu?"
+|-
+! colspan="2" |Ares Misc Pickup 13
+|-
+|'''Ares'''
+|"Piękne, prawda? Konflikty, które ci towarzyszą. Masz do nich prawdziwy talent - a ja z przyjemnością pomogę."
+|-
+! colspan="2" |Ares Misc Pickup 14
+|-
+|'''Ares'''
+|"Niektórzy mogliby kwestionować zniszczenie, jakie siejesz, ale ja nigdy tegoż nie uczynię. W pełni rozumiem twoje impulsy. Pozwól, że je wzmocnię."
+|-
+! colspan="2" |Ares Misc Pickup 15
+|-
+|'''Ares'''
+|"Ani razu twój Lord Ojciec nie podziękował mi za dostarczanie mu ogromnej części jego klienteli. Z pewnością ty będziesz bardziej wdzięczny za moje dary."
+|-
+! colspan="2" |Ares Misc Pickup 16
+|-
+|'''Ares'''
+|"Myślisz, że zmarli odczuwają ból inaczej, niż żyjący? Jest to moja odwieczna fascynacja - idź więc i daj mi powody do rozmyślań."
+|-
+! colspan="2" |Ares Misc Pickup 17
+|-
+|'''Ares'''
+|"W ramach twej nieustającej wojny przeciw umarłym, z chęcią udzielam ci mego wsparcia - rodzina rodzinie, żadnych pytań."
+|-
+! colspan="2" |Ares Misc Pickup 18
+|-
+|'''Ares'''
+|"Toż to istna zbrodnia, że twój ojciec odcina się od nas wszystkich. Jakież to szczęście, że ty nie jesteś aż tak nieuprzejmy."
+|-
+! colspan="2" |Ares Misc Pickup 19
+|-
+|'''Ares'''
+|"Zadajmy wspólnie trochę śmierci, co powiesz?"
+|-
+! colspan="2" |Ares Misc Pickup 20
+|-
+|'''Ares'''
+|"Kontynuujmy może naszą kampanię przeciw umarłym?"
+|-
+! colspan="2" |Ares Misc Pickup 21
+|-
+|'''Ares'''
+|"Co powiesz na to, by zadać umarłym trochę bólu - przez wzgląd na stare dobre czasy?"
+|-
+! colspan="2" |Ares Misc Pickup 22
+|-
+|'''Ares'''
+|"Zniszczenia, które spowodowałeś, nie uciekły mej uwadze!"
+|-
+! colspan="2" |Ares Misc Pickup 23
+|-
+|'''Ares'''
+|"Stoimy przed jedyną w swoim rodzaju szansą na zadawanie bólu. Zaczynajmy!"
+|-
+! colspan="2" |Ares Misc Pickup 24
+|-
+|'''Ares'''
+|"Nie ma takiego problemu, którego nie rozwiązałaby wojna."
+|-
+! colspan="2" |Ares Misc Pickup 25
+|-
+|'''Ares'''
+|"Ach, tu jesteś, krewny mój! Mam dla ciebie dar, który pomoże ci w twej krwistej pracy."
+|-
+! colspan="2" |Ares Misc Pickup 26
+|-
+|'''Ares'''
+|"Miej moje błogosławieństwo i niech śmierć podąża twym śladem."
+|-
+! colspan="2" |Ares Misc Pickup 27
+|-
+|'''Ares'''
+|"Porozsiewaj trochę cierpienia w moim imieniu tam na dole, krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup 28
+|-
+|'''Ares'''
+|"Niniejszym wzmocnię cię, byś mógł szerzyć jeszcze więcej przemocy."
+|-
+! colspan="2" |Ares Misc Pickup 29
+|-
+|'''Ares'''
+|"Wojna nie musi się toczyć wyłącznie nad ziemią, krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup 30
+|-
+|'''Ares'''
+|"Mam nadzieję, że dobrze ci idzie sianie zniszczenia?"
+|-
+! colspan="2" |Ares Misc Pickup 31
+|-
+|'''Ares'''
+|"Zniszczenie, które rozsiałeś ostatnio - naprawdę zrobiło na mnie wrażenie."
+|-
+! colspan="2" |Ares Misc Pickup 32
+|-
+|'''Ares'''
+|"Kiedykolwiek niesiesz śmierć - cóż, masz moje pełne wsparcie."
+|-
+! colspan="2" |Ares Misc Pickup 33
+|-
+|'''Ares'''
+|"Jak idzie nieskończone masakrowanie twych wrogów - całkiem dobrze, krewny mój?"
+|-
+! colspan="2" |Ares Misc Pickup 34
+|-
+|'''Ares'''
+|"Być może me błogosławieństwo pozwoli ci siać śmierć jeszcze skuteczniej."
+|-
+! colspan="2" |Ares Misc Pickup 35
+|-
+|'''Ares'''
+|"Myślę, że królestwo twego ojca będzie wypełnione po brzegi, jak tylko skończymy."
+|-
+! colspan="2" |Ares Misc Pickup 36
+|-
+|'''Ares'''
+|"Najznamienitsze narzędzia śmierci w mym zanadrzu są do twojej dyspozycji."
+|-
+! colspan="2" |Ares Misc Pickup 37
+|-
+|'''Ares'''
+|"Oto przedstawiam ci ofertę mych najbardziej wyrafinowanych narzędzi do zadawania cierpienia."
+|-
+! colspan="2" |Ares Misc Pickup 38
+|-
+|'''Ares'''
+|"Co powiesz, abyśmy rozpoczęli naszą następną wojnę z prawdziwą klasą, krewny mój?"
+|-
+! colspan="2" |Ares Misc Pickup 39
+|-
+|'''Ares'''
+|"Nie widziałem ostatnio hojnie rozlanej krwi, więc nadróbmy proszę stracony czas."
+|-
+! colspan="2" |Ares Misc Pickup Extra 01
+|-
+|'''Ares'''
+|"Jest tak wiele rodzajów śmierci... a mimo to myślę, że nagła, brutalna śmierć jest niezrównana."
+|-
+! colspan="2" |Ares Misc Pickup Extra 02
+|-
+|'''Ares'''
+|"Jestem całkiem chętny rozpocząć wspólne zabijanie twych wrogów, krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup Extra 03
+|-
+|'''Ares'''
+|"Co powiesz na to, abyśmy rozpoczęli kolejny z naszych szałów zabijania, krewny mój?"
+|-
+! colspan="2" |Ares Misc Pickup Extra 04
+|-
+|'''Ares'''
+|"Nie minęło dużo czasu, odkąd ostatni raz widziałem rozlew krwi... ale niemniej jednak zbyt dużo jak dla mnie."
+|-
+! colspan="2" |Ares Misc Pickup Rare Extra 01
+|-
+|'''Ares'''
+|"Me najnowsze przyrządy śmierci ujawniam teraz tobie, godzien krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup Rare Extra 02
+|-
+|'''Ares'''
+|"Uczyńmy zatem to upuszczanie krwi godnym zapamiętania, hm?"
+|-
+! colspan="2" |Ares Misc Pickup Rare Extra 03
+|-
+|'''Ares'''
+|"Obyś zasiał takież zniszczenie, które zatrzęsie tą górą w jej posadach, krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup Rare Extra 04
+|-
+|'''Ares'''
+|"Podaruję ci teraz środki, byś wywołał tam porządne spustoszenie, krewny mój!"
+|-
+! colspan="2" |Ares Misc Pickup About Nyx 01
+|-
+|'''Ares'''
+|"Było mi całkiem miło usłyszeć ponownie wieści od Nyks ostatnimi czasy, krewny mój."
+|-
+! colspan="2" |Ares Misc Pickup About Nyx 02
+|-
+|'''Ares'''
+|"Niech cudowna bogini Nyks nadal sprawuje nad tobą pieczę i pokrywa mrokiem oczy twych wrogów."
+|-
+! colspan="2" |Ares Misc Pickup About Nyx 03
+|-
+|'''Ares'''
+|"Pomyśleć, że masz wsparcie bogini Nyks, a także i moje!"
+|-
+! colspan="2" |Ares Loot Bought 01
+|-
+|'''Ares'''
+|"Wiedziałem, że ten plugawy przewoźnik dotrzyma słowa i znajdziesz wśród jego towarów ten podarek!"
+|-
+! colspan="2" |Ares Loot Bought 02
+|-
+|'''Ares'''
+|"Wręczam ci ten dowód mego szacunku, choć musiał być on zakopany głęboko w skrytce przewoźnika."
+|-
+! colspan="2" |Ares Loot Bought 03
+|-
+|'''Ares'''
+|"Ufam, że przewoźnik Charon ma ostatnimi czasy ręce pełne roboty dzięki mnie?"
+|-
+! colspan="2" |Ares Loot Bought 04
+|-
+|'''Ares'''
+|"Przewoźnik Charon winien zainwestować w łódź o większych rozmiarach, by nadążyć za mą działalnością, krewny mój."
+|-
+! colspan="2" |Ares Loot Bought 05
+|-
+|'''Ares'''
+|"Ten twój przewoźnik jest solidnym dostawcą śmierci na to wygląda. A to sprawia, że jest nas troje, tak myślę."
+|-
+! colspan="2" |Ares Rejection 01
+|-
+|'''Ares'''
+|"Odrzucasz mą hojną ofertę pomocy? ''Hahahaha'', najwyraźniej nie znasz mnie zbyt dobrze. Śmierć nadejdzie i tak, czy to dla twych wrogów, czy też dla ciebie."
+|-
+! colspan="2" |Ares Rejection 02
+|-
+|'''Ares'''
+|"Negujesz wsparcie, jakim chcę cię obdarzyć? Ależ rozczarowujące. Wygląda na to, że musisz się więcej nauczyć o sztuce zadawania śmierci."
+|-
+! colspan="2" |Ares Rejection 03
+|-
+|'''Ares'''
+|"Błędna to decyzja, krewny mój, opowiadać się po drugiej stronie. Trzeba mi rozlewu krwi, a twoja w zupełności wystarczy."
+|-
+! colspan="2" |Ares Rejection 04
+|-
+|'''Ares'''
+|"Nierozsądnie z twej strony odrzucać mą ofertę. Doznaj zatem cierpienia z mojej ręki."
+|-
+! colspan="2" |Ares Rejection 05
+|-
+|'''Ares'''
+|"Twój wybór pozostawia wiele do życzenia, krewny mój. Utrzymam swój temperament w ryzach, choć ledwo."
+|-
+! colspan="2" |Ares Rejection 06
+|-
+|'''Ares'''
+|"Rozczarowujący wybór, krewny mój, a tego typu wybory mają swoje konsekwencje - za każdym razem."
+|-
+! colspan="2" |Ares Rejection 07
+|-
+|'''Ares'''
+|"Obrany przez ciebie kurs działania był nierozważny, krewny mój. Jako że wojna cię dosięgnie, co niniejszym zaprezentuję."
+|-
+! colspan="2" |Ares Rejection 08
+|-
+|'''Ares'''
+|"Kaprysy naszej rodziny są nieprzewidywalne, krewny mój. Przekonasz się jednak, że reakcje na tego typu działania są wyjątkowo spójne."
+|-
+! colspan="2" |Ares Rejection 09
+|-
+|'''Ares'''
+|"Nie będę tolerować takiego braku szacunku dla naszych przeszłych osiągnięć, krewny mój. Na wojnie każdy musi wybrać stronę, a ty powinieneś był wybrać moją."
+|-
+! colspan="2" |Ares Rejection 10
+|-
+|'''Ares'''
+|"Wojna będzie się tu toczyć bez względu na wszystko, krewny mój. Ale mimo to, jestem osłupiony, że opowiadasz się przeciw mnie."
+|-
+! colspan="2" |Ares Rejection 11
+|-
+|'''Ares'''
+|"Pragniesz spróbować jak wyglądałaby wojna przeciwko mnie? Cóż, zatem czuję się zobowiązany."
+|-
+! colspan="2" |Ares Rejection 12
+|-
+|'''Ares'''
+|"Czyżbym wyczuł pewne niezdecydowanie z twojej strony? Być może wiedziałeś, że popełniasz błąd. Bez znaczenia. Teraz dostaniesz nauczkę."
+|-
+! colspan="2" |Ares Rejection 13
+|-
+|'''Ares'''
+|"Nie powinieneś wpędzać mnie w gniew tego typu żałosną obelgą, wiesz. Niemniej jednak, jest pewna cena, którą przyjdzie ci za to zapłacić."
+|-
+! colspan="2" |Ares Make Up 01
+|-
+|'''Ares'''
+|"Ofiara z krwi została spłacona w pełni, więc jesteśmy kwita. Jednakże następnym razem zastanów się dwa razy, zanim postanowisz mnie rozgniewać, hm?"
+|-
+! colspan="2" |Ares Make Up 02
+|-
+|'''Ares'''
+|"Udało ci się znieść me mordercze zapędy! Okazany przez ciebie opór zasługuje na nagrodę, a ja czuję się dziś całkiem hojny."
+|-
+! colspan="2" |Ares Make Up 03
+|-
+|'''Ares'''
+|"Nieczęsto zdarza się, by ktoś, kogo zamierzam zabić, przeżył. Brawo! Na chwilę obecną jesteśmy kwita, więc pozostańmy przyjaciółmi."
+|-
+! colspan="2" |Ares Make Up 04
+|-
+|'''Ares'''
+|"Umiejętnie przetrwałeś mój gniew, czego ci gratuluję. Pozostańmy zatem przyjaciółmi i rodziną."
+|-
+! colspan="2" |Ares Make Up 05
+|-
+|'''Ares'''
+|"Myślę, że na razie jesteśmy kwita. Jednakże nie wystawiaj mej cierpliwości na próbę, hm?"
+|-
+! colspan="2" |Ares Make Up 06
+|-
+|'''Ares'''
+|"Naprawdę zrobił na mnie wrażenie sposób, w jaki przekroczyłeś pola śmierci. Jednakże masz szczęście, że jestem w hojnym nastroju."
+|-
+! colspan="2" |Ares Make Up 07
+|-
+|'''Ares'''
+|"Gdy następuje rozlew krwi i śmierć, nie mogę pozostawać niezadowolonym na zbyt długo."
+|-
+! colspan="2" |Ares Make Up 08
+|-
+|'''Ares'''
+|"Ten pokaz przemocy, którego właśnie byłem świadkiem, był niezwykle chwalebny. Trzymaj więc."
+|-
+! colspan="2" |Ares Make Up 09
+|-
+|'''Ares'''
+|"Twoja ofiara na moją cześć wywołała we mnie litościwy nastrój. Dlatego zawrzyjmy rozejm."
+|-
+! colspan="2" |Ares Make Up 10
+|-
+|'''Ares'''
+|"Wojna nie może trwać wiecznie, krewny mój. Myślę, że akurat ta nie jest warta swej ceny, kiedy to możemy toczyć większą, wspólnie."
+|-
+! colspan="2" |Ares Make Up 11
+|-
+|'''Ares'''
+|"Ach, po takim to pokazie przemocy jakże mógłbym nadal się gniewać, krewny mój?"
+|-
+! colspan="2" |Ares Make Up 12
+|-
+|'''Ares'''
+|"Twoja zniewaga wobec mnie poszła już w zapomnienie, jako że byłem wielce zadowolony z tego potwornego pokazu siły."
+|-
+! colspan="2" |Ares Gift 01
+|-
+|'''Zagreus'''
+|"Lordzie Aresie, przyjmij proszę tę ofiarę za to, że dajesz mi siłę niezbędną do odniesienia sukcesu."
+|-
+|'''Ares'''
+|"Pochlebcą jesteś, morderczy krewny mój. I ja czuję się dzisiaj hojnie, zatem proszę! Mały dowód mojego przywiązania."
+|-
+! colspan="2" |Ares Gift 02
+|-
+|'''Zagreus'''
+|"Lordzie Aresie, szanuję cię za całą siłę, jaką mi dałeś, bym mógł przezwyciężyć moich wrogów."
+|-
+|'''Ares'''
+|"Tak wyborna ofiara, dla mnie! Jakże miło z twej strony, krewny mój. Jestem zaskoczony, jednakże przyjmuję!"
+|-
+! colspan="2" |Ares Gift 03
+|-
+|'''Zagreus'''
+|"Lordzie Aresie! Przyjmij proszę ten znak mojego głębokiego uznania za twoje hojne wsparcie."
+|-
+|'''Ares'''
+|"Ofiara, dla mnie? W rzeczy samej! Jak żeś łaskawy, że o mnie pamiętasz. Wiedz, że i ja również o tobie myślę."
+|-
+! colspan="2" |Ares Gift 04
+|-
+|'''Zagreus'''
+|"Lordzie Aresie, poznanie ciebie oraz twoich morderczych metod to dla mnie zaszczyt."
+|-
+|'''Ares'''
+|"Doceniam ten dar, choć naprawdę nie trzeba było! Cierpienie, jakie zadajesz, to dla mnie sam w sobie wystarczający dar."
+|-
+! colspan="2" |Ares Gift 05
+|-
+|'''Zagreus'''
+|"Okazywałeś mi mnóstwo szacunku i raz za razem obdarzałeś mnie swymi względami, Lordzie Aresie. Chociaż tyle mogę zrobić w zamian."
+|-
+|'''Ares'''
+|"Niezwykle często gdy są mi składane ofiary, to występują z pragnieniami uzyskania mych względów podczas nadchodzącej wojny. Jednakże z twojej strony, krewny mój, nie wyczuwam takiegoż motywu. Jestem tym całkiem zaskoczony, muszę przyznać."
+|-
+! colspan="2" |Ares Gift 06
+|-
+|'''Zagreus'''
+|"Lordzie Aresie! Jako że rozlew krwi stał się niejako koniecznością w mojej sytuacji, jestem bardzo wdzięczny, że uczestniczysz w nim ze mną. Wiem, że nigdy nie będę za to niewdzięczny."
+|-
+|'''Ares'''
+|"Jesteś wobec mnie wielce łaskawy, krewny mój. A ja pozostaję pod ogromnym wrażeniem twego przesączonego krwią stylu życia. Ufam, że przemoc, którą rozsiałem w twym imieniu, była całkiem zadowalająca?"
+|-
+! colspan="2" |Ares Gift 07
+|-
+|'''Zagreus'''
+|"Składam tę Ambrozję na cześć twoją i twego imienia, Lordzie Aresie. Za boga wojny! Jak wielu to wrogów pokonałem z twoim wsparciem i przewodnictwem? Ale co więcej, miło mi jest cię znać i być twoim kuzynem."
+|-
+|'''Ares'''
+|"Ach, jakże wspaniały jest to podarunek, w rzeczy samej. Jednakże zniszczenie, które zasiałeś, kompletna jatka... nic tego nie przewyższy, jak przypuszczam. Jeśli kiedykolwiek pójdziesz na wojnę, krewny mój... prawdziwie pójdziesz na wojnę, znaczy się... znajdź mnie. Myślę, że stanąłbym po twojej stronie."
+|-
+! colspan="2" |Artemis With Ares 01
+|-
+|'''Artemis'''
+|"Zagreusie, jakże bym chciała, żebyśmy mogli cię usłyszeć, abyś mógł przekonać zacnego Lorda Aresa, że moje moce mają zupełnie inne zastosowanie, niż jego!"
+|-
+|'''Ares'''
+|"Być może niegdyś nasze umiejętności miały inne zastosowanie, droga Artemido, ale kimże jesteśmy, by wątpić w rezultat końcowy? Spójrz, cóż się objawi, gdy tylko obdarzymy naszego krewnego połączonymi siłami nas obojga."
+|-
+! colspan="2" |Artemis With Ares 02
+|-
+|'''Artemis'''
+|"Zagreusie, miałam nadzieję na odrobinę prywatności przed tym polowaniem, co zawsze preferuję, jednak, jak widzisz, Lord Ares zawsze wydaje się wtrącać, jak tylko pojawią się jakiekolwiek narzędzia łowieckie!"
+|-
+|'''Ares'''
+|"Och, ma droga Artemido, polowanie jest wszak niczym innym jak wstępem do wojny, czyż nie jest tak? Gdyby śmiertelni nic nie wiedzieli o polowaniu, to nie byliby tak wprawni w zabijaniu się nawzajem."
+|-
+|'''Artemis'''
+|"Słuchaj, Lordzie Aresie - jeśli pożyczę ci lepsze umiejętności strzeleckie, to myślisz że mógłbyś pozawracać głowę komuś innemu?"
+|-
+! colspan="2" |Aphrodite With Ares 01
+|-
+|'''Aphrodite'''
+|"Myślę, że dla wielu z nas, najdroższy, może być zaskoczeniem, że miłość i wojna często idą ramię w ramię. Przeciwne moce, jednak właśnie to je łączy, czyż nie. Najbardziej zapalczywe namiętności bogów i śmiertelnych! Nie jest tak, Lordzie Aresie?"
+|-
+|'''Ares'''
+|"Śmiertelni są tak bardzo pochłonięci kurczowym trzymaniem się ich żyć, że wielu spośród nich z chęcią za to zabije. Przypływ emocji, który czują... jedna namiętność nie różni się od drugiej, droga Pani Afrodyto."
+|-
+! colspan="2" |Dionysus With Ares 01
+|-
+|'''Dionysus'''
+|"Wiesz, Zag, być może gdy już tu dotrzesz, to dasz radę rozweselić nieco Aresa, wiesz, stary? Zawsze pogarsza nastrój tą swoją gadką o krwi i okropnościach i tego typu rzeczach!"
+|-
+|'''Ares'''
+|"Och, mój Lordzie Dionizosie! Nie jestem w stanie dostrzec, dlaczegóż to tego typu dyskusja jest postrzegana jako niestosowna podczas uczty. Pomyślnie przeprowadzona wojna jest z pewnością powodem do świętowania, czyż nie jest tak?"
+|-
+! colspan="2" |Poseidon With Ares 01
+|-
+|'''Poseidon'''
+|"No, mały Hadesie, musisz już za ten czas wiedzieć, że mam tu innych bratanków, czyż nie? Na przykład Ares przychodzi mi do głowy, bóg wojny! Niektóre z wielkich wojen miały miejsce na morzu, czyż nie jest tak?"
+|-
+|'''Ares'''
+|"W rzeczy samej, miały, dobry Wuju Posejdonie. Śmiertelni wykazują się wielką pomysłowością w kwestii wojny; napędza ich poczucie postępu bardziej niż cokolwiek innego. Być może pewnego dnia wypowiedzą wojnę nawet samemu Ojcu w niebiosach."
+|-
+! colspan="2" |Demeter With Ares 01
+|-
+|'''Demeter'''
+|"Młody Zagreusie, kiedy już tutaj dotrzesz, powiedz proszę lordowi Aresowi, że jego potężna moc jest nic nie warta bez mojej. Wojny mają swoje przyczyny, a ja mam władzę nad wieloma z nich."
+|-
+|'''Ares'''
+|"Nie kwestionuję, że twój wpływ może popchnąć impulsy śmiertelnych ku wojnie, O Bogini Demeter. Przynajmniej jesteśmy zgodni co do tego, że nasze domeny całkiem do siebie pasują!"
+|-
+|}

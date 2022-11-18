@@ -1,0 +1,1066 @@
+{| class="wikitable"
+|+
+! colspan="2" |Inspect House 01
+|-
+|'''Storyteller'''
+|"''La Dimora di Ade: la tetra, sfarzosa residenza del re dell'Oltretomba offre rifugio non soltanto a lui, bensì anche alla sua ostinata progenie.''"
+|-
+! colspan="2" |Inspect Lounge Closed 01
+|-
+|'''Storyteller'''
+|"''Quella che un tempo era una piccola sala all'interno della Dimora di Ade è oggi chiusa a chiave, dopo esser stata fatta a pezzi dal cane Cerbero, disperato per l'assenza del suo amato principe.''"
+|-
+! colspan="2" |Inspect Shades 01
+|-
+|'''Storyteller'''
+|"''Le ombre dei defunti si aggirano senza sosta per la Dimora, lamentando le proprie sofferenze a chiunque sia disposto a prestar loro orecchio.''"
+|-
+! colspan="2" |Inspect Lounge Open 01
+|-
+|'''Storyteller'''
+|"''La sala comune della Dimora di Ade è un luogo tetro e sconfortante, nonostante sia stato concepito allo scopo di rallegrare i tristi abitanti della casa.''"
+|-
+! colspan="2" |Inspect Employee Of The Month 01
+|-
+|'''Storyteller'''
+|"''Un tabellone commemorativo spicca sulle spoglie pareti della sala comune, celebrando i successi dei più zelanti fra i molti servitori del Sommo Ade.''"
+|-
+! colspan="2" |Inspect Cellar 01
+|-
+|'''Storyteller'''
+|"''Le antiche botti di vino celate nei recessi della Dimora del Sommo Ade... ben pochi ne hanno assaporato gli inebrianti contenuti, e ancor meno sono coloro cui è permesso avvicinarvisi.''"
+|-
+|'''Storyteller'''
+|"''Le poderose botti di vino della Dimora di Ade giacciono ora pressoché svuotate del proprio contenuto, avendo fatto fronte, nel corso di un leggendario banchetto, alla sete dell'intero Olimpo.''"
+|-
+! colspan="2" |Inspect Olympus Sculpture 01
+|-
+|'''Storyteller'''
+|"''Una maestosa effigie dorata dell'Olimpo, scolpita con superba perizia nella pietra di quel sacro monte, riluce ora in eterno nella penombra della Dimora di Ade, quale omaggio al Padrone da parte dei suoi divini familiari.''"
+|-
+! colspan="2" |Inspect Mural 01
+|-
+|'''Storyteller'''
+|"''Un vasto mosaico, finemente realizzato, raffigura il re dell'Oltretomba nell'atto di ergersi sull'enormità del proprio regno, attorniato da torme di sudditi adoranti.''"
+|-
+! colspan="2" |Inspect Throne 01
+|-
+|'''Storyteller'''
+|"''Di rado il Sommo Ade abbandona il proprio cupo e minaccioso trono; allo stesso modo, gli abitanti della Dimora si dedicano senza sosta ai propri compiti, senza osare chiederne lo scopo.''"
+|-
+! colspan="2" |Inspect House Garden 01
+|-
+|'''Storyteller'''
+|"''Il giardino della regina Persefone, precluso al principe per la sua intera esistenza, si rivela ora a lui in tutto il proprio splendore.''"
+|-
+! colspan="2" |Flashback 02
+|-
+|'''Storyteller'''
+|"''Si avventura verso l'imponente trono del proprio illustre genitore, aspettandosi di poter essere colto in fallo, ma ignaro di ciò che realmente lo attende.''"
+|-
+! colspan="2" |Flashback 03
+|-
+|'''Storyteller'''
+|"''Non sa di preciso che cosa stia cercando. Sa solo d'essersi sempre sentito fuori posto, in questa che dovrebbe essere la sua casa. Chi è, davvero? Il Sommo Ade non si cura di simili domande. Così, il principe Zagreus va in cerca di risposte.''"
+|-
+! colspan="2" |Flashback 04
+|-
+|'''Storyteller'''
+|"''Il principe fruga tra gli oggetti personali del padre, trovando ben poco di rilevante. Registri contabili e documenti amministrativi; lettere dall'Olimpo da lungo tempo ignorate. Nessuna carta che menzioni suo figlio.''"
+|-
+! colspan="2" |Flashback 05
+|-
+|'''Storyteller'''
+|"''D'un tratto, ecco la lettera... scritta con grafia elegante, da una mano e una voce che il principe non aveva mai visto né udito prima.''"
+|-
+|'''Persephone'''
+|"''\"Ade, non posso più tollerare la mia vita in questo luogo. Ho deciso di andarmene, accada quel che accada. Non farò ritorno sull'Olimpo. Se esiste un luogo a cui appartengo, non si trova né tra gli dèi né tra i defunti. Forse è un posto in riva al mare, con un piccolo giardino. Prenditi cura di Cerbero; mi mancherà.\''"
+|-
+|'''Storyteller'''
+|"''E così Zagreus, principe degli Inferi, ponderò i contenuti della misteriosa missiva, vergata dalla mano di sua madre.''"
+|-
+|'''Zagreus'''
+|"Dalla mano di sua madre, di mia madre, aspetta, ''cosa''?! Stai dicendo che questa Persefone è mia... madre...? Ma mio padre ha sempre detto che Nyx... quel bugiardo. Mi ha mentito. L'hanno fatto entrambi. Per tutta la mia vita!"
+|-
+|'''Storyteller'''
+|"''Uhhh, ehm, fu così che il principe scoprì, inavvertitamente, il mistero della propria nascita. E fu per un caso del tutto fortuito, che ciò accadde...''"
+|-
+! colspan="2" |Flashback 06
+|-
+|'''Storyteller'''
+|"''Persefone, un tempo regina dell'intero Oltretomba... dov'era andata, e perché? Con la testa colma di domande e rancore, il principe decise di confrontarsi col proprio signore e padrone.''"
+|-
+! colspan="2" |Flashback Day Night Job 02
+|-
+|'''Storyteller'''
+|"''Il negligente Zagreus attraversa con calma i corridoi della Dimora paterna, del tutto indifferente all'urgenza che chiunque altro attribuirebbe alle sue attuali circostanze.''"
+|-
+! colspan="2" |Flashback Day Night Job 03
+|-
+|'''Storyteller'''
+|"''L'ingresso agli uffici amministrativi occhieggia all'altro capo del corridoio. Il principe ritiene forse di potervi entrare di soppiatto, senza attrarre l'attenzione di chi si trova all'interno.''"
+|-
+! colspan="2" |Inspect House Pillars 01
+|-
+|'''Storyteller'''
+|"''Di tutte le innumerevoli pietre preziose nascoste nel sottosuolo, una notevole quantità è impiegata per decorare la Dimora di Ade, dio dei morti e dio delle ricchezze.''"
+|-
+! colspan="2" |Inspect North Fountain 01
+|-
+|'''Storyteller'''
+|"''L'acqua è fonte di vita, e tuttavia scorre anche nei più oscuri recessi dell'Oltretomba, ricordando alle ombre inquiete i brevi giorni mortali in cui ancora erano in grado di berne.''"
+|-
+! colspan="2" |Inspect South Fountain 01
+|-
+|'''Storyteller'''
+|"''Il principe carico di gemme ha commissionato per la Dimora una fontana scolpita con tale maestria, da ottenere eterna gratitudine da ogni ombra che vi posi gli occhi sopra.''"
+|-
+! colspan="2" |Inspect Cauldron 01
+|-
+|'''Storyteller'''
+|"''I morti non hanno bisogno di nutrirsi, e tuttavia lo fanno ugualmente, quasi che il vago ricordo dei propri usi mortali donasse loro un certo qual senso di pace.''"
+|-
+! colspan="2" |Inspect Kitchen Island
+|-
+|'''Storyteller'''
+|"''Malgrado le ingenti somme investite nella zona cucina della Dimora di Ade, l'affamato Zagreus non trova di che riempire il proprio stomaco.''"
+|-
+! colspan="2" |Inspect Poet Bust 01
+|-
+|'''Storyteller'''
+|"''La galleria di Ade ospita ora l'elegante busto di un poeta, di bell'aspetto ancorché maturo, forse non ancora assurto alla sua predestinata fama ma un giorno, di certo, ritenuto eccelso.''"
+|-
+! colspan="2" |Inspect Asphodel Statue 01
+|-
+|'''Storyteller'''
+|"''La temibile effigie di un pallido guerriero Esangue adorna ora permanentemente la Dimora, in eterno tributo ai brutali servi del suo signore e padrone.''"
+|-
+! colspan="2" |Inspect Warrior Statue 01
+|-
+|'''Storyteller'''
+|"''Il fisico scolpito di uno fra i più grandi eroi di Grecia adorna ora la galleria della Dimora di Ade, rammentando ai presenti le proprie innumerevoli mancanze.''"
+|-
+! colspan="2" |Inspect Main Hall Fireplace 01
+|-
+|'''Storyteller'''
+|"''Le fiamme del più profondo inferno diffondono nell'area comune un tenue chiarore, rinfrancando col proprio tepore lo spirito dei pochi avventori ancora in vita.''"
+|-
+! colspan="2" |Inspect Sundial 01
+|-
+|'''Storyteller'''
+|"''Il tempo pare non scorrere affatto nell'eterno reame dei defunti, come confermano persino gli strumenti dedicati a misurarne il passaggio.''"
+|-
+! colspan="2" |Flashback Mother 01
+|-
+|'''Storyteller'''
+|"''È notte fonda, o quel che più vi assomiglia nel regno di Ade. Zagreus, principe dell'Oltretomba, si desta da un sonno irrequieto, la mente affollata da progetti di ribellione.''"
+|-
+! colspan="2" |Flashback Day Night Job 01
+|-
+|'''Storyteller'''
+|"''Il sonnolento principe degli Inferi si ridesta dal proprio luogo di riposo, con la sensazione che quello che doveva essere un breve pisolino sia stato in realtà tutt'altro che breve...''"
+|-
+! colspan="2" |Inspect Bedroom 01
+|-
+|'''Storyteller'''
+|"''Le stanze del principe Zagreus sono in un perpetuo stato di estrema confusione, nonostante il suo signore e padrone continui a esortarlo a mettere ordine tra le proprie cose.''"
+|-
+! colspan="2" |Inspect Bedroom Trojan Arms
+|-
+|'''Storyteller'''
+|"''I frammenti delle armi utilizzate nell'assedio di Ilio sono ora ridotte a mero corredo per la caotica tana del principe.''"
+|-
+! colspan="2" |Inspect Bedroom Achilles Poster
+|-
+|'''Storyteller'''
+|"''Il valore dell'impavido Achille è ora immortalato sulla parete del principe, fonte di ulteriore coraggio in momenti di scarsa autostima.''"
+|-
+! colspan="2" |Inspect Bedroom Aphrodite Poster
+|-
+|'''Storyteller'''
+|"''Il ritratto della dea Afrodite impreziosisce ora la camera del principe, forse allo scopo di consolarlo dopo la sua prossima morte.''"
+|-
+! colspan="2" |Inspect Bedroom Dionysus Poster
+|-
+|'''Storyteller'''
+|"''Il volto sorridente e rubicondo del dio Dioniso adorna ora le pareti della stanza del principe, esercitando su di lui una discutibile influenza.''"
+|-
+! colspan="2" |Inspect Bedroom Scrying Pool
+|-
+|'''Storyteller'''
+|"''Un bacile finemente decorato, contenente mistiche tracce degli sfortunati tentativi di fuga del principe dell'Oltretomba, fa bella mostra di sé in un angolo particolarmente disordinato delle sue stanze.''"
+|-
+! colspan="2" |Inspect Bedroom Lyre
+|-
+|'''Storyteller'''
+|"''Uno strumento musicale, finemente realizzato, risiede ora nelle stanze del chiassoso principe, indubbiamente terrorizzato all'idea del suo maldestro tocco.''"
+|-
+! colspan="2" |Inspect Bedroom Gaming Table 01
+|-
+|'''Storyteller'''
+|"''Un oggetto intagliato al solo scopo di fornire svago figura ora nelle stanze del licenzioso principe, benché la mancanza di avversari ne limiti alquanto l'attrattiva.''"
+|-
+! colspan="2" |Inspect Bedroom Rug 01
+|-
+|'''Storyteller'''
+|"''La morbidezza di questo lussuoso tappeto è in gran parte sprecata per i piedi del principe, resi in parte insensibili dalle fiamme che li lambiscono.''"
+|-
+! colspan="2" |Inspect Bedroom Fancy Bed
+|-
+|'''Storyteller'''
+|"''Soffice al punto giusto e adorno di ricami a tema funerario, il nuovo giaciglio del principe Zagreus è l'invidia di tutti coloro che desiderano davvero riposare in pace.''"
+|-
+! colspan="2" |Inspect Bedroom Couch 01
+|-
+|'''Storyteller'''
+|"''L'energico principe rimane ahimè incapace di restar seduto, perfino con una poltrona tanto comoda e invitante posta all'interno delle sue stanze.''"
+|-
+! colspan="2" |Inspect Bedroom Weights 01
+|-
+|'''Storyteller'''
+|"''Enormi bilancieri, accuratamente posizionati in bella vista per chiunque entri nella stanza, convinceranno senza dubbio i visitatori che il principe sia più in forma di quanto sia in realtà.''"
+|-
+! colspan="2" |Inspect Bedroom Quest Log
+|-
+|'''Storyteller'''
+|"''Il principe predestinato crede d'essersi procurato la Lista di Profezie Minori del Fato di propria iniziativa, ma si sbaglia: tutto era già preordinato.''"
+|-
+! colspan="2" |Flashback 01
+|-
+|'''Storyteller'''
+|"''Tutto tace; l'influenza di Hypnos è calata sull'intera Dimora, come richiestogli dall'ostinato Zagreus. A eccezione del principe, tutti sono preda di un sonno profondo. Proprio come pianificato.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Portrait 01
+|-
+|'''Storyteller'''
+|"''Nei quartieri privati del suo regale padre, l'indiscreto principe Zagreus rinviene un raffinato dipinto raffigurante le fattezze della regina Persefone. Uno spesso velo di polvere suggerisce che si trovi lì da molto tempo.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Capes 01
+|-
+|'''Storyteller'''
+|"''Lo stoico padrone della Dimora possiede ricchezze oltre ogni comprensione, parte delle quali è convertita in un corredo di vestiario per ogni occasione.''"
+|-
+! colspan="2" |Inspect Death Area Office Teleporter 01
+|-
+|'''Storyteller'''
+|"''Nei recessi degli uffici amministrativi giace il Sigillo Ancestrale della Dimora di Ade, simbolo dell'autorità concessagli dal Fato su tutto l'Oltretomba, nonché mezzo di trasporto fra le vaste regioni di quel tetro regno.''"
+|-
+! colspan="2" |Inspect Death Area Office Water Cooler 01
+|-
+|'''Storyteller'''
+|"''Le fresche acque dello Stige, purificate per l'occasione, sono a disposizione degli assetati servitori del dio dei morti, eternamente al lavoro negli uffici amministrativi della Dimora.''"
+|-
+! colspan="2" |Inspect Death Area Office Poster 01
+|-
+|'''Storyteller'''
+|"''Le operose ombre che affollano gli uffici amministrativi si dedicano senza sosta al proprio ingrato compito, ispirate dall'effigie di un modello ideale di etica professionale.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 01
+|-
+|'''Storyteller'''
+|"''Fra pile di registri di arrivi e punizioni si trovano i documenti noti col nome di Sentenza del Re Furfante, coi quali il suddetto sovrano fu dannato a spingere il proprio masso fino alla fine dei tempi.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 02
+|-
+|'''Storyteller'''
+|"''Nascosto fra cataste di scartoffie burocratiche si trova un vecchio documento, riguardante un patto speciale che un musicista di corte, al tempo ancora in vita, siglò nel vano tentativo di strappare la propria sposa all'oblio.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 03
+|-
+|'''Storyteller'''
+|"''Sepolto negli archivi, tra i molti patti vincolanti stipulati tra i defunti e il Sommo Ade, giace uno sbiadito accordo: i servigi di un guerriero senza pari, in cambio dell'eterna gloria dell'Elisio per il suo amato compagno.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 01
+|-
+|'''Storyteller'''
+|"''I compiti del giorno, o della notte, sono estremamente semplici; almeno al principio, quando il principe firma per dare inizio al proprio turno.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 02
+|-
+|'''Storyteller'''
+|"''L'inetto principe tenta invano di riordinare i libri contabili nel modo necessario a una buona gestione del reame paterno.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 03
+|-
+|'''Storyteller'''
+|"''Complice la sua scarsa familiarità col compito, gli sforzi del principe nell'approvare le sentenze di pena lasciano molto a desiderare.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 04
+|-
+|'''Storyteller'''
+|"''Le solerti ombre preposte all'amministrazione del reame ctonio si limitano a osservare gli sciagurati tentativi del figlio del principale.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 05
+|-
+|'''Storyteller'''
+|"''Il principe scansafatiche non ha mai prestato sufficiente attenzione al giusto modo di disporre i registri relativi alle varie regioni del regno di suo padre.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 06
+|-
+|'''Storyteller'''
+|"''Questo insieme di delicate responsabilità è di facile svolgimento, o almeno lo sarebbe per qualcuno capace e addestrato, a differenza del distratto principe dell'Ade.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 07
+|-
+|'''Storyteller'''
+|"''Ogni spesa fatta all'interno della Dimora deve essere accuratamente registrata; un delicato processo contabile per il quale il principe non è del tutto preparato.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 08
+|-
+|'''Storyteller'''
+|"''Un libro mastro costantemente aggiornato, riguardante gli introiti della Dimora in gemme, diamanti, Tenebra e beni assortiti, è solo uno fra gli aspetti del lavoro più sgraditi al principe.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 09
+|-
+|'''Storyteller'''
+|"''Registri riguardanti i restauri della Dimora si accumulano su una scrivania negli uffici amministrativi, ma il principe non se la sente proprio di organizzarli in ordine alfabetico, per data.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 10
+|-
+|'''Storyteller'''
+|"''Il registro presenze delle ombre impiegate presso la Dimora va sottoposto a verifica, e i relativi compensi erogati senza indugio. Tuttavia, il principe non rammenta tutti i passaggi necessari.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 11
+|-
+|'''Storyteller'''
+|"''Il disordinato principe Zagreus fissa le infinite cataste di pergamene, ognuna contenente istruzioni in attesa di revisione e attenta catalogazione, e inizia a sentir svanire il proprio ottimismo.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 12
+|-
+|'''Storyteller'''
+|"''Il principe Zagreus dovrà pur avere una sua mansione preferita, negli uffici amministrativi; ma di certo essa non si trova fra ciò che ora richiede la sua attenzione.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 13
+|-
+|'''Storyteller'''
+|"''Vagliare richieste e reclami dei residenti è fra gli aspetti più importanti della burocrazia della Dimora, o almeno questo è ciò che il Sommo Ade tentò un tempo d'inculcare al suo testardo erede.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 14
+|-
+|'''Storyteller'''
+|"''Un'infinita sequela di reclami presentati dai residenti dell'Oltretomba attende d'essere valutata, organizzata e catalogata, ma il principe Zagreus non saprebbe da dove cominciare.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 15
+|-
+|'''Storyteller'''
+|"''La cancelleria in dotazione ai banchi degli uffici amministrativi va accuratamente conservata e disposta in un ordine specifico, che lo smemorato principe non ha ancora del tutto appreso.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 16
+|-
+|'''Storyteller'''
+|"''I rapporti di sicurezza circa i vani tentativi di evasione dal Tartaro richiedono pronta verifica e una risposta ufficiale, nessuna delle quali il principe Zagreus ha le capacità di stilare.''"
+|-
+! colspan="2" |Flashback Day Night Job Office Conclusion 01
+|-
+|'''Storyteller'''
+|"''Infine, il negligente principe registra un resoconto dei propri maldestri tentativi d'essere di qualche utilità alle esigenze amministrative della Dimora del suo inclemente padre.''"
+|-
+! colspan="2" |Inspect Pre Run 01
+|-
+|'''Storyteller'''
+|"''Il cortile della Dimora di Ade è tenuto pulito e in ordine, in netto contrasto con le macabre distese che si spandono al suo esterno.''"
+|-
+! colspan="2" |Minotaur Autograph 01
+|-
+|'''Minotaur'''
+|"''Ah'', sento che ci aspetta un'altra feroce battaglia, piccoletto. Benché paia che stavolta tu voglia chiedermi qualcosa, prima..."
+|-
+|'''Zagreus'''
+|"''Ah'', oh! Ecco... avrei una richiesta un po' particolare. Hai presente il dio del sonno, Hypnos? Siamo colleghi. È un tuo grande fan, vorrebbe il tuo autografo. Con una piccola dedica, magari? Non vorrei approfittare di te, ma se potessi..."
+|-
+|'''Minotaur'''
+|"Un autografo. Capisco. A quanto pare anch'io posso contare sul favore di un dio. Scriverò una dedica per il tuo collega, dunque."
+|-
+|'''Storyteller'''
+|"''Il Minotauro dimenticato dagli dèi compone dunque un breve messaggio al dio del sonno, e lo consegna al principe, come richiesto.''"
+|-
+|'''Minotaur'''
+|"Sappi, piccoletto, che questo favore lo faccio a te, non a Hypnos. Ma digli che è libero di sfidarmi a propria volta, se lo desidera."
+|-
+! colspan="2" |Hades Misc Meeting 07
+|-
+|'''Hades'''
+|"Oh, quasi non credo ai miei occhi... sei proprio tu, figlio?! Cerbero, guarda un po' chi è tornato!"
+|-
+|'''Storyteller'''
+|"''Cerbero rivolge al principe uno sguardo contrito.''"
+|-
+|'''Zagreus'''
+|"Non c'è bisogno di mettere in mezzo il cane, padre."
+|-
+|'''Hades'''
+|"Qualsiasi cosa tu voglia dirmi, me la dirai di fronte a Cerbero! Potresti perfino apprendere qualcosa da lui, in merito a silenzio e obbedienza!"
+|-
+! colspan="2" |Cerberus Misc Meeting 01
+|-
+|'''Storyteller'''
+|"''Cerbero, mastino degli Inferi, rivolge al principe uno sguardo colmo di emozioni contrastanti, dalla più pura gioia alla più profonda costernazione.''"
+|-
+|'''Zagreus'''
+|"Baderai tu a questo posto per me, vero, bello? Sai che ti porterei con me, se potessi."
+|-
+! colspan="2" |Cerberus Misc Meeting 02
+|-
+|'''Zagreus'''
+|"Come te la passi di questi tempi, bello? Ti fanno mangiare bene? Tutte e tre le teste?"
+|-
+|'''Storyteller'''
+|"''Le tre terrificanti fauci del mastino infernale prorompono in sequenza in un verso affermativo, quasi a voler sollevare il principe dalle sue preoccupazioni.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 03
+|-
+|'''Zagreus'''
+|"Tranquillo, bello: con ogni probabilità sarò di ritorno a breve."
+|-
+|'''Storyteller'''
+|"''Il guardiano Cerbero si stende sul proprio soffice giaciglio con aria afflitta.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 04
+|-
+|'''Zagreus'''
+|"Tieni d'occhio mio padre da parte mia, bello. Non lasciare che guasti l'umore a tutti."
+|-
+|'''Storyteller'''
+|"''Cerbero promette di fare quanto richiestogli, a modo suo.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 05
+|-
+|'''Zagreus'''
+|"Come vanno le cose da queste parti, bello? Che si dice di nuovo?"
+|-
+|'''Storyteller'''
+|"''L'innocente domanda del principe non fa che frustrare il mastino degli Inferi, giacché nessuna delle sue tre teste possiede il dono, o la maledizione, della parola.''"
+|-
+! colspan="2" |Cerberus Run Progress 01
+|-
+|'''Zagreus'''
+|"Ehi, bello, sono solo io... di nuovo. Sta' pur certo che là fuori i pericoli abbondano anche senza te a vigilare di continuo."
+|-
+|'''Storyteller'''
+|"''Il venerando mastino degli Inferi ascolta con scarsa pazienza i triviali commenti del principe, ben sapendo che l'Oltretomba è assai più sguarnito che in passato.''"
+|-
+! colspan="2" |Cerberus Run Progress 02
+|-
+|'''Zagreus'''
+|"Indovina, bello? Sono arrivato fin su nell'Asfodelo, stavolta! Ora capisco perché non ti è mai piaciuto, lassù. Ma intendo comunque provare a tornarci. Stammi bene!"
+|-
+|'''Storyteller'''
+|"''Malgrado l'ottimismo del principe degli Inferi, il suo fedele compagno a tre teste mantiene per il momento tutto il proprio malumore.''"
+|-
+! colspan="2" |Cerberus Run Progress 03
+|-
+|'''Zagreus'''
+|"Ehi, è bello rivederti qui, cucciolone. Mi fa piacere che tu sia tornato di guardia! Anche se significa dover trovare un modo per oltrepassarti. So che stai solo facendo il tuo lavoro."
+|-
+|'''Storyteller'''
+|"''Il temibile mastino degli Inferi rivolge al principe uno sguardo colmo d'apprensione, riflessa in tre paia d'occhi scintillanti nella penombra della Dimora.''"
+|-
+! colspan="2" |Cerberus About Fast Travel 01
+|-
+|'''Zagreus'''
+|"Ehi, bello. Spero di non averti scomodato troppo con tutte queste visite al Tempio, di recente. Di' un po', come torni a casa ogni volta? Caronte ti dà un passaggio?"
+|-
+|'''Storyteller'''
+|"''Tale è la domanda che il principe rivolge al guardiano delle porte infernali, ben sapendo che il mostro a tre teste, come chiunque dotato di buon senso, si tiene ben alla larga dal nocchiero dello Stige.''"
+|-
+! colspan="2" |Cerberus About Ball 01
+|-
+|'''Zagreus'''
+|"Ti diverti a fissare la palla che ti ho preso, cagnone? Peccato non reagisca, eh..."
+|-
+|'''Storyteller'''
+|"''L'infernale mostro a tre teste non intende sprecare il proprio tempo con semplici balocchi, preferendo piuttosto conservare le proprie notevoli energie in caso vi fosse improvviso bisogno di divorare un intruso.''"
+|-
+! colspan="2" |Cerberus Lounge Closed 01
+|-
+|'''Zagreus'''
+|"Ehi, bello. Hai davvero fatto a pezzi la sala comune? Spero non ti abbiano sgridato troppo per questo. Mi spiace di averti turbato a tal punto."
+|-
+|'''Storyteller'''
+|"''Con aria colpevole, il mostruoso Cerbero ammette la malefatta, esprimendo un certo rammarico per aver coinvolto nella vicenda il pur non innocente principe.''"
+|-
+! colspan="2" |Cerberus Lounge Open 01
+|-
+|'''Zagreus'''
+|"Ehi, hai visto, cagnolone? La sala comune è come nuova, va' a dare un'occhiata! Basta che tu non la faccia di nuovo a pezzi come l'ultima volta."
+|-
+|'''Storyteller'''
+|"''Ognuna delle tre feroci teste del mastino drizza le orecchie alla notizia, iniziando chiaramente a escogitare un nuovo stratagemma per causare altra distruzione.''"
+|-
+! colspan="2" |Cerberus About Underworld Renovations 01
+|-
+|'''Zagreus'''
+|"Ehi, bello. Spero che tutti i lavori e i restauri qui intorno non ti diano troppa noia, ultimamente. Ma ehi, guarda il lato positivo: la sala comune è quasi pronta per essere sfasciata di nuovo!"
+|-
+|'''Storyteller'''
+|"''Il principe Zagreus instilla nel feroce, suggestionabile mastino dell'Oltretomba una rinnovata brama di distruzione, da appagarsi in epoche future.''"
+|-
+! colspan="2" |Cerberus About Being Best Boy 01
+|-
+|'''Zagreus'''
+|"Lo sai? Dopo una morte ingloriosa, non c'è niente di meglio che coccolare il mio bel cagnone per tirarmi su. Grazie per il tuo sostegno, bello."
+|-
+|'''Storyteller'''
+|"''Le braci che infiammano gli occhi del mostruoso Cerbero, famigerato mastino infernale, comunicano che anch'egli gradisce le coccole di cui parla il principe degli Inferi, ed è invero alquanto grato per la loro frequenza.''"
+|-
+! colspan="2" |Cerberus About Persephone 01
+|-
+|'''Zagreus'''
+|"L'ho trovata, bello! Mia madre! Persefone, te la ricordi, no? Le ha fatto molto piacere sentire che stai bene. Ma non ho potuto rimanere a lungo, e devo tornare a trovarla, perciò... ci vediamo al Tempio, eh?"
+|-
+|'''Storyteller'''
+|"''Il mostruoso contegno del famigerato mastino degli Inferi si addolcisce all'istante nel sentir menzionare un nome a lui caro; e così, per un breve momento, la creatura trova pace.''"
+|-
+! colspan="2" |Cerberus Post Ending 01
+|-
+|'''Zagreus'''
+|"Ma guardati, bello! Non ti ho mai visto tanto vispo, relativamente parlando, visto che bel bestione sei. La mamma ti sarà mancata tanto quanto tu sei mancato a lei, eh? Be', ora avrete tutto il tempo per recuperare!"
+|-
+|'''Storyteller'''
+|"''La mostruosa belva a tre teste che veglia sulle soglie dell'Ade sarebbe forse sopraffatta dalla gioia, se fosse capace di tali sentimenti.''"
+|-
+! colspan="2" |Cerberus Post Ending 02
+|-
+|'''Zagreus'''
+|"Scommetto che sei contento di avere mia madre di nuovo qui, eh, bello? Se solo tu potessi parlare, avresti potuto raccontarmi di lei."
+|-
+|'''Storyteller'''
+|"''L'infernale Cerbero ignora placidamente gli sgarbati e insensibili commenti del principe.''"
+|-
+! colspan="2" |Cerberus Extreme Measures Reaction 01
+|-
+|'''Zagreus'''
+|"''Ahi'', me le hai proprio suonate, bello. Sai, là fuori, con mio padre? So che stavi solo giocando, ma... vacci più leggero la prossima volta, va bene?"
+|-
+|'''Storyteller'''
+|"''L'incorreggibile Cerbero è del tutto incapace di mostrare disciplina, o il benché minimo rimorso al riguardo.''"
+|-
+! colspan="2" |Cerberus Post Epilogue 01
+|-
+|'''Zagreus'''
+|"Siamo tutti molto fieri di te, bello! Sei stato bravissimo, al banchetto. Temevo che uno dei miei zii ti avrebbe fatto innervosire, a un certo punto, ma tu sei stato la pazienza in persona. Grazie per aver contribuito alla buona riuscita dell'evento!"
+|-
+|'''Storyteller'''
+|"''In qual modo l'infernale Cerbero, mastino dell'Ade, sia riuscito a mantenere una condotta civile per l'intera durata del recente banchetto rimane un mistero per tutti gli astanti.''"
+|-
+! colspan="2" |Cerberus Chat 02
+|-
+|'''Storyteller'''
+|"''Il principe e Cerbero si scambiano uno sguardo d'intesa.''"
+|-
+! colspan="2" |Cerberus Chat 03
+|-
+|'''Storyteller'''
+|"''Il fido cane da guardia osserva il principe.''"
+|-
+! colspan="2" |Cerberus Chat 04
+|-
+|'''Storyteller'''
+|"''Cerbero non vuole essere disturbato, al momento.''"
+|-
+! colspan="2" |Cerberus Chat 05
+|-
+|'''Storyteller'''
+|"''Cerbero giace comodamente nel proprio angolo, osservando ogni cosa.''"
+|-
+! colspan="2" |Cerberus Chat 06
+|-
+|'''Storyteller'''
+|"''Come sempre, Cerbero giace ai piedi del trono del proprio padrone.''"
+|-
+! colspan="2" |Cerberus Chat 07
+|-
+|'''Storyteller'''
+|"''Cerbero non accenna a muoversi.''"
+|-
+! colspan="2" |Cerberus Chat 08
+|-
+|'''Storyteller'''
+|"''Cerbero è intento a considerare il prossimo oggetto da rosicchiare.''"
+|-
+! colspan="2" |Cerberus Chat 09
+|-
+|'''Storyteller'''
+|"''Cerbero continua a badare ai propri affari: masticare oggetti, in questo caso.''"
+|-
+! colspan="2" |Cerberus Chat 10
+|-
+|'''Storyteller'''
+|"''Cerbero è impegnato a grattarsi e mordicchiarsi qua e là.''"
+|-
+! colspan="2" |Cerberus Chat 11
+|-
+|'''Storyteller'''
+|"''Cerbero non è interessato a fare conversazione, al momento.''"
+|-
+! colspan="2" |Cerberus Chat 12
+|-
+|'''Storyteller'''
+|"''Il mastino degli Inferi riposa pacifico nel suo posto preferito.''"
+|-
+! colspan="2" |Cerberus Chat 13
+|-
+|'''Storyteller'''
+|"''Ognuno dei tre terrificanti musi di Cerbero porge al principe i propri saluti.''"
+|-
+! colspan="2" |Cerberus Chat 14
+|-
+|'''Storyteller'''
+|"''Lo spietato guardiano tricefalo dei cancelli infernali abbaia brevemente in segno di saluto.''"
+|-
+! colspan="2" |Cerberus Chat 15
+|-
+|'''Storyteller'''
+|"''Il sempre affidabile Cerbero rimane fedelmente al proprio posto, in attesa.''"
+|-
+! colspan="2" |Cerberus Chat 16
+|-
+|'''Storyteller'''
+|"''Il famigerato Cerbero osserva in silenzio la corte del proprio padrone.''"
+|-
+! colspan="2" |Cerberus Chat 17
+|-
+|'''Storyteller'''
+|"''Una delle temibili teste di Cerbero è intenta a pulire a fondo le altre due.''"
+|-
+! colspan="2" |Cerberus Chat 18
+|-
+|'''Storyteller'''
+|"''Il mostro a tre teste siede al proprio posto, come sempre ligio ai propri compiti.''"
+|-
+! colspan="2" |Cerberus Chat 19
+|-
+|'''Storyteller'''
+|"''Il temuto Cerbero è intento a immaginare il suo prossimo, gustoso pasto.''"
+|-
+! colspan="2" |Cerberus Chat 20
+|-
+|'''Storyteller'''
+|"''Cerbero accoglie il principe con un affetto forgiato reso mite dagli anni.''"
+|-
+! colspan="2" |Cerberus Chat 21
+|-
+|'''Storyteller'''
+|"''Il cane da guardia degli Inferi ringhia alle ombre oziose che affollano la corte.''"
+|-
+! colspan="2" |Cerberus Chat 22
+|-
+|'''Storyteller'''
+|"''Il temuto Cerbero lecca con foga una chiazza sul pavimento.''"
+|-
+! colspan="2" |Cerberus Chat Extra 01
+|-
+|'''Storyteller'''
+|"''Il mastino degli Inferi presta al principe scarsa attenzione, sentendosi per il momento sufficientemente sazio.''"
+|-
+! colspan="2" |Cerberus Chat Extra 02
+|-
+|'''Storyteller'''
+|"''Le feroci teste del mostruoso Cerbero mostrano un certo autocontrollo, per ora.''"
+|-
+! colspan="2" |Cerberus Chat Extra 03
+|-
+|'''Storyteller'''
+|"''Cerbero è troppo occupato a bearsi dei lussi che lo circondano per prestare particolare attenzione.''"
+|-
+! colspan="2" |Cerberus Chat Extra 04
+|-
+|'''Storyteller'''
+|"''Il mostruoso Cerbero vigila seduto sul proprio soffice giaciglio.''"
+|-
+! colspan="2" |Cerberus Chat Extra 05
+|-
+|'''Storyteller'''
+|"''Ognuna delle selvagge fauci di Cerbero sparge un copioso ammontare di saliva, già pregustando il prossimo spuntino.''"
+|-
+! colspan="2" |Cerberus Chat Extra 06
+|-
+|'''Storyteller'''
+|"''Il terrificante Cerbero è impegnato a raccogliere le forze per quando dovrà nuovamente sbarrare il passo al principe.''"
+|-
+! colspan="2" |Cerberus Gift 01
+|-
+|'''Zagreus'''
+|"Guarda cos'ho per te, bello...!"
+|-
+|'''Storyteller'''
+|"''Mentre una delle teste di Cerbero riceve il dono del principe, un'altra gli appoggia qualcosa in mano.''"
+|-
+! colspan="2" |Cerberus Gift 02
+|-
+|'''Zagreus'''
+|"Bravo il mio cucciolone... sapevo ti sarebbe piaciuto!"
+|-
+|'''Storyteller'''
+|"''Cerbero è colmo di gioia per aver ricevuto un dono tanto prelibato.''"
+|-
+! colspan="2" |Cerberus Gift 03
+|-
+|'''Zagreus'''
+|"Solo i doni più prelibati per il mio migliore amico. Dico bene, bello?"
+|-
+|'''Storyteller'''
+|"''Cerbero guaisce festosamente per aver ricevuto un'offerta tanto generosa.''"
+|-
+! colspan="2" |Cerberus Gift 04
+|-
+|'''Zagreus'''
+|"È mio umile compito portare al mio cagnone preferito tutte le prelibatezze che riesco a trovare."
+|-
+|'''Storyteller'''
+|"''Ben conoscendo lo sconfinato appetito del cane da guarda degli Inferi, il principe gli offre un ghiotto dono.''"
+|-
+! colspan="2" |Cerberus Gift 05
+|-
+|'''Zagreus'''
+|"Ti piace, non è vero, bello? Be', tanto meglio: anche a me piace portartela di nascosto!"
+|-
+|'''Storyteller'''
+|"''Il soave gusto del Nettare basta a saziare perfino il rapace appetito del mastino infernale, almeno per un breve periodo.''"
+|-
+! colspan="2" |Cerberus Gift 06
+|-
+|'''Zagreus'''
+|"Il Nettare non è più abbastanza per te, eh, bello? Ti sei fatto di gusti raffinati, con l'età!"
+|-
+|'''Storyteller'''
+|"''Benché il delicato sapore del Nettare gli sia ormai venuto a noia, il tricefalo mostro infernale accetta comunque di buon grado.''"
+|-
+! colspan="2" |Cerberus Gift 07
+|-
+|'''Zagreus'''
+|"Proprio così, bello... è Ambrosia, ed è tutta per te. Ti piacerà, vedrai. Tutti ne vanno matti, sia vivi che morti!"
+|-
+|'''Storyteller'''
+|"''I sei occhi del terrificante mastino degli Inferi si spalancano alla squisita offerta di un raro dono d'Ambrosia dall'Olimpo. Il mostro è alquanto sopraffatto dalla gioia.''"
+|-
+! colspan="2" |Cerberus Gift 08
+|-
+|'''Zagreus'''
+|"È proprio squisita, eh, bello? So che in tutta questa faccenda hai dovuto scegliere tra me e mio padre più spesso di quanto avresti voluto. Scusa per quante te ne abbiamo fatte passare."
+|-
+|'''Storyteller'''
+|"''Il nuovo tentativo del principe di arrogarsi con lusinghe l'affetto del mostruoso mastino a tre teste incontra pieno successo, grazie all'allettante promessa di altre offerte divina Ambrosia.''"
+|-
+! colspan="2" |Cerberus Gift 09
+|-
+|'''Zagreus'''
+|"Cerbero, non voglio essere sdolcinato, ma... oh, chi prendo in giro? Mi sei accanto da tutta la vita! So che se passi tanto tempo in casa è in parte per vedere me, non è così?"
+|-
+|'''Storyteller'''
+|"''Il legame tra un cane e il suo padrone è saldo quanto l'adamante. Cerbero, mostruoso e temuto guardiano delle porte dell'Averno, deve fedeltà al proprio sovrano, innanzitutto. Ma a quanto pare, il principe gli è secondo solo di poco.''"
+|-
+|'''Zagreus'''
+|"Sei il miglior cane del mondo, bello. Anche se le teste Beta e Gamma non amano le coccole, dico bene? Ma non temere, per te ne avrò sempre in serbo più che in abbondanza."
+|-
+! colspan="2" |Cerberus Styx Meeting 01
+|-
+|'''Storyteller'''
+|"''Il terrificante Cerbero vigila sull'ingresso all'Oltretomba, garantendo a chiunque sia tanto folle da tentare di oltrepassarlo un destino troppo raccapricciante per poterlo raccontare.''"
+|-
+|'''Zagreus'''
+|"E così siamo infine arrivati a questo, bello? Dopo tutto quello che abbiamo passato... ma se è così che deve andare, non c'è altro da dire, a parte: ''in guardia''!!"
+|-
+|'''Zagreus'''
+|"''Ahahah''. No, sul serio: so perché sei qui, bello. Dev'esserci un modo per farti chiudere un occhio. E se ti aiutassi col problema dei Satiri? Mi faresti passare? Per favore. Devo trovare Persefone... mia madre. Sai quanto sia importante per me."
+|-
+|'''Storyteller'''
+|"''Dopo un istante di esitazione e riflessione, il famelico mastino degli Inferi abbaia in tono affermativo. Il principe deve ora andare in cerca di qualcosa che possa saziarne il mostruoso appetito.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock 01
+|-
+|'''Zagreus'''
+|"E va bene, bello. Ho qui la tua merenda preferita. Ma devi promettermi di lasciarmi passare, ok?"
+|-
+|'''Storyteller'''
+|"''Il temibile Cerbero accetta la fetida sacca, e scruta l'oscuro salone alla ricerca del punto ideale ove consumarne i rivoltanti contenuti.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 01
+|-
+|'''Storyteller'''
+|"''Cerbero accetta ancora una volta la sacca.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 02
+|-
+|'''Storyteller'''
+|"''Il gigantesco Cerbero accetta la fetida offerta del principe.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 03
+|-
+|'''Storyteller'''
+|"''Lo spaventoso Cerbero accetta la sacca dei Satiri.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 04
+|-
+|'''Storyteller'''
+|"''Il principe convince il vorace mastino infernale a farsi da parte.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 05
+|-
+|'''Storyteller'''
+|"''Il principe induce il mastino a tre teste a lasciargli via libera.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 06
+|-
+|'''Storyteller'''
+|"''E così, il principe ha ancora una volta persuaso il temibile Cerbero a cedergli il passo.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 07
+|-
+|'''Storyteller'''
+|"''Il mastino degli Inferi accetta con gioia un altro sacchetto maleodorante.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 08
+|-
+|'''Storyteller'''
+|"''Il Sacco dei Satiri, unica debolezza del mostruoso cerbero, si dimostra ancora una volta mostruosamente efficace.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 09
+|-
+|'''Storyteller'''
+|"''Il ringhiante Cerbero rivolge tutte e tre le proprie attenzioni al sacchetto offerto dal principe.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 10
+|-
+|'''Storyteller'''
+|"''Il guardiano degli Inferi decide che è giunta l'ora per una meritata pausa merenda.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 11
+|-
+|'''Storyteller'''
+|"''Il principe Zagreus offre nuovamente a Cerbero uno dei suoi spuntini favoriti.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 12
+|-
+|'''Storyteller'''
+|"''Cerbero non abbandona mai i propri doveri, ma un sacchetto fetido val bene un'eccezione.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 13
+|-
+|'''Storyteller'''
+|"''Il guardingo Cerbero decide di chiudere tre occhi, per questa volta.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 14
+|-
+|'''Storyteller'''
+|"''Ciascuno dei feroci volti di Cerbero concorda che la sacca vada distrutta senza indugio.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 15
+|-
+|'''Storyteller'''
+|"''Dopo un breve consulto interno, Cerbero conclude che sì, d'accordo, accetterà la sacca.''"
+|-
+! colspan="2" |Persephone With Cerberus 01
+|-
+|'''Persephone'''
+|"Oh, Cerbero! Sono sicura che è soprattutto merito tuo se questa Dimora è ancora in piedi, non ho ragione? Ti è piaciuto lo spuntino che ti ho portato dalla superficie?"
+|-
+|'''Storyteller'''
+|"''Satollo delle delizie della superficie, il mastino infernale rivolge alla regina una risposta convintamente affermativa.''"
+|-
+|'''Persephone'''
+|"Ci avrei scommesso. Neanche si direbbe nemmeno che non sia carne vera, eh? Vedrò di coltivarne il più possibile."
+|-
+! colspan="2" |Persephone With Cerberus 02
+|-
+|'''Persephone'''
+|"Sei proprio un bravo cagnolone, vero, Cerbero? Sì che lo sei! Hai fatto la guardia qui mentre non c'ero, e hai anche lasciato che il mio bimbo mi venisse a trovare!"
+|-
+|'''Storyteller'''
+|"''Il vigile e terrificante Cerbero accetta di buon grado le lusinghe.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''Celato negli oscuri recessi dell'Oltretomba giace l'Erebo, ove i morti attendono la propria eterna sentenza nella speranza di guadagnarsi il favore del Sommo Ade, loro signore e padrone.''"
+|-
+! colspan="2" |Charon Fight 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Una segreta propaggine dello sconfinato fiume Stige si fa strada fra le nebbie dell'Erebo, fornendo al nocchiero Caronte un luogo in cui confrontarsi con le anime più restie all'obbedienza.''"
+|-
+! colspan="2" |Inspect B Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''Avendo attraversato l'infuocato Flegetonte per giungere a questo punto di osservazione, l'inarrestabile Zagreus si dirige ora verso un nemico di inaudita brutalità, che giace in attesa del momento per colpire.''"
+|-
+! colspan="2" |Inspect B Story 01 01
+|-
+|'''Storyteller'''
+|"''Ben al di là il fiume di fuoco, una scalinata nascosta conduce alla più sorvegliata e incantevole tra le regioni dell'Oltretomba: le splendide lande dei Campi Elisi, dimora eterna delle più grandi anime che abbiano mai vissuto.''"
+|-
+|'''Storyteller'''
+|"''Da un'umile rifugio nel cuore dell'Asfodelo riecheggia la voce cristallina della povera Euridice, che tentò un tempo di sfuggire all'Oltretomba e, come il principe Zagreus, fallì miseramente.''"
+|-
+! colspan="2" |B Mini Boss 02 First Inspect
+|-
+|'''Storyteller'''
+|"''La pratica della stregoneria risulta spesso in una morte prematura e in un'eternità nel Tartaro. Tuttavia, v'è chi riesce ad acquisire in essa una certa maestria, trovando residenza altrove...''"
+|-
+! colspan="2" |Inspect B Shop 01 01
+|-
+|'''Storyteller'''
+|"''Le fiamme e le ceneri ardenti del fiume Flegetonte non turbano il nocchiero Caronte, il cui vascello trasporta lungo le correnti infernali i morti, i dannati, e tutte le loro ricchezze.''"
+|-
+! colspan="2" |Inspect B Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Ben celato tra le distese del fiume Flegetonte, un rivolo d'acqua rigenerante scorre tra le fiamme; quasi che le Moire stesse l'abbiano tenuto in serbo per un principe alquanto fortunato.''"
+|-
+! colspan="2" |Inspect B Intro 01 01
+|-
+|'''Storyteller'''
+|"''I Prati d'Asfodelo, un tempo rigogliosi, sono ora invasi dalle fiamme scintillanti del fiume Flegetonte, i cui flutti arroventati sono in grado di portare a rapida morte persino gli individui più refrattari al calore.''"
+|-
+! colspan="2" |Inspect B Intro 02
+|-
+|'''Storyteller'''
+|"''Nel soffocante calore dei Prati d'Asfodelo trova dimora la vasta maggioranza delle anime mortali, destinate a risiedervi fino alla fine dei tempi.''"
+|-
+! colspan="2" |Inspect C Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''La maestosa facciata del grande Stadio Elisio incombe minacciosa sull'orgoglioso principe, quasi lo sfidasse ad accettare uno scontro senza alcuna speranza di vittoria.''"
+|-
+! colspan="2" |Inspect C Shop 01 01
+|-
+|'''Storyteller'''
+|"''Le vaste e molteplici ricchezze provenienti dalla superficie e dalle profondità ctonie sono raccolte e accumulate dal nocchiero Caronte, i cui servigi sono spesso offerti alle più facoltose anime dell'Elisio.''"
+|-
+! colspan="2" |Inspect C Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Le raffinate architetture dei Campi Elisi ospitano angoli di tale pace e serenità da sfuggire all'immaginazione dei mortali, la cui breve esperienza terrena è sovente alquanto dolorosa.''"
+|-
+! colspan="2" |Inspect C Story 01 01
+|-
+|'''Storyteller'''
+|"''Tra il muschio e le pietre del solenne Elisio, una vasta quantità di monumenti rende imperituro onore ai più grandi fra gli eroi generati da sangue mortale, la cui gloria perdura così persino nella morte.''"
+|-
+! colspan="2" |Inspect C Intro 01
+|-
+|'''Storyteller'''
+|"''Le lussureggianti lande dell'Elisio, riservate alle più grandi tra le anime mortali, si estendono in tutta la loro magnificenza agli ardenti piedi del principe dell'Oltretomba.''"
+|-
+! colspan="2" |Inspect C Intro 02
+|-
+|'''Storyteller'''
+|"''Gli ammantati flutti del Lete, fiume dell'oblio, scorrono tra le sacre stanze dell'Elisio, annebbiando i ricordi più penosi delle nobili anime che ivi risiedono.''"
+|-
+! colspan="2" |Inspect Room Secret 01 01
+|-
+|'''Storyteller'''
+|"''Il più profondo livello dell'Oltretomba... il nulla da cui tutte le forme di vita e coscienza ebbero origine fin dalla notte dei tempi... il regno del Caos. Un territorio quasi sconosciuto, persino agli abitanti del regno dei morti.''"
+|-
+! colspan="2" |Inspect Room Secret 02 01
+|-
+|'''Storyteller'''
+|"''Le inimmaginabili profondità celate negli angoli più bui dell'Oltretomba sono ignote perfino al Sommo Ade. Tuttavia, l'importuno principe riesce comunque a scovare un passaggio che conduca fino a esse.''"
+|-
+! colspan="2" |Inspect Room Secret 03 01
+|-
+|'''Storyteller'''
+|"''Nei più silenziosi, solitari e oscuri abissi dell'Oltretomba giace celata una traccia del principio di ogni cosa: il Caos, primigenio artefice che diede forma a questo mondo.''"
+|-
+! colspan="2" |Inspect D Mini Boss 02 01
+|-
+|'''Storyteller'''
+|"''In sudici anfratti scavati negli imponenti edifici dell'Oltretomba risiedono creature tanto abominevoli che perfino il Sommo Ade, per quanto egli sia temibile, evita di farne parola.''"
+|-
+! colspan="2" |Inspect D Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Nei più profondi tra gli antri profanati dai Satiri giacciono i disgustosi resti dei loro sacrileghi rituali, tanto ripugnanti da non potersi nominare.''"
+|-
+! colspan="2" |Inspect D Intro 01 01
+|-
+|'''Storyteller'''
+|"''Il viaggio dell'ostinato principe lo conduce infine a un passo dalla superficie del regno dei mortali, e tuttavia egli rimane imprigionato nel sottosuolo: alle porte degli Inferi, un confine impossibile da valicare.''"
+|-
+! colspan="2" |Inspect D Hub 01
+|-
+|'''Storyteller'''
+|"''Il vasto Tempio dello Stige, coi suoi innumerevoli pericoli, è ora tutto ciò che separa il principe dell'Oltretomba dalla luce del sole, da Zagreus tanto disperatamente agognata.''"
+|-
+! colspan="2" |Inspect D Hub 02
+|-
+|'''Storyteller'''
+|"''Non lontano da qui, i morti iniziano il viaggio verso la propria ultima dimora, nelle profondità sottostanti; non è dunque raro che il traghettatore Caronte stazioni da queste parti.''"
+|-
+! colspan="2" |Inspect D Hub 03
+|-
+|'''Storyteller'''
+|"''Cerbero, temuto mastino a tre teste e sentinella degli Inferi, vigila sull'ingresso a questo regno, divorando chiunque sia tanto stolto da provare a fuggirne.''"
+|-
+! colspan="2" |Inspect D Hub 04
+|-
+|'''Storyteller'''
+|"''Una rete di tunnel rozzamente scavati nella roccia si dipana da uno dei gelidi fianchi del Tempio, colma di feroci abitanti sgraditi persino al regno dei morti.''"
+|-
+! colspan="2" |Inspect E Intro 01 01
+|-
+|'''Storyteller'''
+|"''La superficie, spazzata dai venti e sferzata dal gelo, ispira ugualmente al principe un senso di meraviglia, e di sublime. Si tratta, dopotutto, di qualcosa da lui mai visto prima.''"
+|-
+|'''Storyteller'''
+|"''Frutta e verdura d'ogni sorta crescono rigogliose nel giardino segreto di Persefone, un tempo regina di tutto l'Oltretomba. Un'oasi di vita, lontano dal reame della morte.''"
+|-
+! colspan="2" |A Pre Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Oltre questa stanza si estende l'estremo perimetro del Tartaro, irto di pericoli ben al di là di quanto il principe degli Inferi possa immaginare.''"
+|-
+! colspan="2" |A Boss 01 Inspect 01
+|-
+|'''Storyteller'''
+|"''Le Erinni, dette anche Furie, sono le fidate sentinelle del Sommo Ade, incaricate di torturare il peggio che la stirpe mortale abbia da offrire... e di sbarazzarsi di chiunque sia tanto stolto da sconfinare ove non gli compete.''"
+|-
+! colspan="2" |A Post Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''La strada fuori dal Tartaro è finalmente svelata. Molto al di sopra, il calore dell'ardente fiume Flegetonte si fa già sentire... così come il presagio dei molti pericoli a venire.''"
+|-
+! colspan="2" |A Post Boss 01 Gears Inspect 01
+|-
+|'''Storyteller'''
+|"''Nessuno, all'infuori dei più fidati servi del Sommo Ade, è autorizzato ad accedere alle intricate camere che connettono le vaste regioni dell'Oltretomba; ma il principe decide di mettervi piede ugualmente.''"
+|-
+! colspan="2" |A Mini Boss 03 01 First Inspect
+|-
+|'''Storyteller'''
+|"''I più violenti tra i reietti del Tartaro sono isolati perfino dal resto dei dannati; le sole visite che ricevono consistono in coloro tanto stolti da provare a evadere.''"
+|-
+! colspan="2" |A Mini Boss 04 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Le anime dannate prive di un luogo in cui andare si ammassano nelle profondità del Tartaro, dove si fondono alla terra stessa dando vita a empie forme troppo ardue da descrivere.''"
+|-
+! colspan="2" |A Reprieve 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Per quanto difficile sia da immaginare, anche negli Inferi è possibile imbattersi talvolta in luoghi di pace e ristoro.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''Le infernali mercanzie del nocchiero stigio, Caronte, sono esposte alla rinfusa e offerte in vendita a chiunque voglia lenire la sua inestinguibile sete di ricchezze.''"
+|-
+|'''Storyteller'''
+|"''Il famigerato fiume Stige attraversa l'intero Oltretomba, consentendo al nocchiero Caronte una celere traversata dal regno dei vivi fino alle più remote profondità, ove molte anime trovano dimora eterna.''"
+|-
+! colspan="2" |Opening First Inspect
+|-
+|'''Storyteller'''
+|"''Composto da innumerevoli stanze interconnesse in costante movimento, l'Oltretomba del Sommo Ade è un labirinto nel quale i defunti rimarranno intrappolati sino alla fine dei tempi.''"
+|-
+! colspan="2" |Opening Proc Gen Hint
+|-
+|'''Storyteller'''
+|"''Ogni volta che il principe si avventura nell'Oltretomba, le sue mutevoli stanze assumono una nuova configurazione, frustrando i suoi tentativi di tracciarne una mappa affidabile.''"
+|-
+! colspan="2" |Inspect A Story 01 01
+|-
+|'''Storyteller'''
+|"''Alle profondità del Tartaro sono consegnate le più abiette fra le ombre che albergano nell'Oltretomba, il cui signore e padrone è particolarmente mal disposto verso coloro che tentano di ingannare la morte.''"
+|-
+|}

@@ -1,0 +1,855 @@
+{| class="wikitable"
+|+
+! colspan="2" |Zeus With Athena 01
+|-
+|'''Zeus'''
+|"Regarde, Zagreus, voici la courageuse Athéna, la première de ma famille à t'avoir tendu la main dans toute sa sagacité. Ma fille, tu es si proactive que tu as contacté Zagreus avant même de m'informer de la situation !"
+|-
+|'''Athena'''
+|"Cher père, si seulement il m'était possible de régler de telles affaires encore plus promptement et discrètement, pour que seules les plus graves captent votre attention. Cela dit, je suis certaine que Zagreus et moi vous sommes très reconnaissants de votre intervention."
+|-
+! colspan="2" |Ares With Athena 01
+|-
+|'''Ares'''
+|"J'espérais pouvoir te parler à nouveau en privé, cher parent, mais vois-tu..."
+|-
+|'''Athena'''
+|"...Mais vois-tu, cher Cousin, certains membres de notre famille sont prédisposés à l’indicible. Je te mets en garde contre mon demi-frère, voilà tout. À présent, poursuis ton chemin."
+|-
+|'''Ares'''
+|"Tu m'interromps une fois de plus, ma chère sœur. Tu sais que cela m’est égal. Je te préviens, ne te mêle pas de mes affaires. J’aiderai mon parent comme bon me semble."
+|-
+|'''Athena'''
+|"Tu fais toujours comme bon te semble, cher Arès. Veille seulement à garder le même cap que nous tous."
+|-
+! colspan="2" |Aphrodite With Athena 01
+|-
+|'''Aphrodite'''
+|"Tu dois nous excuser, petit dieu. Je parle de notre grande famille sur l'Olympe ! Certains d'entre nous sont terriblement coincés, et rendent les choses bien plus compliquées qu'elles n'ont besoin de l'être."
+|-
+|'''Athena'''
+|"Je me demande, très chère Aphrodite, si tu serais prête à me répéter de telles choses en face ?"
+|-
+|'''Aphrodite'''
+|"Oh, tu sais que je ferais bien plus que ça à ta face, ma chère Athéna ! Pour être tout à fait franche, il y a de quoi faire !"
+|-
+! colspan="2" |Aphrodite With Athena 02
+|-
+|'''Aphrodite'''
+|"Mon chéri, tu dois savoir que la déesse Athéna et moi-même ne sommes pas toujours du même avis. Peut-être parce qu'elle passe son temps à trop réfléchir, tandis que moi, je suis mon cœur !"
+|-
+|'''Athena'''
+|"Je suis contente de voir que nous avons pu nous mettre d'accord pour cette fois, alors. Ce serait fort embarrassant de nous chamailler devant Zagreus."
+|-
+! colspan="2" |Dionysus With Athena 01
+|-
+|'''Dionysus'''
+|"Hé, Zag ! Quand tu seras là, ça sera vraiment super, mec. Je te promets ! Même Athéna ici présente se détendra un peu, elle détachera ses cheveux, mettra une tenue un peu plus relax... Ouais, ça va être un truc de ''dingue '' !"
+|-
+|'''Athena'''
+|"Parfois, je me dis qu'en vérité, c'est peut-être le seigneur Dionysos qui est le vrai dieu de la stratégie, car il semble étrangement toujours au courant de mon prochain coup. Enfin, quoi qu'il en soit, je tâcherai de rester concentrée sur ta situation. Pas sur son banquet."
+|-
+! colspan="2" |Athena With Zeus 01
+|-
+|'''Athena'''
+|"Noble cousin, mon auguste père s'intéresse à votre quête et cherche maintenant à vous aider avec rien de moins que le tonnerre des cieux. Et vous avez aussi mon soutien, bien sûr."
+|-
+|'''Zeus'''
+|"Je te remercie pour ta généreuse présentation, Athéna, et je me réjouis toujours de t'avoir à mes côtés. Je suis sûr que notre double protection garantit à Zagreus de réussir !"
+|-
+! colspan="2" |Athena With Poseidon 01
+|-
+|'''Athena'''
+|"Quand j'ai informé le seigneur Zeus et d'autres membres de notre famille de votre existence, Zagreus, c'est oncle Poséidon qui s'est manifesté en premier en vous accordant la bienveillance de la mer et de la terre. N'est-ce pas, mon oncle ?"
+|-
+|'''Poseidon'''
+|"Exactement, Athéna, avec cette excellente mémoire qui te caractérise ! Parce que ce n'est pas tous les jours qu'on apprend que son triste frère Hadès a engendré un bon fils ! Il ignore la chance qu'il a ! Et ''toi'', mon neveu, mérite tellement ''mieux ''!"
+|-
+! colspan="2" |Athena With Aphrodite 01
+|-
+|'''Athena'''
+|"Ta situation a rassemblé tous les membres de notre famille dans le désir de te soutenir, cousin. Même ceux qui, d'ordinaire, ne pensent qu'à eux-mêmes."
+|-
+|'''Aphrodite'''
+|"Oh, ma chère Athéna, si seulement j'étais sage au point de pouvoir répondre à tes petites piques et autres insultes de ce genre ! Tu ne trompes personne avec ta soi-disant bienveillance, sache-le."
+|-
+|'''Athena'''
+|"Le monde n'est pas que mensonges et tromperies comme tu le prétends, Aphrodite. Parfois, l'entraide se fait sans arrière-pensées. Maintenant, aide Zagreus ou va-t'en."
+|-
+! colspan="2" |Athena With Artemis 01
+|-
+|'''Athena'''
+|"Est-ce que tu as un moment, Zagreus ? Un membre de ma famille m’accuse de ne pas lui accorder assez de temps avec toi. Je l’ai donc amené ici avec moi."
+|-
+|'''Artemis'''
+|"Oh, euh, bonjour, Zagreus. Je crois qu'Athéna essaie de faire bonne figure ou de prouver quelque chose, je ne sais pas. Enfin bref, contente de te voir."
+|-
+|'''Athena'''
+|"Bon, j’imagine que c’est réglé, alors. Je crains que ce genre d’interactions ne soit pas rare dans ma famille, mais bon, qu'est-ce qu'une famille sans ses petits défauts ?"
+|-
+! colspan="2" |Athena With Dionysus 01
+|-
+|'''Athena'''
+|"Certains membres de notre famille ne comprennent pas encore totalement la précarité de ta situation, cousin. Le Seigneur Dionysos, par exemple, la considère même comme un motif de réjouissances !"
+|-
+|'''Dionysus'''
+|"Oh, allez, Athéna, tu vas quand même pas me dire que découvrir l'existence d'un parent oublié n'est pas une excellente raison de faire la fête, si ? Non, parce que si Zag n'est pas un motif de réjouissances, alors moi, je sais pas ce qu'il nous reste !"
+|-
+! colspan="2" |Athena With Demeter 01
+|-
+|'''Athena'''
+|"J'amène avec moi Dame Déméter, cousin. Je lui ai assuré que nous avions la situation bien en main, mais elle a malgré tout insisté pour t'apporter son soutien, dans son infinie compassion !"
+|-
+|'''Demeter'''
+|"Oh, inutile de me flatter ainsi avec tes fausses louanges, chère Athéna. Je croyais que ton intelligence sans limites t'aurait permis de te rendre compte que tes intentions sont pour moi claires comme le jour."
+|-
+! colspan="2" |Athena About Demeter 01
+|-
+|'''Athena'''
+|"Ce froid glacial que je perçois doit vouloir dire que la déesse des saisons s'est intéressée à ta cause, Zagreus. Je ne m'attendais pas à ce que Déméter prenne part à cette affaire. Garde la tête haute, mais reste prudent avec elle."
+|-
+! colspan="2" |Athena About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Bon, alors... au nom d'Hadès ! Olympe, ceci est un message officiel ! Dame Athéna, je crois que vous comprendrez vite de quoi il s'agit."
+|-
+|'''Athena'''
+|"C'est une proposition que vous me faites ? Non... Une minute. On dirait un message. Ou un fragment de message. Ça veut dire que...? Il faut que j'en parle aux autres. J'imagine que vous leur avez aussi envoyé un message ou qu'ils le recevront bientôt."
+|-
+! colspan="2" |Athena Post Epilogue 01
+|-
+|'''Athena'''
+|"Ce fut un honneur de visiter la Maison de ton père, et de ''te '' voir brièvement en personne, Zagreus. Nyx et ta mère sont très rusées ; peut-être que c'est d'elles que tu tiens ton intelligence. Quant à tes nouvelles responsabilités... exposer les vulnérabilités dans une défense est ma spécialité."
+|-
+! colspan="2" |Athena About Zeus 01
+|-
+|'''Athena'''
+|"Si j’ai bien compris, tu es entré en contact avec mon père ? Ton oncle Zeus, je veux dire. Il s’intéresse à ta situation. Tu devrais te sentir honoré !"
+|-
+! colspan="2" |Athena About Poseidon 01
+|-
+|'''Athena'''
+|"Tu as déjà rencontré le maître des mers, Poséidon, n’est-ce pas ? Notre oncle est affable, mais très susceptible. Je te conseille de rester sur tes gardes avec lui."
+|-
+! colspan="2" |Athena About Aphrodite 01
+|-
+|'''Athena'''
+|"Cousin, tu as rencontré Aphrodite, n’est-ce pas ? Elle aime captiver les hommes de ses charmes, mais ses intentions te concernant me paraissent pures. Tu découvriras vite que nos atouts sont complémentaires."
+|-
+! colspan="2" |Athena About Ares 01
+|-
+|'''Athena'''
+|"Mon guerrier de frère t'a contacté, n’est-ce pas ? J’ai toujours trouvé sa conduite dérangeante. Au moins, on dirait qu’il t'aide, pour le moment."
+|-
+! colspan="2" |Athena About Artemis 01
+|-
+|'''Athena'''
+|"Je vais te dire quelque chose, cousin : si même Artémis t'aide, c’est la preuve que ta cause est juste. Elle s’intéresse rarement aux affaires de la famille."
+|-
+! colspan="2" |Athena About Dionysus 01
+|-
+|'''Athena'''
+|"Dionysos t'a déjà rendu visite ? Il s’intéresse plus aux banquets qu’aux conflits. C’est un plaisir de savoir qu’il se rend utile."
+|-
+! colspan="2" |Athena About Hermes 01
+|-
+|'''Athena'''
+|"Tu m'as trouvé plus tôt que prévu, cousin, et je me trompe rarement dans mes estimations. Tant mieux, bien sûr. Peut-être que tu es tout simplement plus rapide que je ne le pensais."
+|-
+! colspan="2" |Athena About Hades Keepsake 01
+|-
+|'''Athena'''
+|"Zagreus, je ne sais pas s'il s'agit là de mon imagination, mais il semblerait que cette fois, tu aies la bénédiction de... de ton propre père ! Si le Seigneur Hadès te soutient dans tes efforts, alors j'ose espérer que tes relations avec lui sont en mesure de s'améliorer, d'une manière ou d'une autre."
+|-
+! colspan="2" |Athena About Hades Keepsake 02
+|-
+|'''Athena'''
+|"Je vois que tu as encore la bénédiction d'Hadès, Zagreus. Écoute, je ne vais pas commencer à croire que tout ne sera plus qu'un long fleuve tranquille entre vous, désormais. Cela dit, je pense qu'il est possible de tourner la page sur le passé, aussi tumultueux soit-il. Crois-moi... j'en sais quelque chose."
+|-
+! colspan="2" |Athena Post Gift Pickup 01
+|-
+|'''Athena'''
+|"Il me tarde tant que tu prennes ta place parmi les dieux, cher Cousin. L’Olympe ne sera que plus joyeux et bienveillant quand tu y seras."
+|-
+! colspan="2" |Athena Post Gift Pickup 02
+|-
+|'''Athena'''
+|"Bonjour et bon vent à toi, noble Cousin. Je prie que tu soies prompt à vaincre les morts qui osent s’opposer à toi."
+|-
+! colspan="2" |Athena Post Gift Pickup 03
+|-
+|'''Athena'''
+|"N'abandonnez jamais votre espoir de vous échapper, cher cousin. Malgré toutes nos différences, la persévérance est une qualité que nous possédons tous."
+|-
+! colspan="2" |Athena Post Gift Pickup 04
+|-
+|'''Athena'''
+|"Tu pourras toujours compter sur mon aide, Zagreus. Pour moi, les besoins de notre famille passent avant tout autre chose."
+|-
+! colspan="2" |Athena Post Gift Pickup 05
+|-
+|'''Athena'''
+|"Puisse ma voix être telle une lueur dans l'obscurité, noble cousin ; mais puisse la bénédiction que je vais t'accorder être encore plus que cela."
+|-
+! colspan="2" |Athena Vs Olympians 01
+|-
+|'''Athena'''
+|"Vous avez fait connaissance de vos parents éloignés, désormais. Nous n’avons pas tous le même comportement ni le même point de vue. Mais il me semble que tous, nous vous soutenons."
+|-
+! colspan="2" |Athena Backstory 01
+|-
+|'''Athena'''
+|"Cette Nyx... c’est donc ta mère, si je comprends bien ? Nous, les Olympiens, nous ne fréquentons que rarement les dieux chthoniens. Mais c'est elle qui m’a informé de ta situation, et m’a incitée à agir."
+|-
+! colspan="2" |Athena Backstory 02
+|-
+|'''Athena'''
+|"Transmets mon bon souvenir à la déesse Nyx. Qu’elle te soutienne dans tes efforts pour t'enfuir de son domaine indique un dévouement que je n’aurais pas attendu de sa part."
+|-
+! colspan="2" |Athena Backstory 03
+|-
+|'''Athena'''
+|"Il est tellement cruel que ton père nous ait caché ton existence, mon Cousin. C’est inacceptable."
+|-
+! colspan="2" |Athena Backstory 04
+|-
+|'''Athena'''
+|"Ton père Hadès et mon père Zeus ne communiquent plus depuis quelque temps, et Zeus refuse d'en expliquer la raison. Il s’est passé quelque chose entre eux... peut-être que tu en sais davantage que moi."
+|-
+! colspan="2" |Athena Backstory 05
+|-
+|'''Athena'''
+|"Je voulais vous dire quelque chose, Zagreus : il n’y a pas de honte à avoir été élevé comme vous l’avez été. Beaucoup d’entre nous, sur l’Olympe, sont aussi nés dans d’étranges circonstances. Un jour, je vous parlerai de ma naissance."
+|-
+! colspan="2" |Athena Post Flashback 01
+|-
+|'''Athena'''
+|"Tu n’as rien à voir avec ton père, Zagreus. C’est un compliment, de ma part. Il s’est coupé de sa famille. Nous lui avons souvent tendu la main, mais sans succès."
+|-
+! colspan="2" |Athena Run Progress 01
+|-
+|'''Athena'''
+|"Je suis réconfortée de voir jusqu’où vous êtes allé, cousin. Et je suis sûre que vous finirez par sortir de là. Il me tarde nos futures conversations."
+|-
+! colspan="2" |Athena Run Progress 02
+|-
+|'''Athena'''
+|"Bravo, vous avez atteint les flammes de l'Asphodèle ! Il vous reste pas mal de chemin, mais avoir traversé le Tartare n'est pas un mince exploit, cousin."
+|-
+! colspan="2" |Athena Run Progress 03
+|-
+|'''Athena'''
+|"Je vois que vous avez réussi à atteindre l'Élysée sacré, cousin... Une étape importante avant la surface, et si vous avez réussi une fois, vous êtes sûrement capable de rééditer l'exploit, et de triompher des dangers qui vous y guettent."
+|-
+! colspan="2" |Athena Run Progress 04
+|-
+|'''Athena'''
+|"J'ai cru comprendre que tu avais presque rejoint la surface récemment, Zagreus. Je reste convaincue que tu finiras tôt ou tard par sortir de là, quelles que soient les abominations pouvant guetter au-delà des confins des Enfers."
+|-
+! colspan="2" |Athena Run Cleared 01
+|-
+|'''Athena'''
+|"Vous n'avez pas failli atteindre la surface, récemment, cousin ? Cela veut dire qu'un événement imprévu vous a empêché de réussir."
+|-
+! colspan="2" |Athena Run Cleared 02
+|-
+|'''Athena'''
+|"Une force ou un ennemi invincible doit vous attendre à la limite de votre royaume et du nôtre. Un voile de ténèbres nous empêche de le voir. Je veillerai à ce que votre famille sache qu'un temps considérable sera nécessaire pour passer outre... Alors, n'ayez crainte, car nous sommes patients, ici."
+|-
+! colspan="2" |Athena Run Cleared 03
+|-
+|'''Athena'''
+|"Malgré les difficultés que vous avez sans cesse rencontrées, cher cousin, vous n'avez jamais baissé les bras. Je dois avouer que votre force de caractère est un exemple. Bien que je sois de nature à douter, je comprends mieux pourquoi Nyx a dit tant de bien de vous."
+|-
+! colspan="2" |Athena Post Epilogue 02
+|-
+|'''Athena'''
+|"C'est une chance que tes problèmes avec ta mère aient été résolus. Avec Perséphone, je veux dire ! Et dire que j'ai fait croire à toute ma famille que la déesse Nyx était ta mère. Il semblerait que je les ai induits en erreur sans le vouloir. Mais je sais que Nyx n'avait pas de mauvaises intentions."
+|-
+! colspan="2" |Athena About Keepsake 01
+|-
+|'''Athena'''
+|"Tu portes mon Pendentif de Hibou, noble cousin ! Peu importe où il se trouve, je peux le voir briller de loin, même quand il est là-bas ! Car vois-tu, les hiboux peuvent voir même dans l'obscurité la plus totale."
+|-
+! colspan="2" |Athena About Nyx 01
+|-
+|'''Athena'''
+|"Je me suis plus rapprochée de Nyx que je ne l'aurais pensé, cousin. Son profond attachement à toi est évident. Je dois reconnaître que j'envie votre relation, parfois, car je n'ai jamais eu de mère sur qui compter."
+|-
+! colspan="2" |Athena About Nyx 02
+|-
+|'''Athena'''
+|"Le Seigneur Arès a laissé entendre que la déesse Nyx et lui se sont beaucoup rapprochés, dans cette histoire. Rien d'inconvenant, bien sûr. Arès et moi avons été, et sommes en désaccord sur de nombreux sujets, mais il s'avère que nous partageons le même avis sur la Nuit incarnée."
+|-
+! colspan="2" |Athena About Nyx 03
+|-
+|'''Athena'''
+|"Parfois, je pense à la Déesse Nyx, et l'envie qu'elle soit la mère que je n'ai jamais eue me revient, cousin. Est-ce inconvenant de te dire de telles choses ? Il serait facile de croire que quelqu'un veille déjà sur moi, là-haut, mais... j'ai souvent l'impression que c'est moi, la mère de tout le monde, ici."
+|-
+! colspan="2" |Athena About Quest Log 01
+|-
+|'''Athena'''
+|"La déesse Nyx a indiqué que tu possédais une liste de prophéties des Trois Moires. J'ai la même liste ici, sur l'Olympe ! Elle semble liée à la tienne, car plusieurs prophéties se sont déjà réalisées. N'est-ce pas un immense honneur que d'aider le Destin à s'accomplir ?"
+|-
+! colspan="2" |Athena Legendary Pick Up 01
+|-
+|'''Athena'''
+|"Vous ne pouvez pas résister aux légions de votre père, Zagreus, mais cela pourrait changer avec une de mes meilleures bénédictions, je crois."
+|-
+|'''Athena'''
+|"Cher cousin, je souhaite t'offrir la bénédiction la plus puissante qui me soit possible d'accorder. Puisses-tu en faire bon usage, et nous rejoindre enfin au sommet de l'Olympe !"
+|-
+! colspan="2" |Athena Legendary Pick Up 02
+|-
+|'''Athena'''
+|"Cher cousin, si seulement je pouvais vous donner une détermination éternelle et sans faille ! Quoique, maintenant que j'y pense, ce que je m'apprête à vous offrir n'est pas moins précieux."
+|-
+|'''Athena'''
+|"Les circonstances me poussent à t'offrir la plus puissante de mes bénédictions, cher cousin. Prends ma force, et triomphe des ténèbres une bonne fois pour toutes !"
+|-
+! colspan="2" |Athena Max Relationship 01
+|-
+|'''Athena'''
+|"Vous soutenir dans vos épreuves, cousin ? Ça me rappelle le frisson que j'éprouve quand je me bats aux côtés de personnes qui me sont chères. Je suis peut-être en sécurité au sommet de cette montagne, mais je suis avec vous quand même... dans les victoires durement acquises comme dans les douloureuses défaites."
+|-
+! colspan="2" |Athena Has Weapon 01
+|-
+|'''Athena'''
+|"Tu possèdes Varatha, la Lance Éternelle...! Elle n’a donc pas été perdue pendant la guerre. Une arme magnifique, dans des mains dignes d’elle."
+|-
+! colspan="2" |Athena Has Weapon 02
+|-
+|'''Athena'''
+|"Tiens, vous portez Coronacht, le Traque-cœur ! Je ne vous aurais jamais pris pour un archer, bien que le pouvoir de cet arc soit indéniable. Faites-en bon usage !"
+|-
+! colspan="2" |Athena Has Weapon 03
+|-
+|'''Athena'''
+|"Vous portez le vrai bouclier Égide ! Mon bouclier a été fait à son image, mais beaucoup plus tard. Un jour, vous me raconterez comment vous l’avez obtenu."
+|-
+! colspan="2" |Athena Has Weapon 04
+|-
+|'''Athena'''
+|"Je vois que tu as mis la main sur Malphon, les Poings Jumeaux. Il ne s'agit pas là d'une arme ordinaire. Elle est sujette à des accès de sauvagerie indignes d'un guerrier bien entraîné. Je te conseille donc de rester sur tes gardes."
+|-
+! colspan="2" |Athena Has Weapon 05
+|-
+|'''Athena'''
+|"Le Canon Adamantin lui-même est entre tes mains, cousin ? Un objet maléfique, si tu veux mon avis, et que jamais je n'utiliserais. Sauf, peut-être, si je n'avais pas d'autre choix. J'imagine que cela a été le cas pour toi."
+|-
+! colspan="2" |Athena Low Health 01
+|-
+|'''Athena'''
+|"Tu es grièvement blessé, n'est-ce pas, cousin ? Malheureusement, je ne peux pas faire disparaître ta douleur par la seule force de ma volonté, mais je peux au moins t'apporter ceci."
+|-
+! colspan="2" |Athena Low Health 02
+|-
+|'''Athena'''
+|"Regarde-toi, Zagreus, tu es à peine en état de te battre avec toutes ces blessures ! Je vais essayer de te maintenir en vie le plus longtemps possible."
+|-
+! colspan="2" |Athena Low Health 03
+|-
+|'''Athena'''
+|"Je vois que tu as déjà subi de graves blessures, Zagreus, mais ne perds pas espoir. Nous pouvons te maintenir en état de combattre."
+|-
+! colspan="2" |Athena Low Health 04
+|-
+|'''Athena'''
+|"Tu souffres peut-être de nombreuses blessures, mais tu ne mourras pas tout de suite, cousin. Pas tant que j'aurai mon mot à dire."
+|-
+! colspan="2" |Athena Low Health 05
+|-
+|'''Athena'''
+|"Oh, Zagreus... manifestement, tes récentes batailles ne se sont pas déroulées comme prévu. Mais quoi qu'il en soit, continue sur ta lancée tant que tu respires encore."
+|-
+! colspan="2" |Athena First Pick Up
+|-
+|'''Zagreus'''
+|"Ça doit être elle. Bon, alors c'est parti... ''Hum ''! Au nom d’Hadès ! Olympe, j’accepte ce message."
+|-
+|'''Athena'''
+|"Salutations, noble Cousin. À présent, faisons en sorte que tu t'échappes de ce misérable taudis. Je veillerai à ce que nous tous sur l’Olympe venions à ton secours, à commencer par moi-même dès maintenant."
+|-
+! colspan="2" |Athena Misc Pickup 01
+|-
+|'''Athena'''
+|"Continue de te battre, cousin. Libère-toi de ces ténèbres éternelles. Je suis sûre que tu nous rejoindras très vite au sommet de l'Olympe."
+|-
+! colspan="2" |Athena Misc Pickup 02
+|-
+|'''Athena'''
+|"Tu as ma protection à présent, cousin. Bats-toi hors des Enfers, et viens prendre ta place parmi nous grâce à mes bénédictions !"
+|-
+! colspan="2" |Athena Misc Pickup 03
+|-
+|'''Athena'''
+|"Que la lumière et la fureur de l’Olympe te guident hors des ténèbres, cousin. Je viens t'en apporter un échantillon."
+|-
+! colspan="2" |Athena Misc Pickup 04
+|-
+|'''Athena'''
+|"Continue sur ta lancée, noble cousin. Je t'aiderai à déjouer les périls que les Moires ont placés sur ton chemin."
+|-
+! colspan="2" |Athena Misc Pickup 05
+|-
+|'''Athena'''
+|"Terrasse tous ceux qui s’opposent à toi, noble cousin. Tu as tout mon soutien, ainsi que celui de toute ta famille sur l'Olympe."
+|-
+! colspan="2" |Athena Misc Pickup 06
+|-
+|'''Athena'''
+|"Parfois, je pense à tout ce que tu as dû vivre dans ce taudis, cousin. Justice sera faite, je te le jure."
+|-
+! colspan="2" |Athena Misc Pickup 07
+|-
+|'''Athena'''
+|"Ne craignez pas les cruelles légions de votre père, cousin ! Leurs vies sont depuis longtemps écoulées, et elles ne peuvent s’opposer à mon pouvoir ni à ce qui vous revient de droit."
+|-
+! colspan="2" |Athena Misc Pickup 08
+|-
+|'''Athena'''
+|"Votre plan d’action ne manque pas de culot, Zagreus, et je dois dire que cela me plaît. La stratégie la plus courageuse est souvent celle qui triomphe. Surtout si je la soutiens."
+|-
+! colspan="2" |Athena Misc Pickup 09
+|-
+|'''Athena'''
+|"Haut les cœurs, cousin, car tu es parvenu à me trouver malgré les ténèbres des Enfers. Puisse mon pouvoir t'être utile."
+|-
+! colspan="2" |Athena Misc Pickup 10
+|-
+|'''Athena'''
+|"Tes efforts ne sont pas passés inaperçus, cousin, alors courage. L’éternité t'attend au-delà de cette prison."
+|-
+! colspan="2" |Athena Misc Pickup 11
+|-
+|'''Athena'''
+|"L’Olympe est l’exact opposé de ce taudis lugubre dans lequel tu résides, Zagreus. Bats-toi, et viens nous retrouver !"
+|-
+! colspan="2" |Athena Misc Pickup 12
+|-
+|'''Athena'''
+|"Cousin, j’éprouve de la colère rien qu’en pensant à votre situation. Que le peu de pouvoir que j’ai à vous offrir vous aide à accomplir votre destin."
+|-
+! colspan="2" |Athena Misc Pickup 13
+|-
+|'''Athena'''
+|"Ton père a choisi de couper tout lien avec nous, et de s'isoler dans son royaume souterrain. Mais ce n'est pas à toi de subir les conséquences de ses actes. Bats-toi !"
+|-
+! colspan="2" |Athena Misc Pickup 14
+|-
+|'''Athena'''
+|"Tes efforts te rendent plus fort, noble cousin. Et les bénédictions que je t'offre te rendront plus fort encore."
+|-
+! colspan="2" |Athena Misc Pickup 15
+|-
+|'''Athena'''
+|"Je vous ai encore trouvé, cher cousin, et je vous prête ma force autant que je peux en envoyer dans les entrailles de la terre."
+|-
+! colspan="2" |Athena Misc Pickup 16
+|-
+|'''Athena'''
+|"Je suis revenue te prêter main-forte, noble cousin. Mais c’est ta détermination qui finira par te libérer de cette prison."
+|-
+! colspan="2" |Athena Misc Pickup 17
+|-
+|'''Athena'''
+|"Je suis heureuse de voir que l’obstination de ton père s’est mue en détermination chez toi, Zagreus. Tu as ma bénédiction."
+|-
+! colspan="2" |Athena Misc Pickup 18
+|-
+|'''Athena'''
+|"Quels misérables imbéciles osent s’opposer à vous, cousin ? Punissez-les, pour qu’ils apprennent quelque chose qu’ils auraient déjà dû savoir de leur vivant."
+|-
+! colspan="2" |Athena Misc Pickup 19
+|-
+|'''Athena'''
+|"Accrochez-vous à votre détermination, cousin, et montez donc vers la lumière. Je suis là, qu’importe le nombre de vos échecs."
+|-
+! colspan="2" |Athena Misc Pickup 20
+|-
+|'''Athena'''
+|"Je ne te retiendrai pas, Zagreus, sauf pour t'accorder une partie de mon pouvoir et augmenter tes chances de réussite. Maintenant, dépêche-toi de choisir, et pars."
+|-
+! colspan="2" |Athena Misc Pickup 19 B
+|-
+|'''Athena'''
+|"Que la sagesse et la chance guident tes pas jusqu’à la surface, cousin."
+|-
+! colspan="2" |Athena Misc Pickup 20 B
+|-
+|'''Athena'''
+|"Les misérables ombres des Enfers te redouteront, cousin."
+|-
+! colspan="2" |Athena Misc Pickup 21
+|-
+|'''Athena'''
+|"Que ta force et ma sagesse te guident hors de ces ténèbres, Zagreus."
+|-
+! colspan="2" |Athena Misc Pickup 22
+|-
+|'''Athena'''
+|"Les viles ruses de vos ennemis sans vie ne peuvent rien contre votre puissance divine."
+|-
+! colspan="2" |Athena Misc Pickup 23
+|-
+|'''Athena'''
+|"N’oublie pas que je veille toujours sur toi, mon cher cousin."
+|-
+! colspan="2" |Athena Misc Pickup 24
+|-
+|'''Athena'''
+|"Justice te sera rendue en temps et en heure, cousin. Je te le promets."
+|-
+! colspan="2" |Athena Misc Pickup 25
+|-
+|'''Athena'''
+|"La puissance et la fureur de l’Olympe coulent dans tes veines, noble cousin."
+|-
+! colspan="2" |Athena Misc Pickup Extra 01
+|-
+|'''Athena'''
+|"J'imagine que vous avez un plan pour sortir, cette fois, cousin ?"
+|-
+! colspan="2" |Athena Misc Pickup Extra 02
+|-
+|'''Athena'''
+|"Je ne te retiendrai pas, Zagreus, sauf pour t'accorder mon pouvoir et augmenter tes chances de réussite."
+|-
+! colspan="2" |Athena Misc Pickup Extra 03
+|-
+|'''Athena'''
+|"Ne relâche pas tes efforts, Zagreus, car la persévérance est une qualité que nous possédons tous."
+|-
+! colspan="2" |Athena Misc Pickup Extra 04
+|-
+|'''Athena'''
+|"Toute ta famille sur l'Olympe et moi-même te soutenons dans tes efforts, noble cousin."
+|-
+! colspan="2" |Athena Misc Pickup Extra 05
+|-
+|'''Athena'''
+|"N'oublie pas, cousin : le doute et l'hésitation sont tes vrais ennemis."
+|-
+! colspan="2" |Athena Misc Pickup Extra 06
+|-
+|'''Athena'''
+|"Je sais que tu es parfaitement capable de te défendre même sans mes pouvoirs, cousin, mais juste au cas où..."
+|-
+! colspan="2" |Athena Misc Pickup Extra 07
+|-
+|'''Athena'''
+|"Visualise ta réussite, et choisis par quel moyen tu l'obtiendras, Zagreus."
+|-
+! colspan="2" |Athena Misc Pickup Extra 08
+|-
+|'''Athena'''
+|"Je ne m'embarrasserai pas de mots creux, cher cousin. Je préfère vous remettre ceci directement."
+|-
+! colspan="2" |Athena Misc Pickup Extra 09
+|-
+|'''Athena'''
+|"Les forces de votre père ne peuvent rien contre deux redoutables adversaires tels que nous, cousin !"
+|-
+! colspan="2" |Athena Misc Pickup Extra 10
+|-
+|'''Athena'''
+|"Mon soutien ne suffira pas à vous faire réussir, Zagreus, mais il a son rôle à jouer."
+|-
+! colspan="2" |Athena Misc Pickup Extra 11
+|-
+|'''Athena'''
+|"Vos adversaires trouveront bientôt impossible de surpasser votre force, une fois associée à la mienne."
+|-
+! colspan="2" |Athena Misc Pickup Extra 12
+|-
+|'''Athena'''
+|"J'ai confiance que vous utilisiez bientôt ma bénédiction à bon escient."
+|-
+! colspan="2" |Athena Misc Pickup Extra 13
+|-
+|'''Athena'''
+|"Ne laissez pas votre détermination vaciller, Zagreus. Visualisez le résultat que vous désirez."
+|-
+! colspan="2" |Athena Misc Pickup Extra 14
+|-
+|'''Athena'''
+|"Ne fais jamais deux fois la même erreur, et tu gagneras toujours en sagesse quoi qu'il arrive."
+|-
+! colspan="2" |Athena Misc Pickup Extra 15
+|-
+|'''Athena'''
+|"Je ferai tout en mon pouvoir pour te protéger des périls sur ton chemin, Zagreus."
+|-
+! colspan="2" |Athena Misc Pickup Extra 16
+|-
+|'''Athena'''
+|"Méfiez-vous des légions de votre père, Zagreus, et prenez aussi mon pouvoir."
+|-
+! colspan="2" |Athena Misc Pickup Extra 17
+|-
+|'''Athena'''
+|"N'oublie pas que changer de stratégie peut être la clé de la victoire, cousin."
+|-
+! colspan="2" |Athena Misc Pickup Extra 18
+|-
+|'''Athena'''
+|"Je n'arrive pas à recueillir les détails de votre difficile situation, cousin, mais ceci aidera peut-être."
+|-
+! colspan="2" |Athena Misc Pickup Extra 19
+|-
+|'''Athena'''
+|"Que la puissance et l'honneur de l'Olympe te protègent des ténèbres et de la mort, Zagreus."
+|-
+! colspan="2" |Athena Misc Pickup Rare 01
+|-
+|'''Athena'''
+|"J'imagine qu'être parfaitement hermétique aux attaques de vos ennemis présente un intérêt, cousin ?"
+|-
+! colspan="2" |Athena Misc Pickup Rare 02
+|-
+|'''Athena'''
+|"Je ne suis pas d'humeur à m'occuper des caprices de ton père cette fois, Zagreus, alors prends ceci."
+|-
+! colspan="2" |Athena Misc Pickup Rare 03
+|-
+|'''Athena'''
+|"Voici les protections les plus puissantes que j'aie à offrir, Zagreus. Choisissez avec discernement."
+|-
+! colspan="2" |Athena Misc Pickup Rare 04
+|-
+|'''Athena'''
+|"J'ai préparé plusieurs de mes bénédictions les plus puissantes afin de t'aider à triompher des Enfers, cousin."
+|-
+! colspan="2" |Athena Misc Pickup Rare 05
+|-
+|'''Athena'''
+|"Ouvrez grand les yeux, cher cousin, car cette fois je vous offre une protection tout à fait extraordinaire."
+|-
+! colspan="2" |Athena Loot Bought 01
+|-
+|'''Athena'''
+|"Il ne me plaît guère de devoir toucher les affaires de ce nocher de malheur. Mais l’occasion était trop belle."
+|-
+! colspan="2" |Athena Loot Bought 02
+|-
+|'''Athena'''
+|"Il m'est difficile de suivre tes progrès dans les profondeurs des Enfers, cousin. Heureusement, le nocher Charon a accepté de me prêter main-forte."
+|-
+! colspan="2" |Athena Loot Bought 03
+|-
+|'''Athena'''
+|"Le batelier Charon est employé par votre père, mais il a l'air sympathique, et ses prix sont bons."
+|-
+! colspan="2" |Athena Loot Bought 04
+|-
+|'''Athena'''
+|"Une dépense judicieuse des ressources est parfois ce qui fait la différence entre une victoire et la déconfiture. N'est-ce pas, cousin ?"
+|-
+! colspan="2" |Athena Loot Bought 05
+|-
+|'''Athena'''
+|"Il nous est difficile de communiquer efficacement avec Charon depuis l'Olympe, mais il est ouvert à la négociation, pour ainsi dire, et ne semble pas subir l'influence de ton père."
+|-
+! colspan="2" |Athena Rejection 01
+|-
+|'''Athena'''
+|"Je croyais que nous étions en meilleurs termes, cousin. Je ne demande que ta coopération, et tu me tournes le dos malgré tout...?"
+|-
+! colspan="2" |Athena Rejection 02
+|-
+|'''Athena'''
+|"Je ne pensais pas que tu me rejetterais ainsi, cousin. Tu m'en vois extrêmement déçue. Sache que je me venge non par rancune, mais par nécessité."
+|-
+! colspan="2" |Athena Rejection 03
+|-
+|'''Athena'''
+|"Tu choisirais un autre membre de ma famille plutôt que moi, malgré le fait que c'est moi qui t'ai contacté la première ? J'ai bien peur de ne pas pouvoir laisser passer un tel affront."
+|-
+! colspan="2" |Athena Rejection 04
+|-
+|'''Athena'''
+|"Sur l’Olympe, je suis ta plus proche confidente. Souviens-toi de cela avant de me rejeter une nouvelle fois."
+|-
+! colspan="2" |Athena Rejection 05
+|-
+|'''Athena'''
+|"Nous autres Olympiens sommes une famille orgueilleuse, cousin. Tu ne peux pas simplement choisir un favori sans provoquer la colère d’un de nous."
+|-
+! colspan="2" |Athena Rejection 06
+|-
+|'''Athena'''
+|"Je vois que tu as fait ton choix, cousin. Quant à moi, j'ai la réputation de ma famille à maintenir."
+|-
+! colspan="2" |Athena Rejection 07
+|-
+|'''Athena'''
+|"Si tu avais réfléchi à cette question avec plus de considération, alors tu n'aurais sûrement pas fait ce choix."
+|-
+! colspan="2" |Athena Rejection 08
+|-
+|'''Athena'''
+|"Tout le monde dans notre famille doit choisir un camp tôt ou tard, Zagreus. Mais tu aurais au moins pu choisir le camp le plus raisonnable."
+|-
+! colspan="2" |Athena Rejection 09
+|-
+|'''Athena'''
+|"Un choix absurde et punissable. Mais si tu tiens tant à en subir les conséquences, alors qu'il en soit ainsi."
+|-
+! colspan="2" |Athena Rejection 10
+|-
+|'''Athena'''
+|"Vous auriez pu vous éviter cela de bien des manières, mais vous risquez de devoir faire face à mon courroux."
+|-
+! colspan="2" |Athena Rejection 11
+|-
+|'''Athena'''
+|"Vous testez la patience que j'ai à vous accorder, Zagreus ? Alors, moi aussi je vais tester vos limites."
+|-
+! colspan="2" |Athena Rejection 12
+|-
+|'''Athena'''
+|"Je savais qu'il était encore possible que tu t'opposes à moi, cousin, mais un tel choix ne cessera jamais de me surprendre."
+|-
+! colspan="2" |Athena Rejection 13
+|-
+|'''Athena'''
+|"S'il s'agit là d'une démonstration de ton sens de l'humour, Zagreus, alors laisse-moi te montrer à quel point cela ne m'amuse pas du tout."
+|-
+! colspan="2" |Athena Rejection 14
+|-
+|'''Athena'''
+|"Je crois que nous avons tous les deux compris à présent qu'à chaque fois que tu éprouveras ma patience, j'éprouverai ta capacité à survivre."
+|-
+! colspan="2" |Athena Make Up 01
+|-
+|'''Athena'''
+|"Bien… Continuons plutôt, Zagreus. Rien ne sert de se quereller, et nous avons fort à faire avant d’aller au bout de votre quête."
+|-
+! colspan="2" |Athena Make Up 02
+|-
+|'''Athena'''
+|"Bien ! À présent, oublions ce petit incident, et restons concentrés sur notre objectif."
+|-
+! colspan="2" |Athena Make Up 03
+|-
+|'''Athena'''
+|"Je suis heureuse que nous nous comprenions mieux, n’est-ce pas ? Et si nous poursuivions nos efforts pour vous tirer de là ?"
+|-
+! colspan="2" |Athena Make Up 04
+|-
+|'''Athena'''
+|"Tout est pardonné, Zagreus, et je ne suis pas vexée. Se venger est une chose très banale chez nous autres Olympiens."
+|-
+! colspan="2" |Athena Make Up 05
+|-
+|'''Athena'''
+|"Je dirais que je me suis assez querellée avec vous, cher cousin. Remettons-nous sur un chemin plus fructueux."
+|-
+! colspan="2" |Athena Make Up 06
+|-
+|'''Athena'''
+|"Nous avons mieux à faire, il me semble, que de nous chamailler pour quelque chose d'aussi insignifiant."
+|-
+! colspan="2" |Athena Make Up 07
+|-
+|'''Athena'''
+|"Je préférerais me dire que nous ne laisserons pas de vieilles rancunes ternir nos relations, Zagreus."
+|-
+! colspan="2" |Athena Make Up 08
+|-
+|'''Athena'''
+|"Comme tu as pu le constater, j'ai hérité du tempérament de mon père, Zagreus. Je suis capable de le garder sous contrôle, mais je te prie de ne pas rendre ma tâche plus difficile."
+|-
+! colspan="2" |Athena Make Up 09
+|-
+|'''Athena'''
+|"Les conflits sont inévitables au sein de notre famille, Zagreus. Tout ce que nous pouvons faire, c'est en tirer les leçons et en ressortir plus sages."
+|-
+! colspan="2" |Athena Make Up 10
+|-
+|'''Athena'''
+|"Je ne vois pas l'intérêt de rester en colère, cousin. J'ai promis à Nyx que je t'aiderais plutôt que d'empêcher ton avancée."
+|-
+! colspan="2" |Athena Make Up 11
+|-
+|'''Athena'''
+|"Ton père aussi a fait des choix discutables, Zagreus, mais nous restons une famille malgré tout."
+|-
+! colspan="2" |Athena Gift 01
+|-
+|'''Zagreus'''
+|"Je vous suis reconnaissant, ô Déesse, pour tout ce que vous et ma famille sur l'Olympe avez fait pour moi."
+|-
+|'''Athena'''
+|"Eh bien, il n'est pas dans ma nature d'accepter une telle offrande sans rien donner en retour, noble cousin. Par conséquent, accepte donc ceci, avec mes compliments."
+|-
+! colspan="2" |Athena Gift 02
+|-
+|'''Zagreus'''
+|"Pour vous, Dame Athéna, sans qui je serais très certainement perdu."
+|-
+|'''Athena'''
+|"Voilà un geste inattendu, cousin ! Cela me fait grand plaisir, mais je t'en prie, ne te sens pas obligé de m'honorer ainsi. Mon amitié n’est pas un prêt à rembourser."
+|-
+! colspan="2" |Athena Gift 03
+|-
+|'''Zagreus'''
+|"J’ai quelque chose pour vous, ô déesse. Un cadeau qui, hélas, est bien modeste comparé à toute l’aide que vous m’avez apportée."
+|-
+|'''Athena'''
+|"C’est très gentil à toi de me présenter cette offrande, cousin. Je suis honorée. Cela dit, j'aimerais que tu penses à ton propre bien-être plutôt qu’au mien pour le moment."
+|-
+! colspan="2" |Athena Gift 04
+|-
+|'''Zagreus'''
+|"Déesse Athéna, veuillez accepter ce cadeau. Votre sagesse me guide toujours vers la lumière."
+|-
+|'''Athena'''
+|"Quelle générosité de m'offrir ce cadeau ! Je vous en suis très reconnaissante, mais je vous demande de ne pas mettre votre quête de côté pour moi. Restons concentrés, d'accord ?"
+|-
+! colspan="2" |Athena Gift 05 A
+|-
+|'''Zagreus'''
+|"Restant concentré sur ma tâche, déesse, je me rends compte que rien n'aurait été possible sans votre aide. Voici donc une modeste offrande en signe de reconnaissance."
+|-
+|'''Athena'''
+|"Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre d'avoir terminé votre quête. Vous avez plus important à faire, pour le moment !"
+|-
+! colspan="2" |Athena Gift 05 B
+|-
+|'''Athena'''
+|"Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre un meilleur moment. Vous avez plus important à faire, pour le moment !"
+|-
+! colspan="2" |Athena Gift 06
+|-
+|'''Zagreus'''
+|"Dame Athéna, je sais qu'il y a plus en jeu pour vous que ma modeste situation... Cette famille est tellement importante, pour vous. Cette attention et cette détermination m'inspirent. Je vous en suis reconnaissant."
+|-
+|'''Athena'''
+|"C'est peut-être le moment rêvé pour se livrer à des remerciements mutuels, cher cousin. Vous m'avez ouvert les yeux sur cette possibilité, bien que je reste déterminée à me battre pour vous."
+|-
+! colspan="2" |Athena Gift 07
+|-
+|'''Zagreus'''
+|"Je sais que cette bouteille d'Ambroisie vient de l'Olympe, Dame Athéna. Mais je suis sûr que son long voyage jusqu'en ces profondeurs a su lui conférer une saveur plus digne de votre grâce. Personne n'a jamais eu de meilleure cousine, et je n'oublierai jamais ce que vous avez fait pour moi."
+|-
+|'''Athena'''
+|"Zagreus ? Quand Nyx s'est révélée à moi et qu'elle m'a parlé de vous, j'ai vu la chose comme une occasion de construire un pont entre l'Olympe et le royaume de votre père. Mais les quelques aperçus que j'ai pu avoir de votre personnalité m'ont convaincue que c'est d'autant plus un honneur d'avoir entamé cette association avec vous."
+|-
+! colspan="2" |Poseidon With Athena 01
+|-
+|'''Poseidon'''
+|"Comme tu le vois maintenant, nous sommes une grande et intelligente famille, p'tit Hadès ! Mais ma nièce Athéna est la plus intelligente de tous. On a du mal à croire qu'elle n'ait pas d'enfants, dévouée et attentionnée envers nous tous comme elle est !"
+|-
+|'''Athena'''
+|"Mon intelligence me vient sûrement de votre frère et de vous, ô oncle Poséidon. Et j'ajouterais que nous avons bien assez d'enfants dans cette famille, et qu'il n'est pas la peine d'en faire d'autres pour le moment."
+|-
+! colspan="2" |Demeter With Athena 01
+|-
+|'''Demeter'''
+|"Quand je pense, jeune pousse, que notre stratège, la déesse Athéna, est née de la tête de Zeus ! Je ne m'attendais pas à ce qu'une quelconque forme d'intelligence sorte un jour d'un endroit pareil."
+|-
+|'''Athena'''
+|"Ne prête pas attention au sens de l'humour bon enfant de Dame Déméter, Zagreus. Elle et mon père aiment souvent plaisanter ensemble, même dans les moments les plus difficiles."
+|-
+|}

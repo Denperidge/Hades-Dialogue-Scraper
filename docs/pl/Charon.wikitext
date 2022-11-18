@@ -1,0 +1,359 @@
+{| class="wikitable"
+|+
+! colspan="2" |Boss Charon About Hermes Quest 01
+|-
+|'''Charon'''
+|"''Mmmrrrrnnn''...."
+|-
+|'''Zagreus'''
+|"Wiesz, Charonie, twój wspólnik Hermes najwyraźniej założył się z tobą, że pokonam cię kiedyś dwa razy pod rząd? Nie chciałbym go rozczarować, więc... bez urazy?"
+|-
+|'''Charon'''
+|"''Nnnrrrraaaaaauuuhhhhhh''!!"
+|-
+! colspan="2" |Boss Charon Encounter 01
+|-
+|'''Charon'''
+|"Haaahhhhh...."
+|-
+|'''Zagreus'''
+|"''Um'', Charonie, słuchaj, mogę wyjaśnić. Po prostu przyzwyczaiłem się do zabierania rzeczy podróżując po królestwie mego ojca. Nie okradałem cię, szczerze!"
+|-
+|'''Zagreus'''
+|"To nie był odgłos zrozumienia. Moment, czemu potrząsasz swym wiosłem w taki złowieszczy sposób?"
+|-
+! colspan="2" |Boss Charon Encounter 02
+|-
+|'''Zagreus'''
+|"Po prostu mnie sprawdzasz, racja, Charonie? Znaczy się, kiedy zostawiasz dużą sumę monet wyraźnie w moim zasięgu, to czego się po mnie spodziewasz?"
+|-
+|'''Charon'''
+|"Nrrnnhhh, hnnnn, hrrnn, ''hrrrrrnnn''..."
+|-
+|'''Zagreus'''
+|"Brzmi dobrze, kolego, od tej pory, gdy będę cię okradał, to będzie jedynie mój sposób, na mówienie ''Charonie, chciałbym teraz walczyć z tobą na śmierć i życie tak dla odmiany''."
+|-
+! colspan="2" |Boss Charon Misc Start 01
+|-
+|'''Charon'''
+|"''Hrrrnnnggghh''...."
+|-
+! colspan="2" |Boss Charon Misc Start 02
+|-
+|'''Charon'''
+|"''Grrnrnhh, rrraahhh''!"
+|-
+! colspan="2" |Boss Charon Misc Start 03
+|-
+|'''Charon'''
+|"''Hrraaaahhhhhh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 04
+|-
+|'''Charon'''
+|"Hrrn... ''grrraaauuuggghh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 05
+|-
+|'''Charon'''
+|"Rrnn... ''hhrraaaauuuggghh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 06
+|-
+|'''Charon'''
+|"Grrr... ''nrrraauuuggghhh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 07
+|-
+|'''Charon'''
+|"Urrh... ''urraaauuuhhhhh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 08
+|-
+|'''Charon'''
+|"Krrr... ''krraauuuhhhhh''!!"
+|-
+! colspan="2" |Boss Charon Misc Start 09
+|-
+|'''Charon'''
+|"Hhh, ''hrreehhhhh''!!"
+|-
+! colspan="2" |Boss Charon Outro 01
+|-
+|'''Charon'''
+|"Haahh, nrrauhh, ''haaaaah''!!"
+|-
+! colspan="2" |Boss Charon Hermes Quest Complete 01
+|-
+|'''Zagreus'''
+|"Mam cię, kolego! Dwa razy z rzędu. Myślę, że Hermes wygrywa ten wasz mały zakład. Przekaż mu, że powiedziałem ''hrrrrrnnnggghh''!"
+|-
+|'''Charon'''
+|"''Hrrrrrnnnggghh''..."
+|-
+! colspan="2" |Charon First Meeting
+|-
+|'''Charon'''
+|"Gguhhhhhh...."
+|-
+|'''Zagreus'''
+|"Cóż, miło cię widzieć, Charonie! Zajmuję się swoimi sprawami, napawam widokami i... hej, a co tam masz - jakieś towary na sprzedaż? W takim razie szybko się im przyjrzę."
+|-
+! colspan="2" |Charon No Fast Travel 01
+|-
+|'''Zagreus'''
+|"Erm, Charonie, kolego...? Pewnie nie przemyślałeś mojej propozycji, by... no wiesz... przewieść mnie promem na powierzchnię? Skoro to w sumie nie jest ci nie po drodze..."
+|-
+|'''Charon'''
+|"''Rhhuuaaauuuuuhhhhh''...."
+|-
+! colspan="2" |Charon Shop Meeting 02
+|-
+|'''Zagreus'''
+|"Hej, dobrze cię tu widzieć, kolego! I wygląda na to, że masz trochę ładnych towarów na sprzedaż, czyż nie?"
+|-
+|'''Charon'''
+|"Rhhuuuuggggghhhhhh...."
+|-
+! colspan="2" |Charon Shop Meeting 03
+|-
+|'''Charon'''
+|"Haaahhhhhhhhh...."
+|-
+|'''Zagreus'''
+|"I tobie również miłego dnia, kolego! A teraz rzućmy okiem na twoje towary, dobrze?"
+|-
+! colspan="2" |Charon Shop Meeting 04
+|-
+|'''Zagreus'''
+|"Musisz mieć sporo przystanków w tej okolicy, czyż nie, kolego Charonie? Większość umarłych znajduje się tutaj, w Asfodelu, racja?"
+|-
+|'''Charon'''
+|"Nnnnrrrrrhhh...."
+|-
+! colspan="2" |Charon Shop Meeting 05
+|-
+|'''Zagreus'''
+|"Hej, Charonie, jestem teraz w Asfodelu, prawda? Zawsze słyszałem, że było to jedno z tych kwiecistych miejsc w rodzaju łąki, a nie tak... przerażający piekielny krajobraz."
+|-
+|'''Charon'''
+|"Hhhhaaaaaaahhh...."
+|-
+! colspan="2" |Charon Pre Boss Meeting 01
+|-
+|'''Zagreus'''
+|"Hej, Charonie. Jeśli za tymi drzwiami czai się na mnie coś naprawdę potwornego, to... daj mi jakiś znak, dobrze?"
+|-
+|'''Charon'''
+|"Hhhaaaaaaahhh...."
+|-
+! colspan="2" |Charon Pre Boss Meeting 02
+|-
+|'''Zagreus'''
+|"Możesz mi podpowiedzieć jakiego rodzaju ohydny potwór czeka na mnie na kolejnej piekielnej wyspie, kolego Charonie?"
+|-
+|'''Charon'''
+|"''Hheeehhhhhhh''...."
+|-
+! colspan="2" |Charon High Relationship 01
+|-
+|'''Zagreus'''
+|"No popatrz tylko na siebie, kolego Charonie, dobrze wyglądasz! Coś się w tobie zmieniło, nie wiem dokładnie co. Zrobiłeś coś ze swoimi włosami?"
+|-
+|'''Charon'''
+|"''Urrraaauuhggghh''..."
+|-
+! colspan="2" |Charon Post Fight You Won 01
+|-
+|'''Zagreus'''
+|"Hej Charonie, nie jesteś na mnie zły, że ostatnio się poprztykaliśmy, czyż nie, no bo... doszedłem do wniosku, że skoro dałeś mi jedną ze swoich Kart Lojalnościowych, oznacza to, że między nami jest w porządku, ale... ja... tylko się upewniam."
+|-
+|'''Charon'''
+|"Krrr, ''krraauuuuhhhhhh''...!"
+|-
+! colspan="2" |Charon Post Fight You Lost 01
+|-
+|'''Zagreus'''
+|"Nie chowasz do mnie urazy z powodu tej walki na śmierć i życie ostatnim razem, prawda, Charonie? Zwłaszcza, że mnie całkowicie zniszczyłeś. Tylko się z tobą drażniłem, wiesz o tym, prawda?"
+|-
+|'''Charon'''
+|"Nrraaauuuuhhhhh...!"
+|-
+! colspan="2" |Charon About Hermes 01
+|-
+|'''Zagreus'''
+|"Cześć Charonie! Wreszcie poznałem Hermesa, boga szybkości, podróży i przyprowadzania dusz umarłych do twojej łodzi. Nazywa cię swoim wspólnikiem. Wy dwaj pracujecie razem już od dłuższego czasu, czyż nie?"
+|-
+|'''Charon'''
+|"Hrrrrrrnnnnghhhhhhhh..."
+|-
+! colspan="2" |Charon About Hermes 02
+|-
+|'''Zagreus'''
+|"Charonie, zawsze myślałem, że bogowie Olimpu nigdy nie zadawali się chtonicznymi bogami takimi jak ty. Wygląda jednak na to, że Hermes jest twoim bliskim współpracownikiem. Nie wiesz może... czemu on mi pomaga, co?"
+|-
+|'''Charon'''
+|"Grrrhhhooo''aaaaaahhhh''...!"
+|-
+! colspan="2" |Charon About Skelly 01
+|-
+|'''Zagreus'''
+|"Charonie, kolego, wiem, że spotykasz okropnie wielu umarłych i pewnie trudno jest ich wszystkich zapamiętać, ale... przypuszczam, że imię ''Kostek ''nic dla ciebie nie znaczy, prawda?"
+|-
+|'''Charon'''
+|"...Ssss... kkkhhh... rrrrnnnnhhhh... ''raauuuuhhhhh''!!"
+|-
+! colspan="2" |Charon About Customer Loyalty 01
+|-
+|'''Zagreus'''
+|"Kolego Charonie? Jak twój stały klient, chciałem skorzystać z okazji i ponownie podziękować ci za twe bezcenne usługi w kwestii moich nieustannych prób ucieczki. Co ja bym zrobił bez tych twoich towarów podczas tak wielu sytuacji? Oprócz umierania o wiele szybciej."
+|-
+|'''Charon'''
+|"Hrrnnnhhh, grhhh, ''grhaaaaaaaahhhh''..."
+|-
+! colspan="2" |Charon About Secret Service 01
+|-
+|'''Zagreus'''
+|"Charonie? Bez związku z czymkolwiek, chciałem jedynie powiedzieć... jestem wdzięczny, że mam twoje wsparcie. Zawsze zajmowałeś się swoimi sprawami... nigdy nie miałem okazji cię widzieć w Domu. Ale wiem, że się troszczysz! I to bardzo. Więc, dzięki."
+|-
+|'''Charon'''
+|"...Khhrraaa ''hhaaaaahhhh''..."
+|-
+! colspan="2" |Charon Chat 03
+|-
+|'''Charon'''
+|"Hrrnmmmm...."
+|-
+! colspan="2" |Charon Chat 04
+|-
+|'''Charon'''
+|"Khhhrrrrr...."
+|-
+! colspan="2" |Charon Chat 06
+|-
+|'''Charon'''
+|"Hhrrrrnneehhhh...."
+|-
+! colspan="2" |Charon Chat 07
+|-
+|'''Charon'''
+|"Urrrrrrgggghhh..."
+|-
+! colspan="2" |Charon Chat 08
+|-
+|'''Charon'''
+|"Hrrrnnnhh...."
+|-
+! colspan="2" |Charon Chat 11
+|-
+|'''Charon'''
+|"Hrreehhh hohhhhhh...."
+|-
+! colspan="2" |Charon Chat 13
+|-
+|'''Charon'''
+|"Nrrrrggghhh...."
+|-
+! colspan="2" |Charon Chat 14
+|-
+|'''Charon'''
+|"Hrrnnaaauugghhh...."
+|-
+! colspan="2" |Charon Chat 15
+|-
+|'''Charon'''
+|"Grrruuuooaahhh...."
+|-
+! colspan="2" |Charon Chat 16
+|-
+|'''Charon'''
+|"Mmmrrnnngghh...."
+|-
+! colspan="2" |Charon Chat 17
+|-
+|'''Charon'''
+|"Rrraaauuuggghhh...."
+|-
+! colspan="2" |Charon Chat 18
+|-
+|'''Charon'''
+|"Hhrrrnn, ''haahhhhh''...."
+|-
+! colspan="2" |Charon Chat 19
+|-
+|'''Charon'''
+|"Urrrnngggghhh...."
+|-
+! colspan="2" |Charon Chat 20
+|-
+|'''Charon'''
+|"Khhrrrnnnnnnggghh...."
+|-
+! colspan="2" |Charon Chat 21
+|-
+|'''Charon'''
+|"Gggrrrnnngggghhhh...."
+|-
+|'''Charon'''
+|"''Heeehhh'', hohhhhh...."
+|-
+! colspan="2" |Charon Gift 01
+|-
+|'''Zagreus'''
+|"Charonie, twój widok tak bardzo uspokaja, że pomyślałem, że zaoferuję ci wyraz mojej wdzięczności."
+|-
+|'''Charon'''
+|"''Hrrrhhrooooh'', hnnnn...."
+|-
+|'''Zagreus'''
+|"Chwila, nie musisz dawać mi nic w zamian - to był prezent! Chociaż widzę, że nalegasz, prawda?"
+|-
+! colspan="2" |Charon Gift 02
+|-
+|'''Charon'''
+|"Hohhhh...."
+|-
+|'''Zagreus'''
+|"Cieszę się, że Ci się to podoba, stary. Dziękuję za pomoc w zaopatrzeniu. Nawet, jeśli oskubałeś mnie na cenach!"
+|-
+! colspan="2" |Charon Gift 03
+|-
+|'''Charon'''
+|"Hrrrnnnn...?"
+|-
+|'''Zagreus'''
+|"Smacznego, stary! A jeśli nadejdzie czas na przemyślenie struktury cenowej, weź mnie pod uwagę!"
+|-
+! colspan="2" |Charon Gift 04
+|-
+|'''Charon'''
+|"Hrrrn, hhmmm hmmmm...."
+|-
+|'''Zagreus'''
+|"Smacznego, kolego Charonie! Nie myśl, że jestem miły tylko po to, by nakłonić cię do obniżki dla mnie cen, to byłoby nie do przyjęcia!"
+|-
+! colspan="2" |Charon Gift 05
+|-
+|'''Charon'''
+|"Hrrooooohhh...."
+|-
+|'''Zagreus'''
+|"Wiesz, myślałem, że to powiesz, Charonie, lecz nadal nalegam, byś to przyjął, w porządku?"
+|-
+! colspan="2" |Charon Gift 06
+|-
+|'''Charon'''
+|"Hhhrrrrhh... hhhrrrnnnn... hrrrrrhhh..."
+|-
+|'''Zagreus'''
+|"Również cieszę się, że mam cię za przyjaciela, Charonie. Cała przyjemność po mojej stronie."
+|-
+! colspan="2" |Charon Gift 07
+|-
+|'''Zagreus'''
+|"Charonie, zdaję sobie sprawę, że masz bardzo napięty grafik i na pewno nie musiałeś dla mnie zbaczać z drogi w ten sposób, więc proszę. To tylko mały dowód mojego uznania dla ciebie. Jeśli kiedykolwiek będziesz chciał porozmawiać, wiedz, że tu jestem."
+|-
+|'''Charon'''
+|"''Hrrrnnnnnnnnn''...! Thhhrrrrrrrrnnnnnn... kkrrrrrrrrhhh...!"
+|-
+|}

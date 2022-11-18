@@ -1,0 +1,1562 @@
+{| class="wikitable"
+|+
+! colspan="2" |Achilles First Meeting Alt
+|-
+|'''Achilles'''
+|"Dobrze cię widzieć, młodzieńcze. Byłeś ostatnio okropnie zajęty, czyż nie? Daj mi znać czy jest coś, co mogę zrobić, choć z tego co jestem w stanie stwierdzić, całkiem dobrze sobie radzisz."
+|-
+! colspan="2" |Achilles Grants Codex
+|-
+|'''Achilles'''
+|"Dasz sobie radę, młodzieńcze. Pomimo wszystkich naszych treningów sparingowych, nie ma lepszego nauczyciela niż rzeczywistość. A teraz, mam coś dla ciebie."
+|-
+|'''Zagreus'''
+|"Co, moment, dajesz mi swój Kodeks? Nie mogę przyjąć czegoś takiego!"
+|-
+|'''Achilles'''
+|"Proszę, nalegam. Chcę, by rosło także twoje zamiłowanie do historii, a nie tylko do walki. Poza tym, może uda ci się dokończyć resztę wpisów."
+|-
+! colspan="2" |Achilles Lounge Closed 01
+|-
+|'''Zagreus'''
+|"Achillesie, czy to prawda, że Cerber rozerwał salon zaraz po moim odejściu? Musiał wpaść w niezłe tarapaty."
+|-
+|'''Achilles'''
+|"Szkoda, że tego nie widziałeś, młodzieńcze. Pokój wyglądał jak winnica po przejściu tajfunu! Twój lord ojciec był wściekły. Choć nigdy nie złości się tak na psa. Biedna Duza - w końcu to ona sprząta całe to miejsce."
+|-
+|'''Zagreus'''
+|"Och, nie...! Zastanawiałem się, co się stało z Duzą. Zawsze martwi się, że Ojciec ją zwolni nawet bez tego typu wydarzeń."
+|-
+! colspan="2" |Achilles Ghost Admin Progress 01
+|-
+|'''Achilles'''
+|"Muszę przyznać, chłopcze! Ostatnio to miejsce ma w sobie więcej życia niż zwykle. Niektóre ze starych elementów wyposażenia Domu zostały naprawione, pojawiły się nowe meble... jest całkiem miło, naprawdę. Tobie to zawdzięczamy, czyż nie?"
+|-
+|'''Zagreus'''
+|"A, to? To nic takiego. Ale cieszę się, że jest to pozytywna zmiana. Nasz wykonawca wykonuje całą pracę, ja tylko zapewniam napływ zleceń."
+|-
+|'''Achilles'''
+|"Oraz funduszy. Twój ojciec zarządza Zaświatami w pewien określony sposób. Można chyba powiedzieć, że to stare Domostwo jest wystawne, ale on sam już dawno przestał się starać, by lepiej się w nim żyło. Zatem wszyscy doceniają te zmiany."
+|-
+! colspan="2" |Achilles Misc Meeting 01
+|-
+|'''Achilles'''
+|"Tak trzymaj, młodzieńcze. Znałem w swoim życiu wspaniałych ludzi i zawsze jestem w stanie stwierdzić, gdy ktoś jest lepszy niż otaczające go okoliczności. Walcz tak, jakbym ja tam walczył."
+|-
+|'''Zagreus'''
+|"Zgotuję im piekło, jak niegdyś ty zgotowałeś, Achillesie. Choć bez wątpienia wiele zjaw, którym będę stawiał czoła, trafiło do Tartaru z twojego powodu."
+|-
+! colspan="2" |Achilles Misc Meeting 02
+|-
+|'''Zagreus'''
+|"Czy wiesz może komu powinienem dziękować za te bronie znajdujące się na zewnątrz mojej komnaty, Achillesie?"
+|-
+|'''Achilles'''
+|"Niestety nie, młodzieńcze. Ale jeśli na tego kogoś wpadnę, to dam mu znać."
+|-
+! colspan="2" |Achilles Misc Meeting 03
+|-
+|'''Achilles'''
+|"Twoim wrogiem nie są nędzni umarli ani nawet twój ojciec, młodzieńcze. Są nim same Podziemia. Zostały zaprojektowane tak, aby uniemożliwić ucieczkę. Musiałeś już do tej pory zauważyć, jak wszystkie komnaty zdają się zmieniać swoje położenie."
+|-
+|'''Zagreus'''
+|"Same Podziemia moim wrogiem... zrobię co w mojej mocy, aby przewidywać ich niespodzianki, szanowny panie."
+|-
+! colspan="2" |Achilles Misc Meeting 04
+|-
+|'''Achilles'''
+|"Te trzymane pod kluczem bronie obok twojej komnaty - nie wydaje mi się, aby twój ojciec zauważył ich brak. Przypominają mu o czasach, gdy stanął ramię w ramię ze swoimi braćmi oraz siostrami. Nie chce mieć z nimi wspólnego nic ponad to. Myślę, że to pasuje, iż to właśnie ty odziedziczyłeś ich moc."
+|-
+|'''Zagreus'''
+|"Moc, która niegdyś ujarzmiła Tytanów... może jest to moc, która pozwoli mi się stąd wydostać. Dziękuję, że mi pomagasz, Achillesie."
+|-
+! colspan="2" |Achilles About Fist Weapon 01
+|-
+|'''Zagreus'''
+|"Zapoznałem się ostatnio z Malfonem, Bliźniaczymi Pięściami. Jeszcze nigdy nie czułem takiej żądzy walki jak ta, którą mnie wypełniają. Pomyśleć, że puste ręce mogą być tak niebezpieczną bronią."
+|-
+|'''Achilles'''
+|"Puste ręce są najniebezpieczniejszą możliwą bronią, młodzieńcze. To jedyna broń, która może dzierżyć wszystkie pozostałe. A bez niej wszystkie pozostałe są praktycznie bezużyteczne. Bliźniacze Pięści są tego świadectwem. Używaj ich z głową. I nie strać jej tam w terenie."
+|-
+! colspan="2" |Achilles About Gun Weapon 01
+|-
+|'''Zagreus'''
+|"Na dziedzińcu czekała na mnie kolejna broń, Achillesie. ''Eksagryf''. Nigdy do końca nie wierzyłem, że jest prawdziwy."
+|-
+|'''Achilles'''
+|"Tak między nami, młodzieńcze... chciałbym, żeby nie był. Gdyby był dostępny dla moich wrogów w dniach walki, na pewno przybyłbym tu jeszcze prędzej. Ale ufam, że masz przeszkolenie, by dobrze go wykorzystać. Niech ci służy, tak jak służyła ognistej bogini Hestii... nie potrzebowała go od jakiegoś czasu."
+|-
+! colspan="2" |Achilles About Quest Log 01
+|-
+|'''Achilles'''
+|"Muszę ci coś przyznać, młodzieńcze. Wydanie pozwolenia na przeniesienie Listy Mojr ze starych archiwów prosto do twoich komnat... odważne z twojej strony! I to przed samym nosem twego ojca."
+|-
+|'''Zagreus'''
+|"A, to? To tylko kolejne zlecenie Domowego Wykonawcy jeżeli o mnie chodzi, szanowny panie. A poza tym, to nie jest tak, że cokolwiek z tej listy było wykonywane, kiedy tkwiła tam w archiwach!"
+|-
+|'''Achilles'''
+|"Dobre podejście, jak sądzę. Jeżeli jest coś, co wiem na pewno, to że Trzy Mojry zawsze znajdą sposób; ale jeżeli chcesz je wspomóc, to być może ci się jakoś odwdzięczą."
+|-
+! colspan="2" |Achilles About Boon List 01
+|-
+|'''Achilles'''
+|"Pomyślałem sobie, że dodam zlecenie do listy Domowego Wykonawcy, aby uporządkować ten twój Kodeks, młodzieńcze. Znasz teraz tak wielu bogów Olimpu, że musi być ciężko spamiętać wszystkie ich błogosławieństwa i tym podobne."
+|-
+|'''Zagreus'''
+|"Tak, to zdecydowanie się przyda, szanowny panie! Wciąż oswajam się z tym wszystkim, co mogę zrobić, gdy moc bogów Olimpu łączy się z moją."
+|-
+! colspan="2" |Achilles About Super Lock Keys 01
+|-
+|'''Zagreus'''
+|"Szanowny Achillesie? Znalazłem jakiś artefakt... to kropla starożytnej krwi, która uformowała się po mojej walce z Megajrą. Czy to naprawdę krew Tytanów?"
+|-
+|'''Achilles'''
+|"O ile się nie mylę, to tak, młodzieńcze. To jest właśnie to. Choć czyja dokładnie, nie jestem pewien. Najlepiej zatrzymaj ją sobie i uważaj na nią. Twoje bronie... powinny jej łaknąć i się nią napoić. Być może jeszcze nie teraz, ale już niedługo."
+|-
+! colspan="2" |Achilles About Super Gift Points 01
+|-
+|'''Zagreus'''
+|"Hej, szanowny Achillesie, spójrz co znalazłem! Wykwintna butelka ambrozji, gwizdnięta prosto z Elizjum! Słyszałem, że to bardzo dobry napój... ale nie mogę go nawet otworzyć. Nie mam pojęcia, co z tym teraz zrobić."
+|-
+|'''Achilles'''
+|"Napój bogów! Słyszałem, że jest naprawdę dobry. Jednak tylko kiedy został podarowany bliskiej osobie. Być może najlepiej będzie, jeśli zatrzymasz go, aż będzie na to gotowy? Ktoś mógłby się ucieszyć, z pewnością. Albo możesz coś za to kupić u Przeklętego Handlarza."
+|-
+! colspan="2" |Achilles About Onions 01
+|-
+|'''Zagreus'''
+|"Szanowny Achillesie, mam bardzo ważne pytanie... dlaczego tak bardzo nie znosisz cebul? Zaszły ci jakoś za skórę?"
+|-
+|'''Achilles'''
+|"Jak tylko zaczniesz kroić jedną z nich... sprawia, że płaczesz. Nie uważasz, że to trochę niepokojące, młodzieńcze? Nie będę ronił łez nad pociętym warzywem."
+|-
+|'''Zagreus'''
+|"Cóż, ponoć są całkiem smaczne, jeśli nie je się ich na surowo."
+|-
+! colspan="2" |Achilles Post Flashback 01
+|-
+|'''Achilles'''
+|"Twoja dalsza rodzina, bogowie Olimpu... chcą ci pomóc w wydostaniu się stąd, czyż nie? Mam tylko nadzieję, że ich intencje są tak czyste, jak się wydają. Nie dogadują się dobrze z twoim ojcem."
+|-
+|'''Zagreus'''
+|"Ja też nie, gdy sprawdzałem ostatnim razem. Przyjmę każdą możliwą pomoc podczas moich prób wydostania się stąd."
+|-
+|'''Achilles'''
+|"Miło jest słyszeć, że tak mówisz. Znałem zbyt wielu zbyt dumnych, by przyjęli pomoc, nawet kiedy była im niezwykle potrzebna. Zachowaj jedynie ostrożność, młodzieńcze."
+|-
+! colspan="2" |Achilles Flashback 02
+|-
+|'''Achilles'''
+|"Porozmawiamy później. Lepiej nie kazać twemu ojcu czekać."
+|-
+! colspan="2" |Achilles About Megaera Relationship 01
+|-
+|'''Achilles'''
+|"Zaczekaj chwilę, młodzieńcze. To spojrzenie... myślę, że znam je aż za dobrze. Zatem, sprawy się ostatnio komplikują?"
+|-
+|'''Zagreus'''
+|"Cóż, no wiesz, po prostu... standardowe trudy wywalczania sobie drogi na powierzchnię, które zresztą zazwyczaj kończą się haniebną śmiercią, ale... chwila, chodzi ci o mnie i Megajrę, czyż nie?"
+|-
+|'''Achilles'''
+|"Myślę, że lubi cię bardziej, niż daje po sobie poznać. A poza tym, masz swoisty urok. Wiem, że mieliście trudne początki. A ostatnie okoliczności nie pomagają. Ale jeśli ją kochasz... podążaj za głosem serca."
+|-
+|'''Zagreus'''
+|"A co jeśli jej nie...? Nie potrafię nawet wydusić z siebie tego słowa."
+|-
+|'''Achilles'''
+|"A jeśli nie... to myślę, że powinieneś przestać dawać jej tak hojne prezenty! Nie ma potrzeby sprawiać mylnego wrażenia, a i tak nie ma nic do zyskania takim pustym gestem."
+|-
+! colspan="2" |Achilles About Thanatos Relationship 01
+|-
+|'''Zagreus'''
+|"Cóż, no wiesz, po prostu... standardowe trudy wywalczania sobie drogi na powierzchnię, które zresztą zazwyczaj kończą się haniebną śmiercią, ale... chwila, chodzi ci o mnie i Tanatosa, czyż nie?"
+|-
+|'''Achilles'''
+|"Myślę, że troszczy się o ciebie bardziej, niż zdajesz sobie z tego sprawę. A poza tym, masz swoisty urok. Między wami było ciężko. A ostatnie okoliczności nie pomogły. Ale jeśli go kochasz... podążaj za głosem serca."
+|-
+|'''Zagreus'''
+|"Hej, chwila, znaczy się... nigdy czegoś takiego nie powiedziałem, czyż nie?"
+|-
+|'''Achilles'''
+|"Nie, nie powiedziałeś. I to nie moja sprawa by przypuszczać zbyt wiele. Niemniej jednak, jeśli twoja przyjaźń z Tanatosem jest silna... to proponuję abyś przestał wręczać mu tak hojne podarunki. Nie ma potrzeby sprawiać mylnego wrażenia, racja?"
+|-
+! colspan="2" |Achilles About Meg And Than Relationship 01
+|-
+|'''Zagreus'''
+|"Cóż, no wiesz, po prostu... standardowe trudy wywalczania sobie drogi na powierzchnię, które zresztą zazwyczaj kończą się haniebną śmiercią, ale... chwila, chodzi ci o mnie, Meg i Tanatosa, czyż nie?"
+|-
+|'''Achilles'''
+|"Jeśli mogę wysnuć trochę przypuszczeń, to wydaje mi się, że dzielą już między sobą te same uczucia, którymi darzysz każde z nich z osobna; każde w oddzielny sposób, rzecz jasna. Jeżeli ich kochasz... jedno, drugie, być może oboje? To przecież jesteście bogami...! Podążaj za głosem serca."
+|-
+|'''Zagreus'''
+|"Hej, chwila, znaczy się... ech, wydaje mi się, że nie mijasz się zbytnio z prawdą. Mam podążać za głosem serca, tak? Dokąd?"
+|-
+|'''Achilles'''
+|"Dokądkolwiek by cię nie zaprowadziło; tak to działa. Po twojej stronie leży decyzja o tym, kiedy to poszedłeś tak daleko jak powinieneś i kiedy należy przestać z hojnymi prezentami. Nie ma potrzeby sprawiać mylnego wrażenia, a i tak nie ma nic do zyskania takim pustym gestem, racja?"
+|-
+! colspan="2" |Achilles About Multiple Relationships 01
+|-
+|'''Achilles'''
+|"Myślę, że znowu widzę to spojrzenie, jeżeli się nie mylę, młodzieńcze. Co ci chodzi po głowie? Gdybyś chciał się tym podzielić, wysłucham."
+|-
+|'''Zagreus'''
+|"Och, po prostu... czasami łapię się na tym, że moje myśli krążą wokół tych, na których mi zależy i jest to... nie tylko jedna osoba. Wy, śmiertelnicy, przeważnie macie jednego partnera, czyż nie...?"
+|-
+|'''Achilles'''
+|"Tak często sobie mówimy, racja. Jednak... ty nie jesteś taki jak my śmiertelni lub my zjawy. I to samo tyczy się większości znajdujących się tutaj osób. Jesteś bogiem... Nie przychodzi mi do głowy nawet jedna osoba, która miała jednego partnera. Aczkolwiek twój ojciec... być może on jest jedną z nich."
+|-
+|'''Zagreus'''
+|"Chwila, czyli Ojciec nie był nigdy z nikim innym niż... z moją matką?"
+|-
+|'''Achilles'''
+|"Cóż, rzecz jasna nie wiem o nim zbyt wiele, młodzieńcze. Ale tak wynika z tego, czego się dowiedziałem. Nie musisz jednak iść w jego ślady; myślę, że już dobrze o tym wiesz."
+|-
+! colspan="2" |Achilles About Being Close With Megaera 01
+|-
+|'''Achilles'''
+|"Miałem ci powiedzieć. Ostatnio zauważyłem Megajrę i... wydaje mi się, że dostrzegłem cień uśmiechu na jej ustach. Ma to być może coś wspólnego z tobą? Zważ, że nie pytam o szczegóły."
+|-
+|'''Zagreus'''
+|"Naprawdę myślisz, że ma to coś wspólnego ze mną...? Znaczy się, mam nadzieję, że masz rację, no i przypuszczam, że jest to możliwe, tylko... jak jesteś w stanie to rozpoznać?"
+|-
+|'''Achilles'''
+|"Być może z czasem zacząłem zwracać uwagę na coś więcej niż tylko słabości moich wrogów na polu bitwy. Zwłaszcza, że nie mam już wrogów. Cieszę się twoim szczęściem, młodzieńcze. Waszym szczęściem."
+|-
+! colspan="2" |Achilles About Being Close With Thanatos 01
+|-
+|'''Achilles'''
+|"Muszę ci coś powiedzieć, młodzieńcze. Kiedy Tanatos powrócił, by cię odnaleźć, bardzo się zmartwiłem. Nie tylko o ciebie. Ale od tamtej pory wszystko sobie wyjaśniliście...?"
+|-
+|'''Zagreus'''
+|"Tak myślę. Taką mam nadzieję. Przez chwilę sytuacja była skomplikowana, ale... myślę, że wszystko jest między nami o wiele bardziej jasne. Nie tylko na ten moment, ale też patrząc wstecz. Uch, mówię bez sensu."
+|-
+|'''Achilles'''
+|"Och, wprost przeciwnie. Myślę, że dokładnie wiem, o co ci chodzi. Nie znam Tanatosa szczególnie dobrze. Widzisz, to nie on mnie tu przyprowadził. I zawsze był bardzo zajęty, jak twój ojciec. Ale zawsze wydawał mi się porządnym gościem."
+|-
+! colspan="2" |Achilles About Fury Sisters 01
+|-
+|'''Zagreus'''
+|"Achillesie, wpadłem tam ostatnio w terenie na siostry Meg. Nie za bardzo się dogadaliśmy. Meg powiedziała, że nie mają prawa wstępu do Domu. Nie żebym narzekał, ale... o co z tym chodzi?"
+|-
+|'''Achilles'''
+|"Nie zasłużyły na to prawo, młodzieńcze. Ani też nie wyraziły jakiejkolwiek chęci przebywania tu razem z nami. Twój ojciec przyznał im specyficzne role, które pasują do ich predyspozycji. One... nie są na tyle rozsądne co Megajra, jak wynika z mojego doświadczenia."
+|-
+|'''Zagreus'''
+|"Tego się właśnie obawiałem. Aczkolwiek, strach jest dla słabych."
+|-
+! colspan="2" |Achilles About Thanatos 01
+|-
+|'''Achilles'''
+|"Widziałeś, że Tanatos wrócił, czyż nie, młodzieńcze? Zawsze tam stoi, ponury, przynajmniej zawsze, kiedy tu jest."
+|-
+|'''Zagreus'''
+|"Widziałem go, Achillesie. Myślę, że jest na mnie zły z powodu mojej decyzji o opuszczeniu Domu. Choć to i tak nie jego sprawa."
+|-
+|'''Achilles'''
+|"Och, nie mów tak. Nie zdarza się to każdego dnia lub nocy, kiedy to ktoś dowiaduje się, że jego najbliższy przyjaciel ma dość swego wybuchowego ojca i postanawia opuścić dom. Myślę, że nie do końca wie, co o tym myśleć. Bądź dla niego wyrozumiały, dobrze?"
+|-
+! colspan="2" |Achilles About Zagreus 01
+|-
+|'''Zagreus'''
+|"Hej, Achillesie, ja... widziałem najnowszy fragment Kodeksu, ten odnoszący się do Tanatosa i mnie. Tam jest napisane... ''ty ''napisałeś, że myślisz, że jestem... bogiem ''krwi''? Nie wydaje mi się, żebym był bogiem czegokolwiek..."
+|-
+|'''Achilles'''
+|"Och, bzdura, młodzieńcze. Jeśli jesteś bogiem, to jesteś bogiem ''czegoś'', jestem pewien. To tylko obserwacja i mam szczerą nadzieję, że to nie jest dla ciebie obrazą? Ale zobacz, twój ojciec i twoja matka, i twoje krwawniki, i twoje usposobienie..."
+|-
+! colspan="2" |Achilles About Skelly 01
+|-
+|'''Zagreus'''
+|"Achillesie, chciałem cię zapytać o tego dziwnego kościotrupa zazwyczaj stojącego na dziedzińcu. To twój stary znajomy? Być może najemnik?"
+|-
+|'''Achilles'''
+|"Ten cały Kostek, czy tak? Poznaliśmy się dopiero, gdy zaczęła się ta cała sprawa z ucieczką. Jeżeli coś mnie z nim łączy, to nie jestem tego świadom. Czy on twierdzi, że mnie zna? Być może zgładziłem go, gdy jeszcze żyliśmy."
+|-
+|'''Zagreus'''
+|"Nie wiem, czy to o to chodzi. A zatem żaden z nas nie ma pojęcia, skąd się wziął, ani jak się tam dostał, co? Przychodzą ci do głowy jakieś tropy? Nyks również wydaje się go nie znać."
+|-
+|'''Achilles'''
+|"Być może to bogowie Olimpu wysłali ci go na pomoc. Ich metody potrafią być nietypowe. A wielu cię wspiera. Tak czy inaczej, nie wygląda on na szpiega twojego ojca. Jeżeli o to się martwisz."
+|-
+! colspan="2" |Achilles About Skelly 02
+|-
+|'''Zagreus'''
+|"Pamiętasz postać Kostka na dziedzińcu, szanowny panie? Wyszło na jaw, że cały ten czas pracował z Charonem. A raczej pracował dla niego! Otrzymałem od was wszystkich tak wiele wsparcia."
+|-
+|'''Achilles'''
+|"Charon! Oczywiście. Macza palce we wszystkim, co dzieje się w Podziemiach. I pewnie ma o tobie wysokie mniemanie. Postać Kostka, myślę... że musiał być kimś wyjątkowym, skoro Charon mu zaufał."
+|-
+|'''Zagreus'''
+|"Nie powie mi. Był albo doświadczonym na morzu kapitanem, albo lichym złodziejem. A może i tym, i tym?"
+|-
+! colspan="2" |Achilles About Nyx 01
+|-
+|'''Achilles'''
+|"Podczas mojej ostatniej audiencji u Nyks, młodzieńcze, wyjawiła mi, że ostatnio wspomniałeś o Chaosie. Czy to prawda, że osobiście spotkałeś jej rodzica?"
+|-
+|'''Zagreus'''
+|"Spotkałem. Chaos jest... inny niż ktokolwiek, kogo wcześniej poznałem. Na początku byłem trochę zdenerwowany, w końcu to potężny, pierwotny byt, jak się okazuje odpowiedzialny za wszelkie stworzenie, ale... wydaje się być w porządku. Chaos i Nyks długo jednak nie rozmawiali. Nie wiesz przypadkiem co między nimi zaszło?"
+|-
+|'''Achilles'''
+|"Coś tam wiem, tak myślę. Nyks i Chaos, oni zwyczajnie... powoli oddalili się od siebie. Żadnej złości, a przynajmniej już nie. Tak bywa między rodzicami i dziećmi. A gdy te więzi zostają przerwane, to nie zawsze można je odnowić. Zwłaszcza pomiędzy prastarymi bogami starymi jak czas, jak przypuszczam."
+|-
+! colspan="2" |Achilles About Nyx 02
+|-
+|'''Zagreus'''
+|"Chciałem dopytać cię o Nyks i Chaosa, szanowny panie. Więc tak po prostu oddalili się od siebie, ale... dlaczego nie pozostali w kontakcie? Nie rozumiem. Tak trudno jest zamienić parę słów od czasu do czasu?"
+|-
+|'''Achilles'''
+|"To może być trudniejsze, niż ci się wydaje. Dla kogoś takiego jak Nyks... ona sama była odpowiedzialna za niemałą cześć stworzenia. Kiedy jej związek z Chaosem stawał się bardziej napięty, dała życie Wojnie, Niedoli, Zagładzie... synom oraz córkom o których nie słyszy się zbyt wiele."
+|-
+|'''Zagreus'''
+|"Co, naprawdę? Nigdy nie słyszałem, aby Hypnos czy Tanatos coś o tym wspominali, a już zwłaszcza Nyks. Brzmią jak utrapienie. Gdzie one są, co się z nimi stało?"
+|-
+|'''Achilles'''
+|"Nie wiem, młodzieńcze. Na powierzchni, jak przypuszczam? Chodzi mi o to, że Nyks miała swoje własne problemy, z którymi musiała się zmierzyć. Wychowywanie swojego potomstwa, zarządzanie całymi Podziemiami, zanim przybył twój ojciec. Jej związek z Chaosem na tym ucierpiał."
+|-
+! colspan="2" |Achilles About Nyx Chaos Reunion Quest 01
+|-
+|'''Achilles'''
+|"Młodzieńcze, skontaktowała się ze mną Nyks! Powiedziała, że mogła ostatnio odnowić kontakt z Chaosem i to dzięki tobie? Jesteś po prostu pełen niespodzianek, odnawiasz stare więzi między prastarymi bogami jakby to nie było nic takiego."
+|-
+|'''Zagreus'''
+|"Och, wystarczyło tylko pokombinować trochę z pieczęcią w komnacie administracyjnej. A do tego zużyć sporo Ciemności. Ale można było poznać, że Nyks i Chaos, oni... wyglądali, jakby naprawdę za sobą tęsknili, na tyle, na ile są w stanie tęsknić za kimkolwiek."
+|-
+|'''Achilles'''
+|"Myślę, że absolutnie są w stanie tęsknić za tymi, których kochają, młodzieńcze. Ilość czasu, którą istniejemy... to nic w porównaniu do nich. Wyobraź sobie - być oddzielonym od kogoś na kim ci zależy przez tak długi czas..."
+|-
+! colspan="2" |Achilles About Theseus Extreme Measures 01
+|-
+|'''Zagreus'''
+|"Szanowny Achillesie? Wiesz może, czy Ojciec zlecił ostatnio przeniesienie macedońskiego rydwanu Tau-Lambda do Elizjum? Wpadłem ostatnio na byłego herosa, Tezeusza, który beztrosko jeździł sobie w takowym."
+|-
+|'''Achilles'''
+|"Wiem, który rydwan masz na myśli. To nie jest byle jaki Macedończyk. Został zmodyfikowany, najwyraźniej przez samego Dedala. Żadna ziemska broń nie potrafi tego co on. Ale proszę, nie mów mi, że Tezeusz założył tę maskę...?"
+|-
+|'''Zagreus'''
+|"Co, masz na myśli złotą maskę w podobnym stylu? Miał ją na sobie, o tak. Wyglądał zresztą jak skończony idiota. A czemu pytasz?"
+|-
+|'''Achilles'''
+|"''Hahah'', no cóż! Myślę, że Dedal z pewnością by się zgodził. Słyszałem, że wykonał tę maskę i strój dla żartów. Dla kogoś pełnego pychy i zupełnie nieświadomego. Idealnie pasuje zatem do Tezeusza, czyż nie?"
+|-
+! colspan="2" |Achilles About Weapon Enchantments 01
+|-
+|'''Zagreus'''
+|"Achillesie, chciałem cię zapytać o bronie, których używam. Potrafią zmieniać kształt! A zatem dostosowały się do moich potrzeb i pamiętają swoich poprzednich posiadaczy, coś w tym stylu?"
+|-
+|'''Achilles'''
+|"Coś w tym stylu. Wydają się być żywe, czyż nie? Biorąc wszystko pod uwagę. Myślę, że są nawet sprzed czasów twego ojca. Niektóre miały wielu różnych właścicieli. Możliwe, że ty nie będziesz ostatnim."
+|-
+! colspan="2" |Achilles Reveals Guan Yu Aspect 01
+|-
+|'''Achilles'''
+|"Jak pewnie wiesz, młodzieńcze, coś mnie łączy z broniami, których używasz - w końcu za życia dzierżyłem jedną z nich. Oczywiście wtedy jeszcze nie wiedziałem o niej wszystkiego, ale to teraz nieważne. Czasami... cóż, kontaktuje się ze mną. Ostatnio miałem od niej wizję, którą chcę się podzielić."
+|-
+|'''Zagreus'''
+|"Co, masz na myśli wizję od Veraty, Wiecznej Włóczni? To... dość nietypowe i odrobinę niepokojące. Co zobaczyłeś?"
+|-
+|'''Achilles'''
+|"Cóż... Zobaczyłem wielkiego, brodatego wojownika. Większego ode mnie, ze smolisto-czarnymi włosami. Dzierżył aspekt Veraty niepodobny do żadnego, który znam. Potem odszedł. Ale pozostały po nim unoszące się słowa: ''Widzę cię oczami szkarłatnego feniksa''."
+|-
+|'''Zagreus'''
+|"''Widzę cię oczami szkarłatnego feniksa''... Nie rozumiem. Co to ma niby znaczyć?"
+|-
+|'''Achilles'''
+|"Jest jeszcze jedna rzecz. To nie była moja pierwsza wizja tego typu. Dawno temu... widziałem jednego z innych posiadaczy Veraty. To byłeś ''ty''. Twoje Piekielne Oręże... muszą to być bronie zaprojektowane przez Mojry. One już wiedzą, kto będzie nimi wywijać. Teraz proszą o przysługę. Znajdź Veratę. Wypowiedz te słowa. Idź."
+|-
+! colspan="2" |Achilles Reveals Guan Yu Aspect 02
+|-
+|'''Zagreus'''
+|"Achillesie! Coś się stało z Veratą, kiedy wypowiedziałem te słowa. Ukazała mi się w formie, której nigdy nie widziałem. Dzierżona przez wojownika zwanego Guan Yu. Stylowo ubranego! I dokładnie takiego, jak opisywałeś. To nie jest greckie imię, czyż nie...?"
+|-
+|'''Achilles'''
+|"Nie, nie sądzę, chłopcze. Nie wiem kim jest ten Guan Yu, ani skąd pochodzi. Ani nawet z ''jakich czasów ''pochodzi. Ale Mojry muszą mieć wobec niego plan; i ciebie również. W każdym razie... Myślę, że mój udział w tym się zakończył. Verata służyła ci dobrze, prawda? Ufałem jej za życia; ufam też teraz. Strach jest dla słabych."
+|-
+! colspan="2" |Achilles About Arthur Aspect 01
+|-
+|'''Zagreus'''
+|"Szanowny Achillesie! Odkryłem kolejny aspekt Styksusa! Tym razem to Nyks przekazała mi słowa i wizję szlachetnego władcy. Otaczał go cały legion przywdzianych w zbroje śmiertelników! Zwał się Artur. ''Będzie ''się zwał, jak sądzę."
+|-
+|'''Achilles'''
+|"Przyszły władca ludzi dzierżący to ostrze? Tajemnice Piekielnych Oręży są naprawdę niepojęte. Wygląda na to, że ty i Styksus całkiem nieźle się dogadujecie."
+|-
+! colspan="2" |Achilles About Rama Aspect 01
+|-
+|'''Zagreus'''
+|"Achillesie, odkryłem ukryty aspekt Poszukiwacza Serc. Pani Artemida we własnej osobie przekazała mi słowa i... wygląda na to, że Koronacht należał... a może ''będzie ''należał do kogoś o imieniu Rama. Niezrównanego w posługiwaniu się łukiem. Nawet pośród bogów..."
+|-
+|'''Achilles'''
+|"Z doświadczenia wiem, że wielu ubiega się o tytuł niezrównanego w posługiwaniu się łukiem, młodzieńcze, aczkolwiek... nie mnie osądzać wizję starożytnej broni takiej jak ta. Mam nadzieję, że ten Rama będzie jej mądrze używał, gdy nadejdzie taki czas. To samo tyczy się ciebie."
+|-
+! colspan="2" |Achilles About Beowulf Aspect 01
+|-
+|'''Zagreus'''
+|"Szanowny Achillesie, odkryłem ukryty aspekt Tarczy Chaosu... dzięki samemu Chaosowi. Najwyraźniej pewnego dnia będzie chronić opancerzonego wojownika znanego jako Beowulf przed różnego rodzaju niebezpieczeństwami... nawet przed smokiem! Śmiertelnicy nie mają przeciw nim zbyt dużych szans, czyż nie?"
+|-
+|'''Achilles'''
+|"Zależy od smoka, jak przypuszczam. Słyszałem, że występują ich różne rodzaje na całym świecie. Ale jest to ciekawe odkrycie, młodzieńcze. Ten Beowulf... brzmi jak ktoś, kto znajdzie sposób, by zrobić dobry użytek z tego ochronnego uzbrojenia. Sam zawsze wolałem mobilność, ale co kto lubi."
+|-
+! colspan="2" |Achilles About Gilgamesh Aspect 01
+|-
+|'''Zagreus'''
+|"Byk z Minos doprowadził mnie do kolejnego ukrytego aspektu, Achillesie! Do dzikiej formy Bliźniaczych Pięści należących do starożytnego boskiego króla znanego jako Gilgamesz. Słyszałeś kiedyś to imię? Miał najwyraźniej przyjaciela w postaci pół-bestii. Tak jak Asterion jest przyjacielem Tezeusza."
+|-
+|'''Achilles'''
+|"Powiedziałeś "Gilgamesz"...? To imię nie jest mi znane, ale... te ukryte aspekty zazwyczaj wiążą się z przyszłością albo przeszłością. Powiedz, dlaczego Byk z Minos ci pomaga? Myślałem, że jest jednym z przeciwników, który broni wyjścia z Elizjum."
+|-
+|'''Zagreus'''
+|"Och, tak. Jest lojalny na wskroś Tezeuszowi i nigdy się nie powstrzymuje, kiedy walczymy. Ale wydaje się być typem kogoś, kto szanuje swego przeciwnika. W przeciwieństwie do jego towarzysza."
+|-
+! colspan="2" |Achilles About Lucifer Aspect 01
+|-
+|'''Zagreus'''
+|"Achillesie, odkryłem ukryty aspekt Adamantowego Miotacza, po tym jak sam Lord Zeus przekazał mi wybudzające zdanie. Jest od uskrzydlonego gościa o imieniu Lucyfer... najwyraźniej doświadczył drobnego upadku ze swoim panem ojcem. Ciekawe jak to się dla niego skończyło."
+|-
+|'''Achilles'''
+|"''Hm''! Być może jest to nawet sprzed czasów, gdy mieszkańcy Olimpu zbuntowali się przeciwko Tytanom. Ale nigdy nie słyszałem o żadnym Lucyferze, skrzydlatym czy też nie. Co sugeruje, że ten jego upadek wcale nie wyszedł mu na dobre."
+|-
+! colspan="2" |Achilles About Legendary Aspects 01
+|-
+|'''Zagreus'''
+|"Achillesie, zastanawiałem się nad czymś... teraz, gdy już poznałem wszystkie ukryte aspekty mych broni... a w każdym razie tak mi się wydaje... nie widzę tu w ogóle żadnego schematu. Guan Yu, Gilgamesz, Rama i tak dalej... masz jakiś pomysł czemu oni?"
+|-
+|'''Achilles'''
+|"Aby wiedzieć na pewno, to przypuszczam, że trzeba by zapytać same Mojry... i od nich również otrzymać odpowiedź. Zastanawiam się jak to się stało, że odnalazłeś tam wśród nich mój aspekt. Co uczyniło mnie tak wyjątkowym, wiesz może?"
+|-
+|'''Zagreus'''
+|"Byłeś wielkim wojownikiem! Sławnym, za twoich czasów! W ogóle mnie nie dziwi, że Mojry cię wybrały, abyś miał swój udział w jednej z ich zmieniających świat broni."
+|-
+|'''Achilles'''
+|"Cóż, to jest to! Byłem okryty sławą, tak. Być może złą sławą, ale to bez znaczenia. Być może chodzi o to, że te bronie żądają, aby stać się znane, ponad wszystkimi. Aby wywrzeć trwałe wrażenie w rękach tych, którzy je dzierżą."
+|-
+|'''Zagreus'''
+|"Uważasz, że Piekielne Oręże po prostu chcą być ''popularne''? By opowiadano o nich ekscytujące historie i tak dalej?"
+|-
+! colspan="2" |Achilles About Achilles Aspect 01
+|-
+|'''Zagreus'''
+|"Miałem okazję używać twego aspektu Veraty, szanowny panie. A więc sam ją kiedyś dzierżyłeś? Ona... napełnia mnie większym pragnieniem walki niż zwykle. Przypuszczam, że jest to odrobina twojego ducha walki."
+|-
+|'''Achilles'''
+|"Uważaj na tego ducha, młodzieńcze. To właśnie on przedwcześnie mnie tutaj sprowadził. Aczkolwiek ta włócznia dobrze mi służyła, w rzeczy samej. Prezent pożegnalny od mojego mistrza Chirona. Ostrzegał mnie, tak jak i ja ostrzegam ciebie. Choć może ty okażesz się lepszym słuchaczem."
+|-
+! colspan="2" |Achilles About Chiron Aspect 01
+|-
+|'''Zagreus'''
+|"Achillesie, miałem zapytać - wiesz, że Koronacht Poszukiwacz Serc należał kiedyś do centaura Chirona? Ponieważ jeden z aspektów jest jego. Nie miał go, gdy razem ćwiczyliście, czyż nie...?"
+|-
+|'''Achilles'''
+|"Mistrza Chirona, doprawdy...? Ach, oczywiście. Obdarował mnie włócznią, myślę, że wiesz. Jeżeli posiadał jedną broń tego typu, to czemu nie więcej? Pamiętam, że jego łuk lśnił niczym słońce. Był wspaniały i nigdy nie chybiał celu... choć przypisywałem to niezwykłym umiejętnościom Chirona."
+|-
+! colspan="2" |Achilles About Mirror 01
+|-
+|'''Achilles'''
+|"Muszę ci podziękować za to lustro tu za mną, młodzieńcze. Pozwala mi lepiej zobaczyć to, co dzieje się w wielkiej sali od czasu do czasu."
+|-
+|'''Zagreus'''
+|"Oczywiście, szanowny panie, nie ma o czym mówić. Naprawdę utknąłeś musząc pilnować tego korytarza przez większość czasu, co?"
+|-
+|'''Achilles'''
+|"O, ale to zdecydowanie ważny korytarz! Zastanów się, co gdyby każda zjawa mogła tak po prostu przejść przez któreś z tych drzwi. Twój ojciec i tak ledwo trzyma to wszystko pod kontrolą."
+|-
+! colspan="2" |Achilles About Warrior Statue 01
+|-
+|'''Achilles'''
+|"Całkiem niezły posąg tam zleciłeś. Przypuszczam, że jestem w stanie pomyśleć o gorszych obiektach, na które musiałbym się wpatrywać niż potężny Herakles."
+|-
+|'''Zagreus'''
+|"Mówią, że był najsilniejszym półbogiem, jaki kiedykolwiek żył. Choć idę o zakład, że byłbyś w stanie go pokonać, szanowny panie. Taki duży koleś - byłbyś dla niego zbyt szybki, jestem pewien. Poznałeś go kiedykolwiek?"
+|-
+|'''Achilles'''
+|"Tylko przelotnie. Umarł kiedyś śmiercią śmiertelnika... gorszą od mojej. Był na chwilę tu na dole ale... ma względy u bogów Olimpu. Zawarł pewnego rodzaju wyjątkową umowę, tak słyszałem. Od tamtej pory go nie widziałem."
+|-
+! colspan="2" |Achilles About Office Backstory 01
+|-
+|'''Zagreus'''
+|"Achillesie, wygląda na to, że mogę wykupić sobie prawo wstępu do komnaty administracyjnej. Nie chcę już nigdy tam wracać, ale... czy przychodzi ci do głowy jakikolwiek powód, dla którego powinienem?"
+|-
+|'''Achilles'''
+|"Ha, cóż. Być może wszyscy chcemy czegoś, czego nie możemy mieć. Oprócz tego przypuszczam, że niektóre znajdujące się tam dokumenty lub rejestry mogą okazać się przydatne w tych okolicznościach, prawda?"
+|-
+! colspan="2" |Achilles About Legendary 01
+|-
+|'''Zagreus'''
+|"Ten Chtoniczny Towarzysz, którego mi dałeś, szanowny panie... muszę powiedzieć, że wspaniale było zobaczyć ciebie i Patroklesa w akcji. Myślałem, że mówiłeś, że twoje dni wojowania dobiegły już końca?"
+|-
+|'''Achilles'''
+|"Tak, cóż... to było zanim ponownie spotkałem się z Patroklesem i miałem okazję odrobinę ci pomóc, z nim u mego boku. Ufam, że byliśmy zatem nieco pomocni?"
+|-
+! colspan="2" |Achilles Vs Hades 01
+|-
+|'''Zagreus'''
+|"Achillesie, ja... czasami obawiam się, że Ojciec - jeśli dowie się, że mi pomagasz - że on... nie będzie względem ciebie zbyt łaskawy."
+|-
+|'''Achilles'''
+|"Nie martw się o mnie, młodzieńcze. Twój ojciec wciąż jest zajęty pracą, którą dla niego stworzyłem jeszcze za mych śmiertelnych dni. Poza tym... nic mi już nie może odebrać. Mamy pewne porozumienie, on i ja."
+|-
+! colspan="2" |Achilles Vs Hades 02
+|-
+|'''Zagreus'''
+|"Achillesie, martwię się, że Ojciec coraz bardziej się na ciebie złości. Myśli, że opowiedziałeś się przeciwko niemu w całej tej sprawie. Nie chcę, by cokolwiek się stało."
+|-
+|'''Achilles'''
+|"Ma rację, młodzieńcze. Opowiedziałem się po pewnej stronie. Ale w kwestii tego, że nie chcesz, aby cokolwiek się stało... choć wiem, co masz na myśli, to nie chcę, byś więcej mówił takie rzeczy. Rozumiesz? Robisz to dlatego, że coś tutaj ''musi ''się stać. Powstrzymaj swój strach."
+|-
+! colspan="2" |Achilles Vs Aphrodite 01
+|-
+|'''Zagreus'''
+|"Chciałem ci powiedzieć, że Pani Afrodyta poprosiła mnie o przekazanie ci wiadomości. Powiedziała, że cię podziwia. Wspomniała o pewnej wojnie."
+|-
+|'''Achilles'''
+|"Podziwia mnie, doprawdy? Czasami myślę, młodzieńcze, że Afrodyta jest najpotężniejszym ze wszystkich bogów. Jej moc jest tym, co pobudza nas do działania. Czy to do miłości, czy też wojny. Czy też czasami do obydwu na raz. Jestem wdzięczny za tę wiadomość."
+|-
+! colspan="2" |Achilles Vs Artemis 01
+|-
+|'''Zagreus'''
+|"Hej, Achillesie! Tam w terenie skontaktowała się ze mną Pani Artemida. Wygląda na to, że masz w niej fankę. Chciała, abym powiedział ci, że jesteś najlepszy! Nie myli się, tak przy okazji."
+|-
+|'''Achilles'''
+|"Powiedziała to bogini łowów we własnej osobie? Bardzo miło mi to słyszeć. Dobrze, że nie wie, iż nie jestem już tak sprawny jak kiedyś. Jej wspomnienia dotyczą dni mojej chwały."
+|-
+! colspan="2" |Achilles About Daedalus 01
+|-
+|'''Zagreus'''
+|"Achillesie, czy kiedykolwiek natknąłeś się na zjawę Dedala? Znalazłem w terenie kilka jego legendarnych młotów, ale żadnego po nim śladu."
+|-
+|'''Achilles'''
+|"Nigdy go nie spotkałem, nie. Twój ojciec zawsze ma dla niego wiele pracy jeżeli chodzi o budowę i nieustanne renowacje Podziemi. Nic dziwnego, że jego stare narzędzia walają się po okolicy. Rozumiem, że byłeś w stanie zrobić z nich użytek?"
+|-
+! colspan="2" |Achilles About Gifting Gods 01
+|-
+|'''Zagreus'''
+|"Achillesie, czy kiedykolwiek wznosiłeś modły do bogów? Składałeś ofiary i tak dalej, gdy jeszcze żyłeś?"
+|-
+|'''Achilles'''
+|"Wznosiłem modły głównie do mej matki, młodzieńcze. Zawsze wątpiłem w to, że bogowie słuchają. Że w ogóle są w stanie słyszeć. Choć przypuszczam, że jeżeli złożysz im ofiarę, mogą być ku temu skłonni, choćby na chwilę, w każdym razie. Są pomocni?"
+|-
+! colspan="2" |Achilles About Demeter 01
+|-
+|'''Achilles'''
+|"Wyglądasz na zaniepokojonego, młodzieńcze. Podzielisz się swoimi myślami?"
+|-
+|'''Zagreus'''
+|"Och, po prostu... Właśnie spotkałem boginię Demeter. Błogosławieństwa, które oferowała, one... z wszystkiego wysysały ciepło i życie. Myślałem, że opiekuje się owocami, ziarnami, warzywami i tak dalej. Nie żebym narzekał."
+|-
+|'''Achilles'''
+|"Wszyscy bogowie oraz boginie powinni wywoływać strach. Demeter ma moc dawania życia, a także odbierania go. Choć wydaje się być bardziej zainteresowana tym ostatnim. Jest najstarsza na Olimpie, a twój ojciec zdaje się żywić do niej szczególną urazę. Nie wiem czemu. Bądź ostrożny."
+|-
+! colspan="2" |Achilles About Dusa Firing 01 A
+|-
+|'''Zagreus'''
+|"Achillesie, co się wydarzyło między Nyks i Duzą? Duza naprawdę odeszła?"
+|-
+|'''Achilles'''
+|"Nyks ją zwolniła, młodzieńcze. Przykro mi. Wiem, że była ci bliska. Byłem tak samo zaskoczony jak ty, gdy się dowiedziałem. Wiedziałem, że Nyks miała pewne zastrzeżenia jeżeli chodzi o tendencję Duzy do przepracowywania się, ale... nie spodziewałem się takiego kroku."
+|-
+|'''Zagreus'''
+|"Tendencję do przepracowywania się... naprawdę myślisz, że to właśnie o to chodziło? Nie mogę pozbyć się wrażenia, że to moja wina. Nyks nie chciała, by ze mną rozmawiała, tak jakby była poniżej mnie czy coś! ''Uch'', co ja teraz pocznę."
+|-
+|'''Achilles'''
+|"Słuchaj... nie mam pełni informacji na ten temat i ty również nie, z tego co słyszę. Nyks cię kocha i szanuje. Ufam, że chciałaby wiedzieć, jak się z tym czujesz."
+|-
+! colspan="2" |Achilles About Dusa Re Hiring 01
+|-
+|'''Zagreus'''
+|"Widziałeś, szanowny panie? Duza wróciła! Nyks musiała ponownie przemyśleć swą decyzję."
+|-
+|'''Achilles'''
+|"Musiała, w rzeczy samej, młodzieńcze. Ucieszyłem się, że Duza wróciła. I wiesz co...? Śmiem twierdzić, że wyglądała na całkiem wypoczętą dla odmiany. Nie były to może najlepsze okoliczności, ale mam nadzieję, że wynikło z tego coś dobrego."
+|-
+! colspan="2" |Achilles Run Progress 01
+|-
+|'''Achilles'''
+|"Rozumiem, że udało ci się ostatnio dotrzeć aż do Asfodelu, czyż nie, młodzieńcze?"
+|-
+|'''Zagreus'''
+|"Zdaje się, że wieści docierają tu szybciej niż ja sam. A czemu pytasz, Achillesie?"
+|-
+|'''Achilles'''
+|"...Bez konkretnego powodu. Po prostu słuchanie o twoich postępach przynosi mi radość."
+|-
+! colspan="2" |Achilles Run Progress 02
+|-
+|'''Achilles'''
+|"Nie widziałem cię przez jakiś czas, młodzieńcze. Dotarłeś ostatnim razem do Elizjum, czyż nie?"
+|-
+|'''Zagreus'''
+|"Tak, Achillesie. Jest pełne wielkich wojowników wciąż szukających guza. To nie do końca to, czego oczekiwałem."
+|-
+|'''Achilles'''
+|"Twój ojciec wysłał tych najbardziej chętnych, żeby się tobą zajęli. Niewątpliwie dla nich gra toczy się o wysoką stawkę - choćby o dumę wynikającą z wykonania zadania. Choć myślę, że ta duma zawsze będzie ich słabością."
+|-
+! colspan="2" |Achilles Run Progress 03
+|-
+|'''Achilles'''
+|"Ciężko było mi nie zauważyć, młodzieńcze, że Cerbera nie było przez dłuższy czas. Okazuje się, że twój ojciec zaprzęgnął go do pracy na górze. Mam szczerą nadzieję, że nie dojdzie między wami do walki."
+|-
+|'''Zagreus'''
+|"Nie martw się, szanowny panie. Tak, natknąłem się na Cerbera tam na górze. Pomimo, że technicznie rzecz biorąc jest psem Ojca, nigdy nie wyszczerzyłby na mnie swych kłów. Niezależnie od tego jak bardzo Ojciec chciałby, aby było inaczej."
+|-
+! colspan="2" |Achilles About Styx Foes 01
+|-
+|'''Achilles'''
+|"Nie chciałbym przypuszczać, młodzieńcze, ale wyglądasz na bardziej przygnębionego niż zazwyczaj. Co takiego ci ciąży, jeśli mogę zapytać?"
+|-
+|'''Zagreus'''
+|"Och, chodzi o to, że... nigdy nie zgładziłem żywej istoty. Aż do mojej niedawnej podróży do Świątyni tam na górze. Wiem, że to tylko Satyrowie i szkodniki, ale... to nie to samo, co odsyłanie nędzników do czeluści."
+|-
+|'''Achilles'''
+|"Słuchaj. Całe śmiertelne życie jest delikatne - to walka o przetrwanie. Prędzej czy później zawodzi, a w efekcie - kończy się tutaj. A mamy tu wystarczająco przestrzeni, by pomieścić każdego - nawet Satyrów i szkodniki świata."
+|-
+|'''Zagreus'''
+|"Teraz, gdy o tym wspominasz, muszę przyznać, że cieszy mnie, że możemy pomieścić wszystkie niegdyś-żyjące stworzenia. I przynajmniej śmiertelnicy mogą być spokojni wiedząc, co stanie się z nimi po śmierci! To musi naprawdę dawać spokój ducha."
+|-
+! colspan="2" |Achilles Run Not Cleared 01
+|-
+|'''Achilles'''
+|"Widziałem, jak twój ojciec wypadł z Domu ubrany w swe regalia. Musiał zatem wreszcie skonfrontować się z tobą osobiście...? I... widzę, że nie poszło zbyt dobrze. Byłeś tak blisko."
+|-
+|'''Zagreus'''
+|"Cóż, przynajmniej wiem, kto będzie na mnie czekał kolejnym razem, gdy wejdę na sam szczyt Świątyni Styksu i uda mi się z niej wydostać."
+|-
+|'''Achilles'''
+|"Nie trać nadziei, młodzieńcze. Nie szkoliłem twego ojca - tylko ciebie. Jest bogiem, ale jest tylko bogiem. Jeśli wybaczysz mi to drobne bluźnierstwo."
+|-
+! colspan="2" |Achilles About Persephone Meeting 01
+|-
+|'''Zagreus'''
+|"Znalazłem ją, szanowny panie! Moja matka, ona... żyje i ma się dobrze i... uch, ale nie mogłem zostać tam na zbyt długo. Muszę do niej wrócić!"
+|-
+|'''Achilles'''
+|"Naprawdę udało cię się przebyć całą drogę? Musiałeś... pokonać swego ojca, to niesamowite, młodzieńcze. Ale czekaj, jaka ona była, co ci się tam przytrafiło?"
+|-
+|'''Zagreus'''
+|"Ona była... ona była niesamowita! Nie taka jak ojciec, bardziej jak... ''ty'', tak trochę, tak myślę. Myślę, że przebywanie na powierzchni wysysało ze mnie życie. Nawet bez nędzników Podziemi próbujących mnie dopaść."
+|-
+|'''Achilles'''
+|"Ale przynajmniej mieliście trochę czasu! Brzmi jakbyś miał z nią niedokończone sprawy. Dostałeś się do niej raz... z pewnością jesteś w stanie zrobić to kolejny raz, nie jest tak?"
+|-
+! colspan="2" |Achilles About Persephone Meeting 02
+|-
+|'''Achilles'''
+|"Jak poszło, młodzieńcze? Zniknąłeś na jakiś czas. Z dobrego powodu, mam nadzieję?"
+|-
+|'''Zagreus'''
+|"Znalazłem ją, ponownie, szanowny panie, i... byliśmy w stanie porozmawiać trochę dłużej. Ale mam tak wiele pytań, które chcę jej zadać, a Ojciec zdecydowanie w tym nie pomaga..."
+|-
+|'''Achilles'''
+|"Cóż, po pierwsze, dobra robota. Wiedziałem, że masz to w sobie. Po drugie... wiesz, co masz do zrobienia. Idź, znajdź ją, ilekolwiek prób by to nie zajęło. To nie tylko jej szukałeś... także odpowiedzi na pytania, które masz."
+|-
+! colspan="2" |Achilles About Persephone Meeting 03
+|-
+|'''Achilles'''
+|"A zatem, możesz powiedzieć mi w swoim czasie, jeżeli tak zadecydujesz, młodzieńcze. Ale mam pytanie, które i ty miałeś, gdy to wszystko się zaczęło. Dlaczego odeszła? Dlaczego odeszła od ciebie, w szczególności?"
+|-
+|'''Zagreus'''
+|"Ona nawet nie wiedziała, że żyję. Wygląda na to, że to Nyks ożywiła mnie jakiś czas po tym, jak się narodziłem, ale za ten czas... Matka już odeszła i... pozwolili jej na to. Z powodów, które staram się poznać."
+|-
+|'''Achilles'''
+|"Ach, to jest... dość sporo do przetrawienia. I chyba wyjaśnia to nieco więcej niż trochę. Słuchaj, nie jestem osobą, która za dużo spekuluje. Ufam, że znajdziesz odpowiedzi, których szukasz na swej dalszej drodze."
+|-
+! colspan="2" |Achilles Run Not Cleared 02
+|-
+|'''Achilles'''
+|"Jakie wieści tym razem, młodzieńcze? Odnalazłeś swą matkę po raz kolejny?"
+|-
+|'''Zagreus'''
+|"Nie, zawiodłem, szanowny panie. A to za sprawą Ojca! Uch, co mam teraz zrobić?"
+|-
+|'''Achilles'''
+|"Po prostu się uspokój. Udało ci się raz, więc według mnie nie ma powodu, aby nie udało ci się ponownie. Poza tym, twój ojciec zachowuje się, jakby nic się nie stało. Więc nie trać nadziei. Jesteś do tego zdolny."
+|-
+! colspan="2" |Achilles Run Cleared 01
+|-
+|'''Zagreus'''
+|"Hej, powiedz mi coś, szanowny panie. Czy po Domu krążą jakieś plotki na temat wyniku pewnej interakcji, jaką miałem niedawno z moim ojcem? Związanej z ogromną ilością przemocy? Bo chciałbym, by wszyscy wiedzieli: wygrałem."
+|-
+|'''Achilles'''
+|"Nie wiem, co masz na myśli, młodzieńcze. Istnieją bowiem pewne tematy tak bardzo zabronione w tym momencie, że nawet plotki się nie utrzymują. Choć na ten moment, tak tylko między nami: Gratuluję. Szczerze."
+|-
+|'''Zagreus'''
+|"Dziękuję, szanowny panie. Nie wiedziałem, czy jestem do tego zdolny. A jeśli chodzi o tę inną kwestię, to będę zatem milczał, póki co. Prawdopodobnie i tak nie powinienem przywiązywać swojego poczucia własnej wartości do pochwał od przyjaciół, znajomych i obcych."
+|-
+! colspan="2" |Achilles Post Ending 01
+|-
+|'''Achilles'''
+|"Królowa wróciła! Udało ci się, młodzieńcze. Musicie mieć mnóstwo do nadrobienia. Lub naprawienia. I z tego co rozumiem, twoje próby ucieczki są oficjalnie zatwierdzone, czyż nie jest tak?"
+|-
+|'''Zagreus'''
+|"Tak jest, w rzeczy samej, szanowny panie. A zwłaszcza teraz będę wciąż walczył, by dostać się na powierzchnię. Pomaga mi to się odstresować i jak to mówi Hypnos, czyni Podziemia lepszym miejscem! Choć pośrednio, jak sądzę."
+|-
+|'''Achilles'''
+|"Cóż, zatem nie mogę się doczekać, aby móc z tobą pracować w bardziej oficjalny sposób. I mam szczerą nadzieję, że ty, twoja matka i twój ojciec nauczycie się ze sobą lepiej dogadywać."
+|-
+! colspan="2" |Achilles Post Ending 02
+|-
+|'''Zagreus'''
+|"Hej, szanowny panie, chciałem powiedzieć, że mam nadzieję, iż nie sprawiłem ci zbyt dużych problemów tym, że wpuściłeś mnie do komnaty Ojca."
+|-
+|'''Achilles'''
+|"Nie przejmuj się tym, chłopcze. Było to ryzyko, które byłem w stanie podjąć, a w tej kwestii, twój ojciec przymknął na to oko. Ale nie spodziewałem się, że zyskasz swobodę, by wchodzić tam kiedy chcesz."
+|-
+! colspan="2" |Achilles Post Epilogue 01
+|-
+|'''Achilles'''
+|"Powiedz mi zatem, młodzieńcze. Jak udała się rodzinna uczta, wszystko było w porządku?"
+|-
+|'''Zagreus'''
+|"Cóż, muszę przyznać, że chyba byłem nieco zdenerwowany jeżeli chodzi praktycznie o wszystko, ale... koniec końców miło spędziłem czas i jestem bardzo, bardzo zadowolony, że wyszło tak jak wyszło. A tobie jak się podobało?"
+|-
+|'''Achilles'''
+|"Mi również się podobało. Ostatnim razem jak zostałem zaproszony na ucztę, byłem wciąż zajęty wojowaniem na powierzchni, aż tyle to czasu minęło. Muszę przyznać, że twoja matka dobrze sobie radzi ze słowami. Sprawiła, że wszyscy gawędzili, śmiali się..."
+|-
+|'''Zagreus'''
+|"Naprawdę jej się udało! Ale.. pomimo całej pewności siebie nie sądzę, żeby wiedziała, iż ma to w sobie. Ponieważ gdyby tak było... gdyby skontaktowała się z Olimpem wcześniej... wiele spraw mogłoby potoczyć się inaczej."
+|-
+|'''Achilles'''
+|"Nie rozmyślaj o tym. Rozmawiałem trochę z Nyks. Twoja matka miała swoje powody. Nikomu nie przychodzi działać z pełnią informacji, racja? Mamy jedynie to, co wydaje nam się, że wiemy i co mówi nam nasze sumienie. Twoja matka dotarła do miejsca, gdzie to wszystko jest możliwe... a wszystko dzięki tobie."
+|-
+|'''Zagreus'''
+|"Wszystko dzięki mnie, szanowny panie? Miałem mnóstwo wsparcia po drodze. Na przykład, nie udałoby mi się bez ''ciebie''. Używałbym nogi starego krzesła jako broni, jak sądzę."
+|-
+|'''Achilles'''
+|"A jakże przerażająca noga by to była! W każdym razie... wyruszasz tam niedługo? Olimp powinien z miłą chęcią wesprzeć cię w twojej inspekcji ochrony. Jeżeli tak to teraz nazywamy."
+|-
+|'''Zagreus'''
+|"Taa, powinienem ruszać. Do zobaczenia niedługo."
+|-
+! colspan="2" |Achilles Post Epilogue 02
+|-
+|'''Achilles'''
+|"Jestem pod wielkim wrażeniem tego, co udało ci się osiągnąć, młodzieńcze. Gdy byłem bliżej twojego wieku... lub wieku, w którym wydajesz się być... jedyne czego chciałem to chwały. Żeby być zapamiętanym na zawsze. Zobacz dokąd mnie to zaprowadziło! Cieszę się, że jesteś w tej kwestii mądrzejszy."
+|-
+|'''Zagreus'''
+|"A więc w pogoni za chwałą... myślisz, że ją straciłeś? Wybacz mi, ale zwyczajnie się nie zgadzam. Ja rozstrzygnąłem rodzinny spór. Ty własnoręcznie zmieniłeś bieg całej wojny!"
+|-
+|'''Achilles'''
+|"Głupiej wojny. Chwała spływa na tych, których motywuje chęć bycia lepszym w godnych staraniach. Szczęśliwy efekt uboczny, nie cel sam w sobie. Ale nie ma potrzeby, abym ci to mówił."
+|-
+|'''Zagreus'''
+|"Gdyby nie cały twój trening i porady, nie dotarłbym tak daleko. Przygotowałeś mnie na to. Czyż nie były to godne starania? Musi to oznaczać, że koniec końców zostałeś obdarzony pewną chwałą, racja?"
+|-
+! colspan="2" |Achilles Codex Progress 01
+|-
+|'''Achilles'''
+|"Robisz postępy z tym Kodeksem, młodzieńcze. Cieszy mnie to. Moje obowiązki wobec Domu oznaczały ostatnio, że nie mogę podróżować tyle, ile niegdyś zwykłem."
+|-
+|'''Zagreus'''
+|"Postaram się podróżować za nas obu, Achillesie. Poza tymi ścianami widziałem naprawdę niewiele."
+|-
+! colspan="2" |Achilles Codex Progress 02
+|-
+|'''Achilles'''
+|"Spójrz no tylko na siebie, młodzieńcze - z Kodeksem pełnym naszej historii! Wiedziałem, że mogę na tobie polegać w kwestii wypełniania go. Gdy byłem żywy, nikt nigdy nie uwierzyłby w to, co się tu na dole dzieje."
+|-
+|'''Zagreus'''
+|"Śmiertelni musieli mieć jednak swoje opowieści. O tym co dzieje się z nimi po śmierci i po tym, jak trafią do tego miejsca."
+|-
+|'''Achilles'''
+|"Mają swoje opowieści, zdecydowanie. Boją się twego ojca, co jest zrozumiałe. Boją się także twego psa. Większość z nich jednak nie wie nic ponad to. Myślę, że nawet ich strach zrodzony jest z ignorancji. Jak to z resztą zwykle bywa z większością strachów."
+|-
+! colspan="2" |Achilles Codex Progress 03
+|-
+|'''Zagreus'''
+|"Achillesie, szanowny panie... w Kodeksie napisałeś coś o kimś, z kim dzieliłeś swoje życie... gdy byliście jeszcze z krwi i kości?"
+|-
+|'''Achilles'''
+|"...''Ach''. To dla mnie osobista sprawa, młodzieńcze. Z czasu, gdy byłem przekonany, że Kodeks będą oglądać wyłącznie moje oczy. O mojej przeszłości naprawdę nie warto wspominać. Poza tym, obecnie jestem na służbie, także proszę, wybacz."
+|-
+! colspan="2" |Achilles Codex Progress 05
+|-
+|'''Zagreus'''
+|"Umm, Achillesie, szanowny panie, zastanawiałem się nad czymś odnośnie twojego Kodeksu. Słowa są twoje, a mimo to poprzez moje czyny jestem w stanie je przyswoić. Czy to zawsze w taki sposób działają pisma śmiertelnych?"
+|-
+|'''Achilles'''
+|"Ach. Musisz zrozumieć, młodzieńcze, że przebywam tu w królestwie twego ojca już od jakiegoś czasu. Moja udokumentowana wiedza została ze mną powiązana, całkiem jak ta włócznia, rozumiesz? Z czasem możesz te powiązania przerwać. Wtedy moja wiedza stanie się twoją. Jaka by ona nie była."
+|-
+! colspan="2" |Achilles Codex Progress 06
+|-
+|'''Achilles'''
+|"Miałem przedziwne wrażenie, młodzieńcze, nie będziesz miał nic przeciwko jeśli... mogę zobaczyć Kodeks?"
+|-
+|'''Zagreus'''
+|"Oczywiście, szanowny panie! Można powiedzieć, że byłem bardzo zajęty uzupełnianiem go. Jest niemalże ukończony!"
+|-
+|'''Achilles'''
+|"On ''jest ''ukończony! To niesamowite... kroniki tego miejsca... wszystko czego kiedykolwiek się nauczyłem i co poczułem."
+|-
+|'''Zagreus'''
+|"Ale zawsze jest więcej, czego można się nauczyć i poczuć, czyż nie?"
+|-
+! colspan="2" |Achilles Mystery Door 01
+|-
+|'''Zagreus'''
+|"Hej, Achillesie? W sprawie holu mego ojca. Pewnie nie pozwolisz mi tam rzucić okiem? Jestem pewien, że jest tam mnóstwo rzeczy, przez które mógłbym się przekopać."
+|-
+|'''Achilles'''
+|"Wiesz, że zrobiłbym dla ciebie praktycznie wszystko, młodzieńcze. Jednakże moja zdolność do czynienia tego jest zależna od mojego pozostawania na tym stanowisku. Jeśli jednak dojdą mnie słuchy o czymkolwiek tam z tyłu, co wymagałoby twojej uwagi, dowiesz się o tym."
+|-
+! colspan="2" |Achilles Drinking 01
+|-
+|'''Achilles'''
+|"Zaprosiłbym cię na drinka, młodzieńcze, ale wiem, że przed tobą trudne zadanie, a alkohol przytępia zmysły. Na całe szczęście, w większości przypadków, choć nie w twoim. Pozostaw to mnie, jeśli możesz, a wypiję za nas obu."
+|-
+|'''Zagreus'''
+|"Innym razem, Achillesie. Tylko cię odwiedzam, ale niedługo znów udaję się w drogę."
+|-
+! colspan="2" |Achilles Backstory 01
+|-
+|'''Zagreus'''
+|"Achillesie, czy… opowiedziałbyś mi coś więcej o Patroklesie? Wspominałeś, że byliście ze sobą bardzo blisko."
+|-
+|'''Achilles'''
+|"Nie można było już być bliżej. Prochy naszych ciał wciąż leżą splecione gdzieś tam na powierzchni. Cóż mogę ci powiedzieć, chłopcze? Kochałem go z całego serca. A on opuścił mnie zbyt szybko."
+|-
+|'''Zagreus'''
+|"W takim razie z pewnością musi być gdzieś w Podziemiach... nie próbowałeś go odszukać? Albo zapytać mego ojca?"
+|-
+|'''Achilles'''
+|"''Hah, haha. ''Próbowałem, młodzieńcze, próbowałem. Jednego i drugiego. To co proponujesz, nie jest tak proste, jak się okazuje. Widziałeś, jak jest tam na zewnątrz... ciężko znaleźć drogę. Ale powiem ci coś. Jeśli wypatrzysz Patroklesa pośród niezliczonych zjaw, przekaż mu ode mnie moje pozdrowienia."
+|-
+! colspan="2" |Achilles Backstory 01 B
+|-
+|'''Zagreus'''
+|"Ale teraz oboje jesteście tutaj, w Podziemiach! Nie możesz pójść go odszukać? Albo zmienić swoją umowę z moim ojcem?"
+|-
+|'''Achilles'''
+|"''Ha, hah. ''Próbowałem, młodzieńcze, próbowałem. Jednego i drugiego. To co proponujesz, nie jest tak proste, jak się okazuje. Ale powiem ci coś. Gdy następnym razem zobaczysz Patroklesa podczas swych wędrówek, rozmawiaj z nim nadal w moim imieniu, dobrze?"
+|-
+! colspan="2" |Achilles About Patroclus 01 A
+|-
+|'''Achilles'''
+|"Jak tam twoje trudy, młodzieńcze? Wyglądasz jakoś dziwnie. Wszystko w porządku?"
+|-
+|'''Zagreus'''
+|"Chodzi o to, że... w Elizjum wpadłem na pewną zjawę, która powiedziała, że cię zna. Wspomniała, że za tobą tęskni. Znasz Patroklesa, szanowny panie?"
+|-
+|'''Achilles'''
+|"Co... ja... tak. Znałem Patroklesa, czy on... czy wszystko u niego w porządku?"
+|-
+|'''Zagreus'''
+|"On... nie wiem. Wygląda, jakby widział już lepsze czasy. Czy... jest coś szczególnego, co chciałbyś, abym mu przekazał, jeśli spotkam go ponownie?"
+|-
+|'''Achilles'''
+|"...Przekaż mu proszę moje pozdrowienia. I... wyrazy miłości. Myślę o nim zawsze. Ale nie mogę się z nim już nigdy zobaczyć. A ty nie możesz pytać mnie o przyczynę, rozumiesz? A teraz zostaw mnie, proszę, młodzieńcze. Potrzebuję trochę czasu."
+|-
+! colspan="2" |Achilles About Patroclus 01 B
+|-
+|'''Zagreus'''
+|"Chodzi o to, że... w Elizjum wpadłem na pewną zjawę. To twój Patrokles. Wszystko u niego w porządku, choć wygląda, jakby widział już lepsze czasy. Czy jest coś szczególnego, co chciałbyś, abym mu przekazał, jeśli spotkam go ponownie?"
+|-
+|'''Achilles'''
+|"Och...! Cóż, przekaż mu proszę w takim razie moje pozdrowienia. I... wyrazy miłości. Myślę o nim zawsze. Ale nie mogę się z nim już nigdy zobaczyć. A ty nie możesz pytać mnie o przyczynę, rozumiesz? A teraz zostaw mnie, proszę, młodzieńcze. Potrzebuję trochę czasu."
+|-
+! colspan="2" |Achilles About Patroclus 02
+|-
+|'''Achilles'''
+|"Hej, posłuchaj chwilę, młodzieńcze. Potrzebuję twej dyskrecji w kwestii tego, o kim ostatnim razem rozmawialiśmy. Chodzi o zjawę, którą spotkałeś w Elizjum."
+|-
+|'''Zagreus'''
+|"Rozumiem. Co mogę zrobić w tej kwestii, szanowny panie? Musi coś być. Ale musisz mi powiedzieć o co chodzi."
+|-
+|'''Achilles'''
+|"Mówiąc wprost - on jest powodem, dla którego tu jestem. Patrokles stracił życie przede mną. Z mojej winy. Wkrótce podążyłem za nim, w szale. Gdy tu dotarłem, zostałem powitany jak bohater. Twój ojciec osobiście zaprowadził mnie do Elizjum. Ale ja nie tego chciałem."
+|-
+|'''Zagreus'''
+|"Chciałeś zobaczyć Patroklesa. Ale on jest w Elizjum, podczas gdy ty... o, nie."
+|-
+|'''Achilles'''
+|"Podpisałem pakt, młodzieńcze. Uznałem, że warunki były wystarczająco dobre. On mógł tam zamieszkać, podczas gdy ja, przynajmniej na razie, zamieszkałbym tu. Tego rodzaju układy są bardzo rzadkie i trzeba zachować ich poufność. Nie rozmawiajmy już teraz na ten temat, dobrze? Może innym razem."
+|-
+! colspan="2" |Achilles About Patroclus 03
+|-
+|'''Zagreus'''
+|"Musisz mi powiedzieć więcej na temat tego paktu, który podpisałeś, Achillesie. Ty i Patrokles... więc jesteście skazani na to, by już nigdy nie być razem?"
+|-
+|'''Achilles'''
+|"Musisz strzec szczegółów paktu, młodzieńcze. Choć nie jest tak źle, jak to sobie wyobrażasz. Upewniłem się, że Patrokles będzie miał wszystko, czego mu potrzeba. I tak nie bylibyśmy razem. Widzisz, początkowo nie został on odesłany do Elizjum."
+|-
+|'''Zagreus'''
+|"Musi być jakiś sposób, bym to naprawił. Nie tylko dla niego, ale i dla ciebie."
+|-
+|'''Achilles'''
+|"Masz inne pilne sprawy do załatwienia, młodzieńcze. A my z Patroklesem mamy wystarczająco wiele czasu, aby to przeczekać. Wiem, że chcesz dobrze, ale... nie omawiaj tej sprawy ze swoim ojcem. Obawiam się, że mogłoby to pogorszyć sprawy. Rozumiesz?"
+|-
+! colspan="2" |Achilles About Patroclus 04
+|-
+|'''Zagreus'''
+|"Ten... poległy wojownik w Elizjum, o którym rozmawialiśmy. Wydaje się być dobrym człowiekiem, ale... czy on zawsze był taki przygnębiony?"
+|-
+|'''Achilles'''
+|"Nie, młodzieńcze. Myślę, że to ja byłem takim typem człowieka, lecz nie on. On był... jednym z niewielu ludzi, którzy nie patrzyli na mnie jak na zagrożenie. Widział we mnie coś, o czego istnieniu nawet nie wiedziałem. A z kolei ja przy nim czułem się... jak to opisać? Spokojny. Cały."
+|-
+|'''Zagreus'''
+|"Ha! Ja cały czas jestem niespokojny. Mogę sobie to tylko wyobrazić."
+|-
+|'''Achilles'''
+|"Miał w sobie taki gorzki humor. Jak gdyby posiadał mądrość wykraczającą poza jego wiek. To cecha, która w mojej ocenie pomoże mu przetrwać jego zmagania. Choć... Miałem nadzieję, że przebywanie w Elizjum będzie oznaczało, że nie będzie musiał już dłużej walczyć."
+|-
+! colspan="2" |Achilles About Patroclus Backstory 01
+|-
+|'''Zagreus'''
+|"Wiem, że to bolesny temat, szanowny panie, ale czy możesz mi powiedzieć... co dokładnie wydarzyło się podczas tej wojny, która zabrała ciebie i Patroklesa? On poruszył ten temat. Powiedział, że nie chciałeś walczyć."
+|-
+|'''Achilles'''
+|"Dopóki nie umarł. Nie chciałem walczyć, dopóki nie umarł, ale w tamtym momencie... ''uch'', słuchaj, młodzieńcze, jeżeli mamy o tym rozmawiać, lepiej zróbmy to w salonie, nie tutaj."
+|-
+|'''Achilles'''
+|"...Ten durny król, któremu służyłem... Nigdy dla niego nie walczyłem. Ale Patrokles zawsze inaczej patrzył na pewne sprawy. Gdy ja nie chciałem walczyć, on stanął na wysokości zadania. Wziął moją zbroję, poprowadził mych braci do walki wyglądając jak ja. Walczył dzielnie... ale wtem, on... cóż."
+|-
+|'''Zagreus'''
+|"A kiedy się o tym dowiedziałeś... chciałeś go pomścić. Zemścić się."
+|-
+|'''Achilles'''
+|"Tak było. Dopadli mnie w końcu, rzecz jasna. Ale wcześniej zdołałem ich złamać. Wojna wkrótce po tym się skończyła. To okropna sprzeczność, że aby szybko zakończyć wojnę, trzeba jedynie zgasić wiele istnień na raz. Nie zdawałem sobie wtedy z tego sprawy."
+|-
+|'''Zagreus'''
+|"Czy ty... pozwoliłeś sobie umrzeć? Aby móc ponownie zobaczyć Patroklesa, tutaj?"
+|-
+|'''Achilles'''
+|"...Nie wiem. Może. Wiem tylko, że wypełniał mnie gniew. Gniew, który opadł, wkrótce po tym, jak tu dotarłem. Czułem się... pusty. Nigdy więcej nie zobaczyłem Patroklesa. Ale dowiedziałem się, że moi bracia uhonorowali moje ostatnie życzenie, jako że moje prochy spoczęły z jego prochami. ''<Westchnienie> ''W każdym razie...! Dzięki za drinka."
+|-
+|'''Achilles'''
+|"Myślę, że lepiej już wrócę do cichego stania w miejscu. Ale jeśli chodzi o tę wojnę, młodzieńcze? Nie pytaj mnie o nią więcej. Dobrze?"
+|-
+! colspan="2" |Achilles About Patroclus 05
+|-
+|'''Achilles'''
+|"Jak on się w ogóle miewa, jeżeli miałeś ostatnio okazję go spotkać podczas swoich podróży, młodzieńcze? Mam na myśli poległego wojownika, na którego natrafiłeś w Elizjum."
+|-
+|'''Zagreus'''
+|"Miewa się całkiem dobrze, tak myślę. Wiele z tego o czym mi powiedziałeś... on nie wiedział. O tym co doprowadziło do jego obecnej sytuacji, a także i twojej."
+|-
+|'''Achilles'''
+|"Powiedziałeś mu zatem. Bez uprzedniego proszenia o moją zgodę! Co dokładnie mu powiedziałeś?"
+|-
+|'''Zagreus'''
+|"Achillesie, ja... przepraszam, ja... po prostu powiedziałem mu o waszych zmieszanych prochach, całej tej historii? No i o pakcie. Powiedziałeś mi kiedyś, bym przekazał mu twoje wyrazy miłości i pozdrowienia! Nie wywołało to u niego żadnej uciechy. Jedynie pytania! Powiedziałeś mi, żebym nie mówił Ojcu, a nie jemu!"
+|-
+|'''Achilles'''
+|"''<Westchnienie>''...Masz rację, ja... powinienem był to sprecyzować. A może i nie. Ponieważ to, co mu powiedziałeś, wyszło chyba na dobre. Nie chciałem stracić nad sobą panowania, młodzieńcze, po prostu... słuchaj, dziękuję, że się o niego troszczysz. O nas. Tylko, proszę, bądź ostrożny."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Mam dla ciebie wiadomość od poległego wojownika z Elizjum, szanowny Achillesie. Mówi... zwyczajnie powiedział, abym dał ci znać, żebyś wszystko zaryzykował."
+|-
+|'''Achilles'''
+|"Wszystko zaryzykował. Powiedział, żebym wszystko zaryzykował?"
+|-
+|'''Zagreus'''
+|"Tak. Czy... jest coś wyjątkowego w tym zdaniu?"
+|-
+|'''Achilles'''
+|"Kiedy ostatni raz powiedział, żebym wszystko zaryzykował... nie posłuchałem go wtedy. Ale powinienem był. Powinienem był."
+|-
+|'''Zagreus'''
+|"Prosi cię, byś dał sobie kolejną szansę."
+|-
+|'''Achilles'''
+|"Nie... on daje mi kolejną szansę, tak myślę. Ja... zostaw mnie, chłopcze, póki co. Dziękuję, że mi powiedziałeś."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 02
+|-
+|'''Zagreus'''
+|"Odnośnie zaryzykowania wszystkiego, szanowny panie. Doszedłeś do wniosku, co to wszystko może oznaczać? Co powinieneś zrobić?"
+|-
+|'''Achilles'''
+|"Jestem coraz bliżej, młodzieńcze. Podczas walki bazowałem na instynkcie, dokonując szybkich osądów niemalże bezzwłocznie. Natomiast jeżeli chodzi o inne kwestie... potrzebuję trochę czasu. Twojej cierpliwości, proszę. Dam ci znać, jeżeli uda mi się do czegoś dojść."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 03 A
+|-
+|'''Achilles'''
+|"Potrzebuję twojej pomocy w pewnej kwestii, młodzieńcze. Jako że jestem gotów wszystko zaryzykować, tak myślę. Czy mnie wysłuchasz?"
+|-
+|'''Zagreus'''
+|"Oczywiście, szanowny panie, o co chodzi? Słucham."
+|-
+|'''Achilles'''
+|"Pakt, który podpisałem z twoim ojcem. Musi leżeć gdzieś zakopany w komnacie administracyjnej. Nie śmiałem prosić cię o zlokalizowanie go, ze strachu przed tym, że majstrowanie przy nim mogłoby jedynie pogorszyć sprawy, z tym że..."
+|-
+|'''Zagreus'''
+|"...Z tym że strach jest dla słabych, szanowny Achillesie."
+|-
+|'''Achilles'''
+|"W rzeczy samej. Poza tym... twój ojciec był bardziej przychylny, niż się tego spodziewałem, w kwestii unieważnienia Wyroku Szelmowskiego Króla... więc być może moja sprawa nie jest jeszcze całkiem przegrana."
+|-
+|'''Zagreus'''
+|"Porozmawiam o tym z Nyks, gdy tylko nadarzy się okazja. I będę ostrożny, szanowny panie. Obiecuję ci."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 03 B
+|-
+|'''Achilles'''
+|"W rzeczy samej. Poza tym... twój ojciec był bardziej przychylny, niż się tego spodziewałem, w kwestii zniesienia paktu, który rozdzielił Orfeusza i Eurydykę... więc być może moja sprawa nie jest jeszcze całkiem przegrana."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 03 C
+|-
+|'''Achilles'''
+|"W rzeczy samej. Poza tym... twój ojciec był bardziej przychylny, niż się tego spodziewałem, w kwestii unieważnienia warunków osobnikom w stylu Orfeusza i Syzyfa, więc... być może moja sprawa nie jest jeszcze całkiem przegrana."
+|-
+! colspan="2" |Achilles About Myrmidon Reunion Quest 04
+|-
+|'''Zagreus'''
+|"Pracuję nad znalezieniem twego paktu, Achillesie. Po prostu potrzebuję trochę więcej czasu, by to ogarnąć."
+|-
+|'''Achilles'''
+|"Cierpliwości mi nie brakuje, młodzieńcze. I postaram się trzymać nadzieję w ryzach. Dziękuję ci za twe starania w tej kwestii. Kiedy następnym razem będziemy o tym rozmawiać, może już ci się uda."
+|-
+! colspan="2" |Myrmidon Reunion Quest Complete
+|-
+|'''Zagreus'''
+|"Achillesie! Twój pakt z ojcem został oficjalnie zmieniony, szanowny panie. Dokładniej rzecz biorąc, nie ma już więcej żadnych zastrzeżeń, które powstrzymywałyby cię od odwiedzania Elizjum w trakcie nieokreślonego czasu twojego zatrudnienia. Z mocy nadanej mi przez imię Hadesa, dziękuję ci za twoją służbę."
+|-
+|'''Achilles'''
+|"Co, czy ty... ty mówisz poważnie. Mogę tam iść. Masz rację, czuję to. Jestem niezwiązany. Więc mogę... zwyczajnie odejść... teraz."
+|-
+|'''Zagreus'''
+|"Możesz zwyczajnie odejść, teraz. I pozwolę sobie dodać... rychło kurde w czas."
+|-
+|'''Achilles'''
+|"Ja... muszę zatem iść, choć... jestem nieprzygotowany, ja... nie myślałem, że do tego dojdzie. Nie żebym w ciebie nie wierzył, po prostu..."
+|-
+|'''Zagreus'''
+|"Nawiasem mówiąc, jest jedna polana w Elizjum, którą gorąco polecam... idź do niego, szanowny panie. Wystarczająco długo się naczekałeś. Strach jest dla słabych."
+|-
+|'''Achilles'''
+|"...Strach jest dla słabych. Żegnaj póki co, młodzieńcze. Zwykłe dziękuję to za mało."
+|-
+! colspan="2" |Achilles After Myrmidon Reunion Quest Complete 01
+|-
+|'''Zagreus'''
+|"Szanowny panie, wróciłeś! Jak było w Elizjum, wszystko w porządku?"
+|-
+|'''Achilles'''
+|"Było dobrze, młodzieńcze. Tak dobrze jak miałem na to nadzieję. Lepiej niż się tego mogłem obawiać. Hej, nie bierz tego do siebie, że Patrokles nazywa cię "nieznajomym", w porządku? Ma mniej miłosierne określenie dla tych, którzy go nie obchodzą."
+|-
+|'''Zagreus'''
+|"No dalej, Achillesie, chcę szczegółów! Co się między wami wydarzyło? Jeśli nie masz nic przeciwko."
+|-
+|'''Achilles'''
+|"''Hahah'', cóż. Na szczęście twoje wysiłki sprawiły, że nie były potrzebne żadne słowa, gdy przybyłem. Zwyczajnie wypowiedział me imię. Później, po prostu... byliśmy. Dwie dusze razem w jednym miejscu. Sposób, w jaki zjawy się ociągają, wygląda na żałobny, prawda? Ale nie zawsze taki jest."
+|-
+|'''Zagreus'''
+|"Wspaniale to słyszeć. Brzmiał na podniesionego na duchu twoją obecnością. Musicie mieć sporo do nadrobienia."
+|-
+|'''Achilles'''
+|"Sporo nadrabiania straconego czasu. I wreszcie mamy na to nieco wolnego czasu. To dziwne, bo wiele z moich wspomnień, które są z nim związane, pochodzą z czasu wojny. Teraz możemy tworzyć nowe wspomnienia w spokoju. W każdym razie... zobaczymy się tam ponownie od czasu do czasu, mam nadzieję?"
+|-
+! colspan="2" |Achilles About Hades Bedroom 01
+|-
+|'''Achilles'''
+|"O co chodzi, młodzieńcze, co się stało? Co mogę zrobić?"
+|-
+|'''Zagreus'''
+|"Wpuść mnie do komnaty Ojca. Proszę."
+|-
+|'''Achilles'''
+|"...Jest to wysoko na liście rzeczy, których nie wolno mi robić, co dotyczy kogokolwiek i w jakichkolwiek okolicznościach. Czego potrzebujesz? Nawet ja nigdy tam nie byłem..."
+|-
+|'''Zagreus'''
+|"Nie wiem, nie wiem! Ale jeśli znam Ojca, a myślę, że znam, to musi mieć tam coś, co należy do niej. Do Matki! Ona nadal tego nie rozumie, nie wierzy mi w jego kwestii i... powiedziałem, że to udowodnię. Że mu na niej zależy!"
+|-
+|'''Achilles'''
+|"W porządku, powoli, rozumiem. Słuchaj... mogę mieć przez to ogromne kłopoty, nawet nie zdajesz sobie sprawy. I nie tylko ja, więc... bądź ostrożny i bądź szybki, dopóki go wciąż nie ma. Weź to i idź. Nic tam nie poprzestawiaj, dobrze?"
+|-
+! colspan="2" |Achilles About Reunion Quests 01
+|-
+|'''Zagreus'''
+|"Achillesie... jeżeli twój przyjaciel byłby w potrzebie, ale jedynym sposobem aby pomóc, byłoby w jakiś sposób zmienić warunki starożytnego paktu, który został narzucony przez Ojca, to co byś zrobił?"
+|-
+|'''Achilles'''
+|"Przede wszystkim, byłbym bardzo ostrożny. Rozumiesz, młodzieńcze? Nie chciałbym wszystkiego pogorszyć. Jak wiele paktów takich jak ten, o którym myślisz, jest zakopanych w tej tam oto komnacie administracyjnej? Nawet twój ojciec nie jest w stanie tego zliczyć. Ale... być może Nyks jest."
+|-
+|'''Zagreus'''
+|"Nyks.. masz rację. Ona wie wszystko! Nie zaszkodzi jej spytać, jak sądzę..."
+|-
+! colspan="2" |Achilles About Office 01
+|-
+|'''Achilles'''
+|"Zaczekaj, młodzieńcze! Odzyskałeś dostęp do komnaty administracyjnej, prawda? Nigdy bym nie pomyślał, że zechcesz tam wejść ponownie."
+|-
+|'''Zagreus'''
+|"Och, wierz mi, nie chcę. Lecz chciałbym móc chodzić wszędzie, gdzie mi się tu podoba, a mieszanie Ojcu w głowie to tylko kolejna korzyść."
+|-
+|'''Achilles'''
+|"Powiedzmy, że rozumiem. No cóż, na dość ograniczonej mocy, która została mi nadana, z przyjemnością mówię: Możesz przejść."
+|-
+! colspan="2" |Achilles About Office 02
+|-
+|'''Zagreus'''
+|"Achillesie, teraz, gdy znów mam dostęp do strefy administracyjnej, ja... cóż, dostałem się do archiwów i... mam dość wpływu, aby unieważnić je w niektórych okolicznościach. Więc, w kwestii twojego paktu..."
+|-
+|'''Achilles'''
+|"Wiem, że chcesz dobrze, młodzieńcze. I z głębi serca, które swego czasu miałem, naprawdę dziękuję ci, że o mnie pomyślałeś. Jednak... nie nadużywaj swojego wpływu w ten sposób. Przynajmniej nie teraz. Mojry mogą przekręcić intencje. Nie chcę ryzykować."
+|-
+|'''Zagreus'''
+|"Jesteś pewien...? Dobrze zatem... Zaczekam. Ale jeszcze cię o to zapytam. Musimy znaleźć sposób, aby to naprawić. Patrokles czeka."
+|-
+! colspan="2" |Achilles About Orpheus 01
+|-
+|'''Zagreus'''
+|"Zastanawiałem się nad czymś, Achillesie. Masz może ostatnio jakieś wieści na temat Orfeusza? Nie widziałem go tutaj od jakiegoś czasu. Czy on wciąż spłaca swoje długi?"
+|-
+|'''Achilles'''
+|"Tak, myślę, że tak, młodzieńcze. Twój ojciec nie był z niego zbyt zadowolony, gdy widziałem go tu ostatnio. Starałem się ostudzić sytuację najlepiej, jak tylko potrafiłem, ale... wiesz jak to się kończy. Mam nadzieję, że twój ojciec skróci jego wyrok."
+|-
+|'''Zagreus'''
+|"Też mam taką nadzieję. Jeśli go zobaczysz, przekaż mu ode mnie pozdrowienia."
+|-
+! colspan="2" |Achilles About Orpheus 02
+|-
+|'''Zagreus'''
+|"Dobrze widzieć, że Orfeusz do nas wrócił. Nic się nie zmienił. Czy on zawsze taki był?"
+|-
+|'''Achilles'''
+|"Zgaduję, że nie. Nigdy nie znałem go za życia, lecz odkąd się poznaliśmy, zawsze był typem melancholika. A tych kilka razy, gdy słyszałem, jak śpiewa...? To było piękne. Nie jestem zaskoczony tym, że twój ojciec go tu zatrzymał."
+|-
+! colspan="2" |Achilles With Hades 01
+|-
+|'''Achilles'''
+|"...Poprosiłeś, abym go trenował, Panie. Przygotował na trudy życia. Tak rozkazałeś! A teraz mnie strofujesz?"
+|-
+|'''Hades'''
+|"Uważaj na swój ton i temperament, Zjawo. Pracujesz dla mnie. Mógłbyś zamiast tego przemierzać pastwiska Elizjum. Albo jakiekolwiek inne miejsce, jeśli tak zadecyduję."
+|-
+|'''Achilles'''
+|"...Co chcesz, bym uczynił?"
+|-
+|'''Hades'''
+|"Pomyślę nad tym. Do tego zaś czasu pilnuj tego korytarza. A także pilnuj się."
+|-
+! colspan="2" |Achilles With Hades About Myrmidon Reunion Quest 01
+|-
+|'''Hades'''
+|"...Rozumiem, że warunki twojego zatrudnienia zostały zmienione w moim imieniu, Zjawo. Bądź wdzięczny, że nie masz takiej pozycji, która wymaga mojego osobistego upoważnienia. Choć nadal jesteś moim pracownikiem, zgadza się?"
+|-
+|'''Achilles'''
+|"Z tego co wiem, to tak, Panie. Przyrzekłem wieczną służbę temu Domowi, z tym że... wygląda na to, że teraz mogę swobodnie zobaczyć Elizjum od czasu do czasu. Poza godzinami pracy, rzecz jasna."
+|-
+|'''Hades'''
+|"Jakże łagodne robią te pakty w dzisiejszych czasach. Jesteś teraz po godzinach pracy, czyż nie jest tak? Idź więc, skorzystaj z nowego warunku."
+|-
+! colspan="2" |Achilles With Megaera 01
+|-
+|'''Megaera'''
+|"...Co tam masz, Zjawo? Wygląda mi to na kontrabandę."
+|-
+|'''Achilles'''
+|"Tak jest, Pani. Cieszę się, że tu jesteś, bo może będziesz w stanie mi pomóc szybko się tego pozbyć."
+|-
+|'''Megaera'''
+|"Zróbmy to zatem bezzwłocznie. Zanim pojawią się obawy związane z obecnością tego w Domu."
+|-
+! colspan="2" |Achilles With Megaera 02
+|-
+|'''Megaera'''
+|"...Wiesz, on musi być gdzieś w Elizjum. Gdzieżby indziej mógłby się podziać?"
+|-
+|'''Achilles'''
+|"Zdaję sobie z tego sprawę, Pani. Chodzi o to, że... myślę, że mamy inne sprawy do załatwienia, takie jak... opróżnienie zawartości tej kontrabandy."
+|-
+|'''Megaera'''
+|"Rozumiem. W porządku. Ale pewnego dnia będziesz musiał stawić czoła swym lękom związanym z tym wszystkim. Zachowujesz się tak, jakbyś nie był w stanie się w to zaangażować, choć jest już na to trochę za późno."
+|-
+! colspan="2" |Achilles With Megaera About Myrmidon Reunion Quest 01
+|-
+|'''Megaera'''
+|"...Odnalazłeś go wreszcie? Z powodu Zaga? To... jakże to dla ciebie pomyślne, Zjawo."
+|-
+|'''Achilles'''
+|"O Pani, z pewnością jest to więcej, niż na to zasługuję. Choć być może dobrze się składa, że zapomniana zjawa zostanie tam umieszczona wraz z innymi. Nie będę ci wtedy sprawiał kłopotów."
+|-
+|'''Megaera'''
+|"Cóż, jeśli twoje podróże zabiorą cię z tego Domu, to... jesteś niczym więcej jak tylko Zjawą, a więc... będą inni, ale... uważaj na siebie, ok?"
+|-
+! colspan="2" |Achilles With Persephone 01
+|-
+|'''Persephone'''
+|"...To zaszczyt cię poznać, wielki Achillesie. Nasz królewski strażniku! Dobrze jest wiedzieć, do kogo można się zwrócić, gdyby wybuchł tu jakiś konflikt. Więc to ty trenowałeś mojego syna w kwestii sztuki walki?"
+|-
+|'''Achilles'''
+|"W rzeczy samej, Wasza Miłość. Był utalentowanym uczniem. Gdybyś tylko mogła zobaczyć jego postępy. Na pewno byłabyś bardzo dumna."
+|-
+|'''Persephone'''
+|"''Jestem ''dumna! Wiesz, byłeś już dosyć znany na powierzchni, kiedy jeszcze mieszkałam na Olimpie. Twoja sława musiała dotrzeć o wiele dalej od tamtej pory!"
+|-
+|'''Achilles'''
+|"Och, wątpię w to... ale dziękuję ci, Wasza Miłość."
+|-
+! colspan="2" |Achilles Chat 01
+|-
+|'''Achilles'''
+|"Pamiętaj o swoim treningu, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 02
+|-
+|'''Achilles'''
+|"Nie mam najmniejszych wątpliwości, że ci się powiedzie."
+|-
+! colspan="2" |Achilles Chat 03
+|-
+|'''Achilles'''
+|"Idź naprzód, młodzieńcze, uczyń, co musisz uczynić."
+|-
+! colspan="2" |Achilles Chat 04
+|-
+|'''Achilles'''
+|"Będę mieć na wszystko oko pod twoją nieobecność."
+|-
+! colspan="2" |Achilles Chat 05
+|-
+|'''Achilles'''
+|"Nie ociągaj się dłużej niż to konieczne, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 06
+|-
+|'''Achilles'''
+|"Nie pozostało mi nic, czego mógłbym cię nauczyć, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 07
+|-
+|'''Achilles'''
+|"Walcz tak, jakbyś miał tylko jedno życie."
+|-
+! colspan="2" |Achilles Chat 08
+|-
+|'''Achilles'''
+|"Walcz tak, jakbym ja tam walczył."
+|-
+! colspan="2" |Achilles Chat 09
+|-
+|'''Achilles'''
+|"Nie wracaj zbyt szybko, jeśli jest to w twej mocy, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 10
+|-
+|'''Achilles'''
+|"Gdy będziesz w terenie, pozwól, by twoje instynkty przejęły nad tobą kontrolę."
+|-
+! colspan="2" |Achilles Chat 11
+|-
+|'''Achilles'''
+|"Dom jest bezpieczny, młodzieńcze. Ruszaj."
+|-
+! colspan="2" |Achilles Chat 12
+|-
+|'''Achilles'''
+|"Doświadczenie jest najlepszym nauczycielem, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 13
+|-
+|'''Achilles'''
+|"Wracaj tam na zewnątrz i dokończ to, co zacząłeś, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 14
+|-
+|'''Achilles'''
+|"Wraz z Nyks mamy wszystko pod kontrolą."
+|-
+! colspan="2" |Achilles Chat 15
+|-
+|'''Achilles'''
+|"Błędy to okazja do nauki, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 16
+|-
+|'''Achilles'''
+|"Idź do swego pokoju, Zagreusie."
+|-
+! colspan="2" |Achilles Chat 17
+|-
+|'''Achilles'''
+|"Osłaniam cię. Bez względu na wszystko."
+|-
+! colspan="2" |Achilles Chat 18
+|-
+|'''Achilles'''
+|"Przygotuj się, młodzieńcze. I spróbuj jeszcze raz."
+|-
+! colspan="2" |Achilles Chat 19
+|-
+|'''Achilles'''
+|"Nie ma czegoś takiego jak pomniejsi bogowie, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 20
+|-
+|'''Achilles'''
+|"Jeśli kiedykolwiek będzie coś, co mogę zrobić, wystarczy, że zapytasz."
+|-
+! colspan="2" |Achilles Chat 21
+|-
+|'''Achilles'''
+|"Nie ma takiej rzeczy, której nie jesteś w stanie osiągnąć. Jestem tego pewien."
+|-
+! colspan="2" |Achilles Chat 22
+|-
+|'''Achilles'''
+|"Nie odrzucaj swego życia, tak jak ja to uczyniłem, młodzieńcze."
+|-
+! colspan="2" |Achilles Chat 23
+|-
+|'''Achilles'''
+|"Świadomość, że znalazłeś coś, o co warto walczyć, przynosi mi radość."
+|-
+! colspan="2" |Achilles Chat 24
+|-
+|'''Achilles'''
+|"Dasz radę, młodzieńcze. Niech Mojry będą przeklęte."
+|-
+! colspan="2" |Achilles Chat 25
+|-
+|'''Achilles'''
+|"Masz dobre serce, młodzieńcze. Słuchaj go."
+|-
+! colspan="2" |Achilles Chat With Megaera 01
+|-
+|'''Megaera'''
+|"Ta Zjawa właśnie raczyła mnie opowieściami o słynnej wojnie."
+|-
+|'''Achilles'''
+|"Obawiam się, że z jakiegoś powodu większość moich opowieści kręci się wokół rozlewu krwi..."
+|-
+! colspan="2" |Achilles Chat With Megaera 02
+|-
+|'''Megaera'''
+|"...Włócznia jest dobra w odpowiednich rękach, ale nie powstrzyma bicza."
+|-
+|'''Achilles'''
+|"Muszę przyznać, O Pani, że nie mam wystarczającego doświadczenia przeciwko takiej broni, by obalić twoje roszczenia. Na całe szczęście."
+|-
+! colspan="2" |Achilles Chat With Megaera 03
+|-
+|'''Megaera'''
+|"...Otwórz kolejną butelkę, kiedy skończysz z tą tutaj, Zjawo."
+|-
+|'''Achilles'''
+|"Jak sobie życzysz, O Pani! Wybacz nam, młodzieńcze."
+|-
+! colspan="2" |Achilles Gift 01
+|-
+|'''Zagreus'''
+|"Hej, Achillesie, słuchaj - to naprawdę niewiele, ale... proszę."
+|-
+|'''Achilles'''
+|"To naprawdę dla mnie? Uprzedziłeś mnie w takim razie, bo przy następnej okazji miałem podarować ci tę oto rzecz. Proszę, przyjmij to."
+|-
+! colspan="2" |Achilles Gift 02
+|-
+|'''Achilles'''
+|"Nie, to dla mnie? Naprawdę nie trzeba było. Ależ mnie rozpieszczasz...!"
+|-
+|'''Zagreus'''
+|"Po prostu uważam, że zasługujesz na więcej, niż tu na dole masz, Achillesie."
+|-
+! colspan="2" |Achilles Gift 03
+|-
+|'''Achilles'''
+|"Co, dla mnie...? Nie mogę przyjąć czegoś takiego, młodzieńcze, wiesz o tym."
+|-
+|'''Zagreus'''
+|"Daj spokój, Achillesie, pożyj trochę... na tyle na ile jesteś w stanie. Nikomu nie powiem, jeśli i ty tego nie zrobisz."
+|-
+! colspan="2" |Achilles Gift 04 A
+|-
+|'''Achilles'''
+|"''Ach'', no to dopiero coś, młodzieńcze. Nie chciałbym myśleć, że wróciłeś tu tylko po to, by mi to wręczyć. Choć naprawdę jestem wdzięczny."
+|-
+|'''Zagreus'''
+|"Zawsze mnie wspierałeś, Achillesie. Nawet gdy odtrącił mnie Ojciec. To jest nic. Nie sądzę, bym kiedykolwiek mógł ci się odpłacić."
+|-
+! colspan="2" |Achilles Gift 05 A
+|-
+|'''Achilles'''
+|"Młodzieńcze, cała ta hojność, ja... nie chcę, byś mnie źle zrozumiał. Jestem sam, tak, lecz moje serce należy do innego. Od czasów, gdy jeszcze żyłem. Mam nadzieję, że rozumiesz."
+|-
+|'''Zagreus'''
+|"Ja... jakimś sposobem wiedziałem, że tak jest, Achillesie. Chciałem, abyś i tak to przyjął, tylko... nie top swoich smutków, bo zdają się one dodawać ci sił."
+|-
+|'''Achilles'''
+|"Zatem dziękuję. I nie martw się o mnie. Już dawno minął mój smutek i gniew, które początkowo czułem, gdy moje serce zostało złamane. Teraz to tylko kolejna blizna. Mawiają, że to nasze blizny nadają nam charakteru."
+|-
+! colspan="2" |Achilles Gift 05 B
+|-
+|'''Achilles'''
+|"Młodzieńcze, cała ta hojność, ja... jestem jedynie starym zabójcą, a mimo to traktujesz mnie jak kogoś z rodziny królewskiej. To ostatnie czego bym się spodziewał, gdy po raz pierwszy postawiłem swą stopę w tym Domu."
+|-
+|'''Zagreus'''
+|"Byłeś wielkim herosem, Achillesie i wiesz co? Nadal jesteś! I zawsze będziesz, jeżeli o mnie chodzi. Zasługujesz na o wiele więcej, niż tylko to. Chciałbym móc zrobić coś więcej."
+|-
+|'''Achilles'''
+|"Dziękuję ci zatem i nie martw się o mnie. Mam szczęście, że tu jestem, a poza tym... nauczyciel nie mógłby sobie zażyczyć lepszego ucznia."
+|-
+! colspan="2" |Achilles Gift 06 A
+|-
+|'''Zagreus'''
+|"Achillesie, zastanawiałem się, czy nie zechciałbyś, abyśmy podzielili się tym w salonie. Mała wymówka dla nas obu, żeby zrobić sobie przerwę?"
+|-
+|'''Achilles'''
+|"Jesteś całkowicie pewien, że masz teraz dla mnie czas, młodzieńcze...? Aczkolwiek, jakże mógłbym odmówić. Widzimy się na miejscu."
+|-
+|'''Achilles'''
+|"...Widzisz - byłem głupcem. Bogowie obiecali mi po śmierci wieczną chwałę. Mogłem trzymać się z dala od wojny. Mogłem zostać w domu z Patroklesem. A wszystko to odrzuciłem. I wysłałem tu tak bardzo wielu ludzi."
+|-
+|'''Zagreus'''
+|"Co się stało, to się nie odstanie, szanowny panie. Dla mnie jesteś najwspanialszym wojownikiem, jaki kiedykolwiek żył. A zatem, czy to chwały wciąż szukasz, czy też Patroklesa?"
+|-
+|'''Achilles'''
+|"Już nie szukam chwały, młodzieńcze. Tego jestem pewien. A co do Patroklesa... cóż, obawiam się, że jest już na zawsze poza moim zasięgiem. Choć jego zjawa może jeszcze znajdować się w tym królestwie, to rozstaliśmy się w okolicznościach, których na jego miejscu bym sobie nie wybaczył. Ale... myślę, że może lepiej wrócę już na swoje stanowisko."
+|-
+|'''Achilles'''
+|"...Mam nadzieję, że nie uczyniłem atmosfery jeszcze bardziej grobowej tam w salonie. Jestem bardzo wdzięczny, że mieliśmy okazję nadrobić zaległości. A teraz lepiej już uciekaj! Uważaj tam na siebie."
+|-
+! colspan="2" |Achilles Gift 07 A
+|-
+|'''Zagreus'''
+|"Achillesie, pomyślałem sobie, że mógłbyś z tego skorzystać następnym razem, jak będziesz w Elizjum. Że mógłbyś się tym podzielić."
+|-
+|'''Achilles'''
+|"Ambrozja... cóż, jestem zaszczycony, młodzieńcze, doprawdy. Choć to ja powinienem obdarowywać cię wspaniałymi podarunkami za to, co dla mnie zrobiłeś, a nie odwrotnie. I tak się składa, że mam tu taki, w imieniu moim i Pata."
+|-
+! colspan="2" |Achilles Gift 08 A
+|-
+|'''Zagreus'''
+|"Ciężko o kogoś, kto zasługuje na to bardziej niż ty, szanowny panie. Więc następnym razem gdy będziesz po służbie lub gdy nadarzy się ku temu okazja, proszę, naciesz się tym, w porządku?"
+|-
+|'''Achilles'''
+|"Przypuszczam, że tak to jest być bogiem, młodzieńcze. Otrzymywać tego rodzaju czułości. I dostawać podarki! Jesteś pewien?"
+|-
+|'''Zagreus'''
+|"Och, jestem całkowicie pewien. Nigdy nie byłbym nawet w połowie tak przygotowany na wszystko, czemu musiałem stawić czoła, gdyby nie twoje wskazówki. I nie mam tu na myśli tylko kwestii związanych z przemocą."
+|-
+|'''Achilles'''
+|"Daj spokój, młodzieńcze. Trzeba przyznać, że byłem w tym całkiem dobry, ale nie byłem nikim więcej, jak tylko zabójcą. Uważałbym na moje porady, gdybym był tobą."
+|-
+|'''Zagreus'''
+|"Widzisz, właśnie dlatego dajesz takie dobre rady, takie jak ta!"
+|-
+! colspan="2" |Achilles Gift 09 A
+|-
+|'''Zagreus'''
+|"Proszę, szanowny panie. Dla ciebie i Patroklesa. Niech pozostała część wieczności bardziej niż wynagrodzi wam to, co musieliście przejść, by dotrzeć tak daleko."
+|-
+|'''Achilles'''
+|"Och, dziękuję ci, młodzieńcze. Książę. Zagreusie. Naprawdę nie trzeba było. Tak właściwie, to przyjmę to od ciebie po raz kolejny, ale już ani butelki więcej."
+|-
+|'''Zagreus'''
+|"Naprawdę? Znaczy się... nie chciałem cię obrazić, rzecz jasna, tylko... myślałem, że to wam smakuje, czyż nie?"
+|-
+|'''Achilles'''
+|"Smakuje nam, nawet bardzo, tak naprawdę. Ale w Elizjum... to jest coś, na co trzeba zasłużyć bardziej niż przyjąć, no i... cóż... być może pobyt tam sprawia, że powraca trochę naszej dawnej dumy."
+|-
+|'''Zagreus'''
+|"Cóż, dobrze. Masz wiele powodów, aby być dumnym, Achillesie. Jesteś świetnym wojownikiem. Świetnym trenerem. Świetnym przyjacielem."
+|-
+|'''Achilles'''
+|"...Jeżeli faktycznie jest coś, z czego mogę być dumny, młodzieńcze... to fakt, że ktoś taki jak ty może powiedzieć mi coś takiego, co pochodzi z głębi serca."
+|-
+! colspan="2" |Achilles Gift 04
+|-
+|'''Achilles'''
+|"Daję słowo. Jakże miło z twojej strony, że o mnie pomyślałeś, młodzieńcze."
+|-
+|'''Zagreus'''
+|"Przynajmniej tyle mogę zrobić w zamian za twoje porady, szanowny panie."
+|-
+! colspan="2" |Achilles Gift 07
+|-
+|'''Achilles'''
+|"Z tego powodu cały Dom będzie mi zazdrościć - dziękuję ci, młodzieńcze. Mam nadzieję, że nie będziesz mieć nic przeciwko, jeśli trochę się tym podzielę z innymi?"
+|-
+|'''Zagreus'''
+|"To jest twoje, Achillesie! Choć nie tylko mam nadzieję, że podzielisz się z innymi, ale właściwie nawet na to nalegam."
+|-
+! colspan="2" |Nyx With Achilles 01
+|-
+|'''Achilles'''
+|"...Uczyniłem wszystko, co mogłem, przygotowując go. Boję się jednak, że to nie wystarczy. Nikomu nigdy nie udało się uciec z tego miejsca."
+|-
+|'''Nyx'''
+|"Twoje nauki go na to przygotowały, Achillesie. Jednak czuję, że to twoja wiara w niego popycha go naprzód. Nie trać swej pewności siebie, ażeby i on nie stracił swojej."
+|-
+! colspan="2" |Nyx With Achilles 02
+|-
+|'''Achilles'''
+|"...Dobrze go wychowałaś, O Nocy. Wiesz o tym, mam nadzieję? Choć nie jestem w stanie sobie wyobrazić, żebyś nawet ty mogła przewidzieć taki rezultat. Dziękuję ci... że uczyniłaś to wszystko możliwym. Dla nas wszystkich."
+|-
+|'''Nyx'''
+|"Tobie należą się podziękowania za ten rezultat tak samo jak i mnie. Być może nawet bardziej. Jako że ja nie miałam innego wyboru, niż tylko służyć temu Domowi. Zostałam stworzona w tym królestwie i jest dla mnie wszystkim. Ale ty? Kwestii twojej lojalności nie można było zakładać z góry."
+|-
+|'''Achilles'''
+|"''Och'', no nie wiem. Czułem, że również nie miałem wyboru, jak tylko służyć temu Domowi. A przynajmniej na początku. Ale trenowanie Księcia... przygotowywanie go... czułem, jakbym znowu miał po co żyć. Jakkolwiek dziwnie to może brzmieć."
+|-
+|'''Nyx'''
+|"W każdym razie, biorąc pod uwagę okoliczności twego życia i służebności, nie musiałeś aż tyle z siebie dawać. Wielkość z twych śmiertelnych dni podążyła za tobą do grobu."
+|-
+! colspan="2" |Nyx With Achilles After Myrmidon Reunion Quest 01
+|-
+|'''Achilles'''
+|"...Nigdy nie będę w stanie odpłacić ci się za to, co uczyniłaś, O Nocy. Wiedz jedynie, że jest to dla mnie zaszczyt, by móc nadal służyć tu dla ciebie."
+|-
+|'''Nyx'''
+|"Jestem pewna, że zupełnie nie wiem o co ci chodzi, Achillesie. Jednakże twoja dalsza służba jest bardzo mile widziana. Cały zaszczyt jest po mojej stronie."
+|-
+! colspan="2" |Orpheus With Achilles 01
+|-
+|'''Orpheus'''
+|"...Jesteś o wiele za skromny, Lordzie Achillesie, jak na kogoś z tak pokaźną liczbą heroicznych czynów i wspaniałych dekapitacji na swym koncie! Powinieneś być bardziej jak wiecznie przechwalający się Zagreus i rozgłaszać to wszem i wobec!"
+|-
+|'''Achilles'''
+|"Och, nie obawiaj się, Orfeuszu, swego czasu już wystarczająco się przechwalałem. I popatrz tylko dokąd mnie to zaprowadziło? Poza tym, nie mam na tyle wyobraźni, by wymyślać tak niestworzone opowieści, jak te naszego Księcia Zagreusa."
+|-
+! colspan="2" |Orpheus With Achilles 02
+|-
+|'''Orpheus'''
+|"...Czy brakuje ci tego, szanowny Lordzie Achillesie? Tej świeżości powietrza. Potrzeby spożywania posiłków kilka razy dziennie i tym podobnych."
+|-
+|'''Achilles'''
+|"Już to ledwo pamiętam, mój przyjacielu. Choć twe pieśni czasem przywołują wspomnienia. Myślę, że przywykłem do tego, jak się teraz sprawy mają. Lecz ty chyba nie do końca?"
+|-
+|'''Orpheus'''
+|"Och, nie, wręcz przeciwnie, jestem wielce zadowolony. Mamy przeogromne szczęście, że znaleźliśmy zatrudnienie nawet po śmierci. Wyobraź sobie tylko: wiecznie odpoczywać, podczas gdy mógłbyś pracować!"
+|-
+! colspan="2" |Patroclus With Achilles 01
+|-
+|'''Achilles'''
+|"Tak myślałem, że możemy na ciebie wpaść, ale... jakże to dziwne stanąć tu z tobą twarzą w twarz, młodzieńcze. I samemu zobaczyć to miejsce. Wciąż nie do końca mogę w to wszystko uwierzyć..."
+|-
+|'''Patroclus'''
+|"Naprawdę nie może. Choć powtarzam mu, że to prawda. Nic nie da się osiągnąć bez ryzyka, czyż nie jest tak? Ale rzecz jasna, to tobie należą się dzięki, nieznajomy. Nasze problemy nie powinny być twoim zmartwieniem."
+|-
+|'''Zagreus'''
+|"Bzdura, szanowny panie. Jesteś moim przyjacielem. A Achilles... Nie wiem, co by to ze mną było, gdyby nie ty."
+|-
+|'''Patroclus'''
+|"Cóż, nie ma potrzeby się rozczulać, czyż nie? My myrmidonowie nie jesteśmy zbytnio uczuciowi. Achilles ma zwyczajnie przerwę, to wszystko. Od wymagającej pracy. Ty również masz wymagającą pracę, więc proszę! Mój zwyczajowy podarunek."
+|-
+! colspan="2" |Patroclus With Achilles 02
+|-
+|'''Patroclus'''
+|"No proszę, któż by inny jak nie stróż Achillesa przybył nas odwiedzić. Nie wiem jak mogę ci się kiedykolwiek odpłacić, nieznajomy. Jestem praktycznie pewien, że nie jest to możliwe."
+|-
+|'''Achilles'''
+|"Doszedłem do mniej więcej tego samego wniosku, Pat."
+|-
+|'''Zagreus'''
+|"A może po prostu gdy tędy przechodzę, będziesz mi nadal oferował te ekskluzywne towary, które nie są ci przydatne i uznamy, że jesteśmy kwita, szanowny panie?"
+|-
+|'''Patroclus'''
+|"Miałem taki plan tak czy siak, aczkolwiek... jeżeli w którymś momencie przyjdzie ci do głowy coś innego, proszę, daj znać któremuś z nas."
+|-
+! colspan="2" |Patroclus With Achilles 03
+|-
+|'''Patroclus'''
+|"Dobrze, tu jesteś, nieznajomy. Pomóż nam szybko coś ustalić, hm? Czy Achilles nie byłby doskonałym Czempionem Elizjum? Gdyż myślę, że niemalże każdy byłby lepszy niż ten obecny."
+|-
+|'''Achilles'''
+|"Myślę, że wolałbym raczej nadal trzymać wartę na niemalże pustym korytarzu, niż walczyć z tymi wszystkim zjawami, Pat."
+|-
+|'''Zagreus'''
+|"Ja również znacznie bardziej wolę zmagać się z Tezeuszem niż z tobą, Achillesie. Choć nie oznacza to, że nie zgadzam się, że niemal każdy byłby lepszy w tej roli niż on."
+|-
+|'''Patroclus'''
+|"Wygląda na to, że jestem przegłosowany. Ale umiem rozpoznać dobry materiał na Czempiona, gdy takiego widzę, a widzę go teraz."
+|-
+|}

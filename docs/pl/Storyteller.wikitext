@@ -1,0 +1,1066 @@
+{| class="wikitable"
+|+
+! colspan="2" |Inspect House 01
+|-
+|'''Storyteller'''
+|"''Dom Hadesa: Ta ciemna i wystawnie urządzona jama Króla Podziemi jest domem nie tylko dla niego, ale również dla jego nieposłusznego potomka.''"
+|-
+! colspan="2" |Inspect Lounge Closed 01
+|-
+|'''Storyteller'''
+|"''To co niegdyś było niewielkim salonem w Domu Hadesa, jest teraz zamknięte - całkowicie pogrążone w kompletnym bałaganie po tym, jak wielogłowy Cerber rozniósł to miejsce na strzępy w rozpaczy po zaginionym Księciu.''"
+|-
+! colspan="2" |Inspect Shades 01
+|-
+|'''Storyteller'''
+|"''Zjawy umarłych nieustannie przetaczają się przez Dom, narzekając na swoje nieszczęścia i poszukując audiencji u każdego, kto gotów jest ich wysłuchać.''"
+|-
+! colspan="2" |Inspect Lounge Open 01
+|-
+|'''Storyteller'''
+|"''Salon w Domu Hadesa to ponure miejsce - pomimo jego zamierzonego celu, jakim było ożywienie posępnych mieszkańców Domu.''"
+|-
+! colspan="2" |Inspect Employee Of The Month 01
+|-
+|'''Storyteller'''
+|"''Tablica pamiątkowa zdobi jedną ze stoickich ścian na terenie salonu, celebrując i obwieszczając osiągnięcia tych, którzy najlepiej służą Lordowi Hadesowi.''"
+|-
+! colspan="2" |Inspect Cellar 01
+|-
+|'''Storyteller'''
+|"''Starożytne beczki z winem ukryte w zakamarkach domu Lorda Hadesa... niewielu skosztowało odurzającego rocznika, który zawierają, a jeszcze mniej może przebywać w ich pobliżu.''"
+|-
+|'''Storyteller'''
+|"''Beczki z winem w Domu Hadesa są teraz prawie całkowicie pozbawione zawartości, po odważnym przeciwstawianiu się połączonemu pragnieniu bogów Olimpu podczas pewnej uczty.''"
+|-
+! colspan="2" |Inspect Olympus Sculpture 01
+|-
+|'''Storyteller'''
+|"''Majestatyczna, pozłacana struktura Olimpu wykonana z największą dbałością ze skały pochodzącej z samej góry, obecnie lśni wiecznym blaskiem nawet pośród ciemnego oświetlenia Domu Hadesa, jako prezent pożegnalny od rodziny Pana i Władcy.''"
+|-
+! colspan="2" |Inspect Mural 01
+|-
+|'''Storyteller'''
+|"''Rozległa i zawile wykonana mozaika przedstawia Króla Podziemi, który stoi na czele ogromu swojej posiadłości, oraz jego chtonicznych mieszkańców patrzących na niego z podziwem.''"
+|-
+! colspan="2" |Inspect Throne 01
+|-
+|'''Storyteller'''
+|"''Rzadko przytłaczający tron posępnego Lorda Hadesa pozostaje pusty, dlatego mieszkańcy Domu zajmują się swoimi sprawami, nie mając nawet odwagi spytać o przyczynę tego stanu.''"
+|-
+! colspan="2" |Inspect House Garden 01
+|-
+|'''Storyteller'''
+|"''Ogród Królowej Persefony niedostępny dla Księcia przez całe jego życie, został mu wreszcie ujawniony w całej swej okazałości.''"
+|-
+! colspan="2" |Flashback 02
+|-
+|'''Storyteller'''
+|"''Zapuszcza się w stronę majestatycznego tronu swego Lorda Ojca, na wpół oczekując przyłapania, a na wpół obawiając się tego, co tam znajdzie.''"
+|-
+! colspan="2" |Flashback 03
+|-
+|'''Storyteller'''
+|"''Nie do końca wie, czego poszukuje. Wie jedynie, że zawsze wydawało mu się, że coś jest nie tak; że to nie jego miejsce. Kim tak naprawdę jest? Lord Hades nigdy nie pozwoliłby na takie pytania. Dlatego Książę Zagreus dowie się wszystkiego sam.''"
+|-
+! colspan="2" |Flashback 04
+|-
+|'''Storyteller'''
+|"''Przetrząsa dobytek swego Lorda Ojca. Nie ma tam jednak nic ważnego. Księgi rachunkowe i pergaminy administracyjne. Korespondencja z Olimpu, którą zignorował. Brak jakichkolwiek śladów odniesień do jego syna.''"
+|-
+! colspan="2" |Flashback 05
+|-
+|'''Storyteller'''
+|"''A wtem, znajduje notatkę... zapisaną starannie pismem i głosem, którego Książę nigdy nie widział ani nie słyszał.''"
+|-
+|'''Persephone'''
+|"''"Hadesie: Nie jestem w stanie dłużej znieść tego, jak wygląda moje życie w tym miejscu. A zatem odchodzę, nawet jeśli miałoby mnie to zabić. Nie wracam na Olimp. Jeśli istnieje dla mnie jakieś miejsce na tym świecie, to musi ono być gdzieś między niebem a piekłem. Być może jest na wybrzeżu i ma niewielki ogród. Dbaj o Cerbera; będę za nim tęsknić. -- Persefona''"
+|-
+|'''Storyteller'''
+|"''Tym samym, Książę Podziemi - Zagreus - wchłonął zawartość tego ukrytego listu, zapisanego ręką jego matki.''"
+|-
+|'''Zagreus'''
+|"Ręką jego matki, ręką mojej matki - moment, ''co''?! Chcesz powiedzieć, że ta Persefona, że jest moją... matką...? Ale Ojciec zawsze powtarzał, że Nyks była moją... Co za kłamca. Okłamał mnie. Obydwoje mnie okłamywali. Przez całe moje życie!"
+|-
+|'''Storyteller'''
+|"''Uch, yyy, tym samym Książę odkrył, nieumyślnie, dotychczas dobrze skrywaną tajemnicę swojego rodowodu. Stało się to zupełnym przypadkiem....''"
+|-
+! colspan="2" |Flashback 06
+|-
+|'''Storyteller'''
+|"''Persefona... niegdyś Królowa Podziemi... dokąd się udała i dlaczego? Pochłonięty nowo odkrytymi pytaniami i szałem, Książę postanowił skonfrontować się ze swym Lordem i Panem.''"
+|-
+! colspan="2" |Flashback Day Night Job 02
+|-
+|'''Storyteller'''
+|"''Odrzucający odpowiedzialność Zagreus kroczy korytarzem swego Ojca, nie przejmując się zbytnio tym, że w okolicznościach takich jak te oczekuje się od niego natychmiastowej reakcji.''"
+|-
+! colspan="2" |Flashback Day Night Job 03
+|-
+|'''Storyteller'''
+|"''Drzwi do komnaty administracyjnej wzywają tuż za holem. Książę jest przekonany, że może wejść cicho, bez zwracania uwagi tych, którzy pracują wewnątrz.''"
+|-
+! colspan="2" |Inspect House Pillars 01
+|-
+|'''Storyteller'''
+|"''Spośród niezliczonej ilości wspaniałych kryształów ukrytych pod powierzchnią ziemi, znaczna część została użyta, by ozdobić Dom Hadesa, boga umarłych, boga przepychu.''"
+|-
+! colspan="2" |Inspect North Fountain 01
+|-
+|'''Storyteller'''
+|"''Woda jest źródłem życia, a mimo to wciąż płynie w najciemniejszych zakamarkach Podziemi, podczas gdy niespokojne zjawy śmiertelników spoglądają na nią i przypominają sobie te krótkie dni, kiedy mogły się jej napić i złapać oddech.''"
+|-
+! colspan="2" |Inspect South Fountain 01
+|-
+|'''Storyteller'''
+|"''Dzierżący kryształy Książę zlecił dla Domu tak wspaniale wykonaną fontannę, że od tamtej pory wszystkie będące tego świadkami zjawy wciąż czule o nim myślą.''"
+|-
+! colspan="2" |Inspect Cauldron 01
+|-
+|'''Storyteller'''
+|"''Umarli nie mają kompletnie żadnego pożytku z pożywienia, choć i tak usiłują się nim posilać, tak jakby wyobrażanie sobie zwyczajów śmiertelnego życia przynosiło im pewnego rodzaju poczucie spokoju.''"
+|-
+! colspan="2" |Inspect Kitchen Island
+|-
+|'''Storyteller'''
+|"''Pomimo kosztownych inwestycji w przestrzeń do gotowania wewnątrz Domu Hadesa, będący o pustym żołądku Zagreus nie jest w stanie znaleźć nic odpowiedniego do jedzenia.''"
+|-
+! colspan="2" |Inspect Poet Bust 01
+|-
+|'''Storyteller'''
+|"''W Domowej galerii znajduje się teraz popiersie wybitnego poety, niezwykle przystojnego jak na swój wiek, który, choć jeszcze nie zdobył przeznaczonej mu sławy, prawdopodobnie będzie kiedyś bardziej znany.''"
+|-
+! colspan="2" |Inspect Asphodel Statue 01
+|-
+|'''Storyteller'''
+|"''Przerażające oblicze wyblakłego Bezkrwistego wojownika zdobi korytarz po wsze czasy, wiecznie w hołdzie brutalnym sługom Domu pana.''"
+|-
+! colspan="2" |Inspect Warrior Statue 01
+|-
+|'''Storyteller'''
+|"''Doskonale wyrzeźbiona muskulatura jednego z największych greckich herosów zdobi Domową galerię, przypominając większości oglądających, w jak wielu kwestiach mu nie dorównują.''"
+|-
+! colspan="2" |Inspect Main Hall Fireplace 01
+|-
+|'''Storyteller'''
+|"''Światło dawane przez płomienie najgłębszych piekielnych czeluści okrasza salon łagodnym blaskiem; a ich ciepło uspokaja jego nielicznych mieszkańców.''"
+|-
+! colspan="2" |Inspect Sundial 01
+|-
+|'''Storyteller'''
+|"''Czas wydaje się stać w miejscu w wiecznym królestwie umarłych, czego dowodzą nawet sposoby mierzenia jego upływu.''"
+|-
+! colspan="2" |Flashback Mother 01
+|-
+|'''Storyteller'''
+|"''Jest sam środek nocy, czy też jej przybliżenie w królestwie Hadesa. Książę Podziemi, Zagreus, powstaje z niespokojnej drzemki z mnóstwem psotnych myśli chodzących mu po głowie.''"
+|-
+! colspan="2" |Flashback Day Night Job 01
+|-
+|'''Storyteller'''
+|"''Mocno śpiący Książę Podziemia powstaje z uczuciem, że krótka drzemka, którą planował jako wytchnienie od rygorów dnia lub nocy, najwyraźniej wcale nie była taka krótka...''"
+|-
+! colspan="2" |Inspect Bedroom 01
+|-
+|'''Storyteller'''
+|"''Sypialnia Księcia Zagreusa znajduje się w ciągłym stanie całkowitego chaosu - i to pomimo faktu, iż jego Lord i Pan Domu wielokrotnie nalegał, by Zagreus wszystko tu posprzątał.''"
+|-
+! colspan="2" |Inspect Bedroom Trojan Arms
+|-
+|'''Storyteller'''
+|"''Potrzaskana broń z oblężenia Ilionu została zredukowana do funkcji ozdób w wiecznie zagraconym legowisku Księcia.''"
+|-
+! colspan="2" |Inspect Bedroom Achilles Poster
+|-
+|'''Storyteller'''
+|"''Męstwo wielkodusznego Achillesa uwiecznione zostało na ścianie Księcia - jak gdyby mogło ono wzbudzić jeszcze więcej wewnętrznej odwagi.''"
+|-
+! colspan="2" |Inspect Bedroom Aphrodite Poster
+|-
+|'''Storyteller'''
+|"''Oblicze bogini Afrodyty zdobi teraz sypialnię Księcia, być może zapewniając mu pociechę po każdej kolejnej śmierci.''"
+|-
+! colspan="2" |Inspect Bedroom Dionysus Poster
+|-
+|'''Storyteller'''
+|"''Wiecznie uśmiechnięta, obmyta winem podobizna wielkiego Lorda Dionizosa zdobi teraz ścianę Książęcej komnaty, promieniując w ten sposób wątpliwymi wpływami.''"
+|-
+! colspan="2" |Inspect Bedroom Scrying Pool
+|-
+|'''Storyteller'''
+|"''Pięknie udekorowana, subtelnie zaczarowana misa zawierająca ślady nieszczęsnych prób ucieczki Księcia z Podziemi, teraz podkreśla szczególnie zagracony zakątek jego pokoju.''"
+|-
+! colspan="2" |Inspect Bedroom Lyre
+|-
+|'''Storyteller'''
+|"''Delikatnie wykonany instrument do tworzenia muzyki znajduje się teraz w zagraconej komnacie Księcia, bez wątpienia obawiając się - gdyby był w stanie - jego ciężkiego dotyku.''"
+|-
+! colspan="2" |Inspect Bedroom Gaming Table 01
+|-
+|'''Storyteller'''
+|"''Obiekt misternie wyrzeźbiony wyłącznie do celów rekreacyjnych znajduje się teraz w komnacie poszukującego rozrywki Księcia, chociaż brak przeciwnika ogranicza jego atrakcyjność.''"
+|-
+! colspan="2" |Inspect Bedroom Rug 01
+|-
+|'''Storyteller'''
+|"''Niezwykła miękkość tego bogato zdobionego, ręcznie utkanego dywanu nie może być w pełni odczuwalna dla Księcia o płomiennych stopach.''"
+|-
+! colspan="2" |Inspect Bedroom Fancy Bed
+|-
+|'''Storyteller'''
+|"''Ze swoją idealną miękkością i wyszyciem w tematyce śmierci, nowe posłanie Księcia Zagreusa jest przedmiotem zazdrości wszystkich tych, którzy pragną spoczywać w pokoju.''"
+|-
+! colspan="2" |Inspect Bedroom Couch 01
+|-
+|'''Storyteller'''
+|"''Nieustannie energiczny Książę niestety pozostaje niezdolny, by spokojnie usiąść, nawet na tak miękkim, komfortowym siedzeniu ustawionym teraz w rogu jego komnaty.''"
+|-
+! colspan="2" |Inspect Bedroom Weights 01
+|-
+|'''Storyteller'''
+|"''Masywny zestaw ciężarów starannie ułożony na linii wzroku wszystkich odwiedzających, niewątpliwie sprawi, że pomyślą, iż Książę jest silniejszy i w lepszej formie niż w rzeczywistości.''"
+|-
+! colspan="2" |Inspect Bedroom Quest Log
+|-
+|'''Storyteller'''
+|"''Kuszący los Książę zapewne wierzy, że był to jego własny wybór, aby otrzymać Listę Mniejszych Przepowiedni Mojr, ale było to z góry ustalone.''"
+|-
+! colspan="2" |Flashback 01
+|-
+|'''Storyteller'''
+|"''Wszystko ucichło o tej porze; wiecznie śniący Hypnos rzucił na Dom zaklęcie, zgodnie z prośbą nieposłusznego Zagreusa. Wszyscy mocno śpią, za wyjątkiem Księcia. Jest dokładnie tak, jak to sobie zaplanował.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Portrait 01
+|-
+|'''Storyteller'''
+|"''W bardzo prywatnych komnatach swego Lorda Ojca, Książę Zagreus odkrywa najdelikatniej namalowaną podobiznę nikogo innego, jak samej Persefony. Powłoka kurzu sugeruje, że stoi tu od jakiegoś czasu.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Capes 01
+|-
+|'''Storyteller'''
+|"''Stoicki Lord i Pan tego Domu posiada bogactwo, którego nie można sobie wyobrazić, a którego część wykorzystał do stworzenia świeżego zestawu ubrań na każdy mijający dzień.''"
+|-
+! colspan="2" |Inspect Death Area Office Teleporter 01
+|-
+|'''Storyteller'''
+|"''W zakamarkach komnaty administracyjnej znajduje się Najstarsza Pieczęć Domu Pana: symbol nadanej przez Mojry władzy, by rządzić pod ziemią, a także sposób przemieszczania się po całej tej mrocznej krainie.''"
+|-
+! colspan="2" |Inspect Death Area Office Water Cooler 01
+|-
+|'''Storyteller'''
+|"''Chłodne, oczyszczone wody Styksu są dostępne w nieograniczonej ilości dla wszystkich sług boga umarłych upoważnionych do nieskończonej pracy w komnacie administracyjnej Domu.''"
+|-
+! colspan="2" |Inspect Death Area Office Poster 01
+|-
+|'''Storyteller'''
+|"''Bez przerwy pracujące zjawy komnat administracyjnych pozostają całkowicie oddane ich niewdzięcznym trudom, a wszystko z powodu inspirującej interpretacji tego, jak bardzo powinny być one oddane.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 01
+|-
+|'''Storyteller'''
+|"''Wśród pergaminowych zapisów dotyczących umarłych i ukaranych znajdują się zapieczętowane dokumenty znane jako Wyrok Szelmowskiego Króla, zmuszającego ów króla do niekończącego zmagania się z głazem po kres czasu.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 02
+|-
+|'''Storyteller'''
+|"''Wśród narastających stosów administracyjnych pergaminów odnoszących się do tych, którzy już od dawna nie żyją, leży stary dokument dotyczący specjalnego paktu podpisanego przez niegdyś żyjącego nadwornego muzyka, który na próżno próbował uratować swoją żonę od śmierci.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 03
+|-
+|'''Storyteller'''
+|"''Zakopana głęboko w archiwach, które zawierają wiele wiążących paktów między Lordem Hadesem a umarłymi, znajduje się stara umowa; usługi nadzwyczajnego wojownika w zamian za wieczność w Elizjum dla jego drogiego partnera.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 01
+|-
+|'''Storyteller'''
+|"''Trwające dzień lub noc dyżury są same w sobie bardzo proste; przynajmniej na początku, jak wtedy gdy książę po prostu podpisuje się, aby zasygnalizować rozpoczęcie swojej zmiany.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 02
+|-
+|'''Storyteller'''
+|"''Często ponoszący porażkę książę próbuje uporządkować rejestry w sposób niezbędny do prawidłowego prowadzenia królestwa swego ojca.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 03
+|-
+|'''Storyteller'''
+|"''Wysiłki niewyszkolonego księcia w uzyskiwaniu zatwierdzeń na warunki wyroków pozostawiają bezsprzecznie wiele do życzenia.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 04
+|-
+|'''Storyteller'''
+|"''Ciężko pracujące zjawy odpowiedzialne za kwestie administracyjne królestwa spoglądają jedynie na nieudolne próby księcia.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 05
+|-
+|'''Storyteller'''
+|"''Kochający wypoczynek książę nigdy nie poświęcał wystarczająco dużo uwagi, aby porządnie nauczyć się, jak prowadzić rejestr regionów królestwa swego ojca.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 06
+|-
+|'''Storyteller'''
+|"''Ten zestaw delikatnych obowiązków jest łatwo osiągalny, przynajmniej dla kogoś zdolnego i wyszkolonego do pracy, w przeciwieństwie do często rozproszonego Księcia Podziemi.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 07
+|-
+|'''Storyteller'''
+|"''Należy starannie rejestrować wszystkie wydatki ponoszone w Domu; ostrożny proces z tabelami, którego książę nie jest w stanie w pełni się podjąć.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 08
+|-
+|'''Storyteller'''
+|"''Stale aktualizowana księga dochodów Domu w postaci błyszczących kryształów, diamentów, Ciemności i tym podobnych, jest zaledwie tylko jednym z najmniej lubianych przez księcia aspektów jego pracy.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 09
+|-
+|'''Storyteller'''
+|"''Zapisy wygasłych remontów Wykonawcy Domu piętrzą się na biurku w komnacie administracyjnej, ale książę nie ma teraz absolutnie żadnej chęci, aby uporządkować je alfabetycznie, według daty.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 10
+|-
+|'''Storyteller'''
+|"''Należy zweryfikować zapisy obecności zjaw ciężko pracujących dla Domu - szybko zatwierdzić należne im wynagrodzenie - a mimo tego książę nie jest w stanie spamiętać wszystkich niezbędnych kroków.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 11
+|-
+|'''Storyteller'''
+|"''Niedbały Książę Zagreus spogląda na niekończące się stosy pergaminów - gdzie każdy zawiera szczegóły związane z pracą, które należy zarejestrować i starannie uporządkować - i zaczyna odczuwać, że jego optymizm zanika.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 12
+|-
+|'''Storyteller'''
+|"''Książę Zagreus musi mieć jakieś ulubione zadania w komnacie administracyjnej Domu, ale z pewnością żadne z nich nie obejmuje zadań wymagających tutaj jego uwagi.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 13
+|-
+|'''Storyteller'''
+|"''Rozpatrywanie list roszczeń zjaw z zażaleniami jest bardzo ważną usługą Domu, a przynajmniej to Lord Hades niegdyś starał się wpoić swemu nieposłusznemu synowi.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 14
+|-
+|'''Storyteller'''
+|"''Litanie skarg składanych przez niespokojne zjawy z całych Podziemi muszą być ocenione, uporządkowane i rozpatrzone, ale książę Zagreus nawet nie wie, od czego zacząć.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 15
+|-
+|'''Storyteller'''
+|"''Zapasy na wszystkich biurkach w komnacie administracyjnej muszą być skrupulatnie utrzymywane i starannie rozmieszczone w specyficzny sposób, którego zapominalski książę jeszcze w pełni nie zapamiętał.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 16
+|-
+|'''Storyteller'''
+|"''Raporty o bezpieczeństwie dotyczące nieudanych prób ucieczki z Tartaru wymagają terminowej weryfikacji i oficjalnej odpowiedzi - Książę Zagreus nie jest w stanie zapewnić żadnej z nich.''"
+|-
+! colspan="2" |Flashback Day Night Job Office Conclusion 01
+|-
+|'''Storyteller'''
+|"''Wreszcie, nielubiący pracy książę zapisuje podsumowanie wyników swoich starań, które mogą w jakimś stopniu sprostać potrzebom administracyjnym ponurego Domu jego ojca.''"
+|-
+! colspan="2" |Inspect Pre Run 01
+|-
+|'''Storyteller'''
+|"''Dziedziniec Domu Hadesa utrzymywany jest w czystości i porządku - w przeciwieństwie do przerażającej konurbacji leżącej poza jego granicami.''"
+|-
+! colspan="2" |Minotaur Autograph 01
+|-
+|'''Minotaur'''
+|"''Ach'', przeczuwam, że czeka nas kolejna zaciekła walka, mały. Aczkolwiek jesteś bardziej dociekliwy, niż zazwyczaj..."
+|-
+|'''Zagreus'''
+|"''Eee'', och! Chodzi o to... mam nietypową prośbę. Bo widzisz... bóg snu, Hypnos? Mój kolega. Ogromny fan. Rozpaczliwie potrzebuje twojego autografu. Skrobniesz mu kilka słów? Pewnie nie będziesz aż tak dobry. To by wiele dla niego znaczyło."
+|-
+|'''Minotaur'''
+|"Autograf. Rozumiem. Wygląda na to, że istnieją przychylni mi bogowie. Poświęcę zatem kawałek pergaminu dla twojego kolegi."
+|-
+|'''Storyteller'''
+|"''Opuszczony przez bogów Minotaur wystosowuje zatem na pergaminie krótką wiadomość dla boga snu i podaje proszącemu o przysługę Księciu.''"
+|-
+|'''Minotaur'''
+|"Wiedz, mały, że wyświadczam przysługę tobie, a nie Hypnosowi. Choć może on sam wyzwać mnie na pojedynek, w każdej chwili."
+|-
+! colspan="2" |Hades Misc Meeting 07
+|-
+|'''Hades'''
+|"No własnym oczom nie wierzę - czy to ty, chłopcze?! Cerberze, spójrz kto to - on wrócił!"
+|-
+|'''Storyteller'''
+|"''Cerber z żalem patrzy na Księcia.''"
+|-
+|'''Zagreus'''
+|"Nie ma potrzeby wciągać w to psa, Ojcze."
+|-
+|'''Hades'''
+|"Wszystko co masz do powiedzenia mnie, możesz powiedzieć przy Cerberze! Może nawet nauczysz się od niego czegoś o słuchaniu, a także o posłuszeństwie!"
+|-
+! colspan="2" |Cerberus Misc Meeting 01
+|-
+|'''Storyteller'''
+|"''Piekielny pies stróżujący, Cerber, przypatruje się Księciu Podziemi z mieszanymi emocjami - od najczystszej radości, po najgłębszą melancholię.''"
+|-
+|'''Zagreus'''
+|"Przypilnuj wszystkiego dla mnie, co, piesku? Wiesz, że zabrałbym cię ze sobą, gdybym tylko mógł."
+|-
+! colspan="2" |Cerberus Misc Meeting 02
+|-
+|'''Zagreus'''
+|"Jak się miewasz, piesku - dobrze ostatnimi czasy jadasz? Wszystkie trzy pyszczki pełne i wesołe?"
+|-
+|'''Storyteller'''
+|"''Każda przerażająca paszcza piekielnego psa stróżującego, Cerbera, odpowiada twierdząco - jedna po drugiej. Jakby po to, by uspokoić powątpiewającego Księcia.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 03
+|-
+|'''Zagreus'''
+|"Spokojnie, piesku. Pewnie wrócę tu, zanim się obejrzysz."
+|-
+|'''Storyteller'''
+|"''Pies stróżujący Cerber dąsa się tylko w swym miękkim posłaniu.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 04
+|-
+|'''Zagreus'''
+|"Miej oko na Ojca, piesku. Nie pozwól mu popsuć wszystkim nastroju."
+|-
+|'''Storyteller'''
+|"''Na swój sposób Cerber obiecuje uczynić właśnie coś takiego.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 05
+|-
+|'''Zagreus'''
+|"Jak tam ostatnio, piesku? Co dobrego słychać?"
+|-
+|'''Storyteller'''
+|"''Przelotne pytanie Księcia Podziemi jedynie frustruje piekielnego psa, gdyż żadna z jego trzech głów nie posiada daru i klątwy mowy.''"
+|-
+! colspan="2" |Cerberus Run Progress 01
+|-
+|'''Zagreus'''
+|"Hej, piesku, to tylko znowu ja. Daję znać, że na zewnątrz jest dość niebezpiecznie, nawet bez ciebie przez cały czas na warcie."
+|-
+|'''Storyteller'''
+|"''Sędziwy pies piekielny ledwie zauważa łagodnie wyrażony przez Księcia komunał, mając pełną świadomość, że Podziemia nie są tak pilnie strzeżone, jak za dawnych czasów.''"
+|-
+! colspan="2" |Cerberus Run Progress 02
+|-
+|'''Zagreus'''
+|"Zgadnij co, piesku! Ostatnim razem udało mi się dotrzeć aż do Asfodelu! W pełni rozumiem, dlaczego nigdy ci się tam nie podobało. A teraz znowu wracam na szlak, jak sądzę. Trzymaj się!"
+|-
+|'''Storyteller'''
+|"''Pomimo optymizmu Księcia Podziemi, jego stary towarzysz Cerber - wielogłowy pies piekielny - utrzymuje na razie dość ponure nastawienie.''"
+|-
+! colspan="2" |Cerberus Run Progress 03
+|-
+|'''Zagreus'''
+|"Hej, dobrze cię widzieć tutaj z powrotem, piesku. Cieszę się, że wróciłeś na wartę! Nawet jeśli oznacza to konieczność znalezienia sposobu na prześlizgnięcie się obok ciebie. Wiem, że po prostu wykonujesz swoją pracę."
+|-
+|'''Storyteller'''
+|"''Wywołujący strach pies z piekła rodem niespokojnie przypatruje się Księciu Podziemi, a wszystkich sześć jego oczu lśni w mrocznym świetle Domu.''"
+|-
+! colspan="2" |Cerberus About Fast Travel 01
+|-
+|'''Zagreus'''
+|"Mam nadzieję, że nie przeszkadzam ci zbytnio tymi moimi ostatnimi wizytami w Świątyni, piesku. Powiedz, jak wracasz? Charon cię podrzuca?"
+|-
+|'''Storyteller'''
+|"''W ten sposób Książę zadaje swoje pytanie o strażnika piekielnych bram doskonale wiedząc, że wielogłowy potwór trzyma się z dala od przewoźnika, jak czynią to wszyscy z odrobiną zdrowego rozsądku.''"
+|-
+! colspan="2" |Cerberus About Ball 01
+|-
+|'''Zagreus'''
+|"Lubisz wpatrywać się w tę piłkę, którą ci dałem, piesku? Nie ma w tym frajdy, jeżeli nie próbuje walczyć, co..."
+|-
+|'''Storyteller'''
+|"''Stworzony z piekieł wielogłowy potwór nie odczuwa żadnej palącej potrzeby, by marnować swój drogocenny czas na zwykłe zabawki, znacznie bardziej woląc zachowywać swe przepastne zasoby energii na wypadek, gdyby zaszła potrzeba nagłego pożarcia intruzów.''"
+|-
+! colspan="2" |Cerberus Lounge Closed 01
+|-
+|'''Zagreus'''
+|"Naprawdę rozerwałeś salon na strzępy, piesku? Mam nadzieję, że nie wpakowałeś się w zbyt duże kłopoty. Przykro mi, że tak cię zmartwiłem."
+|-
+|'''Storyteller'''
+|"''Dręczony winą potworny Cerber przyznaje się do popełnionego przestępstwa, wyrażając przy tym pewne wyrzuty sumienia z powodu uwikłania podżegającego Księcia.''"
+|-
+! colspan="2" |Cerberus Lounge Open 01
+|-
+|'''Zagreus'''
+|"Hej, widziałeś, piesku? Stary salon jest już jak nowy - powinieneś go zobaczyć! Tylko go nie zniszcz, jak ostatnim razem."
+|-
+|'''Storyteller'''
+|"''Każde z dzikich obliczy Cerbera zapala się na tę wieść - bez wątpienia rozpoczynając knowania nad strategiami ponownego spustoszenia salonu.''"
+|-
+! colspan="2" |Cerberus About Underworld Renovations 01
+|-
+|'''Zagreus'''
+|"Hej, piesku. Mam nadzieję, że cała ta budowa i remont nie były ostatnio dla ciebie zbyt niewygodne. Ale hej, możesz znowu doszczętnie zniszczyć salon!"
+|-
+|'''Storyteller'''
+|"''Książę Zagreus zaszczepia wrażliwemu, okrutnemu stróżowi Podziemi nowy apetyt na kolejne zniszczenia, które zostaną zaspokojone w innym wieku.''"
+|-
+! colspan="2" |Cerberus About Being Best Boy 01
+|-
+|'''Zagreus'''
+|"Wiesz, po tym jak umrę w jakiś nędzny sposób, głaskanie mojego dobrego pieska z pewnością pomaga mi stanąć na nogi. Dziękuję, że mnie wspierasz."
+|-
+|'''Storyteller'''
+|"''Żarzące się ślepia potwornego Cerbera, okrytego złą sławą ogara piekieł, wskazują na to, że on również z chęcią ulega głaskaniu, o którym to mówi Książę Podziemi, a wręcz jest niezmiernie wdzięczny za jego ilość.''"
+|-
+! colspan="2" |Cerberus About Persephone 01
+|-
+|'''Zagreus'''
+|"Odnalazłem ją, piesku! Moją matkę! Persefonę, pamiętasz ją, czyż nie? Cieszyła się na wieść o tobie. Ale nie mogłem zostać na długo i muszę ją ponownie odnaleźć, więc... zdaje się, że widzimy się zatem ponownie w Świątyni?"
+|-
+|'''Storyteller'''
+|"''Upiorne oblicza obdarzonego wielce złą sławą piekielnego ogara momentalnie łagodnieją na wzmiankę o pewnym imieniu; zatem, na krótką chwilę, potwór jest spokojny.''"
+|-
+! colspan="2" |Cerberus Post Ending 01
+|-
+|'''Zagreus'''
+|"Cóż, spójrz tylko na siebie, piesku! Nigdy nie widziałem cię aż tak ożywionego, metaforycznie mówiąc, rzecz jasna - taki duży, twardy gość jak ty. Musiałeś tęsknić za Matką tak samo, jak ona tęskniła za tobą. Cóż, możecie teraz bez przeszkód nadrabiać stracony czas!"
+|-
+|'''Storyteller'''
+|"''Potworna trójgłowa bestia Hadesa zapewne nie posiadałby się z czystej radości ze względu na szczęśliwe okoliczności, gdyby tylko była do tego zdolna.''"
+|-
+! colspan="2" |Cerberus Post Ending 02
+|-
+|'''Zagreus'''
+|"Pewnie cieszysz się, że Matka znowu jest w Domu, co, piesku? Szkoda tylko, że nie powiedziałeś mi o niej wcześniej."
+|-
+|'''Storyteller'''
+|"''Potwór z piekła rodem - Cerber - z zadowoleniem ignoruje nieczułą, nieuprzejmą uwagę Księcia.''"
+|-
+! colspan="2" |Cerberus Extreme Measures Reaction 01
+|-
+|'''Zagreus'''
+|"''Uff'', ale mi pokazałeś tam na górze, piesku. Z Ojcem na powierzchni? Wiem, że to była tylko zabawa, ale... odpuść mi trochę następnym razem, dobrze?"
+|-
+|'''Storyteller'''
+|"''Zatwardziały potwór Cerber jest całkowicie niezdolny do okazywania czy to umiaru, czy to skruchy.''"
+|-
+! colspan="2" |Cerberus Post Epilogue 01
+|-
+|'''Zagreus'''
+|"Jesteśmy z ciebie wszyscy bardzo dumni, piesku! Tak dobrze się zachowywałeś podczas uczty. Obawiałem się, że jeden czy drugi wuj cię rozwścieczy, ale byłeś Wcieleniem Cierpliwości. Dzięki, że pomogłeś dalszej części naszej rodziny dobrze się bawić!"
+|-
+|'''Storyteller'''
+|"''Jak diabelny Cerber, piekielny ogar, był w stanie zachowywać się w cywilizowany sposób przez cały czas trwania ostatniej uczty, pozostaje tajemnicą dla wszystkich, którzy brali w niej udział.''"
+|-
+! colspan="2" |Cerberus Chat 02
+|-
+|'''Storyteller'''
+|"''Książę i Cerber wymieniają spojrzenia.''"
+|-
+! colspan="2" |Cerberus Chat 03
+|-
+|'''Storyteller'''
+|"''Pies stróżujący, Cerber, obserwuje Księcia.''"
+|-
+! colspan="2" |Cerberus Chat 04
+|-
+|'''Storyteller'''
+|"''Cerberowi nie można w tym momencie przeszkadzać.''"
+|-
+! colspan="2" |Cerberus Chat 05
+|-
+|'''Storyteller'''
+|"''Cerber wygodnie odpoczywa, wszystkich obserwując.''"
+|-
+! colspan="2" |Cerberus Chat 06
+|-
+|'''Storyteller'''
+|"''Cerber leży, jak zawsze, u stóp tronu swego Lorda Pana.''"
+|-
+! colspan="2" |Cerberus Chat 07
+|-
+|'''Storyteller'''
+|"''Cerber nawet nie próbuje się poruszyć.''"
+|-
+! colspan="2" |Cerberus Chat 08
+|-
+|'''Storyteller'''
+|"''Cerber pracowicie zastanawia się nad tym, co by tu jeszcze przegryźć.''"
+|-
+! colspan="2" |Cerberus Chat 09
+|-
+|'''Storyteller'''
+|"''Cerber zajmuje się swoimi sprawami: w tym wypadku - ogryzaniem.''"
+|-
+! colspan="2" |Cerberus Chat 10
+|-
+|'''Storyteller'''
+|"''Cerber jest zajęty - drapaniem i podgryzaniem się.''"
+|-
+! colspan="2" |Cerberus Chat 11
+|-
+|'''Storyteller'''
+|"''Cerber nie jest w tym momencie zainteresowany rozmową.''"
+|-
+! colspan="2" |Cerberus Chat 12
+|-
+|'''Storyteller'''
+|"''Piekielny pies spoczywa spokojnie w swoim ulubionym miejscu.''"
+|-
+! colspan="2" |Cerberus Chat 13
+|-
+|'''Storyteller'''
+|"''Wszystkie trzy przerażające oblicza stróżującego psa Cerbera witają Księcia.''"
+|-
+! colspan="2" |Cerberus Chat 14
+|-
+|'''Storyteller'''
+|"''Pilnujący bram śmierci pies o trzech wściekłych obliczach, wyszczekuje krótkie przywitanie.''"
+|-
+! colspan="2" |Cerberus Chat 15
+|-
+|'''Storyteller'''
+|"''Zawsze wierny Cerber odpoczywa niewzruszenie na swoim miejscu.''"
+|-
+! colspan="2" |Cerberus Chat 16
+|-
+|'''Storyteller'''
+|"''Okryty złą sławą okrutny Cerber po cichu obserwuje dwór swego Pana.''"
+|-
+! colspan="2" |Cerberus Chat 17
+|-
+|'''Storyteller'''
+|"''Jedna z przerażających paszczy Cerbera pracowicie pielęgnuje pozostałe dwie.''"
+|-
+! colspan="2" |Cerberus Chat 18
+|-
+|'''Storyteller'''
+|"''Trójgłowy potwór Cerber posłusznie siedzi na swym miejscu.''"
+|-
+! colspan="2" |Cerberus Chat 19
+|-
+|'''Storyteller'''
+|"''Wielogłowy Cerber intensywnie myśli o swym kolejnym smakowitym posiłku.''"
+|-
+! colspan="2" |Cerberus Chat 20
+|-
+|'''Storyteller'''
+|"''Cerber obrzuca Księcia spojrzeniem pełnym ukształtowanego na przestrzeni czasu uczucia.''"
+|-
+! colspan="2" |Cerberus Chat 21
+|-
+|'''Storyteller'''
+|"''Piekielny pies stróżujący warczy na ospałe Zjawy tłoczące się po dworze.''"
+|-
+! colspan="2" |Cerberus Chat 22
+|-
+|'''Storyteller'''
+|"''Przerażający Cerber bez końca liże coś znajdującego się na podłodze.''"
+|-
+! colspan="2" |Cerberus Chat Extra 01
+|-
+|'''Storyteller'''
+|"''Piekielny ogar ledwie zwraca uwagę na Księcia, póki co zaspokoiwszy swój głód.''"
+|-
+! colspan="2" |Cerberus Chat Extra 02
+|-
+|'''Storyteller'''
+|"''Okrutny trzygłowy Cerber pokazuje trochę umiaru, na razie.''"
+|-
+! colspan="2" |Cerberus Chat Extra 03
+|-
+|'''Storyteller'''
+|"''Cerber jest zbyt zajęty życiem w dostatku, aby zważać na cokolwiek.''"
+|-
+! colspan="2" |Cerberus Chat Extra 04
+|-
+|'''Storyteller'''
+|"''Potworny Cerber siedzi czujny na swoim posłaniu.''"
+|-
+! colspan="2" |Cerberus Chat Extra 05
+|-
+|'''Storyteller'''
+|"''Każda dzika paszcza Cerbera ślini się w oczekiwaniu na kolejny czas karmienia.''"
+|-
+! colspan="2" |Cerberus Chat Extra 06
+|-
+|'''Storyteller'''
+|"''Przerażający Cerber jest zajęty zbieraniem sił na kolejny raz, kiedy to stanie na drodze Księcia.''"
+|-
+! colspan="2" |Cerberus Gift 01
+|-
+|'''Zagreus'''
+|"Spójrz, co dla ciebie mam, piesku...!"
+|-
+|'''Storyteller'''
+|"''Podczas gdy jedna z głów Cerbera odbiera prezent Księcia, inna wciska mu coś z powrotem w dłoń.''"
+|-
+! colspan="2" |Cerberus Gift 02
+|-
+|'''Zagreus'''
+|"Dobry piesek... tak myślałem, że ci się to spodoba!"
+|-
+|'''Storyteller'''
+|"''Cerber jest zachwycony, że otrzymał tak smakowity poczęstunek.''"
+|-
+! colspan="2" |Cerberus Gift 03
+|-
+|'''Zagreus'''
+|"Tylko najlepsze przekąski dla mojego najlepszego przyjaciela, prawda, piesku?"
+|-
+|'''Storyteller'''
+|"''Cerber wyje z radości, że otrzymał tak hojny dar.''"
+|-
+! colspan="2" |Cerberus Gift 04
+|-
+|'''Zagreus'''
+|"Jest to mym uniżonym obowiązkiem zadowalać mojego ulubionego pieska każdym przysmakiem, jaki tylko uda mi się zdobyć."
+|-
+|'''Storyteller'''
+|"''Znając niekończący się apetyt psa stróżującego na przysmaki, Książę zadowala go takowym.''"
+|-
+! colspan="2" |Cerberus Gift 05
+|-
+|'''Zagreus'''
+|"Smakuje ci, prawda, piesku? Cóż, dobrze, bo lubię go dla ciebie przemycać!"
+|-
+|'''Storyteller'''
+|"''Rozkoszny smak Nektaru wystarczy, by choć na chwilę zaspokoić dziki głód ogara piekieł.''"
+|-
+! colspan="2" |Cerberus Gift 06
+|-
+|'''Zagreus'''
+|"Ten Nektar nie jest dla ciebie wystarczająco dobry - czy o to chodzi? Wyrobiłeś sobie na starość całkiem wyrafinowane kubki smakowe!"
+|-
+|'''Storyteller'''
+|"''Pomimo, że pozostało mu mało chęci na lekkość Nektarowego smaku, wielogłowy potwór Podziemi przyjmuje go i tak.''"
+|-
+! colspan="2" |Cerberus Gift 07
+|-
+|'''Zagreus'''
+|"Tak jest, piesku... Ambrozja, specjalnie dla ciebie. Spodoba ci się. W gruncie rzeczy wszyscy, żywi bądź martwi, ją uwielbiają!"
+|-
+|'''Storyteller'''
+|"''Sześcioro ślepi odrażającego ogara piekieł momentalnie szeroko się otwiera po otrzymaniu wyśmienitego podarunku w postaci rzadkiej Ambrozji z Olimpu. Stwór nie posiada się z radości.''"
+|-
+! colspan="2" |Cerberus Gift 08
+|-
+|'''Zagreus'''
+|"To jest to, czyż nie, piesku? Wiem, że jesteś tutaj miedzy młotem a kowadłem i musisz ostrożnie stąpać w kwestii lojalności. Wybacz, że to na ciebie sprowadziliśmy."
+|-
+|'''Storyteller'''
+|"''Kolejna próba Księcia Podziemi do przekupienia potwornego, trójgłowego ogara piekieł, aby go polubił, ponownie okazała się pomyślna, jako że królewski podarunek niebiańskiej Ambrozji jest niezrównany.''"
+|-
+! colspan="2" |Cerberus Gift 09
+|-
+|'''Zagreus'''
+|"Cerberze, nie chciałbym się zbytnio rozczulać, ale... och, kogo ja chcę oszukać. Słuchaj, byłeś przy mnie przez całe moje życie! Wiem, że jesteś tu w domu częściowo z mojego powodu, czyż nie?"
+|-
+|'''Storyteller'''
+|"''Więź pomiędzy ogarem i jego panem jest mocna niczym adamant. Cerber, straszliwy potwór zrodzony z piekła, strażnik jego bram, odpowiada w pierwszej kolejności przed ojcem Księcia. Ale okazuje się, że Książę może być drugi w kolejności.''"
+|-
+|'''Zagreus'''
+|"Jesteś najlepszym pieskiem na całym świecie. Nawet jeśli głowy Beta i Gamma nie przepadają za głaskaniem, co nie? Mam go jednakże mnóstwo przygotowanego dla ciebie. Możesz na to liczyć."
+|-
+! colspan="2" |Cerberus Styx Meeting 01
+|-
+|'''Storyteller'''
+|"''Wielogłowy Cerber stoi czujnie przy wejściu do Podziemi; opowieści o tym, co dzieje się z głupcami, którzy próbowali obok niego przejść, są zbyt makabryczne, by je opisywać.''"
+|-
+|'''Zagreus'''
+|"A zatem, naprawdę do tego to się sprowadza, piesku? Po tym wszystkim co razem przeszliśmy? Cóż, jeśli tak ma być, to chyba nie pozostaje mi nic innego do powiedzenia. Z wyjątkiem: ''Broń się''!!"
+|-
+|'''Zagreus'''
+|"''Hahaha'', nie, ale tak na poważnie, piesku. Wiem, czemu tu jesteś. Musi być jakiś sposób na to, byś spojrzał w drugą stronę. A gdybym pomógł ci rozwiązać twój problem z Satyrami, przepuściłbyś mnie? Proszę. Muszę odnaleźć Persefonę... moją matkę. Wiesz, co to dla mnie znaczy."
+|-
+|'''Storyteller'''
+|"''Po chwili zawahania i namysłu, nienasycony piekielny ogar szczeka raz, na potwierdzenie, w kierunku Księcia, który z kolei udaje się na poszukiwanie czegoś, co może zaspokoić apetyt potwora.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock 01
+|-
+|'''Zagreus'''
+|"W porządku, piesku, mam twoją ulubioną przekąskę. Ale musisz obiecać, że mnie przepuścisz, jeśli ci ją oddam, okej?"
+|-
+|'''Storyteller'''
+|"''Przerażający Cerber przyjmuje cuchnący worek i rozgląda się po zaciemnionym korytarzu w poszukiwaniu miejsca, w którym będzie mógł spożyć wykręcającą żołądek zawartość pakunku.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 01
+|-
+|'''Storyteller'''
+|"''Cerber ponownie przyjmuje sakwę.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 02
+|-
+|'''Storyteller'''
+|"''Gigantyczny Cerber przyjmuje paskudną ofiarę Księcia.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 03
+|-
+|'''Storyteller'''
+|"''Wzbudzający strach Cerber przyjmuje sakwę Satyrów.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 04
+|-
+|'''Storyteller'''
+|"''Książę skłania okrutnego strażnika Podziemi, aby się odsunął.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 05
+|-
+|'''Storyteller'''
+|"''Książę przekonuje wielogłowego psa, aby go przepuścił.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 06
+|-
+|'''Storyteller'''
+|"''Tym samym Książę raz jeszcze przekonał straszliwego Cerbera do zejścia mu z drogi.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 07
+|-
+|'''Storyteller'''
+|"''Piekielny pies z radością przyjmuje kolejną sakwę Satyrów.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 08
+|-
+|'''Storyteller'''
+|"''Jedyna słabość potwora, worek Satyrów, po raz kolejny potwierdza swoją skuteczność.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 09
+|-
+|'''Storyteller'''
+|"''Obnażający kły Cerber zwraca wszystkie trzy ze swych uwag na sakwę Satyrów.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 10
+|-
+|'''Storyteller'''
+|"''Piekielny strażnik decyduje, że nadszedł czas na krótką przerwę i przekąskę.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 11
+|-
+|'''Storyteller'''
+|"''Książę Zagreus po raz kolejny oferuje Cerberowi jeden z jego ulubionych worków.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 12
+|-
+|'''Storyteller'''
+|"''Cerber nie rusza się dla nikogo, ale dla sakwy Satyrów może zrobić wyjątek.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 13
+|-
+|'''Storyteller'''
+|"''Czujny Cerber postanawia spojrzeć w drugą stronę, ten jeden raz.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 14
+|-
+|'''Storyteller'''
+|"''Każde brutalne oblicze Cerbera zgadza się, że worek Satyrów musi zostać zniszczony.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 15
+|-
+|'''Storyteller'''
+|"''Po krótkim rozważaniu Cerber stwierdza, że tak, przyjmie worek.''"
+|-
+! colspan="2" |Persephone With Cerberus 01
+|-
+|'''Persephone'''
+|"Och, Cerberze! Bez wątpienia tobie należą się największe podziękowania za to, że ten Dom nadal stoi, prawda? Podobał ci się smakołyk, który przyniosłam ci z powierzchni?"
+|-
+|'''Storyteller'''
+|"''Pochłaniający smakołyki powierzchni piekielny ogar obdarza Królową odpowiedzią najprawdopodobniej twierdzącą.''"
+|-
+|'''Persephone'''
+|"Tak myślałam, że ci posmakuje. Pewnie nawet nie byłbyś w stanie poznać, że to nie jest z mięsa! Zobaczę, czy można wyhodować ci tego jeszcze więcej."
+|-
+! colspan="2" |Persephone With Cerberus 02
+|-
+|'''Persephone'''
+|"Jesteś takim dobrym pieskiem, czyż nie, Cerberze? Tak, jesteś! Chroniłeś tego miejsca, kiedy mnie nie było. I nawet pozwoliłeś mojemu synkowi mnie odwiedzić!"
+|-
+|'''Storyteller'''
+|"''Zawsze czujny i przerażający Cerber zaledwie przyjmuje pochwałę.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''W ciemnych zakamarkach Podziemi znajduje się ukryty ląd Ereb, gdzie umarli oczekują na wydanie ostatecznego wyroku. Pragną oni uwagi i łaski swego Pana - Lorda Hadesa.''"
+|-
+! colspan="2" |Charon Fight 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Ukryty odcinek bezkresnego Styksu przecina zamglony Ereb, zapewniając przewoźnikowi Charonowi miejsce, w którym może zajmować się najbardziej nieposłusznymi duszami.''"
+|-
+! colspan="2" |Inspect B Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''Po przemierzeniu ognistego Flegetonu w celu dotarcia do punktu obserwacyjnego, niestrudzony Zagreus będzie musiał się teraz zmierzyć z niewyobrażalnie bestialskim przeciwnikiem, który już na niego czeka, cierpliwie wyczekując dobrego momentu, by zadać cios.''"
+|-
+! colspan="2" |Inspect B Story 01 01
+|-
+|'''Storyteller'''
+|"''Daleko za ognistą rzeką wznoszą się ukryte schody prowadzące do najlepiej strzeżonej i najwspanialszej krainy w całych Podziemiach: do niebiańskiego Elizjum - domu wiecznego spoczynku najznamienitszych dusz.''"
+|-
+|'''Storyteller'''
+|"''Ze skromnej rezydencji w Asfodelu dobiega aksamitny głos samotnej Eurydyki, która niegdyś próbowała uciec z Podziemi i poniosła bolesną porażkę - podobnie jak Książę Zagreus.''"
+|-
+! colspan="2" |B Mini Boss 02 First Inspect
+|-
+|'''Storyteller'''
+|"''Czarnoksięstwo często kończy się dla nieostrożnych dusz przedwczesną śmiercią i wiecznością w Tartarze, choć niektóre są w stanie udoskonalić się i kontynuować - nawet tutaj...''"
+|-
+! colspan="2" |Inspect B Shop 01 01
+|-
+|'''Storyteller'''
+|"''Palący ogień i popiół Flegetonu nie są problemem dla przewoźnika dusz Charona, który przemierza wszystkie wody Podziemi, przeprawiając przez nie umarłych, potępionych i wszystkie ich kosztowności.''"
+|-
+! colspan="2" |Inspect B Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Jakimś cudem w bezkresie żaru Flegetonu uchowała się odrobina życiodajnej wody - jak gdyby same Mojry ukryły ją tam specjalnie dla mającego szczęście Księcia.''"
+|-
+! colspan="2" |Inspect B Intro 01 01
+|-
+|'''Storyteller'''
+|"''Niegdyś zielone równiny Asfodelu są obecnie pokryte skrzącymi się płomieniami. Zostały zalane przez Flegeton, którego ohydnie przegrzana zawartość potrafi przynieść szybką śmierć nawet tym obdarzonym odpornością na największy skwar.''"
+|-
+! colspan="2" |Inspect B Intro 02
+|-
+|'''Storyteller'''
+|"''Duszący upał Asfodelu jest domem znacznej większości tych, którzy niegdyś żyli na powierzchni. Tutaj wyczekują oni końca czasu.''"
+|-
+! colspan="2" |Inspect C Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''Niezwykle złowieszcze oblicze wielkiego Stadionu Elizjum rozciąga się wysoko ponad siejącym zamęt Księciem, jak gdyby chciało sprowokować go do udziału w turnieju, którego nie może nawet mieć nadziei wygrać.''"
+|-
+! colspan="2" |Inspect C Shop 01 01
+|-
+|'''Storyteller'''
+|"''Ogrom różnorakich bogactw powierzchni i Podziemi gromadzony jest przez przewoźnika dusz - Charona, którego usługi są często oferowane najbogatszym mieszkańcom Elizjum.''"
+|-
+! colspan="2" |Inspect C Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''W delikatnie wyciosanych strukturach Elizjum istnieją miejsca przepełnione spokojem tak dalece błogim i absolutnym, że śmiertelnicy rzadko miewają możność doświadczenia go za swojego zwykle krótkiego i przepełnionego bólem życia.''"
+|-
+! colspan="2" |Inspect C Story 01 01
+|-
+|'''Storyteller'''
+|"''Pośród pokrytych mchem i wyciosanych w skale komnat Elizjum stoją niezliczone ilości wiecznych pomników ku pamięci najwspanialszych bohaterów, których zrodziła śmiertelna ludzkość - oddając im hołd zarówno za życia, jak i po śmierci.''"
+|-
+! colspan="2" |Inspect C Intro 01
+|-
+|'''Storyteller'''
+|"''Rzadka, niebiańska wspaniałość Elizjum, zarezerwowana wyłącznie dla najznamienitszych spośród śmiertelnych dusz, rozciąga się bujnie przed ogniście kroczącym po ziemi Księciem.''"
+|-
+! colspan="2" |Inspect C Intro 02
+|-
+|'''Storyteller'''
+|"''Spowita oparami rzeka zapomnienia - Lete - przepływa przez uświęcone komnaty Elizjum, tłumiąc stare bóle i wspomnienia najszlachetniejszych z zamieszkujących je zjaw.''"
+|-
+! colspan="2" |Inspect Room Secret 01 01
+|-
+|'''Storyteller'''
+|"''Najgłębsze czeluści Podziemi... pustka, z której powstało całe życie i świadomość u zarania dziejów... królestwo Chaosa. Kraina niemalże niewidywana nawet przez mieszkańców królestwa śmierci.''"
+|-
+! colspan="2" |Inspect Room Secret 02 01
+|-
+|'''Storyteller'''
+|"''Bezkresne bezmiary skryte w najciemniejszych zakamarkach Podziemi rozciągają się daleko poza wzrokiem samego Lorda Hadesa. Jednak mimo to, wścibski Książę jakoś odnalazł tu przejście.''"
+|-
+! colspan="2" |Inspect Room Secret 03 01
+|-
+|'''Storyteller'''
+|"''Wewnątrz najbardziej cichej, odosobnionej i ciemnej otchłani Podziemi skrywają się dowody początku wszechrzeczy - Chaosa! Pierwszego, przedwiecznego rzeźbiarza, który ukształtował ten świat.''"
+|-
+! colspan="2" |Inspect D Mini Boss 02 01
+|-
+|'''Storyteller'''
+|"''Wewnątrz pokrytych brudem legowisk wrytych w gmachach Podziemi gromadzą się tak straszliwe obrzydliwości, że nawet ponury Lord Hades nie jest skłonny o nich mówić.''"
+|-
+! colspan="2" |Inspect D Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Głęboko w zbezczeszczonym legowisku plugawiących bogów Satyrów leży cuchnąca zawartość ich bluźnierczych rytuałów - tak ohydna, że nie da się jej opisać.''"
+|-
+! colspan="2" |Inspect D Intro 01 01
+|-
+|'''Storyteller'''
+|"''Wreszcie nieustępliwy Książę dotarł na samą górę, do powierzchni śmiertelnego królestwa, ale nadal zamknięty jest w skorupie samej ziemi: brama Podziemi - granica, za którą nie ma już odwrotu.''"
+|-
+! colspan="2" |Inspect D Hub 01
+|-
+|'''Storyteller'''
+|"''Ogromna Świątynia Styksu i jej niezliczone zagrożenia oddzielają Księcia Podziemi od lądów na zewnątrz, które tak rozpaczliwie pragnie on zobaczyć.''"
+|-
+! colspan="2" |Inspect D Hub 02
+|-
+|'''Storyteller'''
+|"''Niedaleko stąd umarli rozpoczynają swoją podróż do miejsca swego ostatecznego spoczynku w głębinach poniżej; tędy często przepływa Charon, przewoźnik dusz.''"
+|-
+! colspan="2" |Inspect D Hub 03
+|-
+|'''Storyteller'''
+|"''Straszliwy wielogłowy Cerber - strażnik Podziemi - czuwa nad wejściem do tego królestwa, pożerając w całości wszystkich głupców, którzy odważą się spróbować uciec.''"
+|-
+! colspan="2" |Inspect D Hub 04
+|-
+|'''Storyteller'''
+|"''Wymyślnie wyciosana sieć tuneli wyrasta z jednego z chłodnych zboczy Świątyni i mieści okrutnych mieszkańców, którzy nie są mile widziani w tym królestwie - nawet po śmierci.''"
+|-
+! colspan="2" |Inspect E Intro 01 01
+|-
+|'''Storyteller'''
+|"''Powierzchnia - smagana wiatrem, owinięta mroźnym chłodem; pomimo tego budzi w księciu podziw i wzniosłość. Jako że jest niepodobna do niczego, co widział.''"
+|-
+|'''Storyteller'''
+|"''W ukrytych ogrodach Persefony, niegdyś Królowej całych Podziemi, kwitną wszelkiego rodzaju owoce i warzywa. Świat życia, z dala od królestwa umarłych.''"
+|-
+! colspan="2" |A Pre Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Za tą komnatą znajduje się zewnętrzna granica Tartaru, zwiastująca przerażające zagrożenia dalece wykraczające poza wyobrażenia Księcia Podziemi.''"
+|-
+! colspan="2" |A Boss 01 Inspect 01
+|-
+|'''Storyteller'''
+|"''Erynie, znane także jako Furie, są zaufanymi wartownikami Lorda Hadesa, obciążone torturowaniem najgorszych śmiertelników... i pozbywaniem się z Podziemi głupców, którzy wtargnęli tam, gdzie nie powinno ich być.''"
+|-
+! colspan="2" |A Post Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Droga z Tartaru wreszcie została odkryta. Hen wysoko gorąc Flegetonu - rzeki płomienia - jest już delikatnie odczuwalny... podczas gdy zagrożenia czyhają w gotowości.''"
+|-
+! colspan="2" |A Post Boss 01 Gears Inspect 01
+|-
+|'''Storyteller'''
+|"''Nikt, poza tymi, którzy znajdują się w zaufanym wewnętrznym kręgu Lorda Hadesa, nie jest upoważniony do wejścia do wymyślnej komnaty łączącej rozległe rejony Podziemi, ale Książę decyduje się do niej wedrzeć i tak.''"
+|-
+! colspan="2" |A Mini Boss 03 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Najbardziej brutalni nędznicy Tartaru odizolowani są nawet od innych potępionych dusz; ich jedyni goście to głupcy, którzy próbują uciec.''"
+|-
+! colspan="2" |A Mini Boss 04 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Przeklęte, zagubione dusze, które nie mają już gdzie się podziać, łączą się w najgłębszym Tartarze z samą ziemią w obrzydliwe formy, których nie sposób opisać.''"
+|-
+! colspan="2" |A Reprieve 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Miejsce spokoju i wytchnienia, które wydaje się być nie do pomyślenia w Podziemiach, jednakże jest okazjonalnie możliwe do odnalezienia.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''Piekielne wyroby styksowego przewoźnika, Charona, leżą porozkładane, dostępne na sprzedaż dla każdego, kto jest gotów zaspokoić jego wielki apetyt na bogactwa.''"
+|-
+|'''Storyteller'''
+|"''Styks niechlubnie przepływa przez Podziemia, oferując przewoźnikowi Charonowi pospieszną podróż ze świata śmiertelnych do najgłębszych czeluści, gdzie wiele zjaw mieszka po wsze czasy.''"
+|-
+! colspan="2" |Opening First Inspect
+|-
+|'''Storyteller'''
+|"''Składające się z tak licznych, wciąż zmieniających się i połączonych ze sobą komnat, Podziemia Lorda Hadesa są w stanie zagwarantować, że martwi pozostaną tam po wsze czasy.''"
+|-
+! colspan="2" |Opening Proc Gen Hint
+|-
+|'''Storyteller'''
+|"''Za każdym razem, gdy Książę powraca do Podziemi, ich wiecznie zmieniające się komnaty przestawiają się, niwecząc jego wszelkie próby ewentualnego opracowania mapy.''"
+|-
+! colspan="2" |Inspect A Story 01 01
+|-
+|'''Storyteller'''
+|"''W głębinach Tartaru zamieszkują najbardziej przeklęte spośród zjaw, wlekące się przez całą wieczność po Podziemiach, których to Pan i Władca jest szczególnie nieprzychylny dla tych, którzy próbują oszukać śmierć.''"
+|-
+|}

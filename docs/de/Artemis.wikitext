@@ -1,0 +1,884 @@
+{| class="wikitable"
+|+
+! colspan="2" |Zeus With Artemis 01
+|-
+|'''Zeus'''
+|"Nun, Zagreus, sobald du hier bist, müssen wir wohl einen passenden Lebenspartner für dich suchen. So ein feiner junger Mann! Normalerweise ist die Auswahl hier groß, von Ausnahmen abgesehen... Meine listenreiche Tochter, Artemis, zum Beispiel, weigert sich starrsinnig, überhaupt jemanden an ihrer Seite zuzulassen!"
+|-
+|'''Artemis'''
+|"Ja, Zagreus, trotz all dieser perfekten, gut trainierten Kandidaten überall, beseelt von dem Verlangen, mich zu ehelichen oder zu blamieren, ziehe ich es vor, meine Zeit zumeist allein oder mit meinen Nymphenfreundinnen in den Wäldern zu verbringen!"
+|-
+! colspan="2" |Artemis With Zeus 01
+|-
+|'''Artemis'''
+|"Tss, äh, Zagreus ... anstatt dich zu begrüßen, wie ich es normalerweise tun würde, möchte ich dir gern meinen berühmten, freundlichen, großzügigen ehrwürdigen Vater, deinen besten Onkel Zeus vorstellen!"
+|-
+|'''Zeus'''
+|"''Ähm'', danke für die Vorstellung, Tochter, nun räum das Feld, vergnüge dich mit deinen Nymphen, und lass mich meinem Neffen helfen! Schenk ihm deinen schwachen Segen, wenn es denn sein muss."
+|-
+! colspan="2" |Artemis With Poseidon 01
+|-
+|'''Artemis'''
+|"Du hast meinen Vater und meinen Onkel kennengelernt, Zagreus? Ich weiß nicht, welcher der schlimmere von beiden ist. ''Äh''... ich meine natürlich überwältigender! Überwältigend, obwohl er eigentlich die meiste Zeit im Meer zubringt, unter dem Olymp, ist es nicht so, Onkel?"
+|-
+|'''Poseidon'''
+|"Oh, Artemis, du brauchst dich meinetwegen vor Klein-Hades nicht so aufzuspielen! Und überhaupt! Ob du im Meer weilst, darüber oder darunter, ist für dein Ansehen als Gott nun wirklich unerheblich! Ihr beide seid noch jung! Wenn ihr so weitermacht, werdet ihr bald so großartig sein wie ich!"
+|-
+! colspan="2" |Artemis With Aphrodite 01
+|-
+|'''Artemis'''
+|"Hey, ''ähm'', Zagreus! Es gibt da was, das ich gern wissen würde. Aber du darfst mich nicht falsch verstehen, ja? Oh, nein. Sie ist es."
+|-
+|'''Aphrodite'''
+|"Aber nein, Artemis, du bringst ja keinen Ton heraus! Liegt das an unserem kleinen Gott in der Unterwelt oder ein bisschen an mir? ''Ähm'', ich bin sicher, du wirst das schon herausbekommen!"
+|-
+|'''Artemis'''
+|"Schau, was wollte ich, ''urgs'', ist ja auch egal. Ich red das nächste Mal mit dir."
+|-
+! colspan="2" |Artemis With Aphrodite 02
+|-
+|'''Artemis'''
+|"Äh, Zagreus, trotz meines Jagdinstinkts ist es mir offenbar diesmal nicht gelungen, Aphrodite auszuweichen, die darauf bestand, dass wir uns dir gleichzeitig vorstellen, aus welchem Grund auch immer ..."
+|-
+|'''Aphrodite'''
+|"Ich bitte dich, Artemis! Du bist sehr wohl in der Lage, dich zu verstecken, doch ich durchschaue dich. Das nächste Mal könntest du dir selbst gegenüber einfach ehrlich sein, wie wär’s?"
+|-
+! colspan="2" |Artemis With Ares 01
+|-
+|'''Artemis'''
+|"Zagreus, ich wünschte, wir könnten dich alle hören. Dann ließe sich der gute ehrwürdige Ares vielleicht davon überzeugen, dass meine Kräfte für ganz andere Zwecke bestimmt sind als seine!"
+|-
+|'''Ares'''
+|"Möglich, dass unsere Fähigkeiten einst für verschiedene Zwecke gedacht waren, liebe Artemis; doch wer sind wir, das Ergebnis zu bezweifeln? Warte ab, was geschieht, wenn wir unsere vereinten Kräfte in den Dienst unseres Vetters stellen."
+|-
+! colspan="2" |Artemis With Ares 02
+|-
+|'''Artemis'''
+|"Zagreus, ich wollte nur ein bisschen ungestört sein vor dieser Jagd. So hab ich's stets gehalten, nur dass der ehrwürdige Ares beim ersten Anzeichen von Jagdgerät sofort auftaucht, um herumzuschnüffeln!"
+|-
+|'''Ares'''
+|"Aber meine liebe Artemis, die Jagd ist doch nur der Auftakt zum Krieg, oder etwa nicht? Denn wenn die Sterblichen nichts von der Jagd verstünden, na, dann wären sie doch nicht halb so geschickt darin, sich gegenseitig umzubringen."
+|-
+|'''Artemis'''
+|"Hör mal, ehrwürdiger Ares, wenn ich dir bessere Treffsicherheit verleihe, meinst du, du könntest dann jemand anderen belästigen?"
+|-
+! colspan="2" |Artemis With Dionysus 01
+|-
+|'''Artemis'''
+|"Oh, wunderbar, du bist’s, Zagreus! Ich hätte hier ein paar schöne neue Gaben für dich. Und den ehrwürdigen Dionysos, der dir liebend gern ein Ohr abkauen würde, genau wie mir!"
+|-
+|'''Dionysus'''
+|"Eh, sagt mir, ich wäre schrecklich laut und soll verschwinden, lauter fiese Sachen. Kann man wohl nichts machen, oder?"
+|-
+! colspan="2" |Artemis With Demeter 01
+|-
+|'''Artemis'''
+|"Oh, hallo, Zagreus. Gerade wollte ich die ehrwürdige Demeter dazu bewegen, das Schneewetter zu mildern, das schon eine Weile anhält. Leider vergebens. Einige Sterbliche sind es inzwischen leid, und das Jagen macht es auch nicht leichter!"
+|-
+|'''Demeter'''
+|"Die Sterblichen sind einfallsreich, Artemis. Vielleicht ihre einzige löbliche Eigenschaft! Sie werden sich zu helfen wissen und unseren langen Winter überstehen. Das sollten sie, denn sie sind selbst daran schuld."
+|-
+! colspan="2" |Artemis About Rama Aspect 01
+|-
+|'''Artemis'''
+|"Ähm, Zagreus, hast du gerade versucht, mit Coronacht zu plaudern? Du musst dem Bogen sagen ''Ich sehe dich gespannt von den Armen des siebten Avatars! ''Etwas Gutes soll dann folgen, eine Variante eines göttlichen Bogenschützen, nehme ich an? Du wirst es bald versuchen, oder?"
+|-
+! colspan="2" |Artemis About Rama Aspect 02
+|-
+|'''Artemis'''
+|"He, schau einer an! Die Botschaft hat offenbar gewirkt! Ich kann den blanken Bogen praktisch von hier aus sehen! Ich habe Coronacht nie selbst geführt, zumindest noch nicht. Aber wenn mir die Schicksalsgöttinnen Visionen seiner früheren oder späteren Träger senden, muss ich doch einfach irgendwann meine Chance bekommen!"
+|-
+! colspan="2" |Artemis About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Hab dich gefunden, Jägerin. Im Namen von Hades! Olymp, das ist eine offizielle Botschaft! Eigens für dich, ehrwürdige Artemis!"
+|-
+|'''Artemis'''
+|"Eine Art besondere Botschaft für mich ...! Oh, sieht aus, als bekäme jeder auf dem Olymp eine. Einen Moment lang fühlte ich mich geschmeichelt! Und nun zwingst du mich, bei allen anderen vorbeizuschauen. Toll!"
+|-
+! colspan="2" |Artemis Post Epilogue 01
+|-
+|'''Artemis'''
+|"Ich muss zugeben, ich habe mich gut unterhalten bei unserem kleinen Besuch letztens! Habe dich getroffen, Onkel Hades, sogar den großen Achill! Finde zwar nicht gut, dass du uns ausgetrickst hast, doch ''eh''! Darüber komme ich irgendwann hinweg. Wie dem auch sei, du kannst immer noch meine Hilfe gebrauchen, oder?"
+|-
+! colspan="2" |Artemis About Zeus 01
+|-
+|'''Artemis'''
+|"Ah, guter alter Vater Zeus, er hat dich mit seinen Blitzen gesegnet, oder? Immer hat er auf alle ein Auge."
+|-
+! colspan="2" |Artemis About Poseidon 01
+|-
+|'''Artemis'''
+|"Onkel Poseidon gab dir seinen Segen, nicht wahr? Wenn ich mir vorstelle, dass dieser fette Trottel der Bruder deines Vaters ist. Ich soll mich in seiner Nähe respektvoll benehmen, doch das ist schwer."
+|-
+! colspan="2" |Artemis About Athena 01
+|-
+|'''Artemis'''
+|"Du hast wohl Athene schon getroffen? Nie würd ich meinen Bogen gegen all den Prunk und Harnisch tauschen. Na ja, jede, wie sie’s mag."
+|-
+! colspan="2" |Artemis About Ares 01
+|-
+|'''Artemis'''
+|"Du verstehst dich gut mit Ares, oder? Und hier sagte man, das sei unmöglich. An deiner Stelle würde ich mich vor ihm in Acht nehmen."
+|-
+! colspan="2" |Artemis About Aphrodite 01
+|-
+|'''Artemis'''
+|"Aphrodite ist mir also zuvorgekommen. Das sieht ihr ähnlich. Sie macht gern Scherereien, bleiben wir also bei der Sache!"
+|-
+! colspan="2" |Artemis About Dionysus 01
+|-
+|'''Artemis'''
+|"Dieser Säufer und Lüstling Dionysos betrachtet dich als Freund? Ich hoffe, da liegt ein Irrtum vor, Zagreus?"
+|-
+! colspan="2" |Artemis About Hermes 01
+|-
+|'''Artemis'''
+|"Du wirkst besonders flink auf den Beinen, Zagreus. Ich würde ja sagen, dass Hermes selbst dahinter steckt, nur dass ich ihn seit geraumer Zeit nicht gesehen habe."
+|-
+! colspan="2" |Artemis About Demeter 01
+|-
+|'''Artemis'''
+|"Selbst Demeter hat sich jetzt also eingemischt! Hätte ich nicht gedacht. Doch du kannst froh sein, dass dem so ist! Vorausgesetzt, du bleibst in ihrer Gunst, natürlich. Daran arbeite ich selbst noch!"
+|-
+! colspan="2" |Artemis Backstory 01
+|-
+|'''Artemis'''
+|"Es gibt etwas an dir, das mich ein wenig stört. Du kämpfst so verzweifelt. Zuerst dachte ich, dass es dir schlicht an Geduld fehlt. Doch nun weiß ich, dein Antrieb ist Dringlichkeit. Wonach suchst du wirklich ...?"
+|-
+! colspan="2" |Artemis Run Progress 01
+|-
+|'''Artemis'''
+|"Mal sehen. In den letzten Kammern, wenigstens sechs an der Zahl, hast du dich blindlings in die Gefahr gestürzt. Und du hast einen solchen Krach gemacht, dass ich ihn fast vom Olymp hören konnte. Ich muss sagen, deine Jagdmethoden sind eher unkonventionell."
+|-
+! colspan="2" |Artemis Run Progress 02
+|-
+|'''Artemis'''
+|"Ich steh dir bei jedem Schritt zur Seite, bis du hier eintriffst, Zagreus. Dann werde ich dich vermutlich ignorieren wie alle anderen. Nur eine Vorwarnung, klar?"
+|-
+! colspan="2" |Artemis About Vermin 01
+|-
+|'''Artemis'''
+|"Sag mal, hast du letztens Ungeziefer nahe der Oberfläche gejagt, Zagreus? Das ist praktisch genau wie eine echte Jagd! Muss aufregend gewesen sein!"
+|-
+! colspan="2" |Artemis About Vermin 02
+|-
+|'''Artemis'''
+|"Aus dir ist ein richtig versierter Ungezieferjäger geworden, Zagreus! Vielleicht kannst du diese Fähigkeiten ja schon bald gegen würdigere Kreaturen einsetzen."
+|-
+! colspan="2" |Artemis Vs Meg 01
+|-
+|'''Artemis'''
+|"Die Erinye dort unten im Tartaros ist wirklich ein Problem, nicht wahr? Ich erkenne den Instinkt der Jägerin in ihr. Sie glaubt, sie weiß um deine Schwächen. Lass nicht zu, dass du berechenbar wirst."
+|-
+! colspan="2" |Artemis Vs Achilles 01
+|-
+|'''Artemis'''
+|"Hey, ich hab mal gehört, dass der größte Heros des Trojanischen Kriegs beim ehrwürdigen Hades in Diensten steht. Weißt du zufällig etwas darüber? Ich bin ein ziemlicher Fan. Wenn du Achilles siehst, sag ihm bitte, dass ich ihn sehr verehre!"
+|-
+! colspan="2" |Artemis Vs Achilles 02
+|-
+|'''Artemis'''
+|"Ich hab gehört, dass Achilles selbst dich das Kämpfen lehrte? Kein Wunder, dass du dich da unten wacker schlägst, das ist erstaunlich ...! Erweise ihm nur von Zeit zu Zeit die Ehre, klar?"
+|-
+! colspan="2" |Artemis Post Flashback 01
+|-
+|'''Artemis'''
+|"Hier auf dem Olymp lebe ich im Kreis meiner Familie, doch fühlte ich mich stets einsam. Ich weiß, das ist nicht dasselbe wie bei dir. Ich will nur sagen, dass ich verstehe, was du durchmachst."
+|-
+! colspan="2" |Artemis High Affinity 01
+|-
+|'''Artemis'''
+|"Ich glaube, dir würde es hier auf dem Olymp gefallen ... Es gibt jede Menge Festgelage, die Luft ist frisch und klar, und es ist viel heller als dort unten. Klingt traumhaft, oder?"
+|-
+! colspan="2" |Artemis High Affinity 02
+|-
+|'''Artemis'''
+|"Ich hoffe, wir zwei können zusammen jagen gehen, wenn du auf dem Olymp bist! Ich bin eigentlich ganz gern allein, doch es war nett, mit dir zu plaudern."
+|-
+! colspan="2" |Artemis High Affinity 03
+|-
+|'''Artemis'''
+|"Ich bin der anderen so überdrüssig, weißt du? Die Gesellschaft der Waldnymphen da draußen ist mir viel lieber als die der Götter auf diesem Berggipfel. Du weißt sicher am besten, wie das ist."
+|-
+! colspan="2" |Artemis About Callisto 01
+|-
+|'''Artemis'''
+|"Nicht jeder auf dem Olymp ist eine totale Enttäuschung, Zagreus. Eines Tages lernst du vielleicht Kallisto kennen, sie geht immer mit mir auf die Jagd! Ich wette, hier unten triffst du nicht viele Waldnymphen an."
+|-
+! colspan="2" |Artemis About Callisto 02
+|-
+|'''Artemis'''
+|"He, Zagreus, der Nektar, den du geschickt hast? Kallisto und die Nymphen und ich, wir haben ihn neulich probiert, und er war wirklich gut! Danach waren wir ganz ausgelassen. Also danke!"
+|-
+! colspan="2" |Artemis About Callisto 03
+|-
+|'''Artemis'''
+|"Du hast doch sicher den einen oder anderen Freund? Es ist schwer, die ganze Zeit allein zu sein. Wenigstens habe ich Kallisto und die anderen Nymphen, und ... ich habe dich! Auch ein ferner Freund ist doch ein Freund, stimmt's?"
+|-
+! colspan="2" |Artemis About Callisto 04
+|-
+|'''Artemis'''
+|"Hoffe, es macht dir nichts aus, dass ich Kallisto alles über dich erzählt habe! Keine Sorge, ich habe Diskretion gewahrt. Wir zwei waren auf der Jagd, ich habe deine Geschichte nicht lauthals ausposaunt!"
+|-
+! colspan="2" |Artemis About Callisto 05
+|-
+|'''Artemis'''
+|"Zagreus, könntest du dich doch nur in ein Geschöpf des Waldes verwandeln und einfach da rausfliegen oder dich freibuddeln! Meine Kallisto kann sich in einen Bären verwandeln, hast du schon mal einen gesehen? Riesige, pelzige Wesen, zum Knuddeln, wenn sie dir nicht vorher den Garaus machen!"
+|-
+! colspan="2" |Artemis About Callisto 06
+|-
+|'''Artemis'''
+|"Du hast den Wald noch nie gesehen, nicht wahr? Eines Tages wird das hoffentlich geschehen. Du könntest Kallisto und die anderen kennenlernen! Es ist sehr schön da, und grün und still, es ist... wie auch immer."
+|-
+! colspan="2" |Artemis About Callisto 07
+|-
+|'''Artemis'''
+|"Ich weiß nicht, woran das liegt, Zagreus, doch bei dir habe ich das Gefühl, ich kann ich selbst sein, weißt du? Vielleicht, weil du mir nicht ständig ins Wort fällst wie alle anderen, außer Kallisto und den Nymphen. Ich kann dich ja nicht mal hören, aber du weißt, was ich meine, oder?"
+|-
+! colspan="2" |Artemis Has Weapon 01
+|-
+|'''Artemis'''
+|"He, wie bist du an einen so schönen Bogen wie diesen gekommen? Pass gut auf Coronacht auf, damit auch ich ihn ausprobieren kann, wenn du erst mal hier oben bist."
+|-
+! colspan="2" |Artemis About Bow Weapon Progress 01
+|-
+|'''Artemis'''
+|"Du gehst sehr geschickt mit Coronacht um, das muss ich sagen. Ich treffe ja im Schlaf ins Schwarze, doch du wirst bald so gut wie ich sein, wenn ich nicht ständig übe, glaube ich!"
+|-
+! colspan="2" |Artemis About Spear Weapon 01
+|-
+|'''Artemis'''
+|"He, das ist doch der Ewige Speer, Varatha? Dein Vater hat ihn oft benutzt, nicht wahr. Ein bisschen zu kunstvoll für die Jagd, doch ein Speer ist ein Speer, wie ich immer sage!"
+|-
+! colspan="2" |Artemis About Achilles Aspect 01
+|-
+|'''Artemis'''
+|"He, das kann unmöglich der Speer sein, den einst der große Achilles geschwungen hat, oder?! Die Form ist unverkennbar. Hast du überhaupt den leisesten Schimmer, wie viele Sterbliche von diesem Ding niedergemetzelt wurden? Oh, es hat sich oft bewährt!"
+|-
+! colspan="2" |Artemis About Chiron Aspect 01
+|-
+|'''Artemis'''
+|"Das ist nicht Coronacht, wie ich ihn kenne. Ist das nicht ... der Bogen des Kentauren Chiron? Das war also auch Coronacht? Offenbar war jeder anständige Bogen nur eine Version von diesem Ding! Außer meinem, natürlich."
+|-
+! colspan="2" |Artemis About Hera Aspect 01
+|-
+|'''Artemis'''
+|"Sag mal, ist das der Bogen, den Stiefmutter Hera selbst einst getragen hat? Ihre Variante von Coronacht! Das erkenne ich an ... offen gesagt, eher finsteren Schädeln überall auf dem Bogen. Das ist ganz nach Heras Geschmack, glaub mir."
+|-
+! colspan="2" |Artemis About Fist Weapon 01
+|-
+|'''Artemis'''
+|"Wann hast du denn Malphon, die Zwillingsfäuste, in die Hände bekommen? Oder besser: deine Hände in Malphon! Ich hab gehört, dass Demeter mit diesen Dingern ihren Vater mal mitten ins Gesicht geschlagen hat! Wette, das kannst du nachempfinden."
+|-
+! colspan="2" |Artemis About Gun Weapon 01
+|-
+|'''Artemis'''
+|"Na, da schau einer an, du hast Exagryph, das Geschütz aus Adamant! Macht zu viel Lärm, als Jagdwaffe nur schwer zu gebrauchen. Ein schöner leiser Bogen ist viel besser, doch jede, wie sie's mag."
+|-
+! colspan="2" |Artemis Reveals Rama Aspect 01
+|-
+|'''Artemis'''
+|"Hör zu, Zagreus, ich gebe zu, das ist ein wenig seltsam, selbst für meine Begriffe. Ich habe eine Botschaft für deinen Bogen! Du hast richtig gehört. Tritt das nächste Mal einfach an Coronacht heran und sag mit fester, gebieterischer Stimme ''Ich sehe dich gespannt von den Armen des siebten Avatars! ''Lass mich wissen, was dabei rauskommt, ja?"
+|-
+! colspan="2" |Artemis About Keepsake 01
+|-
+|'''Artemis'''
+|"He, du hast meine Pfeilspitze aus Adamant! Normalerweise ist sie zum Töten da, doch mir hilft sie, dich noch leichter aufspüren, sogar hier im Dunkeln. Jetzt, wo ich dich gefunden habe ... hier!"
+|-
+! colspan="2" |Artemis About Zagreus 01
+|-
+|'''Artemis'''
+|"Dein Name bedeutet 'großer Jäger', Zagreus! Deine Mutter Nyx hat bestimmt damit gerechnet, dass du eines Tages ein paar Kniffe von mir abgucken würdest!"
+|-
+! colspan="2" |Artemis Run Cleared 01
+|-
+|'''Artemis'''
+|"He, Moment mal, Zagreus, ich hätte schwören können ... Du warst so nahe dran, aber jetzt bist du zurück? Ah, bist wohl ins Straucheln gekommen, als der Sieg schon nah war. Passiert ständig. Wir holen dich da raus, du wirst schon sehen!"
+|-
+! colspan="2" |Artemis Low Health 01
+|-
+|'''Artemis'''
+|"He, alles in Ordnung, Zagreus? Du kannst mir doch nicht einfach wegsterben, kaum, dass ich dich getroffen habe."
+|-
+! colspan="2" |Artemis Low Health 02
+|-
+|'''Artemis'''
+|"''Oh''! Du bist schwer verletzt. Doch konzentrier dich einfach auf die Jagd, das hilft, den Schmerz in Schach zu halten."
+|-
+! colspan="2" |Artemis Low Health 03
+|-
+|'''Artemis'''
+|"Hör mal, ich bin nur die Göttin der Jagd, nicht der Medizin, deswegen ... weiß ich nicht, ob das hier sofort helfen wird, doch bitte!"
+|-
+! colspan="2" |Artemis Low Health 04
+|-
+|'''Artemis'''
+|"Offensichtlich läuft die Jagd für dich bisher nicht besonders gut. Doch vielleicht können wir da noch etwas retten."
+|-
+! colspan="2" |Artemis Low Health 05
+|-
+|'''Artemis'''
+|"Nun, ein Gutes hat es, dass du so viel Blut verloren hast: Es war diesmal noch einfacher, dich aufzuspüren!"
+|-
+! colspan="2" |Artemis Legendary Pick Up 01
+|-
+|'''Artemis'''
+|"Zagreus, aufgepasst, denn gleich verrate ich das beste meiner Jagdgeheimnisse, was ich nur selten tue."
+|-
+! colspan="2" |Artemis Legendary Pick Up 02
+|-
+|'''Artemis'''
+|"Schon gut, du musst nicht länger mit deiner Beute spielen. Hier kommt ''jetzt '' einer meiner schönsten Segen!"
+|-
+! colspan="2" |Artemis Legendary Pick Up 03
+|-
+|'''Artemis'''
+|"Meine besten Jagdtechniken offenbare ich nicht gerade jedem, Zagreus. Ich hoffe, du weißt zu schätzen, was dir gleich zuteil wird, und kommst damit voran!"
+|-
+! colspan="2" |Artemis Legendary Pick Up 04
+|-
+|'''Artemis'''
+|"Wir wär's, wenn wir diesmal nichts riskieren, Zagreus? Hier, das Beste, was ich habe. Das vergeudest du besser nicht!"
+|-
+! colspan="2" |Artemis First Pick Up
+|-
+|'''Zagreus'''
+|"Mir ist nur eine himmlische Bogenschützin bekannt. Nun ja, eigentlich mehrere. Wie auch immer! Im Namen von Hades! Olymp? Ich nehme diese Botschaft an."
+|-
+|'''Artemis'''
+|"Ich habe von dir gehört. Schau, ich bin nicht wie all die anderen auf dem Olymp. Die Macht der Jagd leistet mir ein wenig Gesellschaft, also ... vielleicht hilft sie auch dir!"
+|-
+! colspan="2" |Artemis Misc Pickup 01
+|-
+|'''Artemis'''
+|"He. Du bist nicht allein. Du bist da unten nicht allein, OK? Hier, ich zeig’s dir."
+|-
+! colspan="2" |Artemis Misc Pickup 03
+|-
+|'''Artemis'''
+|"Die Toten sind bestimmt ein leichtes Ziel, meinst du nicht auch? Mal sehen, was du ihnen antun kannst, mit einem Arsenal wie diesem."
+|-
+! colspan="2" |Artemis Misc Pickup 04
+|-
+|'''Artemis'''
+|"Bist du beschäftigt, Zagreus? Dachte, ich könnte dich vielleicht für einige meiner alten Jagdtricks begeistern."
+|-
+! colspan="2" |Artemis Misc Pickup 05
+|-
+|'''Artemis'''
+|"Wie läuft es diesmal mit der Jagd, OK? Ich wette, es könnte besser gehen, also, ähm, bitteschön! Vielleicht hilft das hier ja."
+|-
+! colspan="2" |Artemis Misc Pickup 06
+|-
+|'''Artemis'''
+|"Machen wir einen kleinen Jagdausflug, ja? Den Großteil der Arbeit erledigst du, doch ich bin immerhin im Geiste bei dir!"
+|-
+! colspan="2" |Artemis Misc Pickup 07
+|-
+|'''Artemis'''
+|"Tut mir leid, dass du noch immer da unten festsitzt. Manchmal fühl ich mich selbst gefangen, doch eine gute Jagd renkt alles wieder ein."
+|-
+! colspan="2" |Artemis Misc Pickup 08
+|-
+|'''Artemis'''
+|"Beim Jagen hab ich einen klaren Kopf, und nichts steht zwischen mir und meinem Ziel. Doch ich gebe dir besser einen Segen, nur für den Fall, dass du das nicht nachvollziehen kannst!"
+|-
+! colspan="2" |Artemis Misc Pickup 09
+|-
+|'''Artemis'''
+|"Ich würde gern mehr über dein Leben dort unten wissen. Ich hoffe, du wirst mit meiner Hilfe diesmal überleben, dann kannst du mir berichten!"
+|-
+! colspan="2" |Artemis Misc Pickup 10
+|-
+|'''Artemis'''
+|"Die Kreaturen, die dir da unten gegenübertreten, sind bereits gestorben, manchmal mehr als einmal. Sind gewiss leichte Ziele, oder?"
+|-
+! colspan="2" |Artemis Misc Pickup 11
+|-
+|'''Artemis'''
+|"Mir ist noch nie ein Ziel begegnet, das ich nicht ausschalten konnte. Dasselbe erwarte ich von dir, hörst du? Ich hoffe, du kannst mich hören."
+|-
+! colspan="2" |Artemis Misc Pickup 12
+|-
+|'''Artemis'''
+|"Auf eine gute Jagd, Zagreus! Je früher du dort rauskommst, desto eher kannst du mich vor meiner unausstehlichen Verwandtschaft retten. Bitte?"
+|-
+! colspan="2" |Artemis Misc Pickup 13
+|-
+|'''Artemis'''
+|"He, Zagreus, viel Glück da draußen. Ich könnte dir wünschen, ''dass du dein Ziel nicht verfehlst'', aber das kann ich sogar garantieren."
+|-
+! colspan="2" |Artemis Misc Pickup 14
+|-
+|'''Artemis'''
+|"Die Jagd erfordert äußerste Konzentration, also werd ich dich nicht weiter stören, und ... einfach hier drüben schweigend jeden Schritt von dir verfolgen ..."
+|-
+! colspan="2" |Artemis Misc Pickup 15
+|-
+|'''Artemis'''
+|"Um da rauszukommen, musst du ... nicht auf mich hören, um ehrlich zu sein, doch ... mein Segen als Jägerin sollte helfen."
+|-
+! colspan="2" |Artemis Misc Pickup 16
+|-
+|'''Artemis'''
+|"Na, Zagreus, schaffst du es diesmal da raus, oder muss ich vorläufig weiter alleine auf die Jagd gehen? Vermutlich?"
+|-
+! colspan="2" |Artemis Misc Pickup 17
+|-
+|'''Artemis'''
+|"Sieht so aus, als könntest du Hilfe gebrauchen. Da will ich doch mal in meinen großen Sack voller Segen schauen, und, hoppla! Da hab ich genau das Richtige."
+|-
+! colspan="2" |Artemis Misc Pickup 18
+|-
+|'''Artemis'''
+|"Jagen heißt töten oder getötet werden. Außer für uns Unsterbliche. Wir müssen mit unserer Schmach leben. Was ist schlimmer?"
+|-
+! colspan="2" |Artemis Misc Pickup 19
+|-
+|'''Artemis'''
+|"Diese elenden Kreaturen, die dich in der Unterwelt drangsalieren, wollen einfach nicht aufgeben. Dann darfst du wohl einfach nicht aufhören, sie zu töten!"
+|-
+! colspan="2" |Artemis Misc Pickup 20
+|-
+|'''Artemis'''
+|"Brauchst du eine Jagdgefährtin, Zagreus? Nicht, dass ich dir da unten beistehen oder hören könnte, was du entgegnest, doch trotzdem, hier, bitte."
+|-
+! colspan="2" |Artemis Misc Pickup 21
+|-
+|'''Artemis'''
+|"Zagreus, ich bin’s, ich bin gekommen, um wieder mit dir auf die Jagd zu gehen. Zeigen wir ihnen, wozu wir fähig sind."
+|-
+! colspan="2" |Artemis Misc Pickup 22
+|-
+|'''Artemis'''
+|"Da bin ich wieder, bist du bereit für diese Jagd? Was mich angeht, ich freu mich schon seit dem letzten Mal darauf, also auf geht’s!"
+|-
+! colspan="2" |Artemis Misc Pickup 23
+|-
+|'''Artemis'''
+|"Sei auf der Hut, geh behutsam vor, und so weiter."
+|-
+! colspan="2" |Artemis Misc Pickup 24
+|-
+|'''Artemis'''
+|"Halt da draußen immer die Augen offen, klar?"
+|-
+! colspan="2" |Artemis Misc Pickup 25
+|-
+|'''Artemis'''
+|"Auf eine gute Jagd dort unten, Zagreus."
+|-
+! colspan="2" |Artemis Misc Pickup 26
+|-
+|'''Artemis'''
+|"Ich frage mich, was du wohl diesmal jagen willst."
+|-
+! colspan="2" |Artemis Misc Pickup 27
+|-
+|'''Artemis'''
+|"Ich passe auf dich auf. Wenn du nichts dagegen hast, natürlich."
+|-
+! colspan="2" |Artemis Misc Pickup 28
+|-
+|'''Artemis'''
+|"Nicht vergessen, Zagreus, töten oder getötet werden."
+|-
+! colspan="2" |Artemis Misc Pickup 29
+|-
+|'''Artemis'''
+|"Wie wär’s, wenn ich dich auf dieser Jagd begleite, ja?"
+|-
+! colspan="2" |Artemis Misc Pickup 30
+|-
+|'''Artemis'''
+|"He, pass auf dich auf, ja?"
+|-
+! colspan="2" |Artemis Misc Pickup 31
+|-
+|'''Artemis'''
+|"Ich hab was für dich, das du bestimmt gebrauchen kannst."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 01
+|-
+|'''Artemis'''
+|"Die Feinheiten der Jagd sind nicht leicht zu vermitteln, doch du lernst zumindest aus Erfahrung!"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 02
+|-
+|'''Artemis'''
+|"Meine Sinne werden ganz sicher geschärft, wenn ich versuche, hier unten in der Dunkelheit weiter mit dir mitzuhalten."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 03
+|-
+|'''Artemis'''
+|"Ein guter, sauberer Schuss genügt zumeist!"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 04
+|-
+|'''Artemis'''
+|"Kommst du da unten voran, Zagreus?"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 05
+|-
+|'''Artemis'''
+|"Worauf wartest du, beginnen wir mit der Jagd!"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 06
+|-
+|'''Artemis'''
+|"Nicht gerade eine Jagd, wenn die Beute genau weiß, wo du bist, doch wird schon gehen!"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 07
+|-
+|'''Artemis'''
+|"Ich hoffe, dass du mit jedem Schlag lebenswichtige Stellen deiner Opfer triffst, bitte, Zagreus."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 08
+|-
+|'''Artemis'''
+|"Ich hab dir Jagdausrüstung zum Ausprobieren mitgebracht, wenn ich um deine Aufmerksamkeit bitten dürfte, Zagreus?"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 09
+|-
+|'''Artemis'''
+|"Gut, Zagreus, atme durch, entscheide dich, und dann könnten wir dich vielleicht aus der Hölle rausholen?"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 10
+|-
+|'''Artemis'''
+|"Was jagen wir denn diesmal, Zagreus? Doch nicht schon wieder elende Tote?"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 11
+|-
+|'''Artemis'''
+|"Siehst du, wie leicht ich dich aufgespürt habe? Es sei denn, du hast dir für mich die größte Mühe gegeben?"
+|-
+! colspan="2" |Artemis Misc Pickup Extra 12
+|-
+|'''Artemis'''
+|"Ich habe eine Gabe für dich, bitte, Zagreus, doch sieh zu, dass du mich nicht blamierst."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 13
+|-
+|'''Artemis'''
+|"Perfektes Timing, Zagreus, jetzt deck dich ein und zieh los."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 14
+|-
+|'''Artemis'''
+|"Wenn du da rauskommen willst, sind meine Gaben so ziemlich der einzige Weg."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 15
+|-
+|'''Artemis'''
+|"Lass dich nicht herumschubsen, Zagreus, nicht von deinem Vater, von ''niemandem''."
+|-
+! colspan="2" |Artemis Misc Pickup Extra 16
+|-
+|'''Artemis'''
+|"Ich wette, ich kann dir helfen, im Handumdrehen aus deines Vaters Reich zu fliehen, Zagreus!"
+|-
+! colspan="2" |Artemis Misc Pickup Rare 01
+|-
+|'''Artemis'''
+|"Hab beschlossen, für diese Jagd etwas Besonderes für dich einzupacken, wenn du damit umgehen kannst!"
+|-
+! colspan="2" |Artemis Misc Pickup Rare 02
+|-
+|'''Artemis'''
+|"Genug mit unserer Beute gespielt, Zagreus. Wie ist es, wollen wir sie diesmal erledigen?"
+|-
+! colspan="2" |Artemis Misc Pickup Rare 03
+|-
+|'''Artemis'''
+|"Ich weiß, deine Mühen sind groß, Zagreus, bitte! Falls das hier hilft."
+|-
+! colspan="2" |Artemis Misc Pickup Rare 04
+|-
+|'''Artemis'''
+|"Ein großer Jäger sollte eine gute Ausrüstung haben, Zagreus, hier bitte! Du gestattest."
+|-
+! colspan="2" |Artemis Misc Pickup Rare 05
+|-
+|'''Artemis'''
+|"Ich wünschte, ich könnte mit dir jagen, doch das hier kommt dem ziemlich nahe, verstehst du?"
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 01
+|-
+|'''Artemis'''
+|"Weißt du, wie lange es gedauert hat, bis aus Kallisto eine Meisterin der Jagd wurde? Ich bin sicher, du kannst noch einiges lernen!"
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 02
+|-
+|'''Artemis'''
+|"Ich wollte gerade mit Kallisto zur Jagd aufbrechen, doch für eine Gabe an dich hab ich wohl noch Zeit!"
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 03
+|-
+|'''Artemis'''
+|"Ich treffe mich bald mit Kallisto, doch es dauert nur einen Moment, dich auf den Weg zu bringen!"
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 04
+|-
+|'''Artemis'''
+|"Eines Tages wirst du vielleicht mit mir und Kallisto gemeinsam jagen gehen! Doch vorerst ..."
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 05
+|-
+|'''Artemis'''
+|"Grüße an dich aus dem Wald! Kallisto und die Waldnymphen sagen hallo!"
+|-
+! colspan="2" |Artemis Misc Pickup About Callisto 06
+|-
+|'''Artemis'''
+|"Ich glaube, du wärst ein echter Gewinn für die Jagd. Nicht, dass Kallisto und ich Hilfe bräuchten."
+|-
+! colspan="2" |Artemis Loot Bought 01
+|-
+|'''Artemis'''
+|"Eins muss ich Charon lassen, er redet nicht sehr viel. Und da das auch auf dich zutrifft, kannst du das hier behalten."
+|-
+! colspan="2" |Artemis Loot Bought 02
+|-
+|'''Artemis'''
+|"Das heißt wohl, du hast dem Fährmann das Lösegeld gezahlt, und welchen Preis er auch verlangt hat, es hat sich gelohnt."
+|-
+! colspan="2" |Artemis Loot Bought 03
+|-
+|'''Artemis'''
+|"Selbst in deiner Unterwelt scheint Jagdausrüstung guter Qualität nicht billig zu sein!"
+|-
+! colspan="2" |Artemis Loot Bought 04
+|-
+|'''Artemis'''
+|"Wenn du mit dem Einkaufen fertig bist, Zagreus, wie wär's, wenn wir gleich zur Sache kämen?"
+|-
+! colspan="2" |Artemis Loot Bought 05
+|-
+|'''Artemis'''
+|"Du hast in Charons Laden ein echtes Schnäppchen gemacht, doch wie wär's, wenn wir es jetzt mit einem etwas größeren Geschäft versuchen?"
+|-
+! colspan="2" |Artemis Rejection 01
+|-
+|'''Artemis'''
+|"Du willst dich zusammentun mit ...?! Bah, warum lass ich mich überhaupt mit irgendeinem geringeren Gott ein!"
+|-
+! colspan="2" |Artemis Rejection 02
+|-
+|'''Artemis'''
+|"Ich dachte, wir hätten eine Abmachung, Zagreus. Doch es wäre nicht das erste Mal, dass ich mich in jemandem getäuscht hätte."
+|-
+! colspan="2" |Artemis Rejection 03
+|-
+|'''Artemis'''
+|"Hm, so sieht also deine Entscheidung aus! Vielleicht hast du mehr mit meiner Verwandtschaft gemeinsam, als ich zugeben möchte."
+|-
+! colspan="2" |Artemis Rejection 04
+|-
+|'''Artemis'''
+|"Guter Schuss, Zagreus! Du hast mich wohl erwischt. Wie wär’s, wenn du jetzt ''hierauf '' zielst."
+|-
+! colspan="2" |Artemis Rejection 05
+|-
+|'''Artemis'''
+|"Mit meinen Gefühlen solltest du nicht spielen, Zagreus. Meine Loyalität ist schwer zu gewinnen und schnell verloren."
+|-
+! colspan="2" |Artemis Rejection 06
+|-
+|'''Artemis'''
+|"Da hast du ein wirklich leichtes Ziel verfehlt, Zagreus. Mir wird das nicht passieren. Du wirst schon sehen."
+|-
+! colspan="2" |Artemis Rejection 07
+|-
+|'''Artemis'''
+|"Ah, gut, ich hatte schon fast vergessen, wie sich ein Pfeil im Rücken anfühlt!"
+|-
+! colspan="2" |Artemis Rejection 08
+|-
+|'''Artemis'''
+|"Denkst du, ich bin leicht in die Tasche zu stecken, Zagreus? Denkst du das?"
+|-
+! colspan="2" |Artemis Rejection 09
+|-
+|'''Artemis'''
+|"Oh, sieh an, wie's der Zufall will, ist es mal wieder Zeit für Zielübungen! Nimm die Beine in die Hand, Zagreus."
+|-
+! colspan="2" |Artemis Rejection 10
+|-
+|'''Artemis'''
+|"Was hat dich auf die Idee gebracht, dass ich das von dir hinnehmen würde?"
+|-
+! colspan="2" |Artemis Rejection 11
+|-
+|'''Artemis'''
+|"''Ah-hah'', ich wusste, du würdest auf dieses alte Manöver verfallen, Zagreus. Und ich bin jetzt bereit für dich."
+|-
+! colspan="2" |Artemis Rejection 12
+|-
+|'''Artemis'''
+|"Du wirst ziemlich berechenbar, wenn du mich so hintergehst, Zagreus! Dann lauf mal los."
+|-
+! colspan="2" |Artemis Rejection 13
+|-
+|'''Artemis'''
+|"Oh wirklich, so wird es sein? Ihr Götter der Unterwelt seid doch alle gleich!"
+|-
+! colspan="2" |Artemis Make Up 01
+|-
+|'''Artemis'''
+|"Schön, ich bin nicht mehr böse, jedenfalls nicht sehr, doch du sieh dich vor mir vor, hörst du?"
+|-
+! colspan="2" |Artemis Make Up 02
+|-
+|'''Artemis'''
+|"Oh, du bist noch immer hier. Nun denn, dann sind wir vorerst quitt, und weiter geht’s."
+|-
+! colspan="2" |Artemis Make Up 03
+|-
+|'''Artemis'''
+|"Schon gut, schon gut, ich verzeih dir ja, du musst nicht betteln. Beim nächsten Mal überlegst du’s dir besser zweimal, OK?"
+|-
+! colspan="2" |Artemis Make Up 04
+|-
+|'''Artemis'''
+|"Ich muss schon sagen, du hast dich da vorhin ziemlich gut geschlagen. Nach einer Vorstellung wie dieser kann ich nicht lange böse sein."
+|-
+! colspan="2" |Artemis Make Up 05
+|-
+|'''Artemis'''
+|"Eine gute Jagd war das, Zagreus. Du hast meinen kleinen Test bestanden, also sind wir quitt und tun so, als sei nichts gewesen."
+|-
+! colspan="2" |Artemis Make Up 06
+|-
+|'''Artemis'''
+|"Du hast also überlebt, na und. Hier, warum nimmst du nicht eine Gabe and gehst dann deiner Wege?"
+|-
+! colspan="2" |Artemis Make Up 07
+|-
+|'''Artemis'''
+|"Ich gebe zu, dass dort Fehler gemacht wurden. Die darfst du beim nächsten Mal nicht wiederholen, klar?"
+|-
+! colspan="2" |Artemis Make Up 08
+|-
+|'''Artemis'''
+|"Weißt du was, Zagreus, ich hab beschlossen, dich nicht zu töten. Ein in die Enge getriebenes Opfer ist keine echte Herausforderung, also bitteschön, mach weiter."
+|-
+! colspan="2" |Artemis Make Up 09
+|-
+|'''Artemis'''
+|"Zum Glück bist du himmelweit entfernt von unserem Berggipfel. Sonst hätte ich dich für diese Nummer eigenhändig erlegt."
+|-
+! colspan="2" |Artemis Make Up 10
+|-
+|'''Artemis'''
+|"Nun, Zagreus, wie es scheint, kannst du wirklich jede Hilfe gebrauchen. Hier ist eine Mitleidsgabe für dich!"
+|-
+! colspan="2" |Artemis Make Up 11
+|-
+|'''Artemis'''
+|"Ich könnte dich so lange jagen, bis du tot bist, doch bei dem bisschen Fleisch auf deinen Knochen lohnt sich das nicht für mich."
+|-
+! colspan="2" |Artemis Gift 01
+|-
+|'''Zagreus'''
+|"Ehrwürdige Artemis, ich hoffe, du nimmst diese Gabe an, zum Dank für all deine Güte und Fürsorge."
+|-
+|'''Artemis'''
+|"He, danke, das ist aber nett. Ich hab auch was für dich, genau das Richtige. Nur ein Geschenk, OK?"
+|-
+! colspan="2" |Artemis Gift 02
+|-
+|'''Zagreus'''
+|"Ehrwürdige Artemis! Das ist nur eine Kleinigkeit gemessen an eurer Gunst und Gnade."
+|-
+|'''Artemis'''
+|"Moment mal, diese Gabe ist für mich? Ich, oh, das ist sehr aufmerksam, aber lass uns jetzt wieder jagen gehen, OK?"
+|-
+! colspan="2" |Artemis Gift 03
+|-
+|'''Zagreus'''
+|"Ehrwürdige Artemis! Ich bin dir zu Dank verpflichtet für die Kraft und List, die du mir verliehen hast."
+|-
+|'''Artemis'''
+|"Zagreus, ich bin sprachlos ... ich kann nur danke sagen!"
+|-
+! colspan="2" |Artemis Gift 04
+|-
+|'''Zagreus'''
+|"Ehrwürdige Artemis, deine Gunst ist für mich von unschätzbarem Wert. Keine bessere Jägerin ist je auf Erden oder im Schattenreich gewandelt."
+|-
+|'''Artemis'''
+|"Du bist sehr nett zu mir, das macht mich misstrauisch, hörst du? Wenn du also mehr davon willst ... mach weiter so."
+|-
+! colspan="2" |Artemis Gift 05
+|-
+|'''Zagreus'''
+|"Auf die Gefahr, dass ich deinen Zorn heraufbeschwöre, ehrwürdige Artemis, ich hoffe, du nimmst das hier von mir an, zum Zeichen meiner aufrichtigen Dankbarkeit für alles, was du für mich getan hast."
+|-
+|'''Artemis'''
+|"Wer hätte das gedacht, noch mehr Nektar ... das ist sehr aufmerksam von dir, Zagreus! Normalerweise mach ich mir nicht sehr viel aus dem Zeug, doch ab und zu ... warum eigentlich nicht?"
+|-
+! colspan="2" |Artemis Gift 06
+|-
+|'''Zagreus'''
+|"Dir zu Ehren, ehrwürdige Artemis! Deine mächtigen Segen haben mir schon durch viele Prüfungen geholfen, und deine besonnene Art ist immer sehr angenehm."
+|-
+|'''Artemis'''
+|"Schau, ich lass mich gern vergöttern, wie jeder anderer auch, Zagreus. Vergiss jedoch nicht, dass du meine Anbetung jederzeit den Waldnymphen überlassen kannst, okay?"
+|-
+! colspan="2" |Artemis Gift 07
+|-
+|'''Zagreus'''
+|"Ich weiß, dass es dir auf dem Olymp nicht an Ambrosia mangelt, ehrwürdige Artemis, doch sicher kommt es selten vor, dass das Zeug den weiten Weg macht, von dort hierher und wieder zurück. Was soll ich sagen? Du machst mich stolz, dieser Familie anzugehören."
+|-
+|'''Artemis'''
+|"Ich hatte nie das Gefühl, in Gegenwart der anderen auf diesem Gipfel ich selbst sein zu können, weißt du? So viel Getue und Gezänk und ... Ich bin meist draußen in den Wäldern. Vielleicht verstehst du mich besser als der Rest, ich hab noch immer keine Ahnung. Doch ich weiß zu schätzen, dass du es versuchst."
+|-
+! colspan="2" |Aphrodite With Artemis 01
+|-
+|'''Aphrodite'''
+|"Mein Lieber! Ich bringe dir die scharfäugige Artemis, die es in ihrer Fixierung auf die Jagd versäumt hat, sich Manieren anzueignen und selbst zu dir zu kommen!"
+|-
+|'''Artemis'''
+|"Manieren, sagt sie! Sie hat gut reden! Du weißt gewiss, Zagreus, wenn es nötig ist, kann ich dich finden. Wie ich allerdings Aphrodite entkommen kann, keine Ahnung."
+|-
+! colspan="2" |Dionysus With Artemis 01
+|-
+|'''Dionysus'''
+|"Mann, Zag, gerade hab ich versucht, unsere liebe Freundin Artemis dazu zu bringen, sich endlich mal auf einem meiner Festgelage sehen zu lassen, nur ... war ja klar, sie ist beschäftigt, erzählte irgendwas von einer Jagd?"
+|-
+|'''Artemis'''
+|"Genau so ist es, ehrwürdiger Dionysos, eine Jagd! Die absolute Ruhe und Konzentration verlangt. Wenn du mich also entschuldigen würdest?"
+|-
+! colspan="2" |Athena With Artemis 01
+|-
+|'''Athena'''
+|"Hast du kurz Zeit, Zagreus? Eine meiner Verwandten hat behauptet, dass ich zu viel deiner Zeit in Anspruch nehme. Also hab ich sie gebeten, mit dir Verbindung aufzunehmen."
+|-
+|'''Artemis'''
+|"Ähm, hallo Zagreus ... Athene tut sich gerade wichtig oder will etwas beweisen oder so. Wie auch immer, nett mit dir zu plaudern."
+|-
+|'''Athena'''
+|"Nun, ich nehme an, das ist geklärt. Ich fürchte, Eingriffe dieser Art sind in meiner Familie nichts Ungewöhnliches, doch welche Familie ist schon perfekt?"
+|-
+! colspan="2" |Poseidon With Artemis 01
+|-
+|'''Poseidon'''
+|"Was mich angeht, Neffe, ich komme gut mit allen aus! Eine eher seltene Fähigkeit, wie es scheint! Meine Nichte Artemis zum Beispiel! Verträgt nicht den geringsten Spaß! Kind, mit solch einer säuerlichen Miene lockst du so schnell keinen Gefährten an!"
+|-
+|'''Artemis'''
+|"Oh, und wäre das nicht furchtbar schade, Onkel Poseidon. Was könnte wohl der Grund für meine säuerliche Miene hier oben sein, frage ich mich? Vielleicht kennt Zagreus ja die Antwort."
+|-
+|'''Poseidon'''
+|"''Hahaha''! Siehst du, was ich meine, Neffe?"
+|-
+! colspan="2" |Demeter With Artemis
+|-
+|'''Demeter'''
+|"Zagreus, die sanfte Artemis meinte gerade, wie besorgt sie sei wegen des Dilemmas, in dem du dich befindest! Ich bin sicher, ihr wäre es lieb, wenn wir dir beide beistehen könnten."
+|-
+|'''Artemis'''
+|"Besorgt? Ich sehe hier niemanden, der besorgt ist. Du schaffst das, Zagreus! Du brauchst keine Hilfe, du stehst das alles ganz alleine durch. Obwohl, für alle Fälle, und ich meine, nur für alle Fälle! Ähm, hier bitte."
+|-
+|}

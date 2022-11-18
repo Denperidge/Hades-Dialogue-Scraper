@@ -1,0 +1,1063 @@
+{| class="wikitable"
+|+
+! colspan="2" |Inspect House 01
+|-
+|'''Storyteller'''
+|"''The House of Hades: That dark and lavishly appointed lair of the Underworld's King is home not just to him, but to his willful progeny.''"
+|-
+! colspan="2" |Inspect Lounge Closed 01
+|-
+|'''Storyteller'''
+|"''What once was a small lounging area within the House of Hades now is sealed off, in utter shambles since the multi-headed Cerberus tore the space apart, mourning the missing Prince.''"
+|-
+! colspan="2" |Inspect Shades 01
+|-
+|'''Storyteller'''
+|"''Shades of the dead mill constantly within the House, complaining of their woes, and seeking audience from any who would listen.''"
+|-
+! colspan="2" |Inspect Lounge Open 01
+|-
+|'''Storyteller'''
+|"''The lounging area within the House of Hades is a dismal place to be, in spite of its intended purpose to enliven the House's grim inhabitants.''"
+|-
+! colspan="2" |Inspect Employee Of The Month 01
+|-
+|'''Storyteller'''
+|"''A commemorative board adorns one of the stoic walls within the lounging area, celebrating and proclaiming the accomplishments of those who serve Lord Hades best of all.''"
+|-
+! colspan="2" |Inspect Cellar 01
+|-
+|'''Storyteller'''
+|"''The ancient casks of wine hidden within the recesses of the House of Lord Hades... few have tasted the intoxicating vintage they contain, and fewer still are permitted anywhere near their vicinity.''"
+|-
+|'''Storyteller'''
+|"''The stalwart casks of wine within the House of Hades now are almost entirely devoid of content, having bravely stood against the combined thirst of the Olympians during a certain feast.''"
+|-
+! colspan="2" |Inspect Olympus Sculpture 01
+|-
+|'''Storyteller'''
+|"''A majestic gilded edifice of Mount Olympus, crafted with the utmost care from the true mountain's stone, now shines forever brightly even in the dim light of the House of Hades, as a parting gift from the Lord Master's kin.''"
+|-
+! colspan="2" |Inspect Mural 01
+|-
+|'''Storyteller'''
+|"''A vast and intricately crafted mosaic depicts the Underworld King presiding over the enormity of his domain, whilst its chthonic residents look on in awe of him.''"
+|-
+! colspan="2" |Inspect Throne 01
+|-
+|'''Storyteller'''
+|"''Seldom does the overbearing throne of grim Lord Hades sit unoccupied; thus the House's denizens all go about their business, daring not so much as to ask why.''"
+|-
+! colspan="2" |Inspect House Garden 01
+|-
+|'''Storyteller'''
+|"''The garden of Persephone the Queen, off-limits to the Prince throughout his life, now is laid bare to him at last in all its splendor.''"
+|-
+! colspan="2" |Flashback 02
+|-
+|'''Storyteller'''
+|"''He ventures toward the stately throne of his Lord Father, half-expecting to be caught, but ill-expecting what he is about to find.''"
+|-
+! colspan="2" |Flashback 03
+|-
+|'''Storyteller'''
+|"''He does not know exactly what he seeks. He only knows that something always has felt off to him, that he does not belong. Who is he, really? Lord Hades never would indulge such questions. So, Prince Zagreus would find out for himself.''"
+|-
+! colspan="2" |Flashback 04
+|-
+|'''Storyteller'''
+|"''He rifles through his Lord Father's possessions. There is not much of any import there. Ledgers and administrative parchmentwork. Correspondence from Olympus which he had ignored. No trace of any reference to his son.''"
+|-
+! colspan="2" |Flashback 05
+|-
+|'''Storyteller'''
+|"''But then, there is the note... written finely in a hand and voice the likes of which the Prince had never seen or heard.''"
+|-
+|'''Persephone'''
+|"'''Hades: I can no longer tolerate my life here in this place. So, I am leaving, even if it kills me. I won't be returning to Olympus. If there is a place where I belong in this world, it must be somewhere between heaven and hell. Perhaps it's on the coast and has a little garden. Take care of Cerberus; I shall miss him.'''"
+|-
+|'''Storyteller'''
+|"''Thus did Prince of the Underworld Zagreus absorb the contents of this hidden letter, written in his mother's hand.''"
+|-
+|'''Zagreus'''
+|"His mother's hand, my mother's hand, wait, ''what''?! You're saying this Persephone, that she's my... mother...? But, but Father always said that Nyx was my.... That liar. He lied to me, they both did. All my life!"
+|-
+|'''Storyteller'''
+|"''Uhhh erm thus did the Prince discover, inadvertently, the well-kept truth about his lineage. Entirely by chance, this did occur....''"
+|-
+! colspan="2" |Flashback 06
+|-
+|'''Storyteller'''
+|"''Persephone... the one-time Queen of all the Underworld... where had she gone, and why? Engulfed by newfound questions and his rage, the Prince decided to confront his Lord and Master.''"
+|-
+! colspan="2" |Flashback Day Night Job 02
+|-
+|'''Storyteller'''
+|"''Responsibility-rejecting Zagreus strides down his Father's hall, quite unconcerned about the urgency with which he is expected to behave under a set of circumstances such as this.''"
+|-
+! colspan="2" |Flashback Day Night Job 03
+|-
+|'''Storyteller'''
+|"''The door to the administrative chamber beckons just beyond the hall. The prince perchance believes that he may enter quietly, without drawing the notice of those laboring within.''"
+|-
+! colspan="2" |Inspect House Pillars 01
+|-
+|'''Storyteller'''
+|"''Among the countless splendid gemstones hidden underneath the earth, a great many are used to decorate the House of Hades, god of the dead, god of riches.''"
+|-
+! colspan="2" |Inspect North Fountain 01
+|-
+|'''Storyteller'''
+|"''Water is the source of life, yet still it flows within the darkest Underworld recesses, whilst restless shades of mortals look upon it and recall the short days they could drink it and draw breath.''"
+|-
+! colspan="2" |Inspect South Fountain 01
+|-
+|'''Storyteller'''
+|"''The gemstone-bearing Prince commissioned such a finely crafted fountain for the House, that all the shades who witnessed it still think of him quite fondly, ever since.''"
+|-
+! colspan="2" |Inspect Cauldron 01
+|-
+|'''Storyteller'''
+|"''The dead have utterly no use for sustenance, although they try to feast upon it anyway, as though imagining the customs of the mortal life brings them some sense of peace.''"
+|-
+! colspan="2" |Inspect Kitchen Island
+|-
+|'''Storyteller'''
+|"''Having invested heavily into the cooking-area within the House of Hades, the empty-stomached Zagreus can nonetheless find nothing fit to eat.''"
+|-
+! colspan="2" |Inspect Poet Bust 01
+|-
+|'''Storyteller'''
+|"''Within the House's gallery now sits the bust of a distinguished poet, ruggedly handsome in his age, who, although yet to earn his fated fame, shall probably be better known someday.''"
+|-
+! colspan="2" |Inspect Asphodel Statue 01
+|-
+|'''Storyteller'''
+|"''The frightful countenance of a bleached Bloodless warrior decorates the hall forever more, eternally in tribute to the savage servants of the House's lord.''"
+|-
+! colspan="2" |Inspect Warrior Statue 01
+|-
+|'''Storyteller'''
+|"''The perfect-chiseled physicality of one of Greece's greatest-ever heroes now adorns the House's gallery, reminding most onlookers of many ways in which they fail to compare.''"
+|-
+! colspan="2" |Inspect Main Hall Fireplace 01
+|-
+|'''Storyteller'''
+|"''The light provided by the flames of deepest hell enhances the lounging area with a soft glow; and their warmth soothes the few living denizens there.''"
+|-
+! colspan="2" |Inspect Sundial 01
+|-
+|'''Storyteller'''
+|"''Time seems to stand quite still within the eternal realm of the dead, evidenced even by the means of measuring its passage.''"
+|-
+! colspan="2" |Flashback Mother 01
+|-
+|'''Storyteller'''
+|"''It is the dead of night, or the approximation of it in the realm of Hades. Prince of the Underworld Zagreus rises from a fitful slumber, with much mischief on his mind.''"
+|-
+! colspan="2" |Flashback Day Night Job 01
+|-
+|'''Storyteller'''
+|"''The heavy-sleeping Underworld Prince arises, with the feeling that the brief nap he intended as a respite from the rigors of the day or night apparently was none-too-brief, at all...''"
+|-
+! colspan="2" |Inspect Bedroom 01
+|-
+|'''Storyteller'''
+|"''The bedchambers of Prince Zagreus lie in a perpetual state of utter disarray, despite his Lord and master of the House repeatedly insisting that he pick everything up.''"
+|-
+! colspan="2" |Inspect Bedroom Trojan Arms
+|-
+|'''Storyteller'''
+|"''The shattered weapons of the siege of Ilion are now reduced to window-dressings in the Prince's ever-cluttered lair.''"
+|-
+! colspan="2" |Inspect Bedroom Achilles Poster
+|-
+|'''Storyteller'''
+|"''The valor of the great-hearted Achilles is immortalized upon the Prince's wall, as though it might stir up more courage from within.''"
+|-
+! colspan="2" |Inspect Bedroom Aphrodite Poster
+|-
+|'''Storyteller'''
+|"''The visage of the goddess Aphrodite now adorns the Prince's bedchambers, perhaps to provide consolation after when next he dies.''"
+|-
+! colspan="2" |Inspect Bedroom Dionysus Poster
+|-
+|'''Storyteller'''
+|"''The ever-smiling, wine-washed countenance of the great Lord Dionysus now adorns the Prince's chamber-wall, thus radiating questionable influence.''"
+|-
+! colspan="2" |Inspect Bedroom Scrying Pool
+|-
+|'''Storyteller'''
+|"''A beautifully decorated, subtly enchanted bowl containing traces of the hapless Prince's past attempts to flee the Underworld now accents a particularly cluttered corner of his room.''"
+|-
+! colspan="2" |Inspect Bedroom Lyre
+|-
+|'''Storyteller'''
+|"''A delicately crafted instrument of music-making now resides within the clamor-causing Prince's chambers, doubtless fearing, if it could, his heavy-handed touch.''"
+|-
+! colspan="2" |Inspect Bedroom Gaming Table 01
+|-
+|'''Storyteller'''
+|"''An object intricately carven solely for the purposes of recreation now resides within the pleasure-seeking Prince's chambers, although his lack for an opponent limits its appeal.''"
+|-
+! colspan="2" |Inspect Bedroom Rug 01
+|-
+|'''Storyteller'''
+|"''Much of the softness of the richly woven rug the Prince procured cannot be fully felt beneath his flame-licked feet.''"
+|-
+! colspan="2" |Inspect Bedroom Fancy Bed
+|-
+|'''Storyteller'''
+|"''With its just-right softness and death-themed embroidery, the new bedding of Prince Zagreus is the envy of all those who wish to rest in peace.''"
+|-
+! colspan="2" |Inspect Bedroom Couch 01
+|-
+|'''Storyteller'''
+|"''The ever-energetic Prince alas remains incapable of sitting still, even with such a supple, comfortable seating arrangement nestled in his chambers now.''"
+|-
+! colspan="2" |Inspect Bedroom Weights 01
+|-
+|'''Storyteller'''
+|"''A massive set of weights positioned carefully in line of sight of any visitors shall doubtless make them think the Prince is stronger and in better shape than in reality.''"
+|-
+! colspan="2" |Inspect Bedroom Quest Log
+|-
+|'''Storyteller'''
+|"''The fate-abetting Prince perhaps believes it was through his own choice that he procured the Fated List of Minor Prophecies, but it was preordained.''"
+|-
+! colspan="2" |Flashback 01
+|-
+|'''Storyteller'''
+|"''All is quiet at this time; ever-dreaming Hypnos put a spell upon the House, as willful Zagreus had asked of him. All are fast asleep, save for the Prince. It is exactly as he planned.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Portrait 01
+|-
+|'''Storyteller'''
+|"''In his Lord Father's very private chambers, Zagreus, the lock-removing prince, discovers a most delicately painted likeness of none other than Persephone, herself. A coat of dust suggests it has remained here for some time.''"
+|-
+! colspan="2" |Inspect Death Area Bedroom Hades Capes 01
+|-
+|'''Storyteller'''
+|"''The stoic Lord and Master of the House possesses wealth beyond imagining, a portion of which he has used for a crisp set of attire for every passing day.''"
+|-
+! colspan="2" |Inspect Death Area Office Teleporter 01
+|-
+|'''Storyteller'''
+|"''Within the recesses of the administrative chamber lies the Eldest Sigil of the Master's House: a symbol of the Fate-given authority to rule beneath the earth, and means by which to travel the entirety of all that dark domain.''"
+|-
+! colspan="2" |Inspect Death Area Office Water Cooler 01
+|-
+|'''Storyteller'''
+|"''The cool, purified waters of the Styx are available in limitless supply to all servants of the god of the dead authorized to work endlessly within the House administrative chamber.''"
+|-
+! colspan="2" |Inspect Death Area Office Poster 01
+|-
+|'''Storyteller'''
+|"''The administrative chamber's ever-working shades remain utterly dedicated to their thankless toil all because of an inspiring rendition of how dedicated they ideally should be.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 01
+|-
+|'''Storyteller'''
+|"''Amongst the parchment-records of the dead and punished are the sealed documents known as the Knave-King's Sentence, forcing said king to endlessly toil with a boulder till the end of time.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 02
+|-
+|'''Storyteller'''
+|"''Nestled among the towering administrative parchmentwork of the long-since-deceased lies an old document concerning a special pact signed by a once-living court musician, who attempted vainly to rescue his wife from death.''"
+|-
+! colspan="2" |Inspect Death Area Office Sealed Contract 03
+|-
+|'''Storyteller'''
+|"''Buried deep within the archives, holding many binding pacts between Lord Hades and the dead, resides an old agreement; an exchange for services from an extraordinary warrior, for eternity within Elysium for his dear partner.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 01
+|-
+|'''Storyteller'''
+|"''The day or night's duties are sheer simplicity itself; at least at first, as when the prince simply signs in to signal the commencement of his shift.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 02
+|-
+|'''Storyteller'''
+|"''The often-failing prince attempts to sort the ledgers in the fashion necessary for the proper keeping of his father's realm.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 03
+|-
+|'''Storyteller'''
+|"''The training-lacking prince's efforts to administer approvals to the judgment terms ultimately leave a lot to be desired.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 04
+|-
+|'''Storyteller'''
+|"''The hard-laboring shades responsible for the administration of the prince's father's realm merely look on at the prince's ill-fated attempts.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 05
+|-
+|'''Storyteller'''
+|"''The relaxation-loving prince never paid suitably enough attention to learn properly how to arrange the record-bookings of the regions of his father's realm.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 06
+|-
+|'''Storyteller'''
+|"''This set of delicate responsibilities is easily achieved, at least by someone capable and trained to do the work, unlike the oft-distracted Underworld Prince.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 07
+|-
+|'''Storyteller'''
+|"''A careful record must be kept of all expenses paid within the House; a delicately-handled tabulation process which the prince is ill-equipped to fully undertake.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 08
+|-
+|'''Storyteller'''
+|"''A steadily-updated ledger of the House's income in the form of brilliant gemstones, diamonds, Darkness, and the like, is merely one among the prince's least-liked aspects of his work.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 09
+|-
+|'''Storyteller'''
+|"''Records of expired House Contractor renovations line a desk in the administrative chamber, though the prince has absolutely no desire now to organize them alphabetically, by date.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 10
+|-
+|'''Storyteller'''
+|"''Attendance records of the working-shades who toil for the House need to be verified; the shades' due compensation, rapidly approved; and yet the prince cannot remember all the necessary steps.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 11
+|-
+|'''Storyteller'''
+|"''Disorderly Prince Zagreus gazes upon the endless stacks of parchment-paper, each containing work-details to be registered and neatly organized, and starts to feel his optimism fade.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 12
+|-
+|'''Storyteller'''
+|"''Prince Zagreus must have some favored tasks in the administrative chamber of the House; but surely none of them include the tasks demanding his attention, here.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 13
+|-
+|'''Storyteller'''
+|"''Reviewing lists of claims from shades with grievances is a very important service of the House, or so Lord Hades once attempted to impress upon his willful son.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 14
+|-
+|'''Storyteller'''
+|"''A litany of complaints submitted by restless shades across the Underworld must be evaluated, organized, and processed, but Prince Zagreus does not even know where to begin.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 15
+|-
+|'''Storyteller'''
+|"''Supplies on all the desks in the administrative chamber must be carefully maintained and neatly placed in a specific way, which the forgetful prince has not yet memorized in full.''"
+|-
+! colspan="2" |Flashback Day Night Job Office 16
+|-
+|'''Storyteller'''
+|"''Security reports concerning failed escape attempts from Tartarus require timely verification and official response, neither of which Prince Zagreus is fit to give.''"
+|-
+! colspan="2" |Flashback Day Night Job Office Conclusion 01
+|-
+|'''Storyteller'''
+|"''At last, the work-disliking prince records a summary of the results of his attempts to be of any use to the administrative needs of his grim father's House.''"
+|-
+! colspan="2" |Inspect Pre Run 01
+|-
+|'''Storyteller'''
+|"''The courtyard of the House of Hades is kept neat and orderly, in contrast to the terrifying sprawl that lies beyond.''"
+|-
+! colspan="2" |Minotaur Autograph 01
+|-
+|'''Minotaur'''
+|"''Ah''. I sense another furious battle here awaits us, short one. Although you're more inquisitive than usual..."
+|-
+|'''Zagreus'''
+|"''Uhh'', oh! It's just, I have an odd request. You see, the god of slumber, Hypnos? Colleague of mine. Huge fan. He's in desperate need of your autograph. Little personalized message? I don't suppose you'd be so kind. It'd mean a lot to him."
+|-
+|'''Minotaur'''
+|"Autograph. I see. Then, it appears there are such gods as favor me. I will inscribe a bit of parchment for your colleague, then."
+|-
+|'''Storyteller'''
+|"''The god-forsaken Minotaur impresses then upon a parchment a brief message to the god of sleep, and gives it to the favor-asking Prince.''"
+|-
+|'''Minotaur'''
+|"Know, short one, that this favor is for you and not for Hypnos. Though he may challenge me himself, at any time."
+|-
+! colspan="2" |Hades Misc Meeting 07
+|-
+|'''Hades'''
+|"Why, I can scarce believe my eyes, is that you, boy?! Cerberus, look who it is, he's back!"
+|-
+|'''Storyteller'''
+|"''Cerberus looks mournfully toward the Prince.''"
+|-
+|'''Zagreus'''
+|"No need to drag the dog into this, Father."
+|-
+|'''Hades'''
+|"Anything you say to me, you say in front of Cerberus! You might even learn a thing or two from him of listening, and of obedience!"
+|-
+! colspan="2" |Cerberus Misc Meeting 01
+|-
+|'''Storyteller'''
+|"''Infernal watch-dog Cerberus regards the Underworld Prince with mixed emotions, from purest joy to deepest melancholy.''"
+|-
+|'''Zagreus'''
+|"You watch over things for me, won't you, boy? You know I'd take you if I could."
+|-
+! colspan="2" |Cerberus Misc Meeting 02
+|-
+|'''Zagreus'''
+|"How you holding up, boy, eating well lately? All three mouths full and happy?"
+|-
+|'''Storyteller'''
+|"''Each terrifying maw of the infernal watch-dog Cerberus responds affirmatively, one after the next, as if to reassure the ever-doubting Prince.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 03
+|-
+|'''Zagreus'''
+|"Take it easy, boy. I'll probably be back here in no time."
+|-
+|'''Storyteller'''
+|"''The watch-dog Cerberus merely sulks upon his supple bedroll.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 04
+|-
+|'''Zagreus'''
+|"You keep an eye on Father for me, boy. Don't let him sour up everyone's mood."
+|-
+|'''Storyteller'''
+|"''Cerberus promises to do exactly that, in his own way.''"
+|-
+! colspan="2" |Cerberus Misc Meeting 05
+|-
+|'''Zagreus'''
+|"How's everything been going lately, boy? What's the good word?"
+|-
+|'''Storyteller'''
+|"''The Underworld Prince's casual inquiry serves but to frustrate the infernal hound, as none of his three heads possess the gift and curse of speech.''"
+|-
+! colspan="2" |Cerberus Run Progress 01
+|-
+|'''Zagreus'''
+|"Hey, boy, just me again. Here to report it's pretty dangerous out there even without you on guard duty all the time."
+|-
+|'''Storyteller'''
+|"''The venerable hound of hell barely acknowledges the softly-spoken Prince's platitude, knowing full well the Underworld is not as vigilantly guarded as in ages past.''"
+|-
+! colspan="2" |Cerberus Run Progress 02
+|-
+|'''Zagreus'''
+|"Guess what, boy? Made it all the way to Asphodel last time! I fully understand how come you never liked it there. Now to trek on back, I guess. Take care!"
+|-
+|'''Storyteller'''
+|"''Despite the Underworld Prince's optimism, his old companion Cerberus, the multi-headed hound, maintains a somewhat sulky attitude for now.''"
+|-
+! colspan="2" |Cerberus Run Progress 03
+|-
+|'''Zagreus'''
+|"Hey good to see you back here, boy. I'm glad you're back on guard duty! Even if it means having to find a way past you. I know you're just doing your job."
+|-
+|'''Storyteller'''
+|"''The fear-inducing hellhound eyes the Underworld Prince uneasily, his six ferocious eyes each glistening within the dim light of the House.''"
+|-
+! colspan="2" |Cerberus About Fast Travel 01
+|-
+|'''Zagreus'''
+|"I hope I haven't been inconveniencing you too much with all the visits to the Temple lately, boy. Say, how do you get back? Charon giving you a lift?"
+|-
+|'''Storyteller'''
+|"''Thus asks the Prince his question of the guardian of the gates of hell, knowing full well the multi-headed monster keeps a wide berth of the river-boatman, as do all with any sense.''"
+|-
+! colspan="2" |Cerberus About Ball 01
+|-
+|'''Zagreus'''
+|"Enjoying staring at that ball I got you, boy? No fun if it doesn't fight back, huh..."
+|-
+|'''Storyteller'''
+|"''The hell-forged multi-headed monster feels no urgency to waste his precious time on simple play-things, much preferring to conserve his vast energy reserves in case any trespassers need to be eaten suddenly.''"
+|-
+! colspan="2" |Cerberus Lounge Closed 01
+|-
+|'''Zagreus'''
+|"You really ripped the lounge to pieces, boy? I hope you didn't get yourself in too much trouble. I'm sorry to have worried you like that."
+|-
+|'''Storyteller'''
+|"''The guilt-wracked monster Cerberus admits to committing the crime, expressing some remorse for having implicated the incendiary Prince.''"
+|-
+! colspan="2" |Cerberus Lounge Open 01
+|-
+|'''Zagreus'''
+|"Hey, did you see, boy? The old lounge is good as new again, you ought to check it out! Just, don't annihilate it like you did last time."
+|-
+|'''Storyteller'''
+|"''Each savage countenance of Cerberus lights up to hear the news, doubtless beginning to assemble stratagems for ravaging the lounging area once more.''"
+|-
+! colspan="2" |Cerberus About Underworld Renovations 01
+|-
+|'''Zagreus'''
+|"Hey, boy. I hope all the construction and renovation around here hasn't been too inconvenient for you, lately. But hey, the lounge is just about ready for you to utterly destroy again!"
+|-
+|'''Storyteller'''
+|"''Prince Zagreus implants in the impressionable, vicious watchdog of the Underworld a new appetite for more destruction, to be sated in another age.''"
+|-
+! colspan="2" |Cerberus About Being Best Boy 01
+|-
+|'''Zagreus'''
+|"You know, after dying in some wretched manner, giving pets to my good boy sure helps me get back on my feet. Thanks for being here for me."
+|-
+|'''Storyteller'''
+|"''The burning embers in the eyes of monstrous Cerberus, notorious hound of hell, reveal that he, too, is amenable to the pets of which the Underworld Prince speaks, and in fact is deeply grateful for the quantity of them.''"
+|-
+! colspan="2" |Cerberus About Persephone 01
+|-
+|'''Zagreus'''
+|"I found her, boy! My mother! Persephone, you remember her, don't you? She was pleased to hear about you. But I couldn't stay for long, and I have to find her again, so... guess I'll see you at the Temple, then?"
+|-
+|'''Storyteller'''
+|"''The ghoulish features of the much-reviled hound of hell all soften instantly upon the mention of a certain name; briefly, then, the monster is at peace.''"
+|-
+! colspan="2" |Cerberus Post Ending 01
+|-
+|'''Zagreus'''
+|"Well, look at you, boy! Never seen you quite so perky, relatively speaking of course, big tough guy like yourself. You must have missed Mother just as much as she missed you. Well, you've got plenty of time for catching up on things, now!"
+|-
+|'''Storyteller'''
+|"''The monstrous triple-headed beast of Hades would perhaps be overcome with pure emotion by the joyous circumstances, were he only capable of this.''"
+|-
+! colspan="2" |Cerberus Post Ending 02
+|-
+|'''Zagreus'''
+|"Bet you're happy to see Mother home again, huh, boy? Only wish you could have told me about her before."
+|-
+|'''Storyteller'''
+|"''The hell-born monster Cerberus contentedly ignores the Prince's callous, inconsiderate remark.''"
+|-
+! colspan="2" |Cerberus Extreme Measures Reaction 01
+|-
+|'''Zagreus'''
+|"''Oof'', you showed me back there, boy. With Father on the surface? I know you were just playing, but... go easier on me, next time, will you?"
+|-
+|'''Storyteller'''
+|"''The unrepentant monster Cerberus is thoroughly incapable of showing neither restraint nor remorse.''"
+|-
+! colspan="2" |Cerberus Post Epilogue 01
+|-
+|'''Zagreus'''
+|"We're all very proud of you, boy! You were so well-behaved at the feast. I was worried sick one uncle or the other was going to set you off at some point, but you were Patience Incarnate. Thanks for helping show our extended family a good time!"
+|-
+|'''Storyteller'''
+|"''How infernal Cerberus, the hound of hell, managed to maintain civilized behavior throughout the duration of the recent feast remains a mystery to all who attended.''"
+|-
+! colspan="2" |Cerberus Chat 02
+|-
+|'''Storyteller'''
+|"''The Prince and Cerberus exchange a look.''"
+|-
+! colspan="2" |Cerberus Chat 03
+|-
+|'''Storyteller'''
+|"''The watch-dog Cerberus observes the Prince.''"
+|-
+! colspan="2" |Cerberus Chat 04
+|-
+|'''Storyteller'''
+|"''Cerberus cannot be bothered at this time.''"
+|-
+! colspan="2" |Cerberus Chat 05
+|-
+|'''Storyteller'''
+|"''Cerberus is comfortably at rest, observing all.''"
+|-
+! colspan="2" |Cerberus Chat 06
+|-
+|'''Storyteller'''
+|"''Cerberus lies as ever at the foot of his Lord Master's throne.''"
+|-
+! colspan="2" |Cerberus Chat 07
+|-
+|'''Storyteller'''
+|"''Cerberus makes no attempt to move.''"
+|-
+! colspan="2" |Cerberus Chat 08
+|-
+|'''Storyteller'''
+|"''Cerberus is busily considering upon what else to gnaw.''"
+|-
+! colspan="2" |Cerberus Chat 09
+|-
+|'''Storyteller'''
+|"''Cerberus goes about his business: gnawing, in this case.''"
+|-
+! colspan="2" |Cerberus Chat 10
+|-
+|'''Storyteller'''
+|"''Cerberus is preoccupied with scratching and biting at himself.''"
+|-
+! colspan="2" |Cerberus Chat 11
+|-
+|'''Storyteller'''
+|"''Cerberus is uninterested in conversing at this time.''"
+|-
+! colspan="2" |Cerberus Chat 12
+|-
+|'''Storyteller'''
+|"''The hound of hell rests peacefully upon his favored spot.''"
+|-
+! colspan="2" |Cerberus Chat 13
+|-
+|'''Storyteller'''
+|"''All three of Cerberus the watch-dog's terrifying countenances greet the Prince.''"
+|-
+! colspan="2" |Cerberus Chat 14
+|-
+|'''Storyteller'''
+|"''The vicious three-faced guard-hound of the gates of death barks out a brief hello.''"
+|-
+! colspan="2" |Cerberus Chat 15
+|-
+|'''Storyteller'''
+|"''The ever-faithful Cerberus remains resting steadfastly in his spot.''"
+|-
+! colspan="2" |Cerberus Chat 16
+|-
+|'''Storyteller'''
+|"''Notoriously vicious Cerberus is watching quietly his Master's court.''"
+|-
+! colspan="2" |Cerberus Chat 17
+|-
+|'''Storyteller'''
+|"''One of the frightful maws of Cerberus busily grooms the other two.''"
+|-
+! colspan="2" |Cerberus Chat 18
+|-
+|'''Storyteller'''
+|"''The triple-headed monster Cerberus is dutifully sitting there as ever.''"
+|-
+! colspan="2" |Cerberus Chat 19
+|-
+|'''Storyteller'''
+|"''The many-headed Cerberus is busy thinking of his next savory meal.''"
+|-
+! colspan="2" |Cerberus Chat 20
+|-
+|'''Storyteller'''
+|"''Cerberus acknowledges the Prince with an affection tempered well with time.''"
+|-
+! colspan="2" |Cerberus Chat 21
+|-
+|'''Storyteller'''
+|"''The hellish watch-dog snarls at the listless Shades crowding about the court.''"
+|-
+! colspan="2" |Cerberus Chat 22
+|-
+|'''Storyteller'''
+|"''The much-feared Cerberus licks endlessly at something on the floor.''"
+|-
+! colspan="2" |Cerberus Chat Extra 01
+|-
+|'''Storyteller'''
+|"''The hound of hell barely regards the Prince, having been sated for the time.''"
+|-
+! colspan="2" |Cerberus Chat Extra 02
+|-
+|'''Storyteller'''
+|"''The vicious triple-headed Cerberus shows some restraint, for now.''"
+|-
+! colspan="2" |Cerberus Chat Extra 03
+|-
+|'''Storyteller'''
+|"''Cerberus is too busy living in the lap of luxury to pay much heed.''"
+|-
+! colspan="2" |Cerberus Chat Extra 04
+|-
+|'''Storyteller'''
+|"''The monster Cerberus sits vigilant atop his bedroll.''"
+|-
+! colspan="2" |Cerberus Chat Extra 05
+|-
+|'''Storyteller'''
+|"''Each savage maw of Cerberus salivates in anticipation of the next time to feed.''"
+|-
+! colspan="2" |Cerberus Chat Extra 06
+|-
+|'''Storyteller'''
+|"''Terrifying Cerberus is busy gathering his strength for when next he shall bar the Prince's path.''"
+|-
+! colspan="2" |Cerberus Gift 01
+|-
+|'''Zagreus'''
+|"Look what I got for you, boy...!"
+|-
+|'''Storyteller'''
+|"''As one of Cerberus' heads receives the Prince's gift, another muzzles something back into his hand.''"
+|-
+! colspan="2" |Cerberus Gift 02
+|-
+|'''Zagreus'''
+|"There's a good boy... thought you'd like that!"
+|-
+|'''Storyteller'''
+|"''Cerberus is overjoyed to have received such a delicious treat.''"
+|-
+! colspan="2" |Cerberus Gift 03
+|-
+|'''Zagreus'''
+|"Only the very best treats for my best friend, right, boy?"
+|-
+|'''Storyteller'''
+|"''Cerberus yawlps in merriment upon receiving such a generous offering.''"
+|-
+! colspan="2" |Cerberus Gift 04
+|-
+|'''Zagreus'''
+|"It is my humble duty to oblige my favorite boy with all the treats as I am able to procure."
+|-
+|'''Storyteller'''
+|"''Knowing the watch-dog's never-ending appetite for treats, the Prince obliges him.''"
+|-
+! colspan="2" |Cerberus Gift 05
+|-
+|'''Zagreus'''
+|"You like this stuff, don't you, boy? Well, good, because I like sneaking it over to you!"
+|-
+|'''Storyteller'''
+|"''The delectable taste of Nectar is enough to briefly sate even the ferocious appetite of the hound of hell.''"
+|-
+! colspan="2" |Cerberus Gift 06
+|-
+|'''Zagreus'''
+|"This Nectar not fancy enough for you, boy, is that it? You've developed quite the delicate palate at your distinguished age!"
+|-
+|'''Storyteller'''
+|"''Though having little appetite remaining for the lightness of Nectar's flavor, the multi-headed monster of the Underworld nevertheless accepts.''"
+|-
+! colspan="2" |Cerberus Gift 07
+|-
+|'''Zagreus'''
+|"That's right, boy... Ambrosia, just for you. You're going to love it. Pretty much every creature, living or dead, does!"
+|-
+|'''Storyteller'''
+|"''The six eyes of the hideous hound of hell go wide at once from having received the exquisite gift of rare Olympian Ambrosia. The creature is rather beside himself.''"
+|-
+! colspan="2" |Cerberus Gift 08
+|-
+|'''Zagreus'''
+|"Hits the spot, doesn't it, boy? I know you're caught up in the middle of all this and having to weigh your loyalties more than you'd like. I'm sorry we're putting you through this."
+|-
+|'''Storyteller'''
+|"''The Underworld Prince's next attempt to bribe the monstrous triple-headed hellhound into further liking him proves once again successful, as the kingly gift of heavenly Ambrosia is beyond compare.''"
+|-
+! colspan="2" |Cerberus Gift 09
+|-
+|'''Zagreus'''
+|"Cerberus, not to get all sentimental on you, but... oh, who am I kidding, look... you've been with me my entire life! I know you're here at home partly because of me, aren't you?"
+|-
+|'''Storyteller'''
+|"''The bond between a hound and its master is as hard as adamant. Cerberus, the fearsome monster born of hell, and guardian of its gates, answers firstly to the Prince's father. But it turns out, the Prince may be the next best thing.''"
+|-
+|'''Zagreus'''
+|"You're the best boy in the whole world. Even if heads Beta and Gamma don't much care for pets, do they? I've got more than enough lined up for you, though. Count on it."
+|-
+! colspan="2" |Cerberus Styx Meeting 01
+|-
+|'''Storyteller'''
+|"''The multi-headed Cerberus stands vigilant before the Underworld's entryway; the tales of what happens to those foolish enough to attempt to pass are far too graphic to describe.''"
+|-
+|'''Zagreus'''
+|"So it's really come to this, boy? After everything we've been through. Well then, if this is how it has to be, there's nothing left to say. Except for: ''On your guard''!!"
+|-
+|'''Zagreus'''
+|"''Hahaha'', no, but seriously, boy. I know why you're here. There has to be a way to make you look the other way. What if I help you with the Satyr problem, would you let me go? Please. I have to find Persephone... my mother. You know what this means to me."
+|-
+|'''Storyteller'''
+|"''After a moment's hesitation and deliberation, the voracious hound of hell barks once, affirmatively, toward the Prince, who sets off in search of something that can sate the monster's appetites.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock 01
+|-
+|'''Zagreus'''
+|"All right, boy, I got your favorite treat. But you have to promise to let me pass if I hand it over, OK?"
+|-
+|'''Storyteller'''
+|"''Terrifying Cerberus accepts the fetid sack, and scans the darkened hall for where best to consume the stomach-turning contents.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 01
+|-
+|'''Storyteller'''
+|"''Cerberus again accepts the sack.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 02
+|-
+|'''Storyteller'''
+|"''Gigantic Cerberus accepts the Prince's foul offering.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 03
+|-
+|'''Storyteller'''
+|"''The fearsome Cerberus accepts the Satyr sack.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 04
+|-
+|'''Storyteller'''
+|"''The Prince persuades the Underworld's ferocious guardian to move aside.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 05
+|-
+|'''Storyteller'''
+|"''The Prince compels the multi-headed hound to let him pass.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 06
+|-
+|'''Storyteller'''
+|"''Thus has the Prince again persuaded fearsome Cerberus to get out of his way.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 07
+|-
+|'''Storyteller'''
+|"''Joyfully the hound of hell accepts another Satyr sack.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 08
+|-
+|'''Storyteller'''
+|"''The monster's solitary weakness, Satyr sacks, prove terribly effective, once again.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 09
+|-
+|'''Storyteller'''
+|"''Fang-bearing Cerberus directs all three of his attentions toward the Satyr sack.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 10
+|-
+|'''Storyteller'''
+|"''The guardian of hell itself decides the time has come for a short break and snack.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 11
+|-
+|'''Storyteller'''
+|"''Prince Zagreus once more offers to Cerberus one of his favored sacks.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 12
+|-
+|'''Storyteller'''
+|"''Cerberus moves for no one, but for Satyr sacks, he can make an exception.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 13
+|-
+|'''Storyteller'''
+|"''Vigilant Cerberus decides to look the other way, this once.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 14
+|-
+|'''Storyteller'''
+|"''Each violent countenance of Cerberus agrees the Satyr sack must be destroyed.''"
+|-
+! colspan="2" |Cerberus Boss Door Unlock Repeatable 15
+|-
+|'''Storyteller'''
+|"''After deliberating briefly, Cerberus concludes that, yes, he shall accept the sack.''"
+|-
+! colspan="2" |Persephone With Cerberus 01
+|-
+|'''Persephone'''
+|"Oh, Cerberus! Doubtless you deserve the biggest thanks that this House still stands, don't you? Did you enjoy the treat I brought you from the surface?"
+|-
+|'''Storyteller'''
+|"''The surface-treat-devouring hound of hell provides the Queen a most decidedly affirmative response.''"
+|-
+|'''Persephone'''
+|"I thought you might. You wouldn't know it wasn't made of meat, I'll bet! I'll see if we can't grow you plenty more."
+|-
+! colspan="2" |Persephone With Cerberus 02
+|-
+|'''Persephone'''
+|"You're such a good boy, aren't you, Cerberus? Yes you are! Guarded the place while I was out. And even let my son come visit me!"
+|-
+|'''Storyteller'''
+|"''The ever-vigilant and terrifying Cerberus merely accepts the praise.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''Concealed in the dark recesses of the Underworld is the land of Erebus, wherein the dead await eternal sentencing; they long for the attention and good graces of their master, the Lord Hades.''"
+|-
+! colspan="2" |Charon Fight 01 First Inspect
+|-
+|'''Storyteller'''
+|"''A hidden stretch of the boundless river Styx cuts through misty Erebus, providing for the river-boatman Charon a locale in which to deal with the unruliest of souls.''"
+|-
+! colspan="2" |Inspect B Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''Having traversed the flaming river Phlegethon to gain this vantage point, relentless Zagreus must now confront a foe of unimaginable savagery, who lies ahead, awaiting patiently its time to strike.''"
+|-
+! colspan="2" |Inspect B Intro 02
+|-
+|'''Storyteller'''
+|"''Within the suffocating heat of Asphodel reside the vast majority of those who lived upon the earth and died. There they persist until the end of time.''"
+|-
+! colspan="2" |B Mini Boss 02 First Inspect
+|-
+|'''Storyteller'''
+|"''The act of sorcery often ends in an untimely death and an eternity in Tartarus for careless souls, though some are able to perfect the trade, and take up permanent residence elsewhere...''"
+|-
+! colspan="2" |Inspect B Shop 01 01
+|-
+|'''Storyteller'''
+|"''The searing flame and ashes of the river Phlegethon mean nothing to the ferryman, Charon, who travels all the waters of the Underworld, bearing the dead, the damned, and all their fineries.''"
+|-
+! colspan="2" |Inspect B Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Hidden well within the limitless inferno of the river Phlegethon, somehow, a trickle of life-giving water yet remains; as though provided by the Fates themselves unto the very lucky Prince.''"
+|-
+! colspan="2" |Inspect B Intro 01 01
+|-
+|'''Storyteller'''
+|"''The once-verdant plains of Asphodel are now engulfed in scintillating flame, having been flooded by the river Phlegethon, whose hideously superheated contents could bring death swiftly even to those resistant to most heat.''"
+|-
+! colspan="2" |Inspect B Intro 02
+|-
+|'''Storyteller'''
+|"''Within the suffocating heat of Asphodel reside the vast majority of those who lived upon the earth and died. There they persist until the end of time.''"
+|-
+! colspan="2" |Inspect C Pre Boss 01 01
+|-
+|'''Storyteller'''
+|"''The magnificently ominous facade of the great Elysian Stadium looms tall above the rabble-rousing Prince, as if to goad him into such a competition which he cannot hope to win.''"
+|-
+! colspan="2" |Inspect C Shop 01 01
+|-
+|'''Storyteller'''
+|"''The vast and multitudinous riches of both the surface and the Underworld are hoarded by the river-boatman, Charon, whose services are often tendered to the wealthiest within Elysium.''"
+|-
+! colspan="2" |Inspect C Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Within the delicately hewn constructions of Elysium exist places of peace so utterly serene and absolute as mortalkind is seldom to experience during the average short and often-painful coil.''"
+|-
+! colspan="2" |Inspect C Story 01 01
+|-
+|'''Storyteller'''
+|"''Amid Elysium's moss-covered chambers, carved of stone, stand untold numbers of eternal monuments in tribute to the greatest heroes which mortality can offer, there to honor them in life as well as death.''"
+|-
+! colspan="2" |Inspect C Intro 01
+|-
+|'''Storyteller'''
+|"''The rare, heavenly splendors of Elysium, reserved for only the most great of mortal souls, spread forth luxuriantly all about the fire-stepping Prince.''"
+|-
+! colspan="2" |Inspect C Intro 02
+|-
+|'''Storyteller'''
+|"''The enshrouded river of forgetfulness, Lethe, flows through the hallowed chambers of Elysium, numbing old pains and memories of the most-noble shades residing there.''"
+|-
+! colspan="2" |Inspect Room Secret 01 01
+|-
+|'''Storyteller'''
+|"''The deepest reaches of the Underworld... the void from which all life and consciousness sprang forth during the dawn of time... the realm of Chaos. A land almost unseen even to denizens of death's kingdom.''"
+|-
+! colspan="2" |Inspect Room Secret 02 01
+|-
+|'''Storyteller'''
+|"''The fathomless expanses hidden in darkest corners of the Underworld stretch well past the notice of Lord Hades himself; and yet, the interfering Prince somehow discovers passage there.''"
+|-
+! colspan="2" |Inspect Room Secret 03 01
+|-
+|'''Storyteller'''
+|"''Within the Underworld's quietest, most solitary, darkest abyss lies hidden evidence of the beginning of all things, of Chaos! The most ancient sculptor that has shaped this world.''"
+|-
+! colspan="2" |Inspect D Mini Boss 02 01
+|-
+|'''Storyteller'''
+|"''Inside the filth-encrusted lairs carved into the looming edifices of the Underworld lie such terrible abominations that not even grim Lord Hades is inclined to speak of them.''"
+|-
+! colspan="2" |Inspect D Reprieve 01 01
+|-
+|'''Storyteller'''
+|"''Deep within the desecrated lair of the god-defiling Satyrs lie the noisome contents of their profane rituals, so foul as to be indescribable.''"
+|-
+! colspan="2" |Inspect D Intro 01 01
+|-
+|'''Storyteller'''
+|"''At last the willful prince has ventured all the way up to the surface of the mortal realm, yet still he is encased within the earth itself: the gateway to the Underworld, a threshold from which there is no escape.''"
+|-
+! colspan="2" |Inspect D Hub 01
+|-
+|'''Storyteller'''
+|"''The vast Temple of Styx and its innumerable dangers now are all that separate the Underworld Prince from the land outside, which he so desperately longs to see.''"
+|-
+! colspan="2" |Inspect D Hub 02
+|-
+|'''Storyteller'''
+|"''Not far from here, the dead begin their journey to their final resting-place down in the depths below; and so the river-boatman Charon often passes through.''"
+|-
+! colspan="2" |Inspect D Hub 03
+|-
+|'''Storyteller'''
+|"''The widely-feared and many-headed Cerberus, the Underworld's sentinel, presides over the entrance to this realm, devouring whole those fool enough to make attempts to flee.''"
+|-
+! colspan="2" |Inspect D Hub 04
+|-
+|'''Storyteller'''
+|"''A crudely-hewn network of tunnels grows from one of the cold Temple's flanks, containing vicious denizens unwelcome in this realm, even in death.''"
+|-
+! colspan="2" |Inspect E Intro 01 01
+|-
+|'''Storyteller'''
+|"''The surface, wind-swept, wracked by freezing cold, nonetheless instills within the prince a sense of awe, and the sublime. For it is unlike anything that he has seen.''"
+|-
+|'''Storyteller'''
+|"''All manner of fruits and vegetables thrive within the hidden gardens of Persephone, the one-time Queen of all the Underworld. A world of life, far from the realm of death.''"
+|-
+! colspan="2" |A Pre Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Beyond the present chamber lies the outermost perimeter of Tartarus, promising terrifying dangers far beyond the Underworld Prince's reckoning.''"
+|-
+! colspan="2" |A Boss 01 Inspect 01
+|-
+|'''Storyteller'''
+|"''The Erinyes; known also as the Furies, they are the trusted sentinels of Lord Hades, charged with torturing the worst of mortalkind... and ridding the Underworld of any fool enough to trespass where they do not belong.''"
+|-
+! colspan="2" |A Post Boss 01 First Inspect
+|-
+|'''Storyteller'''
+|"''The path from Tartarus is finally laid bare. Far above, the heat from Phlegethon, the river of flame, is faintly felt already... even as its dangers lie in wait.''"
+|-
+! colspan="2" |A Post Boss 01 Gears Inspect 01
+|-
+|'''Storyteller'''
+|"''None, other than those in the trusted inner circle of Lord Hades, are authorized to enter the intricate chambers connecting the vast regions of the Underworld; but the Prince decides to barge in, anyway.''"
+|-
+! colspan="2" |A Mini Boss 03 01 First Inspect
+|-
+|'''Storyteller'''
+|"''The most violent wretches of Tartarus are sealed away even from other condemned souls; their only visitors, those fool enough to attempt escape.''"
+|-
+! colspan="2" |A Mini Boss 04 01 First Inspect
+|-
+|'''Storyteller'''
+|"''Damned, lost souls with nowhere left to turn congregate in deepest Tartarus, where they fuse together with the earth itself into odious forms which defy description.''"
+|-
+! colspan="2" |A Reprieve 01 First Inspect
+|-
+|'''Storyteller'''
+|"''A place of calm and respite, whilst perhaps unimaginable in the Underworld, occasionally is to be found, in fact.''"
+|-
+! colspan="2" |Charon First Inspect
+|-
+|'''Storyteller'''
+|"''The infernal wares of the stygian boatman, Charon, lie sprawled about, available for sale to whomever would be willing to quench the boatman's great thirst for riches.''"
+|-
+|'''Storyteller'''
+|"''The River Styx flows infamously through the Underworld, offering the boatman Charon expeditious travel from the realm of mortals to the lowest depths, where many of their shades reside forever.''"
+|-
+! colspan="2" |Opening First Inspect
+|-
+|'''Storyteller'''
+|"''Composed of such innumerable ever-shifting interlocking chambers, the Underworld of Lord Hades all but guarantees the dead shall there remain until the end of time.''"
+|-
+! colspan="2" |Opening Proc Gen Hint
+|-
+|'''Storyteller'''
+|"''Each time the Prince delves back into the Underworld, its ever-shifting chambers realign to frustrate his attempts to perhaps map it out.''"
+|-
+! colspan="2" |Inspect A Story 01 01
+|-
+|'''Storyteller'''
+|"''Within the depths of Tartarus reside the most wretched of all the shades who linger for eternity within the Underworld, whose Lord and Master is especially unkind to those attempting to cheat death.''"
+|-
+|}

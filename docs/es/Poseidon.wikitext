@@ -1,0 +1,909 @@
+{| class="wikitable"
+|+
+! colspan="2" |Ares With Poseidon 01
+|-
+|'''Ares'''
+|"Mi pariente del averno, he de decir que a veces desearía haber conocido mejor a tu padre, si no te importa que te lo diga. Mi tío y mi padre... tenían un carácter muy distinto al mío."
+|-
+|'''Poseidon'''
+|"Quizá si no fueras tan rarito y te esforzases en ser más accesible, Ares, tendríamos algo más en común los dos. Si necesitas algún consejo al respecto, tan solo dímelo."
+|-
+! colspan="2" |Artemis With Poseidon 01
+|-
+|'''Artemis'''
+|"Ya conoces a mi padre y a mi tío, ¿verdad, Zagreo? No sé cuál es peor. ''Esto'', quiero decir... ¡superior! Superior, a pesar de que técnicamente se pase el día en el mar, bajo el Olimpo, ¿no es verdad, tío?"
+|-
+|'''Poseidon'''
+|"¡Artemisa, no necesitas echarme flores delante del pequeño Hades! Además, estar en el mar, por encima o por debajo no mide lo bueno que eres como dios. ¡Aún sois unos jovenzuelos los dos! Seguid entrenando, ¡y pronto seréis casi tan poderoso como yo!"
+|-
+! colspan="2" |Aphrodite With Poseidon 01
+|-
+|'''Aphrodite'''
+|"Si hay algo que deberías saber de esta familia, querido, es que cada uno tiene sus rarezas. Aunque siempre nos mantenemos unidos y el amor persiste."
+|-
+|'''Poseidon'''
+|"Oh, ''jo''. ¿Qué tenemos aquí, pequeño Hades? ¡Me parece que ya tienes ''compañía''! Bueno, os dejaré en paz. Mis labios están más sellados que el casco de un buque de guerra."
+|-
+|'''Aphrodite'''
+|"¡Oh, quédate si quieres, Poseidón! Solo estaba explicando lo idiota que eres, aunque tú podrás expresarlo mejor. Bueno, querido, ¿por dónde iba?"
+|-
+! colspan="2" |Dionysus With Poseidon 01
+|-
+|'''Dionysus'''
+|"''Eh'', Zag, ''estooo''... Tu tío está de paso por aquí. No me refiero a papá, sino ''uhm'', al otro, y quería preguntarte qué tal te va, así que..."
+|-
+|'''Poseidon'''
+|"''Ajá''. Ahí estas, pequeño sobrino mío. ¿Dioniso te está poniendo al día o no? Aunque si lo que quieres es un verdadero festín, quédate ''conmigo''. Ahora, recibe mi bendición y ¡''en marcha''!"
+|-
+|'''Dionysus'''
+|"''Oh'', como te decía, colega. Aquí estamos, esperándote. Sabemos que lo lograrás. Con el tiempo, ¿supongo?"
+|-
+! colspan="2" |Athena With Poseidon 01
+|-
+|'''Athena'''
+|"Cuando avisé por primera vez a mi padre Zeus y los demás miembros de la familia de tu existencia, Zagreo, el tío Poseidón fue el primero en tomar la iniciativa y poner a tu servicio su poder sobre el mar y la tierra. ¿No es así, tío?"
+|-
+|'''Poseidon'''
+|"Exacto, Atenea, ¡qué buena memoria la tuya! Pues no es que uno descubra todos los días que mi lastimero hermano Hades engendró un hijo. No sabe la suerte que tiene allí abajo. ¡Y a ''ti'', sobrino, te iría mucho mejor ''aquí arriba''!"
+|-
+! colspan="2" |Poseidon With Zeus 01
+|-
+|'''Poseidon'''
+|"Pequeño Hades, ¡ya has conocido a mi hermano Zeus! A veces, se dice que es el rey de todos los dioses. ¡Pero en muchos sentidos, es menos poderoso que yo! Y mucho menos apuesto, eso por descontado. Vaya, yo, ¡''ups''!"
+|-
+|'''Zeus'''
+|"Ah, hermano... creo que sabes que no conviene decir tales cosas sobre mí. Sé que la sutileza no es lo tuyo, pero yo tendría cuidado con lo que le dices a nuestro querido sobrino."
+|-
+|'''Poseidon'''
+|"''Esto''... ''bueno'', ¡como iba diciendo, pequeño Hades! ¡Mi hermano Zeus es rey de todos los dioses, y el más apuesto, poderoso y oye, seamos sinceros, ¡el más ''divino ''de todos!"
+|-
+! colspan="2" |Poseidon With Athena 01
+|-
+|'''Poseidon'''
+|"Como seguro que a estas alturas puedes ver, somos una gran familia de gente espabilada, pequeño Hades. Mi sobrina Atenea, la que más. Por el modo en que cuida de todos nosotros, ¡jamás diría que nunca ha sido madre!"
+|-
+|'''Athena'''
+|"Si mi inteligencia es tal, os la debo a tu hermano y a ti, tío Poseidón. Y solo puedo añadir que, a ojos míos, tenemos niños más que de sobra en esta familia como para que no necesitemos más por el momento."
+|-
+! colspan="2" |Poseidon With Ares 01
+|-
+|'''Poseidon'''
+|"Pequeño Hades, ya debes saber que tengo otros sobrinos aquí, ¿verdad? Se me ocurre, por ejemplo, Ares, ¡el dios de la guerra! En el mar ha habido batallas espectaculares, ¿no es cierto?"
+|-
+|'''Ares'''
+|"Desde luego que las ha habido, buen tío Poseidón. En lo que concierne a la guerra, los mortales demuestran un gran ingenio: impulsa su sentido del progreso más que nada en el mundo. Puede que algún día luchen incluso en los cielos de padre."
+|-
+! colspan="2" |Poseidon With Artemis 01
+|-
+|'''Poseidon'''
+|"Lo que pasa conmigo, sobrino, es que aquí me llevo bien con todo el mundo. ¡Y eso, al parecer, no es común! Ahí tienes por ejemplo a mi sobrina Artemisa. ¡No acepta ni la broma más inocente! ¡Con esa amargura tuya no vas a atraer muchos pretendientes, chica!"
+|-
+|'''Artemis'''
+|"Oh, qué pena me daría eso, tío Poseidón. Me pregunto cuál podría ser la causa de este gesto hosco que tengo perpetuamente aquí arriba... Quizá Zagreo lo sepa."
+|-
+|'''Poseidon'''
+|"¡''Ja, ja, ja''! ¿Ves a lo que me refería, sobrino?"
+|-
+! colspan="2" |Poseidon With Demeter 01
+|-
+|'''Poseidon'''
+|"Mi cuñada, la diosa Deméter, pese a su aparente frialdad, suele disfrutar metiéndose conmigo de buena gana, sobrino. De hecho, ¡aquí la tenemos!"
+|-
+|'''Demeter'''
+|"Si ya ha cesado tu parloteo, Poseidón, nuestro joven Zagreo tiene cosas más importantes que hacer. Necesita tus bendiciones, no tu punto de vista. ¿Verdad, joven retoño?"
+|-
+! colspan="2" |Poseidon Beat Theseus Quest Complete
+|-
+|'''Poseidon'''
+|"¡''Ja, ja, ja''! Sabía que podía contar contigo, sobrino. Así que el ingrato Teseo ha ganado un carro que no se merece, ¿correcto? ¡Y de todas formas lo has derrotado! ¡Se lo tiene merecido! Por chulearse de que su premio era más grande que nada que hubiera visto en sus días mortales. ''¡Bah!''"
+|-
+! colspan="2" |Poseidon Fish Quest Complete
+|-
+|'''Poseidon'''
+|"¡''Ja, ja, ja, ja''! Pequeño Hades, estaba seguro de que tendrías los recursos para mermar la población de los traidores de río que huyeron de mis mares al dominio de tu padre. ¡Que tengas buena pesca por siempre!"
+|-
+! colspan="2" |Poseidon About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Vale, allá va. ¡En el nombre de Hades! ¡Olimpo, este es un mensaje oficial! Tío Poseidón, espero que puedas conseguir esto."
+|-
+|'''Poseidon'''
+|"¿Qué es esto, sobrino? ¿Una nota? O parte de una, dirigida a mí, aunque parece que hay más fragmentos para los demás. ''Ah'', ¡es como buscar un tesoro hundido! ¡Lo que quiere decir que necesito revelar sus misterios de inmediato!"
+|-
+! colspan="2" |Poseidon Post Epilogue 01
+|-
+|'''Poseidon'''
+|"¿Sabes, sobrino? Pasé un rato espectacular ahí abajo, con tu viejo y Perséfone, ¡qué maravilla! ¡Pensaba que no volvería a ''verla ''de nuevo! Entonces, ¡volvemos a ser una gran familia feliz al fin! Pero tienes un trabajo que hacer, ¡y los dioses del Olimpo cumplirán su parte en él!"
+|-
+! colspan="2" |Poseidon About Zeus 01
+|-
+|'''Poseidon'''
+|"Sobrino, veo que mi querido hermano Zeus ya te ha otorgado su estruendoso poder, ¿correcto? Bueno, ¡te olvidarás enseguida de él en cuanto pruebes ''esto''!"
+|-
+! colspan="2" |Poseidon About Athena 01
+|-
+|'''Poseidon'''
+|"Ah, pequeño Hades, ya has recibido la bendición de Atenea. No bajes la guardia con esa; pero toma, te ayudaré a vivir un poco más. ¡Solo por si acaso!"
+|-
+! colspan="2" |Poseidon About Aphrodite 01
+|-
+|'''Poseidon'''
+|"''Jo, jo''. Así que ya has oído hablar de Afrodita, ¿verdad, sobrino? Es normal, pero lo primero es lo primero. ¡Deja que añada un pequeño detalle!"
+|-
+! colspan="2" |Poseidon About Ares 01
+|-
+|'''Poseidon'''
+|"Oye, sobrino. Tengo entendido que ya te ha bendecido uno de mis ''otros '' sobrinos: ¡Ares! Como puedes ver, no siempre se cumple lo de "de tal palo, tal astilla". ¡Y demos las gracias a las moiras por ello!"
+|-
+! colspan="2" |Poseidon About Artemis 01
+|-
+|'''Poseidon'''
+|"Siento que la esquiva Artemisa ya te ha marcado. ¡¿Es correcto, sobrino?! Rehúye de la mayoría de nosotros; ¡así que me parece estupendo que te haya cogido cariño!"
+|-
+! colspan="2" |Poseidon About Dionysus 01
+|-
+|'''Poseidon'''
+|"Siempre que Dioniso organiza un banquete, acabo apareciendo. ¿Me escuchas, sobrino? Haz, pues, algo de sitio para una bendición más, ¡y vámonos!"
+|-
+! colspan="2" |Poseidon About Hermes 01
+|-
+|'''Poseidon'''
+|"Pequeño Hades, parece que estás avanzando bien. ¡A un ritmo casi sorprendente! Me pregunto cómo has llegado a ser tan rápido. ¡¿Ejercicios en el agua?!"
+|-
+! colspan="2" |Poseidon About Hermes 02
+|-
+|'''Poseidon'''
+|"Sobrino, ¡¿cómo es posible que te muevas a tal velocidad por el reino de tu despiadado padre?! ¡Solo hay un residente del Olimpo que se mueve tan rápido, aparte de mí! Y a todo esto... ¿dónde está?"
+|-
+! colspan="2" |Poseidon About Demeter 01
+|-
+|'''Poseidon'''
+|"Pero pequeño Hades, ¿acaso noto algo de fresco en torno a ti? Lo que significa que has recibido las bendiciones de Deméter, ¿correcto? Personalmente, creo que el agua está mucho mejor en su estado líquido, pero ¿quién soy yo para juzgar a nadie?"
+|-
+! colspan="2" |Poseidon Vs Zeus 01
+|-
+|'''Poseidon'''
+|"Ya has conocido a tu tío Zeus, ¿correcto? Solo quería que supieras que el bueno de Zeus suele estar muy ocupado; así pues, si te pegas a mí, siempre tendré tiempo para ti, sobrino."
+|-
+! colspan="2" |Poseidon Backstory 01
+|-
+|'''Poseidon'''
+|"Sobrino, ¿sabías que tu despiadado padre Hades es mi hermano mayor? No es muy expresivo que digamos. Nunca lo ha sido. ¡Rara vez nos poníamos de acuerdo!"
+|-
+! colspan="2" |Poseidon Backstory 02
+|-
+|'''Poseidon'''
+|"Pequeño Hades, diría que eres realmente valeroso. De hecho, creo que te pareces más a mí que al carcamal de mi hermano mayor. ¡Todavía podrías escapar de ese vejestorio!"
+|-
+! colspan="2" |Poseidon Backstory 03
+|-
+|'''Poseidon'''
+|"Seguro que ese viejo amargado de mi hermano Hades ha intentado ponerte en nuestra contra. ¡Lo veo claro como el agua, sobrino! Me enorgullece que hayas resistido a sus, sin duda alguna, retorcidas palabras."
+|-
+! colspan="2" |Poseidon Backstory 04
+|-
+|'''Poseidon'''
+|"La última vez que hablamos tu padre y yo, me dijo que mis días de gloria habían acabado. Menuda cara, ¿verdad, sobrino? Me quitó las palabras sobre él de la boca."
+|-
+! colspan="2" |Poseidon About Powers 01
+|-
+|'''Poseidon'''
+|"Es posible, pequeño Hades, que residas actualmente justo debajo de uno de mis infinitos mares. Normalmente hay que estar sumergido para usar este poder, pero oye, tendrá que valer con eso."
+|-
+! colspan="2" |Poseidon High Relationship 01
+|-
+|'''Poseidon'''
+|"¿Sabes que tengo muchas cosas mucho más importantes que hacer que ayudarte una y otra vez, sobrino? ¡Pero todas pueden esperar, la familia es lo primero!"
+|-
+! colspan="2" |Poseidon Max Relationship 01
+|-
+|'''Poseidon'''
+|"Si alguna vez llegas aquí, sobrino, que sepas que me encantará hacer las veces de la figura paterna que nunca tuviste de verdad. Podremos competir en todo tipo de actividades acuáticas, resolver enigmas... ¡y visitar a las ninfas marinas! Será genial, ¿no crees?"
+|-
+! colspan="2" |Poseidon About Seas 01
+|-
+|'''Poseidon'''
+|"Sobrino, aquí los mares son tan temidos en cada confín como ese vasto Inframundo de abajo. ¡Porque el agua puede ser más letal que el bronce!"
+|-
+! colspan="2" |Poseidon About Seas 02
+|-
+|'''Poseidon'''
+|"¡Mis océanos están repletos de peligros, no solo de agua, pequeño Hades! ¡Muchos de los muertos a los que te enfrentas hallaron su fin en el mar, no en la tierra!"
+|-
+! colspan="2" |Poseidon Vs Meg 01
+|-
+|'''Poseidon'''
+|"''Aaah'', me parece que te has metido en algún lío de faldas últimamente, ¿no es así, sobrino? ¡Me refiero a la erinia del Tártaro, por supuesto! ¡¿Vas a dejar que te siga mangoneando?!"
+|-
+! colspan="2" |Poseidon Vs Meg 02
+|-
+|'''Poseidon'''
+|"''Ja'', he oído que le has dado lo suyo a esa erinia inútil. Sobrino, sabía que podrías con la vieja bruja. Y si vuelve a molestarte, ¡solo tienes que recordarle quién manda ahí abajo!"
+|-
+! colspan="2" |Poseidon Run Progress 01
+|-
+|'''Poseidon'''
+|"Bienhallado, sobrino. Me he enterado de que has logrado llegar hasta los Prados Asfódelos. Buen trabajo. ¡Ahora sigue adelante!"
+|-
+! colspan="2" |Poseidon Run Progress 02
+|-
+|'''Poseidon'''
+|"''Oooh'', sobrino. Te has enfrentado al toro de Minos, ¿cierto? Debo pedirte disculpas por los problemas que te haya causado, ya que es el legado vivo de mi venganza. Es una larga historia. Y aburrida. También bastante sórdida. ¡Dale duro!"
+|-
+! colspan="2" |Poseidon Run Progress 03
+|-
+|'''Poseidon'''
+|"Nos han dicho que has llegado verdaderamente lejos, sobrino. ¡Que estás a escasa distancia de la superficie! Sigue así, ¡y con nuestra ayuda seguro que sales de ahí!"
+|-
+! colspan="2" |Poseidon Run Progress 04
+|-
+|'''Poseidon'''
+|"Me pregunto qué monstruosidades te esperan cerca de la superficie, pequeño Hades. ¡Seguro que el terrorífico Cancerbero de tu padre! En fin. Encontrarás la forma de capear todo lo que te echen."
+|-
+! colspan="2" |Poseidon Run Progress 05
+|-
+|'''Poseidon'''
+|"No te desanimes, sobrino, porque a pesar de todos tus esfuerzos, ¡es probable que aún te quede un camino largo y tortuoso por delante!"
+|-
+! colspan="2" |Poseidon Run Cleared 01
+|-
+|'''Poseidon'''
+|"''Ah'', pensaba que ibas a conseguir escapar la última vez, sobrino. ¡Pero no importa, tendremos que ayudarte a emprender otro viaje a la superficie!"
+|-
+! colspan="2" |Poseidon Run Cleared 02
+|-
+|'''Poseidon'''
+|"Sobrinito, habría jurado que ya habías llegado a la superficie, pero ¿vuelves a estar allí abajo? ¡Debe de haber algún tipo de monstruosidad que evita que salgas!"
+|-
+! colspan="2" |Poseidon Post Epilogue 02
+|-
+|'''Poseidon'''
+|"Pues sobrino, ¡te diré que me quedé boquiabierto cuando me enteré de que Perséfone era tu madre! Ella desapareció un día y me imaginé que había huido porque tenía algo de sangre mortal. ¡Y resulta que estaba con tu padre! ¡Al final resulta que ese bribón sí que es hermano mío!"
+|-
+! colspan="2" |Poseidon Post Epilogue 03
+|-
+|'''Poseidon'''
+|"¿Qué tal le va al cascarrabias de Hades por ahí abajo últimamente, sobrino? ¿Frunce menos el ceño? Ese Inframundo suyo... ¿sigue yendo como la seda y tal? Nosotros seguiremos echando un cable desde aquí, ¡qué menos!"
+|-
+! colspan="2" |Poseidon Post Epilogue 04
+|-
+|'''Poseidon'''
+|"Perséfone dice que de verdad no puedes salir de ahí por haber nacido en el Inframundo, ¿o no lo he entendido bien? Pues si quieres mi opinión, ¡esa actitud derrotista no te conviene! ¡Puedes hacer ''todo ''lo que te propongas, sobrino! ¡Hazme caso!"
+|-
+! colspan="2" |Poseidon Post Epilogue 05
+|-
+|'''Poseidon'''
+|"Si ''consigues ''alguna vez pasar un tiempo por aquí arriba, sobrino, que sepas que pienso llevarte en un viaje por toda la superficie. ¡Desde las profundidades de mis océanos hasta lo más alto del Olimpo! Vale, puede que no pueda ser hoy, ni mañana, ni en los próximos eones, ¡pero alguna vez!"
+|-
+! colspan="2" |Poseidon Post Epilogue 06
+|-
+|'''Poseidon'''
+|"Me alegra haber vuelto a ver a mis hermanos llevándose bien, ¡como en los viejos tiempos! Bueno, no exactamente ahora que lo pienso, siempre hubo algo de tensión entre esos dos, pero de todas maneras, ¡mejor que antes!"
+|-
+! colspan="2" |Poseidon About Persephone Visit 01
+|-
+|'''Poseidon'''
+|"Tu madre, Perséfone, está aquí segura, pensaba que te gustaría saberlo, pequeño Hades. Qué pena que no puedas estar aquí con ella, pero, ¡''bah''! ¡Seguro que algún día volveremos a vernos!"
+|-
+! colspan="2" |Poseidon About Keepsake 01
+|-
+|'''Poseidon'''
+|"¡''Ajá''! Siento que tienes en tu posesión aquella concha que te envié, un regalo sacado directamente del mar. ¡No la pierdas para que pueda seguir mejor tus pasos!"
+|-
+! colspan="2" |Poseidon Has Weapon 01
+|-
+|'''Poseidon'''
+|"Vaya, vaya, pequeño Hades. Veo que portas Exagrifo, el Cañón Adamantino. La potencia de esa arma hacía de ella algo tan terrorífico que la sellamos. En fin… ¡seguro que sus mortales secretos están a salvo en tus manos!"
+|-
+! colspan="2" |Poseidon About Fist Weapon 01
+|-
+|'''Poseidon'''
+|"¡Eh! Si mis ojos no me engañan al contemplar ese tenebroso abismo, ¡parece que blandes los Puños Gemelos de ''Malfon''! ¡Permíteme que te diga, pequeño Hades, que esos guantes participaron hace tiempo en escenas de lo más cruentas!"
+|-
+! colspan="2" |Poseidon Has Weapon Upgrade 01
+|-
+|'''Poseidon'''
+|"Pequeño Hades, aunque estés entre penumbras, si no me equivoco (y nunca lo hago), ¡veo que portas la temible Estigiana! Antaño era mía, ¿lo sabías? No era mi estilo, pero sin duda pasamos buenas épocas. ¡Cuídala bien!"
+|-
+! colspan="2" |Poseidon About Hades Aspect 01
+|-
+|'''Poseidon'''
+|"¿Soy yo, o llevas la antigua lanza de tu padre, sobrino? Siempre quise una parecida, pero ahora tengo algo mucho mejor. ¡''Ja''!"
+|-
+! colspan="2" |Poseidon Legendary Pick Up 01
+|-
+|'''Poseidon'''
+|"Esta vez, sobrino, vamos a enseñarle a tu padre de qué estás hecho en realidad. ¡''De agua''! Al menos en tu mayor parte. O al menos los mortales son así. ¿A que no lo sabías?"
+|-
+|'''Poseidon'''
+|"''Ah'', ni te imaginas lo que tengo para ti, pequeño Hades. ¡Algo especial que guardaba para cuando demostraras tu valía ''de verdad''!"
+|-
+! colspan="2" |Poseidon Legendary Pick Up 02
+|-
+|'''Poseidon'''
+|"Los mortales suelen agradecerme mi generosidad, sobrino. ¡Pero no se imaginan que he estado reservándome parte para ''ti''!"
+|-
+|'''Poseidon'''
+|"No hay nada más fuerte que el mar, sobrino, ¡ni arriba ni abajo! Y si necesitas que te lo demuestre, observa: mi mayor bendición, ¡solo para ti!"
+|-
+! colspan="2" |Poseidon About Theseus 01
+|-
+|'''Poseidon'''
+|"Oye, he oído que te enfrentaste a un tal Teseo, el actual Campeón del Elíseo, ¿me equivoco? Ya era un follonero incluso cuando estaba vivo, hasta el punto de que a mi honorable hermano Zeus le dio por decir que era hijo mío. ¿Te lo puedes creer, tener semejante descaro?"
+|-
+! colspan="2" |Poseidon About Theseus 02
+|-
+|'''Poseidon'''
+|"¡Entonces, pequeño Hades, sin duda has visto que en el Olimpo también le otorgamos nuestro favor al poderoso Teseo, que te bloquea la huida del Elíseo! No te lo tomes como algo personal, nuestras bendiciones van a ''todos ''los que se las merecen. ¡Aunque intentamos guardarte las mejores!"
+|-
+! colspan="2" |Poseidon Beat Theseus Quest 01
+|-
+|'''Poseidon'''
+|"¡Ese granuja de Teseo! Según parece, se ha ganado algún tipo de premio por todas sus bravatas en el Elíseo. Estoy seguro de que, sea lo que sea lo que tienen él y su amigo bovino, tuyo es el poder de derrotarlos por completo. Así que adelante, ¡ya me enteraré cuando lo hagas!"
+|-
+! colspan="2" |Poseidon About Fishing 01
+|-
+|'''Poseidon'''
+|"¡Vaya, sobrino, veo que te has hecho con la caña de pescar! Excelente manufactura, si se me permite decirlo. Su sedal es casi invisible, y provoca que los habitantes de mis dominios acudan a él como los mortales a mis templos. ¡Buena suerte con ella!"
+|-
+! colspan="2" |Poseidon About Fishing 02
+|-
+|'''Poseidon'''
+|"Me cuentan que capturaste sin trampa ni cartón a varios de los habitantes subacuáticos de mi dominio, gracias a tu habilidad con la caña de pescar, pequeño Hades. Tuyos son, ¡tengo millones más!"
+|-
+! colspan="2" |Poseidon About Fishing 03
+|-
+|'''Poseidon'''
+|"Todos esos habitantes de los ríos que has pescado, pequeño Hades... Eso solo puede querer decir que compartimos una conexión, ¿no crees? ¡Yo, con mi poder sobre los vastos océanos, y tú, con el poder de capturar a un pececillo indefenso con un golpe de muñeca!"
+|-
+! colspan="2" |Poseidon About Guan Yu Aspect 01
+|-
+|'''Poseidon'''
+|"Dime, ¿cuál es exactamente esa lanza de aspecto imponente que veo a duras penas en tus manos? ¡Nunca había visto una así, excepto en costas muy lejanas! Es casi tan impresionante como mi tridente. ¡''Casi''!"
+|-
+! colspan="2" |Poseidon About Arthur Aspect 01
+|-
+|'''Poseidon'''
+|"¡Portas un arma espléndida, sobrino! Debe de ser otro aspecto de la hermosa Estigiana, la antigua hoja que dejé de lado. ¡Nunca había visto ese, pero sí otros muchos igual de impresionantes!"
+|-
+! colspan="2" |Poseidon Low Health 01
+|-
+|'''Poseidon'''
+|"¡''Oh'', sobrino, tienes un aspecto realmente terrible! ¿Qué ha pasado? ¿Demasiados encuentros con esos muertos miserables antes de que pudiera intervenir ''yo''?"
+|-
+! colspan="2" |Poseidon Low Health 02
+|-
+|'''Poseidon'''
+|"¡Creo que estás en un buen apuro, pequeño Hades! Vaya, ¡sangras por todos lados! Deja que intente ponerle remedio."
+|-
+! colspan="2" |Poseidon Low Health 03
+|-
+|'''Poseidon'''
+|"''Ah'', ¿qué te ha pasado, pequeño Hades? ¡Puedo ver desde aquí que te han dejado como un esquife en una tormenta!"
+|-
+! colspan="2" |Poseidon Low Health 04
+|-
+|'''Poseidon'''
+|"¡No te me mueras todavía, sobrino! ¡Tienes que ''vivir ''o desperdiciaré esta bendición!"
+|-
+! colspan="2" |Poseidon Low Health 05
+|-
+|'''Poseidon'''
+|"Tus odiados enemigos por poco no han acabado contigo. Pero aún puedes darle la vuelta a la situación. ¡Sobre todo con mi ayuda!"
+|-
+! colspan="2" |Poseidon First Pick Up
+|-
+|'''Zagreus'''
+|"Se trata del tío número dos. Tiene que serlo. Veamos pues. ¡En el nombre de Hades! Olimpo, acepto el mensaje."
+|-
+|'''Poseidon'''
+|"¡Salve, pequeño Hades! Reconoces a tu tío, ¿no? Tenemos que ponernos al día, pero lo primero es lo primero: ¡sal de ese deprimente Inframundo! En cuanto a mí, intentaré ''marear ''un poco las cosas para cubrir tu avance."
+|-
+! colspan="2" |Poseidon Misc Pickup 01
+|-
+|'''Poseidon'''
+|"Oye, sobrino, es fabuloso verte de nuevo y de buen humor, ¿me equivoco? Pues venga, ¡hagamos unas olas!"
+|-
+! colspan="2" |Poseidon Misc Pickup 02
+|-
+|'''Poseidon'''
+|"Salud, pequeño Hades. ¡Soy yo! El mejor de tus tíos, que ha venido a ayudarte en tu intento más arriesgado de escapar. ¡Realmente admiro tu perseverancia!"
+|-
+! colspan="2" |Poseidon Misc Pickup 03
+|-
+|'''Poseidon'''
+|"¡Bienhallado de nuevo, mi pequeño sobrino! ¡Soy yo, y he vuelto para poner en remojo a tus numerosos y necios enemigos!"
+|-
+! colspan="2" |Poseidon Misc Pickup 04
+|-
+|'''Poseidon'''
+|"Salud, sobrino. Seguro que estás ocupado ahí abajo lidiando con tus enemigos, así que veamos qué puedo hacer. ¡Seguro que mucho!"
+|-
+! colspan="2" |Poseidon Misc Pickup 05
+|-
+|'''Poseidon'''
+|"¡Parece que vas a llegar lejos, sobrino mío! Eso es fantástico, pero igualmente toma. ¡Deja que tu tío favorito te dé un pequeño impulso!"
+|-
+! colspan="2" |Poseidon Misc Pickup 06
+|-
+|'''Poseidon'''
+|"Ah, ¡''ja, ja, ja''! Te he encontrado ahí abajo, sobrino. Vamos a arrollar a tus enemigos con un tifón divino. ¿Qué tal te suena?"
+|-
+! colspan="2" |Poseidon Misc Pickup 07
+|-
+|'''Poseidon'''
+|"Pequeño Hades, ¿te he dicho que detesto a los muertos? Lo reconozco. No soporto a un mortal que ha pasado su fecha de caducidad. ¿Te parece si te alejamos de toda esa inmundicia, vale?"
+|-
+! colspan="2" |Poseidon Misc Pickup 08
+|-
+|'''Poseidon'''
+|"¿Qué me dices, sobrino? ¿Listo para mojarte o no? Sospecho que sí, así que metámonos en faena y administremos justicia líquida."
+|-
+! colspan="2" |Poseidon Misc Pickup 09
+|-
+|'''Poseidon'''
+|"¿Cómo va tu rencilla con el carcamal de mi hermano mayor? ¿Bien? El viejo Hades es desagradable con todo el mundo, no solo contigo. No te lo tomes como algo personal, ¡y sigue a mi lado!"
+|-
+! colspan="2" |Poseidon Misc Pickup 10
+|-
+|'''Poseidon'''
+|"Parece que ''necesitas ''el poder del mar, ¿no es así, pequeño Hades? ¡Menos mal que estoy aquí para ayudarte a hundir a tus enemigos!"
+|-
+! colspan="2" |Poseidon Misc Pickup 11
+|-
+|'''Poseidon'''
+|"¡Sobrino, basta ya de hacer el tonto sin mí! Aquí estoy. ¡Vamos a sacarte de ahí como si fueras un río bravo que revienta una presa!"
+|-
+! colspan="2" |Poseidon Misc Pickup 12
+|-
+|'''Poseidon'''
+|"Pareces algo más fuerte que antes, mi pequeño sobrino. Pero si te soy sincero, todavía eres un esmirriado. ¡Así que toma! ¡Vamos a ponerte fuerte!"
+|-
+! colspan="2" |Poseidon Misc Pickup 13
+|-
+|'''Poseidon'''
+|"''Ah del barco'', sobrino. Creo que te he hecho esperar demasiado, así que ''venga'', hagamos trizas a nuestros enemigos como barcos en los bajíos."
+|-
+! colspan="2" |Poseidon Misc Pickup 14
+|-
+|'''Poseidon'''
+|"Como sabrás, el poder de los mares vuelve a ser tuyo de nuevo, sobrino. ¿Qué tal si le das un buen uso y vas a destrozar algo?"
+|-
+! colspan="2" |Poseidon Misc Pickup 15
+|-
+|'''Poseidon'''
+|"¿Por casualidad necesitas ayuda divina, sobrino? ¡Fantástico! Porque el mar está a mis órdenes y, desde ahora, tú también podrás catar su poder."
+|-
+! colspan="2" |Poseidon Misc Pickup 16
+|-
+|'''Poseidon'''
+|"¿Quién osa meterse con mi pequeño Hades? Sobrino, solo tienes que señalármelos y los dejaremos temblando y empapados. ¡Ya lo verás!"
+|-
+! colspan="2" |Poseidon Misc Pickup 17
+|-
+|'''Poseidon'''
+|"Por fin vuelvo a encontrarte, sobrino. Estarás comiendo bien para ponerte fuerte, ¿no? De momento, te ayudaré con esto último. ¡Toma!"
+|-
+! colspan="2" |Poseidon Misc Pickup 18
+|-
+|'''Poseidon'''
+|"Los increíbles dones del mar son tuyos para hacer lo que te plazca, sobrino. ¡Te he preparado una muestra!"
+|-
+! colspan="2" |Poseidon Misc Pickup 19
+|-
+|'''Poseidon'''
+|"¡Ey, pequeño Hades! He oído que te estabas preparando para hacer llover destrucción sobre tus enemigos, así que he venido lo antes posible. No llego tarde, ¿verdad?"
+|-
+! colspan="2" |Poseidon Misc Pickup 20
+|-
+|'''Poseidon'''
+|"Todos tenemos que surcar aguas revueltas de vez en cuando. ¿Tengo razón, sobrino? Por suerte, la navegación es mi especialidad, así que... ¡en marcha!"
+|-
+! colspan="2" |Poseidon Misc Pickup 21
+|-
+|'''Poseidon'''
+|"Sobrino, tu victoria está ciertamente próxima ahora que he llegado. ¡Siempre y cuando te asegures de sacar partido al increíble poder que te otorgo!"
+|-
+! colspan="2" |Poseidon Misc Pickup 23
+|-
+|'''Poseidon'''
+|"Vaya, pero si es mi sobrino favorito. Veo que sigues tan atrapado como siempre. Te sacaremos de ahí, pequeño Hades. ¡Tu tío Poseidón viene al rescate!"
+|-
+! colspan="2" |Poseidon Misc Pickup 24
+|-
+|'''Poseidon'''
+|"Bienhallado, sobrino favorito. Espero que todo vaya más o menos bien. Pero la esperanza no sirve de nada si no se actúa. Toma esto y luchemos ''juntos''."
+|-
+! colspan="2" |Poseidon Misc Pickup 25
+|-
+|'''Poseidon'''
+|"¡Ya verás cuando contemples el mar, sobrino! Mi reino submarino es el entorno más magnífico del mundo. Está repleto de vida y es mucho más interesante que ese cochambroso Inframundo tuyo."
+|-
+! colspan="2" |Poseidon Misc Pickup 26
+|-
+|'''Poseidon'''
+|"Bueno, sobrino. Supongo que ya es hora de que los mares te cedan su poder una vez más, ¿correcto?"
+|-
+! colspan="2" |Poseidon Misc Pickup 27
+|-
+|'''Poseidon'''
+|"Tu tío está preparado para provocar otro maremoto. ¿Qué te parece, pequeño Hades?"
+|-
+! colspan="2" |Poseidon Misc Pickup 28
+|-
+|'''Poseidon'''
+|"Se acabó lo de perder el tiempo, sobrino mío. ¡Es hora de hacer algo!"
+|-
+! colspan="2" |Poseidon Misc Pickup 29
+|-
+|'''Poseidon'''
+|"Bienhallado, pequeño Hades. ¡Soy yo! ¡Y siempre estoy dispuesto a ayudar!"
+|-
+! colspan="2" |Poseidon Misc Pickup 30
+|-
+|'''Poseidon'''
+|"No temas, sobrino. ¡Soy yo, tu tío! Vengo para ayudarte a ahogar tus penas, ¡aquí y ahora!"
+|-
+! colspan="2" |Poseidon Misc Pickup 31
+|-
+|'''Poseidon'''
+|"Tú señálame a tus adversarios y enseguida serán mis enemigos por siempre, sobrino."
+|-
+! colspan="2" |Poseidon Misc Pickup 32
+|-
+|'''Poseidon'''
+|"¡Vamos a sacarte de ese lugar bajo el mar, mi pequeño sobrino!"
+|-
+! colspan="2" |Poseidon Misc Pickup 33
+|-
+|'''Poseidon'''
+|"Salud, deífico sobrino. Ya estoy aquí, ¡así que deja de lado tus preocupaciones y vamos a empapar a los muertos!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 01
+|-
+|'''Poseidon'''
+|"¿Y si te damos un poco de poder ''acuático ''de verdad, pequeño Hades?"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 02
+|-
+|'''Poseidon'''
+|"Supongo que ahora te vendría bien algo de coraje líquido, ¿no, pequeño Hades?"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 03
+|-
+|'''Poseidon'''
+|"¿Y si te das un chapuzón, pequeño Hades? ¡Venga, métete en el Manantial de las Bendiciones! Vamos, ¡lánzate!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 04
+|-
+|'''Poseidon'''
+|"¡Sobrino, he llegado en tu momento de necesidad con ''esto''!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 05
+|-
+|'''Poseidon'''
+|"¡He oído que te vendría bien el alucinante poder del mar, sobrino!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 06
+|-
+|'''Poseidon'''
+|"¡Venga, lánzate al agua por mí, pequeño Hades!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 07
+|-
+|'''Poseidon'''
+|"Los tesoros del mar son ilimitados, así que toma. ¡Tú eliges!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 08
+|-
+|'''Poseidon'''
+|"¿Y si nos hacemos unas olas, pequeño Hades?"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 09
+|-
+|'''Poseidon'''
+|"Que los muertos miserables no te agüen la fiesta, pequeño Hades. ¡Águasela ''tú''!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 10
+|-
+|'''Poseidon'''
+|"¡Aquí tienes, otra refrescante bendición para ti, sobrino!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 11
+|-
+|'''Poseidon'''
+|"Con el tiempo, el agua puede cortar incluso la roca sólida. ¡Así que insiste!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 12
+|-
+|'''Poseidon'''
+|"Sé que puedes conseguirlo, pequeño Hades... ¡sea lo que sea!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 13
+|-
+|'''Poseidon'''
+|"¡Ahí está más oscuro que en el fondo del mar! ¡¿Estás vivo, sobrino?!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 14
+|-
+|'''Poseidon'''
+|"Todos los secretos del mar podrían ser tuyos... con el tiempo. ¡De momento, tengo tres para ti!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 15
+|-
+|'''Poseidon'''
+|"¿Sigues vivo, sobrino? En ese caso, ¡intentaré que siga siendo así!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 16
+|-
+|'''Poseidon'''
+|"El aire debe de estar muy viciado en ese sitio terrible, sobrino, ¡refréscate un poco con ''esto''!"
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 17
+|-
+|'''Poseidon'''
+|"¡Qué trabajo más sucio el tuyo, sobrino! Aunque puedo ayudarte a limpiar."
+|-
+! colspan="2" |Poseidon Misc Pickup Extra 18
+|-
+|'''Poseidon'''
+|"Lo único que pido, sobrinito, es que lo des todo, ¡como hago yo!"
+|-
+! colspan="2" |Poseidon Misc Pickup Rare 01
+|-
+|'''Poseidon'''
+|"Saludos. ¡Y ahora prepárate! ¡Tengo un regalo muy especial solo para ti!"
+|-
+! colspan="2" |Poseidon Misc Pickup Rare 02
+|-
+|'''Poseidon'''
+|"Siempre me impresiona tu voluntad de sobrevivir, sobrino, así que toma: ¡grandes bendiciones para ti!"
+|-
+! colspan="2" |Poseidon Misc Pickup Rare 03
+|-
+|'''Poseidon'''
+|"¡Te has ganado que te ofrezca solo mis mejores bendiciones, pequeño Hades! ¿Por qué? ¡¿Y por qué ''no''?!"
+|-
+! colspan="2" |Poseidon Misc Pickup Rare 04
+|-
+|'''Poseidon'''
+|"Si piensas salir de ahí alguna vez, ¡solo mis bendiciones más poderosas servirán!"
+|-
+! colspan="2" |Poseidon Misc Pickup Rare 05
+|-
+|'''Poseidon'''
+|"Mi sobrino favorito debería tener acceso a mis mejores bendiciones, ¿no es así?"
+|-
+! colspan="2" |Poseidon Loot Bought 01
+|-
+|'''Poseidon'''
+|"¡''Ajá'', mi pequeño sobrino! Me has encontrado tirado entre los objetos del perturbador barquero. ¡Eso quiere decir que te llevas mi bendición!"
+|-
+! colspan="2" |Poseidon Loot Bought 02
+|-
+|'''Poseidon'''
+|"Vaya, vaya, ¡mi plan de contactar a través del barquero ha funcionado a la perfección! ¿Qué te parece si aprovechas el poder de los mares?"
+|-
+! colspan="2" |Poseidon Loot Bought 03
+|-
+|'''Poseidon'''
+|"Sobrino, sé que Caronte puede ser un sieso, pero estoy seguro de que por el precio que pagaste, has conseguido una ''ganga''."
+|-
+! colspan="2" |Poseidon Loot Bought 04
+|-
+|'''Poseidon'''
+|"Nada es gratis cuando tratas con los mortales de la superficie, sobrino. Y parece que pasa lo mismo con ese Caronte."
+|-
+! colspan="2" |Poseidon Loot Bought 05
+|-
+|'''Poseidon'''
+|"Déjame decirte, sobrino, que mejor será que ese barquero rácano sea justo contigo. ¡Porque odiaría que algo malo le pasara a su barquito!"
+|-
+! colspan="2" |Poseidon Rejection 01
+|-
+|'''Poseidon'''
+|"¿Quééé? ¡¿Me estás diciendo que crees que tienes alguna posibilidad en el infierno sin mi ayuda?! Acabas de cometer un gran error, pequeño Hades. Ándate con ojo."
+|-
+! colspan="2" |Poseidon Rejection 02
+|-
+|'''Poseidon'''
+|"Pequeño Hades, qué atrevido por tu parte probar suerte con mis parientes en lugar de conmigo, teniendo la posibilidad de elegir. ¡Jamás se te ocurra apostar contra ''este ''caballo!"
+|-
+! colspan="2" |Poseidon Rejection 03
+|-
+|'''Poseidon'''
+|"Oh, sobrino. Me parece que tienes más fuerza que cabeza, si es que prefieres elegir un bando que no sea el mío."
+|-
+! colspan="2" |Poseidon Rejection 04
+|-
+|'''Poseidon'''
+|"Te lo advierto, sobrino mío: nunca le des la espalda al mar. Y ya que estamos, ¡jamás te enfrentes al mejor de tus tíos!"
+|-
+! colspan="2" |Poseidon Rejection 05
+|-
+|'''Poseidon'''
+|"¡''Uff''! ¡Me dejas boquiabierto, sobrino! Te ofrezco las mejores bendiciones del mar y la tierra, ¿y no te parecen lo bastante buenas?"
+|-
+! colspan="2" |Poseidon Rejection 06
+|-
+|'''Poseidon'''
+|"Parece que el carcamal de mi hermano mayor no te enseñó modales, si es que osas despreciar así mis ofrendas. ¡Pero yo todavía puedo enseñártelos!"
+|-
+! colspan="2" |Poseidon Rejection 07
+|-
+|'''Poseidon'''
+|"¡''Traición'', pequeño Hades! De todos mis sobrinos, pensaba que tú no cometerías ese error. O yo no lo cometería. ¡Uno de los dos, al menos!"
+|-
+! colspan="2" |Poseidon Rejection 08
+|-
+|'''Poseidon'''
+|"Definitivamente, no es la decisión que ''yo ''habría tomado, sobrino. Porque si yo me volviera contra mí mismo, ¡sería absurdo!"
+|-
+! colspan="2" |Poseidon Rejection 09
+|-
+|'''Poseidon'''
+|"Sobrino, lo que haces equivale a escupirme en la cara. ¡Déjame, pues, recordarte que el océano te puede devolver el favor!"
+|-
+! colspan="2" |Poseidon Rejection 10
+|-
+|'''Poseidon'''
+|"Pequeño Hades, me hieres con esa decisión despiadada. Por suerte, soy casi inmune al dolor, ¡pero creo que tú no!"
+|-
+! colspan="2" |Poseidon Rejection 11
+|-
+|'''Poseidon'''
+|"¿Conoces el dicho "No juegues con fuego", sobrino? ¡Pues algo muy parecido sucede con el agua!"
+|-
+! colspan="2" |Poseidon Rejection 12
+|-
+|'''Poseidon'''
+|"¿Vuelves a desafiarme, pequeño Hades? Empiezo a entender la frustración de tu padre por tener que tratar contigo."
+|-
+! colspan="2" |Poseidon Rejection 13
+|-
+|'''Poseidon'''
+|"Parece que necesitas otro recordatorio de que no es prudente mofarse cuando te ofrezco mis bendiciones, pequeño Hades. ¡Toma!"
+|-
+! colspan="2" |Poseidon Rejection 14
+|-
+|'''Poseidon'''
+|"A veces pienso «seguro que esta vez mi sobrino hará caso de mis agresivas amenazas por sus pequeños actos de traición», ¡pero ''no''!"
+|-
+! colspan="2" |Poseidon Rejection 15
+|-
+|'''Poseidon'''
+|"Habría jurado que te dije que no dieses por descontado el poder del mar, pequeño Hades. ¡Se acabaron las palabras, pues!"
+|-
+! colspan="2" |Poseidon Make Up 01
+|-
+|'''Poseidon'''
+|"¡De acuerdo, pequeño Hades! Tu tío va a dejar que, por esta vez, te marches de rositas. ¡Pero vigila tus modales la próxima vez que nos encontremos!"
+|-
+! colspan="2" |Poseidon Make Up 02
+|-
+|'''Poseidon'''
+|"Tengo que reconocértelo, pequeño Hades. ¡No creía que fueras capaz de capear un temporal así! ¡Estoy muy impresionado!"
+|-
+! colspan="2" |Poseidon Make Up 03
+|-
+|'''Poseidon'''
+|"¡Ah, no puedo seguir enfadado! Vamos a considerar toda esta situación agua pasada. ¿Qué te parece, sobrino?"
+|-
+! colspan="2" |Poseidon Make Up 04
+|-
+|'''Poseidon'''
+|"Vaya. Diría que una demostración de fuerza como esa es digna de elogio. Aunque la próxima vez, recuerda que mi favor no es una bagatela."
+|-
+! colspan="2" |Poseidon Make Up 05
+|-
+|'''Poseidon'''
+|"Muy bien, ya basta. Supongo que ya has tenido suficiente, ¿no es así? ¡Eres bastante bueno! Así que toma y sigue tu camino."
+|-
+! colspan="2" |Poseidon Make Up 06
+|-
+|'''Poseidon'''
+|"Oh, jo, jo. Sí que tienes genio, ¿verdad, pequeño Hades? ¡Toma! Tengo justo lo que necesitas para calmarte, recién pescado de mi reino."
+|-
+|'''Poseidon'''
+|"¡''Ja, ja, ja''! Mis ataques de furia vienen y van como las mareas, sobrino. ¡Toma esto, y lárgate!"
+|-
+! colspan="2" |Poseidon Make Up 07
+|-
+|'''Poseidon'''
+|"En verdad ha sido un gran combate, sobrino. Y tengo una recompensa adecuada, solo para ti. ¡Ni me acuerdo de por qué estaba enfadado!"
+|-
+! colspan="2" |Poseidon Make Up 08
+|-
+|'''Poseidon'''
+|"¿Qué puedo decir, sobrino? A veces nuestro temperamento nos hace perder los papeles. ¡Suerte que no me dejé llevar del todo!"
+|-
+! colspan="2" |Poseidon Make Up 09
+|-
+|'''Poseidon'''
+|"Has aguantado la tormenta, pequeño Hades, y el mar vuelve a estar en calma. Y te vas a esforzar porque siga así, ¿verdad?"
+|-
+! colspan="2" |Poseidon Make Up 10
+|-
+|'''Poseidon'''
+|"Vale, no hace falta pelearse más por esto, ¿no crees, sobrino? Toma, mi bendición, ¡deberías haberla aceptado desde el principio!"
+|-
+! colspan="2" |Poseidon Make Up 11
+|-
+|'''Poseidon'''
+|"No demos mal ejemplo a la familia, sobrino, nosotros estamos por encima de eso. Además, ya hay malos ejemplos de sobra."
+|-
+! colspan="2" |Poseidon Gift 01
+|-
+|'''Zagreus'''
+|"Tío Poseidón, ha sido todo un placer conocerte. Por favor, acepta esto."
+|-
+|'''Poseidon'''
+|"Oh. Tu afecto me conmueve sobremanera, mi pequeño sobrino. Aunque, a cambio, creo que tengo algo que te vendrá bien. ¡Toma, es todo tuyo!"
+|-
+! colspan="2" |Poseidon Gift 02
+|-
+|'''Zagreus'''
+|"Tío Poseidón, esto es para ti. Ojalá conectara con mi padre como contigo."
+|-
+|'''Poseidon'''
+|"¡''Ajá'', una muestra de generosidad de mi sobrino favorito! ¡Agradezco el regalo enormemente! Lo pondré en la pila de ofrendas."
+|-
+! colspan="2" |Poseidon Gift 03
+|-
+|'''Zagreus'''
+|"Poderoso Poseidón, el mejor de mis tíos, te ruego que aceptes este regalo."
+|-
+|'''Poseidon'''
+|"Sobrino mío, a pesar de la cantidad de regalos y sacrificios que me hacen, siempre me siento agradecido. ¡Mira, a esto me refiero! ¡Tengo una sonrisa de oreja a oreja!"
+|-
+! colspan="2" |Poseidon Gift 04
+|-
+|'''Zagreus'''
+|"¡Tío Poseidón, tengo algo especial para ti! Aunque no está a la altura de tu absoluta genialidad."
+|-
+|'''Poseidon'''
+|"¿''Quééé''? ¡Fíjate! ¿Es una ofrenda para tu tío favorito, o sea, ''yo''? ¿Sabes qué te digo, sobrino? Que voy a aceptarla. ¡¡Gracias!!"
+|-
+! colspan="2" |Poseidon Gift 05
+|-
+|'''Zagreus'''
+|"¡Te saludo, tío Poseidón! Tu fuerza y confianza siempre me inspiran, y además me aceptaste como parte de la familia sin dudarlo. Significa mucho para mí."
+|-
+|'''Poseidon'''
+|"''Ah'', sobrino, no tenías que bañarme de ofrendas y alabanzas, ya lo sabes. ¡No necesito bañarme en absoluto! Porque el mar hace lo que le digo."
+|-
+! colspan="2" |Poseidon Gift 06
+|-
+|'''Zagreus'''
+|"Cada vez que me encuentro contigo, tío Poseidón, mi espíritu se eleva y siento que nada me podrá detener. Ojalá nos veamos cuanto antes, aunque agradezco el mero hecho de haberte conocido."
+|-
+|'''Poseidon'''
+|"Creía que te había dicho que no me hicieras estas ofrendas, sobrino. ¡Se te habrá olvidado! O me he confundido, porque gracias a Zeus tengo muchos otros sobrinos. Eso sí, entre tú y yo, ¡ninguno de ellos me cae tan bien como tú!"
+|-
+! colspan="2" |Poseidon Gift 07
+|-
+|'''Zagreus'''
+|"Tío Poseidón, me pregunto a veces cómo habría sido mi vida si hubieras formado parte de ella antes. Tus ánimos, tu entusiasmo... significan mucho para mí. ¡A tu salud! ¡Esta ambrosía ha viajado al infierno y ha vuelto!"
+|-
+|'''Poseidon'''
+|"''Ooooh'', ¡es una ofrenda digna de reyes sin duda, pequeño Hades! Sé lo difícil que debe haber sido conseguirla estando tan lejos del Olimpo. Nunca entenderé por qué tu padre es tan cruel contigo. ¡Si fueras mi hijo, estaría orgulloso! Orgulloso en cualquier circunstancia, pero ya me entiendes."
+|-
+! colspan="2" |Demeter With Poseidon 01
+|-
+|'''Demeter'''
+|"Ah, pequeño retoño, solo estaba recordándole a Poseidón, aquí presente, que si su dominio existe es porque yo lo permito: recuerda, hermanito, que podría congelar tus océanos si se me antojase."
+|-
+|'''Poseidon'''
+|"¡''Ja, ja, ja, ja''! Muy bien dicho, venerable diosa Deméter. Vuelves a recordarme la vasta experiencia que posees, pero me parece que todos preferimos que los océanos sean líquidos, ¿no es así, sobrino?"
+|-
+! colspan="2" |Poseidon Wrath Intro 01
+|-
+|'''Poseidon'''
+|"He de decirte algo, pequeño Hades. Mis parientes y yo nos habíamos reservado una de nuestras bendiciones más valiosas. Queríamos ver si eras digno de ella. Y lo eres. Te ofrezco mi favor, de modo que invócame si necesitas algo. Sobre todo, para hacer trizas a tus enemigos."
+|-
+! colspan="2" |Poseidon Fish Quest 01
+|-
+|'''Poseidon'''
+|"¡Sobrino! Estoy de lo más impresionado con tu habilidad para despejar esos ríos de la presencia de quienes moran en mi dominio. Tu malhumorado padre no tiene derecho a poseer los bienes del mar. ¡Pero, por mi autoridad ilimitada, afirmo que tú ''sí''! Ya tienes mi caña de pescar... ¡Ahora toma ''esto''!"
+|-
+|}

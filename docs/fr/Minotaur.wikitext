@@ -1,0 +1,824 @@
+{| class="wikitable"
+|+
+! colspan="2" |Theseus About Fraternal Bonds 03 A
+|-
+|'''Theseus'''
+|"Je te dis que tu te ''trompes'', Astérion ! Il n'est ''pas '' de la famille royale, et ''moi '' je ne m'inclinerais certainement pas devant lui ! Ce n'est qu'une divinité mineure et sans nom des profondeurs, et condamnée à ne pas en sortir !"
+|-
+|'''Minotaur'''
+|"Moi aussi, j'ai déjà été admonesté par de telles paroles, majesté. Combien de fois avons-nous fait face à cet ennemi ? Et d'après moi, il vient de se battre courageusement."
+|-
+|'''Theseus'''
+|"''Courageusement '' ? Tu trouves ''courageux '' qu'il se cache derrière ces piliers, Astérion ? Nous discuterons de cette étrange erreur de jugement quand nous aurons gagné !"
+|-
+! colspan="2" |Theseus About Fraternal Bonds 04 A
+|-
+|'''Theseus'''
+|"J'espère que tu es content de toi, rejeton des Enfers. Parce qu'Astérion est très fâché contre moi, ces derniers temps ! Il dit que je me trompe sur le compte des scélérats de ton espèce ! ''C'est scandaleux ''!"
+|-
+|'''Minotaur'''
+|"Vous ne m'avez pas compris, mon roi. Nous avons encore beaucoup à apprendre de cet adversaire. Chaque fois, il revient avec un équipement différent... une arme différente, des bénédictions différentes, et ainsi de suite. Malgré nos efforts... nous avons du mal à nous adapter à ses stratégies."
+|-
+|'''Theseus'''
+|"Et maintenant, tu dis que je ne sais pas me battre, Astérion ? Alors même que je n'ai eu aucune difficulté à ''te ''terrasser dans ton labyrinthe ?! Bah, assez parlé, battons-nous !"
+|-
+! colspan="2" |Theseus About Fraternal Bonds 05 A
+|-
+|'''Theseus'''
+|"Eh bien, vermine ! Viens donc nous affronter et profiter des ravages que tu as causés ! Nous ne faisons pas équipe ! Nous ne sommes que deux combattants payés pour être ici, maintenant."
+|-
+|'''Minotaur'''
+|"Mon roi, je crois que vous exagérez. Essayez d'être plus raisonnable. Et de tenir un peu plus compte de mon point de vue. Je ne demande pas grand-chose."
+|-
+|'''Theseus'''
+|"Tu me demandes l'impossible ! Mais soit, battons-nous... et perdons, car si nous ne sommes pas une équipe, alors que sommes-nous, Astérion...?"
+|-
+! colspan="2" |Theseus About Fraternal Bonds 05 Extra A
+|-
+|'''Minotaur'''
+|"Je te prie d'excuser le Champion, minus. Il n'est pas dans son état normal, ces temps-ci. Mais je suis sûr qu'il continuera malgré tout de se battre contre toi jusqu'à ce que mort s'ensuive."
+|-
+|'''Zagreus'''
+|"Tant mieux, parce que j'étais vraiment inquiet, là. Hé, peut-être qu'il retrouvera ses esprits si je lui mets quelques claques ! Tu crois que ça marcherait ?"
+|-
+|'''Minotaur'''
+|"Je ne sais pas. J'ai essayé. Mais je sais qu'il vaut mieux ne pas te sous-estimer, alors... viens te battre."
+|-
+! colspan="2" |Theseus About Fraternal Bonds 06 A
+|-
+|'''Theseus'''
+|"Je t'en prie, Astérion, combattons à nouveau ensemble. Je veux dire, comme avant ! Pardonne-moi pour mes récents emportements. Ce maudit démon ! Ses mensonges et sa perfidie ont vraiment un don pour me rendre malade. Ou du moins, ce qui s'en rapproche le plus ici-bas !"
+|-
+|'''Minotaur'''
+|"Jurez-moi une chose, mon roi. Jurez-moi que vous vous débarrasserez de vos peurs concernant le lien qui nous unit. Ce minus ne le brisera jamais. Il ne le comprend même pas. Le seul à pouvoir le briser, c'est vous."
+|-
+|'''Theseus'''
+|"Je... oh, Astérion, mon cher ami. Je vois, bien sûr... tu as raison, tu as raison. ''Tu as raison ''! Je jure solennellement que je ne douterai plus jamais de notre fraternité ! Et que plus jamais je n'écouterai ce démon ! Allons-y, maintenant ! Ensemble pour l'éternité !!"
+|-
+! colspan="2" |Theseus Pact Reverted 01
+|-
+|'''Theseus'''
+|"Le voilà de retour, Astérion ! Et cette fois, nous allons devoir le vaincre sans l’aide de nos armures divines ! Un défi digne de ce nom, tu ne trouves pas ?"
+|-
+|'''Minotaur'''
+|"Ne le sous-estimez pas, mon roi. Il s’est déjà montré coriace."
+|-
+|'''Theseus'''
+|"Foutaises, mon ami ! Car comment peut-on sous-estimer ce qui ne mérite justement pas la moindre estime ?! Ensemble, maintenant ! ''À l'attaque ''!"
+|-
+! colspan="2" |Theseus With Asterius 01
+|-
+|'''Minotaur'''
+|"Il est là, mon roi. J'active mon armure. Heureusement que votre char a pu être réparé à temps."
+|-
+|'''Theseus'''
+|"Foutaises, mon ami ! Nous pourrions vaincre ce vil rejeton des Enfers avec ou sans la protection divine supplémentaire qui nous a été accordée ! À l'attaque !"
+|-
+! colspan="2" |Theseus First Appearance Not Met Minotaur
+|-
+|'''Theseus'''
+|"Halte, démon ! Tu ne feras point un pas de plus vers la lumière du jour, tant que je serai ici."
+|-
+|'''Minotaur'''
+|"Deux contre un. Ça ne me semble pas très équitable... ah, tant pis ! ''<Grognement> ''Tuons-le, qu’on en finisse, mon roi."
+|-
+|'''Zagreus'''
+|"Thésée ?! Le Taureau de Minos ?! Vous êtes tous les deux des légendes ! Ce serait un honneur pour moi que de nous affronter ici dans une compétition sportive !"
+|-
+|'''Theseus'''
+|"''Ahh'', une vulgaire tentative de m’éloigner de mes convictions. Défends-toi, scélérat ! Et puissent les dieux t'accorder leur miséricorde, car tu n'en auras point de ma part !"
+|-
+! colspan="2" |Theseus First Appearance Met Beat Minotaur
+|-
+|'''Minotaur'''
+|"Je t'aurai prévenu, minus. Tu affrontes maintenant un adversaire encore plus redoutable que moi. Le seul adversaire qui ait réussi à me vaincre."
+|-
+|'''Zagreus'''
+|"Je rêve, Thésée ?! Vous êtes tous les deux des légendes ! Ce serait un honneur pour moi que de nous affronter ici dans une compétition sportive !"
+|-
+! colspan="2" |Theseus First Appearance Met Not Beat Minotaur
+|-
+|'''Minotaur'''
+|"Attention, minus. Tu affrontes maintenant un adversaire encore plus redoutable que moi. Le seul adversaire qui ait réussi à me vaincre."
+|-
+! colspan="2" |Theseus About Gilgamesh Aspect 01
+|-
+|'''Theseus'''
+|"Mais quels sont ces gants monstrueux, scélérat ? Commencerais-tu à révéler ta véritable nature sauvage ?"
+|-
+|'''Minotaur'''
+|"Non. Il porte les Poings Jumeaux sous l'aspect d'un roi du nom de Gilgamesh. Ce roi a lui aussi affronté une demi-bête telle que moi, qui est ensuite devenue son amie. C'est peut-être pour ça que j'ai senti que ce combat viendrait."
+|-
+|'''Theseus'''
+|"Qu'est-ce que tu racontes, Astérion ? Je pense que le moment est très mal choisi pour des considérations philosophiques ! Et je suis sûr que ce Gilgamesh dont tu parles était un vrai combattant, contrairement à ce ''minable ''!"
+|-
+! colspan="2" |Theseus With Asterius 02
+|-
+|'''Minotaur'''
+|"Nous sommes parfaitement équipés pour t'affronter, minus. Même si je me garderai bien de dénigrer ta puissance."
+|-
+|'''Theseus'''
+|"Parle pour toi, Astérion ! Pour ma part, je n’éprouve qu’un mépris total pour cet infâme démon et son style de combat sournois ! Un style que nous allons dès maintenant mettre à mal !"
+|-
+! colspan="2" |Theseus With Asterius 03
+|-
+|'''Theseus'''
+|"Quel espoir as-tu, monstre, face aux liens bénis de la fraternité ?"
+|-
+|'''Minotaur'''
+|"Mieux vaut ne pas le sous-estimer, mon roi. Il est plus puissant qu’il n’y paraît. Nous devons rester sur nos gardes, cette fois."
+|-
+|'''Theseus'''
+|"Oh, je suis absolument sur mes gardes, Astérion ! Et si j’étais encore vivant, je saliverais à l’idée d’enfoncer ma lance, ou quelle que soit l’arme dont je disposerais, dans cette misérable pustule ! Maintenant, ''en avant ''!"
+|-
+! colspan="2" |Theseus With Asterius 04
+|-
+|'''Zagreus'''
+|"Thésée, avant que tu ne gaspilles encore ta salive spectrale à mon égard, j’aimerais entendre ce bon Astérion cette fois ! Tu monopolises toujours la parole, il ne peut pas prononcer un mot."
+|-
+|'''Minotaur'''
+|"Le roi parle pour nous deux, minus. Toutefois, si tu souhaites m’entendre dire quelque chose, je veux bien t'accorder cette faveur."
+|-
+|'''Theseus'''
+|"Moi aussi, j’ai une faveur à rendre ! Une faveur à rendre à ma loyale lance qui se languit de pénétrer ta chair tendre et vulnérable, et d’une pâleur extrême ! Meurs, maintenant !"
+|-
+! colspan="2" |Theseus Yarn Reaction 04
+|-
+|'''Theseus'''
+|"Regarde, Astérion ! Il semblerait que le démon a apporté une sorte de balle de laine quelconque ! J'ignore ce que cela peut être. Elle n'a aucun effet sur moi, absolument !"
+|-
+|'''Minotaur'''
+|"Mon roi. La princesse Ariane était ma sœur, au cas où vous l'auriez oublié. Je vous prie de ne pas dénigrer sa mémoire ainsi. ''<Grognement> ''Vous me contrariez."
+|-
+|'''Theseus'''
+|"''Ah'', non, mon ami ! Je ne voulais point t'offenser. Mais était-ce vraiment ma faute si je ne ressentais aucun amour pour elle ?! ''Pff'', pardonne-moi. Je... je la chercherai. Un jour, ou une nuit. Mais d’abord !! Ce démon ''doit '' être anéanti. Ensemble, non ?!"
+|-
+! colspan="2" |Theseus Misc Start With Gilgamesh Aspect 01
+|-
+|'''Minotaur'''
+|"Regardez, mon roi ! Il a les armes dont je vous ai parlé... les poings de Gilgamesh. Restez près de moi, cette fois."
+|-
+! colspan="2" |Theseus Misc Start 23 A
+|-
+|'''Minotaur'''
+|"Tu affrontes le Champion, et moi-même. Prépare-toi."
+|-
+! colspan="2" |Theseus Misc Start 24 A
+|-
+|'''Minotaur'''
+|"Détruisons-le rapidement, mon roi. Ou peut-être lentement."
+|-
+! colspan="2" |Theseus Misc Start 25 A
+|-
+|'''Minotaur'''
+|"Ne gaspillez pas votre salive, mon roi. Combattons."
+|-
+! colspan="2" |Theseus Misc Start 26 A
+|-
+|'''Minotaur'''
+|"Comme l’a dit le roi, si tu cherches à quitter l’Élysée, il faudra nous passer sur le corps."
+|-
+! colspan="2" |Minotaur Extreme Measures 01
+|-
+|'''Minotaur'''
+|"Admire ce manteau de bronze luisant qui orne mon corps désormais, minus. ''<Grognement> ''Grâce à toi, si j’ai bien compris."
+|-
+|'''Zagreus'''
+|"C’est mon père qu’il faut remercier, pas moi. Il a du mal à me contenir ici, alors je bénéficie maintenant de son tout dernier Pacte des Châtiments. De rien !"
+|-
+|'''Minotaur'''
+|"Je ne t'ai pas encore remercié. Mais approche... laisse-moi te montrer à quel point je te suis reconnaissant de m’avoir recouvert de ce... costume."
+|-
+! colspan="2" |Minotaur Extreme Measures 02
+|-
+|'''Minotaur'''
+|"Dis-moi, minus, où est ton armure ? Je préfèrerais ne pas me battre contre un adversaire mal équipé."
+|-
+|'''Zagreus'''
+|"Tu sais, le code vestimentaire imposé dans le Tartare par mon père est très strict. Pas d’armure dans la Maison ! Je n'ai jamais eu l'occasion d'en essayer une."
+|-
+|'''Minotaur'''
+|"Un code vestimentaire. ''<Grognement> ''Moi aussi, je suis un code. Et ce code stipule que je ne peux en aucun cas te laisser passer sans combattre."
+|-
+! colspan="2" |Minotaur Extreme Measures Win Streak 01
+|-
+|'''Minotaur'''
+|"Même avec cette armure, je n’ai pas réussi à avoir le dessus sur toi. Peut-être que je manque de l’entraînement nécessaire pour profiter pleinement de ses bénéfices."
+|-
+|'''Zagreus'''
+|"Je suppose que tu n’as pas une connaissance sympathique avec qui t'entraîner, jusqu'à ce que tu te sentes de m’affronter de nouveau ?"
+|-
+|'''Minotaur'''
+|"Non. ''<Grognement> ''Le roi Thésée est occupé avec ses propres préparatifs. Tu vas faire office de connaissance sympathique pour l’heure."
+|-
+! colspan="2" |Minotaur Pact Reverted 01
+|-
+|'''Minotaur'''
+|"J’ai retrouvé mes capacités plus terrestres, minus. Et je peux de nouveau me mouvoir librement."
+|-
+|'''Zagreus'''
+|"Voilà qui change, Astérion ! Qui a besoin d’une vieille armure spectaculaire fait spécialement sur mesure, de toute façon ?"
+|-
+|'''Minotaur'''
+|"Tu te moques de moi. Mais tu ne sais pas ce que c’est d’être coincé ; enfermé dans quelque chose et incapable de te libérer. Je n’ai besoin d’aucune armure pour te battre."
+|-
+! colspan="2" |Minotaur About Gilgamesh Aspect 01
+|-
+|'''Minotaur'''
+|"Tu n'as pas parlé à tes poings, n'est-ce pas, minus ? '''Je te vois dominer la nature sauvage et faire la paix avec la mort.' ''C'est ce que tu dois leur dire. Je le sais."
+|-
+|'''Zagreus'''
+|"J'ai eu pas mal de choses à faire, ces derniers temps, mais je vais le faire, Astérion ! Vous voudrez savoir le résultat ?"
+|-
+|'''Minotaur'''
+|"Oui. Tiens, je te donne cette occasion de rentrer vite chez toi, si tu veux le découvrir par toi-même."
+|-
+! colspan="2" |Minotaur About Gilgamesh Aspect 02
+|-
+|'''Minotaur'''
+|"Là, sur tes mains... les armes que tu appelles Malphon. Elles sont telles que je les ai vues dans mon rêve. Monstrueuses. Comme moi."
+|-
+|'''Zagreus'''
+|"Elles ont appartenu à un certain Gilgamesh. L'homme-bête qu'il a combattu avec, Enkidu... tu dis qu'ils sont devenus amis, ensuite ? Qu'est-ce que ton rêve a dit à propos de nous ?"
+|-
+|'''Minotaur'''
+|"Pas grand-chose. Seulement que nous nous battrions. Comme le firent Gilgamesh et Enkidu. L'issue de notre combat sera peut-être la même, ou peut-être pas. Nous allons très vite le savoir."
+|-
+! colspan="2" |Minotaur First Appearance Not Met Theseus
+|-
+|'''Minotaur'''
+|"Tu viens des entrailles des Enfers. Ta place n'est pas ici."
+|-
+|'''Zagreus'''
+|"Vous avez raison sur toute la ligne ! Je ne fais que passer, alors si vous voulez bien m'excuser..."
+|-
+|'''Minotaur'''
+|"Jamais. ''<Grognement> ''Le Champion de l’Élysée ne renoncerait jamais à un tel affrontement. Et moi non plus."
+|-
+|'''Zagreus'''
+|"Attendez, ce n’est pas ''vous'', le Champion de l’Élysée...? Vous êtes le Taureau de Minos ! Je ne vois pas qui pourrait être plus fort que vous. Héraclès, peut-être ? Dites-moi que c’est Héraclès."
+|-
+|'''Minotaur'''
+|"Je ne dirai rien. ''<Grognement> ''Tu parles trop, minus. Viens donc te faire massacrer."
+|-
+! colspan="2" |Minotaur Met Theseus 01
+|-
+|'''Minotaur'''
+|"Tu as rencontré le Champion, le roi. Voyons si tu es apte à l’affronter une nouvelle fois."
+|-
+|'''Zagreus'''
+|"Vous voulez dire, vous affronter tous les deux ensemble. Ce qui ne me semble pas particulièrement juste."
+|-
+|'''Minotaur'''
+|"La vie n’est pas particulièrement juste, minus. La mort non plus. Je m’attendais à ce que tu saches au moins cela. Mais tiens, puisque tu insistes, voilà ton combat juste."
+|-
+! colspan="2" |Minotaur Met Theseus 02
+|-
+|'''Minotaur'''
+|"Affrontons-nous ici encore une fois avant que tu ne te mesures au Champion. Nous ne te laisserons jamais passer sans combattre."
+|-
+|'''Zagreus'''
+|"Tu n’as absolument rien à voir avec Thésée. Pourquoi est-ce que tu suis tout ce qu’il dit et fait ? Tu es un homme libre. Un taureau libre, aussi."
+|-
+|'''Minotaur'''
+|"Le roi Thésée m’a tué dans la vie et m’a sauvé dans la mort. J'ai été envoyé dans l'Érèbe. Comme un monstre. Il m’a retrouvé quand il est mort. Et il a usé de son influence pour m'emmener ici avec lui."
+|-
+|'''Zagreus'''
+|"C’est vraiment gentil de sa part, mais je dirais que vous êtes quittes, maintenant. Vu que c'est à cause de lui que tu es arrivé dans les Enfers, après tout."
+|-
+|'''Minotaur'''
+|"Non ; nous sommes loin d'être quittes. Je me battrai à ses côtés pour l’éternité. Pour le remercier de m’avoir aidé à comprendre qui je suis réellement."
+|-
+! colspan="2" |Minotaur Defeated Theseus 01
+|-
+|'''Minotaur'''
+|"Tu es parvenu à vaincre le Champion en personne. Ce qui veut dire que je n’ai que peu d’espoir de te battre."
+|-
+|'''Zagreus'''
+|"Alors pourquoi m’affronter ? Personne ne t'y oblige. Ce Thésée a une influence plus que discutable sur toi, je trouve !"
+|-
+|'''Minotaur'''
+|"Je te comprends, minus. Moi aussi, je suis né des ténèbres. Mais j’ai choisi la voie de la lumière. Même dans la mort, il n’est pas trop tard. ''<Grognement> ''Pas même pour un monstre comme moi. Je suis sûr que tes nombreuses morts seront aussi instructives."
+|-
+! colspan="2" |Minotaur Pact High Heat Reaction 01
+|-
+|'''Minotaur'''
+|"Cette chaleur... elle me rappelle ma jeunesse. Ma vie dans l'obscurité, à apprendre à me battre. À tuer."
+|-
+|'''Zagreus'''
+|"J'imagine que tu vas mettre ton apprentissage en pratique, maintenant que je suis là ?"
+|-
+|'''Minotaur'''
+|"Oui. La chaleur me rend plus fort. Voyons s'il en est de même pour toi."
+|-
+! colspan="2" |Minotaur Autograph 01
+|-
+|'''Minotaur'''
+|"''Ah'', je sens qu’un autre combat féroce nous attend, minus. Mais on dirait que tu as quelque chose à me demander..."
+|-
+|'''Zagreus'''
+|"''Euhh'', oh ! C’est juste que j’ai une demande un peu spéciale. Tu connais Hypnos, le dieu du sommeil ? C'est un de mes collègues. Un grand fan. Il voudrait avoir un autographe de ta part, genre, un petit message personnalisé. Tu pourrais faire ça pour moi ? Ça lui ferait tellement plaisir."
+|-
+|'''Minotaur'''
+|"Un autographe. Je vois. Il y a donc des dieux qui m’apprécient. Dans ce cas, je vais dédicacer un morceau de parchemin pour ton collègue. Un instant."
+|-
+|'''Storyteller'''
+|"''Le Minotaure inscrit alors un bref message à l'attention du dieu du sommeil sur un parchemin, qu'il remit ensuite au Prince.''"
+|-
+|'''Minotaur'''
+|"Sache, minus, que c’est à toi que j’accorde cette faveur, et non à Hypnos. Cela dit, il peut venir me défier ici lui-même à tout moment."
+|-
+! colspan="2" |Minotaur About Fist Weapon 01
+|-
+|'''Minotaur'''
+|"''Hm''. Tu comptes m'affronter à mains nues cette fois, minus ? Je n'ai pas honte de dire que le Champion lui-même m'a vaincu de cette façon lorsque nous étions encore vivants."
+|-
+|'''Zagreus'''
+|"Je ne pense pas qu'on peut parler de combat à mains nues quand il s'agit là des Poings Jumeaux de Malphon, l'ami. Cela dit, je suis surpris d'entendre qu'on peut te battre comme ça."
+|-
+|'''Minotaur'''
+|"J'étais affamé et je manquais de préparation. D'expérience. Plus maintenant. Approche."
+|-
+! colspan="2" |Minotaur About Friendship 01
+|-
+|'''Minotaur'''
+|"Tu dois prendre un certain plaisir à venir m'affronter, minus. Moi aussi, j'en suis venu à m'en réjouir à l'avance. Même si je finis par tomber sous tes coups."
+|-
+|'''Zagreus'''
+|"Oh, j'allais justement te proposer de régler ça à l'amiable, c'est possible ? Tiens, qu'est-ce que tu dirais d'une bonne bouteille de Nectar ? Ou bien peut-être même une bouteille d'Ambroisie ?"
+|-
+|'''Minotaur'''
+|"Non merci. Ces combats me suffisent. Et puis... tu as gagné cette Ambroisie contre nous, à la loyale."
+|-
+! colspan="2" |Minotaur About Friendship 02
+|-
+|'''Minotaur'''
+|"Te revoilà, minus. Ou Prince. Peu importe comment on t'appelle. Les formalités ne m'intéressent guère."
+|-
+|'''Zagreus'''
+|"Moi non plus, Astérion, mais puisqu'on en parle, comment est-ce que tu voudrais que je t'appelle, toi ? Le Minotaure ? Le Taureau de Minos ? Ces noms-là ne sont pas offensants, si ?"
+|-
+|'''Minotaur'''
+|"Ces noms ont une signification pour certains, mais aucune pour moi. J'ai un nom. Tu le connais. Utilise-le si tu veux. Maintenant, commençons."
+|-
+! colspan="2" |Minotaur About Skelly 01
+|-
+|'''Zagreus'''
+|"Dis, tu es bien originaire de Crète, pas vrai, Astérion ? Je sais que ça remonte à loin, mais... est-ce que par hasard, tu aurais entendu parler d'un certain commandant du nom de ''Thadémée ''? Capitaine de la seconde flotte crétoise, quelque chose dans le genre ?"
+|-
+|'''Minotaur'''
+|"Le roi de Crète commandait la plus grande flotte du monde. Même moi, qui n'avais jamais vu la lumière du jour, les navires ou la mer, je le savais. ''Thadémée'', hm...? Ce nom me dit peut-être quelque chose. Pourquoi ?"
+|-
+|'''Zagreus'''
+|"Attends, Thadémée existait pour de vrai ? Mais Thados a dit... ah, tu sais quoi, ce n'est rien, Astérion. On y va ?"
+|-
+|'''Minotaur'''
+|"Oui. Allons-y."
+|-
+! colspan="2" |Minotaur Reveals Gilgamesh Aspect 01
+|-
+|'''Minotaur'''
+|"Tu es venu, minus. J'ai rêvé de ce moment."
+|-
+|'''Zagreus'''
+|"Oh, je t'en prie, Astérion, combien de fois est-ce qu'on s'est battus, maintenant ? De quoi est-ce que tu peux encore rêver ?"
+|-
+|'''Minotaur'''
+|"Non. J'ai fait un rêve. Et dans mon rêve, je devais te dire quelque chose. Ou plutôt... tu devais dire quelque chose aux armes que tu enfiles à tes mains. Dis-leur, ''« Je te vois dominer la nature sauvage et faire la paix avec la mort. »''"
+|-
+|'''Zagreus'''
+|"Hé, mais je sais ce que c'est ! C'est une phrase d'éveil ! Et donc, je dois la répéter devant Malphon. Attends, pourquoi est-ce que tu m'aides ?"
+|-
+|'''Minotaur'''
+|"Je ne sais pas si je t'aide ou pas. Mais dans mon rêve... un héros des temps anciens affrontait une demi-bête à mains nues. Ils ont fini par devenir amis après un duel épique. Il me tarde de vivre un tel combat."
+|-
+! colspan="2" |Minotaur Clear Progress 01
+|-
+|'''Minotaur'''
+|"Je me demandais, minus... tu reviens ici sans cesse, mais j'ignore pourquoi. Tu cherches à t'échapper d'ici, n'est-ce pas ? Mais quelque chose te tue, là-haut."
+|-
+|'''Zagreus'''
+|"C'est plus ou moins ça, Astérion. Et oui, disons qu'il reste encore quelques obstacles sur mon chemin au-delà de l’Élysée. Mais je préfère ne pas en dire plus."
+|-
+|'''Minotaur'''
+|"Comme tu voudras. Je suis content de savoir que tu tombes aussi souvent que moi. Ce n'est peut-être pas moi qui te tuerai, mais je me chargerai au moins de t'attendrir pour quiconque y parviendra."
+|-
+! colspan="2" |Minotaur Clear Progress 01 B
+|-
+|'''Minotaur'''
+|"Es-tu déjà sorti d'ici, minus ? Parfois, je me demande comment c'est... dehors."
+|-
+|'''Zagreus'''
+|"Tu n'es jamais allé dehors ? Ah oui, c'est vrai... le labyrinthe. Tu as vécu dans un horrible labyrinthe toute ta vie. Je n'ai pas vu grand-chose de la surface, mais... c'est magnifique. Et froid, aussi. Mais quand j'y suis, je... je ne me sens pas à ma place."
+|-
+|'''Minotaur'''
+|"...Pas à ta place. Je crois comprendre ce que tu veux dire. Je ne vois pas pourquoi tu tiens tant à t'y rendre. Ce n'est sûrement pas aussi magnifique que ce qu'on dit. Pourquoi te donnes-tu autant de mal ? D'ailleurs, en parlant de te donner du mal..."
+|-
+! colspan="2" |Minotaur Post Epilogue 01
+|-
+|'''Minotaur'''
+|"Tout le monde dit que la Reine est de retour. Tu sais ce que ça signifie, minus ?"
+|-
+|'''Zagreus'''
+|"Eh bien, pour moi, en tout cas, ça signifie beaucoup. Je suis son fils, tu sais !"
+|-
+|'''Minotaur'''
+|"Ça ne signifie rien du tout. Nous sommes ici pour nous battre. Et puis, si ça t'intéresse... ma mère aussi était une reine. Puisse ta mère te traiter mieux que la mienne m'a traité... et mieux que moi, dans un instant."
+|-
+! colspan="2" |Minotaur Low Health 01
+|-
+|'''Minotaur'''
+|"Tu sens le sang, minus. ''<Grognement> ''Tu es gravement blessé. Ce ne sera pas un combat équitable."
+|-
+|'''Zagreus'''
+|"Un combat injuste n’en vaut pas la peine, tu ne crois pas ?"
+|-
+|'''Minotaur'''
+|"Je ne dirais pas ça. Un combat injuste est toujours mieux qu'aucun combat du tout."
+|-
+! colspan="2" |Minotaur Low Health 02
+|-
+|'''Minotaur'''
+|"Tu es à peine en état de m'affronter. Ta mise à mort ne sera pas longue."
+|-
+|'''Zagreus'''
+|"Super ! Merci pour tes encouragements, Astérion. Ne me laisse pas te faire attendre plus longtemps, alors."
+|-
+|'''Minotaur'''
+|"Si de simples mots suffisent pour te décourager, minus, alors écoute ceci : tu n'as aucune chance."
+|-
+! colspan="2" |Minotaur Low Health 03
+|-
+|'''Minotaur'''
+|"Il semblerait que tu aies survécu à de nombreux ennemis avant d’arriver là. À peine survécu, devrais-je dire."
+|-
+|'''Zagreus'''
+|"C’est vrai, ils m’ont bien diminué. Mais faire tout ce chemin du Tartare jusqu'ici est vraiment pénible, tu sais !"
+|-
+|'''Minotaur'''
+|"Que sais-tu de ce qui est pénible ou pas ? Essaye de vivre dans un labyrinthe aux innombrables passages et en perpétuel changement. Maintenant, laisse-moi finir ce que tes ennemis ont commencé."
+|-
+! colspan="2" |Minotaur Encounter 01
+|-
+|'''Minotaur'''
+|"Nous nous retrouvons, minus. Pour un nouveau combat."
+|-
+|'''Zagreus'''
+|"''Minus ''?! Alors ça, c'est un coup bas, l'ami. Je croyais que vous étiez un homme-taureau d'honneur."
+|-
+|'''Minotaur'''
+|"Tu te moques de mon sens de l’honneur. ''<Grognement> ''Une tactique classique. Prépare-toi, maintenant."
+|-
+! colspan="2" |Minotaur Encounter 02
+|-
+|'''Minotaur'''
+|"Ainsi, tu choisis de me défier une nouvelle fois. Peu dans l’Élysée en ont le courage. Dans ce cas, j’accepte ton défi."
+|-
+|'''Zagreus'''
+|"Une minute, je ne t'ai jamais défié, moi ! L’entrée de ta chambre ressemble à n’importe quel autre passage dans l’Élysée. Je n'ai absolument rien contre toi, l'ami !"
+|-
+|'''Minotaur'''
+|"Pénétrer dans ma chambre équivaut à me défier. ''<Grognement> '' C’est devenu une coutume depuis l’époque où je vivais et respirais dans les ténèbres. Je vais t'envoyer dans de tels ténèbres maintenant."
+|-
+! colspan="2" |Minotaur Encounter 03
+|-
+|'''Minotaur'''
+|"Mon prochain adversaire est arrivé dans un court délai."
+|-
+|'''Zagreus'''
+|"Un court délai ? Encore une de tes piques sur ma taille, c’est ça ?"
+|-
+|'''Minotaur'''
+|"Je ne fais pas de piques. ''<Grognement> '' Je mets toute ma force dans chacun de mes coups. Observe bien."
+|-
+! colspan="2" |Minotaur Encounter 04
+|-
+|'''Minotaur'''
+|"Tu es de retour dans ma chambre. Je suis sûr que tu sais ce que ça veut dire, maintenant."
+|-
+|'''Zagreus'''
+|"Ça veut dire que je te défie dans un combat où se jouent force et gloire, parce qu'apparemment c’est tout ce que des types comme toi ont trouvé de mieux à faire pour s'amuser ici ?"
+|-
+|'''Minotaur'''
+|"C’est... ''<Grognement> ''Oui. Dans l'ensemble, c'est exact. Prépare-toi."
+|-
+! colspan="2" |Minotaur Encounter 05
+|-
+|'''Minotaur'''
+|"Il semblerait... ''<Grognement> '' qu'il soit à nouveau temps de ''s’amuser '' un peu."
+|-
+|'''Zagreus'''
+|"Ah oui, mon passe-temps préféré : me faire massacrer par une hache géante à double tranchant. Et aussi me faire piétiner."
+|-
+|'''Minotaur'''
+|"Tant mieux. Tu vas être gâté."
+|-
+! colspan="2" |Minotaur Encounter 06
+|-
+|'''Minotaur'''
+|"Eh bien, minus. Il semblerait que mon devoir soit de t'abîmer le plus possible ici, afin que le roi et moi-même puissions enfin t'achever à la sortie."
+|-
+|'''Zagreus'''
+|"Tu sais, cette histoire de '''minus''' me blesse presque autant que cette hache. Pourquoi ce n’est pas Thésée, le '''minus''' ? On fait la même taille !"
+|-
+|'''Minotaur'''
+|"Non. Le roi est plus grand. C’est le plus grand roi d’Athènes ! Et toi, qui es-tu ? Le fils têtu d’un dieu capricieux. Ton père n’a aucun égard pour moi. Tout comme le roi n'a aucun égard pour toi. Maintenant, affronte-moi."
+|-
+! colspan="2" |Minotaur Win Streak 01
+|-
+|'''Minotaur'''
+|"Il est rare que mes adversaires reviennent ici pour que je les massacre une nouvelle fois."
+|-
+|'''Zagreus'''
+|"Oui, eh bien, tu es un peu sur mon chemin, là. Est-ce que j'ai vraiment le choix ?"
+|-
+|'''Minotaur'''
+|"Ce sont tes choix qui t'ont amené ici, et ce sont eux qui te mèneront de nouveau à ta perte."
+|-
+! colspan="2" |Minotaur Lose Streak 01
+|-
+|'''Minotaur'''
+|"Tu es plus compétent que je ne l'imaginais, minus. Une revanche s’impose."
+|-
+|'''Zagreus'''
+|"Tu vas demander une revanche à chaque fois que j’aurai réussi à te vaincre, pas vrai ?"
+|-
+|'''Minotaur'''
+|"Nous et nos victoires ne sommes qu’éphémères ici, dans l’Élysée. Nous vivons, pour ainsi dire, pour des moments comme ceux-ci."
+|-
+! colspan="2" |Minotaur Misc Start 01
+|-
+|'''Minotaur'''
+|"J’accepte ici-même ton défi, minus."
+|-
+! colspan="2" |Minotaur Misc Start 02
+|-
+|'''Minotaur'''
+|"Un autre adversaire. ''<Grognement> ''Viens te faire massacrer."
+|-
+! colspan="2" |Minotaur Misc Start 03
+|-
+|'''Minotaur'''
+|"J’accepte tous les adversaires. Sans même avis préalable."
+|-
+! colspan="2" |Minotaur Misc Start 04
+|-
+|'''Minotaur'''
+|"Tu es de retour. ''<Grognement> ''Je suis toujours prêt à t'affronter."
+|-
+! colspan="2" |Minotaur Misc Start 05
+|-
+|'''Minotaur'''
+|"Tu pénètres une nouvelle fois dans ma chambre, minus. Excellent."
+|-
+! colspan="2" |Minotaur Misc Start 06
+|-
+|'''Minotaur'''
+|"Je m'attendais à te retrouver ici. ''<Grognement> ''Battons-nous."
+|-
+! colspan="2" |Minotaur Misc Start 07
+|-
+|'''Minotaur'''
+|"Il semblerait que l’heure de nous affronter soit venue. En garde."
+|-
+! colspan="2" |Minotaur Misc Start 08
+|-
+|'''Minotaur'''
+|"Enfin. ''<Grognement> '' J’ai l’impression que ça fait des siècles que je n’ai pas écrasé la vie de quoi que ce soit."
+|-
+! colspan="2" |Minotaur Misc Start 09
+|-
+|'''Minotaur'''
+|"Tu es revenu m’affronter pour la gloire, minus ? ''<Grognement> ''Excellent."
+|-
+! colspan="2" |Minotaur Misc Start 10
+|-
+|'''Minotaur'''
+|"Viens m'affronter encore une fois, minus. Nous avons toute l’éternité devant nous pour devenir plus forts."
+|-
+! colspan="2" |Minotaur Misc Start 11
+|-
+|'''Minotaur'''
+|"Merci, minus. ''<Grognement> ''Rares sont ceux dans l’Élysée qui osent me défier ainsi à plusieurs reprises."
+|-
+! colspan="2" |Minotaur Misc Start 12
+|-
+|'''Minotaur'''
+|"Le minus né des entrailles des Enfers est enfin de retour."
+|-
+! colspan="2" |Minotaur Misc Start 13
+|-
+|'''Minotaur'''
+|"J’ai entendu dire que tu étais de retour dans l’Élysée. ''<Grognement> ''Enfin."
+|-
+! colspan="2" |Minotaur Misc Start 14
+|-
+|'''Minotaur'''
+|"Ne te retiens pas contre moi, minus. Maintenant, approche."
+|-
+! colspan="2" |Minotaur Misc Start 15
+|-
+|'''Minotaur'''
+|"À force de nous battre, nous deviendrons plus forts, minus."
+|-
+! colspan="2" |Minotaur Misc Start 16
+|-
+|'''Minotaur'''
+|"Je suis toujours prêt à affronter quiconque ose me défier."
+|-
+! colspan="2" |Minotaur Misc Start 17
+|-
+|'''Minotaur'''
+|"Affrontons-nous maintenant avant que tu ne te mesures au Champion."
+|-
+! colspan="2" |Minotaur Misc Start 19
+|-
+|'''Minotaur'''
+|"Si c'est le Champion que tu cherches, alors tu devras d'abord m'affronter."
+|-
+! colspan="2" |Minotaur Misc Start 20
+|-
+|'''Minotaur'''
+|"Hrmm. ''<Grognement> '' Il s’est passé du temps depuis mon dernier combat."
+|-
+! colspan="2" |Minotaur Misc Start 21
+|-
+|'''Minotaur'''
+|"J'avais hâte de me battre une nouvelle fois contre toi. Allons-y."
+|-
+! colspan="2" |Minotaur Misc Start 22
+|-
+|'''Minotaur'''
+|"On m'a dit que tu passerais par ici. ''<Grognement> ''J'ai dit que je t'arrêterais... mais ça reste à voir."
+|-
+! colspan="2" |Minotaur Misc Start 23
+|-
+|'''Minotaur'''
+|"Chaque fois que nous nous battons... je crois je deviens plus fort. Commençons."
+|-
+! colspan="2" |Minotaur Misc Start 24
+|-
+|'''Minotaur'''
+|"J'avais le sentiment qu'on se reverrait. J'attendais ton retour avec impatience."
+|-
+! colspan="2" |Minotaur Misc Start 25
+|-
+|'''Minotaur'''
+|"Je peux soit t'écraser, soit te découper. À toi de voir, minus."
+|-
+! colspan="2" |Minotaur Misc Start 26
+|-
+|'''Minotaur'''
+|"J'ai dit au roi que j'essaierais de t'arrêter. Il pense que je ne rencontrerai aucune difficulté. ''<Grognement> '' Voyons voir ça."
+|-
+! colspan="2" |Minotaur Misc Start 27
+|-
+|'''Minotaur'''
+|"Approche, minus. J'ai assez attendu ainsi."
+|-
+! colspan="2" |Minotaur Misc Start 28
+|-
+|'''Minotaur'''
+|"Tu sais ce qu'il faut faire pour quitter cette chambre vivant, minus. ''<Grognement> ''Viens te battre."
+|-
+! colspan="2" |Minotaur Misc Start Extreme Measures 01
+|-
+|'''Minotaur'''
+|"J'ai mon armure, minus. Voyons ce que tu as, toi."
+|-
+! colspan="2" |Minotaur Misc Start Extreme Measures 02
+|-
+|'''Minotaur'''
+|"Voyons si tu parviendras à percer mon armure, cette fois-ci."
+|-
+! colspan="2" |Minotaur Misc Start Extreme Measures 03
+|-
+|'''Minotaur'''
+|"Cette armure est lourde. Mais elle me rend encore plus rapide qu'avant. ''<Grognement> '' Regarde bien."
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 01
+|-
+|'''Minotaur'''
+|"Tu es coriace, minus, je dois le reconnaître."
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 02
+|-
+|'''Minotaur'''
+|"Je suis prêt à te massacrer une nouvelle fois, minus. Viens te battre."
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 03
+|-
+|'''Minotaur'''
+|"Intéressant. ''<Grognement> ''La plupart de mes adversaires ne reviennent jamais me défier une fois que je les ai détruits."
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 04
+|-
+|'''Minotaur'''
+|"Comment espères-tu battre le Champion, si tu n'arrives même pas à me vaincre ?"
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 05
+|-
+|'''Minotaur'''
+|"Tu es tenace, minus. Je te l'accorde."
+|-
+! colspan="2" |Minotaur Misc Start Win Streak 06
+|-
+|'''Minotaur'''
+|"Tu n'as pas l'air de prendre tes défaites trop à cœur. Tant mieux."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 01
+|-
+|'''Minotaur'''
+|"Tu es rapide, minus. Voyons si tu peux me vaincre encore une fois."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 02
+|-
+|'''Minotaur'''
+|"Te voilà, minus. Je suis curieux de voir si tu arriveras à me vaincre encore une fois."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 03
+|-
+|'''Minotaur'''
+|"Un adversaire digne de ce nom est de retour. Voyons si tu es capable de me vaincre encore une fois."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 04
+|-
+|'''Minotaur'''
+|"Gloire et honneur à toi si tu parviens à me vaincre une nouvelle fois. Approche !"
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 05
+|-
+|'''Minotaur'''
+|"J’aime le goût de la défaite, minus. Cela me fait sentir vivant."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 06
+|-
+|'''Minotaur'''
+|"Je n'ai pas fini d'apprendre tous tes tours, minus. Viens donc m'en montrer d'autres."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 07
+|-
+|'''Minotaur'''
+|"Essaye de me battre encore une fois, minus."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 08
+|-
+|'''Minotaur'''
+|"C'est ''moi ''qui te défie cette fois, minus."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 09
+|-
+|'''Minotaur'''
+|"J’avais hâte de vous rendre la pareille depuis notre dernier combat."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 10
+|-
+|'''Minotaur'''
+|"Tu es fort, minus. Mais je suis aussi obstiné que toi."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 11
+|-
+|'''Minotaur'''
+|"Le Champion t'attend, minus. Si tu parviens à me battre encore une fois, bien sûr."
+|-
+! colspan="2" |Minotaur Misc Start Lose Streak 12
+|-
+|'''Minotaur'''
+|"Enfin. Je vais pouvoir me venger de la dernière fois. J'ai juste besoin d'un seul coup net."
+|-
+! colspan="2" |Minotaur Outro 01
+|-
+|'''Minotaur'''
+|"Beau combat. Mais ta technique fait pâle figure à côté de celle du Champion de l’Élysée. J'espère que tu pourras bientôt t'en rendre compte par toi-même."
+|-
+! colspan="2" |Minotaur Outro 02
+|-
+|'''Minotaur'''
+|"Je respecte ta force, minus. Le Champion de l’Élysée attend. À bientôt."
+|-
+! colspan="2" |Minotaur Outro 03
+|-
+|'''Minotaur'''
+|"Tu as été un adversaire digne de ce nom. Tu es le bienvenu ici. Nous nous reverrons."
+|-
+! colspan="2" |Minotaur Outro 04
+|-
+|'''Minotaur'''
+|"Tu as gagné ton droit de passage. Je m’en vais maintenant récupérer en vue de notre prochaine rencontre."
+|-
+! colspan="2" |Minotaur Outro 05
+|-
+|'''Minotaur'''
+|"Merci de t'être entraîné avec moi, minus. Je suis heureux que cela soit devenu une habitude entre nous."
+|-
+! colspan="2" |Minotaur Gilgamesh Aspect Outro 01
+|-
+|'''Minotaur'''
+|"''Eugh''... la puissance de Gilgamesh... je la comprends mieux, maintenant. Mais je ne ferai pas l'erreur de son ami. Nous nous affronterons à nouveau très bientôt."
+|-
+! colspan="2" |Minotaur Gilgamesh Aspect Outro 02
+|-
+|'''Minotaur'''
+|"Une telle force... la force de Gilgamesh. Merci pour ce combat, minus."
+|-
+|}

@@ -1,0 +1,839 @@
+{| class="wikitable"
+|+
+! colspan="2" |Chaos About Beowulf Aspect 01 A
+|-
+|'''Chaos'''
+|"Puedo sentir que aún no has hablado con el artefacto omnisciente que denominas Égida. Manipula el plan de las moiras todo lo que quieras, pues, pero si cambias de opinión en algún momento, dile ''Te veo plantar cara ante las llamas de la sierpe''."
+|-
+! colspan="2" |Chaos About Beowulf Aspect 01
+|-
+|'''Chaos'''
+|"¿Aún no has usado la frase que te dije para despertar a Égida? ¿O acaso has decidido no enseñarme el resultado? Me gustaría de verdad verlo en algún momento. Recuerda, hijo de Hades, dile al artefacto que todo lo ve ''Te veo plantar cara ante las llamas de la sierpe''."
+|-
+! colspan="2" |Chaos About Beowulf Aspect 02
+|-
+|'''Chaos'''
+|"De entre las infinitas posibilidades que podrían acontecer, he aquí el hijo de Hades, con mi artefacto que todo lo ve en las manos, que se presenta ahora con el aspecto de un portador aún nonato y que será conocido en todo el mundo como Beowulf. Qué curioso."
+|-
+! colspan="2" |Chaos Surface Quest Complete
+|-
+|'''Chaos'''
+|"He sentido débilmente que intentaste enfrentarte a tu padre mientras portabas mi pequeño catalizador redondo. Parece que mi petición, y tu éxito, cumplían también el plan de las moiras. El resultado es más divertido de lo que esperaba, y por eso te doy las gracias."
+|-
+! colspan="2" |Chaos About Nyx 05
+|-
+|'''Chaos'''
+|"He detectado una actividad inusual en los confines del Inframundo, hijo de Hades. Cantidades ingentes de oscuridad, reunida en un catalizador que ahora parece casi un faro brillando en la noche. Esto es o bien obra de Nicte, tuya o de los dos. Espero con ansias el resultado."
+|-
+! colspan="2" |Chaos About Nyx 06
+|-
+|'''Chaos'''
+|"Me agrada enormemente, hijo de Hades, haber visto de nuevo a la diosa Nicte. Todo el tiempo que ha pasado desde la última vez que ocurrió ha apagado antiguos pesares, me parece. Por tanto, se ha convertido en la base sobre la que, algún día, puede que reconstruyamos nuestra relación."
+|-
+! colspan="2" |Chaos About Responding 01
+|-
+|'''Chaos'''
+|"Ahora que nos vamos conociendo, hijo de Hades, quiero dejar algo muy claro: me temo que no tengo mucha paciencia para las discusiones. Cuando me visites, tan solo escúchame, acepta mi marca y vete. Responde solo cuando haga falta o te lo pida. ¿Entendido?"
+|-
+|'''Zagreus'''
+|"Solo escuchar... Como con los mensajes de los olímpicos. Espera... ahora me habías preguntado, ¿verdad, Caos? ¿O debería haberme quedado callado?"
+|-
+|'''Chaos'''
+|"No te puedo dar consejo alguno. Pero esta vez te lo pedí, sí. Puedes hablar libremente, en cualquier momento, aunque a mí no me apetezca. El silencio absoluto es lo que yo prefiero, pero puede que tú no."
+|-
+! colspan="2" |Chaos About Nyx 01
+|-
+|'''Chaos'''
+|"Tengo entendido que Zeus y toda su prole en el monte Olimpo creen que eres hijo de Hades y la diosa Nicte. Sonreí cuando supe de tal engaño. Nicte tiene muchos hijos en el Inframundo; así que, ¿por qué no ibas a ser uno de ellos?"
+|-
+|'''Zagreus'''
+|"No es mi madre biológica, no, pero es como una madre para mí. ¿La conoces?"
+|-
+|'''Chaos'''
+|"Oh, conozco a la diosa Nicte muy bien, obviamente. Aunque, ha pasado cierto tiempo desde la última vez que hablamos y… bueno, yo no era muy benévolo por aquel entonces. Espero que a Nicte le vaya todo bien."
+|-
+! colspan="2" |Chaos About Nyx 01 B
+|-
+|'''Chaos'''
+|"Sabía que vendrías, pero solo unos instantes antes de que lo hicieras, así que estoy experimentando vestigios de lo que podría llamarse sorpresa. Te mueves por el Inframundo como si te cubriese un manto de oscuridad. ¿Influencia de la diosa Nicte, quizá? Responde."
+|-
+|'''Zagreus'''
+|"Yo... no sé cómo responder a eso exactamente, Caos. Pero sí, Nicte me ha estado ayudando en mis intentos de huir del reino de mi padre."
+|-
+|'''Chaos'''
+|"Te mueves entre tinieblas, no tan infinitamente oscuras como las suyas, pero sí similares. La invitaría a intentar ocultarse de mí y luego la buscaría. Un entretenimiento sencillo para los dos. Ahora puedo probarlo contigo."
+|-
+! colspan="2" |Chaos Post Ending 01
+|-
+|'''Chaos'''
+|"Últimamente, hijo de Hades, he sentido lo que llamaría una alteración en la morada de tu padre. ¿Ha ocurrido algo reseñable, quizá? Responde."
+|-
+|'''Zagreus'''
+|"Caos, se trata de Perséfone, mi madre. ¡Ha vuelto! Ha decidido volver. Así que las cosas... están distintas, desde luego, con ella por ahí. Aunque yo no he notado ninguna alteración."
+|-
+|'''Chaos'''
+|"Puede que no puedas notar esas cosas como yo. La ligereza de este espacio se doblega y ajusta con el tiempo. Eso que describes... debo haber sentido eso. Espero que sea motivo de dicha. Y me agrada que hayas vuelto, en cualquier caso."
+|-
+! colspan="2" |Chaos About Olympian Reunion Quest 01
+|-
+|'''Chaos'''
+|"De nuevo he sentido una especie de alteración en la morada de tu padre. Vas a preguntarme algo al respecto, ¿no es verdad? Responde."
+|-
+|'''Zagreus'''
+|"Me alegra que me lo comentes... mi madre... intenta ponerse en contacto con los dioses del Olimpo. Intenta reunir a la familia. Hace mucho tiempo, relativamente hablando, que padre y los demás no se ven, pero... si se reencuentran, quiero que sepas que también estás cordialmente invitado."
+|-
+|'''Chaos'''
+|"¿"Cordialmente invitado"? Una generosa propuesta, hijo de Hades, pero a menos que vuestra reunión tenga lugar en mi espacio, entiende que sería difícil para mí llevar mi presencia a ese lugar. Sin embargo... creo que puedo hacer algo para estar presente de algún modo. Gracias."
+|-
+! colspan="2" |Chaos Post Epilogue 01
+|-
+|'''Chaos'''
+|"Me agrada que celebraseis el encuentro de los dioses del Olimpo. Debo informarte de que nunca había detectado tantos de mis vástagos en un mismo sitio, al menos sin intenciones violentas. Aprecio que me incluyeses y que hayas vuelto. ¿Continuamos, pues?"
+|-
+! colspan="2" |Chaos Post Epilogue 01 B
+|-
+|'''Chaos'''
+|"Me agrada que celebraseis el encuentro de los dioses del Olimpo. Debo informarte de que nunca había detectado tantos de mis vástagos en un mismo sitio, al menos sin intenciones violentas."
+|-
+! colspan="2" |Chaos About Zeus 01
+|-
+|'''Chaos'''
+|"Portas la bendición del gran Zeus. Aún cree que domina tanto el cielo como la tierra. Creo que tal vez se ha olvidado de mí."
+|-
+! colspan="2" |Chaos About Poseidon 01
+|-
+|'''Chaos'''
+|"Parece que Poseidón te bendijo. Puede resultar bastante presuntuoso y beligerante. Tiene los mismos modos desagradables que tu padre y Zeus."
+|-
+! colspan="2" |Chaos About Athena 01
+|-
+|'''Chaos'''
+|"Oh, hijo de Hades, veo que la sabia diosa Atenea te ha imbuido con sus dones. Quizás para ella solo eres una herramienta con la que arreglar a su familia disfuncional."
+|-
+! colspan="2" |Chaos About Ares 01
+|-
+|'''Chaos'''
+|"Era de esperar que te aliaras con el violento Ares, de ahí que goces de su bendición. ¿Sabes? Él aún me venera, aunque diría que no me conoce muy bien."
+|-
+! colspan="2" |Chaos About Aphrodite 01
+|-
+|'''Chaos'''
+|"Sin lugar a dudas, veo en ti los dones de la diosa Afrodita; aunque siento curiosidad por saber si su dominio del amor tiene efecto alguno bajo tierra."
+|-
+! colspan="2" |Chaos About Artemis 01
+|-
+|'''Chaos'''
+|"Tengo entendido que Artemisa, la diosa cazadora, se ha fijado en ti hace poco. Resulta sorprendente que ofrezca su ayuda, por mucho que seas un pariente en apuros."
+|-
+! colspan="2" |Chaos About Dionysus 01
+|-
+|'''Chaos'''
+|"Veo que el borracho de Dioniso te ha ofrecido sus servicios. Puede resultar bastante impredecible y, por ello, me resulta de lo más entretenido."
+|-
+! colspan="2" |Chaos About Hermes 01
+|-
+|'''Chaos'''
+|"Veo que el veloz Hermes te espolea, hijo de Hades. Cuidado con la delgada línea que separa la rapidez de la precipitación, una distinción que no tengo claro que conozca el dios de los viajes."
+|-
+! colspan="2" |Chaos About Demeter 01
+|-
+|'''Chaos'''
+|"La amarga Deméter ha hablado contigo, ¿no es así? Solía tener una personalidad cálida, ¿sabes? Pero últimamente me llegan rumores de que prefiere la frialdad."
+|-
+! colspan="2" |Chaos About Olympians 01
+|-
+|'''Chaos'''
+|"Ya has conocido a muchos de los dioses del Olimpo y todos ellos te incitan a llegar a su cima. A pesar del valor que dan a los vínculos familiares, ninguno recuerda quién soy. Hijo de Hades, no tengas demasiada fe en ellos."
+|-
+! colspan="2" |Chaos About Olympians 02
+|-
+|'''Chaos'''
+|"Te pido que me escuches y no hables, hijo de Hades. Pero ¿las deidades del Olimpo? Ni te preguntan nada. Tan solo mandan sus mensajes, sin que lo solicites, dándote a elegir bendiciones sin que tengas voz ni voto. Quiero entender su punto de vista, pero me resulta difícil."
+|-
+! colspan="2" |Chaos About Olympians 03
+|-
+|'''Chaos'''
+|"Cuando haces una ofrenda a las deidades olímpicas, por un fugaz momento parece que sean capaces de escuchar tus oraciones. O eso he observado. Qué interesante que tus pensamientos puedan escapar de tu prisión, pero tú no."
+|-
+! colspan="2" |Chaos About Hades 01
+|-
+|'''Chaos'''
+|"Cuando tu padre y sus hermanos desterraron a los titanes a los rincones más oscuros del mundo, esa fue también la última vez que me vieron. No te pareces en nada a ellos y me siento cómodo haciéndotelo saber."
+|-
+! colspan="2" |Chaos About Nyx 01 C
+|-
+|'''Chaos'''
+|"A menudo fui poco amable con la diosa Nicte cuando nuestro trato era más cercano, hace mucho. Después de que diera a luz a sus primeros hijos, pensaba de todos modos que me dedicaría toda su atención. Seguí creando, y cuando al fin tomé una pausa, me percaté de mi error. Para entonces, nuestra conexión había sido interrumpida."
+|-
+! colspan="2" |Chaos About Nyx 02
+|-
+|'''Chaos'''
+|"Tengo la sensación de que hay algo que te inquieta, hijo de Hades. Habla, pues. ¿Qué te preocupa? Puedo deducirlo en parte sin que hables, pero preferiría que me lo contaras de forma voluntaria."
+|-
+|'''Zagreus'''
+|"''Um'', ¿Caos? Parece que la diosa Nicte… desea volver a hablar contigo. Me pregunto si tal vez podrías contactar con ella en algún momento. Parece convencida de que te corresponde a ti dar ese paso."
+|-
+|'''Chaos'''
+|"¿La diosa Nicte quiere saber de mí? Resulta de lo más sorprendente, hijo de Hades, y me pregunto si no es alguna burla tuya. Pero veo que tus intenciones son claramente sinceras. No puedo prometerte nada, salvo que… lo pensaré."
+|-
+! colspan="2" |Chaos About Nyx 03
+|-
+|'''Chaos'''
+|"Hijo de Hades, si alguna vez llegas a tener hijos propios... te recomiendo mantener entre ellos y tú distancias que no sean infinitas en el espacio y el tiempo. Por mucho que puedan llegar a hartarte, siempre llega un momento en el que desearías tenerlos a tu lado de nuevo."
+|-
+! colspan="2" |Chaos About Nyx 04
+|-
+|'''Chaos'''
+|"Tras mucha reflexión, y como me recomendaste, he intentado últimamente recuperar el contacto con la diosa Nicte. Por supuesto, ahora está muy lejos de mí. ¿Sabes por casualidad si recibió el mensaje con agrado? Responde."
+|-
+|'''Zagreus'''
+|"Bueno, Caos, sabes que a veces es difícil adivinar lo que piensa, pero... me dio la impresión de que estaba bastante sorprendida, incluso emocionada, al oír de ti otra vez. Dijo que pensaría cómo responderte... o si hacerlo en absoluto."
+|-
+|'''Chaos'''
+|"Ya veo. Bueno, encontrará el modo, si lo considera necesario. Siempre esperé grandes cosas de ella. Hubo momentos en que deseé que brillase como el día, por mucho que fuera la noche en persona. Cuando alcanzó cierta destreza... se marchó. Y no pude encontrarla."
+|-
+! colspan="2" |Chaos Post Reunion Quest 01
+|-
+|'''Chaos'''
+|"Mi hija, la diosa Nicte. Cuando me enteré de que los olímpicos habían asumido, por error, que era tu madre, no tuve en cuenta la posibilidad de que a todos los efectos lo era... si omitimos el pequeño detalle del parto. Se preocupa tanto por ti como si fuera tu madre biológica."
+|-
+! colspan="2" |Chaos Post Reunion Quest 02
+|-
+|'''Chaos'''
+|"Antes de tu intervención, hijo de Hades, esperaba que la diosa Nicte me hubiera olvidado... ya fuera a propósito o por el paso del tiempo. Creía que lo único inevitable era ser olvidado. Y parece, quizá, que me equivocaba."
+|-
+! colspan="2" |Chaos Post Reunion Quest 03
+|-
+|'''Chaos'''
+|"Creo que me resulta difícil mantener la conexión con tantas conciencias, como la tuya y la de la diosa Nicte, pero también he descubierto que tales penurias merecen la pena. Así tengo siempre mucho en lo que pensar hasta nuestra siguiente conversación."
+|-
+! colspan="2" |Chaos Status Improved 01
+|-
+|'''Chaos'''
+|"Ah, aquí tenemos a mi inmortal favorito entre los que moran bajo tierra. ¿En qué puedo cambiar hoy tu vida, oh, hijo de Hades?"
+|-
+! colspan="2" |Chaos Status Improved 02
+|-
+|'''Chaos'''
+|"Que disfrutes de un momento de paz en mis dominios, antes de aventurarte hacia lo incierto. Me sorprende, pero debo admitir que agradezco la compañía."
+|-
+! colspan="2" |Chaos Post Flashback 01
+|-
+|'''Chaos'''
+|"¿Confías ya en los dioses del Olimpo por su generosidad? Quizás deberías informarles del verdadero propósito de tu viaje. Son engreídos y creen que los buscas."
+|-
+|'''Zagreus'''
+|"Nunca saldré de aquí si no es con su ayuda, pero no puedo decirles nada de madre. Quiere permanecer oculta de ellos."
+|-
+|'''Chaos'''
+|"Te encuentras en una posición complicada, hijo de Hades. A las divinidades del Olimpo no les gusta que las engañen. Pero puedes confiar en que te guardaré el secreto. Deseo ver cómo se resuelve tu dilema."
+|-
+! colspan="2" |Chaos Darkness Progress 01
+|-
+|'''Chaos'''
+|"Tanta oscuridad emana de ti, hijo de Hades, que de nuevo no pude anticipar cuándo llegarías. Sospecho que incluso tu padre tendrá dificultad para seguirte la pista en el dominio que llama suyo."
+|-
+! colspan="2" |Chaos Darkness Progress 02
+|-
+|'''Chaos'''
+|"Te mueves en la oscuridad casi sin ser visto, hijo de Hades. A menudo, incluso a mí me cuesta sentir tu presencia. Los olímpicos tienen visiones tuyas de cuando en cuando, pero siempre llevas un velo en torno a ti. Pues tal es el poder de Nicte."
+|-
+! colspan="2" |Chaos About Fates 01
+|-
+|'''Chaos'''
+|"Qué extraño es estar sometido a las Moiras. Pero no caigas en la falacia cognitiva de que ya han tomado todas tus decisiones por ti, hijo de Hades. Más bien, les gusta calcular todas las decisiones que podemos tomar. Como la siguiente."
+|-
+! colspan="2" |Chaos About Infinity 01
+|-
+|'''Chaos'''
+|"Siento tu consternación, hijo de Hades, mientras contemplas este espacio; tienes otra pregunta, y eres libre de hacerla."
+|-
+|'''Zagreus'''
+|"Es solo que... A veces me pregunto, Caos... Si creaste todo esto, entonces, ¿quién te creó a ''ti''? ¿Qué era esto antes de que tú llegases?"
+|-
+|'''Chaos'''
+|"Todo simplemente empezó a existir, y yo también, presumiblemente después de que otro ciclo hubiera tocado a su fin. Dudo en afirmar que fuera un acto de voluntad. Fue simplemente un cambio repentino, como cuando una chispa da lugar a un incendio. Llegué en un momento así, y todo lo demás llegó conmigo."
+|-
+! colspan="2" |Chaos About Death 01
+|-
+|'''Chaos'''
+|"Cuando pereces y de repente vuelves a la vida en la residencia de tu padre, quizá sea similar a cuando yo cobré conciencia por primera vez hace tanto tiempo. Quizá yo hubiera perecido para volver a despertar."
+|-
+! colspan="2" |Chaos About Discovery 01
+|-
+|'''Chaos'''
+|"Puede que te hayas preguntado, hijo de Hades, como llegaste a encontrarme en este espacio, cuando he permanecido invisible durante tanto tiempo. Yo también me lo pregunto, y creo que la respuesta más probable es nuestra conexión con la diosa Nicte."
+|-
+! colspan="2" |Chaos About Persephone 01
+|-
+|'''Chaos'''
+|"Hijo de Hades, creo que he deducido algo que debería haber reconocido antes. Tu madre debe de haber sido aquella que se hacía llamar Perséfone. Su estancia en el Inframundo fue breve, desde mi punto de vista, pero dejó una honda huella. ¿La buscas? Responde."
+|-
+|'''Zagreus'''
+|"Así es. Está en algún lugar de la superficie. Por eso sigo encontrándote así: a quien busco es a ella."
+|-
+|'''Chaos'''
+|"Espero que tengas éxito en tu empeño. Está más allá de lo que mis sentidos pueden detectar, aunque sigo pudiendo ayudarte en tu viaje así."
+|-
+! colspan="2" |Chaos About Persephone 01 B
+|-
+|'''Zagreus'''
+|"Caos... debes saber que la he encontrado. Aunque allí donde está no puedo quedarme mucho tiempo, así que voy a visitarla con tanta frecuencia como puedo. No es muy diferente a mis visitas aquí. Solo que es aún más difícil llegar a donde está ella."
+|-
+|'''Chaos'''
+|"Ya veo. Entonces es bueno saber que habéis establecido contacto. Confío en que tus sucesivas visitas merezcan vuestro tiempo, igual que las tuyas aquí."
+|-
+! colspan="2" |Chaos About Persephone 02
+|-
+|'''Chaos'''
+|"Hijo de Hades, si encuentras a la que se hace llamar Perséfone, ¿dejaremos de vernos como en este momento? Responde."
+|-
+|'''Zagreus'''
+|"Eh, Caos... no sé qué ocurrirá cuando lo consiga. Pero seré franco contigo: si pudiera dejar atrás el Inframundo para siempre, creo que lo haría. Aunque te echaría de menos, como a tantos otros."
+|-
+|'''Chaos'''
+|"Yo también te echaría de menos. Gracias por decírmelo."
+|-
+! colspan="2" |Chaos Post Ending 02
+|-
+|'''Chaos'''
+|"Dime algo, hijo de Hades. Si la que se hace llamar Perséfone ha regresado... ¿por qué sigues volviendo? Responde."
+|-
+|'''Zagreus'''
+|"Caos, parece que he desarrollado un talento para escaparme de aquí. O de allí, quiero decir, del Inframundo... así que ahora es algo así como mi trabajo oficial. Si es posible huir, alguien tiene que encontrar los puntos débiles para remediarlos."
+|-
+|'''Chaos'''
+|"Desde luego. Entonces seguirás visitándome, a pesar de haber alcanzado el propósito principal de tu viaje. Bien."
+|-
+! colspan="2" |Chaos About Fishing 01
+|-
+|'''Chaos'''
+|"Me impresiona que pudieras hacerte con semejante espécimen en las corrientes de mi dominio, con nada más que una sencilla herramienta. Espero con ansia el resultado de tus próximos intentos."
+|-
+! colspan="2" |Chaos About Keepsake 01
+|-
+|'''Chaos'''
+|"Espero que el pequeño catalizador redondo que te di te haya sido útil, hijo de Hades. Tengo la esperanza de que te facilitará las visitas a este espacio y quizá ayude a que se produzcan más a menudo."
+|-
+! colspan="2" |Chaos About Black Shawl 01
+|-
+|'''Chaos'''
+|"Has llegado envuelto en cierto manto de oscuridad, hijo de Hades. El antiguo chal de la diosa Nicte. Hacía un tiempo considerable que no notaba su vacío."
+|-
+! colspan="2" |Chaos About Styx 01
+|-
+|'''Chaos'''
+|"Has viajado hace poco más allá de donde mis sentidos llegan, hijo de Hades. Yo solo puedo existir en las profundidades más insondables. Sé lo que hay fuera, pues yo lo creé, pero no sé cómo será ahora. No me lo digas, prefiero imaginar todas las posibilidades."
+|-
+! colspan="2" |Chaos Surface Quest 01
+|-
+|'''Chaos'''
+|"Por el retumbar de la tierra, deduzco que tu padre mismo se interpone ante ti cuando estás a punto de abandonar este abismo. Debe de ser todo un espectáculo. ¿He deducido correctamente? Responde."
+|-
+|'''Zagreus'''
+|"Así es, Caos. Mi padre se ha tomado como misión personal detenerme en caso de que ninguno de sus subordinados logre hacerlo antes. Puede ser todo un incordio."
+|-
+|'''Chaos'''
+|"Bien, pues plantéate llevarte a uno de esos encuentros futuros el pequeño catalizador redondo con el que te obsequié, el que tiene la forma de lo que llamas ¿huevo? Allí no te ayudará en absoluto, pero si tienes éxito, nos vamos a divertir mucho los dos, ¿no te parece?"
+|-
+! colspan="2" |Chaos Low Health 01
+|-
+|'''Chaos'''
+|"Me parece que tu muerte está muy próxima, oh, hijo de Hades. Aun así, te dignas en visitarme en mis dominios. Si lo deseas, puedo acelerar tu defunción…"
+|-
+! colspan="2" |Chaos Low Health 02
+|-
+|'''Chaos'''
+|"Casi no he notado tu presencia, oh, hijo de Hades; ya que estás más muerto que vivo. Aunque tal vez podamos retrasar un tiempo lo inevitable."
+|-
+! colspan="2" |Chaos Low Health 03
+|-
+|'''Chaos'''
+|"Tus muertes son solo un retraso temporal, hijo de Hades, aunque me da la impresión de que estás a punto de sufrir uno ahora mismo."
+|-
+! colspan="2" |Chaos Low Health 04
+|-
+|'''Chaos'''
+|"Tu siguiente encuentro con la muerte parece inminente, aunque vamos a ver si puedo acelerarlo o retrasarlo."
+|-
+! colspan="2" |Chaos Low Health 05
+|-
+|'''Chaos'''
+|"Puede parecer cruel que te desee la muerte, hijo de Hades, pero desde mi perspectiva, así es más probable que vuelvas a mí."
+|-
+! colspan="2" |Chaos Low Health 06
+|-
+|'''Chaos'''
+|"Aunque es posible que sucumbas pronto a tus heridas, aprovecha al máximo lo que te queda de vida, en lugar de prepararte para la siguiente. El futuro es incierto para todos, salvo para las erinias."
+|-
+! colspan="2" |Chaos About Shield Weapon 01
+|-
+|'''Chaos'''
+|"Acudes a mi dominio portando un artefacto que todo lo ve, surgido de mí en el alba de los tiempos. Se considera un instrumento defensivo, o eso creo, aunque sospecho que has descubierto, o descubrirás, que no lo es en absoluto."
+|-
+! colspan="2" |Chaos About Weapon Enchantments 01
+|-
+|'''Chaos'''
+|"Esperaba tu llegada, hijo de Hades. Puedo ver con tus ojos, o más bien con el artefacto que todo lo ve, surgido de mí en el alba de los tiempos y que ahora asume en tus manos su forma más conocida. Responde."
+|-
+|'''Zagreus'''
+|"¿Te refieres al escudo del Caos? ''Tu ''escudo, Caos, hablando con propiedad. Una reliquia excepcional. ¡E imponente! Seguro que tus creaciones originales eran asombrosas."
+|-
+|'''Chaos'''
+|"Tu respuesta es aceptable, y me complace haber tenido mis primeras visiones de primera mano de este vasto dominio."
+|-
+! colspan="2" |Chaos About Zeus Aspect 01
+|-
+|'''Chaos'''
+|"Ah, tienes mi artefacto que todo lo ve, pero en la vieja forma que el gran Zeus usó antaño, cuando tomó violentas represalias contra sus padres. He observado sus movimientos a través de él durante bastante tiempo."
+|-
+! colspan="2" |Chaos Reveals Beowulf Aspect 01
+|-
+|'''Chaos'''
+|"Te traigo un mensaje, hijo de Hades. Uno registrado en una era en la que algunos de los conceptos que describe aún no existían. Recuerda esto: ''Te veo plantar cara ante las llamas de la sierpe''. Una frase ante la cual tanto tú como aquel artefacto que todo lo ve creado por mí despertaréis."
+|-
+|'''Zagreus'''
+|"Una frase para despertar... y un artefacto que todo lo ve. Te refieres a Égida, ¿verdad? Así que si le digo ''Te veo plantar cara ante las llamas de la sierpe'', despertará de inmediato. Pero ¿puedes decirme qué significa, o no?"
+|-
+|'''Chaos'''
+|"Puedo decirte casi cualquier cosa, pero prefiero que la mayoría de las respuestas las busques por ti mismo."
+|-
+! colspan="2" |Chaos First Pick Up
+|-
+|'''Zagreus'''
+|"No es de alguien que reconozca, así que... ¡En el nombre de Hades! ''Uhm'', ¿hola? ¿Puedo saber quién llama?"
+|-
+|'''Chaos'''
+|"Los dioses del Olimpo se han ablandado… ¿No lo crees?"
+|-
+|'''Zagreus'''
+|"''Emm''… ¿Nos conocemos?"
+|-
+|'''Chaos'''
+|"Oh, sí que nos conocemos... por así decirlo. Conozco a todo el mundo, aquí y allá. ¿Deseas salir de este lugar? Entonces quiero que el reto te resulte un poco más interesante… Y si algún día conoces a los dioses del Olimpo, dales recuerdos de mi parte."
+|-
+! colspan="2" |Chaos Misc Pickup 01
+|-
+|'''Chaos'''
+|"He notado cierto estruendo en las entrañas de la tierra. Como si esta hubiera ingerido algo que no le hubiera sentado bien… ¿Tal vez la misma tierra desea vomitarte?"
+|-
+! colspan="2" |Chaos Misc Pickup 02
+|-
+|'''Chaos'''
+|"Las divinidades del Olimpo compiten por tu favor, ¿cierto? Tan a menudo que olvidan sus modales. Te colman de bendiciones. Yo en cambio… Simplemente, te ofrezco una elección."
+|-
+! colspan="2" |Chaos Misc Pickup 03
+|-
+|'''Chaos'''
+|"Solo tú puedes dar forma a tu destino según veas conveniente, sin que importen los designios de las moiras. Si lo deseas, juntos podemos alterar un poco ese destino."
+|-
+! colspan="2" |Chaos Misc Pickup 04
+|-
+|'''Chaos'''
+|"Hijo de Hades, esperaba tu visita y a la vez me sorprende verte. ¿A dónde conducirá tu camino a partir de este momento?"
+|-
+! colspan="2" |Chaos Misc Pickup 05
+|-
+|'''Chaos'''
+|"Por favor, dime cómo mi poder sobre toda la existencia puede serte de ayuda esta vez, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup 06
+|-
+|'''Chaos'''
+|"Hijo de Hades, los temblores subterráneos habían predicho tu llegada en este mismo instante, así que la esperaba."
+|-
+! colspan="2" |Chaos Misc Pickup 07
+|-
+|'''Chaos'''
+|"Eliges visitarme nuevamente en los rincones más oscuros de la tierra. Yo, por mi parte, elijo ofrecerte los medios para alterar tu realidad."
+|-
+! colspan="2" |Chaos Misc Pickup 08
+|-
+|'''Chaos'''
+|"Hijo de Hades, cuando ideé el mundo y a los inmortales, jamás pensé que te presentarías ante mí."
+|-
+! colspan="2" |Chaos Misc Pickup 09
+|-
+|'''Chaos'''
+|"Por fin has llegado, justo ahora que me preguntaba cómo podríamos alterar el curso de nuestras respectivas existencias."
+|-
+! colspan="2" |Chaos Misc Pickup 10
+|-
+|'''Chaos'''
+|"Hijo de Hades, deja que te dé la bienvenida de nuevo a mis dominios en el Inframundo. Te invito a elegir un modo de alterar el tejido de la realidad."
+|-
+! colspan="2" |Chaos Misc Pickup 11
+|-
+|'''Chaos'''
+|"Me complace que vuelvas; ya que, a través de ti, puedo trastear los bordes de la realidad que aún no están completamente formados."
+|-
+! colspan="2" |Chaos Misc Pickup 12
+|-
+|'''Chaos'''
+|"Tu presencia no deja de intrigarme, hijo de Hades; pues no eres como el resto de dioses del Olimpo en las alturas, que me han olvidado o al menos lo fingen."
+|-
+! colspan="2" |Chaos Misc Pickup 13
+|-
+|'''Chaos'''
+|"Desde mi punto de vista, te he invocado, pero tú crees que has venido por voluntad propia. Ambas afirmaciones pueden ser ciertas, ¿no crees?"
+|-
+! colspan="2" |Chaos Misc Pickup 14
+|-
+|'''Chaos'''
+|"Acércate, oh, hijo de Hades, y juntos sembraremos el caos en las profundidades de lo que tu padre considera sus propios dominios."
+|-
+! colspan="2" |Chaos Misc Pickup 15
+|-
+|'''Chaos'''
+|"¿Qué tal se te da ser parte del interminable ciclo de renacimiento y muerte, oh, hijo de Hades? Espero que te resulte lo bastante entretenido."
+|-
+! colspan="2" |Chaos Misc Pickup 16
+|-
+|'''Chaos'''
+|"Hijo de Hades, de entre las infinitas posibilidades que se presentan ante nosotros, he vuelto a seleccionar arbitrariamente tres para que elijas."
+|-
+! colspan="2" |Chaos Misc Pickup 17
+|-
+|'''Chaos'''
+|"Las moiras te tienen preparadas muchas cosas, oh, hijo de Hades. No obstante, tal vez podamos alterar hasta cierto punto sus designios."
+|-
+! colspan="2" |Chaos Misc Pickup 18
+|-
+|'''Chaos'''
+|"Conspiremos juntos para aumentar y frustrar la sensación de tu padre de lo que es o no posible en el Inframundo."
+|-
+! colspan="2" |Chaos Misc Pickup 19
+|-
+|'''Chaos'''
+|"Elegir entre infinitas posibilidades puede ser tedioso. Deja, pues, que te ofrezca una variedad más reducida de medios para cambiar los designios de las moiras."
+|-
+! colspan="2" |Chaos Misc Pickup 20
+|-
+|'''Chaos'''
+|"Me he preguntado a lo largo del tiempo si es necesario ser justo. Los inmortales son mi prole, y ciertamente debería tratarlos de manera equitativa. No obstante, hay poca diversión en tal comportamiento."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 01
+|-
+|'''Chaos'''
+|"Entre infinitas posibilidades, piensa tan solo en estas."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 02
+|-
+|'''Chaos'''
+|"Elige con cuidado, en general y ahora específicamente."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 03
+|-
+|'''Chaos'''
+|"Somos la suma de todas las decisiones que tomamos y las que toman por nosotros."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 04
+|-
+|'''Chaos'''
+|"Este espacio se vuelve mucho más interesante cuando ocupas un poco de él."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 05
+|-
+|'''Chaos'''
+|"El modo en que tomas decisiones me produce un interés ilimitado."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 06
+|-
+|'''Chaos'''
+|"La carga del paso del tiempo te obligará a tomar una decisión."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 07
+|-
+|'''Chaos'''
+|"¿No te complace determinar un posible resultado, hijo de Hades?"
+|-
+! colspan="2" |Chaos Misc Pickup Extra 08
+|-
+|'''Chaos'''
+|"Que mi marca te acompañe, hijo de Hades. Solo tienes que elegir su forma."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 09
+|-
+|'''Chaos'''
+|"Aunque las aguas del Estigia borren mi marca, puedo restaurarla."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 10
+|-
+|'''Chaos'''
+|"Me agrada mucho el ritmo de tus visitas en el océano del tiempo, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 11
+|-
+|'''Chaos'''
+|"Ya has vuelto. Siempre eres bienvenido, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 12
+|-
+|'''Chaos'''
+|"Visítame con toda la frecuencia que quieras, o con la que te atrevas."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 13
+|-
+|'''Chaos'''
+|"Empiezo a esperar con regocijo nuestros encuentros, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 14
+|-
+|'''Chaos'''
+|"No requiero intercambios de palabras, solo una decisión."
+|-
+! colspan="2" |Chaos Misc Pickup 21
+|-
+|'''Chaos'''
+|"Vuelves una vez más a mis dominios."
+|-
+! colspan="2" |Chaos Misc Pickup 22
+|-
+|'''Chaos'''
+|"Tengo una proposición, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup 23
+|-
+|'''Chaos'''
+|"Te doy la bienvenida a mis dominios."
+|-
+! colspan="2" |Chaos Misc Pickup 24
+|-
+|'''Chaos'''
+|"¿Qué tal le va al solitario hijo de Hades?"
+|-
+! colspan="2" |Chaos Misc Pickup 25
+|-
+|'''Chaos'''
+|"¿Qué vamos a hacer el uno por el otro, hijo de Hades?"
+|-
+! colspan="2" |Chaos Misc Pickup 26
+|-
+|'''Chaos'''
+|"Te hallas en mi presencia, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup 27
+|-
+|'''Chaos'''
+|"¿Qué te trae ante mí en esta ocasión?"
+|-
+! colspan="2" |Chaos Misc Pickup 28
+|-
+|'''Chaos'''
+|"Tus visitas me resultan gratas."
+|-
+! colspan="2" |Chaos Misc Pickup 29
+|-
+|'''Chaos'''
+|"¿Cómo pueden alterarte las fuerzas del Caos?"
+|-
+! colspan="2" |Chaos Misc Pickup 30
+|-
+|'''Chaos'''
+|"Nuevamente, te encuentras ante mí."
+|-
+! colspan="2" |Chaos Misc Pickup 31
+|-
+|'''Chaos'''
+|"Veo que estás aquí, así que yo también."
+|-
+! colspan="2" |Chaos Misc Pickup 32
+|-
+|'''Chaos'''
+|"Te hallas ante mí, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup 33
+|-
+|'''Chaos'''
+|"¿Cómo vamos a alterar las intenciones de las moiras?"
+|-
+|'''Chaos'''
+|"¿Cómo puedo alterar el tejido de la misma existencia por ti, hijo de Hades?"
+|-
+! colspan="2" |Chaos Misc Pickup 34
+|-
+|'''Chaos'''
+|"Tus visitas no tienen que tener un motivo."
+|-
+! colspan="2" |Chaos Misc Pickup 35
+|-
+|'''Chaos'''
+|"¿Cómo puedo dar forma a la realidad por ti?"
+|-
+! colspan="2" |Chaos Misc Pickup 36
+|-
+|'''Chaos'''
+|"Siempre eres bienvenido en mis dominios."
+|-
+! colspan="2" |Chaos Misc Pickup 37
+|-
+|'''Chaos'''
+|"¿Qué te atribula en esta ocasión?"
+|-
+! colspan="2" |Chaos Misc Pickup 38
+|-
+|'''Chaos'''
+|"Tengamos en cuenta ciertas posibilidades."
+|-
+! colspan="2" |Chaos Misc Pickup 39
+|-
+|'''Chaos'''
+|"Entre una infinidad de resultados, te propongo estos tres."
+|-
+! colspan="2" |Chaos Misc Pickup 40
+|-
+|'''Chaos'''
+|"Elige cómo eludir los designios de las moiras."
+|-
+! colspan="2" |Chaos Misc Pickup 41
+|-
+|'''Chaos'''
+|"Saludos, hijo de Hades."
+|-
+! colspan="2" |Chaos Misc Pickup 42
+|-
+|'''Chaos'''
+|"Me congratula volver a verte de nuevo."
+|-
+! colspan="2" |Chaos Misc Pickup 43
+|-
+|'''Chaos'''
+|"Nuevamente, desciendes a mis dominios."
+|-
+! colspan="2" |Chaos Misc Pickup 45
+|-
+|'''Chaos'''
+|"Has vuelto a mí."
+|-
+! colspan="2" |Chaos Misc Pickup 46
+|-
+|'''Chaos'''
+|"Eres bienvenido en todo momento."
+|-
+! colspan="2" |Chaos With Nyx 01
+|-
+|'''Chaos'''
+|"Aprecio tu presencia, hijo de Hades, pero déjanos por el momento."
+|-
+! colspan="2" |Chaos With Nyx 02
+|-
+|'''Chaos'''
+|"Perdónanos, hijo de Hades, pues estamos intercambiando recuerdos."
+|-
+! colspan="2" |Chaos With Nyx 03
+|-
+|'''Chaos'''
+|"Hijo de Hades, me complace que la diosa Nicte haya vuelto conmigo."
+|-
+! colspan="2" |Chaos With Nyx 04
+|-
+|'''Chaos'''
+|"Perdóname, hijo de Hades, pero debo continuar mi charla con la diosa Nicte."
+|-
+! colspan="2" |Chaos With Nyx 05
+|-
+|'''Chaos'''
+|"Llevaba mucho tiempo sin ver a la diosa Nicte."
+|-
+! colspan="2" |Chaos With Nyx 06
+|-
+|'''Chaos'''
+|"No estoy acostumbrado a tener tanta compañía como la que he tenido últimamente."
+|-
+! colspan="2" |Chaos With Nyx 07
+|-
+|'''Chaos'''
+|"Mi hija estaba justo ahora contándome los últimos acontecimientos sucedidos en vuestra morada."
+|-
+! colspan="2" |Chaos With Nyx 08
+|-
+|'''Chaos'''
+|"Como podrás ver, la diosa Nicte y yo estamos en mitad de una conversación."
+|-
+! colspan="2" |Chaos Loot Bought 01
+|-
+|'''Chaos'''
+|"Quizás pensaste que no te buscaría entre las bagatelas del barquero Caronte; de ahí que haya hecho eso precisamente."
+|-
+! colspan="2" |Chaos Loot Bought 02
+|-
+|'''Chaos'''
+|"El barquero Caronte comprende mis caprichos y comprar su lealtad es fácil para quien considera la riqueza insignificante. Así pues, aquí me hallo."
+|-
+! colspan="2" |Chaos Gift 01
+|-
+|'''Zagreus'''
+|"¿Caos? Todo el mundo hace ofrendas a mis parientes en el Olimpo. Yo deseo hacerte una a ti. Gracias por… todo."
+|-
+|'''Chaos'''
+|"Qué divertido que intentes tentarme con cosas materiales. Toma entonces. Permite a cambio este intento de corresponderte."
+|-
+! colspan="2" |Chaos Gift 02
+|-
+|'''Zagreus'''
+|"Caos, esto es para ti. Todo el mundo en el cielo y la tierra disfruta de esto."
+|-
+|'''Chaos'''
+|"Me honras con una ofrenda así. Aunque no es necesario que trates de ganarte mi favor con medios materiales, la intención es lo que cuenta."
+|-
+! colspan="2" |Chaos Gift 03
+|-
+|'''Zagreus'''
+|"Caos, progenitor de los dioses, es un honor haberte conocido. Acepta este regalo."
+|-
+|'''Chaos'''
+|"Rara vez piensan los mortales o los inmortales en hacerme ofrendas. Ya que no espero dichos gestos, me resultan muy amenos y los acepto."
+|-
+! colspan="2" |Chaos Gift 04
+|-
+|'''Zagreus'''
+|"Caos, prometo no olvidar jamás tus favores ni a ti. Que tu sabiduría o tus caprichos me guíen por siempre."
+|-
+|'''Chaos'''
+|"¿Esta ofrenda es por fidelidad o amistad, hijo de Hades? No deseo conocer la respuesta, para así meditar sobre ella y todas sus posibilidades."
+|-
+! colspan="2" |Chaos Gift 05
+|-
+|'''Zagreus'''
+|"Siempre estaré agradecido de que mis viajes por el Inframundo hayan permitido que nos conozcamos, Caos."
+|-
+|'''Chaos'''
+|"Tu reiterada generosidad hacia mí empieza a resultar predecible. Aun así… de algún modo sigo agradeciéndola igualmente. Qué curioso."
+|-
+! colspan="2" |Chaos Gift 06
+|-
+|'''Zagreus'''
+|"Caos, no es de extrañar que toda la existencia surgiera de ti, pues en tu ser, veo personificadas las nobles cualidades que he percibido en tantos otros. Acepta este regalo."
+|-
+|'''Chaos'''
+|"Por si no había quedado claro, hijo de Hades, no te concederé más dones por muchas ofrendas que me hagas. Si me las das, sabes que es sin propósito alguno y que no conseguirás nada a cambio. Sé que hay mortales y deidades para las que esto es del todo inaceptable."
+|-
+! colspan="2" |Chaos Gift 07
+|-
+|'''Zagreus'''
+|"Esta es la mayor delicia del Olimpo, Caos. Es para ti. Creo que sería difícil normalmente que las deidades olímpicas te la hagan llegar aquí."
+|-
+|'''Chaos'''
+|"La ofrenda es aún mayor cuando me la haces a mí, sabiendo que no recibirás nada a cambio. ¿Eres consciente de que no se me puede convencer de nada? Estás malgastando recursos y tiempo, aunque evidentemente disponemos de ambos recursos en abundancia. Responde, pues."
+|-
+|'''Zagreus'''
+|"Tan solo creo que el acto de ofrendar algo no es lo mismo que hacer un trueque. Sé que no conseguiré ningún talismán ni nada a cambio, pero, con estas ofrendas, pretendo expresar mi agradecimiento, y eso tiene valor por sí mismo."
+|-
+|'''Chaos'''
+|"...Ya veo. Por tanto, es una acción equiparable al robo, pues estás recibiendo a cambio algo que no me ofrecí a darte. Aún tengo mucho que aprender de mis creaciones, hijo de Hades. Digamos entonces que ha sido un trato justo: una lección para mí, algo de valor para ti."
+|-
+! colspan="2" |Chaos Gift 08
+|-
+|'''Zagreus'''
+|"Si me disculpas, Caos, esta ambrosía es una ofrenda que hago a aquellos a quienes aprecio, y no puedo pensar en destinatario más digno que tú. Por favor, acéptala."
+|-
+|'''Chaos'''
+|"La aceptaré como ofrenda final, hijo de Hades, pues lo he pensado mejor y he decidido que mi anterior análisis de tus intenciones era demasiado limitado e impreciso, y lamento haber comparado tus actos con el latrocinio. ¿Te parece bien?"
+|-
+|'''Zagreus'''
+|"Es agua pasada, Caos. Todo esto es nuevo para mí también. Procuro no excederme al analizar las cosas... Mi padre ya lo hace por los dos. Simplemente quiero darle las gracias al creador primordial ahora que lo tengo ante mí. Por todo."
+|-
+|'''Chaos'''
+|"Ya veo... Entonces tu respuesta es más que aceptable. Y puesto que el acto de ofrendar algo no es un intercambio, digamos que ya contabas con mi gratitud."
+|-
+|}

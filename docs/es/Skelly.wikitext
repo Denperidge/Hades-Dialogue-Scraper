@@ -1,0 +1,737 @@
+{| class="wikitable"
+|+
+! colspan="2" |Trophy Quest Beginning 01
+|-
+|'''Skelly'''
+|"Te voy a ser sincero, colega. Has impresionado a alguien muy por encima de mi nivel. Y ese alguien tiene algo que proponerte. ¿Te interesa?"
+|-
+|'''Zagreus'''
+|"A ver si lo adivino… ¿Tengo que abrirme paso por el Inframundo, tras usar el Pacto de Castigo, para que la travesía sea aún más traicionera? Y si tengo éxito me recompensarán con algún tipo de fruslería inútil, ¿verdad?"
+|-
+|'''Skelly'''
+|"¡Incorrecto! Estamos hablando de algo muy gordo, tío. ¿Ves eso de ahí? Una baratija. Vamos, ¿qué te pasa? ¿Es que tienes miedo?"
+|-
+! colspan="2" |Trophy Quest Bronze Unlocked 01
+|-
+|'''Skelly'''
+|"Sabía que tenías lo que hay que tener, amigo. ¿Te gusta tu nuevo premio? Pacto de Castigo, ''paparruchas ''de castigo, ¿a que tengo razón? Aunque ese era el reto más fácil de todos, creo que hasta yo podría haberlo superado."
+|-
+|'''Zagreus'''
+|"Espera, a ver si lo entiendo... He atravesado literalmente el infierno y he vuelto. Y mi recompensa es… ¿una estatua de ti? No me malinterpretes, es muy bonita. Solo que… no sé, esperaba otra cosa."
+|-
+|'''Skelly'''
+|"Mira, chavalote, hubo una pequeña confusión cuando hicimos el pedido, ¿sabes? Les dije que quería algo para quedar bien con mis contactos y el resultado fue lo que ves. Pero las otras han quedado mucho mejor, ¡ya lo verás!"
+|-
+! colspan="2" |Trophy Quest Silver Unlocked 01
+|-
+|'''Zagreus'''
+|"Huesos, una preguntita. ¿De verdad has encargado tres estatuas casi idénticas de ti para animarme a usar el Pacto de Castigo?"
+|-
+|'''Skelly'''
+|"¡Me ofendes, colega! Ni siquiera has visto aún la tercera, ¿cómo puedes insinuar algo así? A lo mejor me he equivocado contigo. ¡Pensé que serías el elegido!"
+|-
+|'''Zagreus'''
+|"Sólo dices eso para que me disculpe y trate de desbloquear la última de tus tres estatuas idénticas, ¿verdad?"
+|-
+|'''Skelly'''
+|"¿Cómo te atreves…? ¡Devolvería esas estatuas ahora mismo si pudiera moverme! Y si aceptasen devoluciones…"
+|-
+! colspan="2" |Trophy Quest Gold Unlocked 01
+|-
+|'''Skelly'''
+|"Mira, siento haber estropeado lo de tus estatuas, chavalote. De verdad. Cuando las vi, me entraron los siete males. Pero luego pensé: «Ni en broma va a llegar a ver cómo han quedado». Así que me olvidé del tema, ¿sabes?"
+|-
+|'''Zagreus'''
+|"No deberías haberme subestimado, colega. Aún así… no tendría que haber dicho esas cosas tan feas sobre tus estatuas. Traerlas aquí te habrá exigido un gran esfuerzo."
+|-
+|'''Skelly'''
+|"¡Y que lo digas, colega! Entonces, ¿en paz? Hemos pasado por muchas cosas juntos. ¡Los dos! He aprendido mucho de esta experiencia. Y ahora nos entendemos mucho mejor, ¿a que sí?"
+|-
+! colspan="2" |Skelly First Meeting
+|-
+|'''Skelly'''
+|"¡Menuda choza tienes, chavalote! Pero basta de cháchara. Estoy aquí por trabajo. Así que venga. ¡Dame con todo!"
+|-
+|'''Zagreus'''
+|"No recuerdo tenerte en nómina, colega. ¿Quién es tu supervisor?"
+|-
+|'''Skelly'''
+|"''Oh, oh''. No pienso delatar a mis contactos, tronco. ¡Tendrás que sacármelo a leches!"
+|-
+! colspan="2" |Skelly Misc Meeting 01
+|-
+|'''Zagreus'''
+|"Supongo que no puedo convencerte de que te defiendas por una vez, ¿verdad?"
+|-
+|'''Skelly'''
+|"Ni en broma, chavalote. ¡Me pagan por recibir, no por repartir! Ahora, ¡dame caña!"
+|-
+! colspan="2" |Skelly Misc Meeting 02
+|-
+|'''Skelly'''
+|"Vaya, te estás haciendo bastante fuerte, colega. Aunque en realidad me pagan para que te lo diga... pero no para que te cuente esto último..."
+|-
+|'''Zagreus'''
+|"Tengo que preguntarte algo, colega: ¿para qué necesitas el dinero?"
+|-
+|'''Skelly'''
+|"Colega, eso no le interesa a nadie salvo a mí. Además, está feo hablar de dinero todo el rato. Venga, volvamos a lo de molerme a palos."
+|-
+! colspan="2" |Skelly Hint Meeting 01
+|-
+|'''Skelly'''
+|"Deja que te dé un consejo, chavalote. Si te encuentras por ahí a alguien como yo, simplemente dale una buena puñalada por la espalda sin pensártelo, antes de que te mande a casita llorando."
+|-
+! colspan="2" |Skelly Hint Meeting 02
+|-
+|'''Skelly'''
+|"Eres bastante fuerte. Eso te lo reconozco, chavalote. Bastante fuerte como para empotrar a un tío como yo contra la pared y hacerlo pedazos. ¡''Bam''! No lo olvides. Cuando te des de leches, ¡las paredes son tus amigas!"
+|-
+|'''Zagreus'''
+|"Empotrar contra las paredes. Como siempre, un buen consejo, colega."
+|-
+! colspan="2" |Skelly Hint Meeting 03
+|-
+|'''Skelly'''
+|"Oye, tío. Vigila dónde tiras tus piedras de sangre. Si se te caen, recógelas. ¿Me sigues? Pero si alguien te da problemas, ¡tienes mi permiso para meterle una en todo el ojo!"
+|-
+|'''Zagreus'''
+|"Yo suelo apuntar al tronco. Sé por experiencia que es mucho más difícil acertar en los ojos."
+|-
+! colspan="2" |Skelly Hint Meeting 04
+|-
+|'''Skelly'''
+|"Eres bastante rápido, chavalote. ¡Y lo sabes! ¡No olvides usar ese acelerón tan chulo para que no sepan por dónde vas a atacar! ¡No dejes que te pillen quieto!"
+|-
+|'''Zagreus'''
+|"Acelerar como un loco en lugar de quedarme quieto. Supongo que no es mal consejo."
+|-
+! colspan="2" |Skelly Hint Meeting 05
+|-
+|'''Skelly'''
+|"¿Quieres un consejito, chavalote? Si cuando estés por ahí encuentras monedas, recuerda deshacerte de ellas trapicheando con el viejo Caronte, el barquero. Las gastas o las pierdes, tío. Las gastas o las pierdes."
+|-
+|'''Zagreus'''
+|"Gracias, colega. Nota personal: gastar siempre todo lo que gane en lugar de ahorrar."
+|-
+! colspan="2" |Skelly Hint Meeting 06
+|-
+|'''Skelly'''
+|"Colega, a veces te encontrarás con algún auténtico tarado que intentará aguarte la fiesta. Lo reconocerás porque brilla con luz propia, pero es por su armadura especial. ¿Lo pillas? Tienes que atravesarla. Si no, pasará de tus golpes hasta que lo consigas."
+|-
+|'''Zagreus'''
+|"Para que todo vaya bien, cuidado con los tarados brillantes. Lo capto."
+|-
+! colspan="2" |Skelly Hint Meeting 07
+|-
+|'''Skelly'''
+|"¿Sabes, chavalote? Creo que podrías hacer una buena jugarreta con alguna de las columnas que sostienen este lugar y derribarlo entero con solo unos golpes. ¡Bum, bum, ''BUM''! No me gustaría estar cerca de una si lo hicieras."
+|-
+|'''Zagreus'''
+|"Destrozar la exquisita arquitectura de mi padre siempre que pueda. Eso está hecho."
+|-
+! colspan="2" |Skelly Hint Meeting 09
+|-
+|'''Skelly'''
+|"Chavalote, la próxima vez que llegues a la gran zona VIP de arriba, ándate con ojo con los tipos de las armas. ¿Y la cosa esa del alma y el ojo que sale cuando los matas? También tienes que aplastarla. De lo contrario, ¡recogerán su equipo y volverán a por más!"
+|-
+|'''Zagreus'''
+|"Aplastar las almas de las sombras excelsas del Elíseo para evitar que se regeneren. Me lo apunto para la próxima."
+|-
+! colspan="2" |Skelly Hint Meeting Easy Mode 01
+|-
+|'''Skelly'''
+|"Si las pasas canutas ahí fuera, recuerda una cosa. Eres un dios, ¿vale? Muchísimo más fuerte de lo que piensas. Si te dan para el pelo, activa el Modo Dios y enséñales lo que vale un peine."
+|-
+|'''Zagreus'''
+|"Lo dices como si ese Modo Dios fuera una palanca que pudiese accionar a voluntad para liberar mi fuerza latente."
+|-
+! colspan="2" |Skelly About Hint Meetings 01
+|-
+|'''Zagreus'''
+|"Huesos, ¿cómo sabes tantas cosas, por cierto? Sin ánimo de ofender, eres un esqueleto que no se mueve de su sitio y, sin embargo, te conoces el Inframundo como la palma de la mano."
+|-
+|'''Skelly'''
+|"Bueno, ¡es que conozco a gente, chaval! Dejémoslo ahí. Y ahora veamos cómo me rompes algunos huesos, ¿eh?"
+|-
+! colspan="2" |Skelly No More Hint Meetings 01
+|-
+|'''Skelly'''
+|"¿Amigo? Has llegado ''muy ''lejos, he de confesarlo. Creo que has absorbido hasta la última gota de sabiduría que había acumulado, así que... ya no me quedan consejos que darte. Supongo que solo queda una cosa por hacer."
+|-
+|'''Zagreus'''
+|"¿Quedarte ahí plantado para que te apalice a placer, usando el arma que me apetezca en cada momento?"
+|-
+! colspan="2" |Skelly About Skelly Painting 01
+|-
+|'''Zagreus'''
+|"¿Sabes? He conseguido un cuadro para la cantina de alguien que me recuerda a ti. Lo que me hace pensar... ¿has estado alguna vez allí? Deberías unirte a nosotros un día de estos."
+|-
+|'''Skelly'''
+|"Mira, aprecio la invitación, chavalote, pero esos sitios para socializar no son de mi estilo. Me gusta estar por aquí, a mi bola, si acaso con la compañía de murciélagos volando por ahí... Y además, el contrato deja claro que me tengo que quedar aquí."
+|-
+|'''Zagreus'''
+|"¿Y si te recogiese en peso y te llevase yo mismo? ¿Iría eso en contra de las condiciones del contrato?"
+|-
+! colspan="2" |Skelly Run Progress 01
+|-
+|'''Skelly'''
+|"Debo admitir que estás llegando muy lejos, chavalote. ¡Me has impresionado! Y ni siquiera me pagan para impresionarme. Solo para quedarme aquí, quietecito."
+|-
+|'''Zagreus'''
+|"Te agradezco el voto de confianza, colega. Puede que tengas razón y algún día salga de aquí. Oye, si no vuelvo nunca más, no te quedarás aquí atrapado para siempre, ¿no?"
+|-
+|'''Skelly'''
+|"''Je, je, je''. Esa sí que es buena. ''No'', probablemente no. En el antiguo contrato no ponía nada de eso. ''Jum''."
+|-
+! colspan="2" |Skelly Run Progress 02
+|-
+|'''Skelly'''
+|"¿Te has quedado bloqueado, chavalote? Conozco la sensación. Tú insiste. Te estás volviendo más resistente y astuto, y con ambas cualidades acabarás escapando muy pronto."
+|-
+! colspan="2" |Skelly Backstory 01
+|-
+|'''Zagreus'''
+|"Venga, colega. ¿No me vas a decir quién te contrató? ¿Fue Aquiles? No pudo ser Nicte… ¿A qué viene tanto secretismo?"
+|-
+|'''Skelly'''
+|"Soy una persona íntegra, chavalote, daría la vida por proteger a mis contactos. ¡Tendrás que matarme si quieres que cante!"
+|-
+! colspan="2" |Skelly Backstory 02
+|-
+|'''Zagreus'''
+|"Estooo... ''eh'', Huesos... ¿Cómo acabaste aquí?"
+|-
+|'''Skelly'''
+|"Pues me materialicé aquí, como "papá" nos deja hacer. Bueno, a algunos. De vez en cuando. ¿Por qué?"
+|-
+|'''Zagreus'''
+|"Me refiero a cómo acabaste en el reino de los muertos. ¿Te trajo Hermes a la entrada? ¿Te recogió Tánatos? ¿Te transportó Caronte?"
+|-
+|'''Skelly'''
+|"¡Ah, ''ja, ja''! Es una pregunta muy personal, ¿no te parece, chavalote? No me gusta hablar de eso. ¿Podrías respetar mi intimidad?"
+|-
+! colspan="2" |Skelly Backstory 03
+|-
+|'''Zagreus'''
+|"Huesos, ¿es cierto que no quieres hablar de cómo acabaste aquí? Solo tengo curiosidad por saber quién eras, cómo eras. Tu nombre real."
+|-
+|'''Skelly'''
+|"¿Qué te hace pensar que este no es mi nombre real, chavalote? ¡Me siento ofendido!"
+|-
+|'''Zagreus'''
+|"Perdona, lo que quería decir es que... me interesaba conocerte mejor, después de todo lo que has hecho para ayudarme. ¿Puedes decirme algo al menos? ¡Te diré algo sobre mí a cambio!"
+|-
+|'''Skelly'''
+|"Vale, de acuerdo... Fui un comandante. Me llamaban Uesopos. Era capitán de la segunda flota cretense que partió contra Atenas a las órdenes del rey Minos. Éramos invencibles, pero un día nos desviamos de la ruta y acabamos directos en aguas de Caribdis."
+|-
+|'''Zagreus'''
+|"Huesos, qué historia más alucinante... ¿Así que tú y tu tripulación moristeis en el mar?"
+|-
+|'''Skelly'''
+|"Yo, eh... ''Pfff, ¡ja, ja, ja''! Chavalote, eres de lo que no hay. ¡Podría haber estado días camelándote con la historia esta de Uesopos!"
+|-
+|'''Zagreus'''
+|"Ah, lo capto. He caído en tu broma, ''Uesopos''. Pero no me hace ninguna gracia."
+|-
+! colspan="2" |Skelly Backstory 05
+|-
+|'''Zagreus'''
+|"Huesos... ¿o quizá debería decir ''Uesopos''? He estado hablando con alguien a quien le sonaba ese nombre, un tipo grandote con cabeza de toro y oriundo de Creta. ¡Decías que te lo habías inventado! ¿Qué pasa con eso?"
+|-
+|'''Skelly'''
+|"¡Nunca dije que me lo hubiera inventado, colega! Sabía que no me ibas a creer... Tú mírame. ¿Te parezco un capitán de la segunda flota cretense?"
+|-
+|'''Zagreus'''
+|"No lo sé, nunca he conocido a uno. ¿Son todos unos haraganes que se pasan el día sin hacer nada?"
+|-
+|'''Skelly'''
+|"Me parece que por aquí hay ''alguien ''al que nunca le ha tocado dar órdenes a cincuenta y pico marineros surcando los mares en un galeón minoico sin nada más que las estrellas como guía. ¿Qué crees que hacen los capitanes, remar?"
+|-
+|'''Zagreus'''
+|"¿Y qué pasa con Hermes? Él me dejó entender que podrías ser otra persona. Nadie en particular, ni tampoco un gran capitán."
+|-
+|'''Skelly'''
+|"¿Qué os pasa a los dioses? ¿No podéis dejar de hablar de vuestros amigos a sus espaldas, chavalote?"
+|-
+|'''Zagreus'''
+|"¡No cambies de tema!"
+|-
+|'''Skelly'''
+|"¡No cambies de tema!"
+|-
+! colspan="2" |Skelly About Sources 01
+|-
+|'''Zagreus'''
+|"Sobre la Muela de la Suerte que me diste, Huesos. Primero, gracias; segundo... ¿es tuya de verdad? Me encontré con Hermes y me hizo dudar."
+|-
+|'''Skelly'''
+|"¡''Ja, ja, ja''! ¿Piensas creerte todo lo que te diga ese tipejo desgarbado, chavalote? ¡Ese no sabe nada de mí!"
+|-
+|'''Zagreus'''
+|"No he dicho que supiera algo. Pero ya que lo mencionas... ¿Qué relación tenéis? ¿Trabajas con él?"
+|-
+|'''Skelly'''
+|"¡No! Para nada, definitivamente no. Es más una relación de igual a igual. Excepto porque él es un dios y yo solamente... Bueno, lo que ves es lo que hay, chavalote. No se lo vas a decir a nadie, ¿verdad? Estoy aquí para ayudarte, ¡lo juro!"
+|-
+! colspan="2" |Skelly About Sources 02
+|-
+|'''Zagreus'''
+|"Vale, las cartas sobre la mesa, Huesos. ¿Para quién trabajas? Sé que no es Aquiles ni Nicte. Dusa no sabe quién eres, mi padre... ni de coña. ¿Hipnos? No me hagas reír. La morada queda descartada."
+|-
+|'''Skelly'''
+|"Lo siento, amigo, soy una tumba. ¿Cambiamos de tema?"
+|-
+|'''Zagreus'''
+|"¿Y si me dices quiénes son tus fuentes?"
+|-
+|'''Skelly'''
+|"¡No!"
+|-
+|'''Zagreus'''
+|"Dímelo."
+|-
+|'''Skelly'''
+|"Qué va."
+|-
+|'''Zagreus'''
+|"¡Dímelo!"
+|-
+|'''Skelly'''
+|"¡Que no!"
+|-
+|'''Zagreus'''
+|"Dímelo, Huesos."
+|-
+|'''Skelly'''
+|"¡Na-ah!"
+|-
+|'''Zagreus'''
+|"¿Me lo dices, por favor?"
+|-
+|'''Skelly'''
+|"No es no."
+|-
+|'''Zagreus'''
+|"¿Por qué no me lo dices?"
+|-
+|'''Skelly'''
+|"Buen intento, amigo."
+|-
+|'''Zagreus'''
+|"¿Y si no vuelvo a pegarte?"
+|-
+|'''Skelly'''
+|"Eh... ¿no?"
+|-
+|'''Zagreus'''
+|"Al Olimpo pongo por testigo que, si no me dices para quién trabajas, no volveremos a zurrarnos nunca más."
+|-
+|'''Skelly'''
+|"No... por favor, piedad, chavalote..."
+|-
+|'''Zagreus'''
+|"Nada de piedad, Huesos. Dímelo, o... a partir de ahora solo tendremos educadas charlas."
+|-
+|'''Skelly'''
+|"¡Argh, ''vale''! Pero prométeme que no se lo vas a decir a nadie de esa morada tuya tan molona, ¿vale? O estaré acabado. ''¡Va en serio!''"
+|-
+|'''Zagreus'''
+|"Lo prometo. ¿Entonces?"
+|-
+|'''Skelly'''
+|"Es Caronte."
+|-
+|'''Zagreus'''
+|"¡Caronte! Vaya."
+|-
+|'''Skelly'''
+|"Sí. Es rico, tiene contactos con tipos como yo, y creo que se juega algo en esta especie de competición que tienes con tu padre."
+|-
+|'''Zagreus'''
+|"¿Cuál es su objetivo?"
+|-
+|'''Skelly'''
+|"Ni idea. Lo mismo le caes bien, o se aburre."
+|-
+|'''Zagreus'''
+|"Y Hermes, ¿trabaja para Caronte también?"
+|-
+|'''Skelly'''
+|"¡Sí! Ahora, finjamos que esto no ha pasado para que pueda seguir por aquí, ¿vale? ¡Me lo has prometido, amigo!"
+|-
+! colspan="2" |Skelly About Sources 03
+|-
+|'''Zagreus'''
+|"Huesos, ¿le has contado a Caronte y a Hermes que estuvimos hablando de tus contactos? Porque yo no, pero de algún modo parecían saberlo."
+|-
+|'''Skelly'''
+|"Chavalote, pensaba que habíamos quedado en no volver a hablar del tema de ahora en adelante. Me repatea tener que dar explicaciones a mis fuentes."
+|-
+|'''Zagreus'''
+|"No te habré metido en un lío, ¿verdad?"
+|-
+! colspan="2" |Skelly About Sources 04
+|-
+|'''Zagreus'''
+|"Oye, Huesos, ahora que todo ha salido a la luz, lo de la reina, lo de Caronte... ¿te importa si le cuento algo a Tánatos? Caronte es su hermano, al fin y al cabo."
+|-
+|'''Skelly'''
+|"¡Ah, sí! Ahora que lo dices, supongo que esa parte del antiguo contrato ya no se aplica. ¡Así que adelante! Me gusta que me hayas preguntado antes, colega."
+|-
+! colspan="2" |Skelly About Gifting 01
+|-
+|'''Skelly'''
+|"Amigo, gracias otra vez por esa botella de néctar, me ha sentado de maravilla. Aunque espero que no vayas por ahí dándosela a cualquier tarado que conozcas."
+|-
+|'''Zagreus'''
+|"¿Qué pasa, Huesos? ¿Te preocupa que pase algo malo por mostrar algo de generosidad de vez en cuando con este tipo de intercambio clandestino de regalos?"
+|-
+|'''Skelly'''
+|"No, me preocupa que estés perdiendo el tiempo. Si vas regalando eso por ahí, no esperes nada a cambio o, al menos, no después de la primera vez. Quiero decir... que no tengas las expectativas muy altas."
+|-
+|'''Zagreus'''
+|"¡Solo quiero mostrarle mi agradecimiento a mis amigos, sin esperar nada a cambio!"
+|-
+! colspan="2" |Skelly About Super Lock Keys 01
+|-
+|'''Zagreus'''
+|"Ey, Hueso. Mira, parece que tú eres de los que sabe moverse por el Tártaro. He encontrado un poco de sangre de titán antigua, y me interesa agenciarme más."
+|-
+|'''Skelly'''
+|"¡Yo puedo ayudarte con eso, compañero! Esas armas tan chulas que blandes por ahí te sirven para encontrarla. Cuando atravieses el Tártaro por primera vez con cada una de ellas, ¡ganarás un poco de sangre! Es la única forma de conseguirla... por el momento."
+|-
+|'''Zagreus'''
+|"¿Y cómo sé cuánta he ganado con cada arma?"
+|-
+|'''Skelly'''
+|"Ni idea. Pero siempre está aquella tremenda invención: escribirlo en algún lado. Ya se te ocurrirá algo."
+|-
+! colspan="2" |Skelly About Super Lock Keys 02
+|-
+|'''Zagreus'''
+|"Huesos, mencionaste aquella sangre antigua que encontré en el Tártaro. ¿Sabes qué debo hacer con ella?"
+|-
+|'''Skelly'''
+|"¡Ni repajolera idea! Desde luego, no tiene nada que ver con esas armas infernales tuyas, algunas de las cuales aún ''no puedes usar'', por lo que tengo entendido."
+|-
+! colspan="2" |Skelly About Weapon Enchantments 01
+|-
+|'''Skelly'''
+|"Pues ha pasado algo muy raro mientras no estabas, chavalote. Uno de esos chismes para las armas... ¡empezó a emitir un brillo siniestro! ¡Lo vi por el rabillo del ojo!"
+|-
+|'''Zagreus'''
+|"Tranquilo, Huesos. Sea lo que sea, seguro que es perfectamente normal para un arma legendaria, semiconsciente y aniquiladora de titanes, cuyo origen se remonta al albor de los tiempos."
+|-
+|'''Skelly'''
+|"¡Eso es! Esas armas tuyas lo han visto todo, tronco. Las estás empleando a fondo, así que a lo mejor te están cogiendo cariño o algo. A lo mejor lo que quieren es cariño, ¿sabes? ¡Como tú y yo!"
+|-
+! colspan="2" |Skelly About Weapon Enchantments 02
+|-
+|'''Skelly'''
+|"¿Sabes? Cuando te vas y me quedo a solas con tus armas, esas ''armas infernales ''de ahí… Que quede entre nosotros, pero me ponen los pelos de punta."
+|-
+|'''Zagreus'''
+|"No te culpo. No me gustaría quedarme en una sala con un puñado de artilugios asesinos legendarios y, muy probablemente, malévolos. ¿Algo que pueda hacer al respecto?"
+|-
+|'''Skelly'''
+|"No lo decía en plan malo, chavalote. Cuanto más estrafalarios son esos chismes, más me tiemblan los huesos y más brinco de un lado para otro hasta que vuelves otra vez. ¡Pero gracias!"
+|-
+! colspan="2" |Skelly About Fist Weapon 01
+|-
+|'''Zagreus'''
+|"Oye, Huesos, no sabrás decirme cómo fueron a parar a este mismo patio los infames Puños Gemelos de Malfon, ¿no?"
+|-
+|'''Skelly'''
+|"¡No! Y no es asunto mío, compa, lo que quiere decir que no he visto nada. Y si lo hubiera hecho, no me pagan por encargarme de esos asuntos. ¿No hay nadie en esa fabulosa morada vuestra que se encargue de ese tipo de trabajos? ¡Pues pregúntale!"
+|-
+! colspan="2" |Skelly About Guan Yu Aspect 01
+|-
+|'''Skelly'''
+|"Eh, compa, solo quería hablar de aquello tan chungo del ''fénix carmesí ''que decías antes, ¿sabes? Es que, jo, simplemente sueltas cuatro tonterías y hale, ¿te dan una lanza nueva? ¡Me dejaste tan impresionado que decidí intentar probar ese truco yo mismo!"
+|-
+|'''Zagreus'''
+|"Ay, dioses... ¿Qué has hecho, Huesos?"
+|-
+|'''Skelly'''
+|"Tranqui, chavalote, solo he hablado con esa vieja bandeja tuya de ahí, nada más. ¡No veas qué golpes pega! Voy y le digo eso de ''«te veo a través de los ojos del fénix carmesí» ''y... ¿sabes lo que pasó después?"
+|-
+|'''Zagreus'''
+|"Así que pronunciaste a las bravas unas palabras secretas que me confiaron las propias moiras, delante de un arma infernal forjada en el alba de la creación. ¿Y qué? ¿Te molestaste acaso en acercarte a Égida o solo las dijiste por encima del hombro?"
+|-
+|'''Skelly'''
+|"¡Por encima del hombro! En fin, lo que pasó fue...''¡Nada! ''Tu ''Égida'' se quedó ahí flotando como si nada. Así que fui y le dije el abracadabra ese al resto de las armas, pero ni flores. No funciona. Vaya una brujería espectacular la tuya, ¿eh?"
+|-
+! colspan="2" |Skelly About Pact 01
+|-
+|'''Zagreus'''
+|"¿Qué ha pasado con esa ventana rosa que había ahí? Ahora hay unas llamas anaranjadas bastante amenazantes y un enorme Pacto de Castigo colgado sobre la salida. Es un poco siniestro. ¿Mi padre se ha pasado por aquí?"
+|-
+|'''Skelly'''
+|"¡No tengo ni idea, tronco! ¡En serio! Estaba aquí, a mi aire, pensando en mis cosas, y de repente... ¡''Bam''! Un golpe por la espalda. ¡Me rompí en pedazos y no me enteré de nada! Cuando por fin me recuperé, ya estaba todo así…"
+|-
+! colspan="2" |Skelly True Death Quest Beginning 01
+|-
+|'''Skelly'''
+|"Oye, chavalote. No sé cómo decírtelo, así que te lo suelto de sopetón. Necesito tu ayuda con un asuntillo y, sinceramente, no creo que te guste."
+|-
+|'''Zagreus'''
+|"Si no se trata de molerte todos los huesos con violencia desenfrenada, ni me lo menciones. Pero… Oh, que hablas en serio..."
+|-
+|'''Skelly'''
+|"Pues sí. Y mira qué curioso. Te pido que me saques de aquí. ''Para siempre'', si captas la indirecta. Esto de quedarme aquí quietecito… Uno se harta de todo, ¿sabes?"
+|-
+|'''Zagreus'''
+|"Lo sé... Puedo imaginármelo. Dime qué puedo hacer."
+|-
+|'''Skelly'''
+|"Esa espada tuya de ahí detrás guarda un poder especial. Tienes que llevarla al máximo nivel. Con tu aspecto. No uses el de nadie más. Luego me arreas un buen espadazo y… adiós, muy buenas."
+|-
+|'''Zagreus'''
+|"¿Y morirías para siempre? Me pides que te mate..."
+|-
+|'''Skelly'''
+|"Sé que es un marrón, pero tengo mis razones. Aquí tampoco voy sobrado de alternativas. Piénsatelo. Mientras tanto, haremos como si nada, ¿vale?"
+|-
+! colspan="2" |Skelly True Death Quest Beginning 01 B
+|-
+|'''Skelly'''
+|"Esa espada tuya de ahí detrás guarda un poder especial. Y tu aspecto está ahora al máximo nivel. Tienes que arrearme un buen espadazo y… adiós, muy buenas."
+|-
+! colspan="2" |Skelly Run Cleared 01
+|-
+|'''Skelly'''
+|"Entonces... ''Eh'', colega... Mis fuentes me han contado que has llegado bastante lejos, lo que quiere decir que pronto te dejaré de ser útil."
+|-
+|'''Zagreus'''
+|"¿''Ser útil''? ¿Te refieres a quedarte ahí de pie, dejando que te machaque con la secuencia de ataques que me apetezca en ese momento?"
+|-
+|'''Skelly'''
+|"¡Sí! Una vez alcances tu meta... se acabó mi contrato. Ya no me necesitarás."
+|-
+|'''Zagreus'''
+|"Pero solo si me marcho para siempre, ¿no? Si me quedo, ¿tú también?"
+|-
+|'''Skelly'''
+|"Probablemente, pero... Espera ¿de verdad vas a quedarte?"
+|-
+! colspan="2" |Skelly Post Ending 01
+|-
+|'''Skelly'''
+|"Así que mamá ha vuelto a casa, chavalote. Mola saber que te he entrenado tan bien."
+|-
+|'''Zagreus'''
+|"''Esto''... Estás hablando de la reina, y está claro que conoces nuestro parentesco. Mantenlo en secreto, ¿vale, Huesos?"
+|-
+|'''Skelly'''
+|"''Ah'', así que el alumno le da una lección al maestro para variar. Entendido, colega, tu secreto está a salvo conmigo."
+|-
+! colspan="2" |Skelly Post Epilogue 01
+|-
+|'''Skelly'''
+|"Debes de habértelo pasado en grande con todos esos dioses y demás. Se escuchaba el jolgorio desde aquí. ¿Cómo ha ido todo, colega?"
+|-
+|'''Zagreus'''
+|"Pues... mejor de lo que esperaba, de hecho. Espero que no sintieras que te dejaba de lado, la lista de invitados era muy limitada. Era como una misión diplomática, para que lo entiendas. No ha sido tan divertido como sonaba desde fuera."
+|-
+|'''Skelly'''
+|"''Anda'', no tienes que preocuparte por mí, colega. Me gusta llevar una vida solitaria y, además, cuando las cosas te van bien a ti, me van bien a mí. Me alegro de que saliese bien."
+|-
+! colspan="2" |Skelly Chat 01
+|-
+|'''Skelly'''
+|"Menos parlotear y más abofetear, chavalote. ¡Venga ya!"
+|-
+! colspan="2" |Skelly Chat 02
+|-
+|'''Skelly'''
+|"Menos charlar y más golpear, chavalote. ¡Pégame de una vez!"
+|-
+! colspan="2" |Skelly Chat 03
+|-
+|'''Skelly'''
+|"Menos hablar y más aporrear. ¡Venga, colega!"
+|-
+! colspan="2" |Skelly Chat 04
+|-
+|'''Skelly'''
+|"Vamos, chavalote. ¡Menos filosofía y más puñaladas!"
+|-
+! colspan="2" |Skelly Chat 05
+|-
+|'''Skelly'''
+|"Menos cotorreo y más palizas, chavalote. ¡Dame con todo lo que tengas!"
+|-
+! colspan="2" |Skelly Chat 06
+|-
+|'''Skelly'''
+|"Es imposible romper ''estos ''huesos, tío. ¡Inténtalo!"
+|-
+! colspan="2" |Skelly Chat 07
+|-
+|'''Skelly'''
+|"¿Quieres otra ración de esto o qué?"
+|-
+! colspan="2" |Skelly Chat 08
+|-
+|'''Skelly'''
+|"Basta de cháchara, chavalote. ¡Venga, pégame!"
+|-
+! colspan="2" |Skelly Chat 09
+|-
+|'''Skelly'''
+|"¿Quieres matarme de aburrimiento con tanto parloteo, tío?"
+|-
+! colspan="2" |Skelly Chat 10
+|-
+|'''Skelly'''
+|"¿Esto te parece un hombro sobre el que llorar, chavalote?"
+|-
+! colspan="2" |Skelly Chat 11
+|-
+|'''Skelly'''
+|"Pégame de una vez, chavalote. ¡Con ganas!"
+|-
+! colspan="2" |Skelly Chat 12
+|-
+|'''Skelly'''
+|"¡A ver cómo se te da lo de pegarme, colega!"
+|-
+! colspan="2" |Skelly Chat 13
+|-
+|'''Skelly'''
+|"¡Ahora mismo podrías estar pegándome, chavalote!"
+|-
+! colspan="2" |Skelly Chat 14
+|-
+|'''Skelly'''
+|"No me importaría que alguien me diese un palizón ahora mismo."
+|-
+! colspan="2" |Skelly Chat 15
+|-
+|'''Skelly'''
+|"¿Qué pasa? ¿Te has vuelto blando o qué, tío?"
+|-
+! colspan="2" |Skelly Chat 16
+|-
+|'''Skelly'''
+|"¿Vas a pegarme o qué?"
+|-
+! colspan="2" |Skelly Chat 17
+|-
+|'''Skelly'''
+|"Venga, chavalote. Dame con todo lo que tengas. ¡Es mi trabajo!"
+|-
+! colspan="2" |Skelly Chat 18
+|-
+|'''Skelly'''
+|"¡Ahora mismo no me vendría nada mal un buen directo a la mandíbula!"
+|-
+! colspan="2" |Skelly Chat 19
+|-
+|'''Skelly'''
+|"¿Quieres luchar conmigo, chavalote? ¡Pues al lío!"
+|-
+! colspan="2" |Skelly Chat 20
+|-
+|'''Skelly'''
+|"Colega, ¿tengo pinta de amante de la conversación?"
+|-
+! colspan="2" |Skelly Chat 21
+|-
+|'''Skelly'''
+|"Chavalote, ¡nuestra relación no requiere intercambio de palabras!"
+|-
+! colspan="2" |Skelly Gift 01
+|-
+|'''Zagreus'''
+|"Para ti, colega. Pensé que te divertirías con esto."
+|-
+|'''Skelly'''
+|"¿Para mí, tío? Vaya detallazo, sí, señor. Pero adivina: ¡yo también tengo esto para ti! Te devuelvo el favor, siempre es mejor. ¡Un trato es un trato!"
+|-
+! colspan="2" |Skelly Gift 02
+|-
+|'''Skelly'''
+|"''Guau'', ¿vas en serio, colega? Has traído esto hasta aquí… ¡¿solo por mí?! ¡Es todo un detalle!"
+|-
+|'''Zagreus'''
+|"No eres mala gente, colega. Gracias por estar siempre ahí para apalizarte salvajemente sin pensármelo."
+|-
+! colspan="2" |Skelly Gift 03
+|-
+|'''Skelly'''
+|"''Guau''. ¡Mira lo que tienes ahí, chavalote! Espera, ¿de verdad es para mí o te estás quedando conmigo?"
+|-
+|'''Zagreus'''
+|"De verdad es para ti, colega. Ahora a disfrutar, ¿vale? Pero cuando haya terminado de apalearte un poco más por amor al arte."
+|-
+! colspan="2" |Skelly Gift 04
+|-
+|'''Skelly'''
+|"Olé, ''así ''se hace. ¡Gracias, chavalote! No olvidaré que me estás haciendo un pedazo de favor. ¡Palabrita!"
+|-
+|'''Zagreus'''
+|"No hace falta darme las gracias. Pero ni se te ocurra olvidarlo o te atacaré sin parar y sin piedad."
+|-
+! colspan="2" |Skelly Gift 05
+|-
+|'''Skelly'''
+|"Oh. Mira, tío. ¡No puedo seguir aceptándote esto! No cuando ya me están pagando. Tengo mis principios, ¿sabes?"
+|-
+|'''Zagreus'''
+|"Si tú no dices nada, yo tampoco. ¡Venga, dale! ¡O lo que quieras!"
+|-
+! colspan="2" |Skelly Gift 06
+|-
+|'''Skelly'''
+|"''Aaah'', ¿estás de broma o qué? Chavalote, a veces haces que me sienta vivo de nuevo. ¿Lo sabes? Sinceramente, te estoy muy agradecido."
+|-
+|'''Zagreus'''
+|"Si no fuera por ti, amigo mío, no tendría a quién atacar con violencia sin miedo a represalias."
+|-
+! colspan="2" |Skelly Gift 07
+|-
+|'''Zagreus'''
+|"Huesos, aunque sé que tus servicios están más que pagados, tus contactos han de saber de tu excelente labor. Tanto es así que quiero regalarte esto."
+|-
+|'''Skelly'''
+|"¿''Cóóómo''? ¡¿Un frasco de ambrosía, tronco?! Jamás pensé que la cataría. Aquí soy el último mono. ¿Pues sabes? Yo quiero darte esto a cambio. Como símbolo de nuestra amistad. Y por si necesitas un cable ahí fuera."
+|-
+! colspan="2" |Skelly Gift 08
+|-
+|'''Zagreus'''
+|"Espero que te gustase aquella botella de ambrosía añeja de la última vez, Huesos, porque tengo otra para ti. ¡Toma!"
+|-
+|'''Skelly'''
+|"''Venga ya'', chavalote. ¿Me tomas el pelo? Pero ¿por qué? Yo solo… me quedo quieto mientras me dejas como un guiñapo. No tienes que darme nada. Ni siquiera sabes quién soy. Quién era."
+|-
+|'''Zagreus'''
+|"Eres mi amigo, tío. Es lo único que importa. Aunque… ¿estarías dispuesto a revelar esos detalles? Me pica la curiosidad."
+|-
+! colspan="2" |Skelly Gift 09
+|-
+|'''Zagreus'''
+|"¿Sabes, Huesos? Todavía no me he recuperado del susto que me pegaste al pedirme que te matase para siempre. ¿Me has tenido angustiado todo este tiempo solo para echarte unas risas?"
+|-
+|'''Skelly'''
+|"¡Ya te digo! Tampoco tengo muchas distracciones, por si no te habías percatado. Menos mal que me mantengo ocupado con estos pasatiempos intelectuales."
+|-
+|'''Zagreus'''
+|"¿Así los llamas? En cualquier caso, quería asegurarme. ¿Estás conforme con quedarte aquí como un pasmarote?"
+|-
+|'''Skelly'''
+|"¿Bromeas, tío? Me pego la gran vidorra. ¡Me pagan por quedarme quieto! ¡Y además soy coleguita tuyo!"
+|-
+! colspan="2" |Skelly True Death Quest Complete
+|-
+|'''Skelly'''
+|"''Ja, ja, ja''. Te la he vuelto a pegar, ¿eh, chavalote? ''«Te pido que me saques de aquí»''. Ja, ja, ja. Todo ese rollo de la espada con tu aspecto… Te lo has tragado. ¡''Jo, jo, jo''!"
+|-
+|'''Zagreus'''
+|"Al parecer, he sido víctima de una broma pesada. No sé si me hace mucha gracia, Huesos. ¿Te gustaría que no volviera a golpearte?"
+|-
+|'''Skelly'''
+|"¡Eh, eh, ''eh, eh, eh''! No te sulfures, que era una bromita de nada. Para quitarle un poco de hierro al asunto. No tomes ninguna decisión a lo loco."
+|-
+|}

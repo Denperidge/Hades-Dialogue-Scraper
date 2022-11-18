@@ -1,0 +1,2850 @@
+{| class="wikitable"
+|+
+! colspan="2" |Megaera Bedroom 01
+|-
+|'''Zagreus'''
+|"Meg. ''Vaya''. No esperaba compañía. ¿Estabas fisgoneando sin más o puedo ayudarte en algo?"
+|-
+|'''Megaera'''
+|"Ya me iba, Zagreo. Estaba de paso por aquí, no gracias a ti, y se me ocurrió recuperar lo que me quedaba de mis pertenencias. La verdad es que has dejado que este lugar se vaya al infierno."
+|-
+|'''Zagreus'''
+|"Se ha ido… Estupendo. ¡Maravilloso! Supongo que seguiremos matándonos una y otra vez."
+|-
+! colspan="2" |Megaera Bedroom 02
+|-
+|'''Zagreus'''
+|"¿Has olvidado otra cosita en mi alcoba, Meg?"
+|-
+|'''Megaera'''
+|"No. Tenemos que hablar. Otra vez. Mis hermanas han tomado cartas en el asunto. Has montado un lío de mil demonios."
+|-
+|'''Zagreus'''
+|"Lo siento, pero mi madre está ahí fuera y no descansaré hasta encontrarla. No lo entenderías."
+|-
+|'''Megaera'''
+|"Eso no lo sabes. Intento decirte que… con mis hermanas, la cosa cambia. Ya no me siento tan presionada."
+|-
+|'''Zagreus'''
+|"¿Qué insinúas?"
+|-
+|'''Megaera'''
+|"Que… sé que tienes que buscar a tu madre, Zagreo. Yo juego mi papel en todo esto, pero avísame si puedo hacer algo por ti."
+|-
+|'''Zagreus'''
+|"¡Meg...! Ella... ''Ah''."
+|-
+! colspan="2" |Megaera Bedroom 02 B
+|-
+|'''Zagreus'''
+|"Lo sé y lo siento, pero es algo que tengo que hacer. No lo entenderías."
+|-
+|'''Zagreus'''
+|"No estás tan presionada… Espera, ¿qué piensas hacer?"
+|-
+|'''Megaera'''
+|"Quiero decirte que… sé que haces lo correcto, Zagreo. Mis hermanas harán lo posible por pararte los pies, pero yo me enfrento a ti porque me obligan. ¿Lo entiendes?"
+|-
+! colspan="2" |Became Close With Megaera 01
+|-
+|'''Zagreus'''
+|"Meg, menuda sorpresa. Otra vez. ¿Qué ocurre? ¿Qué te pasa? Espera... ¿Por qué me miras así?"
+|-
+|'''Megaera'''
+|"Zagreo, deja de hacer preguntas absurdas y acércate, anda. Pero ya."
+|-
+|'''Zagreus'''
+|"Pero… es que… oh…"
+|-
+|'''Zagreus'''
+|"Creía que nunca me lo preguntarías... pero me alegro de que lo hayas hecho."
+|-
+|'''Zagreus'''
+|"Meg… intento preguntarte si has… si hemos hecho las paces o…"
+|-
+|'''Megaera'''
+|"No seas tan inseguro, Zag. Ya tendrías que tenerlo claro. Pero sí, para que lo sepas. Hemos hecho las paces. Pero como se lo cuentes a alguien, vivo o muerto, te mato, ¿entendido?"
+|-
+|'''Zagreus'''
+|"V... vale. Alto y claro, Meg, entendido. Y… ¿ahora qué?"
+|-
+|'''Megaera'''
+|"¿Ahora qué? Pues que nos veremos en la frontera del Tártaro. O quizá aquí. Mientras dure lo nuestro."
+|-
+|'''Zagreus'''
+|"¿Mientras dure "lo nuestro"?"
+|-
+|'''Megaera'''
+|"Haces demasiadas preguntas. No tengo las respuestas y, además, a ti se te da mejor eso de vivir el momento. Nos vemos."
+|-
+|'''Zagreus'''
+|"Nos vemos... Sí..."
+|-
+! colspan="2" |Text
+|-
+|'''Zagreus'''
+|"Oye, me siento halagado por tus muestras de cariño, pero… no quiero que tengamos este tipo de relación. Te he dado falsas esperanzas. Perdóname. ¿Seguimos siendo amigos?"
+|-
+|'''Megaera'''
+|"¿Es eso todo lo que quieres de verdad, ser mi amigo? ''Je''. A veces es difícil entenderte, Zag. Pero, ¿sabes qué? Ya he intentado muchas cosas en mi vida, ¿por qué no probamos lo que dices? Te veré por ahí."
+|-
+|'''Megaera'''
+|"¿Seguro? Oye, no pasa nada. Nos vemos ahí fuera."
+|-
+|'''Zagreus'''
+|"Sí… A veces, tengo que echar el freno. Me alegro de que nos llevemos mejor últimamente. Pero he pecado de impetuoso. Perdóname. Somos amigos del alma. No quiero que nada te haga daño. Ni nadie."
+|-
+|'''Thanatos'''
+|"Ya veo. Entiendo. También te considero mi amigo del alma, aunque últimamente hemos puesto esa relación en peligro, ¿no es así? Cuídate, Zag. Nos vemos."
+|-
+|'''Zagreus'''
+|"Hasta más ver, sí."
+|-
+|'''Zagreus'''
+|"Tan... ''Ja, ja, ja''. Qué alegría. ¿Sabes que… Megera también ha venido a verme...?"
+|-
+|'''Thanatos'''
+|"''Tch''. Conozco a Megera desde mucho antes que tú. ¿Quién crees que me metió en todo esto?"
+|-
+|'''Zagreus'''
+|"¡Ja! Ella, ¿verdad? Eso está bien. Muy bien."
+|-
+|'''Thanatos'''
+|"¿Estás seguro? En fin… Lo entiendo. Será mejor que retome mis obligaciones."
+|-
+|'''Zagreus'''
+|"Hasta la vista, Tan."
+|-
+|'''Zagreus'''
+|"Mira, os aprecio mucho. A los dos. Muchísimo. Me alegra tener este nivel de intimidad... y que lo tengáis vosotros, en lugar de estar todo el día a la gresca como antes. Pero creo que ahora mismo esto me supera."
+|-
+|'''Megaera'''
+|"¿Seguro? Mira... me parece bien, ya tienes bastante presión. Nos vemos por ahí, entonces."
+|-
+|'''Thanatos'''
+|"Ya charlaremos en otra ocasión, ¿de acuerdo?"
+|-
+! colspan="2" |Became Close With Megaera 01 B
+|-
+|'''Megaera'''
+|"Cierra la boca, anda. Y ven aquí."
+|-
+|'''Megaera'''
+|"Haces demasiadas preguntas. Pero sí, diría que sí. De momento. Pero como te vayas de la lengua, te mato, ¿entendido?"
+|-
+|'''Zagreus'''
+|"Pero… espera... ¿ni siquiera a Tánatos?"
+|-
+|'''Megaera'''
+|"Tánatos no es idiota. Quiere lo mejor para ti. Y no es celoso. Además, tengo muy buena relación laboral con él, como bien sabes."
+|-
+|'''Zagreus'''
+|"Sí, pero... ¿qué me dices de ti? Castigas a los celosos. ¿Y si yo…?"
+|-
+|'''Megaera'''
+|"No somos meros mortales, Zag. Que se encaprichan unos de otros porque sus vidas resultan fugaces. ¿Qué más nos da? Nicte me ha enseñado que el corazón no conoce límites. Deja de preocuparte y prepárate para la próxima vez que nos enfrentemos. Hasta la vista."
+|-
+! colspan="2" |Megaera With Thanatos Bedroom 01
+|-
+|'''Megaera'''
+|"Zagreo, aquí no hay puertas. ¿Por qué te llevas siempre una sorpresa?"
+|-
+|'''Zagreus'''
+|"''Esto'', Meg, Tan... ¿qué hacéis? ¿Qué está pasando? Sea lo que sea, puedo explicarlo, o... espera, estáis sonriendo los dos. Ah... dejadme unos segundos para hacerme a la idea de todo esto."
+|-
+|'''Megaera'''
+|"Qué poco confías en Tánatos y en mí, Zag. Nos conocemos desde mucho antes de que tú nacieras."
+|-
+|'''Thanatos'''
+|"De hecho, diría que a estas alturas nos conocemos muy bien, ¿verdad, Megera?"
+|-
+|'''Megaera'''
+|"¿Acaso no ves que ahora no estamos de servicio, Zagreo?"
+|-
+|'''Zagreus'''
+|"¡''Ja''! De acuerdo, entonces... si al final esto no es más que un sueño, me voy a cabrear mucho. En fin, solo hay una forma de averiguarlo."
+|-
+|'''Zagreus'''
+|"Vaya, estooo… ¿Por dónde iba?"
+|-
+|'''Megaera'''
+|"¡Bueno! Creo que hemos llegado a un acuerdo. Debería irme. Hasta la próxima, Zag. Y Tánatos."
+|-
+|'''Zagreus'''
+|"Fiu, bueno, ha sido... ha sido... ''ejem''."
+|-
+! colspan="2" |Megaera With Sisyphus 01
+|-
+|'''Megaera'''
+|"Como vuelvas a ayudarlo, te daré mil latigazos la próxima vez que te vea. Y cuando regrese, más te vale que ese peñasco tuyo esté en todo lo alto y no aquí abajo, o te daré mil más de propina."
+|-
+|'''Sisyphus'''
+|"Suena bien, suena bien, señora. Me parece más que justo. Os tomo la palabra. Hasta más ver."
+|-
+! colspan="2" |Megaera With Sisyphus 02
+|-
+|'''Megaera'''
+|"Y sigue acarreando la roca si sabes lo que te conviene, embaucador de pacotilla. No creas que no te tengo vigilado."
+|-
+|'''Sisyphus'''
+|"Aprecio vuestra atención, señora, y no dudéis que subiré a Roquita a lo alto de la colina en un abrir y cerrar de ojos, ¡aunque todavía no haya podido lograrlo!"
+|-
+! colspan="2" |Megaera With Sisyphus 03
+|-
+|'''Megaera'''
+|"Y cuando este asunto del príncipe acabe, todo volverá a la normalidad. Hasta entonces, será mejor que siga viendo esa roca tuya en lo alto de la colina."
+|-
+|'''Sisyphus'''
+|"Me parece perfectamente lógico, señora, y puede estar tranquila, que a Roquita... ''estoooo''... quiero decir, a esta roca... la seguiré empujando de manera regular, ¡avanzando, como siempre! ¡Cuidaos!"
+|-
+! colspan="2" |Fury Sisters Union 01
+|-
+|'''Megaera'''
+|"Mis hermanas y yo hemos estado hablando y hemos llegado a un acuerdo, Zagreo. Como puedes ver."
+|-
+|'''Alecto'''
+|"Megera, Tis, ¿listas?"
+|-
+|'''Tisiphone'''
+|"¡''Asssesssinooo''!"
+|-
+|'''Zagreus'''
+|"Tres contra uno. No parece muy justo, ¿no?"
+|-
+|'''Megaera'''
+|"La justicia dejó de preocuparnos hace tiempo. Te mataremos, sea como sea. ¡Erinias! ¡''Ahora''!"
+|-
+! colspan="2" |Fury Sisters Union 02
+|-
+|'''Megaera'''
+|"¿Qué ocurre, Zagreo? Pareces un poquito molesto. ¿Quieres decirnos algo? ¿A mí o a mis hermanas?"
+|-
+|'''Zagreus'''
+|"La verdad es que... quería comentarte una cosita, Meg. Pero después de pensarlo mejor, no me parece el momento más apropiado."
+|-
+|'''Megaera'''
+|"Lo entiendo perfectamente. Aunque te advierto que entre mis hermanas y yo no hay secretos. ¿A que no, hermanas?"
+|-
+! colspan="2" |Fury Post Sisters Union 01
+|-
+|'''Megaera'''
+|"''Ugh'', casi que te daría las gracias, Zagreo. Pensaba que jamás cambiarías ese maldito Pacto y me dejarías en paz."
+|-
+|'''Zagreus'''
+|"¿Qué? ¿Quieres decir que no te sientes más sola sin la compañía de Alecto y Tisífone? Parecen muy agradables."
+|-
+|'''Megaera'''
+|"Las soporto hasta cierto punto. Lo mismo que a ti. Venga, ahora solos tú y yo. Empecemos."
+|-
+! colspan="2" |Fury Sister Union Single Sis 01
+|-
+|'''Megaera'''
+|"¿Lo ves, Alecto? Llega justo a tiempo, como te dije."
+|-
+|'''Alecto'''
+|"Megera, ¡''desángralo''!"
+|-
+! colspan="2" |Fury Sister Union Single Sis 02
+|-
+|'''Megaera'''
+|"Atenta, Tisífone. Te he encontrado un asesino."
+|-
+|'''Tisiphone'''
+|"¿''Mmmuuuer''… tee…?"
+|-
+! colspan="2" |Fury Met Sisters 01
+|-
+|'''Megaera'''
+|"Te seré sincera, Zagreo. A pesar de todo lo que hemos pasado… jamás he querido que conocieras a mis hermanas."
+|-
+|'''Zagreus'''
+|"No puedo imaginarme el motivo. Lo hemos pasado de fábula conociéndonos. Hemos reído, ¡hemos llorado…! Lo único que lamento es que no pudieras estar tú."
+|-
+|'''Megaera'''
+|"No sabes lo que dices. Hay un motivo por el que no se les permite entrar en la morada. Pero bueno. Uno de nosotros va a volver allí ahora mismo."
+|-
+! colspan="2" |Fury Met Sisters 02
+|-
+|'''Megaera'''
+|"Ahora sí que la has liado, Zagreo. Mis hermanas han vuelto. Y ahora, las tres compartimos el mismo cometido."
+|-
+|'''Zagreus'''
+|"¿Está mal que me sienta un poco orgulloso de haber llamado la atención de las erinias?"
+|-
+|'''Megaera'''
+|"Sí, yo diría que está bastante mal."
+|-
+! colspan="2" |Fury No Darkness Reaction 01
+|-
+|'''Megaera'''
+|"Te noto distinto, Zagreo. Tu debilidad de antaño. ''Ah... ''el Espejo. Creía que no pretendías competir conmigo."
+|-
+|'''Zagreus'''
+|"Y no lo pretendía. Pero me diste una buena idea. No soy tan débil como antes. Con o sin la ayuda del Espejo."
+|-
+|'''Megaera'''
+|"No me digas. Bueno, veamos si tienes razón. Venga."
+|-
+! colspan="2" |Fury About Persephone Meeting 01
+|-
+|'''Megaera'''
+|"He oído que escapaste. Entonces... ¿qué haces aún aquí? ¿Olvidaste algo por el camino?"
+|-
+|'''Zagreus'''
+|"¿Sabes...? Ahora mismo, creo que prefiero luchar a muerte contigo antes que responder a cualquiera de esas preguntas."
+|-
+|'''Megaera'''
+|"No se que estás tramando, Zagreo. Pero te aseguro que no me importa en absoluto. Todo lo que importa es que no pasarás de aquí."
+|-
+! colspan="2" |Fury Post Ending 01
+|-
+|'''Megaera'''
+|"Tu madre ha vuelto con nosotros, Zagreo, y aun así te empeñas en seguir luchando para huir, combatiendo contra mí y contra todo lo que te cruzas ahí arriba. ¿Por qué?"
+|-
+|'''Zagreus'''
+|"Padre dice que nadie puede huir de aquí, y me encanta demostrarle que se equivoca una y otra vez. Además, creo que salir de aquí de vez en cuando me está haciendo bien."
+|-
+|'''Megaera'''
+|"Parece que has encontrado un buen oficio al que dedicarte. La mayoría de trabajos solo necesitan alguien que los haga, así que si esto te llena, sigue con ello. Ahora, volvamos a lo nuestro."
+|-
+! colspan="2" |Fury About Epilogue Reunion Quest 01
+|-
+|'''Megaera'''
+|"¿Qué tramas ahora, Zagreo? La reina ha vuelto y, sin embargo, sigues apareciendo por aquí."
+|-
+|'''Zagreus'''
+|"Tengo asuntos que tratar con los dioses del Olimpo, pasaba por aquí y pensé en saludarte. ¡Hola, Meg!"
+|-
+|'''Megaera'''
+|"No me tomes el pelo. Si apareces aquí, luchamos y uno de los dos muere. Punto. ¿Quién será esta vez?"
+|-
+! colspan="2" |Fury Post Intermission 01
+|-
+|'''Megaera'''
+|"Últimamente nos vemos un montón, ¿eh? ¿No te has hartado de mí aún, Zag?"
+|-
+|'''Zagreus'''
+|"Nunca es suficiente, Meg. ¿Lista pues para otra ronda?"
+|-
+|'''Megaera'''
+|"Siempre, aunque me gusta evitar la monotonía, así que... ¡sorpréndeme!"
+|-
+! colspan="2" |Fury Encounter Story Progress 01
+|-
+|'''Megaera'''
+|"Escúchame, Zagreo. Tu madre hace mucho que se fue. Jamás vas a salir de aquí. Y aunque lo hicieras, ¿qué esperanza tienes de encontrarla en el mundo de ahí arriba?"
+|-
+|'''Zagreus'''
+|"Tengo bastantes esperanzas. Pero tampoco es que sea asunto tuyo."
+|-
+|'''Megaera'''
+|"Tu familia está aquí, y también tus responsabilidades. Estás huyendo de ti mismo. Aun así, creo que puedo frenar tu huida."
+|-
+! colspan="2" |Fury Encounter Gun Weapon 01
+|-
+|'''Megaera'''
+|"''¿Qué...? ''¿De dónde has sacado el cañón? ¿Sabes lo que tienes entre manos? ¿Dónde están tus armas de siempre?"
+|-
+|'''Zagreus'''
+|"Las he dejado en casa. Y más o menos sé lo que tengo, pues es responsable en gran medida de que haya llegado tan lejos. ¿Quieres una demostración?"
+|-
+|'''Megaera'''
+|"Sí, quiero. De hecho, siempre he querido."
+|-
+! colspan="2" |Fury Encounter Fist Weapon 01
+|-
+|'''Megaera'''
+|"¿Qué llevas ahí, Zagreo? Dime que no has robado los artefactos más peligrosos e inestables sellados en la cámara acorazada de tu padre."
+|-
+|'''Zagreus'''
+|"''Eh'', no los he robado yo, si eso te tranquiliza, Meg."
+|-
+|'''Megaera'''
+|"Eres un bobo sin remedio. No tienes ni la menor idea de lo que estás haciendo con esas cosas. Devuélvelas a su sitio, pero ya."
+|-
+! colspan="2" |Fury About Dusa Firing 01
+|-
+|'''Megaera'''
+|"¿De verdad... Nicte ha echado a Dusa?"
+|-
+|'''Zagreus'''
+|"Sí, lo ha hecho... Así que te has enterado. No sé qué ha pasado. ¿No pudiste despedirte?"
+|-
+|'''Megaera'''
+|"No. Maldita sea... Espero que no hayas tenido nada que ver con esto. Bueno, aunque no haya sido así, ¡ven a morir!"
+|-
+! colspan="2" |Fury Pact Reaction 03
+|-
+|'''Megaera'''
+|"¿Qué has hecho con el Pacto, Zagreo? Esto ni siquiera son los Asfódelos y no aguanto el calor. ¿De verdad tienes tantas ganas de morir?"
+|-
+|'''Zagreus'''
+|"Aprecio tu preocupación, pero me apetecía un desafío, Meg. ¡Te aconsejo que lo pruebes tú también alguna vez!"
+|-
+|'''Megaera'''
+|"Deberías tener cuidado al abrir esa bocaza. Si buscas una muerte rápida y dolorosa, la tendrás ipso facto."
+|-
+! colspan="2" |Fury First Appearance First Run
+|-
+|'''Megaera'''
+|"Alto, Zagreo. Ni un paso más."
+|-
+|'''Zagreus'''
+|"Venga, Meg. ¿No estamos ya hartos el uno del otro? Además, ¿no tendrías que estar en otro sitio?"
+|-
+|'''Megaera'''
+|"Sabes exactamente por qué estoy aquí. Ahora, cierra la boca y muere como un hombre."
+|-
+! colspan="2" |Fury First Appearance
+|-
+|'''Megaera'''
+|"Me envía tu padre. Básicamente, prefiero estar a malas contigo que con él. Puedes darte la vuelta como un buen chico o puedo enviarte a casa por la vía dolorosa. ¿Qué eliges?"
+|-
+|'''Zagreus'''
+|"Tendré que probar con la vía dolorosa."
+|-
+|'''Megaera'''
+|"Somos tal para cual."
+|-
+! colspan="2" |Fury Encounter Story Progress 02
+|-
+|'''Megaera'''
+|"Dime, Zag. Siento curiosidad. ¿Saben tus parientes del Olimpo el verdadero motivo por el que quieres escapar?"
+|-
+|'''Zagreus'''
+|"Ya habrá tiempo para eso. Son familia. Sin duda, lo comprenderán."
+|-
+|'''Megaera'''
+|"Esto te supera, idiota. Acabarás con los pocos lazos que aún mantiene Hades con esos ingratos del Olimpo."
+|-
+! colspan="2" |Fury About Being Close 01
+|-
+|'''Megaera'''
+|"Las cosas no pueden cambiar del todo entre tú y yo. Lo sabes, ¿verdad? Al menos, no en lo que respecta a esto."
+|-
+|'''Zagreus'''
+|"Lo sé. No seríamos profesionales consumados si fuera de otro modo. No piensas tratarme con delicadeza, ¿verdad?"
+|-
+|'''Megaera'''
+|"Ignoraré que me has preguntado eso. ¡Venga, atácame con todas tus fuerzas!"
+|-
+! colspan="2" |Fury About Being Close 02
+|-
+|'''Megaera'''
+|"¿Qué pasa, Zagreo? Tienes esa mirada autocomplaciente que solo puede significar que quieres decirme algo repulsivo."
+|-
+|'''Zagreus'''
+|"¡Yo ''nunca ''haría eso! Simplemente, me agrada verte, Meg. Por eso tengo esta sonrisa que no puedo esconder. Al fin y al cabo, podría haberse tratado de una de tus adorables hermanas..."
+|-
+|'''Megaera'''
+|"No me pillarás desprevenida tan fácilmente. Mis hermanas me lo recordarían por los siglos de los siglos."
+|-
+! colspan="2" |Fury About Persephone Meeting 02
+|-
+|'''Megaera'''
+|"¿A dónde te crees que vas, Zagreo?"
+|-
+|'''Zagreus'''
+|"Pues a la superficie de nuevo, Meg. A ver a mi madre. No me vas a detener, así que apártate de mi camino."
+|-
+|'''Megaera'''
+|"Ambos sabemos que eso no va a pasar. Lo de apartarme de tu camino, quiero decir."
+|-
+! colspan="2" |Fury About Persephone Meeting 03
+|-
+|'''Megaera'''
+|"Tu madre, Zagreo. ¿Acaso crees de veras que la encontrarás de nuevo ahí afuera? Incluso si consiguieras salir... quizá se haya buscado otro sitio donde esconderse."
+|-
+|'''Zagreus'''
+|"No es de nosotros de quien se oculta. Padre la dejó marchar, nunca quiso perseguirla. Así que aprecio tu preocupación, pero voy a encontrarla de nuevo."
+|-
+|'''Megaera'''
+|"Eso parece información que ninguno de los dos querría que poseyera. Conoces el castigo por desvelar secretos, ¿no es así?"
+|-
+! colspan="2" |Fury Run Cleared Reaction 02
+|-
+|'''Megaera'''
+|"¿Qué estás haciendo, Zagreo? El Inframundo está cerrado a cal y canto. Intentas lo imposible. Ya has visto lo que ocurre cuando llegas demasiado lejos."
+|-
+|'''Zagreus'''
+|"Este lugar no puede seguir cerrado para siempre, Meg. Mientras tanto, se me había ocurrido practicar un poco. Ya sabes..."
+|-
+|'''Megaera'''
+|"No soy tu muñeco de práctica, necio."
+|-
+! colspan="2" |Fury Story Progress 01
+|-
+|'''Megaera'''
+|"¿Te puedo ayudar en algo, Zagreo?"
+|-
+|'''Zagreus'''
+|"Ahora que lo dices, Meg, sí. Me pregunto de qué estabas hablando con mi padre en casa."
+|-
+|'''Megaera'''
+|"¿Otra vez espiando? Pues si tanto te pica la curiosidad, están revisando mi productividad. Aunque estoy segura de que esta vez irá todo bien."
+|-
+! colspan="2" |Fury Story Progress 02
+|-
+|'''Megaera'''
+|"Espero de verdad que disfrutes estos encuentros conmigo mientras puedas. Yo lo hago."
+|-
+|'''Zagreus'''
+|"No seas pájaro de mal agüero, Meg. ¿Te importa explicarlo de forma que lo entienda hasta un idiota como yo?"
+|-
+|'''Megaera'''
+|"Hades se está planteando otras opciones. Ya no confía en mi capacidad para detenerte. Aunque puede que no sea demasiado tarde para que cambie de opinión."
+|-
+! colspan="2" |Fury Run Progress 01
+|-
+|'''Megaera'''
+|"Cuánto tiempo, Zagreo. Debes de haber llegado bastante lejos la última vez. Veamos... ¿el borde exterior de los Asfódelos?"
+|-
+|'''Zagreus'''
+|"Sí, el borde exterior de los Asfódelos. Y permíteme que te diga, Meg, que eres toda una belleza en comparación con la maldita Hidra Calavérica que tienen allí."
+|-
+|'''Megaera'''
+|"Qué halagador. Compararme con el cadáver de un lagarto XL sin cerebro. Ven, a lo mejor consigo matarte tan fácilmente como tu nueva amiga, la Hidra."
+|-
+! colspan="2" |Fury Run Progress 02
+|-
+|'''Megaera'''
+|"¿Cuántas veces hemos hecho esto, Zagreo? ¿Aún no te has cansado de mí?"
+|-
+|'''Zagreus'''
+|"Los dos somos inmortales, Meg. Nos seguiremos viendo durante mucho tiempo. He llegado a apreciar estos momentos."
+|-
+|'''Megaera'''
+|"Bien, entonces. Prefiero lacerarte la cara a quedarme esperando la oportunidad de hacerlo. Ven."
+|-
+! colspan="2" |Fury Run Progress 03
+|-
+|'''Megaera'''
+|"Ya me he enterado. Has cruzado el río de fuego. No me lo puedo creer."
+|-
+|'''Zagreus'''
+|"Esa hidra era una auténtica bastarda. O bastarda''s''. De todas formas, ¡hablas como si hubiera conseguido impresionarte, Meg! ¡Me siento halagado!"
+|-
+|'''Megaera'''
+|"Pronto sentirás otra cosa. No sé cómo lo has hecho, pero eso no cambia nada."
+|-
+! colspan="2" |Fury Run Progress 04
+|-
+|'''Megaera'''
+|"Qué desagradable... He hecho cuentas, Zagreo, y parece que he perdido 50 veces ya contra ti. Como poco. ¿Te lo puedes creer? ''Agh'', qué bajo he caído."
+|-
+|'''Zagreus'''
+|"No seas tan dura contigo misma, Meg. Cuando mueres decenas de veces, empiezas a acostumbrarte al dolor emocional, además del físico. ¿Qué, lista para un poco más de ambos?"
+|-
+|'''Megaera'''
+|"¡Pues claro! ¿Quién te crees que soy? Aunque supongo que no tiene sentido seguir llevando la cuenta contigo."
+|-
+! colspan="2" |Fury Run Progress 05
+|-
+|'''Megaera'''
+|"¿Sabes cuántas veces me has derrotado aquí, Zagreo? ¿Te lo imaginas siquiera?"
+|-
+|'''Zagreus'''
+|"''Eh''... Parece que un montón, la verdad. A ver, llevamos zurrándonos mucho tiempo. ¿Cuatrocientas doce veces...?"
+|-
+|'''Megaera'''
+|"Quinientas exactamente. Aunque me imagino que no has llevado la cuenta de las veces que yo te he matado a ti. ''Agh'', a lo mejor ese es mi problema. En fin, ya tendré tiempo de pensarlo después de esto."
+|-
+! colspan="2" |Fury About Alecto 01
+|-
+|'''Megaera'''
+|"Has derrotado a Alecto, Zag. He oído cómo se desgañitaba camino del Tártaro… Casi que te daría las gracias."
+|-
+|'''Zagreus'''
+|"Casi que te diría que no hay de qué. ¿Siempre os habéis llevado así de mal?"
+|-
+|'''Megaera'''
+|"Hemos tenido nuestras diferencias toda la vida. La familia saca lo peor de la gente. Ya sabes a qué me refiero."
+|-
+! colspan="2" |Fury About Tisiphone 01
+|-
+|'''Megaera'''
+|"''Um''. Ni siquiera Tisífone ha podido detenerte. Tu padre debe estar sumamente decepcionado."
+|-
+|'''Zagreus'''
+|"Resulta difícil complacerlo, eso es cierto. De todas formas, ¿qué le pasó a Tisífone? No es muy habladora que digamos."
+|-
+|'''Megaera'''
+|"Es cosa de familia. Solo se preocupa por su trabajo. Es importante mantener cierta distancia profesional."
+|-
+! colspan="2" |Fury About Sisyphus 01
+|-
+|'''Megaera'''
+|"Si hay alguien en el Inframundo que te debe una, Zagreo, es tu amigo Sísifo. Le iría mucho peor si no fuese por ti."
+|-
+|'''Zagreus'''
+|"¿Por qué? ¿Porque te he estado distrayendo y no has podido darle los azotes de siempre? No me gustaría pensar que prefieres propinar latigazos sin miedo a represalias, Meg."
+|-
+|'''Megaera'''
+|"Abandonar el deber y temer las represalias no es lo mismo. Aunque a ti no parece preocuparte ninguna de las dos cosas."
+|-
+! colspan="2" |Fury No Hammer Reaction 01
+|-
+|'''Megaera'''
+|"Esa arma tuya parece algo mellada, Zagreo. ¿Acaso el gran Dédalo no te ha concedido sus dones esta vez?"
+|-
+|'''Zagreus'''
+|"Pues ahora que lo dices, no, no lo ha hecho. Aunque me atrevería a decir que no necesito mejoras especiales para derrotarte."
+|-
+|'''Megaera'''
+|"Oh, pues podemos poner a prueba tu teoría ahora mismo. Aunque estoy segura de que te habría hecho falta toda la ayuda que hubieras podido conseguir."
+|-
+! colspan="2" |Fury Darkness Reaction 01
+|-
+|'''Megaera'''
+|"El Espejo te ha hecho más fuerte, Zagreo. Tienes suerte de que Nicte te esté ayudando."
+|-
+|'''Zagreus'''
+|"Sin resentimientos. Creo que, en parte, se considera responsable de todo esto."
+|-
+|'''Megaera'''
+|"No debería. El único responsable eres tú. Y yo que creía que ya lo habrías comprendido."
+|-
+! colspan="2" |Fury Pact Reaction 01
+|-
+|'''Megaera'''
+|"''Tss''. No me lo puedo creer. Has firmado el Pacto de Castigo. ¿Has perdido el juicio por completo? ¿O solo pretendes insultarme?"
+|-
+|'''Zagreus'''
+|"Bueno, si te lo vas a tomar tan mal, ¿tal vez las dos cosas? Pero bueno, ¿qué más te dan a ti los pactos que firmo o dejo de firmar?"
+|-
+|'''Megaera'''
+|"No soy idiota. Veo lo que estás haciendo. ¿Quieres que te castiguen? Acércate, pues."
+|-
+! colspan="2" |Fury Pact Reaction 01 B
+|-
+|'''Megaera'''
+|"''Tsss''. ¿De verdad has aceptado voluntariamente un Pacto de Castigo? Ahora no puedes echarte atrás. Eres más estúpido de lo que pensaba."
+|-
+|'''Zagreus'''
+|"A lo mejor es porque me gustan los desafíos. ¿Se te había ocurrido pensarlo? Además, ¿a ti que te importa qué pactos haya firmado o no?"
+|-
+|'''Megaera'''
+|"Tienes razón. ''No ''me importa. ¿Quieres castigo? Yo me encargo."
+|-
+! colspan="2" |Fury Pact Reaction 02
+|-
+|'''Megaera'''
+|"Estaba deseando tener una lucha más justa contigo. ¿A lo mejor has firmado el Pacto por eso? ¿Por lástima?"
+|-
+|'''Zagreus'''
+|"Tengo mis motivos. Y la lástima no es uno de ellos. Aunque supongo que no me vas a creer, ¿no?"
+|-
+|'''Megaera'''
+|"Si lo que buscas es castigo, ¡cómo podría negarme!"
+|-
+! colspan="2" |Fury Pact Reaction 02 B
+|-
+|'''Megaera'''
+|"Sabes que mis golpes serán aún más potentes con el Pacto de Castigo en tu contra. ¿Quizá por eso lo firmaste? ¿Por lástima?"
+|-
+|'''Megaera'''
+|"Pues no, no te creo. Adelante, veamos de qué te sirve sentir lástima por nadie."
+|-
+! colspan="2" |Fury Pact Reaction 04
+|-
+|'''Megaera'''
+|"Creo que esto va a acabar muy pronto. Zag. Nunca pensé que te fuese eso de las horas extra obligatorias, es una condición de pacto no apta para cardíacos."
+|-
+|'''Zagreus'''
+|"¡Eso me ha dolido, Meg! Sabes que me gusta lanzarme a lo loco y sin pensarlo en todo tipo de situaciones, y luego las soluciono. ¡Las horas extra obligatorias me van que ni pintadas!"
+|-
+|'''Megaera'''
+|"''Ah'', vale, visto de ese modo... Mira, luego no digas que no te avisé."
+|-
+! colspan="2" |Fury Chaos Reaction 01
+|-
+|'''Megaera'''
+|"Un momento, Zagreo. Percibo algo. ¿Es…? ''Ah''. Has estado en contacto con Caos. Así que se ha involucrado en esto."
+|-
+|'''Zagreus'''
+|"Que Caos me haya dado el poder para aplastarte no quiere decir que se haya involucrado, ¿no te parece?"
+|-
+|'''Megaera'''
+|"No sabes con quién ni con qué estás tratando. Pregúntale a Nicte cuando puedas. Venga, te daré la oportunidad de preguntárselo muy pronto."
+|-
+! colspan="2" |Fury Thanatos Reaction 01
+|-
+|'''Megaera'''
+|"Sé que Tánatos te ha ayudado a llegar hasta aquí. No me gusta que interfiera."
+|-
+|'''Zagreus'''
+|"Estoy seguro de que podrás decírselo cuando vuelvas a casa."
+|-
+|'''Megaera'''
+|"Controla a las sombras miserables, pero su poder no me afecta. Ni el tuyo tampoco."
+|-
+! colspan="2" |Fury Thanatos Reaction 02
+|-
+|'''Megaera'''
+|"Aún no me puedo creer que Tánatos te esté ayudando. Creía que se podía contar con su integridad."
+|-
+|'''Zagreus'''
+|"Creías que era alguien que seguía órdenes ciegamente sin pensar en las consecuencias."
+|-
+|'''Megaera'''
+|"¿Cómo te atreves…? Si tanto te gusta la muerte, deja que te dé el gustazo. Tánatos te dará la bienvenida con los brazos abiertos."
+|-
+! colspan="2" |Fury High Relationship 01
+|-
+|'''Megaera'''
+|"Príncipe Zagreo, estás excediendo los límites de tu autoridad. Tengo la orden de detenerte."
+|-
+|'''Zagreus'''
+|"Vamos, Meg, ¿por qué te pones tan formal de repente? Ya hemos hecho esto incontables veces. Espera... ¿es porque...?"
+|-
+|'''Megaera'''
+|"Venga, Zag, ¿por qué no me sigues el juego por una vez? Ven y lucha conmigo poniéndole ganas."
+|-
+! colspan="2" |Fury High Relationship 02
+|-
+|'''Megaera'''
+|"¿Qué pasa, Zagreo? Pareces no tener ganas de zurrarte conmigo otra vez. ¿O es mi imaginación?"
+|-
+|'''Zagreus'''
+|"Es solo que... ¿de verdad podemos mantener separada nuestra vida personal de la profesional, Meg? Cuando combato contigo a muerte, me siento confuso emocionalmente y luego me alegro de verte otra vez en la morada."
+|-
+|'''Megaera'''
+|"Entonces aprende a mantener a raya tus emociones. Reprímelas un rato, así serán más fuertes cuando llegue el momento de dejarlas salir."
+|-
+! colspan="2" |Fury Encounter Fist Weapon 02
+|-
+|'''Megaera'''
+|"Bonitos guantes, Zagreo. ¿Crees que puedes enfrentarte a mí de cerca con eso? Bueno, tan cerca como llegue mi látigo."
+|-
+|'''Zagreus'''
+|"No los llevo como complemento de moda, Meg. No te importa si pruebo a derrotarte con Malfon, ¿verdad?"
+|-
+|'''Megaera'''
+|"Me importaría que no lo hicieses. Si quieres ensuciarte las manos, por mí bien. Adelante."
+|-
+! colspan="2" |Fury About Weapon Enchantments 01
+|-
+|'''Megaera'''
+|"¿Qué le ha pasado a tu arma, Zagreo? He percibido su poder mucho antes de que llegases. No se trata de una simple mejora de Dédalo."
+|-
+|'''Zagreus'''
+|"Oh, Estigiana y yo hemos estrechado lazos últimamente. ¿Quieres ver el fruto de nuestra armoniosa relación simbiótica?"
+|-
+|'''Megaera'''
+|"¿Tú, en una relación armoniosa? Sí, eso hay que verlo."
+|-
+! colspan="2" |Fury Keepsake Reaction 01
+|-
+|'''Megaera'''
+|"Bonito pendiente, Zagreo. Quizá debería habérmelo pensado mejor antes de darte algo así."
+|-
+|'''Zagreus'''
+|"¿Por qué? ¿Porque el regalo que me diste con tanta generosidad acabó siendo crucial para tu derrota? Suena como esas historias que los mortales van contando por ahí."
+|-
+|'''Megaera'''
+|"Les encanta cuando los planes mejor elaborados se desmoronan, ¿verdad? Pues mejor que te vaya gustando a ti también."
+|-
+! colspan="2" |Fury Thanatos Keepsake Reaction 01
+|-
+|'''Megaera'''
+|"Siento los dones de la muerte en ti, Zagreo. ¿Qué es? ¿Algo de Tánatos, verdad?"
+|-
+|'''Zagreus'''
+|"¿Oh, esta baratija? Una mariposa insignificante que me dio Tan, y que resulta que me llena de aún más fuerza sobrenatural de lo habitual. No le hagas caso."
+|-
+|'''Megaera'''
+|"Ni siquiera Tánatos puede ayudarte aquí, pero si alguna vez empiezo una colección de bichos, ya sé a quién llamar."
+|-
+! colspan="2" |Fury Legendary Keepsake Reaction 01 B
+|-
+|'''Megaera'''
+|"Sabes que Battie no va a servirte de nada aquí, ¿verdad? Y desde luego que no pienso ayudarte esta vez."
+|-
+|'''Zagreus'''
+|"Venga, Meg, sabes que puedes hacer lo que quieras cuando te lo propones. Pero no te preocupes; Battie ha venido a ver el espectáculo, nada más."
+|-
+|'''Megaera'''
+|"Pues hagamos que sea uno de los buenos. Venga."
+|-
+! colspan="2" |Fury Legendary Keepsake Reaction 01
+|-
+|'''Megaera'''
+|"Esa acompañante quiróptera no es demasiado para ti, ¿verdad, Zagreo? Espero que estés cuidando bien de ella, aunque no es que le haga falta tu ayuda."
+|-
+|'''Zagreus'''
+|"Oh, la verdad es que está perfectamente. Gracias, Meg. Sobre todo, sigue haciendo muy bien eso de ponernos en contacto cuando necesito una ayudita. Espero que no sea ninguna molestia que te llame de vez en cuando, ¿o sí lo es?"
+|-
+|'''Megaera'''
+|"Si quieres evitar las molestias, sin duda has venido al lugar equivocado."
+|-
+! colspan="2" |Fury Low Health 01
+|-
+|'''Megaera'''
+|"Mírate, Zagreo. Estás hecho un asco. Medio muerto o peor. Me lo pones demasiado fácil."
+|-
+|'''Zagreus'''
+|"La verdad es que no ha sido un camino de rosas, Meg. ¿Te importa si esta vez nos lo tomamos con calma?"
+|-
+|'''Megaera'''
+|"Ni en la vida ni en la muerte. Pero al menos será rápido. ¿Qué te parece?"
+|-
+! colspan="2" |Fury Low Health 02
+|-
+|'''Megaera'''
+|"Estás herido, Zagreo. Qué poco adecuado para un dios. Por no mencionar que así tengo las de ganar."
+|-
+|'''Zagreus'''
+|"Pensé en darte algo de ventaja esta vez, así que he dejado que las sombras miserables me apaleen una y otra vez por el camino."
+|-
+|'''Megaera'''
+|"Necio. Si cuando llegas a mí ya estás medio muerto, ¿qué esperanzas tienes ante lo que te espera más adelante?"
+|-
+! colspan="2" |Fury Low Health 03
+|-
+|'''Megaera'''
+|"Parece que has tenido problemas para llegar hasta mí, Zagreo. ¿Has probado a pedir indicaciones por el camino?"
+|-
+|'''Zagreus'''
+|"Hablas igual que Hipnos. Te estás dejando influir por él, ¿verdad? ¡¿Verdad?!"
+|-
+|'''Megaera'''
+|"Cállate la boca ahora mismo. Ven a morir."
+|-
+! colspan="2" |Fury Low Health 04
+|-
+|'''Megaera'''
+|"No escaparás de la muerte esta vez, Zagreo. ¿Listo para volver a casa?"
+|-
+|'''Zagreus'''
+|"No, aún no, pero gracias por preguntar, Meg. Si quieres obligarme, que sepas que pienso resistirme con todas mis fuerzas."
+|-
+|'''Megaera'''
+|"Te agradezco el aviso. Y ahora, prepárate para morir."
+|-
+! colspan="2" |Fury Encounter 01
+|-
+|'''Megaera'''
+|"Testarudo como siempre, ¿eh? A lo mejor mi látigo te hace replantearte lo que estás haciendo."
+|-
+|'''Zagreus'''
+|"Tu látigo no ha sido demasiado convincente en otras ocasiones."
+|-
+|'''Megaera'''
+|"Tal vez la insistencia nos venga bien a los dos. Vamos, entonces."
+|-
+! colspan="2" |Fury Encounter 02
+|-
+|'''Megaera'''
+|"Y aquí estás otra vez. Hades debería encerrarte, en vez de dejarte corretear por sus dominios como un pollo sin cabeza."
+|-
+|'''Zagreus'''
+|"Seguro que te agradece todos tus comentarios, Meg. ¿O a lo mejor lo que pretendes es ocupar su lugar?"
+|-
+|'''Megaera'''
+|"No ansío el puesto de tu padre. Además, resulta que disfruto de mis responsabilidades."
+|-
+! colspan="2" |Fury Encounter 03
+|-
+|'''Megaera'''
+|"Oh, ahí estás. Justo ahora estaba pensando que hace mucho que no te mato, Zag."
+|-
+|'''Zagreus'''
+|"Reconócelo, Meg. No puedes dejar de pensar en mí."
+|-
+|'''Megaera'''
+|"No te eches flores. Pienso en tu dolor. Y ahora que estás aquí, ya no hace falta que me lo imagine."
+|-
+! colspan="2" |Fury Encounter 04
+|-
+|'''Megaera'''
+|"Bueno, Zag. ¿Alguna última petición antes de que te mande a casa?"
+|-
+|'''Zagreus'''
+|"Veamos... ¿Qué tal una muerte rápida y dolorosa? ¿Sería posible?"
+|-
+|'''Megaera'''
+|"Sé todo lo impertinente que quieras. Vas a recibir justo lo que has pedido. Ni más ni menos."
+|-
+! colspan="2" |Fury Win Streak 01
+|-
+|'''Megaera'''
+|"''Bah''. Y aquí estás otra vez. Veo que te cuesta aprender cómo son las cosas."
+|-
+|'''Zagreus'''
+|"Puede que tarde en aprender, ¡pero al menos soy bastante paciente!"
+|-
+|'''Megaera'''
+|"Tanta charla sobre tu paciencia está poniendo a prueba la mía. Basta. Ven y muere."
+|-
+! colspan="2" |Fury Win Streak 02
+|-
+|'''Megaera'''
+|"Déjalo ya, Zag. O tendré que seguir matándote cada vez que llegues hasta aquí."
+|-
+|'''Zagreus'''
+|"Te traigo malas noticias, Meg. Poco a poco, me voy haciendo más fuerte."
+|-
+|'''Megaera'''
+|"Puede que así sea, pero nunca estarás a mi altura. Jamás. Harías bien en recordarlo."
+|-
+! colspan="2" |Fury Win Streak 03
+|-
+|'''Megaera'''
+|"Jamás te dejaré pasar, Zagreo."
+|-
+|'''Zagreus'''
+|"Es posible, pero tal vez lo logre en esta ocasión."
+|-
+|'''Megaera'''
+|"Sigue diciéndote eso. A lo mejor te ayuda a no pensar en el dolor que vas a sufrir."
+|-
+! colspan="2" |Fury Lose Streak 01
+|-
+|'''Megaera'''
+|"Aunque consigas vencerme, no hay forma de salir de los Asfódelos. Ya has visto cómo es. ¿De verdad quieres volver ahí?"
+|-
+|'''Zagreus'''
+|"No se trata de lo que quiera. La salida está en esa dirección, pasado el río de fuego."
+|-
+|'''Megaera'''
+|"Eres más cabezota que tu padre. Nunca pensé que eso fuera posible."
+|-
+! colspan="2" |Fury Lose Streak 02
+|-
+|'''Megaera'''
+|"Por fin vuelves. No podrás superarme como hiciste la última vez. Aunque me gustaría verte intentarlo."
+|-
+! colspan="2" |Fury Pre Match High Affinity 01
+|-
+|'''Megaera'''
+|"Bueno, Zag. ¿Me concedes este baile por los viejos tiempos?"
+|-
+! colspan="2" |Fury Pre Match High Affinity 02
+|-
+|'''Megaera'''
+|"¿Estás listo esta vez, Zagreo? Acércate y lucha. No te contengas."
+|-
+! colspan="2" |Fury Pre Match High Affinity 03
+|-
+|'''Megaera'''
+|"Supongo que ya sabemos lo que toca, ¿no? La verdad es que, a mi manera, disfruto nuestras pequeñas discusiones."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 01
+|-
+|'''Megaera'''
+|"Está aquí. Alecto. Tis. A por él. Ahora."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 02
+|-
+|'''Megaera'''
+|"Preparaos, hermanas. Y tú también, Zag."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 03
+|-
+|'''Megaera'''
+|"Esta vez lucharemos juntas, hermanas. ¡Adelante!"
+|-
+! colspan="2" |Fury Sisters Union Repeatable 04
+|-
+|'''Megaera'''
+|"Alecto. Tisífone. Nuestro invitado ya está aquí."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 05
+|-
+|'''Megaera'''
+|"Ha llegado. Manos a la obra, hermanas."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 06
+|-
+|'''Megaera'''
+|"¿Y bien, hermanas? Tenemos una reputación que mantener."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 07
+|-
+|'''Megaera'''
+|"¿Listas, hermanas? Ahí está. A mi señal."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 09
+|-
+|'''Megaera'''
+|"Bien, hermanas. Vamos a darle una lección."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 10
+|-
+|'''Megaera'''
+|"Alecto, Tis, dejádmelo a mí. Cubridme las espaldas."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 11
+|-
+|'''Megaera'''
+|"Basta de cháchara, hermanas. A por él. Ahora."
+|-
+! colspan="2" |Fury Sisters Union Repeatable 12
+|-
+|'''Megaera'''
+|"Sin piedad, ni ahora ni nunca, erinias. ¡Al ataque!"
+|-
+! colspan="2" |Fury Sister Union Repeatable 01
+|-
+|'''Megaera'''
+|"¿Estás lista, hermana? Vamos a ocuparnos de él."
+|-
+! colspan="2" |Fury Sister Union Repeatable 02
+|-
+|'''Megaera'''
+|"Ven, hermana. A trabajar."
+|-
+! colspan="2" |Fury Sister Union Repeatable 03
+|-
+|'''Megaera'''
+|"Está aquí, hermana. Al ataque."
+|-
+! colspan="2" |Fury Sister Union Repeatable 04
+|-
+|'''Megaera'''
+|"Es él. Prepárate, hermana."
+|-
+! colspan="2" |Fury Sister Union Repeatable 05
+|-
+|'''Megaera'''
+|"Alecto y yo nos preguntábamos cuándo llegarías."
+|-
+! colspan="2" |Fury Sister Union Repeatable 07
+|-
+|'''Megaera'''
+|"¿Lo ves, Tisífone? Aquí está, como te dije."
+|-
+! colspan="2" |Fury Sister Union Repeatable 09
+|-
+|'''Megaera'''
+|"Vamos, hermana. Juntas, lo derrotaremos."
+|-
+! colspan="2" |Fury Sister Union Repeatable 10
+|-
+|'''Megaera'''
+|"En fin, hermana. Ya nos pondremos al día en otro momento."
+|-
+! colspan="2" |Fury Misc Start High Affinity 01
+|-
+|'''Megaera'''
+|"Ojalá no tuviéramos que hacer esto."
+|-
+! colspan="2" |Fury Misc Start High Affinity 02
+|-
+|'''Megaera'''
+|"¿Por qué tenemos que pelear siempre?"
+|-
+! colspan="2" |Fury Misc Start High Affinity 03
+|-
+|'''Megaera'''
+|"Es hora de una de esas peleas nuestras."
+|-
+! colspan="2" |Fury Misc Start High Affinity 04
+|-
+|'''Megaera'''
+|"Estaba deseando que aparecieras."
+|-
+! colspan="2" |Fury Misc Start High Affinity 05
+|-
+|'''Megaera'''
+|"Ya que estás aquí, ¿te apetece bailar un poco?"
+|-
+! colspan="2" |Fury Misc Start High Affinity 06
+|-
+|'''Megaera'''
+|"¿Y si probamos una vez más? Por los viejos tiempos."
+|-
+! colspan="2" |Fury Misc Start High Affinity 07
+|-
+|'''Megaera'''
+|"¿Estás listo, Zagreo?"
+|-
+! colspan="2" |Fury Misc Start High Affinity 08
+|-
+|'''Megaera'''
+|"Y yo que me preguntaba cuándo ibas a aparecer."
+|-
+! colspan="2" |Fury Misc Start High Affinity 09
+|-
+|'''Megaera'''
+|"Por fin llega. El príncipe en persona."
+|-
+! colspan="2" |Fury Misc Start Win Streak 01
+|-
+|'''Megaera'''
+|"¿Has venido a que te mate de nuevo?"
+|-
+! colspan="2" |Fury Misc Start Win Streak 02
+|-
+|'''Megaera'''
+|"Te maté la última vez y volveré a hacerlo."
+|-
+! colspan="2" |Fury Misc Start Win Streak 03
+|-
+|'''Megaera'''
+|"¿Deduzco que quieres morir otra vez?"
+|-
+! colspan="2" |Fury Misc Start Win Streak 04
+|-
+|'''Megaera'''
+|"Parece que aún no has aprendido la lección."
+|-
+! colspan="2" |Fury Misc Start Win Streak 05
+|-
+|'''Megaera'''
+|"Espero que esta vez resultes más peligroso."
+|-
+! colspan="2" |Fury Misc Start Win Streak 06
+|-
+|'''Megaera'''
+|"Parece que no aprendes. Acércate y muere, pues."
+|-
+! colspan="2" |Fury Misc Start Win Streak 07
+|-
+|'''Megaera'''
+|"No te dejaré pasar, Zagreo."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 01
+|-
+|'''Megaera'''
+|"Jamás me haré a un lado por ti."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 02
+|-
+|'''Megaera'''
+|"He vuelto de nuevo y seguiré haciéndolo."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 03
+|-
+|'''Megaera'''
+|"Tendrás que pasar por encima de mi cadáver."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 04
+|-
+|'''Megaera'''
+|"Jamás retrocederé ante ti."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 05
+|-
+|'''Megaera'''
+|"Supongo que ya sabes cómo va a acabar esto."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 06
+|-
+|'''Megaera'''
+|"He jurado enfrentarme a ti, Zagreo."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 07
+|-
+|'''Megaera'''
+|"Seguiré volviendo, igual que tú."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 08
+|-
+|'''Megaera'''
+|"No me haré a un lado por ti, Zagreo."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 09
+|-
+|'''Megaera'''
+|"No sé si puedo seguir deteniéndote, pero puedo frenarte."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 10
+|-
+|'''Megaera'''
+|"Me vengaré por lo que hiciste la última vez."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 11
+|-
+|'''Megaera'''
+|"En uno de estos encuentros, bajarás la guardia y te mataré de nuevo por los viejos tiempos."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 12
+|-
+|'''Megaera'''
+|"Aunque no pueda detenerte... puedo darte una tunda, eso seguro."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 13
+|-
+|'''Megaera'''
+|"Permíteme que te diga, Zag, que llevo mucho tiempo esperando la revancha."
+|-
+! colspan="2" |Fury Misc Start Lose Streak 14
+|-
+|'''Megaera'''
+|"Casi he perdido la cuenta de cuántas veces seguidas me has derrotado, Zag..."
+|-
+! colspan="2" |Fury Misc Start 01
+|-
+|'''Megaera'''
+|"Sabía que aparecerías."
+|-
+! colspan="2" |Fury Misc Start 02
+|-
+|'''Megaera'''
+|"Justo a tiempo."
+|-
+! colspan="2" |Fury Misc Start 03
+|-
+|'''Megaera'''
+|"Dejémonos de charla, Zag."
+|-
+! colspan="2" |Fury Misc Start 04
+|-
+|'''Megaera'''
+|"Veo que te animas a otra pelea."
+|-
+! colspan="2" |Fury Misc Start 05
+|-
+|'''Megaera'''
+|"¿Y si nos ponemos manos a la obra?"
+|-
+! colspan="2" |Fury Misc Start 06
+|-
+|'''Megaera'''
+|"¿Estás listo, Zagreo?"
+|-
+! colspan="2" |Fury Misc Start 07
+|-
+|'''Megaera'''
+|"Ven y demuéstrame de qué eres capaz."
+|-
+! colspan="2" |Fury Misc Start 08
+|-
+|'''Megaera'''
+|"Vamos, pues, Zagreo."
+|-
+! colspan="2" |Fury Misc Start 09
+|-
+|'''Megaera'''
+|"Estoy preparada, Zag."
+|-
+! colspan="2" |Fury Misc Start 10
+|-
+|'''Megaera'''
+|"Ni un paso más, Zag."
+|-
+! colspan="2" |Fury Misc Start 11
+|-
+|'''Megaera'''
+|"No puedo dejar que te marches sin luchar."
+|-
+! colspan="2" |Fury Misc Start 12
+|-
+|'''Megaera'''
+|"¿Otra vez?"
+|-
+! colspan="2" |Fury Misc Start 13
+|-
+|'''Megaera'''
+|"¿Has vuelto a hacer todo ese camino solo para verme?"
+|-
+! colspan="2" |Fury Misc Start 14
+|-
+|'''Megaera'''
+|"En guardia, Zagreo."
+|-
+! colspan="2" |Fury Misc Start 15 A
+|-
+|'''Megaera'''
+|"Tengo que reconocerte que, a veces, eres rápido."
+|-
+! colspan="2" |Fury Misc Start 15
+|-
+|'''Megaera'''
+|"Alto, Zagreo. Ni un paso más."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 01
+|-
+|'''Megaera'''
+|"¿Te apetece otro combate conmigo, Zagreo?"
+|-
+! colspan="2" |Fury Misc Start Max Relationship 02
+|-
+|'''Megaera'''
+|"A ver si puedes superarme."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 03
+|-
+|'''Megaera'''
+|"Sin resentimientos, Zagreo. Y no te cortes ni un pelo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 04
+|-
+|'''Megaera'''
+|"¿Sabes lo que me gusta de ti? Que siempre llegas a tiempo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 06
+|-
+|'''Megaera'''
+|"Espero que esta vez estés listo, Zagreo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 07
+|-
+|'''Megaera'''
+|"No pienses que voy a andarme con chiquitas."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 08
+|-
+|'''Megaera'''
+|"Sabes que son gajes del oficio, ¿verdad?"
+|-
+! colspan="2" |Fury Misc Start Max Relationship 09
+|-
+|'''Megaera'''
+|"Espero que te dejes la piel, Zagreo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 10
+|-
+|'''Megaera'''
+|"Como se te ocurra dejarme ganar, te mato."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 11
+|-
+|'''Megaera'''
+|"No te contengas, Zagreo. Aquí no."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 12
+|-
+|'''Megaera'''
+|"Como verás, no me canso de pelear contigo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 13
+|-
+|'''Megaera'''
+|"Sabes que no puedo dejar que te marches sin luchar."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 14
+|-
+|'''Megaera'''
+|"De aquí no te vas sin concederme un bailecito."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 15
+|-
+|'''Megaera'''
+|"Nada de lo que hagas me hará daño. Aunque me gustaría verte intentarlo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 16
+|-
+|'''Megaera'''
+|"Empiezan a gustarme estas citas contigo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 17
+|-
+|'''Megaera'''
+|"Adelante, Zag. Lánzame tu mejor ataque."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 18
+|-
+|'''Megaera'''
+|"¿Me quieres, Zagreo? Pues ven a por mí."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 19
+|-
+|'''Megaera'''
+|"Tienes algo bueno, Zag: nunca me haces esperar demasiado."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 20
+|-
+|'''Megaera'''
+|"Qué bien te veo, Zag. A ver si te puedo dejar más guapo."
+|-
+! colspan="2" |Fury Misc Start Max Relationship 21
+|-
+|'''Megaera'''
+|"No hay placer sin dolor, ¿verdad, Zagreo?"
+|-
+! colspan="2" |Fury 2 Sister Union With Meg 01
+|-
+|'''Alecto'''
+|"¡Pero ''míralo''! Esa cara de engreído, esa pose, ¡''todo''! Dime que no te está ablandando el corazón ese dios de la basura, hermana."
+|-
+|'''Megaera'''
+|"Vamos, Alecto. ¿Cuándo fue la última vez que una de nosotras pidió su aprobación a las demás? Y si conseguimos matarlo, ¿qué más te da?"
+|-
+|'''Alecto'''
+|"¿Sabes qué? Tienes razón, hermana, bien dicho. ''¡Matémoslo ya!''"
+|-
+! colspan="2" |Fury 2 Sister Union With Meg 02
+|-
+|'''Alecto'''
+|"Mira este pedazo de basura, vuelve a desangrarse en nuestro bonito suelo recién pulido. ¿Listo para luchar contra mi adorable hermana, sangre roja?"
+|-
+|'''Megaera'''
+|"Una vez que lo conoces no está tan mal, hermana. Aunque para lo que le vamos a hacer, no importa."
+|-
+|'''Alecto'''
+|"Me dais asco los dos, Meg, ¿lo sabías? ¡Recupera la compostura y ''mátalo ''esta vez, maldita sea!"
+|-
+! colspan="2" |Achilles With Megaera 01
+|-
+|'''Megaera'''
+|"¿Qué escondes ahí, sombra? Parece un artículo de contrabando."
+|-
+|'''Achilles'''
+|"Lo es, señora. Me alegro de haberte visto. Así quizá puedas ayudarme a deshacerme de él."
+|-
+|'''Megaera'''
+|"Hagámoslo inmediatamente, antes de que su presencia haga saltar las alarmas en la morada."
+|-
+! colspan="2" |Achilles With Megaera 02
+|-
+|'''Megaera'''
+|"Debe estar en el Elíseo, en alguna parte. ¿Adónde iba a ir si no?"
+|-
+|'''Achilles'''
+|"Me hago cargo, señora, pero… tenemos que atender otros asuntos, como… vaciar el contenido de este artículo de estraperlo."
+|-
+|'''Megaera'''
+|"Entiendo. Muy bien, pero algún día tendrás que enfrentarte a tus miedos. Te comportas como si no quisieras implicarte, pero ya es tarde para eso."
+|-
+! colspan="2" |Achilles With Megaera About Myrmidon Reunion Quest 01
+|-
+|'''Megaera'''
+|"¿Lo encontraste, a pesar de todo? ¿Y fue gracias a Zag? Qué suerte tienes, sombra..."
+|-
+|'''Achilles'''
+|"Mi señora, en verdad es más de lo que merezco. Aunque quizá es mejor que una sombra olvidada pueda reunirse con el resto de ellas. De este modo, no te causaré tantos problemas."
+|-
+|'''Megaera'''
+|"Bueno, si tus viajes te terminan alejando de esta morada... al fin y al cabo solo eres una sombra. Llegarán otras, pero... cuídate, ¿de acuerdo?"
+|-
+! colspan="2" |Achilles Chat With Megaera 01
+|-
+|'''Megaera'''
+|"Esa sombra me estaba contando batallitas de una famosa guerra del pasado."
+|-
+|'''Achilles'''
+|"Me temo que la mayoría de mis historias son sobre derramamientos de sangre, por un motivo u otro..."
+|-
+! colspan="2" |Achilles Chat With Megaera 02
+|-
+|'''Megaera'''
+|"La lanza es un arma útil en las manos adecuadas, pero no sirve de nada contra un látigo."
+|-
+|'''Achilles'''
+|"Debo admitir, señora, que no tengo suficiente experiencia con semejante arma como para refutar tal afirmación. Afortunadamente."
+|-
+! colspan="2" |Achilles Chat With Megaera 03
+|-
+|'''Megaera'''
+|"Pon otra botella cuando se termine esa, sombra."
+|-
+|'''Achilles'''
+|"¡Como digas, señora! Perdónanos, chaval."
+|-
+! colspan="2" |Thanatos With Megaera 01
+|-
+|'''Megaera'''
+|"… pero eso era antes. Hay que vivir en el ahora, y ahora tenemos trabajo… ''Uh'', en fin, Tan... Será mejor que retomemos esta charla en otro momento."
+|-
+|'''Thanatos'''
+|"Interrumpes una conversación privada, Zagreo. Márchate."
+|-
+|'''Megaera'''
+|"No, que se quede, si es lo que quiere. ¿Qué más da? Técnicamente, se le permite entrar en estas salas. Pero debe saber que ya no es bienvenido."
+|-
+! colspan="2" |Thanatos Chat With Megaera 01
+|-
+|'''Megaera'''
+|"Esto es una conversación privada. ¿Nos disculpas, Zag?"
+|-
+|'''Thanatos'''
+|"Nos vemos más tarde ahí fuera, Zagreo."
+|-
+! colspan="2" |Thanatos Chat With Megaera 02
+|-
+|'''Thanatos'''
+|"Me pillas poniéndome al día con Megera."
+|-
+|'''Megaera'''
+|"Justo hablábamos de ti, Zagreo."
+|-
+! colspan="2" |Thanatos Chat With Megaera 03
+|-
+|'''Megaera'''
+|"Vaya, pero si es nuestro amigo en común…"
+|-
+|'''Thanatos'''
+|"Disfruta de un momento de paz con nosotros, Zag."
+|-
+! colspan="2" |Thanatos Chat With Megaera 04
+|-
+|'''Megaera'''
+|"Estaba charlando con Tánatos, así que si nos disculpas..."
+|-
+|'''Thanatos'''
+|"Hablábamos de cosas del trabajo, Zagreo."
+|-
+! colspan="2" |Thanatos Chat With Megaera 05
+|-
+|'''Megaera'''
+|"Mira quién ha venido, Tan. Zagreo."
+|-
+|'''Thanatos'''
+|"Intercambiábamos impresiones de nuestros últimos cometidos."
+|-
+! colspan="2" |Thanatos Chat With Megaera 06
+|-
+|'''Megaera'''
+|"Nos pillas en plena conversación, Zag."
+|-
+! colspan="2" |Dusa With Megaera 01
+|-
+|'''Megaera'''
+|"… y entonces, esos siete miserables intentaron saltarse la cola procesional. ¿Te lo puedes creer? Qué cara más dura. Como si así fueran a conseguir una audiencia."
+|-
+|'''Dusa'''
+|"''Ja, ja, ja, ja'', menuda panda de peleles. ¿Cómo se les ocurrió colarse delante de ''ti''?"
+|-
+|'''Megaera'''
+|"Digamos que... si todavía tienen alguna queja para nuestro señor Hades, tendrán que esperar mucho, pero que mucho tiempo antes de poder presentársela."
+|-
+! colspan="2" |Dusa With Megaera 02
+|-
+|'''Megaera'''
+|"… Ya lo creo que sí. Ese tío es un completo imbécil… En fin, será mejor que vuelva al tajo. A la próxima invito yo, Dusa. Cuídate."
+|-
+|'''Dusa'''
+|"Lo mismo digo, señorita Meg. Gracias por la bebida. ¡Con los dioses…!"
+|-
+! colspan="2" |Dusa With Megaera 03
+|-
+|'''Megaera'''
+|"¿"Haz caso a tu corazón"? Qué consejo más raro, sobre todo viniendo de ti. Con todos mis respetos."
+|-
+|'''Dusa'''
+|"A ver, si no crees en el trabajo que estás haciendo, ¿para qué seguir haciéndolo solo por obligación? Tienes que cuidar de ti misma."
+|-
+|'''Megaera'''
+|"No creo que tengamos ninguna prisa. No vamos a envejecer y morir en cuarenta años, como los mortales. Pero te entiendo y pensaré en ello, Dusa. Gracias."
+|-
+! colspan="2" |Dusa With Megaera 04
+|-
+|'''Megaera'''
+|"Hemos empezado con mal pie. Supongo que es normal cuando naces de la sangre de un titán. Tenemos suerte de no habernos cruzado mucho desde entonces."
+|-
+|'''Dusa'''
+|"Pero ellas son tus hermanas... ¡Tu familia! Debéis tener algo en común, no sé, ¿hay algo en lo que estéis de acuerdo?"
+|-
+|'''Megaera'''
+|"Para mí, tú eres más hermana mía que ellas, Dusa. No siempre estoy de acuerdo con Hades, pero agradezco que no las admitan en la morada."
+|-
+! colspan="2" |Dusa With Megaera High Affinity 01
+|-
+|'''Megaera'''
+|"¿Seguro que va todo bien? Es que... no me gustaría que te afectase esto. Basta con que digas una palabra y lo dejo..."
+|-
+|'''Dusa'''
+|"No, ''no, no, no'', Meg, ¡no! Anda ya, ¿estás de broma? No podría alegrarme más por vosotros, ¡en serio! ¡Os lo merecéis! Siempre que tú estés feliz, claro."
+|-
+|'''Megaera'''
+|"Pues... gracias, Dusa. Siempre has sido tan amable... No sé bien qué decir."
+|-
+|'''Dusa'''
+|"¡Oye, eso es lo que diría yo! Mira, mejor me pongo en marcha, solo quiero reiterar que me parece una gran noticia, ¿vale? ¡Gracias por contármelo!"
+|-
+! colspan="2" |Dusa Chat With Megaera 01
+|-
+|'''Megaera'''
+|"Ahora no, Zag. Reunión privada."
+|-
+|'''Dusa'''
+|"No te excedas en tus tareas, ¿vale, alteza?"
+|-
+! colspan="2" |Dusa Chat With Megaera 02
+|-
+|'''Dusa'''
+|"No olvides tomarte algún descanso, ¿vale?"
+|-
+|'''Megaera'''
+|"Tendremos que charlar otro día, Zag."
+|-
+! colspan="2" |Dusa Chat With Megaera 06
+|-
+|'''Megaera'''
+|"¿No ves que estoy en mitad de una conversación, Zagreo?"
+|-
+! colspan="2" |Dusa Chat With Megaera 07
+|-
+|'''Megaera'''
+|"Perdónanos, Zagreo, estamos en mitad de una reunión."
+|-
+! colspan="2" |Dusa Chat With Megaera 08
+|-
+|'''Megaera'''
+|"¿Se te ha ocurrido que podrías dejarnos hablar sin interrupciones, Zagreo?"
+|-
+|'''Megaera'''
+|"Esta discusión en particular no te incumbe, Zag."
+|-
+! colspan="2" |Dusa Chat With Megaera 09
+|-
+|'''Megaera'''
+|"Sin embargo, Dusa, a veces creo que no es el mejor captando indirectas..."
+|-
+! colspan="2" |Megaera Meeting 01
+|-
+|'''Megaera'''
+|"''Bah'', el hijo pródigo ha vuelto… Todos dicen que te traté con indulgencia, Zag."
+|-
+|'''Zagreus'''
+|"No te preocupes, Meg. Al final, conseguí volver a casa de la forma dolorosa..."
+|-
+|'''Megaera'''
+|"Mira, tengo una reputación que cuidar. Así que si vuelves a vencerme, llega hasta el final. Ahora, déjame tranquila. Y no creas que tendrás tanta suerte la próxima vez que nos encontremos."
+|-
+! colspan="2" |Megaera Meeting 01 B
+|-
+|'''Zagreus'''
+|"No te preocupes, Meg. Al final, conseguí volver a casa de la forma dolorosa... Aunque logré llegar mucho más lejos de lo que crees."
+|-
+|'''Megaera'''
+|"No esperaba que fueses a derrotarme. Mira, tengo una reputación que mantener. No tendrás tanta suerte la próxima vez que nos veamos por ahí."
+|-
+! colspan="2" |Megaera Meeting 02
+|-
+|'''Zagreus'''
+|"Oye, ''esto''... ¿qué bebes, Meg? ¿Está bueno?"
+|-
+|'''Megaera'''
+|"Sea lo que sea, casi no sabe a nada. Podría llegar a confundirla con tu sangre."
+|-
+|'''Zagreus'''
+|"Qué bien. Bueno, entonces te dejo."
+|-
+! colspan="2" |Megaera Meeting 02 Cont
+|-
+|'''Megaera'''
+|"La próxima vez, te desmembraré. Recuerda mis palabras."
+|-
+! colspan="2" |Megaera Meeting 03
+|-
+|'''Zagreus'''
+|"¿Dónde se meten tus hermanitas, Meg? No las veo por la casa."
+|-
+|'''Megaera'''
+|"No damos abasto, como bien sabes. Una guerra ahí arriba da mucho trabajo aquí abajo. Yo me quedo para mantener el orden. Y para encargarme de ti."
+|-
+! colspan="2" |Megaera Meeting 04
+|-
+|'''Megaera'''
+|"¿Qué quieres? Déjame tranquila. Entre nosotros está todo dicho."
+|-
+|'''Zagreus'''
+|"Solo quería saber cómo estabas… Avísame si quieres hablar de lo que sea."
+|-
+|'''Megaera'''
+|"No me apetece compañía, y mucho menos la tuya. No te acerques por nada del mundo cuando esté de descanso."
+|-
+! colspan="2" |Megaera Meeting 04 Cont
+|-
+|'''Megaera'''
+|"Te dije que no te acercaras."
+|-
+! colspan="2" |Megaera Meeting 05
+|-
+|'''Megaera'''
+|"¿Sí? ¿Qué se te ofrece, príncipe Zagreo?"
+|-
+|'''Zagreus'''
+|"Nada, solo quería decirte que has luchado bien."
+|-
+|'''Megaera'''
+|"Las cosas no volverán a ser como antes, Zag. ¿Me permites un consejo? Supéralo. Y prepárate para morir la próxima vez que nos veamos."
+|-
+! colspan="2" |Megaera Mirror Progress 01
+|-
+|'''Megaera'''
+|"Zagreo… Perfecto, quería decirte algo. Tus victorias contra mí no valen nada."
+|-
+|'''Zagreus'''
+|"Al parecer, le has dado muchas vueltas. ¿Cómo has llegado a esa conclusión?"
+|-
+|'''Megaera'''
+|"El Espejo de Nicte. No me habrías derrotado sin él. O sin la ayuda de ella."
+|-
+|'''Zagreus'''
+|"No compito contra ti, Meg. Trato de superarte para llegar a la superficie."
+|-
+|'''Megaera'''
+|"Llámalo como quieras. Haz lo que tengas que hacer. Te entiendo. Pero eso no significa que seas más fuerte que yo. Solo cuentas con más ayuda."
+|-
+! colspan="2" |Megaera Mirror Progress 02
+|-
+|'''Megaera'''
+|"Derrotada. Por ti. Sin la ayuda del espejo de Nicte. Me has humillado. Imagino que vienes a restregármelo. Adelante. Ya no puedes avergonzarme más."
+|-
+|'''Zagreus'''
+|"Meg, ¿qué hace falta para que dejes de tratarme como un completo inútil? ¿Acaso no he madurado desde que nos conocemos? ¿Aunque sea un poco? Tenías que enseñarme algo. ¿Qué dice eso de ti?"
+|-
+|'''Megaera'''
+|"''Tsss''... ¿Por qué no alzas la voz un poco más para que te oigan en toda la morada? ¿Eso quieres? ¿Que todos sepan que eres superior a mí?"
+|-
+|'''Zagreus'''
+|"No me estás escuchando, Meg. Ya sé que parece mentira, teniendo en cuenta que no paramos de combatir a muerte, pero... nunca he querido hacerte daño."
+|-
+|'''Megaera'''
+|"Te das demasiadas ínfulas, Zagreo. Déjame en paz."
+|-
+! colspan="2" |Megaera Mirror Progress 02 B
+|-
+|'''Zagreus'''
+|"Meg, no he venido por eso. Sabes que no soy así. ¿Por qué no te das cuenta? Mi único anhelo era demostrarte mi valía."
+|-
+|'''Megaera'''
+|"''Tss''… ¿Crees que puedes demostrarme tu valía doblegándome en combate?"
+|-
+|'''Zagreus'''
+|"A veces creo que nunca llevo las de ganar contigo. Si me hubiera contenido, ¿qué habrías pensado?"
+|-
+|'''Megaera'''
+|"Si tan bien me conoces, sabrás que haces mal en alargar esta conversación conmigo mucho más tiempo."
+|-
+! colspan="2" |Megaera Mirror Progress 02 C
+|-
+|'''Megaera'''
+|"No me lo puedo creer, Zag. Estaba convencida de que me derrotabas solo gracias al espejo de Nicte. Sabía que habías cambiado, pero… no tanto."
+|-
+|'''Zagreus'''
+|"Tenía que ponerme a prueba, Meg. He aprendido mucho de ti y… me parecía un buen modo de demostrarte mi valía. Y a mí mismo."
+|-
+|'''Megaera'''
+|"¿Demostrarme tu valía? Igual no estás tan seguro de ti mismo como pretendes dar a entender. No sé si me gusta esa faceta tuya. Déjame a solas mientras pienso en ello."
+|-
+! colspan="2" |Megaera Pact Progress 01
+|-
+|'''Megaera'''
+|"Dime, Zagreo, ¿cómo te va con el Pacto de Castigo que firmaste? Has hecho mejoras importantes en el Inframundo."
+|-
+|'''Zagreus'''
+|"Saldré de este lugar, por las buenas o por las malas. Ese pacto solo le da un poquito más de emoción."
+|-
+|'''Megaera'''
+|"Deliras. Jamás os entenderé, ni a ti ni a tu padre. En fin, si buscas más castigo, ya sabes dónde estoy."
+|-
+! colspan="2" |Megaera About Pact 01
+|-
+|'''Megaera'''
+|"Zagreo, dicen que el señor Hades te ha ofrecido un Pacto de Castigo. Estarás orgulloso."
+|-
+|'''Zagreus'''
+|"¿Te refieres al gigantesco contrato infernal reservado tan solo para circunstancias extraordinarias? Sí, supongo que me agrada que mi padre se haya tomado tantas molestias por mí."
+|-
+|'''Megaera'''
+|"Cuando acabes de pavonearte, que sepas que todos nosotros estamos sujetos a sus condiciones. Puedes provocar muchísimos cambios si no te andas con cuidado."
+|-
+|'''Zagreus'''
+|"Muchos cambios… ¿Como, por ejemplo, que no te niegues a razonar con tus encantadoras hermanas?"
+|-
+|'''Megaera'''
+|"La condición de las medidas extremas… No serás capaz… ¿Tienes idea de lo que estás diciendo?"
+|-
+! colspan="2" |Megaera Run Progress 01
+|-
+|'''Megaera'''
+|"¿Cómo te ha ido, Zagreo? Me refiero al Elíseo. Nos lo tienes que contar con pelos y señales cada vez que te parta un rayo."
+|-
+|'''Zagreus'''
+|"No lo has pisado, ¿verdad? Resulta… exuberante. ¿Es esa la palabra? Parece que estás más cerca de la superficie. De los cielos."
+|-
+|'''Megaera'''
+|"Qué poético. Podrías haberlo visitarlo por motivos de trabajo; sin embargo, has entrado a la fuerza, desatando la ira de los campeones caídos al servicio de tu padre."
+|-
+! colspan="2" |Megaera Run Progress 02
+|-
+|'''Megaera'''
+|"Así que has exterminado parte de la plaga de sátiros cerca de la superficie, ¿eh? ¿Y ese cambio de parecer? No es propio de ti ayudar al señor Hades en tales menesteres."
+|-
+|'''Zagreus'''
+|"No pretendía hacerle ningún favor a mi padre. Parece que esos sátiros me odian tanto como a él. Para escapar, tuve que coger un desvío a través de sus guaridas."
+|-
+|'''Megaera'''
+|"Curiosa coincidencia. En cualquier caso, un problema menos del que preocuparnos. Al menos, hasta que los sátiros regresen. Y eso será más pronto que tarde."
+|-
+! colspan="2" |Megaera Run Progress 03
+|-
+|'''Megaera'''
+|"Has atravesado el infierno tantas veces que has perdido la cuenta, ¿verdad? ¿Te has acostumbrado a ello? No me extraña que seas amigo de Sísifo."
+|-
+|'''Zagreus'''
+|"Ya tengo el cuerpo hecho, sí. Lo intentaré tantas veces como haga falta. Qué ganas tengo de citarme contigo otra vez…"
+|-
+|'''Megaera'''
+|"De ''citarte ''conmigo... Pues claro. No me hagas esperar. Te sueles dejar la piel, pero sigues quedándote muy corto."
+|-
+! colspan="2" |Megaera Run Cleared 01
+|-
+|'''Megaera'''
+|"Zagreo, dime que los rumores no son ciertos. ¿De verdad lo has derrotado? ¿Has perdido el juicio por completo? ¡Vas a destruir esta maldita morada!"
+|-
+|'''Zagreus'''
+|"Venga, Meg, hace tiempo que padre se merecía esto. Además, ¿qué es lo que te preocupa? La morada está segura."
+|-
+|'''Megaera'''
+|"No aceptará tal ofensa. Encontrará el modo de vengarse de ti. De todos. Ándate con mil ojos o lo pagaremos caro."
+|-
+! colspan="2" |Megaera About Persephone Meeting 01
+|-
+|'''Megaera'''
+|"¿Qué haces aquí? Había oído que por fin te habías escapado. ¿Es que lo hiciste, pero luego moriste de alguna patética forma en la superficie?"
+|-
+|'''Zagreus'''
+|"Es una larga historia, pero sí. Se reduce más o menos a eso."
+|-
+|'''Megaera'''
+|"Así que volverás ahí fuera. Bueno, es asunto tuyo, no mío. Por tu bien, espero que merezca la pena."
+|-
+! colspan="2" |Megaera About Persephone Meeting 02
+|-
+|'''Zagreus'''
+|"Meg, ¿llegaste... a conocer a la reina? ¿Recuerdas algo de ella, sea lo que sea?"
+|-
+|'''Megaera'''
+|"Por mi posición no me correspondía hablar con ella. Apenas la vi. Entonces, en algún momento... no volví a verla más. Y, al contrario que tú, sé que no hay que meterse en nada que no sean mis asuntos."
+|-
+|'''Zagreus'''
+|"¿Cómo es posible que este lugar tuviera una reina secreta durante tanto tiempo, que se desvaneciera de repente y que nadie sepa ni una sola palabra de ello?"
+|-
+! colspan="2" |Megaera About Persephone Meeting 03
+|-
+|'''Megaera'''
+|"¿Cómo le va, Zagreo? A la reina, me refiero. Era... La admiraba."
+|-
+|'''Zagreus'''
+|"Madre... se las apaña, creo. Siempre que la veo está animada. ¡Me encantará decirle que piensas en ella, por cierto!"
+|-
+|'''Megaera'''
+|"No lo hagas, es... innecesario. No necesita que le hables de este lugar. Parece que está mejor lejos de aquí."
+|-
+! colspan="2" |Megaera Post Ending 01
+|-
+|'''Megaera'''
+|"Aclárame algo. Romper todo lo que encuentras en tu camino, robar recursos del reino de tu padre, intentar derrotarme... ¿Todo eso forma parte oficialmente de las funciones de tu puesto?"
+|-
+|'''Zagreus'''
+|"Supongo que sí, pero... antes de que me lo preguntes, no lo estoy haciendo por él."
+|-
+|'''Megaera'''
+|"No esperaba que te atrevieses a marcharte de este sitio para siempre, pero tampoco que asumieras ninguna responsabilidad. En cualquier caso.... supongo que tendremos que seguir matándonos... oficialmente."
+|-
+! colspan="2" |Megaera Post Ending 03
+|-
+|'''Megaera'''
+|"Nunca pensé que volvería a ver a la reina. Aún no me creo que haya vuelto y que... se vaya a quedar. ¿Es cosa tuya?"
+|-
+|'''Zagreus'''
+|"Eso es cosa suya, no mía. ¿La conoces, entonces? Porque... me lo podrías haber dicho. Haberme contado su relación conmigo."
+|-
+|'''Megaera'''
+|"No la conozco tan bien, pero conozco a Nicte, y juré guardar el secreto como parte de mi juramento a esta morada. Castigo a los perjuros y los mentirosos, Zagreo. Sería ilógico que no fuese mejor que ellos, ¿no?"
+|-
+|'''Zagreus'''
+|"No, supongo que no. ¿Qué significa todo esto para Nicte entonces, ahora que ha vuelto? ¿O para ti, ya que estamos?"
+|-
+|'''Megaera'''
+|"La reina siempre le ha dejado su espacio a Nicte. Tu padre, sin embargo... no sé cómo serán las cosas para él si ella decide quedarse esta vez."
+|-
+! colspan="2" |Megaera Post Epilogue 01
+|-
+|'''Megaera'''
+|"¿Así que ahora los dioses del Olimpo te respaldan oficialmente? Por fin ponen de su parte para ayudar con el negocio familiar. Seguramente Hades no esperaba que llegara jamás ese día. O noche... Ya me entiendes."
+|-
+|'''Zagreus'''
+|"Me parece justo que ayuden de alguna forma. Todos colaboran en la superficie y, seamos francos, son los responsables de que un buen número de sombras entren en este reino. Lo mínimo que pueden hacer es ayudar a cimentar nuestra reputación de ''«lugar del que no se puede escapar»''."
+|-
+|'''Megaera'''
+|"¿Haciendo que tu fuerza crezca de forma injusta para cuando te enfrentas a mí?"
+|-
+! colspan="2" |Megaera About Relationship 01
+|-
+|'''Megaera'''
+|"¿Y bien, Zag? Te gustan las cosas complicadas, ¿no? Y parece que a mí también."
+|-
+|'''Zagreus'''
+|"Si te refieres a si me arrepiento de lo que hay entre nosotros, la respuesta es no. Estar contigo... hace que merezcan la pena las complicaciones."
+|-
+|'''Megaera'''
+|"No tienes ni que decírmelo. Dos reglas, si quieres que sigamos así. La primera: ahí fuera aparcamos lo personal. Mejor será que ni un alma diga que estoy siendo suave contigo. Y la segunda: sigue conservando esta madurez que estás demostrando últimamente."
+|-
+|'''Zagreus'''
+|"No planeaba volver a ese atolondramiento insensible de mi juventud, así que no creo que la segunda regla sea un problema. Pero la primera... ¿de verdad podemos seguir matándonos como si no hubiera pasado nada?"
+|-
+! colspan="2" |Megaera About Relationship 01 B
+|-
+|'''Megaera'''
+|"''Tss''... Déjalo ya, Zag. ¿En serio que ahora vas a actuar de manera incómoda cada vez que me veas? Más de lo habitual, me refiero."
+|-
+|'''Zagreus'''
+|"No, es solo que... me siento fatal por haberte rechazado. Tan solo... he estado muy confuso últimamente y confío en ti. Eres alguien con quien puedo hablar. Supongo que tengo miedo de perder eso."
+|-
+|'''Megaera'''
+|"No seas idiota. No va a pasar nada de eso. Hemos pasado muchas cosas juntos, incluso hemos crecido juntos. Esta relación en particular... no creo que vaya a morir con tanta facilidad,."
+|-
+! colspan="2" |Megaera About Relationship 02
+|-
+|'''Zagreus'''
+|"Me da la impresión de que todo el mundo sabe lo nuestro, Meg. Incluso la propia Afrodita parecía saber que estábamos juntos. Y no es que yo haya estado diciéndolo a los cuatro vientos. Querías mantener la discreción, ¿no?"
+|-
+|'''Megaera'''
+|"Zagreo, ¿estás feliz con cómo están las cosas entre nosotros ahora? ¿O tienes alguna pega?"
+|-
+|'''Zagreus'''
+|"Bueno, estaría mejor sin lo de matarnos, para ser sincero. Eso me sigue resultando extraño, pero por lo demás sí... Quiero decir... que sí, estoy feliz. Tú eres... ''tú''."
+|-
+|'''Megaera'''
+|"Pues eso me basta. Que digan lo que quieran, ¿qué nos importa? Somos dioses. Lo que digan de nosotros, aunque sean otros dioses... Si prestas demasiada atención puedes acabar perdiendo la cabeza."
+|-
+|'''Zagreus'''
+|"Pero sé lo importante que es tu trabajo para ti. ¿No te causará ningún problema?"
+|-
+|'''Megaera'''
+|"Creo que ese barco ya ha zarpado. Deja de preocuparte."
+|-
+! colspan="2" |Megaera About Relationship 03
+|-
+|'''Zagreus'''
+|"Megera... ¿alguna vez has estado enamorada?"
+|-
+|'''Megaera'''
+|"Uhm... sí."
+|-
+|'''Zagreus'''
+|"¿De quién?"
+|-
+|'''Megaera'''
+|"Cállate."
+|-
+! colspan="2" |Megaera About Zagreus Promotion 01
+|-
+|'''Megaera'''
+|"Ni en mis fantasías más raras pude imaginar que acabarías en el tablón de empleados del mes, Zagreo. Aún no me lo creo."
+|-
+|'''Zagreus'''
+|"¡''Espera'', rebobina! ¿Puedes hablar más en detalle sobre estas fantasías "raras", Meg?"
+|-
+|'''Megaera'''
+|"Hablo en serio. Deberías estar muy orgulloso. No tan arrogantemente orgulloso como para que suponga tu perdición, pero sí un poco."
+|-
+! colspan="2" |Megaera About Repeated Losses 01
+|-
+|'''Megaera'''
+|"He de decirte algo, Zagreo. No me acostumbro a perder frente a ti de esa manera. Es que... ni siquiera te detienes a mofarte de mí. ¿Sabes lo humillante que resulta?"
+|-
+|'''Zagreus'''
+|"Espera, ¿dices que te sentirías ''menos ''humillada por el resultado de los combates si me regodeara ''más ''por haberte derrotado? ¿Qué sentido tiene eso?"
+|-
+|'''Megaera'''
+|"¿Sabes lo que no tiene sentido? Que sigas venciéndome. Debo de estar perdiendo facultades si resulto tan predecible... Qué mal que ninguno de los otros miserables de los que me encargo suponga ningún reto."
+|-
+! colspan="2" |Megaera About Sisters 01
+|-
+|'''Zagreus'''
+|"No te llevas muy bien con tus hermanas, ¿verdad?"
+|-
+|'''Megaera'''
+|"Alecto, Tisífone y yo opinamos de manera distinta, pero hemos aprendido a darnos nuestro espacio."
+|-
+|'''Zagreus'''
+|"No parece una base sólida para una relación entre hermanas."
+|-
+|'''Megaera'''
+|"¿A mí me vas a dar lecciones sobre relaciones familiares sólidas, Zagreo? La familia de tu padre es la más disfuncional y depravada de la historia de las estirpes."
+|-
+|'''Zagreus'''
+|"Tienes toda la razón. No era mi intención… darte lecciones morales, Meg. Los parientes no se eligen, ¿verdad?"
+|-
+|'''Megaera'''
+|"Los tuyos cortaron a cachitos a sus padres, los titanes, y luego los desperdigaron por el Tártaro. Recuérdalo la próxima vez que me hables de la familia."
+|-
+! colspan="2" |Megaera About Sisters 02
+|-
+|'''Zagreus'''
+|"Aunque ha sido una batalla brutal contra vosotras tres, he de decirte que… me he alegrado de que estuvieras con tus hermanas. Nada une tanto a rivales acérrimas como una causa común, ¿verdad?"
+|-
+|'''Megaera'''
+|"Agradece nuestra reunión a tu Pacto de Castigo. Estamos sujetas a sus condiciones. Con todo, reconozco que mis hermanas y yo nos hemos compenetrado mejor de lo esperado."
+|-
+|'''Zagreus'''
+|"Entonces, ¿habéis hecho borrón y cuenta nueva? ¿Vais a pasar más tiempo juntas y todo eso?"
+|-
+|'''Megaera'''
+|"''Mmm''. No te entusiasmes. Que nos veamos obligadas a colaborar para cumplir nuestro cometido no hará que, de repente, nuestra relación mejore sustancialmente."
+|-
+! colspan="2" |Megaera About Alecto 01
+|-
+|'''Zagreus'''
+|"Alecto es muy especial. Os habrá dado mucha guerra, ¿eh?"
+|-
+|'''Megaera'''
+|"Mi hermana pequeña disfruta mucho con su trabajo, y me ha contagiado parte de su entusiasmo. Aparte de eso, no nos parecemos en nada."
+|-
+|'''Zagreus'''
+|"Podría aprender un par de cosas de ti. Por ejemplo, a tener un poco de decencia."
+|-
+|'''Megaera'''
+|"Yo no tengo nada que enseñarle. El desprecio que la impulsa es incondicional. Yo ya he aprendido a no tomármelo de forma personal."
+|-
+! colspan="2" |Megaera About Tisiphone 01
+|-
+|'''Zagreus'''
+|"''Mmm'', oye. ¿Tisífone está… ''eh''… bien de la cabeza? Como no para de hablar de asesinatos y eso…"
+|-
+|'''Megaera'''
+|"Tisífone se encarga de castigar lo peor de la naturaleza humana. Más que una obligación, es una forma de vida."
+|-
+|'''Zagreus'''
+|"Así que no tendrá tiempo para la familia ni el esparcimiento, imagino. Me dan lástima los adictos al trabajo."
+|-
+|'''Megaera'''
+|"Sé lo que insinúas, Zagreo. Yo no me parezco a ella. Ni de lejos. Y no se te ocurra volver a compararnos."
+|-
+! colspan="2" |Megaera About Tisiphone 02
+|-
+|'''Megaera'''
+|"Así que has estado intentando darle lecciones de pronunciación a Tisífone entre un combate a muerte y el siguiente. ¿Te aburres o eres así de ingenuo?"
+|-
+|'''Zagreus'''
+|"Venga, mujer, si su vocabulario se reduce a tres palabras distintas pero del mismo campo semántico... Debería tener la capacidad de decir algo más. Además, me parece que se siente sola o algo así. ¿Ha intentado alguien enseñarle algo?"
+|-
+|'''Megaera'''
+|"¿Cabe la posibilidad de que, quizá, estés proyectando tus propias inseguridades en ella? Tis puede cuidar de sí misma. Siempre lo ha hecho. Hablar no es su fuerte, no como tú; pero si en toda tu sabiduría piensas que tienes algo que enseñarle, adelante y prueba."
+|-
+|'''Zagreus'''
+|"Ya lo has intentado, ¿verdad? Y no la sacas de lo de "matar," "muerte" y "asesino", ¿a que no?"
+|-
+! colspan="2" |Megaera About Thanatos 01
+|-
+|'''Zagreus'''
+|"Tánatos y tú habéis dejado de lado vuestras colaboraciones esporádicas, ¿verdad, Meg?"
+|-
+|'''Megaera'''
+|"Así es, aunque aún me trae algún encargo de vez en cuando."
+|-
+|'''Zagreus'''
+|"¿Perjuros, traidores y demás calaña? Así que te los envía directos al Tártaro. Debe ser toda una experiencia estar vivo y coleando, y de repente... estar muerto, ser arrastrado por Tánatos y acabar contigo y con tu látigo."
+|-
+|'''Megaera'''
+|"Si esa no es la experiencia que buscan los mortales, solo tienen que cumplir sus juramentos y evitar traicionar a los suyos. No es tan difícil."
+|-
+! colspan="2" |Megaera About Hypnos 01
+|-
+|'''Zagreus'''
+|"No te lamentas demasiado de cómo acabaron las cosas entre Hipnos y tú, ¿verdad, Meg?"
+|-
+|'''Megaera'''
+|"Aún estoy en shock. Tendré que recomponerme de alguna manera y aprender a seguir con mi existencia."
+|-
+! colspan="2" |Megaera About Orpheus 01
+|-
+|'''Megaera'''
+|"Has convencido al músico para que cante de nuevo. Sabía que ''tú ''no callabas nunca, pero no que fuera contagioso."
+|-
+|'''Zagreus'''
+|"Ey, eso ha sido cosa de Orfeo, no mía. Es imposible cantar así sin mucha motivación, conflicto interno y a saber qué más. ¿Es que no te gusta? Se está mejor aquí con alguna cancioncilla que otra."
+|-
+|'''Megaera'''
+|"Este sitio estaba bien como estaba. En cuanto a las canciones... aún no me he acostumbrado."
+|-
+! colspan="2" |Megaera About Singers Reunion Quest Complete 01
+|-
+|'''Megaera'''
+|"Últimamente no veo al músico de la corte llorando por las esquinas. ¿Es cosa tuya?"
+|-
+|'''Zagreus'''
+|"Bueno, tendrás que lloriquear tú por los dos, Meg. Pero si de verdad necesitas saberlo, ha sido por mi autoridad por la que se ha liberado a Orfeo de las condiciones de su antiguo e injusto contrato con padre, para que pueda ver a su esposa de vez en cuando."
+|-
+|'''Megaera'''
+|"¿Y Hades está de acuerdo con que cojas viejos contratos y los canceles? Estás aprovechándote de tu posición."
+|-
+|'''Zagreus'''
+|"No estoy haciendo nada de eso. Si padre quería que me implicase en lo de sus pactos y en lo de gobernar sobre los muertos... acepto. Pero lo haré a mi manera."
+|-
+! colspan="2" |Megaera Ghost Admin Progress 01
+|-
+|'''Zagreus'''
+|"¿Qué te parece la decoración de la cantina, Meg? Tiene mejor pinta que nunca, ¿a que sí?"
+|-
+|'''Megaera'''
+|"No está mal. Aunque se rumorea una cosa muy rara: que tú eres el causante de todo esto. No entiendo por qué te molestas siquiera, la verdad."
+|-
+|'''Zagreus'''
+|"A los oficiales del Inframundo les encanta relajarse aquí cuando no están de servicio, de modo que… qué menos que dejarlo todo un poquito mejor si está en mi mano, ¿no te parece?"
+|-
+|'''Megaera'''
+|"Qué gesto tan altruista, Zagreo. Estoy convencida de que no tardarán en colgar tu retrato en esa pared de ahí."
+|-
+! colspan="2" |Megaera Ghost Admin Progress 02
+|-
+|'''Megaera'''
+|"Lo de la esfera-prisma de la esquina me parece excesivo. Pero la chimenea, la jaula de murciélagos, el acuario... La cantina casi parece acogedora. A Hades le va a sentar fatal."
+|-
+|'''Zagreus'''
+|"Pues qué bien que no pise nunca este sitio, ¿eh? Espera, no echarás de menos que todo esto fuera tristón y terrorífico, ¿verdad?"
+|-
+|'''Megaera'''
+|"Aún me estoy acostumbrando, pero no."
+|-
+! colspan="2" |Megaera About Legendary 01
+|-
+|'''Megaera'''
+|"¿Cómo está mi pequeña Battie? La que te di siendo apenas una cría. Supuse que estaría mejor contigo. Dime que estaba en lo cierto."
+|-
+|'''Zagreus'''
+|"Battie lo está haciendo genial, Meg. Me recuerda a ti cada vez que pienso en ella. Me hace compañía en mis excursiones al exterior. Así que te van los murciélagos, ¿eh?"
+|-
+|'''Megaera'''
+|"Me alegro. Y sí, los murciélagos que revolotean a mi alrededor y yo tenemos un consenso, por así decirlo. Me suelo ocupar de las crías yo misma, pero Battie encajaba más con tu estilo."
+|-
+! colspan="2" |Megaera About Dusa Vs Nyx 01
+|-
+|'''Zagreus'''
+|"Meg, ¿qué les pasa a Nicte y Dusa? ¿Sabes algo? Creo que últimamente han tenido algunos encontronazos."
+|-
+|'''Megaera'''
+|"No puedo imaginarme por qué. Nicte le ha dado órdenes estrictas, pero tú sigues pasándote por allí a charlar con ella. ¿Crees que no se da cuenta?"
+|-
+|'''Zagreus'''
+|"¿Y qué más le da? Al final acabo hablando con todo el mundo por aquí."
+|-
+|'''Megaera'''
+|"No es asunto mío, Zag. Ni siquiera cuando se trata de Dusa. Pero ten cuidado."
+|-
+! colspan="2" |Megaera About Dusa Vs Nyx 02
+|-
+|'''Megaera'''
+|"Maldito seas, Zagreo. Era mi amiga y ya no está."
+|-
+|'''Zagreus'''
+|"¿Quién? ¿Te refieres a Dusa? No he tenido nada que ver con eso. ¡Es con Nicte con quien deberías estar enfadada, no conmigo!"
+|-
+|'''Megaera'''
+|"No. Nicte te avisó. ''Agh'', sabes que no puedo hablarle de esto, ¡así que ''arréglalo''!"
+|-
+! colspan="2" |Megaera About Dusa Vs Nyx 03
+|-
+|'''Zagreus'''
+|"Has visto que Dusa ha vuelto, ¿verdad, Meg? ¡Nicte se lo ha pensado y le dará otra oportunidad!"
+|-
+|'''Megaera'''
+|"Lo he visto. Nicte no suele cambiar de opinión cuando se trata de la morada, pero no pretendo entender lo que ha pasado ni por qué."
+|-
+|'''Zagreus'''
+|"No parece que te alegres..."
+|-
+! colspan="2" |Megaera About Dusa Promotion 01
+|-
+|'''Zagreus'''
+|"¡Estoy tan orgulloso de Dusa últimamente, Meg! Cuidadora jefa de la morada, ¿no? Todo un honor, viniendo de Nicte."
+|-
+|'''Megaera'''
+|"Pensaba que todas esas responsabilidades adicionales estresarían más de lo habitual a Dusa, pero se lo está tomando muy bien."
+|-
+|'''Zagreus'''
+|"Siempre estás cuidado de ella. Gracias."
+|-
+|'''Megaera'''
+|"No lo hago por ti, aunque... gracias por hacerlo tú también."
+|-
+! colspan="2" |Megaera About Dusa Legendary 01
+|-
+|'''Megaera'''
+|"No aprecio que mandases a Dusa a por mí, Zag. ¡Déjala fuera de esto! Aunque... me alegró verla fuera de la maldita morada para variar."
+|-
+|'''Zagreus'''
+|"Es que yo también pensé que le vendría bien algo de aire fresco... o como sea que puedas describir la calidad del aire en la frontera del Tártaro. Sabes que no pretendía hacerte daño, ¿no? En su cabeza... creo que intenta que sigamos llevándonos bien."
+|-
+|'''Megaera'''
+|"Ehhh, ella me dijo lo mismo. Mira, ¿sabes qué? Vale. Si es la única forma de que se tome un respiro de este sitio, me parece bien."
+|-
+! colspan="2" |Megaera About Sisyphus 01
+|-
+|'''Zagreus'''
+|"Meg, entiendo que tengas orden de matarme en cuanto me veas ahí fuera, pero... ¿tienes que mostrarte tan implacable con Sísifo?"
+|-
+|'''Megaera'''
+|"Esa miserable sombra no es quien tú crees. ¿Tienes idea de la magnitud de los crímenes que cometió en vida?"
+|-
+|'''Zagreus'''
+|"Engañó a la muerte. Embaucó a Tánatos y puede que a mi padre."
+|-
+|'''Megaera'''
+|"Antes de eso, hacía cosas peores. Era un desalmado. Creo que, en realidad, tu padre lo castigó por ese motivo."
+|-
+|'''Zagreus'''
+|"¿Y si ha cambiado? ¿O… resulta imposible? Supongo que ciertos crímenes no tienen vuelta atrás."
+|-
+|'''Megaera'''
+|"Ciertos crímenes no tienen vuelta atrás, cierto. Aunque puede que tu corazón albergue más piedad que el mío."
+|-
+! colspan="2" |Megaera About Sisyphus Liberation Quest 01
+|-
+|'''Zagreus'''
+|"He de pedirte un favor, Meg. Y estoy dispuesto a recompensarte si me prestas atención."
+|-
+|'''Megaera'''
+|"¿Una propuesta, Zagreo? Soy toda oídos. Hoy me pillas en plan caritativo."
+|-
+|'''Zagreus'''
+|"Se trata de Sísifo. Si logro que mi padre le suavice la condena… ¿le daréis un poco de tregua? Tú y tus hermanas. Ya ha sufrido bastante la furia de vuestro látigo."
+|-
+|'''Megaera'''
+|"Te juro que no sé qué ves en ese tío. Pero no hace falta que me pidas tal cosa. Si revocas la sentencia con el señor Hades, nada me gustaría más que perder de vista a esa sombra miserable."
+|-
+! colspan="2" |Megaera Building Trust 01
+|-
+|'''Zagreus'''
+|"Megera, he de preguntarte una cosa. Tenemos que hablar."
+|-
+|'''Megaera'''
+|"Creo que tienes razón, para variar. Aunque siento curiosidad por saber de qué crees que tenemos que hablar."
+|-
+|'''Zagreus'''
+|"Sigo sintiendo algo por ti. O al menos… eso creo. ¿Hay… hay algún modo de... ya sabes, solucionar lo nuestro?"
+|-
+|'''Megaera'''
+|"¿A pesar de todo lo que ha sucedido y está sucediendo? ¿Cuál será el desenlace, Zagreo? Si acabas saliendo victorioso, te marcharás de aquí. Y si no, ¿qué ocurrirá, exactamente?"
+|-
+|'''Zagreus'''
+|"No he pensado tan a largo plazo, pero no tenemos por qué acabar así. No te odio, Meg. Ni creo que llegue a odiarte jamás."
+|-
+|'''Megaera'''
+|"A pesar de mis mejores intenciones. Por desgracia, no sé si puedo decir lo mismo. Mira, estoy en un momento crítico de mi trayectoria profesional. He de centrarme en ella. ¿Nos entendemos?"
+|-
+! colspan="2" |Megaera Building Trust 01 B
+|-
+|'''Megaera'''
+|"¿A pesar de todo lo que ha sucedido y está sucediendo? ¿Cuál será el desenlace, Zagreo? ¿Qué harás, exactamente?"
+|-
+! colspan="2" |Megaera About Being Close With Thanatos 01
+|-
+|'''Zagreus'''
+|"Meg, sabes lo mío con Tánatos, ¿verdad? Solo… quiero que no haya secretos entre nosotros."
+|-
+|'''Megaera'''
+|"Lo sé todo de ti, Zag. Y de Tánatos, incluso más. Sin embargo, te agradezco que me lo cuentes. No pasa nada."
+|-
+|'''Zagreus'''
+|"¿No pasa nada? Porque… me han dicho que en el Olimpo imperan los celos. ¿Aquí no supone ningún problema?"
+|-
+|'''Megaera'''
+|"Si prefieres seguir las costumbres del Olimpo, ya sabes el camino. Lo mío… consiste en castigar los celos. Dime, ¿Tánatos supone una amenaza para mí?"
+|-
+|'''Zagreus'''
+|"Qué va… Te tiene en gran estima y jamás te haría daño."
+|-
+|'''Megaera'''
+|"El sentimiento es mutuo. Él y yo no significamos lo mismo para ti. Ambos lo sabemos y lo comprendemos. Ahora, deja de intentar meterte en mi cabeza, ¿de acuerdo?"
+|-
+! colspan="2" |Megaera With Hades 01
+|-
+|'''Hades'''
+|"Cerciórate, Megera. Últimamente, los ayudantes de esta morada resultan mucho más ineptos que antaño. Confío en que sabrás meterlos en vereda."
+|-
+|'''Megaera'''
+|"Si es tu voluntad, señor Hades, así se hará. Hasta donde alcance mi capacidad."
+|-
+! colspan="2" |Megaera With Hades 02
+|-
+|'''Megaera'''
+|"Dame otra oportunidad, señor Hades. Puedo mejorar. Es mejor… que no vengan."
+|-
+|'''Hades'''
+|"Demasiado tarde, Megera. Ya han recibido el aviso y están camino del Tártaro en este preciso instante."
+|-
+|'''Megaera'''
+|"Ya sabes cómo son. Mejor que se dediquen a lo suyo. A esto, no."
+|-
+|'''Hades'''
+|"Megera, fíate de mí cuando te digo que te comprendo perfectamente. Sin embargo, eres lo bastante ingeniosa para hallar el modo de congeniar con tus hermanas."
+|-
+! colspan="2" |Megaera With Hades 03
+|-
+|'''Megaera'''
+|"No puedo trabajar con ellas, mi señor Hades. Te lo ruego. No me respetan ni me hacen caso."
+|-
+|'''Hades'''
+|"''Basta''. Además, Megera, no es culpa tuya, sino mía. He de atender estos asuntos de manera más activa."
+|-
+|'''Megaera'''
+|"Por más que lo intento, no obtengo un resultado satisfactorio. Me pides un imposible."
+|-
+|'''Hades'''
+|"No es una petición, Megera."
+|-
+! colspan="2" |Megaera With Hades 04
+|-
+|'''Megaera'''
+|"Pero no lo entiendo, señor Hades. He caído ante él incontables veces. ¿Cómo puede ser...?"
+|-
+|'''Hades'''
+|"Tú y tus hermanas habéis protegido el Tártaro infaliblemente. El príncipe ha demostrado ser incontenible y el fracaso es mío, no tuyo. Tu deber para con este reino es encomiable."
+|-
+|'''Megaera'''
+|"Me honras... No he hecho nada para merecer dichas palabras. Debe de haber algo más que pueda hacer, ¿no es así?"
+|-
+|'''Hades'''
+|"En parte sí y en parte no, Megera. Tan solo te pido que mantengas tu compromiso con este reino. Impide el paso de un lado al otro del Tártaro. Y si el príncipe sigue apareciendo por allí... no te contengas."
+|-
+|'''Megaera'''
+|"Hades, será un placer, señor."
+|-
+! colspan="2" |Megaera With Nyx 01
+|-
+|'''Nyx'''
+|"Todas hemos adquirido un compromiso con esta casa, Megera. No te avergüences del tuyo. Y, en ausencia de tus hermanas, también cargas con sus responsabilidades."
+|-
+|'''Megaera'''
+|"Entiendo, pero… ¿he de fingir que nada ha cambiado? Esta morada se cae a pedazos y nadie quiere reconocerlo."
+|-
+|'''Nyx'''
+|"La morada se mantendrá en pie eternamente. Aunque... ¿en qué condiciones? Eso es responsabilidad nuestra. Tenemos la obligación de mantener el orden."
+|-
+|'''Megaera'''
+|"Lo sé. Tienes razón, sin duda. Tienes razón… Haré lo que pueda. Por el bien de las dos, Nicte."
+|-
+! colspan="2" |Megaera With Nyx 02
+|-
+|'''Nyx'''
+|"¿De quién más podemos depender? Eres una supervisora de confianza, Megera. Que te asignase ese puesto no fue casualidad, y no hay nadie más adecuado para lo que haces. Te invito a mirar en tu interior. El modo en que enfocas tu trabajo es clave para el resultado final."
+|-
+|'''Megaera'''
+|"Te agradezco el consejo, Nicte. No sé qué haría sin ti. Ni qué sería de esta casa de no ser por ti."
+|-
+! colspan="2" |Megaera With Nyx 03
+|-
+|'''Megaera'''
+|"Pero... ¿cómo has podido hacerme esto? Condenado sea tu espejo. ¡Al ponerte de su parte, te pones en mi contra!"
+|-
+|'''Nyx'''
+|"La neutralidad deja de ser una opción cuando una crisis se agrava lo suficiente, Megera. Tú misma tendrás que decantarte por un bando. No he dejado de decírtelo durante todo nuestro calvario."
+|-
+|'''Megaera'''
+|"Pensaba que las dos estábamos en el bando de esta morada, Nicte. Parece que me equivocaba. ¿Tienes alguna idea de la presión a la que estoy sometida?"
+|-
+|'''Nyx'''
+|"Ten cuidado con tu tono al hablar conmigo, supervisora. Soy la madre de las mismísimas moiras. No actúo por capricho o error. Preocúpate de tu puesto y desempeña tu papel, todo acabará sucediendo como está escrito. Lo que ocurrirá hasta entonces me gusta tan poco como a ti."
+|-
+! colspan="2" |Megaera With Nyx 04
+|-
+|'''Megaera'''
+|"Nicte, si cometiera un terrible error, o simplemente uno aceptable... me lo dirías, ¿verdad? Necesito tu consejo en esto, o quizá tu aprobación."
+|-
+|'''Nyx'''
+|"Tú serás siempre la que mejor pueda juzgarlo, Megera. Aunque si lo que buscas es mi bendición o motivación en este asunto, cuentas con ambas. Tú ya sabes cómo seguir."
+|-
+|'''Megaera'''
+|"Espero que tengas razón. Siempre la has tenido, es solo que... ojalá tuviera la misma confianza que tú en este asunto."
+|-
+! colspan="2" |Megaera With Nyx 05
+|-
+|'''Megaera'''
+|"Creo que ahora lo entiendo, Nicte... Llevas aquí más tiempo que todos los demás juntos. Has visto muchos cambios en esta morada incluso desde antes de que Hades asumiera el mando. Jamás debí dudar de ti."
+|-
+|'''Nyx'''
+|"La duda es un instinto importante, Megera. Sin ella, no podríamos concebir circunstancias mejores que las que conocemos. Además... soy la Noche encarnada. Otros dudarán siempre de mí, puede que tú misma lo hagas otra vez. Solo te pido que prestes atención a tu intuición de ahora en adelante."
+|-
+|'''Megaera'''
+|"Lo haré. Te lo prometo, Nicte. Y si alguna vez hay algo en lo que pueda ayudarte... no tienes más que pedirlo."
+|-
+! colspan="2" |Megaera With Nyx 06
+|-
+|'''Megaera'''
+|"No se puede razonar con ellas, Nicte. Eso ya lo sabes. ¿Crees que nos van a ayudar en algo? Lo único que harán es darnos problemas."
+|-
+|'''Nyx'''
+|"Son tus hermanas. Son parte de tu vida, te guste o no. La forma que adopte tu relación con ellas dependerá de ti."
+|-
+|'''Megaera'''
+|"Me temo que no puedo hacer gran cosa. Tienes mucha más fe en ellas que yo."
+|-
+|'''Nyx'''
+|"Tengo mucha más fe en ''ti'', Megera. Tratamos a diario con muchos personajes obstinados. Por tanto, hacemos lo que podemos."
+|-
+! colspan="2" |Megaera With Hypnos 01
+|-
+|'''Megaera'''
+|"Oye, Hipnos. ¿Te importaría repetirme el consejo no solicitado que me has dado, ahora que tenemos a Zagreo delante?"
+|-
+|'''Hypnos'''
+|"Oh, ''ja, ja, ja''. Bueno... es que acostumbro a dar ciertas pautas a quienes nos visitan involuntariamente. Es que me doy cuenta de cosas aquí y allá, hablando con todos sobre… ya sabes, sobre la muerte."
+|-
+|'''Megaera'''
+|"Básicamente, Zagreo, me ha dicho que esquive mejor tus ataques la próxima vez. Así que ándate con pies de plomo, porque ahora conozco tus secretos gracias a Hipnos."
+|-
+! colspan="2" |Megaera With Hypnos 02
+|-
+|'''Megaera'''
+|"Ya encontraré la cantina yo sola, Hipnos. O… espera… ¿acaso querías tomar algo conmigo?"
+|-
+|'''Hypnos'''
+|"¿Yo? No, ''no, no, no'', ¡no! Ni me lo plantearía, señorita. Tú tienes tu sitio y yo el mío. Somos de mundos distintos, por así decirlo. Estamos destinados a que no nos vean mucho juntos."
+|-
+|'''Megaera'''
+|"Cada vez que hablo contigo, te lo tomas como un cumplido, ¿no? Pues déjame darte un consejo por una vez: deja de ser un idiota."
+|-
+! colspan="2" |Megaera With Hypnos 03
+|-
+|'''Megaera'''
+|"No me has dado la bienvenida con tanta frecuencia últimamente, Hipnos. No me habría percatado si eso no fuera la mitad de tu trabajo. Si tienes algo que decirme, suéltalo."
+|-
+|'''Hypnos'''
+|"Pues verás, Megera, uhm... ¿señorita Megera, mejor? Como estaba diciendo, pensaba, quizá... sabes... Pues que teníamos algo, una conexión genuina... últimamente. Dado que sigues muriendo cada vez más y yo sigo aquí esperando. Pero es que yo siempre creí que eras invencible..."
+|-
+|'''Megaera'''
+|"Ya veo. Así que ahora te das cuenta de que la idea que tenías sobre mí estaba solo en tu imaginación, ¿no es así?"
+|-
+|'''Hypnos'''
+|"¡Justo! De verdad pensaba que, con todos mis consejos, volverías a matar a Zagreo, en lugar de que fuera al revés. Me parece que las cosas no marchan como yo esperaba, ¿sabes?"
+|-
+|'''Megaera'''
+|"Casi suena como si estuvieses rompiendo conmigo, solo que... En fin. ¿Seguro que estarás bien?"
+|-
+|'''Hypnos'''
+|"¡Oh, pues claro! Mira, tan solo me alegro de que sea uno de vosotros dos, ¡mucho mejor que ver sombras sin parar! Nunca hablan conmigo."
+|-
+|'''Megaera'''
+|"Vale, entonces... la próxima vez que vuelva, saluda."
+|-
+! colspan="2" |Megaera With Persephone 01
+|-
+|'''Megaera'''
+|"Mi deber era evitar que llegase más lejos. Si hubiera tenido éxito... jamás te habría encontrado. Así que, por esta vez, me alegra haber fracasado. Espero que seas consciente de esto, mi reina."
+|-
+|'''Persephone'''
+|"Esperaba que fuera así, pero no lo sabía con seguridad hasta que te he oído decirlo, supervisora Megera. ¿Me permites que te diga algo? Entiendo que has conseguido numerosos logros desde que me... ''ejem''... "ausenté" de la morada. ¡Veo por qué Nicte y Hades confían en ti!"
+|-
+|'''Megaera'''
+|"Gracias, mi reina. Si hay algo más con lo que pueda ayudarte para que vuelvas a aclimatarte, estoy a tu entera disposición. Eres muy bienvenida aquí."
+|-
+|'''Persephone'''
+|"Lo mismo te digo. No te olvides de avisarme si mi hijo te da más problemas de los que necesitas en la vida, ¿de acuerdo?"
+|-
+! colspan="2" |Meg Chat 01
+|-
+|'''Megaera'''
+|"¿No ves que estoy ocupada con asuntos más importantes que tú?"
+|-
+! colspan="2" |Meg Chat 02
+|-
+|'''Megaera'''
+|"¿Te puedo ayudar, Zagreo? Porque si no es así... ¿serías tan amable de dejarme en paz?"
+|-
+! colspan="2" |Meg Chat 03
+|-
+|'''Megaera'''
+|"¿Tengo cara de querer hablar?"
+|-
+! colspan="2" |Meg Chat 04
+|-
+|'''Megaera'''
+|"Vienes a presumir, ¿verdad? Qué pena que no pueda matarte aquí mismo, en esta condenada morada."
+|-
+! colspan="2" |Meg Chat 05
+|-
+|'''Megaera'''
+|"¿Te he dado la impresión de querer conversar contigo? Porque, en tal caso, es un terrible malentendido."
+|-
+! colspan="2" |Meg Chat 06
+|-
+|'''Megaera'''
+|"Ve a malgastar el tiempo de otra, Zagreo."
+|-
+! colspan="2" |Meg Chat 07
+|-
+|'''Megaera'''
+|"Bastante deshonra ha sido volver aquí, para que encima me vean hablando contigo."
+|-
+! colspan="2" |Meg Chat 08
+|-
+|'''Megaera'''
+|"Tarde o temprano, cuando volvamos a enfrentarnos, te mataré, Zagreo."
+|-
+! colspan="2" |Meg Chat 09
+|-
+|'''Megaera'''
+|"Si decido que deseo contarte algo, Zagreo, te lo diré claramente. Déjame en paz."
+|-
+! colspan="2" |Meg Chat 10
+|-
+|'''Megaera'''
+|"Tu padre tiene toda la razón, Zag. Eres un niñato insufrible y siempre lo serás."
+|-
+! colspan="2" |Meg Chat 11
+|-
+|'''Megaera'''
+|"No me fastidies, Zagreo. Ya conoces las normas. La violencia está prohibida en la casa."
+|-
+! colspan="2" |Meg Chat 12
+|-
+|'''Megaera'''
+|"¡Sangre y penumbra! ¡Déjame en paz, maldito seas! Tengo mejores cosas que hacer que entretenerte."
+|-
+! colspan="2" |Meg Chat 13
+|-
+|'''Megaera'''
+|"Lo reconozco, Zag: te has hecho fuerte. Me has enviado de vuelta contundentemente."
+|-
+! colspan="2" |Meg Chat 14
+|-
+|'''Megaera'''
+|"Nicte estará preocupada al vernos así últimamente, como el perro y el gato."
+|-
+! colspan="2" |Meg Chat 15
+|-
+|'''Megaera'''
+|"Ah, descuida. Me pondré en forma en un suspiro."
+|-
+! colspan="2" |Meg Chat 16
+|-
+|'''Megaera'''
+|"Tu padre no está muy contento con mi desempeño últimamente, como te habrás imaginado."
+|-
+! colspan="2" |Meg Chat 17
+|-
+|'''Megaera'''
+|"A veces, Zagreo, casi no me dan ganas de vomitar al verte u olerte."
+|-
+! colspan="2" |Meg Chat 18
+|-
+|'''Megaera'''
+|"No debería haber vuelto tan pronto. No por tu culpa, desde luego."
+|-
+! colspan="2" |Meg Chat 19
+|-
+|'''Megaera'''
+|"Anoto cuidadosamente todas las veces que me has enviado de vuelta."
+|-
+! colspan="2" |Meg Chat 20
+|-
+|'''Megaera'''
+|"Por lo menos, la morada parece en mejor estado que la última vez."
+|-
+! colspan="2" |Meg Chat 21
+|-
+|'''Megaera'''
+|"Últimamente, nos vemos bastante, ¿eh, Zag?"
+|-
+! colspan="2" |Meg Chat 22
+|-
+|'''Megaera'''
+|"Aunque me ganaste en buena lid la última vez, estoy un tanto resentida."
+|-
+! colspan="2" |Meg Chat 23
+|-
+|'''Megaera'''
+|"Sabes que no pueden vernos juntos, Zagreo."
+|-
+! colspan="2" |Meg Chat 24
+|-
+|'''Megaera'''
+|"Ahora tendría que estar azotándole las posaderas al vago de Sísifo, no aquí parada."
+|-
+! colspan="2" |Meg Chat 25
+|-
+|'''Megaera'''
+|"No me gusta tener que volver aquí con tanta frecuencia, Zagreo."
+|-
+! colspan="2" |Meg Standoffish 01
+|-
+|'''Megaera'''
+|"No me interesa lo más mínimo charlar contigo, Zagreo."
+|-
+! colspan="2" |Meg Standoffish 02
+|-
+|'''Megaera'''
+|"¿Por qué no te largas de una vez si tanto desprecias este lugar?"
+|-
+! colspan="2" |Meg Standoffish 03
+|-
+|'''Megaera'''
+|"Ni te atrevas a dirigirme la palabra."
+|-
+! colspan="2" |Meg Standoffish 04
+|-
+|'''Megaera'''
+|"Fuera de mi vista, Zagreo. Y agradece que la violencia esté prohibida aquí dentro."
+|-
+! colspan="2" |Meg Standoffish 05
+|-
+|'''Megaera'''
+|"Te sugiero que ni me hables."
+|-
+! colspan="2" |Meg Standoffish 06
+|-
+|'''Megaera'''
+|"Te aconsejo que vuelvas por donde has venido, ¿me has oído, Zagreo?"
+|-
+! colspan="2" |Meg Standoffish 07
+|-
+|'''Megaera'''
+|"Ya has malgastado bastante nuestro tiempo, ¿no crees?"
+|-
+! colspan="2" |Meg Standoffish 08
+|-
+|'''Megaera'''
+|"No sé qué te ronda por la cabeza, pero seguro que es lo último que quiero oír ahora mismo."
+|-
+! colspan="2" |Meg Max Chat 01
+|-
+|'''Megaera'''
+|"No me puedo creer que me derrotases, Zag. Te la pienso devolver."
+|-
+! colspan="2" |Meg Max Chat 02
+|-
+|'''Megaera'''
+|"Aquí me tienes, lamiéndome las heridas hasta que volvamos a enfrentarnos."
+|-
+! colspan="2" |Meg Max Chat 03
+|-
+|'''Megaera'''
+|"Dicen que has llegado bastante lejos."
+|-
+! colspan="2" |Meg Max Chat 04
+|-
+|'''Megaera'''
+|"Casi lo consigues, ¿verdad?"
+|-
+! colspan="2" |Meg Max Chat 05
+|-
+|'''Megaera'''
+|"Dicen que has llegado hasta el final."
+|-
+! colspan="2" |Meg Max Chat 06
+|-
+|'''Megaera'''
+|"Has vuelto. Conque has llegado a la superficie, ¿eh?"
+|-
+! colspan="2" |Meg Max Chat 07
+|-
+|'''Megaera'''
+|"Sigo bajando la guardia contra ti."
+|-
+! colspan="2" |Meg Max Chat 08
+|-
+|'''Megaera'''
+|"Llegaste hasta arriba del todo la última vez, ¿verdad? No está nada mal."
+|-
+! colspan="2" |Meg Max Chat 09
+|-
+|'''Megaera'''
+|"No recuerdo la última vez que te derroté, Zag..."
+|-
+! colspan="2" |Meg Max Chat 10
+|-
+|'''Megaera'''
+|"Ya casi se ha acabado la pausa. ¿Nos vemos allá fuera?"
+|-
+! colspan="2" |Meg Max Chat 11
+|-
+|'''Megaera'''
+|"¿Te ha dado algún consejo bueno Hipnos últimamente?"
+|-
+! colspan="2" |Meg Max Chat 12
+|-
+|'''Megaera'''
+|"Tomándome un descanso de aguantar a Alecto..."
+|-
+! colspan="2" |Meg Max Chat 13
+|-
+|'''Megaera'''
+|"He de confesar que me gusta lo que habéis hecho Dusa y tú con este sitio."
+|-
+! colspan="2" |Meg Max Chat 14
+|-
+|'''Megaera'''
+|"No te apalicé demasiado la última vez, ¿no?"
+|-
+! colspan="2" |Meg Max Chat 15
+|-
+|'''Megaera'''
+|"Le has dado lo suyo a Alecto otra vez. Debe estar muy cabreada."
+|-
+! colspan="2" |Meg Max Chat 16
+|-
+|'''Megaera'''
+|"¿Listo para otro asalto contra mí ahí fuera?"
+|-
+! colspan="2" |Meg Intermission Chat 01
+|-
+|'''Megaera'''
+|"Tengo que hablar contigo en privado, Zagreo. Urgentemente."
+|-
+|'''Megaera'''
+|"Me alegro de que ese tema esté zanjado. Nos vemos ahí fuera."
+|-
+! colspan="2" |Meg Intermission Chat 02
+|-
+|'''Megaera'''
+|"Vamos a un lugar más tranquilo donde podamos concentrarnos."
+|-
+|'''Megaera'''
+|"Un poco de paz y tranquilidad viene bien de cuando en cuando, ¿verdad?"
+|-
+! colspan="2" |Meg Intermission Chat 03
+|-
+|'''Megaera'''
+|"No digas nada y sígueme."
+|-
+|'''Megaera'''
+|"Bien, Zagreo. Cuídate hasta que volvamos a vernos."
+|-
+! colspan="2" |Meg Intermission Chat 04
+|-
+|'''Megaera'''
+|"Zagreo, ¿has vuelto a olvidar nuestras clases particulares? Venga ya."
+|-
+|'''Megaera'''
+|"A ver. Supongo que recuerdas lo que te he enseñado, ¿no?"
+|-
+! colspan="2" |Meg Intermission Chat 05
+|-
+|'''Megaera'''
+|"Acompáñame, Zagreo. Tenemos que pasar revista a tus aposentos."
+|-
+|'''Megaera'''
+|"¡Pues vaya! Todo parece en orden. Puedes continuar."
+|-
+! colspan="2" |Meg Intermission Chat 06
+|-
+|'''Megaera'''
+|"Si estás disponible, tengo pergamineo por revisar."
+|-
+|'''Megaera'''
+|"Jmm. Menos pergamineo del que esperaba. En fin, gracias por tu tiempo."
+|-
+! colspan="2" |Megaera Gift 01
+|-
+|'''Zagreus'''
+|"Oye, ''eh'', Meg. Mira, sé que te limitas a hacer tu trabajo y, en fin, he encontrado esto y he pensado en ti y todo eso. Toma."
+|-
+|'''Megaera'''
+|"Me aseguraré de que acaben con este contrabando de inmediato. Toma tu comisión y sigue con tus asuntos."
+|-
+! colspan="2" |Megaera Gift 02
+|-
+|'''Zagreus'''
+|"Oye, Meg. ''Eh'', se me ha ocurrido darte esto."
+|-
+|'''Megaera'''
+|"Lo confiscaré si quieres, pero te advierto que no me dejo sobornar. Muchos lo han intentado."
+|-
+|'''Zagreus'''
+|"Ey, solo estoy entregando este artículo de estraperlo a las autoridades pertinentes, nada más. Cada cual hace su trabajo, ¿no?"
+|-
+! colspan="2" |Megaera Gift 03
+|-
+|'''Megaera'''
+|"Vaya, hablas en serio. Quieres dármelo. Te lo quitaré de las manos, si es eso lo que quieres."
+|-
+|'''Zagreus'''
+|"Es lo que quiero. Y, sinceramente, me gustaría limar asperezas. Pero que conste que este artículo de contrabando no tiene nada que ver con eso."
+|-
+! colspan="2" |Megaera Gift 04
+|-
+|'''Megaera'''
+|"Tales dádivas no te librarán de mi látigo la próxima vez que nos enfrentemos; lo sabes, ¿no?"
+|-
+|'''Zagreus'''
+|"Lo sé. Y espero que no cambies nunca."
+|-
+! colspan="2" |Megaera Gift 05
+|-
+|'''Megaera'''
+|"No conseguirás nada con tus lisonjas. Nada volverá a ser como antes."
+|-
+|'''Zagreus'''
+|"Las lisonjas no me han servido de nada contigo, pero no me rindo. A cabezota no hay quien me gane, ¿no te parece?"
+|-
+! colspan="2" |Megaera Gift 06
+|-
+|'''Zagreus'''
+|"Te traigo más de ese artículo de estraperlo que te gusta. Supongo que no quieres que te ayude a guardarlo…"
+|-
+|'''Megaera'''
+|"Mírame, Zag… ¿Crees que estos regalos harán que todo vuelva a ser como antes? Pues no. Imposible. A pesar de nuestra inmortalidad, ahora somos mayores."
+|-
+|'''Zagreus'''
+|"Y tenemos más experiencia, espero."
+|-
+! colspan="2" |Megaera Gift 07
+|-
+|'''Megaera'''
+|"Ambrosía... Sabes cuál es el castigo por intentar sobornar a una supervisora de la morada de Hades con contrabando de fuera, ¿no?"
+|-
+|'''Zagreus'''
+|"Pues no puedo decir que lo sepa, aunque si implica latigazos y cosas así, ya he tenido más que de sobra así que... he pensado que valía la pena arriesgarse. ¿Qué me dices?"
+|-
+|'''Megaera'''
+|"Digo que me des la maldita botella. Me encargaré de tirarla donde corresponde. En cuanto a ti... ¿sabes quién puede haber perdido algo así? Por mi autoridad como supervisora... no hablemos más de esto. Aunque, como se lo digas a alguien..."
+|-
+! colspan="2" |Megaera Gift 08
+|-
+|'''Zagreus'''
+|"Tengo un artículo de estraperlo demasiado ilegal, y quería entregártelo lo antes posible, si no te importa aceptarlo de mi mano, Meg."
+|-
+|'''Megaera'''
+|"''Tsss''... Sigues siendo incapaz de sincerarte conmigo, ¿verdad, Zag? ¿Por qué no me dices a qué has venido y qué quieres?"
+|-
+|'''Zagreus'''
+|"''Ehm''... supongo que no te tragas ese rollo del contrabando. Aunque bien que te has quedado con el frasco... En fin, quería hablar contigo. Y puede que intentar arreglar las cosas."
+|-
+|'''Megaera'''
+|"''"Arreglar las cosas"''. Y, según tu opinión, ¿qué hay que arreglar entre tú y yo, ''eh''?"
+|-
+|'''Zagreus'''
+|"He sido… ingenuo. Traté de distanciarme de ti, pero fracasé. Y dije muchas tonterías y… En fin, desde entonces, hemos intentado matarnos infinidad de veces. Mira, lo siento, Meg."
+|-
+|'''Megaera'''
+|"Dijiste muchas tonterías, sí. Las erinias no somos mucho de perdonar ni de pedir perdón. Sin embargo, veo que al menos te esfuerzas. Gracias por el artículo de estraperlo. Con los dioses."
+|-
+! colspan="2" |Megaera Gift 09
+|-
+|'''Zagreus'''
+|"Toma, Meg. Contrabando. Ojalá pudiéramos empezar de nuevo."
+|-
+|'''Megaera'''
+|"Opino lo mismo. Por muchos motivos. Desgraciadamente, los designios de las moiras resultan inescrutables. Aprendemos de nuestros errores o seguimos cometiéndolos. No hay más."
+|-
+|'''Zagreus'''
+|"¿Y qué pasa si ya he aprendido de mis errores? ¿Es que he hecho algo que te haya ofendido desde que estamos así? Aparte de las inevitables y frecuentes batallas a muerte…"
+|-
+|'''Megaera'''
+|"Nada de lo que haces me ofende, Zag. Tan solo es cuestión de saber si eres digno de mi tiempo."
+|-
+|'''Zagreus'''
+|"Entonces… ¿soy digno de tu tiempo, Meg?"
+|-
+|'''Megaera'''
+|"¿Sabes? Ya te responderé en otra ocasión. Necesito tiempo para reflexionar."
+|-
+! colspan="2" |Megaera Gift 10
+|-
+|'''Zagreus'''
+|"Ey, Meg. Estás en tu descanso, ¿verdad? Oye, tenía… la esperanza de que compartieras esto conmigo. Lo mejor de lo mejor. Te lo daría para ti solita, pero… igual te apetece algo de compañía. Como la mía."
+|-
+|'''Megaera'''
+|"Se te traba la lengua, Zagreo. Como siempre que te acercas a mí."
+|-
+|'''Zagreus'''
+|"No es que seas de trato fácil, ¿sabes? Entonces... ¿qué me dices? ¿Te tomas algo conmigo?"
+|-
+|'''Megaera'''
+|"Ábrela y ya veremos..."
+|-
+|'''Megaera'''
+|"... tendrías que haberte visto la cara. Ahora te comportas con más aplomo. Aunque, en el fondo, creo que sigues siendo el mismo diosecillo inexperto de siempre."
+|-
+|'''Zagreus'''
+|"Y yo creo que, en el fondo, no eres la castigadora despiadada por la que te haces pasar delante de todo el mundo. Pero te guardaré el secreto si tú guardas el mío, ¿qué me dices?"
+|-
+|'''Megaera'''
+|"Tss, eso ha sonado a chantaje, Zagreo. ¿Caerías tan bajo conmigo?"
+|-
+|'''Zagreus'''
+|"No, yo solo… No es eso lo que quería decir…"
+|-
+|'''Megaera'''
+|"''Ja, ja, ja''. Solo pretendía ponerte en un apuro. Te agradezco la compañía y el estraperlo. Hasta más ver."
+|-
+|}

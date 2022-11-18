@@ -1,0 +1,839 @@
+{| class="wikitable"
+|+
+! colspan="2" |Chaos About Beowulf Aspect 01 A
+|-
+|'''Chaos'''
+|"Percepiamo che non ti sei ancora rivolto alla reliquia che tu chiami Aegis. Ritarda i progetti delle Moire, dunque, se così desideri. Se cambiassi idea, rammenta queste parole: ''ti vedo ergerti saldo contro le vampe del serpente.''"
+|-
+! colspan="2" |Chaos About Beowulf Aspect 01
+|-
+|'''Chaos'''
+|"Ancora non hai usato la frase di risveglio che ti abbiamo impartito? O forse scegli semplicemente di non mostrarcene il risultato. Gradiremmo vederlo, prima o poi. Rammenta, Figlio di Ade: ''ti vedo opporti saldo contro le vampe del serpente.''"
+|-
+! colspan="2" |Chaos About Beowulf Aspect 02
+|-
+|'''Chaos'''
+|"Fra tutte le infinite possibilità del cosmo, di fronte a noi giunge il Figlio di Ade recante la nostra onniveggente creazione, nel sembiante di un possessore non ancora nato il cui nome, Beowulf, sarà un dì celebre nel nord. Assai dilettevole."
+|-
+! colspan="2" |Chaos Surface Quest Complete
+|-
+|'''Chaos'''
+|"Percepiamo che sei riuscito ad affrontare tuo padre avendo con te il nostro piccolo artefatto tondeggiante. Tanto la nostra richiesta quanto il tuo successo erano già parte dell'ordito del Fato, dunque. Tale esito è ancor più divertente del previsto. Pertanto, grazie."
+|-
+! colspan="2" |Chaos About Nyx 05
+|-
+|'''Chaos'''
+|"Abbiamo percepito attività insolite nei meandri dell'Oltretomba, Figlio di Ade... vaste somme di Tenebra raccolte in un antico recipiente, ora splendente come un faro nella notte. Dev'essere opera di Nyx, o tua, o di entrambi. Siamo alquanto curiosi di vederne i risultati."
+|-
+! colspan="2" |Chaos About Nyx 06
+|-
+|'''Chaos'''
+|"Ci dà immenso piacere aver rivisto la dea Nyx, Figlio di Ade. La vasta distesa di tempo che ci separa dall'ultima volta in cui ciò avvenne ha sufficientemente attutito i nostri antichi screzi, pare. Pertanto, il legame tra noi potrebbe anche riallacciarsi, col tempo."
+|-
+! colspan="2" |Chaos About Responding 01
+|-
+|'''Chaos'''
+|"Dacché iniziamo a conoscerci, Figlio di Ade, ti sia chiara una cosa: la conversazione non ci solletica. Quando ti trovi in visita, ti preghiamo ti ascoltare, accettare il nostro marchio, e ripartire. Replica solo quando è necessario. O quando te lo chiediamo. Comprendi?"
+|-
+|'''Zagreus'''
+|"...Ascoltare e basta. Proprio come coi messaggi dall'Olimpo, allora. Un momento. Mi avevi appena chiesto di replicare, giusto, padron Caos? O avrei dovuto rimanere in silenzio?"
+|-
+|'''Chaos'''
+|"Non sta a noi offrirti consiglio. Ma te l'avevamo chiesto, sì. Sei libero di parlare, dunque, ora o in qualsiasi momento, a prescindere dai nostri desideri. L'assoluto silenzio è la nostra preferenza. Non è detto che sia la tua."
+|-
+! colspan="2" |Chaos About Nyx 01
+|-
+|'''Chaos'''
+|"E così, Zeus e i suoi parenti sulla vetta dell'Olimpo pensano che tu sia figlio di Ade e della dea Nyx? Ci diverte molto quest'inganno. Nyx ha generato molti tra i residenti dell'Oltretomba, dunque perché non anche te?"
+|-
+|'''Zagreus'''
+|"Non è la mia madre naturale, no... ma è comunque mia madre. La conosci?"
+|-
+|'''Chaos'''
+|"Oh, conosciamo Nyx molto bene, ovviamente. Ma è ormai trascorso molto tempo dall'ultima volta che ci parlammo e, ahinoi... non fummo particolarmente indulgenti, all'epoca. Ci auguriamo che stia bene, ora."
+|-
+! colspan="2" |Chaos About Nyx 01 B
+|-
+|'''Chaos'''
+|"Sapevamo che saresti arrivato, ma solo pochi istanti prima che accadesse; pertanto, siamo ancora lievemente sorpresi. I tuoi spostamenti attraverso l'Oltretomba sono come celati da un velo tenebroso. Opera della dea Nyx, forse? Rispondi."
+|-
+|'''Zagreus'''
+|"Io... non so esattamente come rispondere, padron Caos, ma sì, Nyx mi sta prestando aiuto nei miei tentativi di evadere dal regno di mio padre."
+|-
+|'''Chaos'''
+|"Ti muovi nelle tenebre, non fitte quanto le sue, ma comunque familiari. Solevamo un tempo invitarla a celarsi al nostro sguardo, dopodiché tentavamo di individuarla. Un modesto svago per entrambi. A quanto pare ora abbiamo te, per questo."
+|-
+! colspan="2" |Chaos Post Ending 01
+|-
+|'''Chaos'''
+|"Di recente, Figlio di Ade, abbiamo avvertito un... mutamento nella residenza di tuo padre. Si è forse verificato un avvenimento degno di nota? Rispondi."
+|-
+|'''Zagreus'''
+|"Padron Caos, si tratta di Persefone, mia madre. È tornata! Ha scelto di tornare. E quindi... sì, le cose sono un po' diverse ora, con lei quaggiù, ma... non mi pare di aver notato mutamenti nell'ambiente."
+|-
+|'''Chaos'''
+|"Potresti non essere sensibile a tali mutamenti quanto noi. Lo spazio che abitiamo si deforma e si modifica col tempo. Ciò che tu descrivi... ne è di certo la causa. Confidiamo si tratti di un evento lieto. E come sempre, il tuo ritorno allieta noi."
+|-
+! colspan="2" |Chaos About Olympian Reunion Quest 01
+|-
+|'''Chaos'''
+|"Ancora una volta avvertiamo un mutamento nella residenza di tuo padre. Desideri chiederci qualcosa al riguardo, non è vero? Rispondi."
+|-
+|'''Zagreus'''
+|"Oh, sono lieto che tu l'abbia chiesto. Mia madre, lei... sta prendendo contatti con l'Olimpo. Vuole riunire la famiglia. Ne è passato di tempo, relativamente, dall'ultima volta che è successo, ma... se questa riunione si facesse, sappi che sei cordialmente invitato."
+|-
+|'''Chaos'''
+|"Cordialmente invitati...? Proposta generosa, Figlio di Ade. Ma a meno che tale evento si tenga in questo nostro regno, comprendi che ci sarà difficile trasporre la nostra intera presenza altrove. Tuttavia... forse esiste un modo per unirci a voi, in un certo senso. Grazie."
+|-
+! colspan="2" |Chaos Post Epilogue 01
+|-
+|'''Chaos'''
+|"Ci allieta che il tuo convivio con gli Olimpi sia avvenuto. Sappi che mai, prima d'ora, avevamo avvertito la presenza di tanti nostri discendenti in un sol luogo. Non senza intenti bellicosi, almeno. Grazie di averci inclusi, e del tuo ritorno, ora. Procediamo, dunque?"
+|-
+! colspan="2" |Chaos Post Epilogue 01 B
+|-
+|'''Chaos'''
+|"Ci allieta che il tuo convivio con gli Olimpi sia avvenuto. Sappi che... mai prima d'ora avevamo avvertito la presenza di tanti dei nostri discendenti in un sol luogo. Non senza intenti bellicosi, almeno."
+|-
+! colspan="2" |Chaos About Zeus 01
+|-
+|'''Chaos'''
+|"Rechi su di te la benedizione del possente Zeus. È ancora convinto di detenere il controllo sul cielo e sulla terra. A quanto pare si è dimenticato della nostra esistenza."
+|-
+! colspan="2" |Chaos About Poseidon 01
+|-
+|'''Chaos'''
+|"Il nobile Poseidone ti ha offerto il proprio favore, a quanto pare. Sa essere alquanto superbo e bellicoso, proprio come tuo padre e Zeus, i suoi disdicevoli fratelli."
+|-
+! colspan="2" |Chaos About Athena 01
+|-
+|'''Chaos'''
+|"La saggia dea Atena ti ha infuso le proprie grazie, o Figlio di Ade. Chissà che per lei tu non sia un mero strumento col quale riunificare infine la propria famiglia disgregata."
+|-
+! colspan="2" |Chaos About Ares 01
+|-
+|'''Chaos'''
+|"Non ci stupisce che tu ti accompagni col violento Ares, né che rechi su di te il suo marchio. È il solo a venerarci ancora, sai? Benché, a nostro parere, ci conosca assai poco."
+|-
+! colspan="2" |Chaos About Aphrodite 01
+|-
+|'''Chaos'''
+|"Le grazie della dea Afrodite aleggiano inconfondibili su di te. Siamo curiosi di scoprire se il suo dominio sui sensi avrà alcun effetto qui, al di sotto della terra."
+|-
+! colspan="2" |Chaos About Artemis 01
+|-
+|'''Chaos'''
+|"La dea cacciatrice Artemide ha volto il proprio sguardo su di te di recente, è così? Ci sorprende che si sia fatta avanti, perfino se si tratta di un parente in difficoltà."
+|-
+! colspan="2" |Chaos About Dionysus 01
+|-
+|'''Chaos'''
+|"L'ebbro Dioniso ti ha offerto i propri servigi, non è vero? Sa essere alquanto imprevedibile, il che ce lo rende più apprezzabile di molti."
+|-
+! colspan="2" |Chaos About Hermes 01
+|-
+|'''Chaos'''
+|"Il lesto Ermes sospinge i tuoi passi, Figlio di Ade. Presta molta attenzione alla differenza tra lestezza e avventatezza; non siamo certi che il dio dei viaggi la comprenda appieno."
+|-
+! colspan="2" |Chaos About Demeter 01
+|-
+|'''Chaos'''
+|"Sei stato raggiunto dalla malinconica Demetra, è così? Era un tempo una dispensatrice di calore; ma di recente, a quanto ne sappiamo, è più propensa a sottrarlo da ogni cosa."
+|-
+! colspan="2" |Chaos About Olympians 01
+|-
+|'''Chaos'''
+|"Hai incontrato molti fra gli dèi dell'Olimpo, e ognuno di essi ti ha spronato a unirti a loro. Quanta importanza danno ai legami familiari, eppure non uno fra loro si ricorda di noi. Evita di fidarti troppo, o Figlio di Ade."
+|-
+! colspan="2" |Chaos About Olympians 02
+|-
+|'''Chaos'''
+|"Ti chiediamo di ascoltare in silenzio, Figlio di Ade. Al contrario, gli dèi non chiedono affatto. Ti inviano i propri messaggi senza preavviso, offrendoti una scelta di favori, senza voce in capitolo. Per quanto desideriamo comprenderli, ci risulta alquanto arduo."
+|-
+! colspan="2" |Chaos About Olympians 03
+|-
+|'''Chaos'''
+|"Quando porgi un'offerta agli dèi olimpici, per un breve istante essi possono udire le tue suppliche, o almeno così ci è parso di osservare. È assai interessante che i tuoi pensieri riescano a lasciare questo luogo, mentre tu non puoi."
+|-
+! colspan="2" |Chaos About Hades 01
+|-
+|'''Chaos'''
+|"Quando tuo padre e i suoi fratelli rinchiusero i Titani nei più oscuri meandri di questo mondo, fu quella l'ultima volta che videro anche noi. Tu sei diverso da loro; comunicare con te non ci sembra un rischio."
+|-
+! colspan="2" |Chaos About Nyx 01 C
+|-
+|'''Chaos'''
+|"Fummo ingiusti con la dea Nyx, quando ancora era con noi. Malgrado avesse avuto figli propri, volemmo che rimanesse al nostro fianco. Continuammo a creare, e solo quando ci fermammo capimmo il nostro errore. Ma il legame tra noi e lei era reciso, ormai."
+|-
+! colspan="2" |Chaos About Nyx 02
+|-
+|'''Chaos'''
+|"Percepiamo che qualcosa ti turba, Figlio di Ade. Parla, dunque: di che si tratta? Potremmo decifrare i tuoi pensieri senza che tu proferisca parola, ma preferiamo che tu li condivida di tua volontà."
+|-
+|'''Zagreus'''
+|"''Ehm'', padron Caos? Riguardo alla dea Nyx, ecco... sembra voglia tornare a parlarti. Mi chiedevo: perché non provi a contattarla, qualche volta? Sembra convinta del fatto che stia a te fare la prima mossa."
+|-
+|'''Chaos'''
+|"La dea Nyx vorrebbe parlare con noi...? Ciò è alquanto inaspettato, Figlio di Ade. Non ti starai prendendo gioco di noi, per caso? No... il tuo intento è palesemente sincero. In tal caso, non faremo alcuna promessa, ma... considereremo la possibilità."
+|-
+! colspan="2" |Chaos About Nyx 03
+|-
+|'''Chaos'''
+|"Figlio di Ade, se dovessi un giorno avere discendenti... ti raccomandiamo di frapporre tra voi una distanza nello spazio e nel tempo inferiore all'infinito. Benché siano fonte di grattacapi, giunge un momento in cui si avverte il desiderio della loro compagnia."
+|-
+! colspan="2" |Chaos About Nyx 04
+|-
+|'''Chaos'''
+|"Dopo accurata considerazione e su tuo consiglio, abbiamo tentato di ristabilire un contatto con la dea Nyx, di recente. È assai distante da noi ora, naturalmente. Se ne sei al corrente... ha ricevuto il nostro messaggio? Rispondi, prego."
+|-
+|'''Zagreus'''
+|"Be', padron Caos, a volte è difficile decifrare il suo umore, ma... mi è parso che fosse sorpresa ed emozionata nel sentire di nuovo la tua voce. Ha detto che avrebbe pensato al modo migliore in cui rispondere. O se fosse opportuno, piuttosto."
+|-
+|'''Chaos'''
+|"Capiamo. Se lo riterrà opportuno, troverà il modo. L'abbiamo sempre gravata di grandi aspettative. Vi fu un tempo in cui ci aspettavamo che splendesse come il sole, benché fosse la Notte stessa. Non appena ebbe potere sufficiente... se ne andò, e non la trovammo più."
+|-
+! colspan="2" |Chaos Post Reunion Quest 01
+|-
+|'''Chaos'''
+|"Nostra figlia, la dea Nyx... quando ci giunse voce del fatto che gli dèi la credono tua madre, non considerammo appieno la possibilità che avessero ragione, in effetti... salvo per i dettagli della tua nascita. Non potrebbe tenere di più a te se ti avesse generato."
+|-
+! colspan="2" |Chaos Post Reunion Quest 02
+|-
+|'''Chaos'''
+|"Prima del tuo intervento, Figlio di Ade, immaginavamo che la dea Nyx ci avesse dimenticati... di proposito, o a causa del passare del tempo. Credevamo che l'oblio fosse l'unica reale ineluttabilità del cosmo. Ma forse eravamo in errore."
+|-
+! colspan="2" |Chaos Post Reunion Quest 03
+|-
+|'''Chaos'''
+|"Ci risulta difficoltoso mantenerci connessi a più entità coscienti, come te e la dea Nyx. Ma al contempo, ci risulta che tale difficoltà è pienamente ripagata. Rimanere in contatto ci dà molto su cui riflettere, mentre attendiamo il nostro prossimo incontro."
+|-
+! colspan="2" |Chaos Status Improved 01
+|-
+|'''Chaos'''
+|"Ah, ecco il nostro prediletto fra gli immortali che albergano al di sotto della Terra. In che modo possiamo stravolgerti la vita oggi, o figlio di Ade?"
+|-
+! colspan="2" |Chaos Status Improved 02
+|-
+|'''Chaos'''
+|"Possa tu trovare un attimo di pace nel nostro dominio, prima di rituffarti nell'incertezza. Con nostra grande sorpresa, la tua compagnia ci è tutt'altro che sgradita."
+|-
+! colspan="2" |Chaos Post Flashback 01
+|-
+|'''Chaos'''
+|"Confidi nell'Olimpo, ora che gli dèi si sono mostrati generosi? Forse dovresti svelargli il vero scopo del tuo viaggio. Nella loro vanità, si illudono che tu voglia riunirti a loro, e non ad altri."
+|-
+|'''Zagreus'''
+|"Non uscirò mai da qui senza il loro appoggio... ma non posso dirgli di mia madre. Desidera restare nascosta al loro sguardo."
+|-
+|'''Chaos'''
+|"Posizione difficile in cui trovarsi, Figlio di Ade. L'Olimpo potrebbe non tollerare un tale inganno. Stai pur certo, tuttavia, che manterremo il tuo segreto. I suoi sviluppi sono per noi di grande interesse."
+|-
+! colspan="2" |Chaos Darkness Progress 01
+|-
+|'''Chaos'''
+|"Una tale tenebra emana da te, Figlio di Ade, che ancora una volta non abbiamo del tutto previsto il tuo arrivo. Immaginiamo che perfino tuo padre abbia difficoltà a seguire i tuoi spostamenti all'interno del reame su cui crede di regnare."
+|-
+! colspan="2" |Chaos Darkness Progress 02
+|-
+|'''Chaos'''
+|"Ti muovi nelle tenebre, praticamente invisibile, Figlio di Ade. È alquanto arduo persino per noi avvertire la tua presenza, talvolta. Gli dèi olimpici ti scorgono di quando in quando, ma sempre attraverso un velo. Tale è l'influsso di Nyx."
+|-
+! colspan="2" |Chaos About Fates 01
+|-
+|'''Chaos'''
+|"È strano essere soggetti al volere delle Moire. Ma non cadere nella fallacia cognitiva del credere che abbiano già preso ogni decisione al tuo posto, Figlio di Ade. Piuttosto, sono assai abili nell'anticipare le scelte che ognuno farà. Come la seguente."
+|-
+! colspan="2" |Chaos About Infinity 01
+|-
+|'''Chaos'''
+|"Percepiamo la tua costernazione nel guardarti attorno, Figlio di Ade. Hai un altro quesito, e la piena libertà di porcelo."
+|-
+|'''Zagreus'''
+|"Oh, è solo che... a volte mi domando, padron Caos... se tu hai creato tutto questo, allora... chi ha creato ''te''? Che cosa c'era qui, prima del tuo arrivo?"
+|-
+|'''Chaos'''
+|"Tutto ciò che vedi è la conseguenza del tramonto di un'era precedente. Non crediamo si sia trattato di un atto volontario; più un improvviso mutamento di stato, come una conflagrazione segue alla scintilla. Noi ci formammo allora, e demmo quindi forma a ogni altra cosa."
+|-
+! colspan="2" |Chaos About Death 01
+|-
+|'''Chaos'''
+|"Quando morirai e farai ritorno alla residenza di tuo padre, sarà forse come quando noi stessi acquisimmo coscienza, molte ere or sono. Forse anche noi ci eravamo appena estinti, per poi ridestarci."
+|-
+! colspan="2" |Chaos About Discovery 01
+|-
+|'''Chaos'''
+|"Potresti esserti chiesto, Figlio di Ade, come tu abbia fatto a giungere in questo luogo, malgrado il nostro lungo, volontario isolamento. Ce lo siamo chiesti anche noi, e riteniamo che il nostro legame con la dea Nyx sia la risposta più probabile."
+|-
+! colspan="2" |Chaos About Persephone 01
+|-
+|'''Chaos'''
+|"Figlio di Ade, abbiamo dedotto qualcosa di cui avremmo dovuto accorgerci assai prima: tua madre dev'essere colei che diede a sé stessa il nome di Persefone. La sua presenza quaggiù fu breve, dal nostro punto di vista, ma degna di nota. È lei che vai cercando? Rispondi."
+|-
+|'''Zagreus'''
+|"È così. Si trova in superficie, da qualche parte; per questo continuo a venirti a trovare. Sto cercando di trovare lei."
+|-
+|'''Chaos'''
+|"Ti auguriamo successo in tale impresa. Lei è al di là dei nostri sensi, al momento, ma possiamo comunque assisterti nel tuo viaggio, come vedrai a breve."
+|-
+! colspan="2" |Chaos About Persephone 01 B
+|-
+|'''Zagreus'''
+|"Oh. Padron Caos... devo informarti che l'ho già trovata. Ma dove lei si trova, io non posso rimanere a lungo, e così... le faccio visita ogni volta che posso. Un po' come i nostri incontri qui... ma raggiungere lei è perfino più difficile."
+|-
+|'''Chaos'''
+|"Comprendiamo. In tal caso, ci allieta sapere che siate entrati in contatto. E confidiamo che varrà la pena delle tue successive visite... in modo anch'esso non dissimile dai nostri incontri qui."
+|-
+! colspan="2" |Chaos About Persephone 02
+|-
+|'''Chaos'''
+|"Figlio di Ade, se tu riuscissi a individuare colei che si nomò Persefone, a quel punto smetteremmo di aver contatti in questo modo? Rispondi, prego."
+|-
+|'''Zagreus'''
+|"Oh! Io... padron Caos, non so davvero che accadrebbe, a quel punto. Ma in tutta onestà, se potessi lasciare per sempre l'Oltretomba... credo che lo farei. Mi mancheresti, però. Tu e molti altri quaggiù."
+|-
+|'''Chaos'''
+|"...Anche noi sentiremmo la tua mancanza. Grazie per averlo detto."
+|-
+! colspan="2" |Chaos Post Ending 02
+|-
+|'''Chaos'''
+|"Dicci una cosa, Figlio di Ade. Colei che porta il nome di Persefone è tornata. Quand'è così... perché continui a farci visita? Rispondi."
+|-
+|'''Zagreus'''
+|"Padron Caos, a quanto pare ormai ho un certo qual talento nell'evadere da qui... o da lì. Dall'Oltretomba, intendo. Perciò, ora lo faccio in veste più ufficiale. Visto che la fuga dovrebbe essere impossibile, val la pena scoprire se ci sono falle nella sicurezza."
+|-
+|'''Chaos'''
+|"Naturalmente. Continuerai a farci visita, dunque, benché tu abbia già raggiunto quello che era il tuo scopo ai tempi del nostro primo incontro. Bene."
+|-
+! colspan="2" |Chaos About Fishing 01
+|-
+|'''Chaos'''
+|"Siamo colpiti dal fatto che tu sia riuscito a procurarti un esemplare dalle correnti del mio dominio, con null'altro che un semplice strumento. Osserveremo con interesse i tuoi tentativi futuri."
+|-
+! colspan="2" |Chaos About Keepsake 01
+|-
+|'''Chaos'''
+|"Confidiamo che il piccolo catalizzatore che ti abbiamo fornito si stia dimostrando utile, Figlio di Ade? Ci auguriamo che renda meno ardue le tue visite al nostro dominio, aumentandone così la frequenza."
+|-
+! colspan="2" |Chaos About Black Shawl 01
+|-
+|'''Chaos'''
+|"Giungi ammantato da un velo di profonda tenebra, Figlio di Ade. L'antico scialle della dea Nyx. Non ne percepivamo il cupo vuoto da tempo assai considerevole."
+|-
+! colspan="2" |Chaos About Styx 01
+|-
+|'''Chaos'''
+|"Di recente ti sei spinto oltre i nostri sensi, Figlio di Ade. Noi esistiamo ormai solo nei più profondi abissi. Sappiamo ciò che esiste là fuori, avendolo creato; ma non sappiamo come sia divenuto, nel frattempo. Non dircelo: preferiamo considerare le possibilità."
+|-
+! colspan="2" |Chaos Surface Quest 01
+|-
+|'''Chaos'''
+|"Dai tremori della terra, abbiamo dedotto che il tuo stesso padre ti si oppone quando sei ormai a un passo dal sorgere in superficie. Le vostre interazioni devono essere alquanto memorabili. Abbiamo dedotto bene? Puoi rispondere."
+|-
+|'''Zagreus'''
+|"Tutto corretto, padron Caos. Mio padre si fa personalmente carico di sbarrarmi il passo, nel caso in cui nessuno dei suoi tirapiedi ci riesca prima. Può... essere un problema."
+|-
+|'''Chaos'''
+|"In tal caso, prendi in considerazione l'idea di portare con te il piccolo pegno tondeggiante che ti abbiamo affidato. Quello a forma di ciò che chiami un uovo? Non produrrà alcun effetto, ma se dovessi prevalere ne trarremo entrambi un certo diletto, non credi?"
+|-
+! colspan="2" |Chaos Low Health 01
+|-
+|'''Chaos'''
+|"Si direbbe che tu sia a un passo dalla morte, o Figlio di Ade, eppure hai deciso di varcare la nostra soglia. Desideri forse che acceleriamo il tuo trapasso?"
+|-
+! colspan="2" |Chaos Low Health 02
+|-
+|'''Chaos'''
+|"Quasi non ti avevamo notato, o Figlio di Ade, poiché sei molto più vicino alla morte che alla vita, ora. Tuttavia, forse potremo scongiurare l'inevitabile almeno per un po'."
+|-
+! colspan="2" |Chaos Low Health 03
+|-
+|'''Chaos'''
+|"Le tue morti sono un momentaneo contrattempo, Figlio di Ade. Contrattempo nel quale pari assai prossimo a incorrere, ora."
+|-
+! colspan="2" |Chaos Low Health 04
+|-
+|'''Chaos'''
+|"La tua prossima esperienza di decesso appare imminente. Vediamo se possiamo posporla, o accelerarla."
+|-
+! colspan="2" |Chaos Low Health 05
+|-
+|'''Chaos'''
+|"Potrà sembrarti crudele che ci auguriamo la tua morte, o Figlio di Ade, ma dal nostro punto di vista ciò rende più probabile un tuo futuro ritorno in questi luoghi."
+|-
+! colspan="2" |Chaos Low Health 06
+|-
+|'''Chaos'''
+|"Benché tu possa presto soccombere alle tue ferite, ti preghiamo di sfruttare al meglio la vita che ti resta, anziché confidare nella prossima. Il futuro è incerto per chiunque, tranne che per le Moire."
+|-
+! colspan="2" |Chaos About Shield Weapon 01
+|-
+|'''Chaos'''
+|"Giungi nel nostro dominio con l'artefatto onniveggente che generammo all'alba dei tempi. È considerato uno strumento di difesa, a quanto ne sappiamo. Forse avrai già scoperto che non si tratta di nulla del genere; o in caso contrario, lo scoprirai presto."
+|-
+! colspan="2" |Chaos About Weapon Enchantments 01
+|-
+|'''Chaos'''
+|"Eri atteso, Figlio di Ade, poiché tramite te riusciamo a vedere. O meglio, tramite l'artefatto onniveggente che generammo all'alba dei tempi, e che ora, in mano tua, riassume la propria forma originaria. Puoi rispondere."
+|-
+|'''Zagreus'''
+|"Oh, intendi lo Scudo del Caos? O meglio, il ''tuo ''scudo, padron Caos. È un oggetto davvero notevole. Maestoso, perfino! Le tue prime creazioni devono essere state stupefacenti."
+|-
+|'''Chaos'''
+|"Una risposta accettabile. Ti siamo grati di averci concesso uno sguardo diretto al tuo vasto dominio."
+|-
+! colspan="2" |Chaos About Zeus Aspect 01
+|-
+|'''Chaos'''
+|"Ah, rechi ancora una volta il nostro onniveggente artefatto, benché nella forma usata dal sommo Zeus per la sua violenta rappresaglia filiale. Attraverso lo scudo avemmo modo di osservarlo, per un certo periodo."
+|-
+! colspan="2" |Chaos Reveals Beowulf Aspect 01
+|-
+|'''Chaos'''
+|"Abbiamo un messaggio per te, Figlio di Ade; risale a un tempo in cui molti fra i concetti in esso espressi non esistevano ancora. Recita: ''ti vedo ergerti saldo contro le vampe del serpente. ''Una frase di risveglio, per te e per la reliquia onniveggente di nostra creazione."
+|-
+|'''Zagreus'''
+|"Una frase di risveglio e... una reliquia onniveggente. Intendi Aegis, giusto? Non ho che da dirgli ''ti vedo ergerti saldo contro le vampe del serpente'', quindi. Ma non puoi dirmi altro su che cosa significhi, o a chi si riferisca?"
+|-
+|'''Chaos'''
+|"Oh, possiamo dirti quasi ogni cosa. Ma preferiremmo di gran lunga che tu apprendessi da solo le risposte ai tuoi quesiti."
+|-
+! colspan="2" |Chaos First Pick Up
+|-
+|'''Zagreus'''
+|"Questo non è qualcuno che riconosco, perciò... in nome di Ade! ''Ehm'', c'è nessuno? Chi mi chiama, se posso chiedere?"
+|-
+|'''Chaos'''
+|"...Gli dèi dell'Olimpo si sono alquanto rammolliti... non sei d'accordo?"
+|-
+|'''Zagreus'''
+|"''Ehm''... ci conosciamo?"
+|-
+|'''Chaos'''
+|"Oh, ci siamo incontrati, in un certo senso. Noi conosciamo tutti, qui e altrove. Desideri lasciare questo luogo? Ebbene, è nostra intenzione renderti le cose un po' più interessanti... e se un giorno dovessi incontrare gli dèi dell'Olimpo, porta loro i nostri saluti."
+|-
+! colspan="2" |Chaos Misc Pickup 01
+|-
+|'''Chaos'''
+|"Abbiamo avvertito un tremito nelle viscere della terra, quasi avesse inghiottito qualcosa che non riesce a digerire... credi sia possibile che lo stesso sottosuolo desideri sputarti fuori...?"
+|-
+! colspan="2" |Chaos Misc Pickup 02
+|-
+|'''Chaos'''
+|"Gli dèi si contendono il tuo favore, non è così? Troppo spesso dimenticano il proprio ruolo. Ti forzano ad accettare i propri doni, mentre noi... ti offriamo solo una scelta."
+|-
+! colspan="2" |Chaos Misc Pickup 03
+|-
+|'''Chaos'''
+|"Il tuo percorso devi sceglierlo tu secondo il tuo giudizio, a prescindere dai piani delle Moire. Insieme possiamo alterare il loro ordito, se vorrai."
+|-
+! colspan="2" |Chaos Misc Pickup 04
+|-
+|'''Chaos'''
+|"Abbiamo previsto il tuo arrivo, e al contempo ne siamo sorpresi, Figlio di Ade. Dove ti condurrà il tuo viaggio, d'ora innanzi?"
+|-
+! colspan="2" |Chaos Misc Pickup 05
+|-
+|'''Chaos'''
+|"In qual modo il nostro potere sull'intera esistenza potrà esserti d'aiuto stavolta, Figlio di Ade?"
+|-
+! colspan="2" |Chaos Misc Pickup 06
+|-
+|'''Chaos'''
+|"Tremori nelle profondità della terra avevano preannunciato il tuo arrivo in questo preciso istante, Figlio di Ade. In altre parole, eri atteso."
+|-
+! colspan="2" |Chaos Misc Pickup 07
+|-
+|'''Chaos'''
+|"Hai nuovamente scelto di farci visita nei più oscuri meandri della terra; nuovamente scegliamo perciò di offrirti i mezzi per alterare la tua realtà."
+|-
+! colspan="2" |Chaos Misc Pickup 08
+|-
+|'''Chaos'''
+|"All'epoca in cui concepimmo il mondo e gli immortali, o Figlio di Ade, non immaginavamo che in questo istante saresti stato al nostro cospetto."
+|-
+! colspan="2" |Chaos Misc Pickup 09
+|-
+|'''Chaos'''
+|"Ti presenti al momento giusto, proprio mentre ci interrogavamo su come meglio potremmo alterare gli uni l'esistenza dell'altro, quest'oggi."
+|-
+! colspan="2" |Chaos Misc Pickup 10
+|-
+|'''Chaos'''
+|"Figlio di Ade, sei ancora una volta il benvenuto nel mio dominio al di sotto dell'Oltretomba; scegli pure in qual modo interferire con le trame della realtà."
+|-
+! colspan="2" |Chaos Misc Pickup 11
+|-
+|'''Chaos'''
+|"Siamo lieti di rivederti qui. Mediante il tuo operato ci è concesso manipolare la realtà, lungo i suoi orli non ancora del tutto formati."
+|-
+! colspan="2" |Chaos Misc Pickup 12
+|-
+|'''Chaos'''
+|"La tua presenza non cessa d'incuriosirci, Figlio di Ade. Non sei come gli abitanti dell'Olimpo, che hanno perso di noi ogni memoria, o si comportano come se lo avessero fatto."
+|-
+! colspan="2" |Chaos Misc Pickup 13
+|-
+|'''Chaos'''
+|"Dal nostro punto di vista siamo stati noi a convocarti, mentre tu pensi d'esser giunto di tua volontà. Ma due cose possono esser vere allo stesso tempo, non trovi?"
+|-
+! colspan="2" |Chaos Misc Pickup 14
+|-
+|'''Chaos'''
+|"Vieni avanti, o Figlio di Ade, così che insieme si possa spargere il mio nome per le profondità di quello che tuo padre crede il proprio regno."
+|-
+! colspan="2" |Chaos Misc Pickup 15
+|-
+|'''Chaos'''
+|"Come procede in questi giorni il tuo infinito ciclo di rinascita e morte, o Figlio di Ade? Sufficientemente divertente, vogliamo sperare!"
+|-
+! colspan="2" |Chaos Misc Pickup 16
+|-
+|'''Chaos'''
+|"Tra le infinite possibilità che ci si dispiegano innanzi, Figlio di Ade, ne abbiamo selezionate arbitrariamente altre tre fra cui lasciarti scegliere."
+|-
+! colspan="2" |Chaos Misc Pickup 17
+|-
+|'''Chaos'''
+|"Le Moire hanno grandi cose in serbo per te, Figlio di Ade. Forse, tuttavia, in questo luogo potremo manomettere in parte il loro ordito."
+|-
+! colspan="2" |Chaos Misc Pickup 18
+|-
+|'''Chaos'''
+|"Cospiriamo insieme contro tuo padre, così da espandere e confondere la sua percezione di ciò che è o non è possibile nel suo Oltretomba."
+|-
+! colspan="2" |Chaos Misc Pickup 19
+|-
+|'''Chaos'''
+|"Scegliere tra infinite possibilità può essere tedioso, perciò lascia che ne selezioniamo per te un ventaglio decisamente più ristretto con cui alterare i piani delle Moire."
+|-
+! colspan="2" |Chaos Misc Pickup 20
+|-
+|'''Chaos'''
+|"Nel corso degli eoni, ci siamo spessi chiesti: è necessario essere imparziali? Gli immortali sono la nostra progenie; di certo dovremmo trattarli in modo equanime. Eppure, troviamo in ciò assai scarso diletto."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 01
+|-
+|'''Chaos'''
+|"Tra infinite possibilità, considera solo queste tre."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 02
+|-
+|'''Chaos'''
+|"Scegli con cautela, sia ora che in generale."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 03
+|-
+|'''Chaos'''
+|"Tutti noi siamo la somma delle decisioni che prendiamo, o che sono prese per nostro conto."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 04
+|-
+|'''Chaos'''
+|"Questo spazio si fa assai più interessante quando tu ne occupi una parte."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 05
+|-
+|'''Chaos'''
+|"Il modo in cui prendi le tue decisioni è per noi fonte di inesauribile interesse."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 06
+|-
+|'''Chaos'''
+|"Il fardello del passare del tempo ti obbligherà a compiere una scelta."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 07
+|-
+|'''Chaos'''
+|"Non si può forse trovar piacere nel semplice atto della scelta, Figlio di Ade?"
+|-
+! colspan="2" |Chaos Misc Pickup Extra 08
+|-
+|'''Chaos'''
+|"Il nostro marchio ti accompagni, Figlio di Ade. Ora non ti resta che determinarne la forma."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 09
+|-
+|'''Chaos'''
+|"Benché le acque dello Stige possano lavar via il nostro marchio, potremo sempre ripristinarlo."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 10
+|-
+|'''Chaos'''
+|"Le tue visite scandiscono nell'arco del tempo un ritmo assai gradevole, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 11
+|-
+|'''Chaos'''
+|"Sei già di ritorno, e sei sempre il benvenuto, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 12
+|-
+|'''Chaos'''
+|"Sei libero di farci visita ogni volta che vuoi, o che osi."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 13
+|-
+|'''Chaos'''
+|"Eravamo stranamente impazienti di vederti arrivare, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup Extra 14
+|-
+|'''Chaos'''
+|"Non ti chiediamo alcuno scambio di parole. Solo una scelta."
+|-
+! colspan="2" |Chaos Misc Pickup 21
+|-
+|'''Chaos'''
+|"Ancora una volta torni al nostro cospetto."
+|-
+! colspan="2" |Chaos Misc Pickup 22
+|-
+|'''Chaos'''
+|"Abbiamo una proposta per te, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup 23
+|-
+|'''Chaos'''
+|"Ti diamo il benvenuto nel nostro dominio."
+|-
+! colspan="2" |Chaos Misc Pickup 24
+|-
+|'''Chaos'''
+|"Come sta il solitario Figlio di Ade?"
+|-
+! colspan="2" |Chaos Misc Pickup 25
+|-
+|'''Chaos'''
+|"Quali benefici possiamo arrecarci a vicenda, Figlio di Ade?"
+|-
+! colspan="2" |Chaos Misc Pickup 26
+|-
+|'''Chaos'''
+|"Ti trovi all'interno della nostra presenza, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup 27
+|-
+|'''Chaos'''
+|"Che cosa ti porta al nostro cospetto, stavolta?"
+|-
+! colspan="2" |Chaos Misc Pickup 28
+|-
+|'''Chaos'''
+|"Queste tue visite ci sono assai gradite."
+|-
+! colspan="2" |Chaos Misc Pickup 29
+|-
+|'''Chaos'''
+|"In qual modo possono plasmarti le forze del Caos?"
+|-
+! colspan="2" |Chaos Misc Pickup 30
+|-
+|'''Chaos'''
+|"Sei giunto al nostro cospetto, una volta di più."
+|-
+! colspan="2" |Chaos Misc Pickup 31
+|-
+|'''Chaos'''
+|"Ti vediamo, Figlio di Ade. Lascia che ci mostriamo anche noi."
+|-
+! colspan="2" |Chaos Misc Pickup 32
+|-
+|'''Chaos'''
+|"Sei al nostro cospetto, Figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup 33
+|-
+|'''Chaos'''
+|"In qual modo vorresti alterare l'intento delle Moire?"
+|-
+|'''Chaos'''
+|"Il qual modo potremmo ritessere le trame dell'esistenza per te, Figlio di Ade?"
+|-
+! colspan="2" |Chaos Misc Pickup 34
+|-
+|'''Chaos'''
+|"Non hai bisogno di particolari ragioni per farci visita."
+|-
+! colspan="2" |Chaos Misc Pickup 35
+|-
+|'''Chaos'''
+|"In che modo possiamo plasmare la realtà a tuo favore?"
+|-
+! colspan="2" |Chaos Misc Pickup 36
+|-
+|'''Chaos'''
+|"Sei sempre il benvenuto in questa dimensione."
+|-
+! colspan="2" |Chaos Misc Pickup 37
+|-
+|'''Chaos'''
+|"Che cosa ti solletica, stavolta?"
+|-
+! colspan="2" |Chaos Misc Pickup 38
+|-
+|'''Chaos'''
+|"Ponderiamo insieme alcune possibilità."
+|-
+! colspan="2" |Chaos Misc Pickup 39
+|-
+|'''Chaos'''
+|"Tra innumerevoli sviluppi, ti proponiamo questi tre."
+|-
+! colspan="2" |Chaos Misc Pickup 40
+|-
+|'''Chaos'''
+|"Scegli come aggirare il disegno delle Moire."
+|-
+! colspan="2" |Chaos Misc Pickup 41
+|-
+|'''Chaos'''
+|"Salute, figlio di Ade."
+|-
+! colspan="2" |Chaos Misc Pickup 42
+|-
+|'''Chaos'''
+|"La tua presenza ci rallegra, una volta di più."
+|-
+! colspan="2" |Chaos Misc Pickup 43
+|-
+|'''Chaos'''
+|"Ancora una volta discendi nel nostro dominio."
+|-
+! colspan="2" |Chaos Misc Pickup 45
+|-
+|'''Chaos'''
+|"Sei ritornato a noi."
+|-
+! colspan="2" |Chaos Misc Pickup 46
+|-
+|'''Chaos'''
+|"Sei più che benvenuto in questo luogo."
+|-
+! colspan="2" |Chaos With Nyx 01
+|-
+|'''Chaos'''
+|"La tua presenza è gradita, Figlio di Ade, ma non trattenerti troppo, per cortesia."
+|-
+! colspan="2" |Chaos With Nyx 02
+|-
+|'''Chaos'''
+|"Perdonaci, Figlio di Ade. Siamo impegnati in uno scambio di ricordi."
+|-
+! colspan="2" |Chaos With Nyx 03
+|-
+|'''Chaos'''
+|"Figlio di Ade, riunirci alla dea Nyx ci reca profonda gioia."
+|-
+! colspan="2" |Chaos With Nyx 04
+|-
+|'''Chaos'''
+|"Perdonaci, Figlio di Ade, ma vorremmo proseguire la nostra conversazione con la dea Nyx."
+|-
+! colspan="2" |Chaos With Nyx 05
+|-
+|'''Chaos'''
+|"Non vedevamo la dea Nyx da parecchio tempo."
+|-
+! colspan="2" |Chaos With Nyx 06
+|-
+|'''Chaos'''
+|"Non siamo molto avvezzi a tutta la compagnia che abbiamo di recente."
+|-
+! colspan="2" |Chaos With Nyx 07
+|-
+|'''Chaos'''
+|"Nostra figlia stava giusto ragguagliandoci sugli ultimi eventi all'interno della vostra Dimora."
+|-
+! colspan="2" |Chaos With Nyx 08
+|-
+|'''Chaos'''
+|"Come puoi osservare, noi e la dea Nyx siamo impegnati in una conversazione, al momento."
+|-
+! colspan="2" |Chaos Loot Bought 01
+|-
+|'''Chaos'''
+|"Forse non ti aspettavi di trovarci fra le cianfrusaglie del traghettatore Caronte... ed è precisamente per tale motivo che ci troviamo qui."
+|-
+! colspan="2" |Chaos Loot Bought 02
+|-
+|'''Chaos'''
+|"Il traghettatore Caronte comprende i nostri capricci, e la sua lealtà può essere facilmente acquistata da chi non attribuisce alcun valore al denaro... perciò, eccoci qua."
+|-
+! colspan="2" |Chaos Gift 01
+|-
+|'''Zagreus'''
+|"Padron Caos? I mortali fanno offerte ai miei parenti in cima all'Olimpo. Io vorrei fare un'offerta a te. Grazie di... be', di tutto."
+|-
+|'''Chaos'''
+|"Ci diverte vederti tentare di blandirci con offerte materiali. Concedici allora, a nostra volta, un tentativo di ricambiare."
+|-
+! colspan="2" |Chaos Gift 02
+|-
+|'''Zagreus'''
+|"Questo è per te, potente Caos. Chiunque lo assaggi ne va matto, sopra o sotto la terra."
+|-
+|'''Chaos'''
+|"La tua offerta è lusinghiera, ma superflua. Non è necessario che tu impieghi mezzi materiali per guadagnarti il nostro apprezzamento: è il pensiero che conta."
+|-
+! colspan="2" |Chaos Gift 03
+|-
+|'''Zagreus'''
+|"Potente Caos, progenitore degli dèi, mi onora aver fatto la tua conoscenza. Ti prego, accetta questo dono."
+|-
+|'''Chaos'''
+|"Di rado mortali e immortali sono colti dall'idea di presentarci offerte. Dal momento che non siamo soliti aspettarci gesti simili, accettiamo con piacere."
+|-
+! colspan="2" |Chaos Gift 04
+|-
+|'''Zagreus'''
+|"Grande Caos, giuro che non dimenticherò mai né te né i tuoi generosi favori. Che la tua saggezza e il tuo capriccio mi guidino in eterno."
+|-
+|'''Chaos'''
+|"Si tratti di un'offerta di fedeltà o di amicizia, Figlio di Ade? Non fornirci la risposta; preferiamo crogiolarci nell'infinito oceano delle possibilità."
+|-
+! colspan="2" |Chaos Gift 05
+|-
+|'''Zagreus'''
+|"Sarò eternamente grato ai miei viaggi nell'Oltretomba per avermi dato l'opportunità di incontrarti, padron Caos."
+|-
+|'''Chaos'''
+|"La tua reiterata generosità sta cominciando a farsi prevedibile, eppure... in qualche modo, nonostante tutto, continuiamo ad apprezzarla. Bizzarro."
+|-
+! colspan="2" |Chaos Gift 06
+|-
+|'''Zagreus'''
+|"Padron Caos, non mi sorprende affatto che tu abbia dato origine all'intera esistenza: in te rivedo le migliori qualità di molti fra i miei più cari amici. Ti prego, accetta questo dono."
+|-
+|'''Chaos'''
+|"In caso non ti sia ancora chiaro, Figlio di Ade, le tue reiterate offerte non produrranno ulteriori ricompense da parte nostra. Eppure continui a propormele, senza fine o scopo? Fra mortali e immortali sono in molti a considerare cose del genere del tutto inaccettabili."
+|-
+! colspan="2" |Chaos Gift 07
+|-
+|'''Zagreus'''
+|"Questa è la più ricercata delle prelibatezze sull'Olimpo, padron Caos. È per te. Immagino che gli dèi abbiano difficoltà a fartene avere, quaggiù."
+|-
+|'''Chaos'''
+|"Ci offri un dono ancor più sontuoso dei precedenti, sapendo che non ne riceverai alcun beneficio. Non possiamo essere blanditi, questo lo sai. Il tuo è uno spreco di tempo e risorse, benché si tratti di cose che entrambi abbiamo in abbondanza. Rispondi, ora."
+|-
+|'''Zagreus'''
+|"...Penso che l'atto di donare qualcosa non sia una transazione, di per sé. So che non avrò in cambio altri talismani o reliquie, ma tramite queste offerte ho il piacere di esprimerti la mia gratitudine. Il che è già abbastanza, per me."
+|-
+|'''Chaos'''
+|"...Crediamo di capire. Donare è simile al rubare, dunque: ottieni qualcosa da noi, senza che siamo noi a dartela. Pare che le nostre creazioni abbiano ancora molto da insegnarci. Uno scambio equo: nuova conoscenza, in cambio del tuo piacere."
+|-
+! colspan="2" |Chaos Gift 08
+|-
+|'''Zagreus'''
+|"Padron Caos, se non ti spiace? Quest'Ambrosia è da donarsi a coloro che sono a noi cari, e proprio non mi viene in mente un destinatario più appropriato. Prendila, ti prego."
+|-
+|'''Chaos'''
+|"Accetteremo quest'offerta, purché sia l'ultima, Figlio di Ade. Dopo attenta considerazione, le nostre precedenti opinioni sui tuoi intenti si sono rivelate inaccurate. Ci rincresce di aver paragonato il tuo comportamento a quello di un volgare ladro. Rispondi, prego?"
+|-
+|'''Zagreus'''
+|"Non parliamone più, padron Caos. È una novità anche per me, e onestamente cerco di non pensare troppo alle cose... mio padre lo fa già abbastanza per entrambi. So solo che se incontro il creatore di ogni cosa, è naturale ringraziarlo. Per tutto quanto."
+|-
+|'''Chaos'''
+|"...Una risposta più che accettabile. E poiché l'atto del donare non è una transazione, diremo che tu avessi già la nostra gratitudine."
+|-
+|}

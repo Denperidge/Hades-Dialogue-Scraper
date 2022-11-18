@@ -1,0 +1,831 @@
+{| class="wikitable"
+|+
+! colspan="2" |Zeus With Athena 01
+|-
+|'''Zeus'''
+|"Regarde, Zagreus, voici la courageuse Athéna, la première de ma famille à t'avoir tendu la main dans toute sa sagacité. Ma fille, tu es si proactive que tu as contacté Zagreus avant même de m'informer de la situation !"
+|-
+|'''Athena'''
+|"Cher père, si seulement il m'était possible de régler de telles affaires encore plus promptement et discrètement, pour que seules les plus graves captent votre attention. Cela dit, je suis certaine que Zagreus et moi vous sommes très reconnaissants de votre intervention."
+|-
+! colspan="2" |Zeus With Ares 01
+|-
+|'''Zeus'''
+|"Mon neveu ! En vertu de mon autorité divine, Arès, mon fils bien souvent incompris, va maintenant t'accorder une infime fraction de son pouvoir. Je vais bien finir par le rendre utile, celui-là !"
+|-
+|'''Ares'''
+|"Je ferai tout ce que tu voudras, Père. Tes désirs sont les miens."
+|-
+! colspan="2" |Zeus With Aphrodite 01
+|-
+|'''Zeus'''
+|"Jeune homme, je sais que tu aimerais faire connaissance avec la charmante Aphrodite en tête-à-tête, ou encore... oh, et puis, tu verras bien une fois arrivé là-haut ! Il verra bien, n'est-ce pas, ma chère Aphrodite, hm ?"
+|-
+|'''Aphrodite'''
+|"Mes oreilles me joueraient-elles des tours, Seigneur Zeus ?! Voilà qui m'a l'air d'être une remarque franchement grossière, venant de ''toi ''! Je suis outrée de voir que notre modèle de conduite à tous se permet de tenir de tels propos sur ''moi ''!"
+|-
+! colspan="2" |Zeus With Artemis 01
+|-
+|'''Zeus'''
+|"Zagreus, quand tu nous auras rejoints là-haut, il faudra que nous te trouvions une compagne digne de toi, non ? Fringant jeune homme que tu es ! Ce n'est pas le choix qui manque ici, à quelques exceptions près... comme par exemple ma fille rusée, Artémis, qui refuse obstinément de choisir un compagnon !"
+|-
+|'''Artemis'''
+|"Oui, Zagreus, malgré tous ces prétendants au corps parfaitement sculpté, désireux de m'épouser ou de m'embarrasser, je préfère, pour une raison que j'ignore, passer le plus clair de mon temps seule ou avec mes amies nymphes dans les bois !"
+|-
+! colspan="2" |Zeus With Demeter 01
+|-
+|'''Zeus'''
+|"Allons, allons, jeune homme. Quoi que tu aies pu entendre sur cette chère Déméter, je suis là pour dissiper ces malentendus. Elle est comme une sœur pour moi, oui, mais rien de plus. Bien qu'il est vrai que ses parents Titans et les miens ont partagé le même sort."
+|-
+|'''Demeter'''
+|"Ma foi, Zeus, mon frère adoptif ! Quelle marque de franchise inattendue, venant de toi ! On pourrait presque croire que tu te sens obligé de dire la vérité uniquement lorsque je suis à portée de voix."
+|-
+! colspan="2" |Zeus About Lucifer Aspect 01
+|-
+|'''Zeus'''
+|"As-tu trouvé Exagryphe, et as-tu prononcé la phrase d'éveil, jeune homme ? Je la lui dirais bien moi-même, mais bon ! N'oublie pas : ''Je vois ta fière chute des cieux jusque dans les flammes''."
+|-
+! colspan="2" |Zeus About Lucifer Aspect 02
+|-
+|'''Zeus'''
+|"Ah, voilà une apparence tout à fait originale, même pour Exagryphe ! J'en déduis donc que la phrase d'éveil a fonctionné. Le propriétaire de cet aspect... Lucifer, c'est bien ça ? Figure-toi qu'il s'est rebellé contre son propre père ! Ou, du moins, a essayé. Une histoire finalement assez banale, semble-t-il."
+|-
+! colspan="2" |Zeus About Demeter 03
+|-
+|'''Zeus'''
+|"Je vois que tu es déjà sous l'emprise glaciale de Dame Déméter. On ne peut pas dire qu'elle est la plus chaleureuse du clan, n'est-ce pas ? Cela dit, sois patient avec elle, s'il te plaît... elle a beaucoup souffert."
+|-
+! colspan="2" |Zeus About Demeter 01
+|-
+|'''Zeus'''
+|"Je crois comprendre que ma chère sœur Déméter a déjà tenté de me discréditer auprès de toi, jeune homme ? Oh, pardon, ma sœur ''adoptive'', c'est ainsi qu'elle veut que je l'appelle, tant elle est réticente à faire partie de notre grande famille."
+|-
+! colspan="2" |Zeus About Demeter 02
+|-
+|'''Zeus'''
+|"Je te prie d'excuser l'attitude méprisante de Dame Déméter, mon neveu. Vois-tu, elle ne s'est toujours pas remise de la disparition soudaine de sa fille, même après tout ce temps. Cette pauvre petite, elle a... ''pouf '' ! Tout simplement disparu ! J'essaye de lui remonter le moral de temps à autre, mais ''non'', la douleur persiste, encore et toujours !"
+|-
+! colspan="2" |Zeus About Persephone 01
+|-
+|'''Zeus'''
+|"Pauvre Déméter, jeune homme. Nous nous demandons encore ce qu'est devenue sa douce fille. Peut-être s'est-elle enfuie avec des mortels ? Les rumeurs vont bon train, toutes plus grotesques les unes que les autres. Ne va pas croire tout ce que tu entends, et fais preuve de délicatesse sur le sujet, hm ? Déméter a déjà assez souffert ainsi."
+|-
+! colspan="2" |Zeus About Persephone 02
+|-
+|'''Zeus'''
+|"La pauvre Déméter ne cesse de parler de sa fille disparue, Zagreus. Mais je veux que tu comprennes une chose. Elle n'est plus. Nous avons tous fait notre deuil. Peut-être qu'un jour, Déméter acceptera enfin ce qui s'est passé et que nous pourrons alors tourner la page tous ensemble en tant que famille soudée."
+|-
+! colspan="2" |Zeus About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"J'espère que ça va marcher... Au nom d'Hadès ! Olympe, ceci est un message officiel ! Pour vous, dans toute votre splendeur, oncle Zeus."
+|-
+|'''Zeus'''
+|"Oh, mais qu'as-tu pour moi, jeune homme ? On dirait un genre de message... ah, il porte mon sceau ! Mais il semblerait qu'il y en ait un pour chaque dieu de l'Olympe ? Est-ce que tous les autres ont déjà reçu les leurs ? Il faut que je sache de quoi il est question... et c'est de ton père, bien sûr ! Je vais le lire tout de suite !"
+|-
+! colspan="2" |Zeus About Olympian Reunion Quest 02
+|-
+|'''Zeus'''
+|"J'ai hâte d'en savoir plus sur le contenu de ce fascinant message que tu as envoyé ici, mon neveu ! C'est très mystérieux, en effet. Je surveillerai de près les prochains !"
+|-
+! colspan="2" |Zeus Post Epilogue 01
+|-
+|'''Zeus'''
+|"Il faut que je te dise, Zagreus, que j'ai été ravi d'enfin te rencontrer ! Nous avons été si heureux d'apprendre que Perséphone allait bien ! Et Nyx est vraiment à la hauteur de sa réputation. Elle n'aurait pas dû nous mentir sur ta parenté, mais je sais que ce sont des sujets compliqués, et ce qui est fait est fait !"
+|-
+! colspan="2" |Zeus About Poseidon 01
+|-
+|'''Zeus'''
+|"Poséidon est déjà passé te voir, hm ? Mon vantard de frère s’entend encore moins bien que moi avec le Seigneur Hadès. Laisse-moi donc ajouter une petite étincelle à ses tempêtes !"
+|-
+! colspan="2" |Zeus About Athena 01
+|-
+|'''Zeus'''
+|"Ma courageuse petite Athéna a été plus rapide que moi cette fois, n’est-ce pas ? Peu importe, avec sa bénédiction et la mienne, plus rien ne pourra t'arrêter !"
+|-
+! colspan="2" |Zeus About Aphrodite 01
+|-
+|'''Zeus'''
+|"La charmante Aphrodite t'a-t-elle déjà fait part de ses charmes, Zagreus ? Ou puis-je t'offrir la bénédiction de l’Olympe et agrémenter son pouvoir cataclysmique du mien ?"
+|-
+! colspan="2" |Zeus About Artemis 01
+|-
+|'''Zeus'''
+|"Artémis l’insaisissable t'a témoigné sa faveur, n’est-ce pas ? Cette petite effrontée ne fait preuve de respect envers personne, pas même moi ! Mais je vais quand même renforcer sa bénédiction."
+|-
+! colspan="2" |Zeus About Ares 01
+|-
+|'''Zeus'''
+|"Tu t'entends bien avec Arès, n’est-ce pas, mon neveu ? ''Hah''. Si seulement c'était toi qui étais mon fils plutôt que lui... mais non, je plaisante, je plaisante ! Tiens, accepte donc ma bénédiction !"
+|-
+! colspan="2" |Zeus About Dionysus 01
+|-
+|'''Zeus'''
+|"Je suis heureux de savoir que Dionysos et toi vous entendez si bien, jeune homme. Il aurait bien besoin d’un ami qui a la tête sur les épaules, celui-là... et toi, de ma bénédiction !"
+|-
+! colspan="2" |Zeus About Hermes 01
+|-
+|'''Zeus'''
+|"''Hmm ''! Tu es arrivé jusqu'ici plutôt rapidement... d'ailleurs, cela me fait penser, je n'ai pas vu le petit Hermès depuis un moment maintenant ! Cette canaille doit sûrement être en train de gambader je ne sais où, encore !"
+|-
+! colspan="2" |Zeus About Hades 01
+|-
+|'''Zeus'''
+|"Mon neveu, j’aurais un service à te demander. Dis à ton père, si jamais tu le revois, que son frère Zeus le pardonne, et qu'il aimerait reprendre contact avec lui et l’accueillir à nouveau dans la famille. Tu feras cela pour moi, hm ?"
+|-
+! colspan="2" |Zeus Backstory 01
+|-
+|'''Zeus'''
+|"Tu es donc le fils d’Hadès et de Nyx, cette déesse de la nuit, c'est bien cela, mon neveu...? Eh bien, je suppose que parmi les habitants de son royaume, c’est elle qui ressemble le plus à une reine. J’ai bien essayé de lui trouver des spécimens plus fréquentables, mais sans succès, et voilà où nous en sommes."
+|-
+! colspan="2" |Zeus Backstory 02
+|-
+|'''Zeus'''
+|"Quand la déesse Nyx nous a mis au courant de ton existence et de ta situation, tout l’Olympe a fait cause commune afin de t'aider du mieux possible. Une famille comme la mienne protège les siens !"
+|-
+! colspan="2" |Zeus Backstory 03
+|-
+|'''Zeus'''
+|"Mes frères Hadès et Poséidon ont autrefois courageusement combattu à mes côtés, tu le sais, n’est-ce pas, mon neveu ? Nous avons renversé les Titans et établi notre loi sur la terre. Ensuite, ton père est descendu au royaume des morts, et... disons que nous ne nous sommes plus beaucoup vus depuis."
+|-
+! colspan="2" |Zeus Backstory 04
+|-
+|'''Zeus'''
+|"Ton père t'a sûrement dit qu’il doit plus son règne dans les Enfers au tissage des Moires qu’à son propre choix. Il est vrai qu’il a tiré la courte paille, si j'ose dire. Tandis que Poséidon et moi-même, ma foi, nous nous portons plutôt bien !"
+|-
+! colspan="2" |Zeus Backstory 05
+|-
+|'''Zeus'''
+|"Mon frère Hadès a toujours été du genre solitaire, tu sais. Comme je l'ai plaint ! Malheureusement, je ne suis jamais vraiment parvenu à le faire sortir de sa coquille, et maintenant il broie du noir là-dessous. Tu n'as pas à supporter le poids de ses frustrations."
+|-
+! colspan="2" |Zeus Backstory 06
+|-
+|'''Zeus'''
+|"Le vieux Hadès n'a jamais cessé d'ignorer le moindre de mes efforts pour lui tendre la main, jeune homme. Ah, mais c’est qu’il est obstiné, en effet. Tu fais bien de venir chercher le bon côté de ta famille."
+|-
+! colspan="2" |Zeus About Nyx 01
+|-
+|'''Zeus'''
+|"Au fait, mon neveu, j'ai ouï dire que ta mère Nyx était un sacré morceau ! Si tu veux bien me pardonner l'expression, bien sûr. Ton père ne s'est jamais montré très sensible à une quelconque compagnie, mais peut-être que sa concubine a su lui faire découvrir certains plaisirs de la vie, en fin de compte !"
+|-
+! colspan="2" |Zeus Run Progress 01
+|-
+|'''Zeus'''
+|"Zagreus, si jamais tu rejoins la surface, fais-le moi savoir immédiatement, d'accord ? Je veillerai personnellement à ce que tu sois escorté jusqu’au sommet de l’Olympe, et ta quête sera terminée !"
+|-
+! colspan="2" |Zeus Run Progress 02
+|-
+|'''Zeus'''
+|"Je sais à quel point tu souhaites sortir d'ici, jeune homme. Et c'est que je souhaite aussi ! ''Heh''. Heureusement pour toi, quand je souhaite quelque chose, je l'obtiens. Tu peux demander à n'importe qui !"
+|-
+! colspan="2" |Zeus Has Weapon 01
+|-
+|'''Zeus'''
+|"Tu affrontes les légions de ton père avec Varatha, la Lance Éternelle ? L’ironie du sort ne doit certainement pas lui échapper, car il s'est jadis battu à mes côtés contre les Titans avec cette arme à la main !"
+|-
+! colspan="2" |Zeus Has Weapon 02
+|-
+|'''Zeus'''
+|"Il semblerait que l'arc nommé Coronacht soit en de bonnes mains de nos jours, jeune homme. Cela faisait longtemps que je n'avais plus vu cette vieille chose !"
+|-
+! colspan="2" |Zeus Has Weapon 03
+|-
+|'''Zeus'''
+|"Ce bouclier que tu as là, Égide, eh bien, figure-toi qu'il m'a jadis appartenu, jeune homme ! Je n’en ai plus besoin, bien sûr, mais tu devras me dire comment tu l'as trouvé une fois que tu nous auras rejoints là-haut !"
+|-
+! colspan="2" |Zeus Has Weapon 04
+|-
+|'''Zeus'''
+|"Ne serait-ce donc pas le seul et l'unique Canon d'adamante que tu as là ? Frapper les ennemis à distance est ce qu'il y a de mieux, je pense, et tu découvriras sûrement que c'est presque aussi efficace que mes éclairs !"
+|-
+! colspan="2" |Zeus Has Weapon 05
+|-
+|'''Zeus'''
+|"Tiens donc, ne serait-ce pas les Poings Jumeaux de Malphon que tu as en ta possession, Zagreus ? Le dernier dieu que j'ai vu avec ces vieux gants était Déméter en personne, oh, il y a bien longtemps de ça ! Elle était une vraie guerrière à l'époque, pas une vieille grincheuse !"
+|-
+! colspan="2" |Zeus About Zeus Aspect 01
+|-
+|'''Zeus'''
+|"''Ah'', voilà donc l'Égide que je connais et adore ! Ou ''adorais ''du moins, pauvre vieille chose ! Aujourd'hui, j'ai jeté mon dévolu sur ces éclairs foudroyants. Même si je suis fier que l'Égide ait retrouvé preneur et que tu le portes en mon nom !"
+|-
+! colspan="2" |Zeus Reveals Lucifer Aspect 01
+|-
+|'''Zeus'''
+|"Ouvre grand les oreilles, jeune homme, car j'ai une vision à te transmettre ! La phrase d'éveil d'Exagryphe, pour être exact. Adresse-toi de la sorte à ton arme : ''Je vois ta fière chute des cieux jusque dans les flammes. '' Un lien étrange avec un propriétaire passé ou futur, qui aurait défié un dieu !"
+|-
+! colspan="2" |Zeus Run Cleared 01
+|-
+|'''Zeus'''
+|"Mon neveu, je voulais te dire à quel point je trouve cela étrange qu'à chaque fois que tu es sur le point de rejoindre la surface... eh bien, nous perdons tout simplement ta trace ! Je suppose que tu as connu quelque triste sort ? Peut-être que Cerbère, le gardien de ton royaume, est encore plus dangereux qu'on ne le dit !"
+|-
+! colspan="2" |Zeus Post Epilogue 02
+|-
+|'''Zeus'''
+|"Ta mère Perséphone est une femme rusée, Zagreus. Elle n'a rien à envier à ton père de ce côté-là ! Je suis heureux de savoir que vous êtes en bons termes, et que vous avez accepté de nouvelles responsabilités au sein de votre Maison ! Évidemment, je continuerai de t'apporter mon soutien. Et j'espère que nous aurons à nouveau un jour l'occasion de nous retrouver en personne !"
+|-
+! colspan="2" |Zeus Post Epilogue 03
+|-
+|'''Zeus'''
+|"Je dois dire, mon neveu, que je suis heureux que nous autres Olympiens ayons pu nous réconcilier avec ton père ! Mais entre nous, je suis encore plus heureux que tu sois encore en mesure de lui donner une bonne leçon ! Continue comme ça, d'accord ?"
+|-
+! colspan="2" |Zeus Post Epilogue 04
+|-
+|'''Zeus'''
+|"Ta mère Perséphone est intelligente, Zagreus ! Très intelligente. Et ton père, cette noblesse...! Ils font une équipe d'enfer, c'est le moins qu'on puisse dire ! Héra et moi ferions mieux de bien nous tenir !"
+|-
+! colspan="2" |Zeus High Affinity 01
+|-
+|'''Zeus'''
+|"Le seigneur et souverain de l'Olympe et du monde, ma foi, il se doit d'avoir un excellent sens de l'humour, tu ne crois pas, jeune homme ? Il y a un sacré paquet de rabats-joie ici qui ne supportent pas la moindre petite plaisanterie. Eh bien, je connais leurs mères à tous, et je fais fi de chacune d'elles ! Allons-y, plaisantons !"
+|-
+! colspan="2" |Zeus About Rumors 01
+|-
+|'''Zeus'''
+|"Je suppose que même dans les Enfers, tu as dû entendre toutes sortes de récits sur moi, jeune homme. Sache qu'ils ne sont tous qu'un ramassis de mensonges, ''hahaha ''! Tous, sauf les récits relatant ma bravoure. Ceux-ci sont absolument véridiques, mais bien trop modestes à mon goût dans la plupart des cas."
+|-
+! colspan="2" |Zeus About Keepsake 01
+|-
+|'''Zeus'''
+|"Ah, ce doit être la magnifique Chevalière Éclair que je t'ai confiée ! Ma foi, je pouvais sentir sa présence depuis là-haut !"
+|-
+! colspan="2" |Zeus Low Health 01
+|-
+|'''Zeus'''
+|"Ma foi, tu es vraiment dans un piteux état, Zagreus. Il est clair que cet endroit ne te fait aucun cadeau ! Heureusement pour toi, je peux t'en faire en abondance, moi !"
+|-
+! colspan="2" |Zeus Low Health 02
+|-
+|'''Zeus'''
+|"Tu as l’air d’avoir grand besoin d’aide, mon neveu ! J'ai donc abandonné toutes mes affaires en cours afin de venir te prêter main-forte aussi vite que possible !"
+|-
+! colspan="2" |Zeus Low Health 03
+|-
+|'''Zeus'''
+|"Zagreus, je crois que tu as oublié ton sang chez toi, ''hahahaha ''! Oh, je plaisante, je plaisante...! Cela dit, tu fais ''vraiment ''peine à voir."
+|-
+! colspan="2" |Zeus Low Health 04
+|-
+|'''Zeus'''
+|"Non, personne n'aime mourir, jeune homme ! Mais puisque cela semble sur le point de t'arriver d'un moment à l'autre, essaye au moins de garder la tête haute, tu m'entends ?"
+|-
+! colspan="2" |Zeus Low Health 05
+|-
+|'''Zeus'''
+|"Bon, ne nous voilons pas la face, Zagreus ; vu l'état dans lequel tu es, c'est comme si tu étais déjà mort. Cela dit, rien ne t'empêchera de jaillir ensuite des eaux du Styx et de retenter ta chance, n'est-ce pas ?"
+|-
+! colspan="2" |Zeus Low Health 06
+|-
+|'''Zeus'''
+|"N'oublie pas, jeune homme, la mort n'est que pour les mortels, alors ne commence pas à en faire une habitude ! Mais si tu dois vraiment en arriver là, alors meurs au combat, comme le ferait un véritable ''héros ''!"
+|-
+! colspan="2" |Zeus Legendary Pick Up 01
+|-
+|'''Zeus'''
+|"Je me demande, mon neveu, si tu es prêt à assimiler l’immense pouvoir que je m'apprête à t'accorder ? Ne prends pas cette bénédiction à la légère, et puisses-tu en faire bon usage."
+|-
+! colspan="2" |Zeus Legendary Pick Up 02
+|-
+|'''Zeus'''
+|"Jeune homme, et si nous arrêtions de tergiverser une bonne fois pour toutes et provoquions plutôt un orage digne de ce nom, pour changer ? Accepte maintenant la plus formidable de mes bénédictions, et montre à ton bon à rien de père de quel bois tu te chauffes !"
+|-
+! colspan="2" |Zeus First Pick Up
+|-
+|'''Zagreus'''
+|"C’est vraiment lui ? OK. Au nom d’Hadès ! Olympe ! J’accepte ce message."
+|-
+|'''Zeus'''
+|"Bien le bonjour, jeune homme ! Écoute, ton père a toujours eu mauvais caractère, et cela fait bien longtemps qu'il ne nous a plus donné de ses nouvelles. Tu auras une bien meilleure vie sur l'Olympe, ta vraie maison ! Et pour t'aider dans ton voyage, je t'accorde ma bénédiction."
+|-
+! colspan="2" |Zeus Misc Pickup 01
+|-
+|'''Zeus'''
+|"Comme on se retrouve, jeune homme ! Je sais que ton histoire ne me concerne pas, et pourtant je ne peux pas m’empêcher de m’y intéresser. Ton père a choisi son destin ; il n’a pas à déverser sa colère sur toi."
+|-
+! colspan="2" |Zeus Misc Pickup 02
+|-
+|'''Zeus'''
+|"Bonjour, jeune homme, puis-je te proposer un petit avant-goût du paradis ? Mais ne va pas dire à ton vieux grincheux de père que je te gâte ainsi !"
+|-
+! colspan="2" |Zeus Misc Pickup 03
+|-
+|'''Zeus'''
+|"Tous les dieux de l’Olympe, moi y compris, souhaitons ton succès, cher neveu ! Maintenant, voyons si je peux te donner un petit coup de main."
+|-
+! colspan="2" |Zeus Misc Pickup 04
+|-
+|'''Zeus'''
+|"Eh bien, mon neveu, te voilà dans une belle impasse, là-dessous... mais que serait la vie sans ses obstacles, hm ? Tu finiras par sortir de là, j'en suis certain."
+|-
+! colspan="2" |Zeus Misc Pickup 05
+|-
+|'''Zeus'''
+|"J’aime ce feu qui t'anime, Zagreus, et j’ai toutes les raisons de croire que tu émergeras un jour des ténèbres des Enfers, et baigneras dans la lumière du monde extérieur !"
+|-
+! colspan="2" |Zeus Misc Pickup 06
+|-
+|'''Zeus'''
+|"Ici, sur l’Olympe, nous prenons tous soin les uns des autres, et nous nous serrons les coudes, contrairement à ce qui doit se passer dans le sinistre royaume de ton père. Cela ne m’étonne pas que tu cherches à t'enfuir, mon neveu !"
+|-
+! colspan="2" |Zeus Misc Pickup 07
+|-
+|'''Zeus'''
+|"Je te demanderais bien de présenter mes respects à ton père, Zagreus, mais je doute que tu en aies l’occasion avant un bon moment, étant donné tout le chemin que tu vas parcourir grâce à mon aide !"
+|-
+! colspan="2" |Zeus Misc Pickup 08
+|-
+|'''Zeus'''
+|"N’oublie pas, jeune homme, que tu pourras tenter autant de fois qu’il le faudra de t'extraire des ténèbres pour nous rejoindre dans la splendeur de l’Olympe !"
+|-
+! colspan="2" |Zeus Misc Pickup 09
+|-
+|'''Zeus'''
+|"Ton père n’est qu’un triste rabat-joie, mon neveu, à faire échouer sans cesse tes tentatives de fuite. Ah, bon, c'est la vie, continue comme ça, hein ?"
+|-
+! colspan="2" |Zeus Misc Pickup 10
+|-
+|'''Zeus'''
+|"Bonjour, mon neveu. Que ma bénédiction et ma force t'accompagnent dans ton périple jusqu’à ta véritable maison."
+|-
+! colspan="2" |Zeus Misc Pickup 11
+|-
+|'''Zeus'''
+|"Garde espoir et courage, Zagreus, car chacun de nous sur l’Olympe te soutenons dans cette épreuve difficile."
+|-
+! colspan="2" |Zeus Misc Pickup 12
+|-
+|'''Zeus'''
+|"Que dire, jeune homme...? Ton père n’est peut-être pas très fier de toi, mais c'est tout le contraire pour moi ! Va, maintenant, sors de là !"
+|-
+! colspan="2" |Zeus Misc Pickup 13
+|-
+|'''Zeus'''
+|"Et maintenant, mon neveu, si nous y mettions toutes nos forces sur ce coup-là ? Pour s'assurer que tu ailles plus loin que tu ne sois jamais jamais allé !"
+|-
+! colspan="2" |Zeus Misc Pickup 14
+|-
+|'''Zeus'''
+|"Sache que de nombreux mortels me demandent constamment et éternellement ma bénédiction, cher neveu... Mais toi ! Ce n’est même pas la peine de demander !"
+|-
+! colspan="2" |Zeus Misc Pickup 15
+|-
+|'''Zeus'''
+|"Loin de moi l’idée de lever la main sur ton père, cher neveu ! Mais j’imagine qu’il l’a bien cherché, n’est-ce pas ?"
+|-
+! colspan="2" |Zeus Misc Pickup 16
+|-
+|'''Zeus'''
+|"Je place toute ma confiance en toi, jeune homme, ne l'oublie pas ! Maintenant, accepte ma bénédiction, et bats-toi hors de là pour moi !"
+|-
+! colspan="2" |Zeus Misc Pickup 17
+|-
+|'''Zeus'''
+|"Mon neveu, je veux que tu montres à ton triste père de quel bois tu es fait ! J'ai fait en sorte que tu reçoives un peu d'aide en chemin !"
+|-
+! colspan="2" |Zeus Misc Pickup 18
+|-
+|'''Zeus'''
+|"Alors, comment va ce vieil Hadès, mon neveu ? J’imagine qu’il est toujours aussi irritable et différent de toi !"
+|-
+! colspan="2" |Zeus Misc Pickup 19
+|-
+|'''Zeus'''
+|"Cher neveu, il me tarde de te rencontrer en chair et en os dès que tu auras mis le pied en dehors de ces Enfers !"
+|-
+! colspan="2" |Zeus Misc Pickup 20
+|-
+|'''Zeus'''
+|"Cher neveu, je viens une fois de plus te prêter ma force ! J’aimerais bien voir ton vieux grincheux de père essayer de t'arrêter, maintenant !"
+|-
+! colspan="2" |Zeus Misc Pickup 21
+|-
+|'''Zeus'''
+|"Je souhaite profondément finir par régler mon différend avec votre père, cher Zagreus, mais en attendant… luttons !"
+|-
+! colspan="2" |Zeus Misc Pickup 22
+|-
+|'''Zeus'''
+|"Bien le bonjour, mon très honorable neveu bien-aimé. Je te transmets la bénédiction de l’Olympe, pour que tu sortes enfin des Enfers où tu te trouves !"
+|-
+! colspan="2" |Zeus Misc Pickup 23
+|-
+|'''Zeus'''
+|"Je sais que tu finiras par rejoindre la surface, Zagreus ! Je serai ravi de te rencontrer lorsque tu y parviendras !"
+|-
+! colspan="2" |Zeus Misc Pickup 24
+|-
+|'''Zeus'''
+|"Lorsque tu seras arrivé, nous te protégerons de ton père, Zagreus, mais tant que tu es encore dans les Enfers, nous ne pouvons guère t'aider ."
+|-
+! colspan="2" |Zeus Misc Pickup 25
+|-
+|'''Zeus'''
+|"Tu as la tête sur les épaules, Zagreus. Alors reste positif et en bonne santé, et ne laisse rien se mettre entre toi et ton objectif !"
+|-
+! colspan="2" |Zeus Misc Pickup 26
+|-
+|'''Zeus'''
+|"Je te souhaite de réussir dans ta perpétuelle quête et t'accorde mes bénédictions les plus sincères, ainsi que mon pouvoir bien sûr, mon neveu !"
+|-
+! colspan="2" |Zeus Misc Pickup 27
+|-
+|'''Zeus'''
+|"Tu as vu la force destructrice la plus pure des cieux ! Imagine ce que ça donne à la surface de la terre !"
+|-
+! colspan="2" |Zeus Misc Pickup 28
+|-
+|'''Zeus'''
+|"Un jour, quand tu nous auras rejoints là-haut, nous repenserons à tout ceci et nous rirons, j'en suis sûr !"
+|-
+! colspan="2" |Zeus Misc Pickup Extra 01
+|-
+|'''Zeus'''
+|"''Ahh'', voilà mon neveu préféré ! Toujours aussi déterminé à rejoindre la surface de mon monde. Ton père ne croit quand même pas qu'il peut t'en empêcher, si ?"
+|-
+! colspan="2" |Zeus Misc Pickup 23 B
+|-
+|'''Zeus'''
+|"Comme toujours, je t'accorde ma bénédiction, jeune homme."
+|-
+! colspan="2" |Zeus Misc Pickup 24 B
+|-
+|'''Zeus'''
+|"J’espère que tu réussiras bientôt à sortir de là, mon neveu."
+|-
+! colspan="2" |Zeus Misc Pickup 25 B
+|-
+|'''Zeus'''
+|"Je veillerai sur toi depuis là-haut, jeune homme, et ce n'est pas l'obscurité de ton royaume qui m'en empêchera !"
+|-
+! colspan="2" |Zeus Misc Pickup 26 B
+|-
+|'''Zeus'''
+|"Que la lumière de l’Olympe te guide dans les ténèbres, mon neveu."
+|-
+! colspan="2" |Zeus Misc Pickup 27 B
+|-
+|'''Zeus'''
+|"Ne te laisse pas influencer par ton père, jeune homme, et sors-toi de là."
+|-
+! colspan="2" |Zeus Misc Pickup 28 B
+|-
+|'''Zeus'''
+|"Nous ne t'abandonnerons jamais à ton sort, Zagreus, alors ne t'arrête pas, ''hm ''?"
+|-
+! colspan="2" |Zeus Misc Pickup 29
+|-
+|'''Zeus'''
+|"Je ferai en sorte que les cieux eux-mêmes t'aident dans ton ascension, mon neveu."
+|-
+! colspan="2" |Zeus Misc Pickup 30
+|-
+|'''Zeus'''
+|"Fais attention à toi là-dessous, tu veux bien, jeune homme ?"
+|-
+! colspan="2" |Zeus Misc Pickup 31
+|-
+|'''Zeus'''
+|"Nous sommes tous là pour toi, jeune homme !"
+|-
+! colspan="2" |Zeus Misc Pickup 32
+|-
+|'''Zeus'''
+|"Je t'en prie, mon neveu, veille à ne pas rendre ta situation encore plus difficile qu'elle ne l'est déjà !"
+|-
+! colspan="2" |Zeus Misc Pickup 33
+|-
+|'''Zeus'''
+|"Je suis là pour toi, jeune homme. Alors reprends courage, et prends aussi ''ceci '' !"
+|-
+! colspan="2" |Zeus Misc Pickup 34
+|-
+|'''Zeus'''
+|"Nous croyons tous en toi, mais moi plus que tout le monde, tu peux me croire !"
+|-
+! colspan="2" |Zeus Misc Pickup 35
+|-
+|'''Zeus'''
+|"Voilà quelque chose pour toi de ma part, jeune homme !"
+|-
+! colspan="2" |Zeus Misc Pickup 36
+|-
+|'''Zeus'''
+|"Prends tout le temps qu'il te faudra pour te frayer un chemin hors de là, jeune homme !"
+|-
+! colspan="2" |Zeus Misc Pickup 37
+|-
+|'''Zeus'''
+|"Ne perds pas espoir, jeune homme ! Nous serons toujours là pour t'apporter notre soutien !"
+|-
+! colspan="2" |Zeus Misc Pickup 38
+|-
+|'''Zeus'''
+|"En tant que membre de ma famille, tu es un guerrier-né, Zagreus ! Alors bats-toi, et hisse-toi jusqu'à la surface !"
+|-
+! colspan="2" |Zeus Misc Pickup 39
+|-
+|'''Zeus'''
+|"Le jour où tu parviendras enfin à sortir de ce taudis et admireras la lumière de la surface sera un jour de gloire, ça oui !"
+|-
+! colspan="2" |Zeus Misc Pickup 40
+|-
+|'''Zeus'''
+|"Je sais que tu es capable de vaincre ton père, Zagreus. En supposant bien sûr que tu me ressembles ne serait-ce qu'un peu !"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 01
+|-
+|'''Zeus'''
+|"Comment va ta charmante mère ? Tout se passe toujours bien entre elle et Hadès, j'espère ?"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 02
+|-
+|'''Zeus'''
+|"Dis à ton cher père que son frère Zeus veillera toujours sur toi !"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 03
+|-
+|'''Zeus'''
+|"J'espère que ton cher père te traite bien, hm ?"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 04
+|-
+|'''Zeus'''
+|"Je sais que tu es occupé, Zagreus, mais il faudra un jour que tu viennes nous rendre visite !"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 05
+|-
+|'''Zeus'''
+|"Je ne suis jamais occupé au point de ne pas avoir de temps pour aider ma famille, jeune homme !"
+|-
+! colspan="2" |Zeus Misc Pickup Post Epilogue 06
+|-
+|'''Zeus'''
+|"Tous ensemble, n'est-ce pas, mon neveu ?"
+|-
+! colspan="2" |Zeus Loot Bought 01
+|-
+|'''Zeus'''
+|"Je vois que le nocher des Enfers a trouvé le moyen de te faire parvenir ma bénédiction, mon neveu. Nous formons de bien étranges alliances, ces derniers temps !"
+|-
+! colspan="2" |Zeus Loot Bought 02
+|-
+|'''Zeus'''
+|"Eh bien, me voici, jeune homme, et dans d’étranges circonstances, ajouterais-je ! Heureusement qu'il est bien plus facile d'entrer en contact avec le nocher Charon qu'avec ton père !"
+|-
+! colspan="2" |Zeus Loot Bought 03
+|-
+|'''Zeus'''
+|"Ah ! Ainsi donc, le nocher Charon a accepté de coopérer, finalement ? Quels que soient les moyens dont nous disposons pour te joindre, nous les utiliserons !"
+|-
+! colspan="2" |Zeus Loot Bought 04
+|-
+|'''Zeus'''
+|"Ce Charon doit être sacrément dur en affaires, Zagreus, s'il peut faire obstacle à ta réussite à moins de lui céder quelques pièces !"
+|-
+! colspan="2" |Zeus Loot Bought 05
+|-
+|'''Zeus'''
+|"Je pensais que ce nocher se contenterait seulement de transporter des âmes sur le Styx, mon neveu, et non de te voler durant ton voyage vers la surface !"
+|-
+! colspan="2" |Zeus Rejection 01
+|-
+|'''Zeus'''
+|"Ainsi donc, ma bénédiction n’est pas assez bonne pour toi, jeune homme ? Quelle impertinence... ''oh'', je suis outré !"
+|-
+! colspan="2" |Zeus Rejection 02
+|-
+|'''Zeus'''
+|"Il est mal avisé de s’opposer à moi, mon neveu, dans les petites affaires comme dans les grandes. Je n’ai pas la réputation d’être clément avec les insolents."
+|-
+! colspan="2" |Zeus Rejection 03
+|-
+|'''Zeus'''
+|"Tu m'as peut-être défié pour plaisanter, jeune homme, mais tu constateras que quand il est question d'affirmer mon autorité, mon sens de l'humour me fait défaut."
+|-
+! colspan="2" |Zeus Rejection 04
+|-
+|'''Zeus'''
+|"L’audace est certes dans notre sang, Zagreus, mais je te conseille de ne pas trop en user lors de tes relations avec moi."
+|-
+! colspan="2" |Zeus Rejection 05
+|-
+|'''Zeus'''
+|"Qu’ai-je fait, cher neveu, pour mériter un tel mépris ? Il est difficile de pardonner une telle erreur de jugement, mais il est bien plus facile de la punir."
+|-
+! colspan="2" |Zeus Rejection 06
+|-
+|'''Zeus'''
+|"Ton père aussi m’a tourné le dos de la sorte autrefois, mon neveu, et nous savons tous les deux ce qu’il est devenu. Je te conseille de ne pas suivre son exemple."
+|-
+! colspan="2" |Zeus Rejection 07
+|-
+|'''Zeus'''
+|"Il semblerait que les conséquences auxquelles s'expose quiconque me contrarie t'aient échappé, jeune homme. Un rappel en bonne et due forme est donc de circonstance."
+|-
+! colspan="2" |Zeus Rejection 08
+|-
+|'''Zeus'''
+|"Je n'ai pas restauré l'ordre dans ce monde et pris la tête des cieux pour me faire insulter par mon propre neveu !"
+|-
+! colspan="2" |Zeus Rejection 09
+|-
+|'''Zeus'''
+|"S'il s'agit là d'une plaisanterie, mon neveu, alors sache qu'elle n'est pas de celles que j'apprécie !"
+|-
+! colspan="2" |Zeus Rejection 10
+|-
+|'''Zeus'''
+|"Mon neveu, quand on te propose de choisir entre prendre parti contre moi ou ne pas être aussi stupide, assure-toi d'opter pour cette deuxième option la prochaine fois, hm ?"
+|-
+! colspan="2" |Zeus Rejection 11
+|-
+|'''Zeus'''
+|"Ne va pas dire que je ne t'ai pas prévenu, jeune homme ! Si seulement tu ne m'avais pas insulté de la sorte !"
+|-
+! colspan="2" |Zeus Rejection 12
+|-
+|'''Zeus'''
+|"Je suis outré, Zagreus ! Même ton père dirait que de tels actes ne peuvent pas rester impunis !"
+|-
+! colspan="2" |Zeus Rejection 13
+|-
+|'''Zeus'''
+|"Jeune homme, je ne vois pas pourquoi tu me ferais une telle chose, mais j'espère que tu y réfléchiras à deux fois avant de recommencer !"
+|-
+! colspan="2" |Zeus Rejection 14
+|-
+|'''Zeus'''
+|"Tu commences à dépasser les bornes avec moi, mon neveu ! Mais ne t'en fais pas, je vais te remettre immédiatement à ta place."
+|-
+! colspan="2" |Zeus Make Up 01
+|-
+|'''Zeus'''
+|"Ah, bravo, quel spectacle, jeune homme ! Je crois que je vais passer l’éponge cette fois et te reprendre sous mon aile, pour l'instant."
+|-
+! colspan="2" |Zeus Make Up 02
+|-
+|'''Zeus'''
+|"Je te félicite d’avoir survécu à cela. J'espère que tu y réfléchiras à deux fois avant de me manquer de respect ainsi, n'est-ce pas ?"
+|-
+! colspan="2" |Zeus Make Up 03
+|-
+|'''Zeus'''
+|"Allons, allons, inutile de nous chamailler ainsi plus longtemps. Cela dit, à l'avenir, surveille tes manières lorsque tu te trouves en présence de ton oncle Zeus."
+|-
+! colspan="2" |Zeus Make Up 04
+|-
+|'''Zeus'''
+|"Ne me manque plus jamais de respect ainsi, tu m'entends, jeune homme ? J’ai l’impression que oui, alors oublions cet incident et passons à autre chose."
+|-
+! colspan="2" |Zeus Make Up 05
+|-
+|'''Zeus'''
+|"Oh, mon neveu ! J'ai beau essayer, je suis tout bonnement incapable de rester en colère contre toi ! Mais juste au cas où, ne me donne plus jamais de raisons de l'être."
+|-
+! colspan="2" |Zeus Make Up 06
+|-
+|'''Zeus'''
+|"Très bien, très bien, disons que nous sommes quittes pour le moment. Mais ne t'avise plus jamais de me contrarier, tu m'entends ?"
+|-
+! colspan="2" |Zeus Make Up 07
+|-
+|'''Zeus'''
+|"Allons, tout cela devient contre-productif, Zagreus. Poursuis ton chemin !"
+|-
+! colspan="2" |Zeus Make Up 08
+|-
+|'''Zeus'''
+|"Oh, je n'ai plus le cœur à me venger contre toi, mon neveu."
+|-
+! colspan="2" |Zeus Make Up 09
+|-
+|'''Zeus'''
+|"Ah, de telles chamailleries sont ridicules. Ne valons-nous pas mieux que cela, Zagreus ?"
+|-
+! colspan="2" |Zeus Make Up 10
+|-
+|'''Zeus'''
+|"Eh bien, jeune homme, je pense qu'il serait préférable d'oublier ce petit affront, pas toi ?"
+|-
+! colspan="2" |Zeus Make Up 11
+|-
+|'''Zeus'''
+|"''Pah ''! Tout est pardonné et oublié, Zagreus. De quoi parlions-nous, déjà...?"
+|-
+! colspan="2" |Zeus Make Up 12
+|-
+|'''Zeus'''
+|"''Hahaha'', ça suffit, ça suffit, je dis ! Tu es toujours vivant, non ?"
+|-
+! colspan="2" |Zeus Gift 01
+|-
+|'''Zagreus'''
+|"Seigneur Zeus, ''euh''... mon oncle ? Je vous prie d'accepter ce cadeau, et toute ma gratitude."
+|-
+|'''Zeus'''
+|"Ça alors, mon neveu, voilà une sacrée offrande, si je puis dire ! Ta foi en moi me flatte, et pour te montrer à mon tour ma générosité, accepte ceci !"
+|-
+! colspan="2" |Zeus Gift 02
+|-
+|'''Zagreus'''
+|"Je vous remercie, Seigneur Zeus, pour votre bienveillance et votre puissance foudroyante."
+|-
+|'''Zeus'''
+|"Tu m'honores, jeune homme, et tu fais bien, car après tout, ne suis-je pas le souverain de l’Olympe ? De tels hommages me sont constamment rendus, mais ils ne me déplaisent jamais."
+|-
+! colspan="2" |Zeus Gift 03
+|-
+|'''Zagreus'''
+|"Seigneur Zeus, je vous prie d'accepter cette modeste offrande, en guise de remerciement pour tout ce que vous avez fait pour moi."
+|-
+|'''Zeus'''
+|"Ma foi, voilà qui est très généreux de ta part, et je t'en suis à mon tour reconnaissant, mon neveu ! Comme c’est gentil à toi de tenter de me rendre la pareille !"
+|-
+! colspan="2" |Zeus Gift 04
+|-
+|'''Zagreus'''
+|"Cette offrande est insignifiante comparée à toute votre magnanimité, Oncle Zeus."
+|-
+|'''Zeus'''
+|"Encore un si précieux cadeau, mon cher neveu ? Ah, si seulement mes fils et filles de l’Olympe me montraient autant de respect, ne serait-ce que de temps en temps !"
+|-
+! colspan="2" |Zeus Gift 05
+|-
+|'''Zagreus'''
+|"Je vous en prie, oncle Zeus, acceptez ce nectar en votre honneur, même si ce n'est rien comparé à l'immense générosité dont vous avez fait preuve."
+|-
+|'''Zeus'''
+|"Je suis particulièrement ravi de voir le respect et l'admiration que tu affiches pour ton oncle, Zagreus. Tu iras loin sur l'Olympe avec une telle attitude ! Tout le monde ici n'est pas aussi courtois et sage."
+|-
+! colspan="2" |Zeus Gift 06
+|-
+|'''Zagreus'''
+|"Si vous pouvez m'entendre, ô puissant oncle Zeus, je souhaite vous faire ce simple présent et, par là-même, vous faire part de mon humble souhait qu'un jour vous et Père oubliez vos différends et soyez en paix."
+|-
+|'''Zeus'''
+|"''Ah'', quelle magnifique offrande, jeune homme. Même si nous ne nous sommes pas encore rencontrés en personne, je sens déjà que nous sommes très proches l'un de l'autre... plus proches encore que tu ne dois l'être avec ton père ! ''Oh, hahaha ! '' Peut-être que nous devrions dire à tout le monde que c'est ''moi'', ton vrai père, qu'est-ce que tu en penses ?"
+|-
+! colspan="2" |Zeus Gift 06 B
+|-
+|'''Zeus'''
+|"''Ah'', quelle magnifique offrande, jeune homme. Je sens que nous sommes devenus très proches l'un de l'autre... plus proches encore que tu ne dois l'être avec ton père ! ''Oh, hahaha ''! Peut-être que nous devrions dire à tout le monde que c'est ''moi'', ton vrai père, qu'est-ce que tu en penses ?"
+|-
+! colspan="2" |Zeus Gift 07
+|-
+|'''Zagreus'''
+|"Roi de l'Olympe, Seigneur Zeus ! Veuillez pardonner cette offrande d'Ambroisie, car je sais que vous en avez déjà en abondance. Mais ici, cela représente le plus beau des présents que l'on puisse faire, et pourtant, ce n'est rien comparé à tout ce que vous avez fait pour moi. Merci, mon oncle."
+|-
+|'''Zeus'''
+|"Allons, allons, mon neveu... Tu fais preuve d'une grande générosité, en effet, en me montrant tant d'égards. Mais nous devons garder nos distances, n'est-ce pas ? Ou bien tous les autres ici risquent de se montrer jaloux s'ils me voient faire du favoritisme ! Même si tu ''es ''mon favori ! Du moins, pour le moment."
+|-
+! colspan="2" |Artemis With Zeus 01
+|-
+|'''Artemis'''
+|"''Tsk'', ''euh'', Zagreus... Plutôt que de te saluer comme je le fais d'habitude, laisse-moi te présenter mon illustre, aimable et généreux père, ton oncle Zeus !"
+|-
+|'''Zeus'''
+|"''Hum'', merci pour les présentations, ma fille. Maintenant, file ! Retourne donc batifoler avec tes nymphes ou que sais-je encore, et laisse-moi apporter mon aide à mon neveu. Accorde-lui tes faibles bénédictions s'il le faut."
+|-
+! colspan="2" |Aphrodite With Zeus 01
+|-
+|'''Aphrodite'''
+|"Mon trésor, j'ai eu beau lui assurer que nous avons tous les deux la situation sous contrôle, ton oncle veut absolument prendre de tes nouvelles lui-même !"
+|-
+|'''Zeus'''
+|"Allons, Zagreus, la seule chose qu'Aphrodite a sous contrôle est sa liste interminable de prétendants, n'ai-je pas raison ? Aphrodite, accorde donc ta bénédiction et va faire un tour. Je prends le relais."
+|-
+! colspan="2" |Dionysus With Zeus 01
+|-
+|'''Dionysus'''
+|"Hé Zag, j'ai mon père là, il veut te parler. Sois cool, mec, fais genre que t'es d'accord avec tout ce qu’il te dit, OK ?"
+|-
+|'''Zeus'''
+|"Ce Dionysos, toujours bien trop gentil dans les présentations, mais au moins il me montre le respect adéquat. Peut-être qu’un jour il pourra t'apprendre les coutumes de l’Olympe."
+|-
+! colspan="2" |Athena With Zeus 01
+|-
+|'''Athena'''
+|"Noble cousin, mon auguste père s'intéresse à votre quête et cherche maintenant à vous aider avec rien de moins que le tonnerre des cieux. Et vous avez aussi mon soutien, bien sûr."
+|-
+|'''Zeus'''
+|"Je te remercie pour ta généreuse présentation, Athéna, et je me réjouis toujours de t'avoir à mes côtés. Je suis sûr que notre double protection garantit à Zagreus de réussir !"
+|-
+! colspan="2" |Poseidon With Zeus 01
+|-
+|'''Poseidon'''
+|"Alors, p'tit Hadès, je vois que tu as rencontré mon frère Zeus ! On le désigne parfois comme le roi des dieux ! Il faut dire toutefois que sa puissance est loin d’égaler la mienne ! Et il est loin d'avoir ma classe, si je puis me permettre. Eh bien, je... ''Oh '' !"
+|-
+|'''Zeus'''
+|"Allons, mon frère... tu sais ce qui arrive à ceux racontant de telles choses à mon sujet, il me semble ! Je sais que le tact n’est pas la première de tes qualités, mais je te suggère malgré tout de faire attention à ce que tu dis à notre neveu."
+|-
+|'''Poseidon'''
+|"''Bon'', ''euh'', c'est bien ce que je disais, mon p'tit Hadès ! Zeus est le roi des dieux ! Et aussi le plus impressionnant, le plus puissant et, autant l'avouer, le plus ''divin ''de tous !"
+|-
+! colspan="2" |Demeter With Zeus 01
+|-
+|'''Demeter'''
+|"Eh bien, jeune pousse, tu as rencontré le soi-disant roi de l'Olympe et moi-même, maintenant. Alors, qui est le véritable souverain de cette montagne couronnée de neige, à ton avis ?"
+|-
+|'''Zeus'''
+|"Oh, ''ah ah ah'', Dame Déméter ! Votre esprit est aussi aride que la terre que vous laissez en jachère ! Peut-être que vous devriez retourner vous en occuper, à moins que nous aidions d'abord notre bon jeune homme !"
+|-
+|}

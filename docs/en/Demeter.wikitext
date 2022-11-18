@@ -1,0 +1,932 @@
+{| class="wikitable"
+|+
+! colspan="2" |Zeus With Demeter 01
+|-
+|'''Zeus'''
+|"Now, now, young man, whatever you have heard about good Demeter, I'm here to clear the air. She's like a sister to me, yes, but only thus. Although her Titan parents and my own met the same fate."
+|-
+|'''Demeter'''
+|"Why, Foster-Brother Zeus! Such an unlikely bit of candor there, from you! Almost as though you felt compelled to speak the truth only whilst I'm directly within earshot."
+|-
+! colspan="2" |Ares With Demeter 01
+|-
+|'''Ares'''
+|"The cold of death is quite becoming of the Goddess Demeter, do you not think so, my death-dealing kin? She is becoming well accustomed to it, too."
+|-
+|'''Demeter'''
+|"I think that you forget yourself, Lord Ares, sir. For I am much your elder; my famines had already slain the mortals by the tens of thousands by the time such thoughts of doing so first crossed your mind."
+|-
+! colspan="2" |Artemis With Demeter 01
+|-
+|'''Artemis'''
+|"Oh, hi there, Zagreus, I was just failing to persuade the Lady Demeter to ease up off the snowy stretch that we've been having for a while. Some of the mortals are quite weary of it now, and it sure doesn't make the hunting any easier!"
+|-
+|'''Demeter'''
+|"The mortals are resourceful, Artemis. Their one redeeming quality, perhaps! They'll find a way through our long winter here. They ought to, since they brought it on themselves."
+|-
+! colspan="2" |Aphrodite With Demeter 01
+|-
+|'''Aphrodite'''
+|"The venerable goddess of the seasons, Demeter, chooses to look as stately as can be, can you believe it, dearest? Although, why one would mark so many fine lines upon their face, I wouldn't know."
+|-
+|'''Demeter'''
+|"Oh, Aphrodite, dear... you wouldn't know a thing of substance if it offered you a cloak. Your chosen countenance makes plain the full extent of your intentions, and your interests alike."
+|-
+! colspan="2" |Dionysus With Demeter 01
+|-
+|'''Dionysus'''
+|"Hey Zag, got a favor here I mean to ask, could you maybe persuade the Lady Demeter to ease up on the whole '''not let anything grow' ''thing she's been going on about?"
+|-
+|'''Demeter'''
+|"I daresay, my Lord Dionysus, that partaking of less wine for some amount of time might do you good. Regardless, you'll not coax a better crop from me."
+|-
+! colspan="2" |Athena With Demeter 01
+|-
+|'''Athena'''
+|"I bring to you the Lady Demeter, Cousin. I've asked that she please rest assured knowing we have your matter well under control. Though, in her infinite compassion, she has taken up your cause, nevertheless!"
+|-
+|'''Demeter'''
+|"Oh, you needn't lavish me with your faint praise, Athena dear. In all your boundless intellect, I'd have expected you would know I see through your intentions, plain as day."
+|-
+! colspan="2" |Poseidon With Demeter 01
+|-
+|'''Poseidon'''
+|"My foster-sister Goddess Demeter, despite her stern approach, she often likes to make good sport of me, Nephew! Why, here she is right now!"
+|-
+|'''Demeter'''
+|"If you're quite finished blathering, Poseidon, our young Zagreus has more important things to do. He needs your blessings, not your point of view. Don't you, young sprout?"
+|-
+! colspan="2" |Demeter With Zeus 01
+|-
+|'''Demeter'''
+|"Well, now, young sprout, you've met the so-called King of the Olympians, and I. Whom do you now suppose is genuinely ruler of this snow-encrusted mountaintop of ours?"
+|-
+|'''Zeus'''
+|"Oh, ''hah-hah-hah'', Lady Demeter! Your wit is just as dry as the earth lying quite fallow in your care! Perhaps you should go tend to that again, though let's we go ahead and help our young man first!"
+|-
+! colspan="2" |Demeter With Poseidon 01
+|-
+|'''Demeter'''
+|"Ah, little sprout. I was just notifying Lord Poseidon here that all of his domain exists because it pleases me; remember, my good foster-brother, I could freeze your oceans solid if I chose."
+|-
+|'''Poseidon'''
+|"''Ah, hahahah! ''Excellently stated, venerable Goddess Demeter! I'm reminded once more of your vast experience, though, I think we all prefer our oceans liquidy, isn't that right, Nephew?!"
+|-
+! colspan="2" |Demeter With Athena 01
+|-
+|'''Demeter'''
+|"To think, young sprout, our strategist Athena, warrior-goddess, sprang from Zeus' head! I would expect that no high intellect could come from there."
+|-
+|'''Athena'''
+|"Please do not mind the Lady Demeter's good-natured sense of humor, Zagreus. She and my father often like to jest with one another, even in the most difficult times."
+|-
+! colspan="2" |Demeter With Ares 01
+|-
+|'''Demeter'''
+|"Young Zagreus, once you arrive, do tell Lord Ares here that his great power's not worth anything without my own. Wars have their causes, among which, many I control."
+|-
+|'''Ares'''
+|"I do not question that your influence can stir a mortal's impulses toward war, O Goddess Demeter. At least we can agree that our domains are quite compatible!"
+|-
+! colspan="2" |Demeter With Aphrodite 01
+|-
+|'''Demeter'''
+|"Remember something for us, Zagreus. A frozen heart holds no sway over anyone at all. Isn't that right, oh Aphrodite, dear?"
+|-
+|'''Aphrodite'''
+|"Oh, I don't know, my dearest Demeter! The frozen heart has tendency to thaw, and then begin to beat with renewed vigor after that. I trust your time shall come! It can never be too late, except for mortals, the poor things."
+|-
+! colspan="2" |Demeter With Artemis
+|-
+|'''Demeter'''
+|"Why, Zagreus, my gentle Artemis here was just saying how concerned she was for your predicament! I'm sure she'd like it if we both could help you in this case."
+|-
+|'''Artemis'''
+|"Concerned? I don't see anyone concerned, you have this, Zagreus! You don't need anybody's help, and you can get through this all on your own, though just in case, and I mean just in case! Um, here."
+|-
+! colspan="2" |Demeter With Dionysus 01
+|-
+|'''Demeter'''
+|"The crops shall wither and decay so long as I may please, young Zagreus. Although we do have those upon Olympus who take issue with my reasoning..."
+|-
+|'''Dionysus'''
+|"''Erm'', yeah, milady, I take issue here! I mean how are the grapes supposed to grow and wine supposed to flow when you are so uptight, now, just ease up a little there, let's see what we can do!"
+|-
+! colspan="2" |Demeter About Zeus 01
+|-
+|'''Demeter'''
+|"I see the noble King of the Olympians has reached you prior to me, Zagreus. I wonder which of all his many lies he's told you last."
+|-
+! colspan="2" |Demeter About Persephone 01
+|-
+|'''Demeter'''
+|"My foster-brother's wayward son appears! I, too, once lost a child, Zagreus. I was quite foolish with her from the start. Her father was a baseborn farm-boy; worshiped me! He's gone as well, of course. Only the cold remains."
+|-
+! colspan="2" |Demeter About Persephone 02
+|-
+|'''Demeter'''
+|"My daughter to a baseborn farm-boy, she... why, little sprout, I wasn't very kind to her, I think. Certainly not once her father passed. It was her mortal blood that made her weak! Born to mortals, taken by mortals, I suspect. So now, they ''pay''."
+|-
+! colspan="2" |Demeter About Persephone 03
+|-
+|'''Demeter'''
+|"I don't suppose... no, it is nothing, little sprout, it's just... I hear such wicked rumors now and then, about my daughter, lost to me, and what became of her. Kore, we called her, then. Persephone is what she called herself. Before she vanished utterly, leaving no trace...."
+|-
+! colspan="2" |Demeter About Persephone 04
+|-
+|'''Demeter'''
+|"After my daughter Kore disappeared, I left this mountaintop. Wandered the earth, in search. For naught, of course. It was a necessary journey, I suppose. May yours fare better."
+|-
+! colspan="2" |Demeter About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Hope Mother knows what she's doing, in the name of Hades! Olympus, this is an official message! Lady Demeter, this is for you."
+|-
+|'''Demeter'''
+|"What's all of this, young Zagreus, a message of some sort, for me, indeed? I... can't decipher it, although... it bears the marks of my two foster-brothers here, and... well! It seems we'd better compare notes!"
+|-
+! colspan="2" |Demeter Post Epilogue 01
+|-
+|'''Demeter'''
+|"Why, little sprout, young Zagreus... my grandson! I can scarce believe it, still! To think that, Kore, or... Persephone, my daughter... she had been with Foster-Brother Hades, all this time! A match I wouldn't have expected... or approved. That's why she left! Our blasted hearts do what they want."
+|-
+! colspan="2" |Demeter Lifts Winter Curse 01
+|-
+|'''Demeter'''
+|"My little grandson, little sprout, I've thought... if my Persephone's alive, why then... this winter, hasn't it endured for long enough...? It's grown to have a certain stubbornness, but I... I am the goddess of the seasons, Zagreus. Perhaps it's time I changed them once again."
+|-
+! colspan="2" |Demeter Lifts Winter Curse 02
+|-
+|'''Demeter'''
+|"I've lifted the cold from the earth, much as I said I would, grandson. But, near your father's realm... I have decided it shall stay the way it is. Bereft of warmth. As a reminder to us all, about all this."
+|-
+! colspan="2" |Demeter About Poseidon 01
+|-
+|'''Demeter'''
+|"You bear the blessing of Poseidon, Zagreus? Someday I shall remind him of his place, and freeze his watery domain entirely."
+|-
+! colspan="2" |Demeter About Athena 01
+|-
+|'''Demeter'''
+|"Athena has imparted you her ''wisdom'', Zagreus? A simulacrum of the real thing, at any rate. True wisdom only comes with age, I think."
+|-
+! colspan="2" |Demeter About Aphrodite 01
+|-
+|'''Demeter'''
+|"All of the love and beauty in the world can wither in a season, Zagreus. Remember that when next the goddess Aphrodite makes her promises."
+|-
+! colspan="2" |Demeter About Ares 01
+|-
+|'''Demeter'''
+|"Lord Ares already got hold of you, has he? He's good at making mortals kill each other, yes. But he has utterly no knack for subtlety."
+|-
+! colspan="2" |Demeter About Artemis 01
+|-
+|'''Demeter'''
+|"The gentle Artemis already found you, Zagreus? She takes my orders well; one cannot blame her, for she'd have nothing to hunt if not for me."
+|-
+! colspan="2" |Demeter About Dionysus 01
+|-
+|'''Demeter'''
+|"You stumbled into Dionysus, Zagreus? One of these days I shall prevent his vineyards all from ripening; put to the test his carefree attitude."
+|-
+! colspan="2" |Demeter About Chaos 01
+|-
+|'''Demeter'''
+|"The mark of Chaos is upon you, isn't it? A force older than I! Yet one which you ought not trust so readily. No rhyme or reason to that one at all."
+|-
+! colspan="2" |Demeter About Pom 01
+|-
+|'''Demeter'''
+|"Is that the bloodlike stain of pomegranate on you, Zagreus? A hardy fruit resistant to a winter's chill. How fascinating they survive, down there."
+|-
+! colspan="2" |Demeter Legendary Pick Up 01
+|-
+|'''Demeter'''
+|"I don't often divulge such blessings as I am about to, Zagreus. Don't thank me for it, but make certain that you use my power well."
+|-
+! colspan="2" |Demeter Legendary Pick Up 02
+|-
+|'''Demeter'''
+|"I have affection for you, little sprout. No need for reciprocity, but now I'll offer you the fiercest of my capabilities."
+|-
+! colspan="2" |Demeter Post Gift Pickup 01
+|-
+|'''Demeter'''
+|"I must admit I have grown fond of you, young sprout; nevertheless, I shall not spoil you like some ill-mannered child."
+|-
+! colspan="2" |Demeter Post Gift Pickup 02
+|-
+|'''Demeter'''
+|"My, but you're as determined as my foster-brothers were, when my sisters and I stood with them 'gainst the Titans way back when."
+|-
+! colspan="2" |Demeter About Loss 01
+|-
+|'''Demeter'''
+|"Our family, why, I think we understand something of loss, now, don't we, Zagreus? Unlike the mortals on the surface. Always begging me for plenty. They'll get none. But as for you, I have a plethora to offer!"
+|-
+! colspan="2" |Demeter About Loss 02
+|-
+|'''Demeter'''
+|"You are entirely too young to have had meaningful experience with loss, young Zagreus. Pray to me that you never have to learn."
+|-
+! colspan="2" |Demeter About Surface 01
+|-
+|'''Demeter'''
+|"You live within the bosom of the earth, and know its warmth. But there is no such warmth up here, young Zagreus. You truly wish to feel the bitter cold of the outside? Then, here."
+|-
+! colspan="2" |Demeter About Surface 02
+|-
+|'''Demeter'''
+|"Someday, you'll gain the surface, Zagreus; and you shall see firsthand what mortalkind has wrought. You'll find it has some commonality with your domain."
+|-
+! colspan="2" |Demeter About Motherhood 01
+|-
+|'''Demeter'''
+|"Motherhood's a curse, young Zagreus. Be thankful you're immune. You sprang from Nyx herself, or so I hear? I sprang from Theia, whoever she was. And I once bore a child, too. Long gone. A mother's work... isn't it such a waste?"
+|-
+! colspan="2" |Demeter About Hades 01
+|-
+|'''Demeter'''
+|"Your father Hades and I share a common fate, each having lost a child fully grown; except that he's a hollow fool, whose child left! Whereas my daughter never would have. Ever!"
+|-
+! colspan="2" |Demeter About Hades 02
+|-
+|'''Demeter'''
+|"Your father always had a sternness to him that his brothers lacked. Thought him a decent sort, comparatively anyway; though evidently he is no such thing."
+|-
+! colspan="2" |Demeter About Love 01
+|-
+|'''Demeter'''
+|"Should you achieve your goal, and see this surface-world, Zagreus, I've but one bit of knowledge to impart: Don't ever fall for mortals. Use them if you must, but do not waste your love on those who waste away."
+|-
+! colspan="2" |Demeter About Helios 01
+|-
+|'''Demeter'''
+|"I have a brother, Helios, the Sun. A nonsense-talker with a flaming chariot. Why, he once told me that my Kore, that she went into that Underworld of yours! Preposterous. The clouds now blot him out entirely."
+|-
+! colspan="2" |Demeter About Helios 02
+|-
+|'''Demeter'''
+|"This land is not unlike your own in certain ways. For, Helios the Sun has not shone down upon it for some time. How long, I really couldn't tell you, little sprout! Long enough for mortals to take notice, certainly."
+|-
+! colspan="2" |Demeter About Sisters 01
+|-
+|'''Demeter'''
+|"My sisters Hestia and Hera surely would assist as well, young sprout. Except they and our foster-brothers haven't been getting along of late. Though as for me? I'll never leave this mountaintop of mine."
+|-
+! colspan="2" |Demeter About Father 01
+|-
+|'''Demeter'''
+|"We all are willful children, are we not? I'm daughter to Hyperion, you know; a Titan so obscure and hated that Lord Zeus, he started calling me his birth-sister, so much did he dislike this bit of truth! And to get a rise out of me, too."
+|-
+! colspan="2" |Demeter About Father 02
+|-
+|'''Demeter'''
+|"As seasons give to one another, so do generations, I suppose. Hyperion, my father? He'd not a one redeeming quality. My sisters and my foster-brothers and myself; this world owes us a debt for ridding it of him and his kind."
+|-
+! colspan="2" |Demeter About Zeus 02
+|-
+|'''Demeter'''
+|"I ought to warn you that my foster-brother Zeus, he has just a ''disgusting ''sense of humor, little sprout. He'd have you think he sired half the countryside! I have to shudder at the very thought."
+|-
+! colspan="2" |Demeter About Rumors 01
+|-
+|'''Demeter'''
+|"There's so much nonsense that the mortals say to one another of our family, Zagreus. How viciously the rumors spread! Whether from that oaf, Zeus, or likely from the mortal drunkard-poets with no better use of their limited time!"
+|-
+! colspan="2" |Demeter High Affinity 01
+|-
+|'''Demeter'''
+|"I warn you, Zagreus, best not to make attempts to grow much closer with me, thus. I'm much your elder, after all, and you're my little sprout. What say we keep it that way, hm?"
+|-
+! colspan="2" |Demeter High Affinity 02
+|-
+|'''Demeter'''
+|"I... I am so very moved, I... have a daughter once again. And... I've a grandson, too! I thought, I felt something when first I met you, but... I brushed it off. Just like a fleck of snow..."
+|-
+! colspan="2" |Demeter Run Cleared 01
+|-
+|'''Demeter'''
+|"Someday, my little sprout, you'll gain the surface of your father's realm, and see my handiwork. Until such time, I'll come to your aid as I can. It's quite the entertaining pastime, honestly!"
+|-
+! colspan="2" |Demeter Post Epilogue 02
+|-
+|'''Demeter'''
+|"By the way, we had entirely a lovely time within your father's house, Grandson. And, to see Kore once again, it... warmed my heart. I'm beyond grateful that your mother's safe. And that you've an important job to do. Here, I shall help."
+|-
+! colspan="2" |Demeter Post Epilogue 03
+|-
+|'''Demeter'''
+|"I meant to tell you something, Grandson... you needn't have deceived the rest of us. You could have sent word that my daughter was with you down there, all along! Ah, but families are a complicated thing. Just swear that you'll be candid with us, next time."
+|-
+! colspan="2" |Demeter Post Epilogue 04
+|-
+|'''Demeter'''
+|"You must visit us sometime up here, Grandson! I understand the surface hasn't been agreeable with you... though perhaps if not in this age, then the next, we shall have you over. It's brisk up here... but nice enough, I think."
+|-
+! colspan="2" |Demeter Post Epilogue 05
+|-
+|'''Demeter'''
+|"Young sprout, I cannot fully understand my daughter's choices, such as what she saw in your gloom-filled father to have eloped with him. But if you are the result, then she is clearly wiser than I estimated."
+|-
+! colspan="2" |Demeter Post Epilogue 06
+|-
+|'''Demeter'''
+|"I made mistakes raising your mother, sprout. When she was my Kore. I was blind to the possibility that she could have left me, but... I see it now. If you become a parent yourself, someday... may you listen more than I."
+|-
+! colspan="2" |Demeter Post Epilogue 07
+|-
+|'''Demeter'''
+|"You tell my Kore... ''erm, Persephone'', that is... the Queen! You tell her that her mother sends her warm regards. You tell her that. And you take care of her."
+|-
+! colspan="2" |Demeter Post Epilogue 08
+|-
+|'''Demeter'''
+|"Grandson, my daughter Queen Persephone, she sent me the most precious message, courtesy of Hermes, as of late. I'm pleased to hear that you are getting on all right. Though, I know you're at work, so here!"
+|-
+! colspan="2" |Demeter About Keepsake 01
+|-
+|'''Demeter'''
+|"The Frostbitten Horn which you bear once overflowed. It holds a certain power still, of course. But never again shall mortalkind take it for granted."
+|-
+! colspan="2" |Demeter About Pact 01
+|-
+|'''Demeter'''
+|"The heat has risen quite considerably there, is that not so? Then if my foster-brother's tampered with the temperature, I'll have to cool things off."
+|-
+! colspan="2" |Demeter About Asphodel 01
+|-
+|'''Demeter'''
+|"The heat of your surroundings must be difficult to bear, my little sprout. It's fortunate I've just the thing for that."
+|-
+! colspan="2" |Demeter About Styx 01
+|-
+|'''Demeter'''
+|"That chill sensation I detect must indicate that you are near the surface, Zagreus. If you can overcome the final challenges ahead, you soon shall see the long winter yourself."
+|-
+! colspan="2" |Demeter Has Weapon 01
+|-
+|'''Demeter'''
+|"That's Sister Hera's Heart-Seeker you have! The very weapon which she used to put our predecessors down. It hasn't lost its potency I see. Fear not, I shall not mention this to her, if I see her."
+|-
+! colspan="2" |Demeter Has Weapon 02
+|-
+|'''Demeter'''
+|"Why, isn't that there Sister Hestia's oddly constructed armament you bear? She always was so predisposed to flame; I thought she'd never give it up! If it's to be in any hands, then may as well be yours."
+|-
+! colspan="2" |Demeter Has Weapon 03
+|-
+|'''Demeter'''
+|"I scarcely can see... are those the Twin Fists that you bear, young sprout? I once made ample use of them myself, if you'll imagine it. Wielding the cold since has been adequate for me, but you? May you put them to work as I once did."
+|-
+! colspan="2" |Demeter Low Health 01
+|-
+|'''Demeter'''
+|"Why, you've the look of one who has endured a terribly long winter, Zagreus! I trust you'll cling to life a little longer, now."
+|-
+! colspan="2" |Demeter Low Health 02
+|-
+|'''Demeter'''
+|"I sense your grip on life is coming loose, young Zagreus. Now turn that cold you feel against your enemies."
+|-
+! colspan="2" |Demeter Low Health 03
+|-
+|'''Demeter'''
+|"You seem to be in dire need of some assistance, Zagreus. I think perhaps I have a bit to spare."
+|-
+! colspan="2" |Demeter Low Health 04
+|-
+|'''Demeter'''
+|"You're in the winter of your current stretch of life, aren't you, Zagreus? Do try and live a little longer for me, hm?"
+|-
+! colspan="2" |Demeter Low Health 05
+|-
+|'''Demeter'''
+|"You waste away just like a common mortal, Zagreus. How rather unbecoming of a god."
+|-
+! colspan="2" |Demeter Low Health 06
+|-
+|'''Demeter'''
+|"The flame of life is easily extinguished by the cold, young Zagreus. Surely you feel the warmth within you giving way?"
+|-
+! colspan="2" |Demeter Low Health 07
+|-
+|'''Demeter'''
+|"Cold comfort for your terrible predicament, young Zagreus, but I am here."
+|-
+! colspan="2" |Demeter First Pick Up
+|-
+|'''Zagreus'''
+|"Last time I felt a chill like this was... on the surface, but, who...? Well, one way to find out. Then, in the name of Hades! Olympus, I accept this message!"
+|-
+|'''Demeter'''
+|"I understand, young Zagreus, that you would seek to leave that bitter darkness for this bitter cold? Quite honestly I fail to see why. But I'll aid your plight, why not? For I can offer plenty of assistance, and you soon shall grow fond of it, I think."
+|-
+! colspan="2" |Demeter Misc Pickup 01
+|-
+|'''Demeter'''
+|"I once had plentitudes of blessings I would offer readily, young Zagreus; but I am feeling not as generous of late."
+|-
+! colspan="2" |Demeter Misc Pickup 02
+|-
+|'''Demeter'''
+|"Did you detect perhaps a certain spirit-shaking chill within the air, young Zagreus?"
+|-
+! colspan="2" |Demeter Misc Pickup 03
+|-
+|'''Demeter'''
+|"Plenty of blessings left to go around; although, only for you, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 04
+|-
+|'''Demeter'''
+|"Your enemies shall have no shelter from the cold whilst I am at your side, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 05
+|-
+|'''Demeter'''
+|"There's something to the barrenness, where you reside; perhaps someday it shall be more like that up here."
+|-
+! colspan="2" |Demeter Misc Pickup 06
+|-
+|'''Demeter'''
+|"Your realm there is much like the wind-swept surface here. Mostly devoid of life, such as it's been of late."
+|-
+! colspan="2" |Demeter Misc Pickup 07
+|-
+|'''Demeter'''
+|"Olympus must seem like a distant paradise to you, young Zagreus; it is a frozen waste to me. But still, it's home."
+|-
+! colspan="2" |Demeter Misc Pickup 08
+|-
+|'''Demeter'''
+|"Your foes shall more than catch cold by the time we're through, don't you agree, young sprout?"
+|-
+! colspan="2" |Demeter Misc Pickup 09
+|-
+|'''Demeter'''
+|"All those who stand opposed to you, why, we shall shatter more than their resolve, I think, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 10
+|-
+|'''Demeter'''
+|"One of these seasons I suppose I ought to double-check the mortals haven't gone extinct without my intervention at each step."
+|-
+! colspan="2" |Demeter Misc Pickup 11
+|-
+|'''Demeter'''
+|"None can endure an everlasting winter's chill, young Zagreus; not even your father's lifeless servants there beneath the earth."
+|-
+! colspan="2" |Demeter Misc Pickup 12
+|-
+|'''Demeter'''
+|"The seasons have a certain beauty to them, I suppose. Though struggle onward, and you needn't take my word for it."
+|-
+! colspan="2" |Demeter Misc Pickup 13
+|-
+|'''Demeter'''
+|"I've known your father and his brothers here for many seasons now; they bicker endlessly with me and one another."
+|-
+! colspan="2" |Demeter Misc Pickup 14
+|-
+|'''Demeter'''
+|"I have to tell you something, little sprout. I take cold comfort knowing that my foster-brother Hades is no better at his parenting than I."
+|-
+! colspan="2" |Demeter Misc Pickup 15
+|-
+|'''Demeter'''
+|"I'd gladly scour all your father's realm if doing so would free you from his clutches, Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 16
+|-
+|'''Demeter'''
+|"I'll have you know something, young Zagreus: The bitter cold and frost is just as inescapable as death itself."
+|-
+! colspan="2" |Demeter Misc Pickup 17
+|-
+|'''Demeter'''
+|"The seasons turn relentlessly, without regard, and thusly should you doggedly push forward on your path."
+|-
+! colspan="2" |Demeter Misc Pickup 18
+|-
+|'''Demeter'''
+|"I shall bring desolation upon those who wrong you, little sprout."
+|-
+! colspan="2" |Demeter Misc Pickup 19
+|-
+|'''Demeter'''
+|"I hope that you're aware how seldomly I give my blessing as of late, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 20
+|-
+|'''Demeter'''
+|"There's no escaping from the bitter cold, you know."
+|-
+! colspan="2" |Demeter Misc Pickup 21
+|-
+|'''Demeter'''
+|"Your adversaries soon shall know something of loss, I think."
+|-
+! colspan="2" |Demeter Misc Pickup 22
+|-
+|'''Demeter'''
+|"Let us see to it your foes are left with nothing."
+|-
+! colspan="2" |Demeter Misc Pickup 23
+|-
+|'''Demeter'''
+|"There shall be only souls for harvesting this day, I think, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 24
+|-
+|'''Demeter'''
+|"My warm regards, and all my blessings to you, little sprout."
+|-
+! colspan="2" |Demeter Misc Pickup 25
+|-
+|'''Demeter'''
+|"The bitterness of cold and death go hand in hand, I do suppose."
+|-
+! colspan="2" |Demeter Misc Pickup 26
+|-
+|'''Demeter'''
+|"When all is taken away, the cold yet remains, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 27
+|-
+|'''Demeter'''
+|"I am not feeling quite so generous of late, young Zagreus, but nevertheless: Choose."
+|-
+! colspan="2" |Demeter Misc Pickup 28
+|-
+|'''Demeter'''
+|"Your lifeless foes must foolishly believe they've nothing left to lose."
+|-
+! colspan="2" |Demeter Misc Pickup 29
+|-
+|'''Demeter'''
+|"Go with my blessings, Zagreus; though you may take but one."
+|-
+! colspan="2" |Demeter Misc Pickup 30
+|-
+|'''Demeter'''
+|"Decay is the inevitable state of things; we are merely helping it along."
+|-
+! colspan="2" |Demeter Misc Pickup 31
+|-
+|'''Demeter'''
+|"The cold of Mount Olympus shall bring utter ruin on your enemies."
+|-
+! colspan="2" |Demeter Misc Pickup 32
+|-
+|'''Demeter'''
+|"Death and cold, they are irrevocably bound together, Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 33
+|-
+|'''Demeter'''
+|"The climate in those depths needs cooling, then, I take it, Zagreus?"
+|-
+! colspan="2" |Demeter Misc Pickup 34
+|-
+|'''Demeter'''
+|"You bring with you the season of decay, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 35
+|-
+|'''Demeter'''
+|"Your foes shall all wither before you like unwatered crops."
+|-
+! colspan="2" |Demeter Misc Pickup 36
+|-
+|'''Demeter'''
+|"The frost eventually shall cover everything, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 37
+|-
+|'''Demeter'''
+|"You'll find that life gives way quite easily to cold, young sprout."
+|-
+! colspan="2" |Demeter Misc Pickup 38
+|-
+|'''Demeter'''
+|"Look carefully upon my blessings, Zagreus, and take no more than one."
+|-
+! colspan="2" |Demeter Misc Pickup 39
+|-
+|'''Demeter'''
+|"I trust that harvesting dead souls is not unlike the harvest we have on the surface, Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 40
+|-
+|'''Demeter'''
+|"You're like a little flame there in your father's realm; easy enough to spot."
+|-
+! colspan="2" |Demeter Misc Pickup 41
+|-
+|'''Demeter'''
+|"It seems to me your foes are ripe for harvesting, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup 42
+|-
+|'''Demeter'''
+|"Any who stand against you soon shall wither from the cold, young sprout."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 01
+|-
+|'''Demeter'''
+|"I seldom feel too generous of late, and yet for you, young Zagreus? Why not."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 02
+|-
+|'''Demeter'''
+|"I once offered the mortals generosities as this in much more copious supply."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 03
+|-
+|'''Demeter'''
+|"It soon shall be exceptionally cold down in the Underworld, I think."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 04
+|-
+|'''Demeter'''
+|"I'd never give out blessings such as this to merely anyone, I hope you know."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 05
+|-
+|'''Demeter'''
+|"I've quite the harvest here from which to choose, my little sprout."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 06
+|-
+|'''Demeter'''
+|"Soon, the season there shall turn exceptionally cold, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Rare Pickup 07
+|-
+|'''Demeter'''
+|"It is particularly cold outside, today; and soon it shall be so in there for you."
+|-
+! colspan="2" |Demeter Misc Pickup About Winter 01
+|-
+|'''Demeter'''
+|"Well, my little sprout, we shall have to get you through this winter's cold."
+|-
+! colspan="2" |Demeter Misc Pickup About Winter 02
+|-
+|'''Demeter'''
+|"A crisp and pleasant winter's evening to you, Zagreus; now, here."
+|-
+! colspan="2" |Demeter Misc Pickup About Winter 03
+|-
+|'''Demeter'''
+|"My finest winter blessings to you, little sprout."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 01
+|-
+|'''Demeter'''
+|"Well, Grandson, it's growing rather cold, don't you agree?"
+|-
+! colspan="2" |Demeter Misc Pickup Extra 02
+|-
+|'''Demeter'''
+|"I'm here to ease some of your burdens, my young sprout. That's what we grandmothers are for."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 03
+|-
+|'''Demeter'''
+|"I trust you're keeping yourself warm enough in all of this, Grandson?"
+|-
+! colspan="2" |Demeter Misc Pickup Extra 04
+|-
+|'''Demeter'''
+|"When all this is over, please do come and visit us sometime, Grandson."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 05
+|-
+|'''Demeter'''
+|"I'd tell you not to work too hard, Grandson, although your family is in need of more hard-working sorts."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 06
+|-
+|'''Demeter'''
+|"Foul weather's on the forecast for your foes, Grandson."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 07
+|-
+|'''Demeter'''
+|"Don't let my foster-brother bully you about, you hear, Grandson?"
+|-
+! colspan="2" |Demeter Misc Pickup Extra 08
+|-
+|'''Demeter'''
+|"Let's cool down that hot head of yours a bit, why don't we, Grandson?"
+|-
+! colspan="2" |Demeter Misc Pickup Extra 09
+|-
+|'''Demeter'''
+|"My best regards to Queen Persephone and your lord father, little sprout. You keep it up."
+|-
+! colspan="2" |Demeter Misc Pickup Extra 10
+|-
+|'''Demeter'''
+|"I trust your mother Queen Persephone is faring well if she has as fine a son as you, young Zagreus."
+|-
+! colspan="2" |Demeter Misc Pickup Persephone Away 01
+|-
+|'''Demeter'''
+|"Your mother sends you all her love from Mount Olympus, Grandson."
+|-
+! colspan="2" |Demeter Misc Pickup Persephone Away 02
+|-
+|'''Demeter'''
+|"All the best from Queen Persephone, young sprout. She misses you, you know."
+|-
+! colspan="2" |Demeter Misc Pickup Persephone Away 03
+|-
+|'''Demeter'''
+|"Persephone is doing well here on Olympus, Zagreus. You ought to visit, too, sometime."
+|-
+! colspan="2" |Demeter Loot Bought 01
+|-
+|'''Demeter'''
+|"Be thankful that the rivers to your realm have not yet frozen over, Zagreus."
+|-
+! colspan="2" |Demeter Loot Bought 02
+|-
+|'''Demeter'''
+|"I trust your ferry-boatman Charon has no qualms about the freezing temperatures up here?"
+|-
+! colspan="2" |Demeter Loot Bought 03
+|-
+|'''Demeter'''
+|"My message comes to you by river-boat this time, young Zagreus. At least that Charon is amenable to our attempts to contact you."
+|-
+! colspan="2" |Demeter Rejection 01
+|-
+|'''Demeter'''
+|"My blessing's seldom given and ought not be so readily refused, young Zagreus."
+|-
+! colspan="2" |Demeter Rejection 02
+|-
+|'''Demeter'''
+|"I am accustomed to such disrespect from all those blasted mortals, Zagreus, but ''you''?"
+|-
+! colspan="2" |Demeter Rejection 03
+|-
+|'''Demeter'''
+|"If you are so disinterested in my generosity, young Zagreus, then you shall have my wrath."
+|-
+! colspan="2" |Demeter Rejection 04
+|-
+|'''Demeter'''
+|"I don't recall if I yet warned against this type of attitude, although it doesn't matter either way."
+|-
+! colspan="2" |Demeter Rejection 05
+|-
+|'''Demeter'''
+|"Do you believe I give my blessings liberally, Zagreus? Well then I've news for you."
+|-
+! colspan="2" |Demeter Rejection 06
+|-
+|'''Demeter'''
+|"Offend me, and I'll drain the last traces of color from those cheeks of yours."
+|-
+! colspan="2" |Demeter Rejection 07
+|-
+|'''Demeter'''
+|"That was an ill-advised decision, Zagreus. I'm past quickly forgiving such mistakes."
+|-
+! colspan="2" |Demeter Rejection 08
+|-
+|'''Demeter'''
+|"You truly think you can withstand the ravages of winter, Zagreus? That I would like to see."
+|-
+! colspan="2" |Demeter Rejection 09
+|-
+|'''Demeter'''
+|"A harsh winter is coming for you, Zagreus. And I'm afraid you've brought it on yourself."
+|-
+! colspan="2" |Demeter Rejection 10
+|-
+|'''Demeter'''
+|"For that decision, Zagreus, it is about to be a very cold day down there in your Underworld."
+|-
+! colspan="2" |Demeter Rejection 11
+|-
+|'''Demeter'''
+|"A careless choice you've made, there, Zagreus. As you grow long in years, perhaps you shall learn better judgment as to whom to trust, and whom to never, ever disrespect."
+|-
+! colspan="2" |Demeter Make Up 01
+|-
+|'''Demeter'''
+|"Perhaps you'll exercise more wisdom in such interactions moving forward, hm?"
+|-
+! colspan="2" |Demeter Make Up 02
+|-
+|'''Demeter'''
+|"It ultimately isn't my intent to leave you in the cold like this, young Zagreus."
+|-
+! colspan="2" |Demeter Make Up 03
+|-
+|'''Demeter'''
+|"The freezing cold ought to have drained the life from you; but I've allowed it to relent, for now."
+|-
+! colspan="2" |Demeter Make Up 04
+|-
+|'''Demeter'''
+|"Next time, young Zagreus, perhaps I'll take every last bit of warmth you've left down there."
+|-
+! colspan="2" |Demeter Make Up 05
+|-
+|'''Demeter'''
+|"I am the eldest of Olympus, Zagreus. And I expect for you to treat me suitably."
+|-
+! colspan="2" |Demeter Make Up 06
+|-
+|'''Demeter'''
+|"The harsh of winter's gone for now, young Zagreus; and so take heart, but also you take heed."
+|-
+! colspan="2" |Demeter Make Up 07
+|-
+|'''Demeter'''
+|"So you survived a little winter's chill, didn't you, there? Be careful, though; next season could be worse."
+|-
+! colspan="2" |Demeter Make Up 08
+|-
+|'''Demeter'''
+|"Remember, next time, Zagreus, that on my whim I can take everything from you."
+|-
+! colspan="2" |Demeter Make Up 09
+|-
+|'''Demeter'''
+|"I am quite capable of making your life plenty difficult, you do now realize, young Zagreus?"
+|-
+! colspan="2" |Demeter Make Up 10
+|-
+|'''Demeter'''
+|"Perhaps a few more winter seasons such as that might teach you more of how this world works."
+|-
+! colspan="2" |Demeter Make Up 11
+|-
+|'''Demeter'''
+|"Enough; I do not hold to grudges, Zagreus. You've my good graces, and my temper's cooled, for now."
+|-
+! colspan="2" |Demeter Gift 01
+|-
+|'''Zagreus'''
+|"Good Lady Demeter, you've shown me warmth and generosity, and I am very grateful for it. Please, accept this as a small token of my appreciation."
+|-
+|'''Demeter'''
+|"An offering well suited for the season, there, young Zagreus! In turn, as you are honorable and obedient, you'll have from me what the mortals have not."
+|-
+! colspan="2" |Demeter Gift 02
+|-
+|'''Zagreus'''
+|"A little offering for you, good Lady Demeter. I'm deeply grateful for your willingness to aid me in all this."
+|-
+|'''Demeter'''
+|"I must acknowledge and accept your thoughtful gift of Nectar, Zagreus; would that the mortals showed deference thus."
+|-
+! colspan="2" |Demeter Gift 03
+|-
+|'''Zagreus'''
+|"May this small offering bring you some joy there on Olympus, Lady Demeter. Thank you for all your help."
+|-
+|'''Demeter'''
+|"A conscientious gift, my little sprout; and I am grateful for your generosity. A bit of Nectar cuts straight through the cold, I say."
+|-
+! colspan="2" |Demeter Gift 04
+|-
+|'''Zagreus'''
+|"Your power and your wisdom has been of such help, good Lady Demeter. I'm honored, and this is the least I can do in exchange."
+|-
+|'''Demeter'''
+|"I was quite certain that the youth today was lacking any sort of tactfulness, young Zagreus. For once I'm thankful to be proven wrong."
+|-
+! colspan="2" |Demeter Gift 05
+|-
+|'''Zagreus'''
+|"Lady Demeter, I am forever in your debt for the affection that you've shown to me, and for the power you've bestowed."
+|-
+|'''Demeter'''
+|"The everlasting winter means that Nectar's been in rather short supply; that you would think of ''me ''for such an offering is duly noted, then."
+|-
+! colspan="2" |Demeter Gift 06
+|-
+|'''Zagreus'''
+|"I often remember that there's sweetness in this world only by your grace, Lady Demeter. I'm thankful that we've grown closer through all this."
+|-
+|'''Demeter'''
+|"You would make further offerings to me? Even though I have made quite clear I've lately not been at my charitable best, young Zagreus? You're either naive or you're much too kind, or both."
+|-
+! colspan="2" |Demeter Gift 07
+|-
+|'''Zagreus'''
+|"''Erm'', Grandmother? If you don't mind I call you that. Knowing we're related like this fills me with pride. Your power over life... I think I've some of it in me! And I could not have come this far without your help. Please, for everything... this is for you."
+|-
+|'''Demeter'''
+|"Why, Grandson, how you honor me, with this... I am so very grateful that we've met, and that... you're ''you'', if that makes any sense at all. I have my sisters, but... I'd no one else, for very long, indeed."
+|-
+|}

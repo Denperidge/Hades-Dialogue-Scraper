@@ -1,0 +1,1037 @@
+{| class="wikitable"
+|+
+! colspan="2" |Hermes Second Pick Up
+|-
+|'''Hermes'''
+|"Was ist los, Vetter? Darf ich dich so nennen? Hab was für dich, womit du deine Kämpfe auf Leben und Tod eindeutig schneller zu Ende bringen kannst!"
+|-
+! colspan="2" |Hermes Expecting Zeus 01
+|-
+|'''Hermes'''
+|"Tut mir leid, Boss, mein Paps hatte Wichtiges zu erledigen. Aber ich bin hier! Um diese Botschaft zu überbringen, und das hier."
+|-
+! colspan="2" |Hermes Expecting Poseidon 01
+|-
+|'''Hermes'''
+|"Ich bin hier, um dir zu sagen, dass Poseidon auf dem Weg ist, Boss. Manchmal ist er ein bisschen langsam. Doch du wirst ihn irgendwann wieder treffen!"
+|-
+! colspan="2" |Hermes Expecting Athena 01
+|-
+|'''Hermes'''
+|"Hast du jemand anderen erwartet, Boss? Vielleicht meine Halbschwester? Pech, ich war zuerst hier. Willst du hiervon was, oder nicht?"
+|-
+! colspan="2" |Hermes Expecting Ares 01
+|-
+|'''Hermes'''
+|"Sobald mir zu Ohren kam, dass du Ares treffen wolltest, bin ich so schnell ich konnte hergekommen, Boss! Er wird nie schneller sein als ich. Schon gar nicht in der Rüstung."
+|-
+! colspan="2" |Hermes Expecting Aphrodite 01
+|-
+|'''Hermes'''
+|"Aphrodite sagte, dass sie ein kleines bisschen später kommt, Vetter. Das macht dir doch bestimmt nichts aus. Außerdem bin ich ja hier! Jedenfalls im Geiste."
+|-
+! colspan="2" |Hermes Expecting Artemis 01
+|-
+|'''Hermes'''
+|"Wollte dir nur sagen, dass meine Schwester Artemis nach dir Ausschau hält. Du dürftest ihr in Kürze in einem der Gemächer begegnen!"
+|-
+! colspan="2" |Hermes Expecting Dionysus 01
+|-
+|'''Hermes'''
+|"Tut mir leid, dass Dionysos nicht hier sein konnte, Boss. Pünktlichkeit war allerdings noch nie seine Stärke."
+|-
+! colspan="2" |Hermes Expecting Demeter 01
+|-
+|'''Hermes'''
+|"Die Kälte, die du da in der Luft gespürt hast, das war diesmal nicht Demeter, Boss! Das war nur ich, der blitzartig zu dir geflitzt ist. Sorgt für eine angenehme kleine Brise, denke ich!"
+|-
+! colspan="2" |Hermes Beat Charon Quest Complete
+|-
+|'''Hermes'''
+|"Du hast es geschafft, Vetter! Und mit ''es ''meine ich, du hast meinen scheinbar unbesiegbaren Fährmann runtergehandelt, der sich als Gottheit der Unterwelt für einen ziemlich harten Kerl hält! Er war sich nicht sicher, ob du das drauf hast, und wenn ich so offen sein darf, ich war's auch nicht!"
+|-
+! colspan="2" |Hermes About Plume 02
+|-
+|'''Hermes'''
+|"He, sieht so aus, als sei deine schicke Feder dir von Nutzen! Nur weiter so. Vielleicht bist du eines Tages halb so flink wie ich!"
+|-
+! colspan="2" |Hermes About Skelly 01
+|-
+|'''Hermes'''
+|"Boss, meinem scharfen Auge ist nicht entgangen, dass du da einen gewissen Zahn mit dir herumträgst. Ich weiß ja, dass du aus dem Land der Toten kommst und so, aber meinst du nicht, das wirkt ein kleines bisschen seltsam?"
+|-
+! colspan="2" |Hermes About Persephone Meeting 01
+|-
+|'''Hermes'''
+|"Hab gehört, dass du endlich da rausgekommen bist, Vetter! Da darf man ja gratulieren! Natürlich ist das Geheimnis bei mir sicher! Die anderen hier, die glauben, dass du immer noch dran arbeitest. Tust du ja wohl auch!"
+|-
+! colspan="2" |Hermes Post Ending 01
+|-
+|'''Hermes'''
+|"Hab gehört, eine gewisse Person ist dort unten jetzt wieder zu Hause bei dir, Vetter! Würde sagen, das sind wunderbare Neuigkeiten, nur dass es ''keine ''Neuigkeiten sind, wenigstens noch nicht! Aber wenn die Zeit reif ist, die Nachricht zu verbreiten, gib einfach ein Zeichen!"
+|-
+|'''Hermes'''
+|"Also ''du ''darfst wieder und wieder hier ausbrechen, damit ''dein Vater ''immer neue Wege finden kann, dir deine Flucht noch weiter zu erschweren? So was in der Art? Klingt nach einer interessanten Aufgabe, Vetter!"
+|-
+! colspan="2" |Hermes About Olympian Reunion Quest 01
+|-
+|'''Zagreus'''
+|"Ich bin diesmal der Bote. Im Namen von Hades! Olymp, das ist eine offizielle Botschaft! Ehrwürdiger Hermes? Bin so schnell gekommen, wie ich konnte."
+|-
+|'''Hermes'''
+|"Oh, diesmal hast du wohl eine Botschaft nur für ''mich''. Ist ja was ganz Besonderes, Boss! Eine Art Einladung, wie es aussieht. Bist du sicher, dass ich die bekommen soll, wo ich doch nicht offiziell involviert bin?"
+|-
+! colspan="2" |Hermes Post Epilogue 01
+|-
+|'''Hermes'''
+|"Ich muss schon sagen, Vetter, das war echt ein tolles Fest bei dir! Ein bisschen heikel, so zu tun, als hätten wir uns gerade kennengelernt, doch he, ich bin ein Olympier! Was heißt, im Posieren bin ich Meister. Schön war’s, Vetter! Freut mich, dass alles geklappt hat."
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 01
+|-
+|'''Hermes'''
+|"Fürchte, dein planmäßiger Olympier konnte jetzt nicht kommen, weil ich viel schneller bin, Boss!"
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 02
+|-
+|'''Hermes'''
+|"Könnte sein, dass du jemand anderen hier erwartet hast, Boss. Doch ich konnte es mir einfach nicht verkneifen, schneller zu sein!"
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 03
+|-
+|'''Hermes'''
+|"Bin so schnell gekommen, wie ich konnte, Vetter. Wie sich herausstellt, eine ganze Ecke schneller als meine Verwandten!"
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 04
+|-
+|'''Hermes'''
+|"Das Andenken, das du mitgebracht hast, wird sich schon bald als nützlich erweisen, da bin ich sicher, Boss!"
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 05
+|-
+|'''Hermes'''
+|"Normalerweise folgen meine Verwandten rasch dem Ruf eines jeden, der eines ihrer Andenken mit sich führt! Huh!"
+|-
+! colspan="2" |Hermes Expecting Misc Olympian 06
+|-
+|'''Hermes'''
+|"Vielleicht bin ich nicht der Gott, nach dem du gerade suchst, Boss, aber ich werde dich in Windeseile auf den richtigen Weg bringen!"
+|-
+! colspan="2" |Hermes About Zeus 01
+|-
+|'''Hermes'''
+|"Du hast schon von meinem Paps gehört, stimmt’s, Vetter? Toller Typ. Allerdings verbringen wir nicht viel Zeit miteinander! Du weißt ja, wie das ist. Also, man sieht sich!"
+|-
+! colspan="2" |Hermes About Zeus 02
+|-
+|'''Hermes'''
+|"Weißt du, Vetter, mir gibt mein Paps niemals seine Blitzsegen! Er nimmt großen Anteil an deiner Geschichte, nicht wahr?"
+|-
+! colspan="2" |Hermes About Poseidon 01
+|-
+|'''Hermes'''
+|"Will dich da in was einweihen, Boss. Onkel Poseidon ist mir zuvorgekommen, weil ich ihn gelassen hab. Er denkt, er sei flink wie eh und je! ''Hah!''"
+|-
+! colspan="2" |Hermes About Athena 01
+|-
+|'''Hermes'''
+|"Also Athene passt auf dich auf, schön, sehr schön! Sie macht sich viele Gedanken über alles Mögliche, ist etwas übertrieben, wenn du mich fragst!"
+|-
+! colspan="2" |Hermes About Ares 01
+|-
+|'''Hermes'''
+|"Weißt du, wer mich arg auf Trab hält, Vetter? Ares. Nichts treibt den Bedarf an Nachrichten so in die Höhe wie ein guter alter Krieg unter den Sterblichen!"
+|-
+! colspan="2" |Hermes About Artemis 01
+|-
+|'''Hermes'''
+|"Hat Artemis dich bereits ausfindig gemacht, Boss? Darin ist sie ziemlich gut, muss ich schon sagen. Ich bin schneller! Doch sie ist auch schnell, ziemlich schnell."
+|-
+! colspan="2" |Hermes About Aphrodite 01
+|-
+|'''Hermes'''
+|"Aphrodite ist echt der Hammer, meinst du nicht auch, Vetter? Normalerweise lasse ich mich von niemandem hier aufhalten. Doch in ihrem Fall muss eine Ausnahme gemacht werden!"
+|-
+! colspan="2" |Hermes About Dionysus 01
+|-
+|'''Hermes'''
+|"Hast du jemals das Gefühl, dass das Leben zu schnell vergeht, Boss? Kann man von Dionysos nicht sagen, wie du vermutlich weißt. Veranstaltet aber tolle Gelage!"
+|-
+! colspan="2" |Hermes About Demeter 01
+|-
+|'''Hermes'''
+|"Ist in letzter Zeit ausgesprochen frisch hier oben, Vetter! Das haben wir Demeter zu verdanken! Ich versuch ja, ihr aus dem Weg zu gehen. Sie glaubt, ich bin für sie keine große Hilfe. Doch immerhin hat sie sich für dich erwärmt!"
+|-
+! colspan="2" |Hermes About Hades Keepsake 01
+|-
+|'''Hermes'''
+|"Sag mal, begleitet dich da etwa der Segen deines Vaters, Vetter?! Ich kann’s ja fast nicht glauben, doch du hast so gute Arbeit geleistet, wie könnte er das ''nicht ''anerkennen?"
+|-
+! colspan="2" |Hermes Backstory 01
+|-
+|'''Hermes'''
+|"Heh, was geht ab, Vetter? Aber wem mache ich hier was vor, wir können uns den Smalltalk sparen. Macht mir nichts aus, ich falle meinen Brüdern und Schwestern ständig ins Wort!"
+|-
+! colspan="2" |Hermes Backstory 02
+|-
+|'''Hermes'''
+|"Boss, du hast dich sicher bei dem Gedanken ertappt: ''Hermes ist echt schnell! Wieso hat es dann es so lange gedauert, bis er hier aufgekreuzt ist? ''Nun, ich fürchte, das geht dich nichts an. Aber! Es liegt nicht daran, dass ich zu spät gekommen bin. Ich komme nie zu spät."
+|-
+! colspan="2" |Hermes Backstory 03
+|-
+|'''Hermes'''
+|"He, könntest du mir einen kleinen Gefallen tun, Vetter? Meine Brüder, Schwestern, Verwandten und so, die ahnen nicht, dass ich hier mit dir zusammenarbeite. Das ist kein Drama, aber belassen wir’s vorerst dabei. In Ordnung?"
+|-
+! colspan="2" |Hermes Backstory 04
+|-
+|'''Hermes'''
+|"Ich war zufällig in der Gegend, Boss! Wo doch die Sterblichen hier oben weiter sterben, und irgendwer muss ihre Seelen ja in dein Reich bringen, oder?"
+|-
+! colspan="2" |Hermes Backstory 05
+|-
+|'''Hermes'''
+|"Kennst du den Spruch ''Eile mit Weile'', Boss? Stammt von mir. Ich schwör’s! Ein kleiner Trick, die Konkurrenz in Schach zu halten, getarnt als Klugheit eines Weisen. Diese dummen Sterblichen glauben wirklich alles!"
+|-
+! colspan="2" |Hermes Backstory 06
+|-
+|'''Hermes'''
+|"Nicht, dass ich ''genau ''wüsste, was du vorhast, Vetter, doch wenn's so wäre, niemand auf dem Olymp weiß was, glaube ich. Und wenn, dann halten sie den Mund. Genau wie ich!"
+|-
+! colspan="2" |Hermes Backstory 07
+|-
+|'''Hermes'''
+|"Hast du dich je gefragt, wie ich so schnell geworden bin, Vetter? Jede Menge Übung, das darfst du wissen! Und außerdem bin ich so unnatürlich flink geboren!"
+|-
+! colspan="2" |Hermes About Skinny Little Chap 01
+|-
+|'''Hermes'''
+|"Hab mal ein dünnes kleines Kerlchen in die Unterwelt gebracht, das bekam das scharfe Ende eines Speers zu spüren! Hatte es jedoch verdient, viel gelogen und betrogen und dergleichen. Leistet da unten noch immer Wiedergutmachung, so viel ich weiß. Eh!"
+|-
+! colspan="2" |Hermes About Skelly 02
+|-
+|'''Hermes'''
+|"Boss, ich weiß, du hast da ein Gerücht gehört von einem sehr mageren Individuum, das nicht gewillt ist, sich vom Fleck zu rühren. Am besten behältst du das für dich, in Ordnung? Sonst ist unser Spiel nämlich aus, und das würde deinem Vater nicht gefallen, und dir auch nicht. Also danke!"
+|-
+! colspan="2" |Hermes About Skelly 03
+|-
+|'''Hermes'''
+|"Sag mal, du kommst also gut klar mit Wie-heißt-er-noch-gleich, dem, der dir seinen Glückszahn geschenkt hat? Ist also ganz in Ordnung. Muss er ja sein, wenn du ihn erträgst!"
+|-
+! colspan="2" |Hermes About Secret Service 01
+|-
+|'''Hermes'''
+|"Bist du mir jetzt also auf die Schliche gekommen, Vetter? Weiß ich vom großen Fährmann persönlich. Na schön! Wir stehen gern zu Diensten. ''Wir ''wissen außerdem eine Menge über ''dich'', also hüte du besser auch unser Geheimnis, klar?"
+|-
+! colspan="2" |Hermes About Secret Service 02
+|-
+|'''Hermes'''
+|"Du hast also meinen Geschäftspartner, den furchterregenden Fährmann auf dem Styx, recht gut kennengelernt, Vetter? Schwer, zu ihm durchzudringen, ich weiß, doch er hat das Herz am rechten Fleck! Darum arbeite ich mit ihm schon so lange zusammen!"
+|-
+! colspan="2" |Hermes About Meg Relationship 01
+|-
+|'''Hermes'''
+|"Hab gehört, du triffst dich mit der Erinye Megaira, Vetter? Hatte den Eindruck, dass sie ganz schön schwierig ist, aber dasselbe könnte man wohl über dich sagen, huh? Viel Spaß euch beiden!"
+|-
+! colspan="2" |Hermes About Charon Fight 01
+|-
+|'''Hermes'''
+|"Unglaublich, dass du dich mit meinem Geschäftspartner angelegt hast, bist du bekloppt, Vetter? So gut wie jeder, den ich kenne, hat mindestens ein bisschen Angst vor ihm und seinem Boot, aber du glaubst, du kannst es mit ihm aufnehmen, huh?"
+|-
+! colspan="2" |Hermes About Charon Fight 02
+|-
+|'''Hermes'''
+|"Du hast dich also mit meinem Geschäftspartner angelegt, richtig, Vetter? Und hast den großen Fährmann bezwungen! Ich wusste, du bist ganz schön zäh, aber doch nicht ''so ''zäh, alle Achtung! Er ist ebenfalls beeindruckt. Er ist noch nicht mal sauer!"
+|-
+! colspan="2" |Hermes Beat Charon Quest 01
+|-
+|'''Hermes'''
+|"He, äh, ich hab da praktisch eine Wette mit dem alten Fährmann abgeschlossen, also meinem Partner, dass du ihn im Kampf besiegen kannst, zweimal hintereinander! Kein Stress, doch wenn du irgendwann beweisen könntest, dass ich Recht hatte, wär ich sehr dankbar, Vetter!"
+|-
+! colspan="2" |Hermes Message 01
+|-
+|'''Hermes'''
+|"Nachricht vom Olymp für dich, Boss! Da steht, '''Es ist wirklich schön hier auf dem Berg, und nicht aus der Unterwelt fliehen zu müssen! Komm bald zu uns, ja?'''"
+|-
+! colspan="2" |Hermes Message 02
+|-
+|'''Hermes'''
+|"Nachricht für dich, Boss. Da steht: '''Du bist ziemlich langsam. Wenn es doch jemanden gäbe, der dir da aus der Klemme helfen könnte.' ''Nein, so was, so ein Zufall!"
+|-
+! colspan="2" |Hermes Message 03
+|-
+|'''Hermes'''
+|"Hab hier eine Nachricht für dich, Vetter. Da steht, ''ähm'': '''Sieh zu, dass du da endlich rauskommst. Und beeil dich.' '' Kommt aus der Oberwelt, steht hier."
+|-
+! colspan="2" |Hermes Message 04
+|-
+|'''Hermes'''
+|"Hier noch eine Nachricht! Da steht: 'Ein Teelöffel getrockneter Oregano, zwei Löffel natives Olivenöl extra, eine große Zwiebel, gewürfelt, eine Prise Salz,' Moment mal, die ist nicht für dich bestimmt. Solltest du allerdings mal ausprobieren, wenn du je da rauskommst!"
+|-
+! colspan="2" |Hermes Message 05
+|-
+|'''Hermes'''
+|"Nachricht für dich, Vetter. Da steht: ''"Im Namen aller Olympier möchten wir dich wissen lassen, dass du dem Gott der Reisenden, Hermes, da eine richtig gute Flasche Ambrosia gegeben hast, und er hat jeden einzelnen Tropfen genossen." ''Mit freundlichen Grüßen, ich!"
+|-
+! colspan="2" |Hermes Message 06
+|-
+|'''Hermes'''
+|"Noch eine Nachricht für dich, Vetter. Die lautet: ''"He, Kumpel! Solltest du es jemals bis auf diesen Gipfel schaffen, aus welchem Grund auch immer, sollten wir zusammen abhängen, okay? Ich kann dir alles zeigen." '' Dein Freund, Hermes."
+|-
+! colspan="2" |Hermes Max Relationship 01
+|-
+|'''Hermes'''
+|"Ganz unter uns, Boss, weißt du was? Von allen, die im Laufe der Zeiten hier Eilzustellungen erhielten, bist du der interessanteste Empfänger!"
+|-
+! colspan="2" |Hermes Run Progress 01
+|-
+|'''Hermes'''
+|"Weißt du, Vetter, ständig bin ich damit beschäftigt, Seelen ins Land deines Vaters zu befördern. Da ist es schön, jemandem bei der Reise in die andere Richtung helfen zu können!"
+|-
+! colspan="2" |Hermes Squelch 01
+|-
+|'''Hermes'''
+|"He, Vetter, an unsere kleinen Plaudereien bist du jetzt gewöhnt, doch ich möchte, dass du ehrlich bist. Du bist der Boss. Wenn dir das lieber ist, halt ich gern die Klappe, kein Ding. Lass es mich wissen, he?"
+|-
+|'''Zagreus'''
+|"Ganz und gar nicht, ehrwürdiger Hermes. Ich freue mich, ab und zu von dir zu hören."
+|-
+|'''Hermes'''
+|"In Ordnung, Boss. Will nur sichergehen, dass ich nicht störe!"
+|-
+! colspan="2" |Text
+|-
+|'''Zagreus'''
+|"Jetzt, wo du’s sagst, ehrwürdiger Hermes, ja, lass uns unsere Gespräche kurz halten."
+|-
+|'''Hermes'''
+|"Verstehe, Boss, nächstes Mal kommen wir gleich zum Kern der Sache, ja?"
+|-
+|'''Zagreus'''
+|"Danke, dass du dich meldest, ehrwürdiger Hermes. Ich glaube, wir sollten weitermachen wie bisher, schön ruhig."
+|-
+|'''Hermes'''
+|"Absolut kein Problem, Boss. Wollte mich nur melden."
+|-
+|'''Zagreus'''
+|"Direkt zur Sache, ehrwürdiger Hermes. Wir beide mögen es, direkt auf den Punkt zu kommen."
+|-
+|'''Hermes'''
+|"Verstehe, Boss. Worte sind zu langsam, stimmt’s? Werde dich mit Worten nicht mehr behelligen, doch wir sehen uns!"
+|-
+|'''Zagreus'''
+|"Auf jeden Fall geistreich plaudern, ehrwürdiger Hermes. Die Gaben sind nach alldem mehr als willkommen."
+|-
+! colspan="2" |Hermes Squelch 02
+|-
+|'''Hermes'''
+|"''Ähm''! Entschuldige die Störung, Boss. Gib Bescheid, wenn du möchtest, dass ich das nächste Mal wieder mehr quassele, so wie früher!"
+|-
+|'''Zagreus'''
+|"Ich vermisse unsere Plaudereien, Hermes. Lass uns so weitermachen wie früher."
+|-
+|'''Hermes'''
+|"Hah, kein Problem, Boss. Ein Plausch von Zeit zu Zeit tut gut!"
+|-
+! colspan="2" |Hermes Squelch 03
+|-
+|'''Hermes'''
+|"Wollte mich nur ganz kurz mal wieder melden, Boss. Willst du das nächste Mal geistreich plaudern oder soll ich gleich zum Kern der Sache kommen?"
+|-
+|'''Zagreus'''
+|"Weißt du was, ich hätte ganz gern, dass du mich wieder geistreich unterhältst, Hermes. Hört sich gut an."
+|-
+|'''Hermes'''
+|"''Ha'', sehr gut! Ich mag diese kleinen Plaudereien! Bis bald, Boss."
+|-
+! colspan="2" |Hermes About Hades 01
+|-
+|'''Hermes'''
+|"Hab deinen Vater nur einmal persönlich getroffen, Vetter. Obwohl ich ihm schon seit einiger Zeit Dienste leiste. Eindrückliches Erlebnis, das muss ich zugeben! Scheint so, als hätte er mit all den Nachrichten, die er von meiner Seite kriegt, nichts angefangen."
+|-
+! colspan="2" |Hermes About Thanatos 01
+|-
+|'''Hermes'''
+|"Du verstehst dich gut mit Thanatos, stimmt’s, Boss? Wir sind nicht häufig auf denselben Strecken unterwegs, obwohl unsere Pflichten sich manchmal ein bisschen überschneiden. Seltsamer Typ. Macht seine Sache jedoch gut, wie’s scheint!"
+|-
+! colspan="2" |Hermes About Thanatos 02
+|-
+|'''Hermes'''
+|"Hab unlängst Thanatos getroffen, Boss. Sah fast so aus, als hätte er gelächelt, als er deinen Namen erwähnte. So was hab ich bei ihm noch nie erlebt!"
+|-
+! colspan="2" |Hermes About Orpheus 01
+|-
+|'''Hermes'''
+|"Wie man hört, bist du da unten mit Orpheus befreundet. Richtest du ihm bei Gelegenheit meine Grüße aus? Seine Leier beherrscht er ziemlich gut, so viel ich weiß."
+|-
+! colspan="2" |Hermes About Eurydice 01
+|-
+|'''Hermes'''
+|"He Boss, bist du auf all deinen Reisen da unten zufällig einem Mädel namens Eurydike begegnet? Ich hoffe, es geht ihr gut! Ich hab ein schlechtes Gewissen, weil wir das letzte Mal nicht richtig Abschied genommen haben."
+|-
+! colspan="2" |Hermes About Eurydice 02
+|-
+|'''Hermes'''
+|"Hab mitbekommen, dass du Eurydike da unten gefunden hast, das ist ja toll! Solange sie auf dem aufsteigenden Ast ist, kann ich sie aus dem kleinen Sorgenzentrum meines Hirns verbannen."
+|-
+! colspan="2" |Hermes About Hourglass 01
+|-
+|'''Hermes'''
+|"Du hast da aber eine schöne Beinerne Sanduhr, Boss! Also hast du dich gut gestellt mit meinem Geschäftspartner. Ein wahrer Gentleman!"
+|-
+! colspan="2" |Hermes About Plume 01
+|-
+|'''Hermes'''
+|"Na, Boss, da schau her! Ich erkenne diese schicke Feder wieder! Hat nur ein Jota meiner Schnelligkeit, doch immerhin! Viel mehr, als die meisten können."
+|-
+! colspan="2" |Hermes About Whipped Frenzy 01
+|-
+|'''Hermes'''
+|"Hoppla, was ist denn in all die entseelten Kreaturen gefahren, mit denen du da unten ständig kämpfst? Die sind in letzter Zeit sehr rege! Was immer sie getrieben hat, sich so ins Zeug zu legen, ich war’s nicht!"
+|-
+! colspan="2" |Hermes About Enemy Speed Condition 01
+|-
+|'''Hermes'''
+|"Hat all die entseelten Kreaturen deines Vaters ganz schön ins Schwitzen gebracht. Die legen sich jetzt mächtig ins Zeug wegen deines Vaters Bedingung der ''Unfreiwilligen Überstunden'', stimmt's, Vetter? Nun, wenn sie die Dinge schnell erledigen wollen, kannst du ihnen sicher den Gefallen tun!"
+|-
+! colspan="2" |Hermes About Enemy Speed Condition 02
+|-
+|'''Hermes'''
+|"Sieht aus, als seien die entseelten Kreaturen, mit denen du da unten kämpfst, diesmal wirklich in Bewegung, oder, Boss? Na ja, du bist noch schneller, da bin ich sicher!"
+|-
+! colspan="2" |Hermes About Biome Speed Condition 01
+|-
+|'''Hermes'''
+|"Da hat aber jemand einen straffen Zeitplan, oder, Vetter? Dank dem Pakt deines Vaters. Glaub mir, ich weiß, wie das ist. Also will ich dich nicht länger aufhalten, geh einfach weiter, ja?"
+|-
+! colspan="2" |Hermes About Biome Speed Condition 02
+|-
+|'''Hermes'''
+|"Ich weiß, dass du eine enge Frist hast, Boss, also verzichten wir auf all das überflüssige Geplauder und lassen dich fröhlich deines Weges ziehn, spornstreichs!"
+|-
+! colspan="2" |Hermes About Biome Speed Condition 03
+|-
+|'''Hermes'''
+|"Bist du im Wettlauf mit der Zeit, damit es nicht langweilig wird, oder wie, Boss? Die Zeit vergeht ja ziemlich schnell. Auch ich laufe gern mit ihr um die Wette!"
+|-
+! colspan="2" |Hermes About Timer 01
+|-
+|'''Hermes'''
+|"''Ha! ''Kam nicht umhin zu bemerken, dass du deine Zeit stoppst, Boss! Gute Angewohnheit. Behalt die Zeit im Auge, du wirst immer schneller werden! Allerdings nicht so schnell wie ich."
+|-
+! colspan="2" |Hermes About Timer 02
+|-
+|'''Hermes'''
+|"Nur mal so, Vetter, weil du ja deine Zeit stoppst, wollt ich nur sagen, dass es auf keine Weise gegen dich zählt, wenn wir solche Schwätzchen halten! Auf dieser kleinen Regel hab ich selbst bestanden."
+|-
+! colspan="2" |Hermes About Timer 03
+|-
+|'''Hermes'''
+|"He, du stoppst deine Zeit nicht mehr, Boss, alles in Ordnung? Wenn das kein Hilferuf ist, dann weiß ich auch nicht. Ähm, hier!"
+|-
+! colspan="2" |Hermes About Timer 04
+|-
+|'''Hermes'''
+|"Schön, Boss, wie ich sehe, stoppst du wieder deine Zeit. Anders gesagt, du quälst dich und hast dabei die Uhr im Auge!"
+|-
+! colspan="2" |Hermes About Timer 05
+|-
+|'''Hermes'''
+|"Hör mal, Vetter, wenn du deine Zeit nicht immer stoppst, ist das eine Entscheidung, die ich respektieren muss. Und verstehen lernen."
+|-
+! colspan="2" |Hermes First Run Cleared 01
+|-
+|'''Hermes'''
+|"Noch eine Botschaft vom Olymp, Boss. Sie lautet:'''Zagreus, nimm dir unbedingt die Zeit, die du für den Weg zu uns brauchst. Wir wissen, es ist bestimmt gefährlich, und wir sichern dir unsere Unterstützung zu, wie lange es auch dauern mag.' ''Na, was sagst du dazu!"
+|-
+! colspan="2" |Hermes Run Cleared 01
+|-
+|'''Hermes'''
+|"Wie ich höre, bist du letztes Mal ziemlich schnell durchgekommen! Nicht schlecht, nicht schlecht!"
+|-
+! colspan="2" |Hermes Run Cleared 02
+|-
+|'''Hermes'''
+|"Man würde meinen, dass wir dich vom Olymp ein wenig besser sehen können, sobald du an die Oberfläche vorgedrungen bist, aber nein! Es ist, als seist du in ewige Nacht hier oben gehüllt oder so was in der Art. Komisch, oder?"
+|-
+! colspan="2" |Hermes Run Cleared New Record 01
+|-
+|'''Hermes'''
+|"He, du hast dich durchgekämpft und dabei deine Bestzeit übertroffen! Nicht, dass ich darüber Buch führe! OK, ich führe Buch."
+|-
+! colspan="2" |Hermes Run Cleared New Record 02
+|-
+|'''Hermes'''
+|"He, Vetter, dein letzter Durchlauf, ich kann fast nicht glauben, wie schnell du den geschafft hast! Du bist wirklich ziemlich gut!"
+|-
+! colspan="2" |Hermes Run Cleared New Record 03
+|-
+|'''Hermes'''
+|"He, du bist da früher schon in Windeseile rausgekommen! Mal sehen, ob du das noch einmal schaffst!"
+|-
+! colspan="2" |Hermes Run Cleared New Record 04
+|-
+|'''Hermes'''
+|"Du wirst schneller, Vetter, mach weiter, genau so! Kann immer noch ein kleines bisschen schneller gehen als beim letzten Mal, ist meine Devise!"
+|-
+! colspan="2" |Hermes Run Cleared New Record 05
+|-
+|'''Hermes'''
+|"He, Vetter, sieht aus, als wärst du in Rekordzeit da rausgeklettert! Gut gemacht! Schaffst du's noch schneller?"
+|-
+! colspan="2" |Hermes Run Cleared New Record 06
+|-
+|'''Hermes'''
+|"Wer hätte das gedacht, du hast letztens auf deiner Flucht deine Bestzeit übertroffen! Ich hoffe, mein Segen hat dabei ein wenig geholfen!"
+|-
+! colspan="2" |Hermes Run Clear Streak 01
+|-
+|'''Hermes'''
+|"Na, da schau her, Vetter! Ein Sieg folgt auf den nächsten. Hab von deinen Erfolgen dort unten Wind bekommen! Sehen wir zu, dass die Serie nicht abreißt!"
+|-
+! colspan="2" |Hermes Run Clear Streak Broken 01
+|-
+|'''Hermes'''
+|"Hab gehört, deine jüngste Erfolgsserie ist abgebrochen, Boss. So was kommt vor. Doch du wirkst wie einer, der schnell wieder auf die Beine kommt. Dabei will ich dir gern helfen!"
+|-
+! colspan="2" |Hermes Post Epilogue 02
+|-
+|'''Hermes'''
+|"Alle auf dem Olymp reden immer noch von Persephone, Königin der Unterwelt! Sie hatten keine Ahnung, dass sie die ganze Zeit dort unten war, nicht die geringste, Vetter! Was mich angeht, ich kann dir nun meine Segen ganz offiziell überbringen!"
+|-
+! colspan="2" |Hermes Post Epilogue 03
+|-
+|'''Hermes'''
+|"Wenngleich nun alles ans Licht gekommen ist, und alle meine Brüder, Schwestern und dergleichen dir auch weiter helfen, dich da rauszukämpfen, hab ich in letzter Zeit kaum Gesellschaft gesucht! So kann mich niemand aufhalten."
+|-
+! colspan="2" |Hermes Post Epilogue 04
+|-
+|'''Hermes'''
+|"Nicht alle Mitglieder der Familie hier oben haben geholfen, ich weiß, doch das darfst du nicht persönlich nehmen, ja? Sieh es einfach so: Deinetwegen verstehen sich viele von uns besser und reden vernünftig miteinander. Mehr als ich ''je '' gesehen habe!"
+|-
+! colspan="2" |Hermes About Persephone Visit 01
+|-
+|'''Hermes'''
+|"Deine Mutter ist gut von da weggekommen, keine Sorge, Vetter! Hab auf sie aufgepasst. Schien echt nett! Hat mir Grüße an dich aufgetragen."
+|-
+! colspan="2" |Hermes About Persephone Visit 02
+|-
+|'''Hermes'''
+|"Weißt du, hätte deine Mutter das nicht erwähnt, hätte ich nie gewusst, dass Granatapfelkerne in der Unterwelt so viel Macht haben, Vetter! Und ich dachte, sie schmecken einfach gut, mehr nicht!"
+|-
+! colspan="2" |Hermes About Hearing 01
+|-
+|'''Hermes'''
+|"Wollte nur mal nach dir sehen, Boss. Geht's dir gut, alles in Ordnung und so? Kann dich allerdings kein bisschen hören, also antworte nicht!"
+|-
+! colspan="2" |Hermes About Hurrying 01
+|-
+|'''Hermes'''
+|"Komm schnell, Boss! Du musst zusehen, dass du da endlich rauskommst, dir läuft die Zeit davon!! Nicht wirklich, aber es ist ein kleiner Ansporn, he?"
+|-
+! colspan="2" |Hermes Legendary Pick Up 01
+|-
+|'''Hermes'''
+|"Oh, bist du bereit, Boss? Hab diesmal den Premium-Express für dich. Allererste Sahne! Damit wirst du es echt weit bringen."
+|-
+! colspan="2" |Hermes Legendary Pick Up 02
+|-
+|'''Hermes'''
+|"Du wirst’s nicht glauben, Vetter! Das ist der Premium-Express, Direktzustellung an dich, frisch vom fruchtbarsten Berggipfel hier oben! Das wird dir gefallen."
+|-
+! colspan="2" |Hermes Legendary Pick Up 03
+|-
+|'''Hermes'''
+|"Nachricht per Expresszustellung für dich, Vetter. Da steht: '''Herzlichen Glückwunsch! Sie sind heute mein hundertster Kunde.' ''Und das hier bekommst du!"
+|-
+! colspan="2" |Hermes Low Health 01
+|-
+|'''Hermes'''
+|"Uh, Vetter, ich muss sagen, du siehst schrecklich aus. Du kannst dich kaum noch halten! Mal sehen, ob wir dich wieder aufpäppeln können."
+|-
+! colspan="2" |Hermes Low Health 02
+|-
+|'''Hermes'''
+|"''Puh''! Sieht aus, als hättest du schwere Zeiten durchstanden seit unserer letzten Begegnung, Vetter. Nun, wenn das Leben dich beutelt, dann bring die miesen Zeiten hinter dich, so schnell du kannst!"
+|-
+! colspan="2" |Hermes Low Health 03
+|-
+|'''Hermes'''
+|"Oje, du siehst furchtbar aus, Vetter. Was ist dir auf dem Weg hierher passiert? Ich will nur hoffen, dass deine Reise von nun an ein wenig glatter läuft."
+|-
+! colspan="2" |Hermes Low Health 04
+|-
+|'''Hermes'''
+|"Zwischen Schnelligkeit und Eile liegt ein schmaler Grat, Boss. Und wenn du so schlimm verletzt bist, wie ich glaube, könntest du es eilig haben!"
+|-
+! colspan="2" |Hermes Low Health 05
+|-
+|'''Hermes'''
+|"Die gute Nachricht ist, dass du's bis zu mir geschafft hast, doch unterwegs hast du dir jede Menge Schwierigkeiten eingehandelt! Bleib mir am Leben, ja?"
+|-
+! colspan="2" |Hermes Low Health 06
+|-
+|'''Hermes'''
+|"Uff! Was ist dir auf dem Weg hierher passiert, Boss? Lass mich raten, du wurdest gegeißelt, gebraten, mit Geisterknüppeln verprügelt ... so was in der Art?"
+|-
+! colspan="2" |Hermes Low Health 07
+|-
+|'''Hermes'''
+|"Ich sag's ungern, Boss, aber du siehst ganz schön mitgenommen aus. Doch ich glaube, wir können dir hier wieder auf die Sprünge helfen!"
+|-
+! colspan="2" |Hermes First Pick Up
+|-
+|'''Zagreus'''
+|"Dieses Zeichen, fast wie ein Fledermausflügel. Im Namen von Hades! Olymp! Ich nehme diese Botschaft an."
+|-
+|'''Hermes'''
+|"He, Boss, gut, dass ich dich gefunden habe. Hermes, zu deinen Diensten. Angenehm! Der ganze Olymp redet über dich! Normalerweise würd ich mich in nichts verwickeln lassen, doch für dich mach ich eine Ausnahme. Jetzt komm, wir beide haben noch was vor!"
+|-
+! colspan="2" |Hermes Misc Pickup 01
+|-
+|'''Hermes'''
+|"Okay, Vetter, hier ist die Ware, frisch von unserem Berggipfel. Nimm dir alle Zeit der Welt, dich zu entscheiden! Wenn du unbedingt eine Trantüte sein willst."
+|-
+! colspan="2" |Hermes Misc Pickup 02
+|-
+|'''Hermes'''
+|"He, Boss, ich muss nur ganz kurz mit dir reden! Das holst du im Nu wieder auf, das garantier ich dir!"
+|-
+! colspan="2" |Hermes Misc Pickup 03
+|-
+|'''Hermes'''
+|"Okay, Vetter, Eilzustellung nach wo zum Geier du gerade steckst? Wie auch immer, nimm dir eins davon und dann geh deiner Wege!"
+|-
+! colspan="2" |Hermes Misc Pickup 04
+|-
+|'''Hermes'''
+|"Ich weiß, du hast’s ein bisschen eilig, Boss. Doch gleich zeig ich dir, wie echte Eile aussieht!"
+|-
+! colspan="2" |Hermes Misc Pickup 05
+|-
+|'''Hermes'''
+|"Päckchen für dich, Boss! Ich glaube, du weißt, was drin ist. Na gut, vielleicht nicht genau, aber ... such‘ einfach was aus, ja?"
+|-
+! colspan="2" |Hermes Misc Pickup 06
+|-
+|'''Hermes'''
+|"Komm schon, Vetter, du schaffst das! Und ich glaube, du schaffst das ziemlich schnell! Nun geh!"
+|-
+! colspan="2" |Hermes Misc Pickup 07
+|-
+|'''Hermes'''
+|"Du bist es, Boss, sehr schön! Doch du stehst still! Weniger schön. Sehen wir zu, dass du wieder in Bewegung kommst, ja?"
+|-
+! colspan="2" |Hermes Misc Pickup 08
+|-
+|'''Hermes'''
+|"He, Boss! Gibt nicht viel zu berichten von hier oben. Doch ich bin ja nicht so weit gekommen, um dir Nachrichten zu überbringen, oder?"
+|-
+! colspan="2" |Hermes Misc Pickup 09
+|-
+|'''Hermes'''
+|"Ich fürchte, keiner ist schneller als ich, Vetter. Doch die gute Nachricht ist, dass du den Abstand ein bisschen verkürzen wirst!"
+|-
+! colspan="2" |Hermes Misc Pickup 10
+|-
+|'''Hermes'''
+|"Nicht viel los, oder, Boss? Das wird sich jedoch in Kürze ändern, das garantier ich dir!"
+|-
+! colspan="2" |Hermes Misc Pickup 11
+|-
+|'''Hermes'''
+|"Wie wär’s, wenn wir einen ''kleinen ''Gang zulegen, Vetter? Oder einen großen, wenn du den Mumm dazu hast."
+|-
+! colspan="2" |Hermes Misc Pickup 12
+|-
+|'''Hermes'''
+|"Auf keinen Fall will ich dich aufhalten, Boss. Also genug der Plauderei. Such dir was aus und geh. ''Los''!"
+|-
+! colspan="2" |Hermes Misc Pickup 13
+|-
+|'''Hermes'''
+|"Du hast noch einen weiten Weg vor dir, Boss. Wenigstens hast du den langsamsten Teil dieses Ausflugs ''hiermit ''hinter dich gebracht!"
+|-
+! colspan="2" |Hermes Misc Pickup 14
+|-
+|'''Hermes'''
+|"Läuft ganz gut hier in der Oberwelt, Vetter. Noch besser wird’s, wenn du da endlich rauskommst!"
+|-
+! colspan="2" |Hermes Misc Pickup 15
+|-
+|'''Hermes'''
+|"Noch ein Versuch, ins Reich der Lebenden zu kommen, Boss? Darf ich vorschlagen, dass du die Beine in die Hand nimmst? Und dir das hier geben?!"
+|-
+! colspan="2" |Hermes Misc Pickup 16
+|-
+|'''Hermes'''
+|"Legen wir einen Zahn zu, ja, Boss? Ganz ehrlich, wie ihr das nur aushaltet, so herumzutrödeln, als hättet ihr alle Zeit der Welt!"
+|-
+! colspan="2" |Hermes Misc Pickup 17
+|-
+|'''Hermes'''
+|"Hallöchen, Boss! Ich würde ja fragen, was es Neues gibt, aber ich weiß es schon! Ich habe so meine Mittel und Wege. Und du musst sofort da rauskommen."
+|-
+! colspan="2" |Hermes Misc Pickup 18
+|-
+|'''Hermes'''
+|"Ich wünschte, ich könnte einfach einfliegen und dich da rausholen, Vetter, doch es gibt da Regeln, die nicht mal ich brechen kann. Doch schön zu sehen, dass du es versuchst!"
+|-
+! colspan="2" |Hermes Misc Pickup 19
+|-
+|'''Hermes'''
+|"Ich habe eine dringende Botschaft, Boss! Leider nicht für dich bestimmt. Doch jemand hat das hier für dich besorgt!"
+|-
+! colspan="2" |Hermes Misc Pickup 20
+|-
+|'''Hermes'''
+|"Tut mir leid, Vetter, diesmal keine Nachrichten. Ist wohl normal, wenn niemand überhaupt weiß, dass es dich gibt!"
+|-
+! colspan="2" |Hermes Misc Pickup Extra 01
+|-
+|'''Hermes'''
+|"Gibt hier oben nicht viel Neues, was der Rede wert wäre. Sieht allerdings so aus, als hättest du da unten alle Hände voll zu tun, Boss!"
+|-
+! colspan="2" |Hermes Misc Pickup Extra 02
+|-
+|'''Hermes'''
+|"Vor dir liegt ein anstrengender Aufstieg, Vetter, lass es also ruhig angehen, ja? Kleiner Scherz, mach so schnell du kannst! Bin damit bis jetzt gut gefahren!"
+|-
+! colspan="2" |Hermes Misc Pickup 21
+|-
+|'''Hermes'''
+|"Los jetzt, Boss, sehen wir zu, dass du vorankommst!"
+|-
+! colspan="2" |Hermes Misc Pickup 22
+|-
+|'''Hermes'''
+|"Bin in Windeseile hergekommen, Boss. Bist du bereit?"
+|-
+! colspan="2" |Hermes Misc Pickup 23
+|-
+|'''Hermes'''
+|"Heh, Vetter, Päckchen für dich. Bedien‘ dich!"
+|-
+! colspan="2" |Hermes Misc Pickup 24
+|-
+|'''Hermes'''
+|"Hab ein handelsübliches Care-Paket für dich, Vetter."
+|-
+! colspan="2" |Hermes Misc Pickup 25
+|-
+|'''Hermes'''
+|"He, was wird’s wohl diesmal sein, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 26
+|-
+|'''Hermes'''
+|"Los, Vetter, legen wir einen Zahn zu!"
+|-
+! colspan="2" |Hermes Misc Pickup 27
+|-
+|'''Hermes'''
+|"Sieh zu, dass du da schnellstens rauskommst, Vetter."
+|-
+! colspan="2" |Hermes Misc Pickup 28
+|-
+|'''Hermes'''
+|"Keine Eile, Boss, aber suche dir hiervon eins aus."
+|-
+! colspan="2" |Hermes Misc Pickup 29
+|-
+|'''Hermes'''
+|"Nachricht für dich, Vetter: Da steht: 'Nimm eins, kostet nichts, viel Spaß!'"
+|-
+! colspan="2" |Hermes Misc Pickup 30
+|-
+|'''Hermes'''
+|"Was ist los, Boss? Alles in Ordnung?"
+|-
+! colspan="2" |Hermes Misc Pickup 31
+|-
+|'''Hermes'''
+|"Willst du das Übliche, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 32
+|-
+|'''Hermes'''
+|"Eilzustellung und so weiter, Boss! Hier, suche dir was aus."
+|-
+! colspan="2" |Hermes Misc Pickup 33
+|-
+|'''Hermes'''
+|"He, Boss! Nimm dir eins davon, und dann los."
+|-
+! colspan="2" |Hermes Misc Pickup 34
+|-
+|'''Hermes'''
+|"War gerade zufällig in der Gegend, hier, Boss!"
+|-
+! colspan="2" |Hermes Misc Pickup 35
+|-
+|'''Hermes'''
+|"Will nur sichergehen, dass du das schaffst, Vetter. Du schaffst das, Vetter!"
+|-
+! colspan="2" |Hermes Misc Pickup 36
+|-
+|'''Hermes'''
+|"Hier kommt eine kleine Stärkung, damit du im Handumdrehen da rauskommst, Boss!"
+|-
+! colspan="2" |Hermes Misc Pickup 37
+|-
+|'''Hermes'''
+|"Jetzt steh nicht rum, Vetter, such' dir was aus und ''los''!"
+|-
+! colspan="2" |Hermes Misc Pickup 38
+|-
+|'''Hermes'''
+|"Deine Schnelligkeit hat für mich höchste Priorität, hier, Boss."
+|-
+! colspan="2" |Hermes Misc Pickup 39
+|-
+|'''Hermes'''
+|"Höchste Eisenbahn und so weiter, Vetter. Jetzt triff deine Wahl!"
+|-
+! colspan="2" |Hermes Misc Pickup 40
+|-
+|'''Hermes'''
+|"Hab mitbekommen, dass du hier meine Dienste brauchst, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 41
+|-
+|'''Hermes'''
+|"Dachte, ich melde mich mal, Vetter. Um zu sehen, wie’s vorangeht. Langsam, oder? Nicht mehr lange."
+|-
+! colspan="2" |Hermes Misc Pickup 42
+|-
+|'''Hermes'''
+|"Bereit, einen Zahn zuzulegen? Gut! Das werte ich als Zustimmung."
+|-
+! colspan="2" |Hermes Misc Pickup 43
+|-
+|'''Hermes'''
+|"Bringen wir dich schnell auf den Weg, Vetter!"
+|-
+! colspan="2" |Hermes Misc Pickup 44
+|-
+|'''Hermes'''
+|"Nachricht für dich, Boss. Da steht: 'Hier bitte, such dir eins davon aus, und geh!'"
+|-
+! colspan="2" |Hermes Misc Pickup 45
+|-
+|'''Hermes'''
+|"Noch eine Nachricht für dich! In der steht: 'He, Boss! Nimm das!'"
+|-
+! colspan="2" |Hermes Misc Pickup 46
+|-
+|'''Hermes'''
+|"Wollte nur mal nach dir sehen, Boss, und dir das hier bringen!"
+|-
+! colspan="2" |Hermes Misc Pickup 47
+|-
+|'''Hermes'''
+|"Hoffe, du hast das gemächliche Leben genossen, denn all das wird sich ab sofort ändern!"
+|-
+! colspan="2" |Hermes Misc Pickup 48
+|-
+|'''Hermes'''
+|"Alles klar, Boss, hier, bringen wir dich auf den Weg!"
+|-
+! colspan="2" |Hermes Misc Pickup 49
+|-
+|'''Hermes'''
+|"Höchste Zeit, dass wir dich hier rausbringen, oder, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 50
+|-
+|'''Hermes'''
+|"Dachte nur, ich komm auf einen Sprung vorbei, geb dir das hier und mach mich aus dem Staub!"
+|-
+! colspan="2" |Hermes Misc Pickup 51
+|-
+|'''Hermes'''
+|"Wir werden dich in Windeseile hier rausbringen, Vetter!"
+|-
+! colspan="2" |Hermes Misc Pickup 52
+|-
+|'''Hermes'''
+|"Wie läuft's denn so unter der Erde, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 53
+|-
+|'''Hermes'''
+|"Wir haben einen schönen Tag hier in der Oberwelt! Solltest du sehen, Boss!"
+|-
+! colspan="2" |Hermes Misc Pickup 54
+|-
+|'''Hermes'''
+|"Ein neuer Tag, ein neues Rennen bis nach oben! Bist du bereit, Boss?"
+|-
+! colspan="2" |Hermes Misc Pickup 55
+|-
+|'''Hermes'''
+|"Also, da wären wir wieder! Na, dann mal los, Boss!"
+|-
+! colspan="2" |Hermes First Loot Pickup 01
+|-
+|'''Hermes'''
+|"Bin so schnell gekommen, wie ich konnte, Boss. Was hältst du davon, wenn wir dich da schleunigst rausholen!"
+|-
+! colspan="2" |Hermes First Loot Pickup 02
+|-
+|'''Hermes'''
+|"He, Vetter, mir scheint, du wolltest gerade einen neuen Anlauf starten, dich zu befreien! Dachte, ich komme auf einen Sprung vorbei und geh dir ein bisschen zur Hand."
+|-
+! colspan="2" |Hermes First Loot Pickup 03
+|-
+|'''Hermes'''
+|"Du kannst es kaum erwarten, einen neuen Fluchtversuch zu starten, oder, Boss? Na, dann komme ich ja gerade zur rechten Zeit."
+|-
+! colspan="2" |Hermes First Loot Pickup 04
+|-
+|'''Hermes'''
+|"Hab gehört, dass du dich wieder auf den Weg machst, Boss. Hab meinen Plan ein bisschen umgestellt, kein Problem, und dachte, ich schau vorbei!"
+|-
+! colspan="2" |Hermes First Loot Pickup 05
+|-
+|'''Hermes'''
+|"Du machst dich wieder auf den Weg, oder? Na dann gute Reise! Oder zügige Reise, falls das nicht klappen sollte!"
+|-
+! colspan="2" |Hermes First Loot Pickup 06
+|-
+|'''Hermes'''
+|"Bist du bereit für einen neuen Anlauf, Vetter? Dann kann ich dafür sorgen, dass du schneller vorwärts kommst."
+|-
+! colspan="2" |Hermes Loot Bought 01
+|-
+|'''Hermes'''
+|"Komisch, Vetter, dass wir uns hier über den Weg laufen! Inmitten der Waren meines Geschäftspartners, meine ich. Muss ein Verwaltungsfehler sein!"
+|-
+! colspan="2" |Hermes Loot Bought 01 B
+|-
+|'''Hermes'''
+|"Komisch, Boss, dass wir uns hier über den Weg laufen! Inmitten der Waren meines Geschäftspartners, meine ich. Muss ein Verwaltungsfehler sein!"
+|-
+! colspan="2" |Hermes Loot Bought 02
+|-
+|'''Hermes'''
+|"Du kennst meinen Geschäftspartner, den mit dem Boot? Irgendwie müssen es die Seelen der kürzlich Verblichenen ja schaffen, in die Unterwelt zu kommen. Gehört zu meinem Job! Ich bring sie her, er bringt sie runter."
+|-
+! colspan="2" |Hermes Loot Bought 03
+|-
+|'''Hermes'''
+|"Ich bin diese einseitigen Plaudereien hier wohl gewöhnt, Boss, dank meiner Arbeit mit meinem Geschäftspartner da unten! Grüß ihn von mir, ja?"
+|-
+! colspan="2" |Hermes Loot Bought 04
+|-
+|'''Hermes'''
+|"Ein Wort der Warnung, Vetter. Stell nicht zu viele Fragen über mich oder meinen Geschäftspartner da unten. Ich übergebe ihm die Seelen, und das war’s, klar?"
+|-
+! colspan="2" |Hermes Loot Bought 05
+|-
+|'''Hermes'''
+|"Wer hätte das gedacht, Boss! Ich, nichts ahnend, übergebe gerade ein paar liebe dahingeschiedene Seelen an meinen Geschäftspartner, und wer taucht auf? Niemand anderes als ''du''!"
+|-
+! colspan="2" |Hermes Loot Bought 06
+|-
+|'''Hermes'''
+|"Mein schwer atmender Geschäftspartner hat mich freundlicherweise mit seinem anderen Zeug hier abgesetzt, dazu noch zu einem günstigen Preis!"
+|-
+! colspan="2" |Hermes Loot Bought 07
+|-
+|'''Hermes'''
+|"Alsdann, sorgen wir dafür, dass die Ausgabe sich für dich lohnt, sind schließlich sauer verdiente Münzen! Was meinst du, Vetter?"
+|-
+! colspan="2" |Hermes Loot Bought 08
+|-
+|'''Hermes'''
+|"Ich würde dir raten, meinem guten Geschäftspartner hier nicht zu viele Fragen zu stellen. Andererseits, wem machen wir was vor, Boss? Er würde dir sowieso nicht antworten!"
+|-
+! colspan="2" |Hermes Loot Bought 09
+|-
+|'''Hermes'''
+|"Nachricht für dich, Boss, von meinem Geschäftspartner. Der will dir sagen, und ich zitiere: '''Hhhrrrrnnnngggggghhhhhh.'''"
+|-
+! colspan="2" |Hermes Loot Bought 10
+|-
+|'''Hermes'''
+|"Arbeite schon wer weiß wie lange mit meinem guten Geschäftspartner, dem Fährmann da, zusammen. Doch eins muss ich sagen, Vetter, noch nie hatten wir einen Auftrag wie diesen!"
+|-
+! colspan="2" |Hermes Loot Bought 11
+|-
+|'''Hermes'''
+|"Unter den vielen Möglichkeiten, deine Einkünfte zu investieren, um deine Überlebenschancen zu erhöhen, hast du diesmal an mich gedacht. Ich bin geschmeichelt!"
+|-
+! colspan="2" |Hermes Loot Bought 12
+|-
+|'''Hermes'''
+|"Was für ein seltsamer Zufall, dass sich unsere Weg hier am Fluss immer wieder kreuzen, meinst du nicht auch, Vetter?"
+|-
+! colspan="2" |Hermes Loot Bought 13
+|-
+|'''Hermes'''
+|"Normalerweise verkaufe ich meine Segen nicht einfach an den Meistbietenden, Boss, doch dein Gebot ist für mich gut genug!"
+|-
+! colspan="2" |Hermes Gift 01
+|-
+|'''Zagreus'''
+|"Ehrwürdiger Hermes, bitte nimm dieses Geschenk als kleines Zeichen meiner Wertschätzung an. Ich danke dir dafür, dass du mich immer auf Trab hältst."
+|-
+|'''Hermes'''
+|"Oh! Verdammt nett von dir, eine kleine Anerkennung dazulassen, Boss. Ich hab auch was für dich, einen guten Rat: Leg einen Zahn zu! Das hier hilft dir vielleicht dabei."
+|-
+! colspan="2" |Hermes Gift 02
+|-
+|'''Zagreus'''
+|"Ehrwürdiger Hermes, Herr, du batest nicht um eine Gegenleistung, nimm daher bitte diese bescheidene Gabe an, denn ... sie ist wirklich nicht der Rede wert!"
+|-
+|'''Hermes'''
+|"Also, das ist furchtbar nett von dir, Vetter! Doch du musst dich nicht bei mir bedanken. Jedenfalls nicht so überschwänglich!"
+|-
+! colspan="2" |Hermes Gift 03
+|-
+|'''Zagreus'''
+|"Hermes, mein Freund? Darf ich dich meinen Freund nennen? Ich hoffe, diese bescheidene Gabe wird dich aufheitern, ohne dich zu bremsen."
+|-
+|'''Hermes'''
+|"Mache ich den Eindruck, als hätte ich Zeit, Nektar zu süffeln, Vetter? Du wirst’s nicht glauben, hab ich! Also Prost!"
+|-
+! colspan="2" |Hermes Gift 04
+|-
+|'''Zagreus'''
+|"Seit wir uns trafen, ehrwürdiger Hermes, hat das Leben hier in der Unterwelt an Tempo gewonnen, und ich bin dir äußerst dankbar. Das ist für dich."
+|-
+|'''Hermes'''
+|"He, Boss, danke für das Trinkgeld. Doch zur Erinnerung: Alle meine Dienste wurden bereits in voller Höhe vergütet! Besondere Dankesbezeugungen sind nicht nötig. Trotzdem ... danke."
+|-
+! colspan="2" |Hermes Gift 05
+|-
+|'''Zagreus'''
+|"Ohne deine unermüdliche Hilfe, ehrwürdiger Hermes, wäre ich nie so schnell so weit gekommen. Ich steh in deiner Schuld."
+|-
+|'''Hermes'''
+|"Weißt du, Vetter, ich hatte einige Bedenken, als wir uns das erste Mal begegnet sind, weil ich ja weiß wie dein Vater sich so benimmt. Aber du bist in Ordnung!"
+|-
+! colspan="2" |Hermes Gift 06
+|-
+|'''Zagreus'''
+|"Das hier ist für dich, flinker Götterbote mit sicherem Tritt! Du lässt, was du tust, einfach aussehen. Doch ich weiß, dass du keine Mühen scheust. Vielen Dank, Hermes."
+|-
+|'''Hermes'''
+|"Meine Regel lautet, bei der Arbeit nicht zu persönlich zu werden, Vetter. Doch du gehörst zur Familie! Und außerdem bist du ein echt anständiger Kerl. Mir hier Nektar anzubieten, unter diesen Umständen!"
+|-
+! colspan="2" |Hermes Gift 07
+|-
+|'''Zagreus'''
+|"Ich grüße dich, ehrwürdiger Hermes, mit dieser Rarität unter den Delikatessen! Zumindest hier ist sie recht selten. Du zeigst es nie, doch ich kann mir vorstellen, wie hart du arbeitest, um mich zu unterstützen. Danke, Kumpel!"
+|-
+|'''Hermes'''
+|"Weißt du, mir hat noch ''nie '' jemand Ambrosia aus der Unterwelt angeboten, bis jetzt! Das ist echt eine nette Geste von dir. Du hättest meine Dienste auch einfach als selbstverständlich betrachten können, und es hätte mir nicht das Geringste ausgemacht! Aber danke, Vetter."
+|-
+! colspan="2" |Hermes Gift 08
+|-
+|'''Zagreus'''
+|"Nachricht für dich, ehrwürdiger Hermes! Da steht: '''Diese Gabe ist für den unvergleichlichen Gott der Flinkheit, dessen Nachrichten immer gut sind, weil er sie bringt. Du bist ein echter Kumpel, weißt du das? Du hast wirklich was gut bei mir.' ''Zagreus."
+|-
+|'''Hermes'''
+|"Schau, Vetter, ich werde diese erlesene Ambrosia von dir ein letztes Mal annehmen, klar? Doch von jetzt an werd ich mich auf meine beruflichen Pflichten konzentrieren. Unsere Beziehung ist rein geschäftlich! Obwohl, insgeheim bist du einer meiner besten Kumpel. Sollst du wissen."
+|-
+|}

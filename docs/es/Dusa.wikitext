@@ -1,0 +1,1322 @@
+{| class="wikitable"
+|+
+! colspan="2" |Dusa First Meeting
+|-
+|'''Dusa'''
+|"¡''Ah''! El príncipe en persona. ¿Deseáis… deseáis hablar conmigo? ¡Oh, vaya, oh, ''vaya!''"
+|-
+|'''Zagreus'''
+|"Solo quería decirte que has dejado la cantina impecable, como nueva. ¡Mejor! Espero que no te haya dado mucho trabajo."
+|-
+|'''Dusa'''
+|"Yo, yo, yo, yo… ''Aaah'', tengo que limpiar las vigas…"
+|-
+! colspan="2" |Dusa Misc Meeting 02
+|-
+|'''Dusa'''
+|"Yo.... ''ehmmm''... ¡espero que tengáis una feliz estancia! ¡Aunque ya no queráis vivir aquí, alteza!"
+|-
+! colspan="2" |Dusa Misc Meeting 02 Extra
+|-
+|'''Zagreus'''
+|"''Estooo''... ¿Dusa? Es posible que me pase por aquí a menudo, pero no te molestes en recoger mis aposentos, por favor. No me quedaré mucho."
+|-
+|'''Dusa'''
+|"¡Oh, ''ja, ja, ja'', claro! Pero echaré un ojo de vez en cuando por si cambiáis de opinión. ¡Así que hasta luego!"
+|-
+! colspan="2" |Dusa Misc Meeting 03
+|-
+|'''Dusa'''
+|"''Esto''... príncipe, tu padre está que echa fuego por los ojos. Te aconsejo que te alejes de él. ¿O prefieres que le diga que no estás?"
+|-
+|'''Zagreus'''
+|"No te preocupes, Dusa. No le tengo miedo. Y tú tampoco deberías tenérselo. Eres la mejor asistenta que ha tenido en la vida."
+|-
+|'''Dusa'''
+|"Yo… solo hago mi trabajo, príncipe."
+|-
+! colspan="2" |Dusa Misc Meeting 04
+|-
+|'''Dusa'''
+|"Oh, ''vaya'', hola, príncipe. ¿Se te ofrece algo? ¿Quieres que limpie más a fondo? He pensado que igual te apetece beber algo. Algún día."
+|-
+|'''Zagreus'''
+|"¡Ah! Me parece estupendo, Dusa. Igual mañana, suponiendo que no me haya largado para entonces."
+|-
+|'''Dusa'''
+|"¿Cómooo? Digo… no os preocupéis. Digo… olvidadlo. Perdonad. ¡Con los dioses!"
+|-
+! colspan="2" |Dusa Misc Meeting 05
+|-
+|'''Dusa'''
+|"Uh, ''umm'', solo quería disculparme, porque... Puede que no me comportase como mandan los dioses la última vez que hablasteis conmigo. Pero me encanta este trabajo, de verdad, y prometo que siempre trabajaré duro; por eso, esperaba que me dierais otra oportunidad."
+|-
+|'''Zagreus'''
+|"Dusa, por favor, no tienes por qué disculparte. Haces un trabajo maravilloso, de verdad."
+|-
+|'''Dusa'''
+|"¿Cómo? ¿De verdad, príncipe? Pues… gracias. Muchísimas gracias."
+|-
+! colspan="2" |Dusa Post Flashback 01
+|-
+|'''Dusa'''
+|"Oh, ''vaya''... hola, alteza. Solo quería decirte que, si logras escapar, te echaré… te echaremos de menos. Todos, ¿lo entiendes? Así que... ¡con los dioses…!"
+|-
+! colspan="2" |Dusa Date 01
+|-
+|'''Zagreus'''
+|"Oye, señorita Dusa, quería... ''eh''... tener el detalle de invitarte a la cantina. ¿Recuerdas que sugeriste tomar algo juntos?"
+|-
+|'''Dusa'''
+|"''¡Aaah! ''Oh, oh, oh, ¿de verdad? Pero... ¿ahora?… Bueno... Yo... Supongo que me merezco un descanso..."
+|-
+|'''Dusa'''
+|"… y, en fin, como no encajo en el estereotipo de la típica gorgona, por ejemplo porque no tengo cuerpo, me costaba horrores encontrar un empleo. Hasta que el señor Hades me acogió y entonces os conocí y bueno… ¡me encanta este trabajo!"
+|-
+|'''Zagreus'''
+|"¡''Vaya''! Pues la verdad es que me identifico con parte de lo que me has contado."
+|-
+|'''Dusa'''
+|"''<Suspiro> ''Yo, yo, yo… Gracias, alteza. Príncipe. ¡Príncipe Zagreo!"
+|-
+! colspan="2" |Dusa Date Aftermath 01
+|-
+|'''Dusa'''
+|"''Emm'', p-príncipe... Esa cara de pena que traes a veces cuando vuelves y sales de la fuente del Estigia... ¿Va todo bien? Porque si puedo hacer algo..."
+|-
+|'''Zagreus'''
+|"Oh, no es nada por lo que tengas que preocuparte, Dusa. Me está costando abrirme paso por este asqueroso lugar mucho más de lo que pensaba. Perdona mi lenguaje..."
+|-
+|'''Dusa'''
+|"''Oh'', yo... Sé que es una tontería, pero no entiendo cómo podría vencerte nadie. ¿No eres el príncipe? ¡Más grande que el poderoso Aquiles, más astuto que tu padre, más rápido que Hermes! Pero resulta que a veces te cuesta... como a mí."
+|-
+|'''Zagreus'''
+|"Así es. Y eso que has oído decir de mí no es cierto."
+|-
+! colspan="2" |Dusa Lounge Renovation Quest 01
+|-
+|'''Dusa'''
+|"... cubertería ordenada, encimeras limpias, velas sustituidas, platos fregados, suelo barrido, barriles inspeccionados, a ver qué falta... ¡''Oh''! ¡Príncipe, eres tú!"
+|-
+|'''Zagreus'''
+|"¡Sí, soy yo, Dusa! Es impresionante que puedas tener la cantina de punta en blanco tú sola. ¿Cómo lo haces, cuál es tu secreto?"
+|-
+|'''Dusa'''
+|"''Ja, ja, ja'', ¿secreto? Llevo dos semanas de retraso con las tareas por lo menos. Por suerte, por no hay nadie que sepa contar el paso del tiempo, así que no me han pillado aún, pero... Eh, no se lo vas a contar a nadie, ¿no?"
+|-
+|'''Zagreus'''
+|"Claro que no. ¿A qué te refieres con "retraso"? Este lugar no parece tener peor pinta de lo habitual."
+|-
+|'''Dusa'''
+|"¡Pues ese es el problema! Nicte me encargó un proyecto muy importante hace tiempo: hacer que este sitio ''haga honor a su nombre'', así que... queda mucho por hacer y tengo que ponerme al día, discúlpame, Príncipe."
+|-
+! colspan="2" |Dusa Lounge Renovation Quest 02
+|-
+|'''Dusa'''
+|"... arreglar los asientos, actualizar la carta, limpiar los fogones, reponer el botellero, barrer la alfombra, limpiar el polvo de las vigas, fregar el suelo, pagar al cambista... ¡Anda! Perdona, príncipe, voy muy atrasada con las tareas, así que si me disculpas..."
+|-
+|'''Zagreus'''
+|"Dusa, espera. Antes de marcharte volando... ¿puedo echarte una mano con tus tareas? No importa lo buena que seas en tu trabajo, ¡lo que estabas repasando es más de lo que puede hacer un solo individuo!"
+|-
+|'''Dusa'''
+|"¡Por favor, alteza! Sé que tienes buenas intenciones, pero lo tengo todo bajo control. Ojalá la gente no dudase de mis capacidades todo el rato; como el contratista, que se queda ahí esperando a que le den órdenes excepto cuando lo hago yo, que''no ''hace nada."
+|-
+|'''Zagreus'''
+|"Así que el contratista no colabora contigo. No me extraña que se hayan retrasado tanto las renovaciones de la cantina. ¿Crees que yo podría «engrasar» el proceso un poco?"
+|-
+|'''Dusa'''
+|"¡''AAAAAH'', se me había olvidado! ¡Necesito más grasa de cocinar para el cocinero jefe! ¡Tengo que irme!"
+|-
+! colspan="2" |Dusa Lounge Renovation Quest 02 Alt
+|-
+|'''Zagreus'''
+|"Puede que eso sea culpa mía. Le he estado dando mucho trabajo al contratista. Algunos de esos pedidos de la cantina deben de ser tuyos, ¿no? ¡Este sitio tiene cada vez mejor pinta!"
+|-
+|'''Dusa'''
+|"Espera, ¿entonces eres tú quien ha estado autorizando todas estas mejoras? Ay, ay, ay, ''¡aaaaah!''"
+|-
+! colspan="2" |Dusa Lounge Renovation Quest 03
+|-
+|'''Zagreus'''
+|"¡La cantina tiene buena pinta últimamente, Dusa! ¡Tus esfuerzos están dando su fruto!"
+|-
+|'''Dusa'''
+|"¡''Ja''! Gracias, príncipe. Parece que últimamente el contratista está de mejor humor. Supongo que así trabaja más rápido, pero aún queda mucho por hacer, así que... ¡ya verás más adelante!"
+|-
+! colspan="2" |Dusa Lounge Renovation Quest Complete
+|-
+|'''Dusa'''
+|"''Eh''... ¿príncipe Zagreo? Quería decirte algo, ¿tienes un segundo? Sé que estás muy ocupado, puedo volver más tarde..."
+|-
+|'''Zagreus'''
+|"No, está bien, ¿qué quieres, Dusa? No estoy tan ocupado, por cierto, y siempre estoy encantado de charlar contigo. ¿Es que te pasa algo?"
+|-
+|'''Dusa'''
+|"No, ''no, no, no, no'', al contrario, yo... no puedo creerme que me hayas ayudado con la cantina, no imaginaba que ''nadie ''fuera a ayudarme ''nunca ''como lo has hecho tú, limpiando lo que ensuciaba Cerbero, la nueva alfombra, la cocina... ¡y todo esto!"
+|-
+|'''Zagreus'''
+|"Ha sido un placer, en serio. Todos usamos la cantina, ¿no? Por mucho que nos desmoralice esta morada, en la cantina es todo más agradable, en mi opinión. Me encanta que seas tú la que la supervise."
+|-
+|'''Dusa'''
+|"¿Lo... Lo dices de verdad, príncipe? No sabes cuánto significa para mí. ¡Al fin estoy al día con las tareas! ¿Qu- qué voy a hacer? ¡No sé qué hacer con tanto tiempo libre! ¡¡Tengo que irme a planificarlo!!"
+|-
+! colspan="2" |Became Close With Dusa 01
+|-
+|'''Dusa'''
+|"''Ehmm''... ¿Zagreo? Quiero hablar un rato contigo, si tienes tiempo. ¡Solo si estás libre! Si estás libre ahora mismo. ¿Te parece bien?"
+|-
+|'''Zagreus'''
+|"¡Claro, Dusa! ¿Dónde vamos? ¿A la cantina o a algún sitio más privado...?"
+|-
+|'''Dusa'''
+|"A algún sitio privado, por favor, si no te importa. Gracias."
+|-
+|'''Dusa'''
+|"Eh, Zagreo... Desde que confesaste tus sentimientos por mí, ha sido como si en mi mente hubiera un incendio. No he sido capaz de centrarme ni hacer nada. ¡Esto me supera!"
+|-
+|'''Zagreus'''
+|"Lo siento, Dusa, te he puesto bajo mucha presión y quizá no debería haberlo hecho, ya que soy el príncipe, como bien dices, y... a veces no recuerdo cuál es mi sitio. No quería presionarte así, es solo que... pensaba que tú también sentías eso por mí."
+|-
+|'''Dusa'''
+|"''¡Sí ''que siento algo por ti, bobo! Es lo que intentaba decirte. Es... Es solo que... que..."
+|-
+|'''Zagreus'''
+|"¿Qué? Sea lo que sea, me parecerá bien. Puedes ser tú misma cuando estás conmigo, Dusa, te lo prometo."
+|-
+|'''Dusa'''
+|"Me alivia que digas eso. Yo... no busco ninguna relación íntima. Eres el alma más generosa de la morada, y he aprendido mucho de ti. Pero cuando pienso en mis sentimientos... simplemente no me siento atraída por ti de esa forma. Lo siento. ¡Eres un chico muy majo!"
+|-
+|'''Zagreus'''
+|"Oh, ''ja, ja, ja''. Mira, no tienes por qué pedir perdón por nada, en absoluto. De hecho... es un alivio. Yo también he aprendido mucho de ti y aprecio nuestra amistad por lo que es. ¿Crees que podríamos seguir siendo amigos? ¿O es mejor que no nos veamos más?"
+|-
+|'''Dusa'''
+|"¡No digas ''eso''! Aunque yo te iba a preguntar lo mismo. ¡Me gustaría que siguieras siendo mi amigo! Pero mi trabajo es lo primero, así que no vayas haciéndome ningún favor especial. ¿Me lo prometes? Quiero ver lo lejos que puedo llegar sin ayuda."
+|-
+|'''Zagreus'''
+|"Eso lo respeto y sí, lo prometo, Dusa. Entonces, ¿amigos? ¿Para toda la eternidad?"
+|-
+|'''Dusa'''
+|"Sí, amigos. Para toda la eternidad. Ahora, mejor sigo con mis cosas. Nos vemos, ¿vale?"
+|-
+! colspan="2" |Became Close With Dusa Aftermath 01
+|-
+|'''Dusa'''
+|"Oye, Zagreo, quería hablar contigo otra vez. Quiero decir... que espero no haber herido tus sentimientos. Si lo he hecho, me lo dirías, ¿verdad?"
+|-
+|'''Zagreus'''
+|"¡Dusa, por favor! ¿Recuerdas que somos ''amigos para toda la eternidad''? Eso es mucho tiempo, no hay nada de qué preocuparse. Me alegro de que hayamos podido hablar."
+|-
+|'''Dusa'''
+|"¡Oh, vale, bien! Me tranquiliza que digas eso, pero... una última cosa, para que pueda tener la conciencia tranquila. He estado guardando toda la ambrosía que me diste, y he pensado que... no me había dado cuenta de lo que sentías por mí ¡Qué boba soy a veces! La tengo aquí y te la quiero devolver, ¿te parece bien?"
+|-
+|'''Zagreus'''
+|"Mira... si ya no quieres esa ambrosía y que te la regalase te incomoda, me la quedo. Era un regalo de corazón, para hacer con ella lo que te plazca. ¿Seguro que no la quieres?"
+|-
+|'''Dusa'''
+|"Sí, seguro, y gracias por tu comprensión, príncipe. Fue muy dulce por tu parte, pero es importante que aprenda a reponer las bebidas de la cantina yo sola. Así que toma, nos vemos pronto, ¿eh?"
+|-
+! colspan="2" |Text
+|-
+|'''Zagreus'''
+|"¡No te precipites! Esa ambrosía era un regalo para ti. Sin condiciones. Tú pruébala y ya verás. Dicen que cuanto más pura sea tu intención al regalarla, mejor sabe. ¿Por qué no te la quedas? Si no para ti, úsala quizás para la cantina."
+|-
+|'''Dusa'''
+|"''Ah'', vale. De... De todas formas quería comentártelo, para asegurarme. ¡Gracias! Espero que podamos tomar un poco en la cantina alguna vez. Mejor que la guarde ahora. ¡Pero no para bebérmela! La guardaré para que no se estropee, ¿te parece?"
+|-
+|'''Zagreus'''
+|"¿Qué me dices de ''En la sangre''? Es uno de tus antiguos éxitos, ¿verdad?"
+|-
+|'''Zagreus'''
+|"¿Qué me dices de ''Argonautas''? Embarcaste con ellos, ¿verdad?"
+|-
+! colspan="2" |Became Close With Dusa Aftermath 02
+|-
+|'''Dusa'''
+|"Eh, ''uhm'', Zagreo, quería decirte que fue un gesto muy agradable lo de darme toda esa ambrosía. ¡Ya está a buen recaudo! Toda menos una botella... que se me resbaló y se hizo añicos. ¡Al menos así pude catarla!"
+|-
+|'''Zagreus'''
+|"Ah, ¿la has probado al final? ¿Qué te pareció? ¿Se merece tantos elogios?"
+|-
+|'''Dusa'''
+|"Fue ''alucinante''. ¡Nunca había probado nada parecido! Y es genial tener la lengua bífida, porque la pude catar por duplicado al mismo tiempo. En fin, si se me vuelve a caer otra botella y se rompe... no te molestará, ¿verdad?"
+|-
+! colspan="2" |Became Close With Dusa Aftermath 03
+|-
+|'''Zagreus'''
+|"Dusa, no puedo quitármelo de la cabeza, quería pedirte perdón porque... creo que la primera vez que nos vimos, no me tomé las cosas como debía. ¡Nunca había tenido una fan! Quería estar a la altura de tu idea sobre mí."
+|-
+|'''Dusa'''
+|"¡Oh, príncipe Zagreo, no te preocupes por eso! Ni yo sabía lo que estaba pasando. Cuando empecé a trabajar aquí, estaba ''tan ''impresionada contigo...Quiero decir... Eras el único que se enfrentaba a tu padre. ¡Pensaba en ti todo el rato!"
+|-
+|'''Zagreus'''
+|"Pero no me conocías, al menos no entonces. No empezamos a hablar hasta lo que parecieron siglos después. ¡A veces es difícil encontrarte! Como puedes volar entre las vigas y tal..."
+|-
+|'''Dusa'''
+|"¡Pues me alegro de que siguieses intentando hablar conmigo! De lo contrario... probablemente seguiría entre las vigas, haciéndome una idea sobre ti que en realidad no era tan buena como la realidad."
+|-
+! colspan="2" |Dusa About Love 01
+|-
+|'''Zagreus'''
+|"Oye, Dusa, me estaba preguntando por curiosidad... ¿Hay alguien más? Quiero decir, alguien especial con quien tengas algo, o quieras tenerlo. Románticamente, quiero decir. Si no te importa que te lo pregunte."
+|-
+|'''Dusa'''
+|"¡No me molesta ninguna pregunta tuya! Pero... ¿''alguien ''con quien tenga algo romántico? No. No es lo mío, ¿sabes? Eso no quiere decir que no sienta nada por ti, ¿eh? Ya lo sabes, ¿verdad? ¡No dejaría lo que tengo entre manos y me lanzaría al peligro por cualquiera, ya sabes!"
+|-
+|'''Zagreus'''
+|"Vaya que si lo sé. Dicen que hay siete clases de amor, ¿verdad? No es algo de lo que se hable mucho aquí abajo, así que supongo que aún me queda mucho por aprender."
+|-
+|'''Dusa'''
+|"Vaya, nunca había pensado que era una clase de amor hasta que lo has dicho, príncipe, ¡pero tienes razón! ¡Te quiero, Zagreo! Ja, ja, ja, qué bien sienta soltarlo en voz alta, ¿sabes? Bueno, ¡hasta luego!"
+|-
+! colspan="2" |Dusa About Cerberus 01
+|-
+|'''Zagreus'''
+|"No habrá sido demasiado tener que cuidar a Cerberus, ¿o sí, Dusa? No es tan temible como parece. ¡Puedo decir eso sobre dos de tres cabezas!"
+|-
+|'''Dusa'''
+|"Ah, Cerbero es un buen chico, ¡en serio! Una parte destacada del trabajo, definitivamente. ¡Empezamos a llevarnos muy bien cuando se dio cuenta de que no soy una pelota! Y bien, estuve alimentándolo, aseándolo, cambiando su agua..."
+|-
+|'''Zagreus'''
+|"...¿Limpiando sus desastres...?"
+|-
+|'''Dusa'''
+|"Si, definitivamente. Por cierto, ¿me disculpas? Tiene que ir. ¡Digo! ¡Yo tengo que ir! ¡¡Digo!! Sabes que quiero decir, ¡adiós!"
+|-
+! colspan="2" |Dusa About Pressure 01
+|-
+|'''Zagreus'''
+|"''Agh'', Dusa, a veces lo que hay ahí fuera me supera, he de confesarlo. La presión es distinta a la de aquí, pero aun así..."
+|-
+|'''Dusa'''
+|"¡No pierdas la esperanza ahora, príncipe Zagreo! No hay nada que no puedas superar, ¡estoy segura! Eres tan duro como tu padre, ¡solo que tú eres más agradable y nunca retrocedes ante nada! ¡Puedes hacerlo!"
+|-
+|'''Zagreus'''
+|"No sé si nadie puede hacerlo. Ya sabes, no se puede huir del Inframundo... Pero gracias por los ánimos."
+|-
+|'''Dusa'''
+|"¡No es solo palabrería, lo digo de verdad, príncipe! Mira lo lejos que has llegado. Casi todos en esta morada creemos en ti. Incluso el cambista miserable y el jefe de cocina. ¡Les he preguntado! ¡Todos creen que tendrás éxito!"
+|-
+! colspan="2" |Dusa About Pressure 02
+|-
+|'''Zagreus'''
+|"¿Puedo hacerte un par de preguntas puramente hipotéticas, Dusa? La primera: ¿en qué me he metido? Y la segunda: ¿qué voy a hacer ahora...?"
+|-
+|'''Dusa'''
+|"Créeme, conozco esa sensación, la de que la situación me supera. Aunque si yo puedo salir de mis líos, ¡estoy ''segura ''de que tú también! No sé qué puedes hacer, pero te prestaré mi oído."
+|-
+! colspan="2" |Dusa About Achilles 01
+|-
+|'''Zagreus'''
+|"Conoces a Aquiles bastante bien, ¿verdad, Dusa? Parece que está siempre ahí, en el pasillo. Al menos tú vas volando de un lado a otro. A veces pienso que le gustaría estar en otro lugar."
+|-
+|'''Dusa'''
+|"¡Debe haber una forma de ayudarlo, príncipe! Es tan leal a esta morada... ¡Y parece ser el mejor de los amigos que tienes aquí! Pero le encanta autocompadecerse. ¡Necesita a alguien que lo saque de todo eso!"
+|-
+! colspan="2" |Dusa About Myrmidon Reunion Quest 01
+|-
+|'''Dusa'''
+|"Príncipe, me he enterado de lo de Aquiles, ¡es genial! Echaré de menos que no esté tan a menudo por aquí como antes, pero me alegro tanto por él... ¡Y por ti!"
+|-
+|'''Zagreus'''
+|"Y yo, Dusa. ¡Al menos en lo de alegrarme por él! Es un gran amigo y se merece algo mejor que estar atrapado aquí."
+|-
+! colspan="2" |Dusa About Gorgons 01
+|-
+|'''Zagreus'''
+|"''Jum'', Dusa, me he encontrado con unas gorgonas hostiles que se parecían a ti en los Asfódelos. Pero solo en el sentido más vago. En cualquier caso, carecían de tu encanto o habilidades sociales. Solo espero que no estéis emparentadas, porque... ya sabes."
+|-
+|'''Dusa'''
+|"Oh, ''ja, ja, ja'', ¿esos vejestorios? Son solo parientes en el sentido más amplio de la palabra, como... No sé, imagina que te nacieran hermanos crueles y casi sin cerebro de tu propia sangre. ¿Sabes lo que es eso? ¿Tienes idea de lo difícil que me fue encontrar trabajo fijo por su culpa?"
+|-
+|'''Zagreus'''
+|"Entonces, ¿tengo tu permiso para seguir masacrando a esas gorgonas impunemente?"
+|-
+! colspan="2" |Dusa About Gorgons 02
+|-
+|'''Zagreus'''
+|"Tenía otra pregunta sobre tu relación con las gorgonas, Dusa. Me he dado cuenta de que tú no haces sonidos siseantes de serpiente cuando hablas y tal. ¿Es eso una especie de lenguaje especial de las gorgonas o algo así?"
+|-
+|'''Dusa'''
+|"No, ''uhmmm''... No exactamente, príncipe. Es tan solo lo que parece, un ''"jjrrrsssss"''. Son simplemente siseos para meter miedo. Hace falta práctica para no sonar así cuando tienes una lengua bífida. Yo me esfuerzo por encajar. Ey, ¿y tú que? Siempre me he preguntado por qué tienes acento de la superficie. ¿No habías nacido aquí?"
+|-
+|'''Zagreus'''
+|"Espera, ¿yo? Nunca lo había pensado... Supongo que viene de mi padre. Insistió en enseñarme a hablar él mismo. Quizá lo llevo en la sangre."
+|-
+! colspan="2" |Dusa About Gorgons 03
+|-
+|'''Zagreus'''
+|"Oye, Dusa, esto es algo personal y no tienes por qué responder, pero tengo que saberlo... Acaso... ¿tenías cuerpo en su día? Porque he oído que las gorgonas teníais alas y todo, ¿no?"
+|-
+|'''Dusa'''
+|"''Ehmm''. Mira, príncipe, tengo algo que decirte. Eso que me preguntas es algo muy íntimo, y sé que tu intención es buena, pero no es algo que suela comentarle a nadie, ¿vale? Soy lo que soy. Además, como puedes ver, ¡no me hacen falta alas para volar!"
+|-
+! colspan="2" |Dusa About Gorgons 03 Aftermath 01
+|-
+|'''Zagreus'''
+|"Señorita Dusa, yo, ''uhm''... te pido perdón por intentar indagar sobre tu pasado. Solo quería conocerte mejor, pero... fue muy insensible por mi parte y lo siento."
+|-
+|'''Dusa'''
+|"Oh, alteza, Zagreo... ¡venga ya! No te preocupes. Ya se me había olvidado. En serio, no pasa nada. Es solo que mi yo anterior, es como... como si no fuera yo. Yo soy así ahora, y me alegro de estar aquí."
+|-
+! colspan="2" |Dusa About Gorgons 04
+|-
+|'''Zagreus'''
+|"¿Sabes? Debe de ser muy útil poder convertir a alguien en piedra. ¿Es algo que puedas hacer a voluntad, como... yo que sé, sacar la lengua y cosas por el estilo?"
+|-
+|'''Dusa'''
+|"No es tan fácil como eso, pero tampoco muy difícil. Tienes que enfadarte un poco, e imaginar lo que estás viendo... como si fuera un retrato, en realidad, y entonces, ¡''plop''! Estatua de piedra. Es curioso, ¡antes pensaba que todo el mundo podía hacerlo!"
+|-
+! colspan="2" |Dusa About Singers Reunion Quest 01
+|-
+|'''Dusa'''
+|"Ey, príncipe. He visto que Orfeo se ha tomado unos días libres, ¿ha sido cosa tuya? ¡Dice que está visitando a su musa! Qué emocionante, ¡llevan separados desde que murieron!"
+|-
+|'''Zagreus'''
+|"Tienen mucho de qué hablar, desde luego. Aunque creo que les va a ir bien."
+|-
+! colspan="2" |Dusa About Hypnos 01
+|-
+|'''Zagreus'''
+|"¿Tienes que trabajar estrechamente con Hipnos como parte de tu trabajo, Dusa? Me lo he encontrado mucho últimamente."
+|-
+|'''Dusa'''
+|"Pues he tenido problemas para comunicarme con el señor Hipnos, en realidad. Me da muchos consejos, pero no es eso por lo que busco su conversación... Solo lo hago cuando no tengo más remedio, supongo."
+|-
+! colspan="2" |Dusa About Meg Relationship 01
+|-
+|'''Dusa'''
+|"Príncipe, ¿es cierto? Me refiero a lo de Megera y tú, quiero decir, eh, ya sabes, lo de... ¡Ya sabes! Porque si es cierto, ¡que sepas que ''estoy muy feliz por los dos''! Es genial, ¡los dos juntos! ¡Me alegro tanto!"
+|-
+|'''Zagreus'''
+|"''Uhm'', gracias, Dusa, sé que Megera y tú sois íntimas, así que me alegra tener tu visto bueno. Aunque no es que... lo digamos a los cuatro vientos precisamente, así que si pudieras, por favor, guardar el secreto, ¿te importaría?"
+|-
+|'''Dusa'''
+|"Ah, ni lo dudes, no se lo voy a contar a nadie. ¡''Para nada''! Simplemente, disfrutaré de la alegría que me habéis dado. Yo solita. ¡Hasta luego!"
+|-
+! colspan="2" |Dusa About Than Relationship 01
+|-
+|'''Dusa'''
+|"Eh, os vi a Tánatos y a ti hace poco, Príncipe. Si me permites decirlo, hacéis una gran pareja, ¡tendríais que veros! Estáis los dos, ''puf''... Me mareo casi de recordar lo bien que se os ve. En fin, sigo a lo mío, ¡hasta luego!"
+|-
+! colspan="2" |Dusa About Work 01
+|-
+|'''Zagreus'''
+|"Dusa, no quiero importunarte, pero me preocupa que vayas a acabar quemada si sigues forzándote a trabajar hasta el agotamiento. ¿Seguro que no necesitas un descanso?"
+|-
+|'''Dusa'''
+|"Seguro, príncipe. ¡Esta es mi oportunidad! ¡Soy la cuidadora de la morada de Hades! Ahora, tengo que seguir dándolo todo. ¡Muchas gracias por el néctar! ¡Hasta luego!"
+|-
+! colspan="2" |Dusa About Fish 01
+|-
+|'''Dusa'''
+|"Oye, ¿has traído algo de pescado? Lo huelo desde la otra punta, ¡qué bien! El jefe de cocina te lo va a quitar de las manos, ¡debe de estar en la cantina como siempre! Gracias por ayudarnos, príncipe."
+|-
+! colspan="2" |Dusa About Skelly 01
+|-
+|'''Zagreus'''
+|"Dusa, mientras trabajabas en la morada, no te habrás topado con un tal Huesos en el patio, ¿verdad?"
+|-
+|'''Dusa'''
+|"''Oh'', pues no, porque mi trabajo está en la morada en sí, y técnicamente el patio queda fuera, y yo no debo salir de entre estos muros. ¡Pero creo que sé de quién me hablas! Lo he visto ahí, de pie, tras las puertas de tus aposentos. ¿Por qué, le pasa algo?"
+|-
+! colspan="2" |Dusa About Lounge Clean Up 01
+|-
+|'''Zagreus'''
+|"Tengo que decir que tu trabajo parece muy estresante, Dusa. ¡La morada es muy grande! ¿Tienes que encargarte de todas sus estancias?"
+|-
+|'''Dusa'''
+|"Bueno, la mayor parte no es para tanto, pero... desde que Cerbero hizo trizas la cantina, supongo que conseguir que todo vuelva a estar como antes, volver a la normalidad, está siendo un poco frenético."
+|-
+|'''Zagreus'''
+|"No diría yo que aquí hubiera algo parecido a la normalidad, pero... siento haberte dado trabajo. Cerbero lo destrozó todo por mi culpa. Aunque... ¿crees que podría ayudarte a arreglarlo?"
+|-
+|'''Dusa'''
+|"¡No digas eso, príncipe! Cerbero debería saber comportarse, y tú tienes tu trabajo, ¿no? ¡Y yo el mío! Así que seguiré esforzándome todo lo que pueda y ya veremos."
+|-
+! colspan="2" |Dusa About Persephone 01
+|-
+|'''Zagreus'''
+|"Dusa, hay algo que deberías saber sobre mí. Sobre mí y Nicte, quiero decir. ¡No es mi verdadera madre! Mi madre biológica se llama Perséfone. Está por ahí, en alguna parte de la superficie. Por eso me marché. Espera, ¿de qué te ríes?"
+|-
+|'''Dusa'''
+|"''¡Ja, ja, ja! ''No es nada, lo siento de verdad, lo siento mucho, no puedo evitarlo. No quería interrumpirte, porque... ¿digamos que ya lo sabía? Es decir, ya había oído rumores, cotilleos por aquí y por allá. ¡Espero que la encuentres pronto!"
+|-
+! colspan="2" |Dusa About Persephone 01 B
+|-
+|'''Zagreus'''
+|"Confío en que no le dirás esto a todos en la casa, pero... ''lo hice''. Quiero decir, ¡la encontre! Estoy tratando de... averiguar que pasa ahora. No puedo hablar de eso todavía, así que... ten paciencia."
+|-
+|'''Dusa'''
+|"¡''Hala''! Qué emocionante, ¿cómo es? ¿Tiene tus mismos ojos? ¿Dónde vive? ¿A qué se dedica? ¿De qué color tiene el pelo? ¿Está, ya sabes, con alguien?"
+|-
+! colspan="2" |Dusa Run Cleared 01
+|-
+|'''Dusa'''
+|"Hala, príncipe, ¿estás de vuelta? Pero si... había oido que... ¿Cómo es que has vuelto?"
+|-
+|'''Zagreus'''
+|"Ah, ''ja'', sí, he llegado bastante lejos, en eso no te equivocas, Dusa, pero... resulta que también tengo asuntos por resolver aquí, así que... seguramente me pasaré de vez en cuando, como ahora."
+|-
+|'''Dusa'''
+|"¡Eso esta genial! Quiero decir, ¿espero que esté genial? Quiero decir, si te parece genial, a mí también. ¿Si no te importa?"
+|-
+! colspan="2" |Dusa About Hades Bedroom 01
+|-
+|'''Zagreus'''
+|"Dusa, mi padre tiene en sus aposentos un retrato de alguien. ¿Es... una mujer que te suene de algo?"
+|-
+|'''Dusa'''
+|"Ay, príncipe, no se permite entrar en los aposentos de tu padre, ¿estás de broma? Te preguntaría cómo es todo ahí dentro, pero... ¡Creo que no debería saber estas cosas!"
+|-
+! colspan="2" |Dusa About Legendary 01
+|-
+|'''Zagreus'''
+|"Dusa, ¿dónde encontraste ese compañero que me diste, Fidi? ¿Sabes lo que vale esa cosa? Al menos lo que vale para mí, porque no sé si alguien los colecciona ya, ¡pero yo sí!"
+|-
+|'''Dusa'''
+|"¡''Oh''! ¡Pues me alegra que te guste, príncipe! No se me ocurre nadie mejor para cuidarla, y lo mejor de todo... ¡te servirá para acordarte de mí! En cuanto a dónde la encontré, no te lo vas a creer. Intenta adivinarlo..."
+|-
+|'''Zagreus'''
+|"Espera, no querrás decir... ''No''... ¿Te la dió Nicte? No puede ser... ¿Acaso...? no sé cómo decirlo... ¿Acaso la tomaste ''prestada ''de Nicte?"
+|-
+|'''Dusa'''
+|"¡''Ja, ja, ja''! ¡No! Valoro mucho mi trabajo aquí, además de otros aspectos de mi bienestar. Pero el caso es que después del encargo de la cantina, Nicte misma me felicitó y me regaló a Fidi como recompensa. ¡Aunque seguro que sabía que te la acabaría dando!"
+|-
+! colspan="2" |Dusa Vs Nyx 01
+|-
+|'''Zagreus'''
+|"¿Qué tal es tu relación con Nicte últimamente, Dusa? Me da la impresión de que como supervisora es muy estricta. ¿Os lleváis bien?"
+|-
+|'''Dusa'''
+|"¿La señora Nicte? ¡Hago lo que me manda! ¿Por qué, ha dicho algo sobre mí? Ay, madre, es eso... si no, no me lo estarías comentando, oh, no... ¿¡Voy a perder el trabajo!?"
+|-
+|'''Zagreus'''
+|"No, no, no, no es eso, es solo la sensación que me ha dado por las conversaciones que he visto entre vosotras. No siempre me llevo bien con Nicte, pero sé que se preocupa mucho por esta morada y todos los que la habitan. Incluida tú."
+|-
+|'''Dusa'''
+|"¡''Ja, ja, ja''! ¡Bueno es saberlo! Se preocupa por mi rendimiento, de eso no hay duda, y hago todo lo que puedo para cumplir sus expectativas e incluso superarlas, ¡díselo!"
+|-
+! colspan="2" |Dusa Vs Nyx 02
+|-
+|'''Dusa'''
+|"¡''Ah'', el príncipe! La señora Nicte, ella... Se supone que no puedo hablar contigo... ¡Tengo que irme!"
+|-
+! colspan="2" |Dusa Vs Nyx 03
+|-
+|'''Zagreus'''
+|"Dusa, ''ey''... Oye, ¿qué te pasa? Pareces... ¿Algo va mal, qué ha pasado? Cuéntamelo, por favor."
+|-
+|'''Dusa'''
+|"No, alteza, es que... se supone que no debes hablar conmigo... Quiero decir, no debo hablar contigo. Nicte... ¡Jo, me voy a meter en un lío tremendo!"
+|-
+|'''Zagreus'''
+|"Espera, Dusa, para... ¿Qué ocurre? ¿En serio que Nicte te ha prohibido que hables conmigo? ¿Sabes el motivo?"
+|-
+|'''Dusa'''
+|"Ni idea, príncipe... Mira, quiero conservar mi trabajo, así que no me pueden ver hablando contigo, entiéndelo, tengo que irme, ¿vale?"
+|-
+! colspan="2" |Dusa Vs Nyx 03 Extra
+|-
+|'''Zagreus'''
+|"Dusa, creo que Nicte está preocupada... Quizá sea conmigo, porque como ya me dijiste, no quiere que hablemos de esta manera. ¿No está satisfecha con el trabajo que has estado haciendo o algo así?"
+|-
+|'''Dusa'''
+|"''Ah'', príncipe, no es culpa tuya, ¡definitivamente es mía! Me ha dicho varias cosas en las que tengo que mejorar: mantenerme en calma, no hacer tantas listas, poner las cosas en perspectiva, no esforzarme en exceso, ¡no echarme la culpa cuando no la tengo...!"
+|-
+|'''Zagreus'''
+|"Parecen objetivos razonables, aunque ojalá Nicte encontrase una forma de decírtelos que no fuera tan incómoda. ¿Me prometes que vas a cuidarte mejor, Dusa?"
+|-
+|'''Dusa'''
+|"... y además me dijo que no debería hablar contigo. ¡Oh, me voy a meter en un buen lío, ¡''aah''!"
+|-
+! colspan="2" |Dusa Vs Nyx 04
+|-
+|'''Dusa'''
+|"Yo, príncipe, quiero decirte adiós. Porque es mi último día. ¿O noche? En cualquier caso, ha sido un placer conocerte y trabajar aquí."
+|-
+|'''Zagreus'''
+|"''Espera, espera, espera'', ¿qué ha pasado, qué dices? ¿Por qué es tu último día o noche? ¿Te marchas de verdad? ¿Por qué?"
+|-
+|'''Dusa'''
+|"¡He perdido mi trabajo! Nicte dice que es su última palabra. Tengo que irme antes de empeorar más las cosas. ¡Adiós, alteza! ¡Hasta siempre!"
+|-
+! colspan="2" |Dusa Vs Nyx 05
+|-
+|'''Dusa'''
+|"Príncipe, yo... hola de nuevo... Supongo que... he vuelto, ¿no? Y estoy trabajando de nuevo, ¿verdad?"
+|-
+|'''Zagreus'''
+|"No te imaginas qué alivio. Me alegra que Nicte haya dado su brazo a torcer. Entiendo que estuviera preocupada, pero... espero que no vuelva a pasar por alto tus excelentes cualidades."
+|-
+|'''Dusa'''
+|"Yo también lo espero. Me alegra haber recuperado mi trabajo. Es duro, y sé que en la vida hay otras cosas, pero... es muy importante para mí, ¿sabes? Tengo que hacerlo, así que os agradezco mucho que me hayáis dejado volver."
+|-
+! colspan="2" |Dusa About Work Life Balance 01
+|-
+|'''Zagreus'''
+|"Entonces, ¿qué pasó cuando perdiste el trabajo, Dusa? ¿Encontraste otro sitio donde quedarte, te fue todo bien?"
+|-
+|'''Dusa'''
+|"¿Sabes? Es curioso, después de que me despidieran, al principio no me lo podía creer. ¡Me sentía perdida! Pero después de unos días, o noches, fue como si abriese los ojos. De repente, tenía un montón de tiempo para mí y me di cuenta de que estaba agotada. Creo que me hacía falta este descanso."
+|-
+|'''Zagreus'''
+|"Me sorprende que quisieras volver al trabajo después de todo lo que pasó. ¿No estabas harta? ¿Quemada?"
+|-
+|'''Dusa'''
+|"Me gusta demasiado este trabajo para sentirme quemada, príncipe, así soy yo. Sé que hay otras cosas en la vida o la muerte aparte del trabajo, pero es que para mí es importante. Y además... si no me pongo a prueba de vez en cuando, nunca conoceré mis límites, ¿no?"
+|-
+|'''Zagreus'''
+|"Pero si te excedes al ponerte a prueba, las cosas pueden salir mal, créeme. Por ejemplo, casi pierdes este trabajo que tanto te gusta."
+|-
+|'''Dusa'''
+|"Tienes razón. Tengo que tener más cuidado, no forzarme demasiado ni tan a menudo. ¿Puedo pedirte un favor? ¿Me avisarás si vuelvo a pasarme?"
+|-
+! colspan="2" |Dusa About Work Life Balance 02
+|-
+|'''Zagreus'''
+|"¿Cómo te va el trabajo últimamente, Dusa? Parece que tienes tus nuevas responsabilidades bajo control, o eso dice Nicte."
+|-
+|'''Dusa'''
+|"Sí, me va bastante bien por el momento, ¡eso creo! Ahora me encargo también de la contabilidad, aunque tengo todo bastante organizado, y me han dado presupuesto para contratar ayudantes. Es curioso, debería estar más ocupada que nunca, pero es al revés: tengo más tiempo y la cosa marcha bien."
+|-
+! colspan="2" |Dusa About Promotion 01
+|-
+|'''Zagreus'''
+|"Dusa. Oye, ¡quería felicitarte! He visto que te han elegido empleada del mes de la morada y tienes tu retrato ahí, en la cantina, a la vista de todos. ¡Es un gran honor!"
+|-
+|'''Dusa'''
+|"''Ja, ja'', es una tontería de nada, Príncipe, algo al alcance de cualquiera, siempre que esté motivado para hacer lo mejor que pueda su trabajo todo el tiempo, con una actitud positiva y sin preocuparse demasiado de la enorme cantidad de faena que aún queda por hacer."
+|-
+! colspan="2" |Dusa Post Ending 01
+|-
+|'''Dusa'''
+|"¡Oh, príncipe! Perséfone, tu madre, es... ¡''guau''! No me extraña que quisieras encontrarla, ¡es única! Aunque supongo que no lo supiste hasta que la encontraste, ¿verdad? Pero aún así..."
+|-
+|'''Zagreus'''
+|"Definitivamente es un cambio importante tener a mi madre por aquí, ¡especialmente para ella! Me alegro de que las dos os estéis llevando bien. Supongo que las cosas serán distintas ahora... pero espero que sea para mejor, ¿no?"
+|-
+|'''Dusa'''
+|"¿Estás de broma? No pretendía molestar... ¡sí que creo que todo está mejor ahora! ¡Somos un equipo completo!"
+|-
+! colspan="2" |Dusa Post Ending 02
+|-
+|'''Dusa'''
+|"''Uhmm''... así que, príncipe... es verdad, que te vas a quedar... y que vas a trabajar aquí oficialmente, ¿no?"
+|-
+|'''Zagreus'''
+|"Yo... Bueno, visto de esa manera, supongo que así es. Vamos a intentar que funcione así, por el momento."
+|-
+|'''Dusa'''
+|"Ya sabes lo que esto quiere decir, ¿no? ¡Somos ''compañeros de trabajo oficiales''! ¿No es emocionante? Podremos hablar de lo que hemos aprendido, comparar notas sobre nuestros problemas, encontrarnos en los pasillos..."
+|-
+|'''Zagreus'''
+|"''Dusa''... ya hemos estado haciendo eso todo este tiempo."
+|-
+|'''Dusa'''
+|"¡Pero ''no ''es lo mismo! ¡La sensación de todo es completamente distinta ahora! Ya verás. En fin, ¡hasta luego!"
+|-
+! colspan="2" |Dusa Post Ending 03
+|-
+|'''Zagreus'''
+|"Creo que por fin entiendo mejor lo que debes de sentir, Dusa. Trabajando para padre, quiero decir. Me obsesioné tanto con intentar huir y, sin embargo... aquí estoy."
+|-
+|'''Dusa'''
+|"Mira, príncipe, ''uhm''... Tu padre siempre ha sido un dios aterrador. Y eso es algo que tenéis que arreglar entre vosotros; sin embargo, si puedes perdonarle por todo... ¿significaría eso que te quedarás? Eso me gustaría, ¡así que apoyaría esa decisión! Pero sé que es mucho más complicado."
+|-
+! colspan="2" |Dusa Post Epilogue 01
+|-
+|'''Zagreus'''
+|"Dusa, está todo impecable, incluso después de que los dioses del Olimpo vinieran para la fiesta. ¿Cómo has conseguido limpiarlo todo tan rápido?"
+|-
+|'''Dusa'''
+|"Ah, ''ja, ja, ja'', tengo mis trucos, príncipe. A veces, coges una tarea y lo das todo, ¿sabes? ¡Pues me pasa mucho! Con lo de darle de comer a Cerbero, o limpiar las vigas. Pues... ¿el encargo de limpieza? ¡Sabía que iba a ser el trabajo perfecto para mí!"
+|-
+! colspan="2" |Dusa With Hypnos 01
+|-
+|'''Hypnos'''
+|"Oh, ''eh''... ¡Hola, Dusa! ¿Cómo te va con ese trabajo inacabable tuyo?"
+|-
+|'''Dusa'''
+|"''Uhm'', señor Hipnos, ¿crees que… a lo mejor, ya sabes, ''ehm'', podrías vigilar la cola procesional que hay delante del señor Hades, como tienes encomendado?"
+|-
+|'''Hypnos'''
+|"¡''Ah''! Sin problema. Eso lo hago hasta durmiendo. Lo anoto en la lista."
+|-
+|'''Dusa'''
+|"''Uhm''... ¡Arreglado, pues! Me alegro de que hayamos charlado. Ahora echa un sueñecito. Pareces hecho polvo..."
+|-
+! colspan="2" |Dusa With Hypnos 02
+|-
+|'''Dusa'''
+|"Señorito Hipnos, quería hablar contigo una vez más de la cola procesional que tienes delante, justo ahí... Se mueve con demasiada lentitud."
+|-
+|'''Hypnos'''
+|"¡Lo sé! Esas sombras no paran de parlotear, siguen y siguen hablando, de esto y de aquello. Me sorprende que Hades aguante todo el día o noche escuchándolas."
+|-
+|'''Dusa'''
+|"''Uhm'', es que se supone que tienes que hacer que esto vaya fluido. Así que si tardan tanto, supongo que podrías decirles algo o... no sé, ¿alguna solución brillante?"
+|-
+|'''Hypnos'''
+|"Es complicado, Dusa, porque creo que es importante que esas sombras que han esperado su turno tengan la oportunidad de decir lo que necesiten. Pero me pones en un apuro, así que déjame que te diga lo que voy a hacer: ¡consultarlo con la almohada! Luego te cuento."
+|-
+|'''Dusa'''
+|"Bueno, si no puedes, ya vuelvo yo en otro momento, ¿vale? Porque tengo órdenes y... esto... adiós..."
+|-
+! colspan="2" |Dusa With Hypnos 03
+|-
+|'''Hypnos'''
+|"¡Ey, Dusa, déjame que lo adivine! Has venido por la cola procesional de sombras que llevan aquí una eternidad y están congestionando un poco los pasillos... ¡No se han movido apenas!"
+|-
+|'''Dusa'''
+|"Co-correcto, señorito Hipnos, así que... ¿has pensado en organizar el tráfico un poco por los pasillos para despejarlos o... quizás establecer algún tipo de límite de tiempo?"
+|-
+|'''Hypnos'''
+|"¿Sabes qué? ¡No se me había ocurrido! Tengo mi lista de registros y he de revisarla bien, con tanta sombra como ha estado entrando. ¡Va todo cada vez más lento!"
+|-
+|'''Dusa'''
+|"Desde luego. Bueno... Tengo que irme, espero que te tomes algún descanso, ¿vale?"
+|-
+! colspan="2" |Dusa With Hypnos 04
+|-
+|'''Dusa'''
+|"No me lo puedo creer, señorito Hipnos, ¿cómo... ''cómo lo has hecho''? ¡Todas esas sombras que hacían cola, se están moviendo!"
+|-
+|'''Hypnos'''
+|"¿Sabes qué? Tienes razón ¡''Se mueven''! Sin duda, aunque no sea fácil percibirlo porque son muy lentas, pero tengo una vista aguda. ¡Igual que tú! Esta vez te has dado cuenta antes que yo. ¿Cuál era tu pregunta?"
+|-
+|'''Dusa'''
+|"Te he preguntado cómo lo has hecho. Lo de conseguir que el tráfico vaya más fluido y... son esos sarcófagos del final del pasillo, ¿no? ¡Las sombras tienen miedo de quedarse por ahí! Es brillante, señorito Hipnos, ¡estoy impresionada!"
+|-
+|'''Hypnos'''
+|"''Ja, ja, ja'', eso no es nada, Dusa. Aunque te diré algo: me agrada saber que te he impresionado."
+|-
+|'''Dusa'''
+|"''Ja, ja, ja'', no sé yo si iría tan lejos... en cualquier caso, lo apunto como resuelto."
+|-
+! colspan="2" |Dusa With Nyx 01
+|-
+|'''Nyx'''
+|"… y después, Dusa, limpia otra vez las vigas y poda las plantas del jardín con sumo cuidado. Cuando termines, será buen momento para ocuparte de las cocinas y barrer la cantina por segunda vez…"
+|-
+|'''Dusa'''
+|"¡S-Sí, voy volando!"
+|-
+! colspan="2" |Dusa With Nyx 02
+|-
+|'''Nyx'''
+|"… y, por último, Dusa, no se te permite dirigirte al príncipe a menos que él te hable primero. Para él, eres invisible. ¿Queda claro?"
+|-
+|'''Dusa'''
+|"Sí, señora Nicte. Nos queda claro, digo… me queda claro. Me… me marcho ya."
+|-
+! colspan="2" |Dusa With Nyx 03
+|-
+|'''Dusa'''
+|"Nicte, ¿estás...? ¿Que si quiero recuperar mi trabajo? Yo... ''ah'', ¡más que nada en el mundo! Lo es todo para mí. Trabajar ''contigo'', la Noche encarnada, en este lugar, con todos vosotros. Me encanta y solo quiero ayudar. ¡Dame otra oportunidad!"
+|-
+|'''Nyx'''
+|"Tendrás otra oportunidad con ciertas condiciones, Dusa. Si crees que es necesario hacer horas extra para cumplir tus responsabilidades, avísame antes. No eres la única responsable del destino de esta morada. Tu actitud en el trabajo es tan importante como el resultado final. Y ahora, te pido que vuelvas a tu puesto."
+|-
+|'''Dusa'''
+|"¿Qué...? Nicte, quieres decir... ¿Empezar ahora? ¿''Ahora ''ahora? Bueno, no tengo muchas obligaciones urgentes, así que lo haré, ¡''sí''! ¡Estoy tan emocionada por volver! No se por donde empezar, puedo limpiar la cantina, barrer las telarañas, sacar a pasear a Cerbero, revisar la despesa, ah, ¡me voy!"
+|-
+! colspan="2" |Dusa With Nyx 04
+|-
+|'''Nyx'''
+|"... y así, por tu diligencia y servicio, y por haber demostrado tal evolución, de acuerdo a mi autoridad como la Noche misma, te nombro cuidadora jefe de la morada de Hades y te concedo los privilegios asociados al puesto. Desempeña esta responsabilidad con honor, Dusa."
+|-
+|'''Dusa'''
+|"Señora Nicte, me siento muy honrada y agradecida por esta oportunidad y por la confianza que has depositado en mí al confiarme este nuevo cargo. Te prometo que no te decepcionaré, ni a ti ni a nadie. ¡Muchas gracias!"
+|-
+|'''Nyx'''
+|"No hay de qué. La limpieza de la morada es un reflejo del estado del reino entero. Lo has comprendido a la perfección y has entendido que un enfoque disciplinado del trabajo es mucho más valioso que el esfuerzo sin control. Aunque sabes que también hay que esforzarse."
+|-
+! colspan="2" |Dusa With Megaera 01
+|-
+|'''Megaera'''
+|"… y entonces, esos siete miserables intentaron saltarse la cola procesional. ¿Te lo puedes creer? Qué cara más dura. Como si así fueran a conseguir una audiencia."
+|-
+|'''Dusa'''
+|"''Ja, ja, ja, ja'', menuda panda de peleles. ¿Cómo se les ocurrió colarse delante de ''ti''?"
+|-
+|'''Megaera'''
+|"Digamos que... si todavía tienen alguna queja para nuestro señor Hades, tendrán que esperar mucho, pero que mucho tiempo antes de poder presentársela."
+|-
+! colspan="2" |Dusa With Megaera 02
+|-
+|'''Megaera'''
+|"… Ya lo creo que sí. Ese tío es un completo imbécil… En fin, será mejor que vuelva al tajo. A la próxima invito yo, Dusa. Cuídate."
+|-
+|'''Dusa'''
+|"Lo mismo digo, señorita Meg. Gracias por la bebida. ¡Con los dioses…!"
+|-
+! colspan="2" |Dusa With Megaera 03
+|-
+|'''Megaera'''
+|"¿"Haz caso a tu corazón"? Qué consejo más raro, sobre todo viniendo de ti. Con todos mis respetos."
+|-
+|'''Dusa'''
+|"A ver, si no crees en el trabajo que estás haciendo, ¿para qué seguir haciéndolo solo por obligación? Tienes que cuidar de ti misma."
+|-
+|'''Megaera'''
+|"No creo que tengamos ninguna prisa. No vamos a envejecer y morir en cuarenta años, como los mortales. Pero te entiendo y pensaré en ello, Dusa. Gracias."
+|-
+! colspan="2" |Dusa With Megaera 04
+|-
+|'''Megaera'''
+|"Hemos empezado con mal pie. Supongo que es normal cuando naces de la sangre de un titán. Tenemos suerte de no habernos cruzado mucho desde entonces."
+|-
+|'''Dusa'''
+|"Pero ellas son tus hermanas... ¡Tu familia! Debéis tener algo en común, no sé, ¿hay algo en lo que estéis de acuerdo?"
+|-
+|'''Megaera'''
+|"Para mí, tú eres más hermana mía que ellas, Dusa. No siempre estoy de acuerdo con Hades, pero agradezco que no las admitan en la morada."
+|-
+! colspan="2" |Dusa With Megaera High Affinity 01
+|-
+|'''Megaera'''
+|"¿Seguro que va todo bien? Es que... no me gustaría que te afectase esto. Basta con que digas una palabra y lo dejo..."
+|-
+|'''Dusa'''
+|"No, ''no, no, no'', Meg, ¡no! Anda ya, ¿estás de broma? No podría alegrarme más por vosotros, ¡en serio! ¡Os lo merecéis! Siempre que tú estés feliz, claro."
+|-
+|'''Megaera'''
+|"Pues... gracias, Dusa. Siempre has sido tan amable... No sé bien qué decir."
+|-
+|'''Dusa'''
+|"¡Oye, eso es lo que diría yo! Mira, mejor me pongo en marcha, solo quiero reiterar que me parece una gran noticia, ¿vale? ¡Gracias por contármelo!"
+|-
+! colspan="2" |Dusa With Hades 01
+|-
+|'''Hades'''
+|"Ojalá todos mis súbditos mostraran tan buena disposición. Informa pues, Dusa, si no es mucha molestia."
+|-
+|'''Dusa'''
+|"¡Señor! La oficina va viento en popa. La afluencia de público a la cantina ha aumentado un veintiocho por cierto, y los niveles de satisfacción de los clientes están en el percentil ochenta. No hay problemas de los que informar."
+|-
+|'''Hades'''
+|"Procura que lleguemos al ''treinta ''por ciento antes del cambio de eón, cuidadora jefe. Aparte de eso... un informe satisfactorio. Continúa con tus tareas."
+|-
+! colspan="2" |Dusa With Persephone 01
+|-
+|'''Dusa'''
+|"''Estooo''... ¿señorita Perséfone? Es un gran placer conocerte. Llámame Dusa, por favor. Soy la cuidadora de la morada, y estoy a tu servicio. Si necesitas algo solo tienes que llamarme, ¿vale?"
+|-
+|'''Persephone'''
+|"¡Dusa! Un placer conocerte. ¡La morada está inmaculada! La diferencia con la situación anterior es como entre el día y la noche. Ahora sé exactamente a quién agradecérselo."
+|-
+|'''Dusa'''
+|"¡Muchísimas gracias! ¡No te decepcionaré!"
+|-
+! colspan="2" |Dusa Chat 01
+|-
+|'''Dusa'''
+|"¡Yo, yo, yo, oh, no! ¡A-Acabo de olvidarme de algo, tengo que irme!"
+|-
+! colspan="2" |Dusa Chat 02
+|-
+|'''Dusa'''
+|"Ah, eh, alteza. Solo pasaba el plumero una vez más."
+|-
+! colspan="2" |Dusa Chat 03
+|-
+|'''Dusa'''
+|"Todo está como los chorros del oro, alteza."
+|-
+! colspan="2" |Dusa Chat 04
+|-
+|'''Dusa'''
+|"Me… me lo dirías si hiciera algo mal, ¿verdad, príncipe?"
+|-
+! colspan="2" |Dusa Chat 05
+|-
+|'''Dusa'''
+|"… he limpiado los pasillos, he limpiado la biblioteca, he limpiado los candelabros, he limpiado los pomos, he limpiado las sillas…"
+|-
+! colspan="2" |Dusa Chat 06
+|-
+|'''Dusa'''
+|"A ver, he sacado brillo a la chimenea, he sacado brillo a las vigas, he sacado brillo a las calaveras, he sacado brillo a la cantina…"
+|-
+! colspan="2" |Dusa Chat 07
+|-
+|'''Dusa'''
+|"Ah, vaya, hola. Hola, alteza. Me alegro de veros. ¡Gracias!"
+|-
+! colspan="2" |Dusa Chat 08
+|-
+|'''Dusa'''
+|"¡Trabajando duro, alteza! ¡Siempre trabajando duro!"
+|-
+|'''Dusa'''
+|"Me encargaré de que todo esté impecable."
+|-
+! colspan="2" |Dusa Chat 09
+|-
+|'''Dusa'''
+|"Oh, ''ja, ja, ja. ''Gracias por hablarme, príncipe. ¡Tengo que irme!"
+|-
+! colspan="2" |Dusa Chat 10
+|-
+|'''Dusa'''
+|"Hola, príncipe. Ya he dado de comer a Cerbero. ¡A las tres cabezas!"
+|-
+! colspan="2" |Dusa Chat 11
+|-
+|'''Dusa'''
+|"''Ja, ja, ja'', ¡me habéis dado un susto de muerte, alteza!"
+|-
+! colspan="2" |Dusa Chat 12
+|-
+|'''Dusa'''
+|"¡Solo estoy aquí, atareadísima como siempre, príncipe!"
+|-
+! colspan="2" |Dusa Chat 13
+|-
+|'''Dusa'''
+|"Yo, yo, yo… siento mucho que hayáis muerto otra vez, alteza."
+|-
+! colspan="2" |Dusa Chat 14
+|-
+|'''Dusa'''
+|"Ah, ''vaya'', hola. ¿Va… todo bien, príncipe?"
+|-
+! colspan="2" |Dusa Chat 15
+|-
+|'''Dusa'''
+|"Aquí no se ensucia nada mientras yo esté de servicio, alteza."
+|-
+! colspan="2" |Dusa Chat 16
+|-
+|'''Dusa'''
+|"Descuida, príncipe. Estoy al tanto de todo."
+|-
+! colspan="2" |Dusa Chat 17
+|-
+|'''Dusa'''
+|"Contad conmigo, alteza."
+|-
+! colspan="2" |Dusa Chat 18
+|-
+|'''Dusa'''
+|"¿Se os ofrece algo ahora… o quizá más tarde?"
+|-
+! colspan="2" |Dusa Chat 19
+|-
+|'''Dusa'''
+|"... a ver, he lavado los platos, he alimentado a las cabezas, he limpiado los armarios, he quitado la mugre del manantial..."
+|-
+! colspan="2" |Dusa Chat 20
+|-
+|'''Dusa'''
+|"Príncipe, se supone que debería estar trabajando, así que no puedo hablar, ¿vale?"
+|-
+! colspan="2" |Dusa Chat 21
+|-
+|'''Dusa'''
+|"¡Discúlpame, tengo que archivar un informe! ¡Voy ''muy ''tarde!"
+|-
+! colspan="2" |Dusa Chat 22
+|-
+|'''Dusa'''
+|"¡T-t-tengo todo bajo control, alteza!"
+|-
+! colspan="2" |Dusa Chat 23
+|-
+|'''Dusa'''
+|"¿Algo va mal, príncipe? ¡Te echaré una mano de inmediato!"
+|-
+! colspan="2" |Dusa Chat 24
+|-
+|'''Dusa'''
+|"¿Me he vuelto a meter en un lío, o no?"
+|-
+! colspan="2" |Dusa Chat 25
+|-
+|'''Dusa'''
+|"Siempre estoy al 110 %, ''¡ja, ja, ja, ja!''"
+|-
+! colspan="2" |Dusa Chat 26
+|-
+|'''Dusa'''
+|"Mmm, yo, yo, yo… Disculpad. Será mejor que siga con mi tarea…"
+|-
+! colspan="2" |Dusa Chat Extra 01
+|-
+|'''Dusa'''
+|"¡Vaya! ¡Lo siento tanto, príncipe, ya voy muy atrasada con mis tareas diarias!"
+|-
+! colspan="2" |Dusa Chat Extra 02
+|-
+|'''Dusa'''
+|"''¡Ah! Ja, ja, ja'', ¡me has vuelto a pillar por sorpresa, príncipe!"
+|-
+! colspan="2" |Dusa Chat Extra 03
+|-
+|'''Dusa'''
+|"Lo conseguirás la próxima vez, príncipe, ¡estoy segura! Bueno... eso creo."
+|-
+! colspan="2" |Dusa Chat Extra 04
+|-
+|'''Dusa'''
+|"¡Me aseguro de que la cantina esté como una patena!"
+|-
+! colspan="2" |Dusa Chat Extra 05
+|-
+|'''Dusa'''
+|"¡Va a ser la ''mejor ''cantina de todo el Inframundo!"
+|-
+! colspan="2" |Dusa Chat Extra 06
+|-
+|'''Dusa'''
+|"Si ves polvo por aquí, me avisas, ¿vale príncipe?"
+|-
+! colspan="2" |Dusa Chat Extra 07
+|-
+|'''Dusa'''
+|"¡Puedes estar tranquilo, no estoy ''nada ''cansada, príncipe!"
+|-
+! colspan="2" |Dusa Chat Extra 08
+|-
+|'''Dusa'''
+|"¡Cuenta conmigo para lo que necesites en la morada!"
+|-
+! colspan="2" |Dusa Chat Extra 09
+|-
+|'''Dusa'''
+|"¡Yo me aseguro de que Cerbero tenga lo que necesita mientras estás fuera!"
+|-
+! colspan="2" |Dusa Chat Extra 10
+|-
+|'''Dusa'''
+|"No me digas que estoy en un lío... ¿Lo estoy, príncipe?"
+|-
+! colspan="2" |Dusa Chat Extra 11
+|-
+|'''Dusa'''
+|"Solo quería mencionar que... ¡me encanta este trabajo!"
+|-
+! colspan="2" |Dusa Chat Extra 12
+|-
+|'''Dusa'''
+|"Inventario del almacén repuesto, cerraduras revisadas, azulejos limpios, árboles regados..."
+|-
+! colspan="2" |Dusa Chat Extra 13
+|-
+|'''Dusa'''
+|"Contratos repasados, libros de cuentas limpios, mesas puestas, ventanas limpias..."
+|-
+! colspan="2" |Dusa Chat Extra 14
+|-
+|'''Dusa'''
+|"Archivos organizados, opiniones recopiladas, programa al día, informe enviado..."
+|-
+! colspan="2" |Dusa Max Chat 01
+|-
+|'''Dusa'''
+|"Por favor, príncipe, cuídate, ¿vale?"
+|-
+! colspan="2" |Dusa Max Chat 02
+|-
+|'''Dusa'''
+|"¡A veces me preocupo mucho por ti, Zagreo!"
+|-
+! colspan="2" |Dusa Max Chat 03
+|-
+|'''Dusa'''
+|"No te preocupes, príncipe, ¡lo tengo todo bajo control!"
+|-
+! colspan="2" |Dusa Max Chat 04
+|-
+|'''Dusa'''
+|"Espero que tengas un buen... ¡la parte del día que sea por ahí, alteza!"
+|-
+! colspan="2" |Dusa Max Chat 05
+|-
+|'''Dusa'''
+|"Te aseguro que lo vigilaré todo en tu ausencia."
+|-
+! colspan="2" |Dusa Max Chat 06
+|-
+|'''Dusa'''
+|"¡Me pillas en medio de una inspección minuciosa, príncipe!"
+|-
+! colspan="2" |Dusa Max Chat 07
+|-
+|'''Dusa'''
+|"¡He oído que a Meg y a ti os van bien las cosas últimamente!"
+|-
+! colspan="2" |Dusa Max Chat 08
+|-
+|'''Dusa'''
+|"Amigos para toda la eternidad, ¿verdad, príncipe Zagreo?"
+|-
+! colspan="2" |Dusa Max Chat 09
+|-
+|'''Dusa'''
+|"¡Que alegría verte por aquí de nuevo, alteza!"
+|-
+! colspan="2" |Dusa Max Chat 10
+|-
+|'''Dusa'''
+|"Me he asegurado de que la morada estuviese limpia y ordenada para ti, príncipe."
+|-
+! colspan="2" |Dusa Max Chat 11
+|-
+|'''Dusa'''
+|"¡Hola, alteza! Por aquí todo bien, nada nuevo."
+|-
+! colspan="2" |Dusa Max Chat 12
+|-
+|'''Dusa'''
+|"Parece que hemos estado los dos muy ocupados, ¿verdad, alteza?"
+|-
+! colspan="2" |Dusa Max Chat 13
+|-
+|'''Dusa'''
+|"Uf, ¡he estado de lo más ocupada últimamente, príncipe, igual que tú!"
+|-
+! colspan="2" |Dusa Max Chat 14
+|-
+|'''Dusa'''
+|"¡Lo siento, no tengo tiempo para charlar más ahora, príncipe!"
+|-
+! colspan="2" |Dusa Max Chat 15
+|-
+|'''Dusa'''
+|"Tendremos que ponernos al día en la cantina, ¿''eh''?"
+|-
+! colspan="2" |Dusa Max Chat 16
+|-
+|'''Dusa'''
+|"Ah, ''ja, ja, ja'', ¡me has asustado, príncipe!"
+|-
+! colspan="2" |Dusa Max Chat 17
+|-
+|'''Dusa'''
+|"¡Espera, príncipe! ¡Creo que me he dejado una zona sin limpiar!"
+|-
+! colspan="2" |Dusa Max Chat 18
+|-
+|'''Dusa'''
+|"Perdona, ¡pero tengo que archivar este informe, príncipe!"
+|-
+! colspan="2" |Dusa Max Chat 19
+|-
+|'''Dusa'''
+|"Me alegro de verte. ¡Ahora tengo que irme a limpiar las vigas otra vez!"
+|-
+! colspan="2" |Dusa Max Chat 20
+|-
+|'''Dusa'''
+|"Estoy trabajando, pero me alegro un montón de verte así, príncipe."
+|-
+! colspan="2" |Dusa Max Chat 21
+|-
+|'''Dusa'''
+|"Sé que tu trabajo puede ser frustrante a veces, así que no olvides tomarte alguna pausa, ¿vale?"
+|-
+! colspan="2" |Dusa Max Chat 22
+|-
+|'''Dusa'''
+|"¡Espero que sigas apasionado por tu trabajo como yo, príncipe!"
+|-
+! colspan="2" |Dusa Max Chat 23
+|-
+|'''Dusa'''
+|"Por los informes que he visto, parece que estás haciendo un trabajo excelente allí arriba."
+|-
+! colspan="2" |Dusa Chat With Megaera 01
+|-
+|'''Megaera'''
+|"Ahora no, Zag. Reunión privada."
+|-
+|'''Dusa'''
+|"No te excedas en tus tareas, ¿vale, alteza?"
+|-
+! colspan="2" |Dusa Chat With Megaera 02
+|-
+|'''Dusa'''
+|"No olvides tomarte algún descanso, ¿vale?"
+|-
+|'''Megaera'''
+|"Tendremos que charlar otro día, Zag."
+|-
+! colspan="2" |Dusa Chat With Megaera 03
+|-
+|'''Dusa'''
+|"Descansa de vez en cuando, ¿eh?"
+|-
+! colspan="2" |Dusa Chat With Megaera 04
+|-
+|'''Dusa'''
+|"¡Espero que veas a la señora Meg la próxima vez que salgas por ahí!"
+|-
+! colspan="2" |Dusa Chat With Megaera 05
+|-
+|'''Dusa'''
+|"¡Espero que vuelvas a ver a Tánatos muy pronto!"
+|-
+! colspan="2" |Dusa Chat With Cerberus 01
+|-
+|'''Dusa'''
+|"¡Toma, Cerbi! Y... ehmm... ¡no me comas, por favor!"
+|-
+! colspan="2" |Dusa Chat With Cerberus 02
+|-
+|'''Dusa'''
+|"¡Toma, muchacho! Pedido triple, ¡justo como te gusta!"
+|-
+! colspan="2" |Dusa Chat With Cerberus 03
+|-
+|'''Dusa'''
+|"Por favor, solo ten cuidado con donde vas después de comerte todo esto, ¿vale, Cerbi?"
+|-
+! colspan="2" |Dusa Chat With Cerberus 04
+|-
+|'''Dusa'''
+|"¡Venga, Cerbi, date prisa y come! Esto no puede estar tan malo. ¿O sí?"
+|-
+! colspan="2" |Dusa Gift 01
+|-
+|'''Zagreus'''
+|"''Uhm'', Dusa. Quería darte esto. Es un detallito de nada, por lo mucho que te esfuerzas."
+|-
+|'''Dusa'''
+|"P-P-Príncipe, os lo agradezco de corazón. Yo también quiero darte algo…"
+|-
+! colspan="2" |Dusa Gift 02
+|-
+|'''Dusa'''
+|"¿''C-C-Cómooo''? P-P-Pero tiene que haber un error. Príncipe, ¿este regalo es para ''mí''?"
+|-
+|'''Zagreus'''
+|"Quiero que sepas que todos te apreciamos, Dusa. No trabajes demasiado por mi culpa, ¿de acuerdo?"
+|-
+! colspan="2" |Dusa Gift 03
+|-
+|'''Dusa'''
+|"''Oh'', oh, por todos los dioses… Alteza, ¿s-s-seguro que queréis darme ''esto''?"
+|-
+|'''Zagreus'''
+|"Segurísimo, Dusa. Espero que te guste."
+|-
+! colspan="2" |Dusa Gift 04
+|-
+|'''Dusa'''
+|"P-P-Pero príncipe, no sé qué decir. Yo… ¿Me tomáis el pelo?"
+|-
+|'''Zagreus'''
+|"Que me muera ahora mismo, Dusa. Para ti."
+|-
+! colspan="2" |Dusa Gift 05 Alt
+|-
+|'''Zagreus'''
+|"Dusa, trabajas más duro que nadie de esta morada, lo tienes todo bien limpio y ordenado. En mi opinión, alguien debería agradecértelo, así que, ¡gracias! Me gustaría que te quedaras con esto."
+|-
+|'''Dusa'''
+|"¡Jolín, príncipe, ''guau...''gracias! ¡Muchísimas gracias! Has sido tan generoso... ¡Me dejas sin palabras! No se me ocurre qué decir ahora mismo."
+|-
+|'''Zagreus'''
+|"¡Oh, ya está todo dicho! No quiero ponerte en un compromiso ni nada. Simplemente agradezco tener la oportunidad de que nos conozcamos mejor."
+|-
+|'''Dusa'''
+|"Sí, yo también lo agradezco. ¡Gracias por el néctar! ¡Se nota que es del bueno! ''Uhm'', vale, ¡adiós!"
+|-
+! colspan="2" |Dusa Gift 06
+|-
+|'''Zagreus'''
+|"Oye, Dusa, aquí tienes algo más de néctar de primera. Sigue con tu excelente trabajo y, sobre todo, no cambies nunca."
+|-
+|'''Dusa'''
+|"Yo... yo... yo... Me halagas, príncipe, pero he estado tan ocupada últimamente que ni siquiera he podido probar la última botella que me diste... ¿Y si te quedas esta para dársela a otra persona?"
+|-
+|'''Zagreus'''
+|"¡No, es tuya! Además, seguro que pronto tendrás unas vacaciones para disfrutarla, ¿verdad?"
+|-
+|'''Dusa'''
+|"¡''Oh''! ¡Pues puede ser! Creo que sí, solo que nadie me lo ha confirmado, y encima hay tanto trabajo por hacer en la morada... ¡No puedo dejar todo así tirado!"
+|-
+! colspan="2" |Dusa Gift 07
+|-
+|'''Zagreus'''
+|"Ey, Dusa. Enhorabuena por completar tus tareas en la cantina. ¡Mírala! Está mejor que nunca. Y todo gracias a tu esfuerzo y dedicación. Toma, para ti. Algo especial para la ocasión."
+|-
+|'''Dusa'''
+|"''Hala'', ¡pero si es ''ambrosía'', príncipe! ¡Está reservada a los ''dioses''! No es para alguien como yo, ¿no? Pero espera, voy a hacerlo. ¡Toma, quédate con ''esto''! Lo cogí para ti, ¡quédatelo! ¡Adiós!"
+|-
+! colspan="2" |Dusa Gift 08
+|-
+|'''Zagreus'''
+|"La ambrosía no es solo para los dioses, Dusa. Es para aquellos a quienes apreciamos. Toma, disfrútala o añádela a la bodega de la cantina, lo que te apetezca."
+|-
+|'''Dusa'''
+|"''Ah'', pero ¿de verdad quieres que me la quede? Eres el príncipe nada menos, y yo solo... Mira, los dos sabemos que solo soy una cabeza flotante de monstruo. Y la cuidadora. No lo entiendo, ¿por qué eres tan bueno conmigo? Y yo que pensaba que ni siquiera me ibas a hablar nunca..."
+|-
+|'''Zagreus'''
+|"Eres mucho más que eso, ojalá te dieras cuenta. Ojalá todos los que viven en la morada tuvieran el mismo espíritu que tú."
+|-
+|'''Dusa'''
+|"Ojalá todos tuvieran el mismo que tú, príncipe Zagreo. Has sido tan amable conmigo y me alegro de que hayamos tenido la oportunidad de conocernos mejor. A veces, es agradable saber que hay al menos alguien que se preocupa por mí."
+|-
+|'''Zagreus'''
+|"Por lo que a mí respecta, no deberías sentirte así solamente a veces. Es solo que nunca he conocido a nadie como tú. Mi padre siempre me ha dicho que pare de sonreír tanto, pero tú eres igual que yo."
+|-
+|'''Dusa'''
+|"¿Por qué, porque sonrío? ¡''Ja, ja''! ¡Sonreír es lo que me ayuda a pasar el día! Aunque, ay, a ''eso ''es a lo que te referías... Ya veo. Mira, todo esto me abruma, más vale que me vaya. Pero guardaré la ambrosía como oro en paño, ¿vale?"
+|-
+! colspan="2" |Dusa Gift 09
+|-
+|'''Zagreus'''
+|"Te he traído más ambrosía, Dusa, espero que no te moleste. He pensado que podía servirte para la cantina, ¿no te parece? ¿Quizás para algún evento especial, para los invitados y tal?"
+|-
+|'''Dusa'''
+|"Perdona por salir volando la última vez que me trajiste ambrosía, príncipe... quiero decir... Zagreo. Me resulta muy extraño llamarte por el nombre de pila. Cuando empecé aquí, me dijeron que ni siquiera hablase contigo y ahora... ''uh''... ¡míranos!"
+|-
+|'''Zagreus'''
+|"Escucha, si hiciese caso de todo lo que me dijeran, mi vida sería muy distinta, ¡y mucho peor! Así que, ¿a quién le importa lo que digan los demás? Disfruto de tu compañía."
+|-
+|'''Dusa'''
+|"¡Y yo de la tuya! No hace mucho, era una simple cabeza de gorgona solitaria, aquí sola, en el vasto Inframundo, en busca de trabajo fijo. Entonces me enteré de que había una vacante en la morada de tu padre y me hice con el puesto. Parecía un sueño. Y luego, estabas tú..."
+|-
+|'''Zagreus'''
+|"Recuerdo cuando nos conocimos. Llevabas tres cuencos de comida para Cerbero y te chocaste conmigo. Salió todo por los aires, pero recogiste la mitad antes de que tocase el suelo. Y luego te fuiste volando antes de que supiera tu nombre. Pensé que no volvería a verte."
+|-
+|'''Dusa'''
+|"¡Qué ''vergüenza ''me dio! Aún peor... pensé que perdería mi trabajo, ¡pero me dieron otra oportunidad! Fue cosa tuya, ¿verdad? Has estado cuidando de mí todo este tiempo. Qué amable por tu parte, no... no sé cómo agradecértelo... Yo... Será mejor que guarde esta ambrosía para otra ocasión, ¿vale?"
+|-
+! colspan="2" |Dusa Gift 10
+|-
+|'''Zagreus'''
+|"Dusa, estaba pensando en que este lote de ambrosía debería tener bien abastecida la cantina por un tiempo. Así todo estará más animado por aquí. Pero quédate una botella para ti, ¿vale? Como símbolo de mi afecto."
+|-
+|'''Dusa'''
+|"¡''Oh''! Has dicho ''"afecto"'', eh... ¡vaya...! Yo también te aprecio, Zagreo, ¡me gustaste desde el principio! Eras tan distinto a tu padre y a Nicte, estaba claro, pero... espera, ¿qué estoy diciendo? Qué boba soy, solo lo dices por ser amable, ¿verdad?"
+|-
+|'''Zagreus'''
+|"Me gustaría ser más que eso, si quieres. Eres maravillosa e iluminas la morada con tu presencia. Pero nunca pondría en riesgo nuestra amistad; así que, si te parece que es una línea que no debemos cruzar, dímelo, por favor."
+|-
+|'''Dusa'''
+|"''Eh''... espera, espera, espera, ¿acabas de decir que soy... ''maravillosa''?"
+|-
+|'''Zagreus'''
+|"Sí, eso he dicho. Y me alegra decirlo en voz alta, por si te interesa saberlo. Pero, ¿y tú? ¿Qué sientes?"
+|-
+|'''Dusa'''
+|"Yo... ''guau''... Yo... Nunca habría imaginado que... que sintieras algo así por alguien como yo. ¡Me alegra mucho oírlo! Me hace sentir completa. Pero... ''ehmm''... Zagreo, no sé si puedo ser lo que tú necesitas, ¿me entiendes? Espera, todo este tiempo en que has sido amable conmigo... ¿no sería por...?"
+|-
+|'''Zagreus'''
+|"¿''Cómo''? No, Dusa, claro que no... ''Agh'', qué difícil es compartir los sentimientos, ¿verdad? No quiero arruinar lo que tenemos. Si pudieras ver lo que siento..."
+|-
+|'''Dusa'''
+|"¡Oh, ''ja, ja, ja''! Solo quería asegurarme... No te sientas mal, ¿vale? No parece que puedas ocultar lo que sientes, y lo digo en el mejor de los sentidos. Me alegro mucho, lo que pasa es que esto me abruma, y ahora estoy trabajando, pero... ¿nos vemos luego...?"
+|-
+! colspan="2" |Dusa Gift 05
+|-
+|'''Dusa'''
+|"Ay, no, no, no, no, alteza. ¿De verdad me regaláis esto?"
+|-
+|'''Zagreus'''
+|"Claro que sí, Dusa. Y espero que te guste. Nos vemos, ¿vale?"
+|-
+|}
