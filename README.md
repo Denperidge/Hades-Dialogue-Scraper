@@ -10,14 +10,14 @@ Simply clone the repository and run the script provided!
 ```bash
 python app/main.py {path/to/hades/gamefiles} {lang}
 ```
-Note: if lang is emitted, all languages will be extracted & exported.
+- Available lang values (as of writing): `['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt-BR', 'ru', 'zh-CN']`
+- Note: if lang is omitted, all languages will be extracted & exported.
 
-Example: 
+
+Example usage: 
 ```bash
 python app/main.py C:/Program Files (x86)/Steam/steamapps/common/Hades en
 ```
-
-Available lang values (as of writing): `['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pl', 'pt-BR', 'ru', 'zh-CN']`
 
 ## License
 The code in this project is licensed under the [MIT License](LICENSE). The game - and thus anything extracted from it - belongs to Supergiant Games.
