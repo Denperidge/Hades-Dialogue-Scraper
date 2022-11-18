@@ -13,6 +13,8 @@ tests = [
     duo
     ]
 
+array_parse_ints = lambda x: int(x) if x.isnumeric() else x
+
 def id_to_description(id):
     result = None
 
@@ -20,17 +22,19 @@ def id_to_description(id):
         result = search(regex, id)
         if result is not None:
             # Parse out any camelcase remaining
-            #results = [split_camelcase_into_array(value) for value in result.groups()]
-            description = format_string.format(*result.groups())
+            results = [split_camelcase(value) for value in result.groups()]
+            results = [array_parse_ints(value) for value in results]
+            print(results)
+            description = format_string.format(*results)
             return description
 
     # If no matching description can be found, split the ID according to Camelcase
-    return " ".join(split_camelcase_into_array(id))
+    return split_camelcase(id)
 
     
 
 
-def split_camelcase_into_array(string):
+def split_camelcase(string):
     regex_search = findall(r"[A-Z][a-z]*|[0-9]*", string)
-    return [result for result in regex_search if result != ""]
+    return " ".join([result for result in regex_search if result != ""])
 
