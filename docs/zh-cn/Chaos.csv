@@ -1,5 +1,5 @@
 Id|Description|Speaker|Text
-ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect A 01|Chaos|我发现，你还没有对那件叫埃癸斯的全视圣物说出那句咒语。如果你不愿意遵守命运女神的安排，随你便就好。不过如果你改变主意的话，记得对它说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中。”{#PreviousFormat}
+ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect 01 A|Chaos|我发现，你还没有对那件叫埃癸斯的全视圣物说出那句咒语。如果你不愿意遵守命运女神的安排，随你便就好。不过如果你改变主意的话，记得对它说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中。”{#PreviousFormat}
 ChaosAboutBeowulfAspect01|Chaos About Beowulf Aspect 01|Chaos|你还没说出我告诉你的那句唤醒咒语，是吗？或者说，你只是单纯地不想让我看到结果而已。不过终有一日，我是会看到它的。记住，冥王之子，对那件全视圣器说：{#DialogueItalicFormat}“我看到你傲然屹立在巨蛇的烈焰之中。”{#PreviousFormat}
 ChaosAboutBeowulfAspect02|Chaos About Beowulf Aspect 02|Chaos|在一切无穷无尽的可能性中，冥王之子来到了我的面前，拿着我的全视圣器。而它的形象却属于某个尚未出生的战士，他日后会颇负盛名，整个北境称他为贝奥武夫。这真是太奇妙了。
 ChaosSurfaceQuestComplete|Chaos Surface Quest Complete|Chaos|我隐约地感觉到，你之前面对你父亲的时候，带着我给你的圆形催化剂。看来无论是我对你的请求，还是你成功地击败了你的父亲，都符合命运三女神的安排，而结果甚至比我预想得更加有趣。所以，谢谢你。
@@ -11,9 +11,9 @@ ChaosAboutResponding01|Chaos About Responding 01|Chaos|我无法为你提供建�
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|我应该知道吗，宙斯和他在奥林匹斯山上的所有亲人都认为你是哈迪斯和女神倪克斯的孩子？了解这一骗局使我愉悦。倪克斯养育了很多冥界的孩子，那她怎么就不能养育你呢？
 ChaosAboutNyx01|Chaos About Nyx 01|Zagreus|她并不是我的亲生母亲，对，但她也像我的母亲一样对待我。她您认识她吗？
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|哦，我当然认识女神倪克斯。不过，距离我们上次沟通已经有一段时间了，我担心……好吧，那时候我可不是那种仁慈的人。我希望倪克斯一切顺利。
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|我遇见到了你回来，但只有当你即将到来之前，我才能预见到。因此，我还是可以感受到这为数不多的惊喜。你在冥界的行动，就好像被黑纱包裹住了一样，或许是因为女神倪克斯的缘故？请回答。
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Zagreus|我……我不知道该怎么答复，卡俄斯君主。不过，确实是倪克斯，她一直在帮助我，帮助我逃离我父亲的国度。
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|你确实是在黑暗中行动，虽然与她无尽的黑暗不尽相同，但还是让我想起了她。我曾经邀请她有意躲开我，而我则想办法找到她，算是我俩之间小小的娱乐活动吧。我想，现在可以换成你了。
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|我遇见到了你回来，但只有当你即将到来之前，我才能预见到。因此，我还是可以感受到这为数不多的惊喜。你在冥界的行动，就好像被黑纱包裹住了一样，或许是因为女神倪克斯的缘故？请回答。
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Zagreus|我……我不知道该怎么答复，卡俄斯君主。不过，确实是倪克斯，她一直在帮助我，帮助我逃离我父亲的国度。
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|你确实是在黑暗中行动，虽然与她无尽的黑暗不尽相同，但还是让我想起了她。我曾经邀请她有意躲开我，而我则想办法找到她，算是我俩之间小小的娱乐活动吧。我想，现在可以换成你了。
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|冥王之子啊，最近我感觉到，你父亲的居所发生了某些我称之为“变化”的事物。最近是发生了什么值得留意的事情吗？请回答。
 ChaosPostEnding01|Chaos Post Ending 01|Zagreus|卡俄斯君主，是珀尔塞福涅，我的母亲，她回来了！她是自愿回来的，所以……这里有了她之后，一切肯定都应该不太一样了。不过……我倒没觉得有什么变化。
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|您对变化的感知可能不会像我一样敏锐。这片空间的亮度，正在随着时间的变化弯曲、调整。而你所描述的这些事情……肯定就是这些变化的起因。我相信在这种场合下，这样的变化是可喜的。而且不管怎样，我很高兴你回来了。
@@ -21,7 +21,7 @@ ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Chaos|我
 ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Zagreus|哦，很高兴您问了，只是……我的母亲，她……我们正在努力与奥林匹斯众神的联系，想要重新建立家人之间的纽带。她和我父亲见面，已经有一段时间了，不过……万一我们举行聚会的话，我想让您知道，我们也诚挚地邀请您来参加。
 ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Chaos|诚挚的邀请……？这真是个慷慨的提案，哈迪斯之子。不过希望你理解，除非你们能在我的空间内举行聚会，否则我很难把我的全部实体都带过去。不过……我觉得我可以在一定程度上和你一起参加聚会，谢谢。
 ChaosPostEpilogue01|Chaos Post Epilogue 01|Chaos|你把奥林匹斯众神聚在了一起，我很高兴。我必须和你说……我以前从来没在任何一个地方，见到过我这么多后代，而且所有人都没有暴力的意图。我很感谢你也邀请我去，也很感谢你能回到这里。所以，我们可以继续了吗？
-ChaosPostEpilogue01_B|Chaos Post Epilogue B 01|Chaos|你把奥林匹斯众神聚在了一起，我很高兴。我必须和你说……我以前从来没在任何一个地方，见到过我这么多后代，而且所有人都没有暴力的意图。
+ChaosPostEpilogue01_B|Chaos Post Epilogue 01 B|Chaos|你把奥林匹斯众神聚在了一起，我很高兴。我必须和你说……我以前从来没在任何一个地方，见到过我这么多后代，而且所有人都没有暴力的意图。
 ChaosAboutZeus01|Chaos About Zeus 01|Chaos|你带着伟大的宙斯大人的祝福。他仍然相信他对天地都有统治权。我想也许他把我忘了。
 ChaosAboutPoseidon01|Chaos About Poseidon 01|Chaos|看起来，波塞冬大人似乎给了你祝福。他可能表现得相当自大和好战，表现出你父亲和宙斯大人最不喜欢的举止。
 ChaosAboutAthena01|Chaos About Athena 01|Chaos|哦，你是冥王之子，我知道，智慧女神雅典娜已经给你灌输了她的魔法。也许对她来说，你只是一个工具，可以用来修补她破碎的家庭。
@@ -35,7 +35,7 @@ ChaosAboutOlympians01|Chaos About Olympians 01|Chaos|到现在为止，你遇到
 ChaosAboutOlympians02|Chaos About Olympians 02|Chaos|我请你只要听，不要问，冥王之子，而奥林匹斯的神是怎么做的呢？他们连请都不请。他们只会自顾自给你发送信息，让你选择他们的恩赐，但却什么都不解释。我试着理解他们的观点，但这太难了。
 ChaosAboutOlympians03|Chaos About Olympians 03|Chaos|你向奥林匹斯众神进贡的时候，有那么一瞬间，他们似乎可以听见你的祈祷。至少这是我所观测到的结果。真是有趣，虽然你的思想可以挣脱束缚，但你的肉体却做不到这一点。
 ChaosAboutHades01|Chaos About Hades 01|Chaos|当你父亲和他的兄弟们把泰坦封印在世界最黑暗的地方，那也是他们最后一次见到我。你和他们不一样，我觉得这样和你交流很安全。
-ChaosAboutNyx01_C|Chaos About Nyx C 01|Chaos|很久以前，当我和倪克斯女神关系比较亲密的时候，我有时对她非常严厉。在她生下第一个孩子之后，我仍然希望她不要因为孩子而分心。我一直都在创造，当我终于放慢脚步时，才意识到了自己的错误。可那个时候，我们之前的联系已经被切断了。
+ChaosAboutNyx01_C|Chaos About Nyx 01 C|Chaos|很久以前，当我和倪克斯女神关系比较亲密的时候，我有时对她非常严厉。在她生下第一个孩子之后，我仍然希望她不要因为孩子而分心。我一直都在创造，当我终于放慢脚步时，才意识到了自己的错误。可那个时候，我们之前的联系已经被切断了。
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|我感觉出了什么问题，冥王之子。说说吧，你在想什么？就算你不说，我也能猜个八九不离十，但我还是更喜欢你自愿讲出来。
 ChaosAboutNyx02|Chaos About Nyx 02|Zagreus|{#DialogueItalicFormat}嗯{#PreviousFormat}，卡俄斯君主？女神倪克斯，她……好像想和你再谈一次。我想，你能不能找个时间和她联系一下？她似乎确信，如果你愿意的话，你可以自己决定。
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|女神倪克斯想收到我的信息……？这真是太意外了，冥王之子，你没有在开玩笑吧。不过，我可以看出你的意图是真诚的。虽然我不能保证，但是……我会考虑这件事情的可能性的。
@@ -62,8 +62,8 @@ ChaosAboutDiscovery01|Chaos About Discovery 01|Chaos|你一定想知道，冥王
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|冥王之子啊，我已经推断出了我早就该发现的信息。你的母亲一定就是那位自称珀尔塞福涅的女人。依我判断，她在冥界待的时间不长，但却产生了十足的影响。你在找她吗？请回答。
 ChaosAboutPersephone01|Chaos About Persephone 01|Zagreus|是的，她就在地面世界，这就是为什么我一直在找你的原因。我想要找到她。
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|我希望你能成功。现在我还感觉不到她，不过我可以在你的旅途中提供帮助。
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Zagreus|哦，卡俄斯君主……我得告诉你，我已经找到她所在之处了。不过她在的地方我没法长待，所以我只能尽可能地一次次去看她。这和……我们之间的见面倒是蛮像的，只是她在的地方更加难以到达。
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Chaos|我明白了，你们已经见过面了，我很高兴。我相信，你接下来的会面都是值得的，这和我们之间的见面倒是蛮像的。
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Zagreus|哦，卡俄斯君主……我得告诉你，我已经找到她所在之处了。不过她在的地方我没法长待，所以我只能尽可能地一次次去看她。这和……我们之间的见面倒是蛮像的，只是她在的地方更加难以到达。
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Chaos|我明白了，你们已经见过面了，我很高兴。我相信，你接下来的会面都是值得的，这和我们之间的见面倒是蛮像的。
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|冥王之子啊，如果你找到了那位自称珀尔塞福涅的人，是不是意味着我们再也不能相见了？请回答。
 ChaosAboutPersephone02|Chaos About Persephone 02|Zagreus|噢！我……卡俄斯君主，我也不知道接下来会发生什么，但我可以对你实话实说。如果我能永远离开冥界的话……我想我会这么做的。不过我会想念你，也会想念很多这边的人。
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|……我也会想念你的，谢谢你告诉我。

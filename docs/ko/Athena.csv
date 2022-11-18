@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|당신 아버지의 그 완강�
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|어떤 저주받은 영혼이 감히 당신 앞길을 막으려 하죠? 살아 있었을 때 배웠어야 할 뼈저린 교훈을 죽어서라도 느낄 수 있게 징벌해 줘요.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|결의를 굳게 다져요. 그리고 지상에 이를 때까지 멈추지 말아요. 한 걸음 내디딜 때마다 불안하더라도 내가 여기 있다는 걸 잊지 말아요.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|내가 해 줄 수 있는 것이라고는 탈출 확률을 높여줄 힘을 부여하는 것 뿐이군. 빨리 골라서 가도록 해.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|지혜와 행운이 밝은 빛으로 당신은 인도해 줄 거예요.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|지하세계의 저주받은 영혼들에게 당신은 두려움의 대상으로 각인될 거예요.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|지혜와 행운이 밝은 빛으로 당신은 인도해 줄 거예요.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|지하세계의 저주받은 영혼들에게 당신은 두려움의 대상으로 각인될 거예요.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|힘과 지혜가 당신을 어둠에서 벗어나게 인도해 줄 거예요, 자그레우스.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|생명이 다한 적들은 신성한 권위 앞에 상대가 되지 않아요.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|내가 항상 당신을 지켜보며 보살피고 있다는 것 잊지 말아요.
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|간단하게 증표를 준비했습니다, �
 AthenaGift03|Athena Gift 03|Athena|이런 제물까지 주다니, 정말 자애롭군요. 감격스럽지만, 당장은 내가 아닌 당신의 안위만 생각하도록 해요.
 AthenaGift04|Athena Gift 04|Zagreus|아테나 여신님, 부디 이 선물을 받아 주십시오. 당신의 지혜가 저를 빛으로 이끌었습니다.
 AthenaGift04|Athena Gift 04|Athena|이런, 내게 선물을 주다니 어찌나 마음씨가 좋은가! 정말 고마워. 하지만 나 때문에 그대가 시간을 빼앗기지는 않길 바라네. 할일에 집중하도록 해.
-AthenaGift05A|Athena Gift A 05|Zagreus|제 일에 집중하는 가운데 여신님이 아니었더라면 제가 그 무엇도 이루지 못했으리라는 생각이 들었습니다. 그래서 감사의 뜻으로 보잘 것 없는 것이나마 드리고자 합니다.
-AthenaGift05A|Athena Gift A 05|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 할 일을 마친 다음으로 미뤄두게. 중요한 일들이 많이 있지 않은가!
-AthenaGift05B|Athena Gift B 05|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 좀 더 적절한 시기가 올 때까지 미뤄두게. 중요한 일들이 많이 있지 않은가!
+AthenaGift05A|Athena Gift 05 A|Zagreus|제 일에 집중하는 가운데 여신님이 아니었더라면 제가 그 무엇도 이루지 못했으리라는 생각이 들었습니다. 그래서 감사의 뜻으로 보잘 것 없는 것이나마 드리고자 합니다.
+AthenaGift05A|Athena Gift 05 A|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 할 일을 마친 다음으로 미뤄두게. 중요한 일들이 많이 있지 않은가!
+AthenaGift05B|Athena Gift 05 B|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 좀 더 적절한 시기가 올 때까지 미뤄두게. 중요한 일들이 많이 있지 않은가!
 AthenaGift06|Athena Gift 06|Zagreus|아테나 님, 저 말고도 신경 쓰실 일이 많을 줄로 압니다만... 가족을 정말 많이 아끼시는군요. 아테나 님의 배려와 의지가 저를 채찍질합니다. 감사합니다.
 AthenaGift06|Athena Gift 06|Athena|서로에게 감사를 표하기에 지금만한 때는 없을지도 모르지, 내 친애하는 사촌. 그대가 내 가능성의 눈을 뜨게 해주었으나, 나는 결연히 그대의 편에 서서 계속 싸우겠다.
 AthenaGift07|Athena Gift 07|Zagreus|이 암브로시아는 올림포스에서 나온 것으로 압니다, 아테나 님. 그럼에도 이 지하 깊은 곳까지 내려오면서 그 맛이 아테나 님의 기품에 걸맞게 잘 숙성되었으리라 믿습니다. 아테나 님보다 더 훌륭하신 사촌은 없을 것입니다. 제게 주신 은혜는 결코 잊지 않겠습니다.

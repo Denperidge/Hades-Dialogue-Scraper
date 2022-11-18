@@ -94,13 +94,13 @@ ThanatosAboutSurface01|Thanatos About Surface 01|Zagreus|Tánatos, igual te lo h
 ThanatosAboutSurface01|Thanatos About Surface 01|Thanatos|¿Qué puedo contarte? Es… distinto. Nunca me quedo mucho tiempo. No creo que lo soportase, pues me enferma. Demasiadas sensaciones a la vez. Y cuando el carro de Helios aparece en el cielo, emite tal fulgor que apenas me deja ver.
 ThanatosAboutSurface01|Thanatos About Surface 01|Zagreus|Parece espantoso. Si tan malo resulta, ¿por qué los dioses del Olimpo lo pintan tan bien?
 ThanatosAboutSurface01|Thanatos About Surface 01|Thanatos|Sobre gustos, no hay nada escrito. Sin embargo, he omitido ciertos aspectos menos negativos. ¿Sabes? No quiero estropearte la sorpresa. Tengo la sensación de que muy pronto lo verás con tus propios ojos.
-ThanatosAboutSurface01_B|Thanatos About Surface B 01|Thanatos|Imagino que sobre gustos, no hay nada escrito.
+ThanatosAboutSurface01_B|Thanatos About Surface 01 B|Thanatos|Imagino que sobre gustos, no hay nada escrito.
 ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|Por cierto, ¿qué me puedes contar de Caronte? Se muestra parco en palabras, pero parece que conoce a la perfección los entresijos de este lugar.
 ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|Aunque lo veo constantemente, ni siquiera yo sé qué obligaciones tiene. Es un trabajador independiente, por así decirlo, que lleva aquí desde siempre. Tu padre le ha dado completa libertad de movimiento.
 ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|Recibirá una retribución muy elevada, después de tanto tiempo ocupándose de la llegada de las nuevas almas.
 ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|Dudo mucho que lo haga por la retribución, Zagreo. No hay Inframundo sin Caronte. Él lo sabe, y tu padre también.
-ThanatosAboutCharon02A|Thanatos About Charon A 02|Zagreus|¿Has tenido alguna vez una buena relación con Caronte, Tan? Parece que, por mucho que me esfuerce, no se relaja conmigo.
-ThanatosAboutCharon02A|Thanatos About Charon A 02|Thanatos|No me sorprendería que tú tengas una relación más estrecha con él que yo. No todos los hijos de Nicte se mantienen en contacto, aunque al menos no nos tiramos todo el rato al cuello de los otros, como la otra rama de tu familia.
+ThanatosAboutCharon02A|Thanatos About Charon 02 A|Zagreus|¿Has tenido alguna vez una buena relación con Caronte, Tan? Parece que, por mucho que me esfuerce, no se relaja conmigo.
+ThanatosAboutCharon02A|Thanatos About Charon 02 A|Thanatos|No me sorprendería que tú tengas una relación más estrecha con él que yo. No todos los hijos de Nicte se mantienen en contacto, aunque al menos no nos tiramos todo el rato al cuello de los otros, como la otra rama de tu familia.
 ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|Tan, no te lo vas a creer, pero... Caronte me ha estado ayudando. ¡Por iniciativa propia, según parece! Y yo que estaba seguro de que Nicte o alguien se lo había ordenado. Ese Huesos del que te hablé, ¡lo contrató Caronte!
 ThanatosAboutCharon02|Thanatos About Charon 02|Thanatos|¿De qué me hablas, Zagreo? Solo porque Caronte te esté vendiendo cosas, no significa que te esté ayudando. Espera, ¿estás seguro?
 ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|¡Segurísimo! Este ayudante, Huesos, es mucho más parlanchín y al final se le escapó, aunque no me pudo decir cómo es que Caronte decidió hacer algo así. Ni siquiera somos amigos...
@@ -377,15 +377,15 @@ ThanatosGift03|Thanatos Gift 03|Thanatos|No te molestes con gestos tan vacuos, Z
 ThanatosGift03|Thanatos Gift 03|Zagreus|No es un gesto vacuo. Además, si no intentase centrarme, me lo habría bebido yo mismo.
 ThanatosGift04|Thanatos Gift 04|Thanatos|Esto no es buena idea, Zag. Has elegido bando y las cosas han cambiado. Un efímero momento de reflexión no solucionará nada.
 ThanatosGift04|Thanatos Gift 04|Zagreus|Hemos sufrido mucho, Tan, y creo que aún nos queda mucho por sufrir. Considéralo un símbolo de todo lo que nos une.
-ThanatosGift04_B|Thanatos Gift B 04|Thanatos|No sé qué esperas al darme algo así. Si va con segundas, no quiero saberlo.
+ThanatosGift04_B|Thanatos Gift 04 B|Thanatos|No sé qué esperas al darme algo así. Si va con segundas, no quiero saberlo.
 ThanatosGift05|Thanatos Gift 05|Thanatos|¿A qué viene tanta generosidad últimamente? Mira, lo guardaré con el resto, si no se te ocurre nada mejor que dármelo a mí.
 ThanatosGift05|Thanatos Gift 05|Zagreus|Pues es una idea. Uno de estos días, o noches, tendremos bastante como para organizar un festín que será la envidia del Olimpo.
 ThanatosGift06|Thanatos Gift 06|Thanatos|No hablas en serio. ¿Hablas en serio? {#DialogueItalicFormat}Eh{#PreviousFormat}, ¿sabes qué? Esta bien. Dámelo y, ahora, cada cual por su camino. Aun así, no sé por qué te molestas.
 ThanatosGift06|Thanatos Gift 06|Zagreus|¿Por qué me molesto? ¿De qué otro modo podría demostrarte mis sentimientos, aparte de regalándote estos frascos de cuando en cuando?
-ThanatosGift07_A|Thanatos Gift A 07|Zagreus|Oye, Tan. Por todas las veces que me has salvado el pellejo y que me has apoyado… me gustaría darte esto. El brebaje sublime.
-ThanatosGift07_A|Thanatos Gift A 07|Thanatos|¡Ambrosía! Zagreo, ¿de dónde...? ¿No te parece excesivo?
-ThanatosGift07_A|Thanatos Gift A 07|Zagreus|Lo dices como si eso fuera malo. Algún exceso de vez en cuando no le hace daño a nadie, me parece a mí.
-ThanatosGift07_A|Thanatos Gift A 07|Thanatos|{#DialogueItalicFormat}Oh{#PreviousFormat}, te sorprenderías. Aunque si tu intención es sacarme los colores, que sepas que yo voy a hacer lo mismo. ¡{#DialogueItalicFormat}Mira{#PreviousFormat}!
+ThanatosGift07_A|Thanatos Gift 07 A|Zagreus|Oye, Tan. Por todas las veces que me has salvado el pellejo y que me has apoyado… me gustaría darte esto. El brebaje sublime.
+ThanatosGift07_A|Thanatos Gift 07 A|Thanatos|¡Ambrosía! Zagreo, ¿de dónde...? ¿No te parece excesivo?
+ThanatosGift07_A|Thanatos Gift 07 A|Zagreus|Lo dices como si eso fuera malo. Algún exceso de vez en cuando no le hace daño a nadie, me parece a mí.
+ThanatosGift07_A|Thanatos Gift 07 A|Thanatos|{#DialogueItalicFormat}Oh{#PreviousFormat}, te sorprenderías. Aunque si tu intención es sacarme los colores, que sepas que yo voy a hacer lo mismo. ¡{#DialogueItalicFormat}Mira{#PreviousFormat}!
 ThanatosGift08|Thanatos Gift 08|Zagreus|Para ti, Tánatos. Puede que los olímpicos estén acostumbrados a eso pero me parece que deberíamos probarlo también por aquí abajo, o al menos tú.
 ThanatosGift08|Thanatos Gift 08|Thanatos|¿Sabes? Los olímpicos tienen buen gusto en ocasiones. La última botella que me diste era... mejor de lo que esperaba. Aunque por poco ni la pruebo.
 ThanatosGift08|Thanatos Gift 08|Zagreus|¡Pero lo hiciste al final! Y ahora podrás probar esta para comparar. Se supone que todas saben distinto, por si no lo sabías.

@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|Te deseo lo mejor en lo que te queda d
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|Ya has visto el puro poder destructivo de los cielos. ¡Imagínate cómo es sobre la superficie de la tierra!
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|Algún día descansarás en las alturas y recordarás todo esto con una sonrisa. ¡Estoy seguro!
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}Oh{#PreviousFormat}, vaya. Pero si es mi sobrino favorito, esforzándose como siempre por alcanzar la superficie de mi mundo. Tu padre no pensará que puede retenerte, ¿no?
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|Cuentas con mi bendición ahora y siempre, jovenzuelo.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|Confío en que puedas salir de ahí a su debido tiempo, sobrino.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|Te estaré observando, jovenzuelo, ¡aunque ahí abajo está oscuro!
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|Que el poder del Olimpo te guíe a través de las sombras, sobrino.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|Jovenzuelo, no dejes que tu padre te atrape, y sal ya de ahí.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|Zagreo, no nos daremos por vencido contigo, así que sigue esforzándote.
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|Cuentas con mi bendición ahora y siempre, jovenzuelo.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|Confío en que puedas salir de ahí a su debido tiempo, sobrino.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|Te estaré observando, jovenzuelo, ¡aunque ahí abajo está oscuro!
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|Que el poder del Olimpo te guíe a través de las sombras, sobrino.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|Jovenzuelo, no dejes que tu padre te atrape, y sal ya de ahí.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|Zagreo, no nos daremos por vencido contigo, así que sigue esforzándote.
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|Haré que los mismísimos cielos te ayuden en tu ascenso, sobrino.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|Cuídate allí abajo, ¿vale, jovencito?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|¡Todos te animamos, jovencito!
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|Por favor, tío Zeus, acepta este obsequio de n�
 ZeusGift05|Zeus Gift 05|Zeus|Me agrada contemplar tal muestra de respeto y admiración por tu tío, Zagreo. Llegarás muy lejos aquí, en el Olimpo, con esa actitud. No todos son tan sabios ni considerados.
 ZeusGift06|Zeus Gift 06|Zagreus|Si me oyes, poderoso Zeus, me gustaría hacerte este sencillo regalo y transmitirte con él mi más humilde deseo de que algún día tú y mi padre resolváis vuestras diferencias y hagáis las paces.
 ZeusGift06|Zeus Gift 06|Zeus|Qué ofrenda más espléndida, jovencito. Aunque aún no nos hayamos conocido en persona, ya siento que nuestros lazos son estrechos, ¡incluso más que los que tienes con tu padre! {#DialogueItalicFormat}Ja, ja, ja, ja{#PreviousFormat}, quizá deberíamos ir diciéndole a todo el mundo que {#DialogueItalicFormat}yo {#PreviousFormat}soy tu verdadero padre, ¿no crees?
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, qué ofrenda más espléndida, jovencito. Ya siento que nuestros lazos son estrechos, ¡más incluso que los que tienes con tu padre! {#DialogueItalicFormat}Ja, ja, ja, ja{#PreviousFormat}, quizá deberíamos ir diciéndole a todo el mundo que {#DialogueItalicFormat}yo {#PreviousFormat}soy tu verdadero padre, ¿tú que crees?
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, qué ofrenda más espléndida, jovencito. Ya siento que nuestros lazos son estrechos, ¡más incluso que los que tienes con tu padre! {#DialogueItalicFormat}Ja, ja, ja, ja{#PreviousFormat}, quizá deberíamos ir diciéndole a todo el mundo que {#DialogueItalicFormat}yo {#PreviousFormat}soy tu verdadero padre, ¿tú que crees?
 ZeusGift07|Zeus Gift 07|Zagreus|¡Zeus, rey de los olímpicos, perdona la humildad de esta ofrenda de ambrosía, pues sé muy bien que no os falta allá arriba! He aquí pues el obsequio más espléndido que puedo darte, y sigue sin poder compararse con todo lo que has hecho por mí. Gracias, tío.
 ZeusGift07|Zeus Gift 07|Zeus|Pero sobrino, cuánta generosidad al mostrar esta deferencia por mí. Deberíamos, empero, mantener las distancias, ¿no? No queremos que los demás dioses se pongan celosos si ven que tengo favoritos. ¡Aunque es verdad que lo eres! Al menos, por el momento.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|Estoooo... Zagreo, en vez de saludarte como suelo hacer, permíteme que te presente a mi ilustre, amable y generoso padre: ¡tu glorioso tío Zeus!

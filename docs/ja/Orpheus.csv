@@ -52,12 +52,12 @@ OrpheusPostEpilogue01|Orpheus Post Epilogue 01|Orpheus|たしかに！よくわ�
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|僕は今、再び歌いたい気持ちになっている。\n君が僕の歌を気に入ってくれるといいけれど。
 OrpheusSingsAgain01|Orpheus Sings Again 01|Zagreus|すばらしい演奏だ。\nということは… “歌女神”に会えたのか？
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|…僕の歌女神は、見つからなかった。それでも…\n何度でもあきらめずに立ち向かってゆく君を見ていたら\n僕も前へ進まなくてはいけないと思ったのさ。
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Zagreus|すばらしい演奏だ。“歌女神”がいてもいなくても、\nオルフェウスの歌声は唯一無二だな。
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Orpheus|君にそう言ってもらえるとうれしい。何度でも\nあきらめずに立ち向かってゆく君を見ていたら、\n僕も前へ進むべきかもしれないと思えたんだ。
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Zagreus|すばらしい演奏だ。\nエウリュディケにも聴かせてやりたい。
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Orpheus|君にそう言ってもらえるとうれしいよ。\n何度でもあきらめずに立ち向かってゆく君を\n見ていたら、僕も前へ進まなくてはと思ったんだ。
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|歌への情熱が蘇って、また曲を編んでみたく\nなったんだ。過ぎ去った日々への想いを、\n歌に込めてみようと思ってね。
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|そう言ってもらえるとうれしいけれど… \n僕の歌声なんて、靴底に踏まれた砂利の立てる雑音さ。僕の歌女神の声は、翼をはためかせ空へ舞い上がる\nようだった。
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Zagreus|すばらしい演奏だ。“歌女神”がいてもいなくても、\nオルフェウスの歌声は唯一無二だな。
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Orpheus|君にそう言ってもらえるとうれしい。何度でも\nあきらめずに立ち向かってゆく君を見ていたら、\n僕も前へ進むべきかもしれないと思えたんだ。
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Zagreus|すばらしい演奏だ。\nエウリュディケにも聴かせてやりたい。
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Orpheus|君にそう言ってもらえるとうれしいよ。\n何度でもあきらめずに立ち向かってゆく君を\n見ていたら、僕も前へ進まなくてはと思ったんだ。
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|歌への情熱が蘇って、また曲を編んでみたく\nなったんだ。過ぎ去った日々への想いを、\n歌に込めてみようと思ってね。
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|そう言ってもらえるとうれしいけれど… \n僕の歌声なんて、靴底に踏まれた砂利の立てる雑音さ。僕の歌女神の声は、翼をはためかせ空へ舞い上がる\nようだった。
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|オルフェウス、この話をしたことはあったか？\n溶岩に覆われたアスポデロスで、俺は多頭の怪物\nボーン・ヒュドラを瞬殺したことがある。\n楽勝だったよ。
 OrpheusTallTale01|Orpheus Tall Tale 01|Orpheus|それはすごい！吟遊詩人の歌に伝わる、\n名だたる英雄たちの偉業の数々も形なしだ。\nあそこにいるアキレウスにも勝るといっていい！
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|そう言ってもらえるとうれしいよ。\n俺の武勇伝を聞くと、おまえは元気が出るみたいだな。\nまた話すネタができたら、教えにくるよ。
@@ -87,16 +87,16 @@ OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|アスポデロスで�
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|知り合いどころか、夫婦だった！\n彼女は僕の、創造力の源… “歌女神”だった…\nなのに、死後は離ればなれに…\nでもまあ、それもしかたのないことさ。
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|「しかたない」？なんだ、それは。\n今度また会ったときに、伝えてほしいことの\nひとつぐらい、ないのか？
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|彼女にまた迷惑をかけたくない。\n彼女のことは、二度と口にしないでくれ。\n僕には、想い出さえあれば、十分さ。
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|オルフェウス、聞いて驚くなよ？\n地上を目指していたら、途中で、背の高い“森”系の\nニンフに会った。そう… エウリュディケだ。
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|なんだって…？ 彼女が君の父上の所領で\n暮らしていることは知っていたけれど…\nまさか君が、彼女に出くわすなんて…\n本当に、間違いないのかい？
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|アスポデロスで会ったんだ。独りで元気に\n暮らしてるよ。彼女とは、かなり親しい仲だったと\n言っていたよな？
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|知り合いどころか、夫婦だった！\n彼女は僕の、創造力の源… “歌女神”だった…\nなのに、死後は離ればなれに…\nでもまあ、それもしかたのないことさ。
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|オルフェウス、聞いて驚くなよ？\n地上を目指していたら、途中で、背の高い“森”系の\nニンフに会った。そう… エウリュディケだ。
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|なんだって…？ 彼女が君の父上の所領で\n暮らしていることは知っていたけれど…\nまさか君が、彼女に出くわすなんて…\n本当に、間違いないのかい？
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|アスポデロスで会ったんだ。独りで元気に\n暮らしてるよ。彼女とは、かなり親しい仲だったと\n言っていたよな？
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|知り合いどころか、夫婦だった！\n彼女は僕の、創造力の源… “歌女神”だった…\nなのに、死後は離ればなれに…\nでもまあ、それもしかたのないことさ。
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|またエウリュディケに会ったぞ。\nおまえのことは… やんわりと、ほのめかしておいた。
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|なんだって！？…いや、失礼。ときに彼女は、\n僕に対して、恨みに似た感情を抱いているように\n見えただろうか？
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|おまえとのことは、あまり聞かれたくなさそうでは\nあったな。彼女と何があったんだ？
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|僕がまだ生者だった頃、あとひと息で、彼女を冥界から救えそうだったんだ。だけど、最後の最後で、僕の心に疑いの念が湧いてしまった… そして僕は、彼女を永遠に失ってしまった。それでも、君が彼女と会えたことを、僕はうれしく思うよ。
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Zagreus|おまえとのことは、あまり聞かれたくなさそう\nではあった。本当に、彼女を\n冥界から連れだそうとしたのか？
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Orpheus|あとひと息だった。だけど、最後の最後で、\n僕の心に疑いの念が湧いてしまった…\nそして僕は、彼女を、永遠に失ったのさ。それでも、\n君が彼女と会えたことを、僕はうれしく思うよ。
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Zagreus|おまえとのことは、あまり聞かれたくなさそう\nではあった。本当に、彼女を\n冥界から連れだそうとしたのか？
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Orpheus|あとひと息だった。だけど、最後の最後で、\n僕の心に疑いの念が湧いてしまった…\nそして僕は、彼女を、永遠に失ったのさ。それでも、\n君が彼女と会えたことを、僕はうれしく思うよ。
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|ザグレウス。エウリュディケは、どんな様子だい？\n髪は、秋色かい？それとも、満開の花かい？\n身ごなしは、オークのように誇り高く、\nしなやかだったかい？
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Zagreus|アスポデロスのこぢんまりとした住まいで、\n楽しそうに暮らしてるよ。不機嫌になるのは、\n俺がオルフェウスの話題を持ち出したときだけだ。\nなんとか仲直りできないのか？
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|残念だけれど、過ぎたことはもう、どうにも\nなりはしない。君も察しているとおり、\n彼女のなかの僕はもう死んでいる。\nなぜなら僕は… もう死んでいるのだから。
@@ -112,10 +112,10 @@ OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|今の僕があるの�
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|なら、どうして彼女は無名のままだったんだ？\nおまえばっかり、名が売れてるじゃないか。
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|人生とは、じつに不公平なものなのさ。\n僕は折にふれ、彼女の才能を称えた。\n彼女も、大いに自分を売り込んだ。それでも…\n観客たちは、曲の作り手は僕だと思い込んでいた。\nどうすることもできなかった…
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|人間のことはよくわからないが、\nおまえがちゃんと彼女の功績を\n広めようとしていたと聞いて、安心したよ。
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|エウリュディケはいい曲をたくさん作ったのに、\nしかるべき称賛を受けていない。\nそれについておまえは、「人生は不幸なもの」と\n言っていたよな？俺たちで、なんとかできないか？
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|人間は、一度思い込んだことに固執する生き物だ。\n別の可能性があることを理解させるのは、\n困難を極める。いったい、何をどうすれば…？
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|…たとえば、あまり角が立たないように、\nやんわり間違いを指摘する、とか？それか、\n真実が広まるように、なんらかの手を打つ、とか…？
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|そう言われても、僕はこの館付きの宮廷楽士だ。\n僕の歌を耳にする観客の数は、限られている。\nとはいえ… この館の亡霊たちが僕の観客であることに\n変わりはない。せめて彼らには、曲の作者が誰なのか、\n正しく伝えるようにしよう。
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|エウリュディケはいい曲をたくさん作ったのに、\nしかるべき称賛を受けていない。\nそれについておまえは、「人生は不幸なもの」と\n言っていたよな？俺たちで、なんとかできないか？
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|人間は、一度思い込んだことに固執する生き物だ。\n別の可能性があることを理解させるのは、\n困難を極める。いったい、何をどうすれば…？
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|…たとえば、あまり角が立たないように、\nやんわり間違いを指摘する、とか？それか、\n真実が広まるように、なんらかの手を打つ、とか…？
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|そう言われても、僕はこの館付きの宮廷楽士だ。\n僕の歌を耳にする観客の数は、限られている。\nとはいえ… この館の亡霊たちが僕の観客であることに\n変わりはない。せめて彼らには、曲の作者が誰なのか、\n正しく伝えるようにしよう。
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|白状するよ… 僕はいまだに、エウリュディケを\n想っている。気づくと、彼女との想い出に浸っている。\n僕はここで、彼女のいない日々を送ると決めたのに…\nまるでダメだ。それでも僕は、死んでいる。\nだから、ここにとどまる以外に行き場はない…
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|おまえはもう、十分苦しんだ。それはエウリュディケも\n同じだ。互いに想い合っているのに、\nおまえたちふたりは誤解してるだけなんだ。\n俺に任せてくれ。いい考えがある。
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|考え… ひらめき… 彼女がそばにいれば、僕にも絶えず湧いたものさ…
@@ -248,8 +248,8 @@ OrpheusGift03|Orpheus Gift 03|Orpheus|また僕のことを気にかけてくれ
 OrpheusGift03|Orpheus Gift 03|Zagreus|大したものじゃない。\nおまえの歌にいつも力をもらってる。\n俺はオルフェウスの作品のファンだ。
 OrpheusGift04|Orpheus Gift 04|Orpheus|君はいつも僕によくしてくれるね。本来なら、\n感謝の気持ちを歌で伝えたいところだけれど、\nあいにく僕は…
 OrpheusGift04|Orpheus Gift 04|Zagreus|ああ、わかってる。おまえも俺もいろいろあるけれど、きっと乗り越えられる。
-OrpheusGift04_B|Orpheus Gift B 04|Orpheus|君はいつも、僕の喉の渇きを癒やしてくれるね。自分にまだそういう感覚があることが、驚きだけれど。
-OrpheusGift04_B|Orpheus Gift B 04|Zagreus|よろこんでもらえて何よりだ。過ぎたことで、\nいつまでも自分を責めることはないからな。
+OrpheusGift04_B|Orpheus Gift 04 B|Orpheus|君はいつも、僕の喉の渇きを癒やしてくれるね。自分にまだそういう感覚があることが、驚きだけれど。
+OrpheusGift04_B|Orpheus Gift 04 B|Zagreus|よろこんでもらえて何よりだ。過ぎたことで、\nいつまでも自分を責めることはないからな。
 OrpheusGift05|Orpheus Gift 05|Zagreus|オルフェウス、いいものを持ってきたぞ。\n酒場で、いっしょにどうだ？
 OrpheusGift05|Orpheus Gift 05|Orpheus|そう… だね。べつに、他にやることが\nあるわけでもないし… お相伴にあずかることにするよ。
 OrpheusGift05|Orpheus Gift 05|Orpheus|…つまりね、僕は振り返るべきじゃなかったんだ。\nだから、この話の教訓は、振り返るなと言われたときは\n絶対に振り返ってはいけない、ということだ。\nわかるかい？

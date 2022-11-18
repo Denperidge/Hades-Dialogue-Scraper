@@ -193,11 +193,11 @@ PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|그럴 줄 알�
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|착하지, 케르베로스? 그럼! 착하고 말고지! 내가 없는 동안 이곳을 지켜줬구나. 내 아들이 날 보러 오게 도와주기까지 하고!
 PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}경계심을 늦추지 않는 무시무시한 케르베로스는 칭찬을 담담히 받아들입니다.
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}에레보스 영토는 지하세계의 어두운 오지에 꼭꼭 숨겨져 있습니다. 이곳에서 죽은 자들은 영원의 형벌을 기다리며 이 땅의 주인인 하데스 군주로부터 관심과 은총을 갈망하고 있습니다.
-CharonFight01_FirstInspect|Charon Fight First Inspect 01|Storyteller|{#DialogueItalicFormat}끝없는 스틱스 강의 숨겨진 지류는 신비한 에레보스를 가로지릅니다. 뱃사공 카론이 가장 다루기 힘든 영혼들을 처리하는 곳입니다.
+CharonFight01_FirstInspect|Charon Fight 01 First Inspect|Storyteller|{#DialogueItalicFormat}끝없는 스틱스 강의 숨겨진 지류는 신비한 에레보스를 가로지릅니다. 뱃사공 카론이 가장 다루기 힘든 영혼들을 처리하는 곳입니다.
 Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}불길에 휩싸인 플레게톤 강을 건너 탁 트인 전경을 자랑하는 곳에 도달한 불굴의 자그레우스는 이제 그의 앞길에서 공격할 때만 노리고 있는 상상하기도 어려울 만큼 흉포한 적을 대면해야 합니다.
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}불의 강을 지나 지하세계 안에서 경비가 가장 삼엄한 곳을 향해 숨겨진 계단을 올라가면 천상의 엘리시움이 나타납니다. 엘리시움은 현생을 살다 간 위대한 영혼들이 영원한 안식을 얻는 곳입니다.
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}아스포델의 보잘것없는 집들 사이로 외로운 에우리디케의 황홀한 목소리가 울려 퍼졌습니다. 에우리디케는 한때 지하세계를 탈출하려 했지만 실패하고 말았죠. 마치 자그레우스 왕자처럼 말입니다.
-B_MiniBoss02_FirstInspect|B Mini Boss First Inspect 02|Storyteller|{#DialogueItalicFormat}마법 행위의 끝은 종종 때이른 죽음과 타르타로스에서의 영원한 감금입니다. 하지만 일부는 이곳에서도 계속해서 거래를 완벽하게 해나가기도 하고, 다른 곳에서 영구 거주하기도 합니다...
+B_MiniBoss02_FirstInspect|B Mini Boss 02 First Inspect|Storyteller|{#DialogueItalicFormat}마법 행위의 끝은 종종 때이른 죽음과 타르타로스에서의 영원한 감금입니다. 하지만 일부는 이곳에서도 계속해서 거래를 완벽하게 해나가기도 하고, 다른 곳에서 영구 거주하기도 합니다...
 Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|{#DialogueItalicFormat}죽은 자들과 그들의 귀중품들을 싣고 지하세계에서 물이 흐르는 곳이면 어디든 다니는 뱃사공 카론에게 플레게톤 강의 타오르는 불꽃과 휘날리는 재는 아무런 위협이 되지 못합니다.
 Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|{#DialogueItalicFormat}플레게톤 강의 무한 지옥 안에도 생명을 조금씩 뿜어내는 물이 어딘가에 숨겨져 있습니다. 행운의 왕자에게 운명이 자신을 허락하는 것처럼 말입니다.
 Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|{#DialogueItalicFormat}한때 신록이 만연했던 아스포델의 평원은 플레게톤 강이 넘쳐나면서 번쩍이는 불꽃에 휩싸여 버렸습니다. 제아무리 열을 잘 견디는 생명체라고 해도 무서울 만큼 뜨거운 강 속의 불길은 단숨에 죽음을 선사할지도 모릅니다.
@@ -220,13 +220,13 @@ Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|{#DialogueItalicFormat}많은 이�
 Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|{#DialogueItalicFormat}차디찬 신전 한쪽에서 뻗어 나온 조잡한 구조의 터널 안에는 죽어서도 이 영역에서 환영받지 못하는 흉포한 존재가 살고 있습니다.
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}지상은 바람이 몰아치고, 추위로 몸살을 앓고 있지만, 왕자에게 경외감과 숭고함을 느끼게 하였다. 난생 처음 목격한 풍경 때문이었다.
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}모든 과일과 야채들이 지하세계의 왕비였던 페르세포네의 숨겨진 정원에서 풍성하게 자라났다. 생명의 세계는 지옥의 영역과는 멀리 떨어져 있다.
-A_PreBoss_01_FirstInspect|A Pre Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}현재 방에서 나가면 타르타로스 가장 바깥쪽 경계에 이르게 되는데, 지하세계 왕자가 생각하는 것보다 훨씬 끔찍한 위험이 도사리는 곳입니다.
-A_Boss_01_Inspect01|A Boss Inspect 01 01|Storyteller|{#DialogueItalicFormat}분노라고도 알려진 에리니에스. 이들은 하데스의 신뢰를 받는 감시인들로 최악의 필멸자들을 고문하고 엉뚱한 곳으로 출입하려는 멍청한 이들을 지하세계에서 제거하는 임무를 맡고 있다.
-A_PostBoss_01_FirstInspect|A Post Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}타르타로스에서 나가는 길이 드디어 훤히 드러났습니다. 저 위의 불의 강 플레게톤이 뿜어내는 열기가 벌써 희미하게 느껴지기 시작합니다... 비록 앞으로 크나큰 위험이 펼쳐지겠지만 말입니다.
-A_PostBoss_01_GearsInspect01|A Post Boss Gears Inspect 01 01|Storyteller|{#DialogueItalicFormat}하데스의 신뢰를 받는 핵심 세력 말고는 지하세계의 광범위한 영역을 연결하는 복잡한 방들에 들어가도록 허락받지 않았다. 하지만 왕자는 어떻게든 들어가기로 결심했다.
-A_MiniBoss03_01_FirstInspect|A Mini Boss First Inspect 03 01|Storyteller|{#DialogueItalicFormat}타르타로스에서 가장 폭력적인 혼령들은 심지어 다른 저주 받은 영혼들과도 격리되어 있습니다. 그들은 찾는 자들은 탈출을 시도할 정도로 어리석은 자들뿐입니다.
-A_MiniBoss04_01_FirstInspect|A Mini Boss First Inspect 04 01|Storyteller|{#DialogueItalicFormat}저주받은 영혼들은 타르타로스의 가장 깊은 곳으로 모여들어 땅 자체와 결합하여 형언할 수 없는 형상을 이루게 됩니다.
-A_Reprieve_01_FirstInspect|A Reprieve First Inspect 01|Storyteller|{#DialogueItalicFormat}평온과 여유를 느낄 수 있는 곳. 지하세계에 그런 곳이 있을까 상상하기 어렵긴 해도 실제로 간혹 찾을 수 있습니다.
+A_PreBoss_01_FirstInspect|A Pre Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}현재 방에서 나가면 타르타로스 가장 바깥쪽 경계에 이르게 되는데, 지하세계 왕자가 생각하는 것보다 훨씬 끔찍한 위험이 도사리는 곳입니다.
+A_Boss_01_Inspect01|A Boss 01 Inspect 01|Storyteller|{#DialogueItalicFormat}분노라고도 알려진 에리니에스. 이들은 하데스의 신뢰를 받는 감시인들로 최악의 필멸자들을 고문하고 엉뚱한 곳으로 출입하려는 멍청한 이들을 지하세계에서 제거하는 임무를 맡고 있다.
+A_PostBoss_01_FirstInspect|A Post Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}타르타로스에서 나가는 길이 드디어 훤히 드러났습니다. 저 위의 불의 강 플레게톤이 뿜어내는 열기가 벌써 희미하게 느껴지기 시작합니다... 비록 앞으로 크나큰 위험이 펼쳐지겠지만 말입니다.
+A_PostBoss_01_GearsInspect01|A Post Boss 01 Gears Inspect 01|Storyteller|{#DialogueItalicFormat}하데스의 신뢰를 받는 핵심 세력 말고는 지하세계의 광범위한 영역을 연결하는 복잡한 방들에 들어가도록 허락받지 않았다. 하지만 왕자는 어떻게든 들어가기로 결심했다.
+A_MiniBoss03_01_FirstInspect|A Mini Boss 03 01 First Inspect|Storyteller|{#DialogueItalicFormat}타르타로스에서 가장 폭력적인 혼령들은 심지어 다른 저주 받은 영혼들과도 격리되어 있습니다. 그들은 찾는 자들은 탈출을 시도할 정도로 어리석은 자들뿐입니다.
+A_MiniBoss04_01_FirstInspect|A Mini Boss 04 01 First Inspect|Storyteller|{#DialogueItalicFormat}저주받은 영혼들은 타르타로스의 가장 깊은 곳으로 모여들어 땅 자체와 결합하여 형언할 수 없는 형상을 이루게 됩니다.
+A_Reprieve_01_FirstInspect|A Reprieve 01 First Inspect|Storyteller|{#DialogueItalicFormat}평온과 여유를 느낄 수 있는 곳. 지하세계에 그런 곳이 있을까 상상하기 어렵긴 해도 실제로 간혹 찾을 수 있습니다.
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}음침한 뱃사공 카론이 소유한 지옥의 물건들이 여기저기 흩어져 있습니다. 물욕에 눈이 먼 뱃사공의 갈증을 해소해 줄 사람이라면 누구든 물건을 살 수 있습니다.
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}지하세계를 관통해 흐르는 스틱스 강물은 뱃사공 카론이 필멸자들의 세계에서 혼령들을 영원한 종착역인 심연 바닥으로 인도하는 수로입니다.
 OpeningFirstInspect|Opening First Inspect|Storyteller|{#DialogueItalicFormat}수많은 방이 서로 맞물려 끊임없이 이동하고 있는 하데스의 지하세계는 죽은 자들이 언제까지나 그 안에 머무를 수밖에 없는 구조입니다.

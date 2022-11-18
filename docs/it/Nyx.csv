@@ -27,8 +27,8 @@ NyxAboutHades02|Nyx About Hades 02|Zagreus|Nyx, con tutto quel che hai fatto per
 NyxAboutHades02|Nyx About Hades 02|Nyx|Non occorre che tu stia in pena, figlio mio. Non sono un suddito che tuo padre possa castigare a proprio piacimento. Io sono la Notte: è solo grazie a me che questa Dimora sta in piedi. Tuo padre lo sa bene, e pertanto i nostri fini coincidono. Siamo obbligati a cooperare.
 NyxAboutHades02|Nyx About Hades 02|Zagreus|Ma in tal caso... se davvero non può farti nulla, perché tutte queste bugie? Riguardo alla mia vera madre, intendo?
 NyxAboutHades02|Nyx About Hades 02|Nyx|Figlio, questo... non è qualcosa di cui possa discorrere liberamente, al momento. Quando infine incontrerai tua madre... allora capirai.
-NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|Obbligati a cooperare... per forza pensavo foste marito e moglie.
-NyxAboutHades02_B|Nyx About Hades B 02|Nyx|...Noi stessi ce ne convinciamo, talvolta.
+NyxAboutHades02_B|Nyx About Hades 02 B|Zagreus|Obbligati a cooperare... per forza pensavo foste marito e moglie.
+NyxAboutHades02_B|Nyx About Hades 02 B|Nyx|...Noi stessi ce ne convinciamo, talvolta.
 NyxAboutAthena01|Nyx About Athena 01|Zagreus|Mi sono imbattuto nella dea Atena di recente, Nyx. A quanto pare ti ammira molto. Credevo che all'Olimpo quelli come noi non andassero a genio?
 NyxAboutAthena01|Nyx About Athena 01|Nyx|Di norma è come dici, figlio. Ma tu sei di famiglia, e immaginavo che Atena fosse sufficientemente saggia da comprendere le ragioni della mia richiesta. D'altronde, è stata lei a reclutare alla tua causa il resto dell'Olimpo.
 NyxAboutAthena02|Nyx About Athena 02|Zagreus|Atena ti invia i propri cortesi omaggi, Nyx. A quanto pare siete rimaste in contatto da quanto tutto questo ha avuto inizio?
@@ -240,7 +240,7 @@ NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|Ecco, a dire il vero... 
 NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|Probabilmente no. Non sarà necessario, poiché ritengo apprezzi la competizione, a modo suo. In pochi ne avrebbero l'ardire.
 NyxMegDefeated01|Nyx Meg Defeated 01|Nyx|Immagino tu abbia sconfitto Megera, figlio mio: è da un po' che la vedo aggirarsi accigliata per la sala comune. Qui sei al sicuro dalla sua frusta, ma non dalle sue parole.
 NyxMegDefeated01|Nyx Meg Defeated 01|Zagreus|Sarà meglio che vada a parlarle. Grazie per l'avvertimento, Nyx. Ci rivedremo presto, ne sono certo.
-NyxMegDefeated01_Alt|Nyx Meg Defeated Alt 01|Nyx|Immagino tu abbia sconfitto Megera, figlio mio: è da un po' che la vedo aggirarsi accigliata. Qui sei al sicuro dalla sua frusta, ma non dalle sue parole.
+NyxMegDefeated01_Alt|Nyx Meg Defeated 01 Alt|Nyx|Immagino tu abbia sconfitto Megera, figlio mio: è da un po' che la vedo aggirarsi accigliata. Qui sei al sicuro dalla sua frusta, ma non dalle sue parole.
 NyxAboutChaos01|Nyx About Chaos 01|Zagreus|Nyx, sai nulla a proposito di un'affabile entità di nome \"Caos\"? Mi ha accostato di recente, e mi ha offerto un Dono... di genere un po' particolare.
 NyxAboutChaos01|Nyx About Chaos 01|Nyx|Il Caos Primordiale... sì, li conosco bene. La tua impresa deve aver destato il loro interesse. Ti inviterei a valutare le loro offerte con cautela, ma sappi che, benché insidiosi, non sono dediti all'inganno.
 NyxAboutChaos02|Nyx About Chaos 02|Zagreus|Nyx, puoi dirmi qualcosa in più riguardo a Caos? Ho... un sacco di domande in proposito.
@@ -274,8 +274,8 @@ NyxAboutMeg02|Nyx About Meg 02|Nyx|{#DialogueItalicFormat}Ah-hahah{#PreviousForm
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|Mi fa piacere sapere che tu e Megera siate arrivati a capirvi più a fondo, figlio mio. Ammetto che nutrivo grandi speranze che foste capaci di giungere a tale risultato.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|Ti fa piacere che siamo insieme, Nyx? Pensavo temessi che simili relazioni fossero una distrazione dalle responsabilità del lavoro, e via dicendo. Ma ti sono molto grato per la tua approvazione.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|Non ho timori riguardo alla concentrazione di Megera, figlio. E comunque, è più probabile che tutto ciò la ispiri a conseguire traguardi ancor più elevati. Non che trascorrere giornate più liete non sia di per sé un traguardo sufficiente.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|Sei felice che io e Meg siamo amici ora, Nyx? Lo apprezzo, certo, anche se... mi preoccupo che ciò le sia di ostacolo nello svolgere il proprio lavoro.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|Non nutro simili timori. Siete entrambi devoti alle vostre missioni, e confido che la vostra amicizia possa resistere a bisticci occasionali. Di fatto, è proprio grazie a tali scontri che l'amicizia è sbocciata, non è vero?
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Zagreus|Sei felice che io e Meg siamo amici ora, Nyx? Lo apprezzo, certo, anche se... mi preoccupo che ciò le sia di ostacolo nello svolgere il proprio lavoro.
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Nyx|Non nutro simili timori. Siete entrambi devoti alle vostre missioni, e confido che la vostra amicizia possa resistere a bisticci occasionali. Di fatto, è proprio grazie a tali scontri che l'amicizia è sbocciata, non è vero?
 NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|Nyx... mi sono imbattuto in Thanatos, là fuori. Mi ha aiutato, ma... penso sia in collera con me. Per essere andato via così.
 NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|Thanatos si preoccupa per te, figlio mio. Spero tu capisca che la rabbia che vedi non è il reale sentimento che lo sprona. Ti prego di perdonare la sua scortesia.
 NyxAboutThanatos02|Nyx About Thanatos 02|Nyx|Thanatos è finalmente tornato a casa. Non l'hai visto, figlio mio? Ha avuto molto di cui occuparsi, ultimamente. Dev'essere stato lieto di poterti rivedere.
@@ -283,8 +283,8 @@ NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|Tu e mio f
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|Ti ringrazio, Nyx. Penso covassimo sentimenti l'uno per l'altro già da qualche tempo. Finalmente abbiamo deciso di essere onesti al riguardo.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|In tal caso, entrambi avete trovato ciò che desideravate. Ti chiedo di prenderti cura del mio diletto figliolo. Sovente temo che si sforzi fin troppo.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|{#DialogueItalicFormat}Oh{#PreviousFormat}, sta benissimo. Ma cercherò di tenerlo d'occhio, in ogni caso.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|È difficile stringere amicizie, quaggiù. Ma in Thanatos ho sempre avuto un amico fidato, come lui in me. Penso che lo capiamo meglio entrambi, adesso.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|In tal caso, possano i legami della vostra amicizia durare tanto quanto questa Dimora sarà sorretta dalle tenebre. Abbi cura del mio diletto figliolo.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Zagreus|È difficile stringere amicizie, quaggiù. Ma in Thanatos ho sempre avuto un amico fidato, come lui in me. Penso che lo capiamo meglio entrambi, adesso.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Nyx|In tal caso, possano i legami della vostra amicizia durare tanto quanto questa Dimora sarà sorretta dalle tenebre. Abbi cura del mio diletto figliolo.
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|Che cosa c'è, figlio? Sento che la tua preoccupazione è di natura diversa dal solito. Eppure, in qualche modo, mi è celata.
 NyxAboutDusa01|Nyx About Dusa 01|Zagreus|Oh, è solo... ti prego di non fraintendermi, Nyx, ma mi chiedevo se non fossi troppo dura con Dusa. Le hai chiesto di non rivolgermi la parola, per nessun motivo?
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|Le ho chiesto di badare ai propri obblighi. Temo che a volte dimentichi quale sia il suo posto. Malgrado i tuoi toni informali, sei pur sempre il principe! Solo erede di Ade, signore di questo regno per volere del Fato. Dovresti accompagnarti agli dèi, non a teste di gorgone.

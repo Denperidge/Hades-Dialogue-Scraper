@@ -144,10 +144,10 @@ AchillesAboutGiftingGods01|Achilles About Gifting Gods 01|Achilles|我通常都�
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|你看上去心事重重啊，小伙子。愿意说来听听吗？
 AchillesAboutDemeter01|Achilles About Demeter 01|Zagreus|哦，只是……我在外面遇到了得墨忒尔女神。 她提供的祝福，它们……吸取并消耗一切热量和生命。 我以为她的领域是养育水果，谷物和蔬菜等？ 我不是在抱怨。
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|所有的神灵都值得敬畏。得墨忒尔，她有能力赋予生命或夺取生命。 似乎她对后者更感兴趣。她是奥林匹斯山年龄最大的神，而你的父亲似乎对她特别讨厌。我不知道为什么。小心为妙。
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|阿喀琉斯，倪克斯和杜莎之间到底发生了什么？杜莎真的走了吗？
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|倪克斯把杜莎撵走了，小伙子。我很遗憾，我知道你很在乎她。我听说这件事情的时候，我也很震惊。我知道杜莎干活实在是过于卖力了，倪克斯对此也感到很担心，不过……我没想到她会这么做。
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|干活实在是过于卖力了……你真的觉得她是因为这个才被撵走的吗？我一直觉得这都是我的错。倪克斯不希望她和我说话，就好像她和我相比是个下等人一样！{#DialogueItalicFormat}啊{#PreviousFormat}，我到底该怎么办？
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|听着……我不太清楚这件事情的来龙去脉，听起来你也不怎么了解。倪克斯很爱你，很尊重你。我相信，她也想弄清楚这么做会对你造成怎样的影响。
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|阿喀琉斯，倪克斯和杜莎之间到底发生了什么？杜莎真的走了吗？
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|倪克斯把杜莎撵走了，小伙子。我很遗憾，我知道你很在乎她。我听说这件事情的时候，我也很震惊。我知道杜莎干活实在是过于卖力了，倪克斯对此也感到很担心，不过……我没想到她会这么做。
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|干活实在是过于卖力了……你真的觉得她是因为这个才被撵走的吗？我一直觉得这都是我的错。倪克斯不希望她和我说话，就好像她和我相比是个下等人一样！{#DialogueItalicFormat}啊{#PreviousFormat}，我到底该怎么办？
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|听着……我不太清楚这件事情的来龙去脉，听起来你也不怎么了解。倪克斯很爱你，很尊重你。我相信，她也想弄清楚这么做会对你造成怎样的影响。
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Zagreus|你看到了吗，先生？杜莎回来了！倪克斯肯定是重新考虑过了。
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Achilles|肯定是这样，小伙子。杜莎回来了，我也很高兴。而且你知道吗……？我觉得她变了，她看起来气色不错。虽然说这未必是最好的局面，但我希望会带来不错的结果。
 AchillesRunProgress01|Achilles Run Progress 01|Achilles|我最近听说，你一路杀到了水仙花平原，对不对，小伙子？
@@ -219,15 +219,15 @@ AchillesBackstory01|Achilles Backstory 01|Zagreus|阿喀琉斯，你能不能…
 AchillesBackstory01|Achilles Backstory 01|Achilles|我们的关系再好不过了。我跟他的骨灰现在还在凡界上的某处混在一起呢。要怎么说呢，小伙子。我全心全意地爱着他。但他却早早离开了我。
 AchillesBackstory01|Achilles Backstory 01|Zagreus|那他肯定在冥界的什么地方…你没试过去找他吗？或者问问我父亲？
 AchillesBackstory01|Achilles Backstory 01|Achilles|{#DialogueItalicFormat}哈，哈哈。{#PreviousFormat}我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。你也知道外头是什么样，你很难找到路。我要告诉你。如果你在茫茫暗灵之中见到了普特洛克勒斯，请给他带去我的问候。
-AchillesBackstory01B|Achilles Backstory B 01|Zagreus|但你们现在都在冥界了啊！你不能去找他吗？或者跟我父亲修改一下你们的协定？
-AchillesBackstory01B|Achilles Backstory B 01|Achilles|{#DialogueItalicFormat}哈，哈。{#PreviousFormat}我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。以后我再跟你细说吧。下次你在路上见到普特洛克勒斯的时候，替我多陪他聊聊天，可以吗？
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|进展得如何，小伙子？看你的表情。是有什么事吗？
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|就是…我在至福乐土，遇到了一个暗灵，他说他认识你。说他想你。你认识普特洛克勒斯吗，老师？
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|什么…我…认识。我认识普特洛克勒斯，他有没…他怎么样？
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|他…我不知道。他好像经历过比这更好的时光。如果下次我再遇到他，有什么要我跟他说的吗？
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|…替我带去我的问候。还有…我全部的爱。我无时无刻不在想他。但我没法再见到他。但你不准问我为什么，了解了吗？让我一人静一静吧，小伙子。给我点时间。
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Zagreus|就是…我在至福乐土，碰到了一个幽灵。就是你说的普特洛克勒斯。他过得不错，不过他好像经历过比这更好的时光。如果下次我再遇到他，有什么要我跟他说的吗？
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Achilles|噢…！那你，就，替我带去我的问候吧。还有…我全部的爱。我无时无刻不在想他。但我没法再见到他。但你不准问我为什么，了解了吗？让我一人静一静吧，小伙子。给我点时间。
+AchillesBackstory01B|Achilles Backstory 01 B|Zagreus|但你们现在都在冥界了啊！你不能去找他吗？或者跟我父亲修改一下你们的协定？
+AchillesBackstory01B|Achilles Backstory 01 B|Achilles|{#DialogueItalicFormat}哈，哈。{#PreviousFormat}我试过，小伙子，我当然试过。都试过。事实证明，事情没有你说的那样简单。以后我再跟你细说吧。下次你在路上见到普特洛克勒斯的时候，替我多陪他聊聊天，可以吗？
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|进展得如何，小伙子？看你的表情。是有什么事吗？
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|就是…我在至福乐土，遇到了一个暗灵，他说他认识你。说他想你。你认识普特洛克勒斯吗，老师？
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|什么…我…认识。我认识普特洛克勒斯，他有没…他怎么样？
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|他…我不知道。他好像经历过比这更好的时光。如果下次我再遇到他，有什么要我跟他说的吗？
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|…替我带去我的问候。还有…我全部的爱。我无时无刻不在想他。但我没法再见到他。但你不准问我为什么，了解了吗？让我一人静一静吧，小伙子。给我点时间。
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Zagreus|就是…我在至福乐土，碰到了一个幽灵。就是你说的普特洛克勒斯。他过得不错，不过他好像经历过比这更好的时光。如果下次我再遇到他，有什么要我跟他说的吗？
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Achilles|噢…！那你，就，替我带去我的问候吧。还有…我全部的爱。我无时无刻不在想他。但我没法再见到他。但你不准问我为什么，了解了吗？让我一人静一静吧，小伙子。给我点时间。
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|嗨，听我说，小伙子。关于我们上次提到的那个人，你得谨慎一点。就是你在至福乐土遇到的那个暗灵。
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Zagreus|我明白。我能做点什么，老师？一定有什么事。但是，你得让我知道到底怎么回事。
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|简单来说，就是因为他我才在这里。普特洛克勒斯比我先死。就是因为我。没多久，我也死了，盛怒之下。我来这里的时候，受到了英雄级别的款待。你父亲亲自带我去了至福乐土。但我要的不是那些。
@@ -262,14 +262,14 @@ AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Zag
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Achilles|不……我觉得，是他给了我这个机会。我……先别来找我了，小伙子，让我一个人静静吧。谢谢你和我说这些。
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Zagreus|关于放手一搏的事情，先生，你明白他这句话是什么意思了吗？你打算怎么做？
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Achilles|我还在想呢，小伙子。我在战斗的时候，可以凭着直觉马上做出判断。可如果是其它方面的话……我就得花些时间了。希望你能耐心一些，如果我想到什么的话，我会立刻告诉你的。
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|我需要你帮我个忙，小伙子。我觉得，我也应该放手一搏了，你愿意听听我的请求吗？
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|当然没问题，先生。是什么请求？我听着呢。
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|我和你父亲签署过契约，那份契约被堆在了管理大厅里的某个地方。我不敢请求你帮我把它找到，因为我害怕篡改契约可能会让事情变得更糟，除非……
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|……除非什么呢？只有弱者才会恐惧，阿喀琉斯先生。
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|确实如此。另外……你之前在撕毁无赖之王的判决书的时候，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|下次有机会的话，我和倪克斯谈谈这件事吧。我会小心的，先生，我向你保证。
-AchillesAboutMyrmidonReunionQuest03_B|Achilles About Myrmidon Reunion Quest B 03|Achilles|确实如此。另外……你之前撕毁俄耳甫斯与欧律狄刻的契约，让他们团聚的时候，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
-AchillesAboutMyrmidonReunionQuest03_C|Achilles About Myrmidon Reunion Quest C 03|Achilles|确实如此。另外……你之前撕毁俄耳甫斯和西西弗斯那些人的契约时，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|我需要你帮我个忙，小伙子。我觉得，我也应该放手一搏了，你愿意听听我的请求吗？
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|当然没问题，先生。是什么请求？我听着呢。
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|我和你父亲签署过契约，那份契约被堆在了管理大厅里的某个地方。我不敢请求你帮我把它找到，因为我害怕篡改契约可能会让事情变得更糟，除非……
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|……除非什么呢？只有弱者才会恐惧，阿喀琉斯先生。
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|确实如此。另外……你之前在撕毁无赖之王的判决书的时候，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|下次有机会的话，我和倪克斯谈谈这件事吧。我会小心的，先生，我向你保证。
+AchillesAboutMyrmidonReunionQuest03_B|Achilles About Myrmidon Reunion Quest 03 B|Achilles|确实如此。另外……你之前撕毁俄耳甫斯与欧律狄刻的契约，让他们团聚的时候，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
+AchillesAboutMyrmidonReunionQuest03_C|Achilles About Myrmidon Reunion Quest 03 C|Achilles|确实如此。另外……你之前撕毁俄耳甫斯和西西弗斯那些人的契约时，你的父亲对你的容忍程度比我想象得更高……所以，说不定我的希望还没有破灭呢。
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Zagreus|我还在找你的契约，阿喀琉斯。我只要再花点时间去找找就行了。
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Achilles|我有的是耐心，小伙子，而且我绝不会放弃希望。谢谢你为这件事情奔走。等到我们下次再提起这件事的时候，或许就是你成功的时候了。
 MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Zagreus|阿喀琉斯！你和我父亲的契约已经正式修正了，先生。确切地说，在你无限期的任职期间，已经不会再有人禁止你进入至福乐土了。我以哈迪斯之名在此授权，感谢你一直以来的服务。
@@ -360,33 +360,33 @@ AchillesGift02|Achilles Gift 02|Achilles|不会吧，这个是给我的？你真
 AchillesGift02|Achilles Gift 02|Zagreus|我只是觉得你确实配得上这些，阿喀琉斯。
 AchillesGift03|Achilles Gift 03|Achilles|什么，给我…？我不能接受这样的东西，小伙子，你明白的。
 AchillesGift03|Achilles Gift 03|Zagreus|拿着吧，阿喀琉斯，别死脑筋啦…这是你应得的。我俩谁也别说出去。
-AchillesGift04_A|Achilles Gift A 04|Achilles|{#DialogueItalicFormat}啊{#PreviousFormat}，注意听我说，小伙子！我不想认为你只是单纯为了把这个带给我才回来。虽然我真的很高兴。
-AchillesGift04_A|Achilles Gift A 04|Zagreus|你一直在支持着我，阿喀琉斯。就算父亲冷眼待我。这没什么的。这恩情我永远报答不完。
-AchillesGift05_A|Achilles Gift A 05|Achilles|小伙子，你这么大方，我…我不想让你会错意。我确实是单身，但是我的心早已有所属。从我还活着的时候就是这样。我希望你可以理解。
-AchillesGift05_A|Achilles Gift A 05|Zagreus|我…明白你的意思，阿喀琉斯。不管怎么样我都想让你收下这个，只是…别再借酒消愁了，表面上有效，实际上只会让你更忧愁。
-AchillesGift05_A|Achilles Gift A 05|Achilles|谢谢，你不用担心我的。我早已不再忧愁了，第一次心碎时的愤怒也不复存在。这些只不过是另一道伤疤。人们说伤疤赋予了我们个性。
-AchillesGift05_B|Achilles Gift B 05|Achilles|小伙子，你太慷慨了，我……我不过是个年迈的杀人犯，而你却像对待座上宾一样接待我。我来这座圣殿的时候，一点都没想过能得到这样的待遇。
-AchillesGift05_B|Achilles Gift B 05|Zagreus|你生前是个伟大的英雄，阿喀琉斯，而且你知道吗？你现在也是！要我说的话，你以后也会一样伟大。你应得的礼遇远远不止如此，我要是能多做点什么就好了。
-AchillesGift05_B|Achilles Gift B 05|Achilles|谢谢你，不用惦记我的事情了。我能来这里已经很幸运了，而且……作为老师，我恐怕找不到比你更出色的学生了。
-AchillesGift06_A|Achilles Gift A 06|Zagreus|阿喀琉斯，要不要跟我一起在休息室分享一下？我们都可以稍微休息一下嘛。
-AchillesGift06_A|Achilles Gift A 06|Achilles|你确定你现在有时间吗，小伙子…？我怎好拒绝呢。到时候见。
-AchillesGift06_A|Achilles Gift A 06|Achilles|…我好笨啊，你知道吗。众神许诺我超越死亡的永恒荣耀。我本可以不用打仗。和普特洛克勒斯一起生活。我放弃了一切。在这个地方虚度时光。
-AchillesGift06_A|Achilles Gift A 06|Zagreus|过去的事都过去了，老师。在我心目中你是有史以来最伟大的战士。所以你现在是追寻荣耀，还是普特洛克勒斯？
-AchillesGift06_A|Achilles Gift A 06|Achilles|再没有什么荣耀可言了，小伙子。我很确定。不过普特洛克勒斯，我…恐怕他已经永远离我而去了。尽管他的暗灵仍在这国度里，如果我是他，我是不会原谅这样的离别的。哎…我现在要回去自己的岗位了。
-AchillesGift06_A|Achilles Gift A 06|Achilles|…我希望自己没给这地方留下什么大阴影。很高兴我们能像这样聚在一起。现在你该走了！一路保重！
-AchillesGift07_A|Achilles Gift A 07|Zagreus|阿喀琉斯，等你下次再去至福乐土的时候，我觉得或许你们可以一起享受一下这瓶美酒。
-AchillesGift07_A|Achilles Gift A 07|Achilles|是仙馔密酒啊……我很荣幸，小伙子，真的。你明明为我做了这么多事情，应该是我送给你礼物才对。说到这个，我这里刚好有件礼物要给你，这是我和小普的心意。
-AchillesGift08_A|Achilles Gift A 08|Zagreus|我想象不出还有谁能比你更配得上这件礼物了，先生。等你下次再休息，或者什么时候有空的话，好好享受一下吧，好吗？
-AchillesGift08_A|Achilles Gift A 08|Achilles|我猜当神仙的感觉大概就是这样了吧，小伙子。能得到大家如此喜爱，还能收到这么美妙的礼物！真的要送给我吗？
-AchillesGift08_A|Achilles Gift A 08|Zagreus|哦，当然了，要不是因为您的教导，我恐怕永远都没办法为注定要面对的事情做好准备。而且， 我指的也不仅仅是打架的那部分。
-AchillesGift08_A|Achilles Gift A 08|Achilles|你太客气了，小伙子。我承认我确实教得不错，但我也不过是个莽夫罢了。如果我是你的话，我会对我的建议多留个心眼才是。
-AchillesGift08_A|Achilles Gift A 08|Zagreus|你看，所以我才说，你总能给我出色的建议！
-AchillesGift09_A|Achilles Gift A 09|Zagreus|这是给你和普特洛克勒斯的礼物，先生！你不远千里来到这里，希望这种永恒的残片足以弥补你这一路上遇到的艰险。
-AchillesGift09_A|Achilles Gift A 09|Achilles|哦，谢谢你，小伙子。扎格列欧斯，王子殿下，这真的是太破费了。这次我会收下你的礼物，不过，下次还是不要了吧。
-AchillesGift09_A|Achilles Gift A 09|Zagreus|真的吗？我……我无意冒犯，当然没问题了，只是……你不是挺喜欢这种酒的吗？
-AchillesGift09_A|Achilles Gift A 09|Achilles|我们确实很喜欢，老实说，相当喜欢。不过在至福乐土……礼物是要靠自己争取来的，而不是靠别人给的，而且……或许在这里的日子，让我们多少找回了曾经的荣誉感。
-AchillesGift09_A|Achilles Gift A 09|Zagreus|是嘛，那很好，你有很多地方值得自豪，阿喀琉斯。你是个伟大的战士，伟大的导师，伟大的朋友。
-AchillesGift09_A|Achilles Gift A 09|Achilles|……说真的，小伙子，如果说我有什么值得自豪的地方……那就是，能有像你这样的人，认认真真地对我说出这样的话。
+AchillesGift04_A|Achilles Gift 04 A|Achilles|{#DialogueItalicFormat}啊{#PreviousFormat}，注意听我说，小伙子！我不想认为你只是单纯为了把这个带给我才回来。虽然我真的很高兴。
+AchillesGift04_A|Achilles Gift 04 A|Zagreus|你一直在支持着我，阿喀琉斯。就算父亲冷眼待我。这没什么的。这恩情我永远报答不完。
+AchillesGift05_A|Achilles Gift 05 A|Achilles|小伙子，你这么大方，我…我不想让你会错意。我确实是单身，但是我的心早已有所属。从我还活着的时候就是这样。我希望你可以理解。
+AchillesGift05_A|Achilles Gift 05 A|Zagreus|我…明白你的意思，阿喀琉斯。不管怎么样我都想让你收下这个，只是…别再借酒消愁了，表面上有效，实际上只会让你更忧愁。
+AchillesGift05_A|Achilles Gift 05 A|Achilles|谢谢，你不用担心我的。我早已不再忧愁了，第一次心碎时的愤怒也不复存在。这些只不过是另一道伤疤。人们说伤疤赋予了我们个性。
+AchillesGift05_B|Achilles Gift 05 B|Achilles|小伙子，你太慷慨了，我……我不过是个年迈的杀人犯，而你却像对待座上宾一样接待我。我来这座圣殿的时候，一点都没想过能得到这样的待遇。
+AchillesGift05_B|Achilles Gift 05 B|Zagreus|你生前是个伟大的英雄，阿喀琉斯，而且你知道吗？你现在也是！要我说的话，你以后也会一样伟大。你应得的礼遇远远不止如此，我要是能多做点什么就好了。
+AchillesGift05_B|Achilles Gift 05 B|Achilles|谢谢你，不用惦记我的事情了。我能来这里已经很幸运了，而且……作为老师，我恐怕找不到比你更出色的学生了。
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|阿喀琉斯，要不要跟我一起在休息室分享一下？我们都可以稍微休息一下嘛。
+AchillesGift06_A|Achilles Gift 06 A|Achilles|你确定你现在有时间吗，小伙子…？我怎好拒绝呢。到时候见。
+AchillesGift06_A|Achilles Gift 06 A|Achilles|…我好笨啊，你知道吗。众神许诺我超越死亡的永恒荣耀。我本可以不用打仗。和普特洛克勒斯一起生活。我放弃了一切。在这个地方虚度时光。
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|过去的事都过去了，老师。在我心目中你是有史以来最伟大的战士。所以你现在是追寻荣耀，还是普特洛克勒斯？
+AchillesGift06_A|Achilles Gift 06 A|Achilles|再没有什么荣耀可言了，小伙子。我很确定。不过普特洛克勒斯，我…恐怕他已经永远离我而去了。尽管他的暗灵仍在这国度里，如果我是他，我是不会原谅这样的离别的。哎…我现在要回去自己的岗位了。
+AchillesGift06_A|Achilles Gift 06 A|Achilles|…我希望自己没给这地方留下什么大阴影。很高兴我们能像这样聚在一起。现在你该走了！一路保重！
+AchillesGift07_A|Achilles Gift 07 A|Zagreus|阿喀琉斯，等你下次再去至福乐土的时候，我觉得或许你们可以一起享受一下这瓶美酒。
+AchillesGift07_A|Achilles Gift 07 A|Achilles|是仙馔密酒啊……我很荣幸，小伙子，真的。你明明为我做了这么多事情，应该是我送给你礼物才对。说到这个，我这里刚好有件礼物要给你，这是我和小普的心意。
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|我想象不出还有谁能比你更配得上这件礼物了，先生。等你下次再休息，或者什么时候有空的话，好好享受一下吧，好吗？
+AchillesGift08_A|Achilles Gift 08 A|Achilles|我猜当神仙的感觉大概就是这样了吧，小伙子。能得到大家如此喜爱，还能收到这么美妙的礼物！真的要送给我吗？
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|哦，当然了，要不是因为您的教导，我恐怕永远都没办法为注定要面对的事情做好准备。而且， 我指的也不仅仅是打架的那部分。
+AchillesGift08_A|Achilles Gift 08 A|Achilles|你太客气了，小伙子。我承认我确实教得不错，但我也不过是个莽夫罢了。如果我是你的话，我会对我的建议多留个心眼才是。
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|你看，所以我才说，你总能给我出色的建议！
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|这是给你和普特洛克勒斯的礼物，先生！你不远千里来到这里，希望这种永恒的残片足以弥补你这一路上遇到的艰险。
+AchillesGift09_A|Achilles Gift 09 A|Achilles|哦，谢谢你，小伙子。扎格列欧斯，王子殿下，这真的是太破费了。这次我会收下你的礼物，不过，下次还是不要了吧。
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|真的吗？我……我无意冒犯，当然没问题了，只是……你不是挺喜欢这种酒的吗？
+AchillesGift09_A|Achilles Gift 09 A|Achilles|我们确实很喜欢，老实说，相当喜欢。不过在至福乐土……礼物是要靠自己争取来的，而不是靠别人给的，而且……或许在这里的日子，让我们多少找回了曾经的荣誉感。
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|是嘛，那很好，你有很多地方值得自豪，阿喀琉斯。你是个伟大的战士，伟大的导师，伟大的朋友。
+AchillesGift09_A|Achilles Gift 09 A|Achilles|……说真的，小伙子，如果说我有什么值得自豪的地方……那就是，能有像你这样的人，认认真真地对我说出这样的话。
 AchillesGift04|Achilles Gift 04|Achilles|哎呀。真的太感谢你了，小伙子。
 AchillesGift04|Achilles Gift 04|Zagreus|感谢你一直以来的教导，老师。
 AchillesGift07|Achilles Gift 07|Achilles|有了这个，我一定会羡煞圣殿里所有的人，谢谢你，小伙子。希望你不介意我向四周分享一点吧？

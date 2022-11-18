@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|Życzę ci powodzenia w twej nieustaj�
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|Widziałeś destrukcyjną moc niebios w czystej formie! Wyobraź sobie tylko, jak to jest na powierzchni ziemi!
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|Pewnego dnia, gdy będziemy się wylegiwać na tych wzgórzach, cóż... spojrzymy wstecz i będziemy się śmiać, jestem tego pewien!
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}Ach{#PreviousFormat}, czyż to nie mój ulubiony siostrzeniec! Zawsze dążący do powierzchni mego świata. Twój ojciec z pewnością nie wierzy, że może cię powstrzymać, czyż nie?
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|Masz moje błogosławieństwo teraz, jak i zawsze, młodzianie.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|Ufam, że uda ci się wkrótce stamtąd wydostać, Bratanku.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|Będę nad tobą czuwał, młodzianie, choć jakże ciemno jest tam na dole!
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|Niechaj moc Olimpu prowadzi cię pośród cieni, Bratanku.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|Nie pozwól, by twój ojciec zalazł ci za skórę, młodzianie i wydostań się stamtąd.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|Zagreusie, nie zrezygnujemy z ciebie - więc nie poddawaj się, {#DialogueItalicFormat}hm{#PreviousFormat}?
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|Masz moje błogosławieństwo teraz, jak i zawsze, młodzianie.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|Ufam, że uda ci się wkrótce stamtąd wydostać, Bratanku.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|Będę nad tobą czuwał, młodzianie, choć jakże ciemno jest tam na dole!
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|Niechaj moc Olimpu prowadzi cię pośród cieni, Bratanku.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|Nie pozwól, by twój ojciec zalazł ci za skórę, młodzianie i wydostań się stamtąd.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|Zagreusie, nie zrezygnujemy z ciebie - więc nie poddawaj się, {#DialogueItalicFormat}hm{#PreviousFormat}?
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|Sprawię, że same niebiosa pomogą ci w twej wspinaczce, Bratanku.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|Uważaj na siebie tam na dole, dobrze, młodzianie?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|My wszyscy wspieramy cię, młodzianie!
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|Proszę, Wuju Lordzie Zeusie, przyjmij ten podar
 ZeusGift05|Zeus Gift 05|Zeus|Bardzo mnie cieszy, że okazujesz tyle szacunku i podziwu swemu wujowi, Zagreusie. Daleko zajdziesz tutaj na Olimpie, z takim nastawieniem. Nie każdy ma takie maniery, ani też tyle mądrości.
 ZeusGift06|Zeus Gift 06|Zagreus|Jeśli mnie słyszysz, potężny Wuju Zeusie, chciałbym podarować ci ten prosty podarunek i wraz z nim moje pokorne życzenie, abyście kiedyś z Ojcem rozwiązali wszystkie wasze różnice i żyli w pokoju.
 ZeusGift06|Zeus Gift 06|Zeus|{#DialogueItalicFormat}Ach{#PreviousFormat}, najwspanialsza z ofiar, młodzianie. I choć jeszcze nie spotkaliśmy się osobiście, to już czuję, że jesteśmy sobie bliscy, cóż, w zasadzie, nawet bardziej niż ty musisz być nawet ze swoim ojcem! {#DialogueItalicFormat}Och, hahaha! {#PreviousFormat}Może powinniśmy powiedzieć wszystkim, że {#DialogueItalicFormat}jam {#PreviousFormat}jest twoim prawdziwym ojcem, mam rację?
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}Ach{#PreviousFormat}, najwspanialsza z ofiar, młodzianie. Czuję, że już jesteśmy sobie bliscy, cóż, w zasadzie, nawet bardziej niż ty musisz być nawet ze swoim ojcem! {#DialogueItalicFormat}Och, hahaha! {#PreviousFormat}Może powinniśmy powiedzieć wszystkim, że {#DialogueItalicFormat}jam {#PreviousFormat}jest twoim prawdziwym ojcem, mam rację?
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}Ach{#PreviousFormat}, najwspanialsza z ofiar, młodzianie. Czuję, że już jesteśmy sobie bliscy, cóż, w zasadzie, nawet bardziej niż ty musisz być nawet ze swoim ojcem! {#DialogueItalicFormat}Och, hahaha! {#PreviousFormat}Może powinniśmy powiedzieć wszystkim, że {#DialogueItalicFormat}jam {#PreviousFormat}jest twoim prawdziwym ojcem, mam rację?
 ZeusGift07|Zeus Gift 07|Zagreus|Królu Olimpu, Lordzie Zeusie! Wybacz, że oferuję Ambrozję, wiem, że macie jej tam pod dostatkiem. Ale tutaj jest to najwspanialszy prezent, jaki można dać, a wciąż jest to nic w porównaniu ze wszystkim, co dla mnie zrobiłeś. Dziękuję, Wuju.
 ZeusGift07|Zeus Gift 07|Zeus|Hola, hola, Bratanku! Nie ma co kryć, że najhojniej obdarowujesz mnie swoim szacunkiem. Jednak musimy się trochę zdystansować, nie uważasz? Nie chcę wzbudzać niczyjej zazdrości, a tak by się stało, gdyby przyłapano mnie, że jesteś moim ulubieńcem. Co nie zmienia faktu, że {#DialogueItalicFormat}jesteś {#PreviousFormat}moim ulubieńcem! Przynajmniej jak na razie.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|{#DialogueItalicFormat}Tsk{#PreviousFormat}, {#DialogueItalicFormat}umm{#PreviousFormat}, Zagreusie... zamiast powitać cię, jak to zazwyczaj robię, pozwól, że przedstawię ci mego znamienitego, łaskawego i hojnego lorda ojca - twego najwspanialszego Wuja Zeusa!

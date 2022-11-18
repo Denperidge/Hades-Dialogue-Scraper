@@ -9,9 +9,9 @@ MegaeraBedroom02|Megaera Bedroom 02|Megaera|넌 모를 걸. 내가 하려는 말
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|무슨 말이지?
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|그러니까... 네가 어머니를 찾으려 한다는 거 알아, 자그레우스. 나도 할 일이 있지만, 널 도울 방법을 알아볼게.
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|메가이라...! {#DialogueItalicFormat}아{#PreviousFormat}.
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|나도 알아. 미안해. 하지만 내가 해야 하는 일이야. 넌 이해 못하겠지만.
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|부담이 줄다니... 잠깐, 그럼 넌 이제 뭘 하려고?
-MegaeraBedroom02B|Megaera Bedroom B 02|Megaera|그러니까... 너한테 할 일이 있다는 건 나도 알아, 자그레우스. 나랑 내 자매들은 널 막으려 하겠지. 하지만 내가 널 막는 건 그게 내 일이기 때문이야. 내 말 알겠어?
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|나도 알아. 미안해. 하지만 내가 해야 하는 일이야. 넌 이해 못하겠지만.
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|부담이 줄다니... 잠깐, 그럼 넌 이제 뭘 하려고?
+MegaeraBedroom02B|Megaera Bedroom 02 B|Megaera|그러니까... 너한테 할 일이 있다는 건 나도 알아, 자그레우스. 나랑 내 자매들은 널 막으려 하겠지. 하지만 내가 널 막는 건 그게 내 일이기 때문이야. 내 말 알겠어?
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|메가이라... 이렇게 놀라울 데가. 다시. 뭔가? ...무슨 일이야? 잠깐. 왜 그런 눈으로 보는 거야?
 BecameCloseWithMegaera01|Became Close With Megaera 01|Megaera|자그레우스, 그런 멍청한 질문은 그만하고 이쪽으로 올래? 지금 당장.
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|...난... 넌 정말... 아...
@@ -37,12 +37,12 @@ Text|Text|Zagreus|...또 보자, 타나토스.
 Text|Text|Zagreus|...내 말 좀 들어 봐. 너희 둘 다 내겐 참 소중해. 우리가 이렇게 가까워져서 기뻐... 너희가 예전처럼 서로 죽이려 들지 않고 가까워져서 말이야. 하지만 이건 내가 당장 받아들이기엔 좀 과한 것 같다.
 Text|Text|Megaera|...확실해? 야... 난 완전 괜찮아. 그럼 밖에서 보자고.
 Text|Text|Thanatos|나중에 또 이야기하자, 알겠지?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|입 다물어, 자그레우스. 이리 와.
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|넌 질문이 너무 많아, 자그레우스. 하지만 좋아. 우리 다시 사귀는 거야. 지금은. 하지만 다른 영혼한테 말하면 죽여버린다, 알겠어?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|하지만... 잠깐... 타나토스도 안 돼?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|타나토스는 바보가 아니야. 네가 잘 되기를 바라지. 타나토스는 질투심이 많은 편이야. 게다가 너도 알다시피 나는 타나토스랑 업무적으로 좋은 관계를 유지하고 있어.
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|맞아, 하지만... 넌 어때. 넌 질투를 처벌하는 자잖아. 만약 내가...
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|우리는 필멸자가 아니야, 자그레우스. 필멸자들은 삶이 짧으니 서로에게 강렬하게 이끌리지. 우리가 그럴 게 뭐 있어? 내가 닉스한테 배운 한 가지는 마음에는 한계가 없다는 거야. 이제 걱정은 그만하고 밖에서 다시 만날 때를 대비하도록 해. 또 보자.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|입 다물어, 자그레우스. 이리 와.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|넌 질문이 너무 많아, 자그레우스. 하지만 좋아. 우리 다시 사귀는 거야. 지금은. 하지만 다른 영혼한테 말하면 죽여버린다, 알겠어?
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|하지만... 잠깐... 타나토스도 안 돼?
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|타나토스는 바보가 아니야. 네가 잘 되기를 바라지. 타나토스는 질투심이 많은 편이야. 게다가 너도 알다시피 나는 타나토스랑 업무적으로 좋은 관계를 유지하고 있어.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|맞아, 하지만... 넌 어때. 넌 질투를 처벌하는 자잖아. 만약 내가...
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|우리는 필멸자가 아니야, 자그레우스. 필멸자들은 삶이 짧으니 서로에게 강렬하게 이끌리지. 우리가 그럴 게 뭐 있어? 내가 닉스한테 배운 한 가지는 마음에는 한계가 없다는 거야. 이제 걱정은 그만하고 밖에서 다시 만날 때를 대비하도록 해. 또 보자.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|자그레우스, 너는 문도 없잖아. 왜 그렇게 항상 놀라는 거야?
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 메가이라, 타나토스. 너네... 너네 둘... 뭔 일이야? 내게 해명할 시간을 줘... 잠깐만. 둘 다 웃고 있잖아. 아... 잠깐만... 받아들일 시간이 필요해.
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|너 타나토스랑 내 사이를 너무 무시했어. 우리 둘은 네 평생보다 더 오래 알고 지냈다고.
@@ -172,14 +172,14 @@ FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|그러실 필요가. �
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|{#DialogueItalicFormat}쯧쯧{#PreviousFormat}. 믿을 수가 없네. 형벌 규약에 서명하다니. 완전히 정신이 나간 거야? 아니면 날 모욕하려고 이러는 거야?
 FuryPactReaction01|Fury Pact Reaction 01|Zagreus|그렇게 무례하게 나온다면, 아마 그럴지도? 그나저나, 내가 어디다 서명을 하든 무슨 상관이지?
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|내가 바보인 줄 알아? 무슨 수작인지 다 알아. 벌을 받고 싶다고? 그렇다면 덤벼.
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}. 형벌 규약을 자원한 거야? 이젠 돌이킬 수 없어. 넌 내 생각보다 훨씬 멍청하구나.
-FuryPactReaction01_B|Fury Pact Reaction B 01|Zagreus|내가 그냥 도전을 좋아하는 거라는 생각은 안 해봤어? 게다가 내가 규약을 어떻게 하든 네가 무슨 상관이야?
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|맞아. 나랑 {#DialogueItalicFormat}상관없는 {#PreviousFormat}일이지. 그렇게 혼나고 싶다면 내가 거들어줄게.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}. 형벌 규약을 자원한 거야? 이젠 돌이킬 수 없어. 넌 내 생각보다 훨씬 멍청하구나.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Zagreus|내가 그냥 도전을 좋아하는 거라는 생각은 안 해봤어? 게다가 내가 규약을 어떻게 하든 네가 무슨 상관이야?
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|맞아. 나랑 {#DialogueItalicFormat}상관없는 {#PreviousFormat}일이지. 그렇게 혼나고 싶다면 내가 거들어줄게.
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|너랑 제대로 붙을 날을 고대해 왔어. 이러려고 규약에 서명한 거 아니야? 날 동정하려고?
 FuryPactReaction02|Fury Pact Reaction 02|Zagreus|나름대로 이유가 있어서 한 일이야. 그중에 너에 대한 동정은 이유가 아니야. 이렇게 말해 봤자 내 말 안 믿겠지만 말이야. 안 그래?
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|네가 원하는 게 형벌이라면, 내가 거절할 이유가 없지.
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|네 형벌 규약 덕분에 내가 평소보다 세게 때릴 수 있어. 그래서 서명한 건가? 나를 동정해서?
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|안 믿지. 그럼 어디 네 동정심이 어떤 결과를 불러일으킬지 보자고.
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|네 형벌 규약 덕분에 내가 평소보다 세게 때릴 수 있어. 그래서 서명한 건가? 나를 동정해서?
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|안 믿지. 그럼 어디 네 동정심이 어떤 결과를 불러일으킬지 보자고.
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|빨리 끝날거야, 자그레우스. 네가 강제 연장전을 선택할 놈은 아닌 줄 알았는데. 그 규약은 겁쟁이들하고는 안 어울리니까 말이야.
 FuryPactReaction04|Fury Pact Reaction 04|Zagreus|말로 상처를 주는구나, 메가이라! 내가 무모하게 달려든 다음에 생각하는 성격인거 잘 알잖아. 강제 연장전이 딱 맞지!
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|{#DialogueItalicFormat}아아{#PreviousFormat}. 그래, 그렇다면 그렇지. 난 분명 경고했다.
@@ -210,9 +210,9 @@ FuryKeepsakeReaction01|Fury Keepsake Reaction 01|Megaera|놈들은 잘 세운 �
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|네게서 죽음이 느껴지는군, 자그레우스. 타나토스한테서 뭘 받았나 봐?
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Zagreus|아, 이 낡은 거? 타나토스가 나한테 준 나비인데 별 거 없어. 그냥 나한테 평소보다 더 강력한 힘을 줄 뿐이지. 신경 쓰지 않아도 돼.
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|타나토스도 여기선 널 도울 수 없어. 하지만 벌레 채집을 해야 한다면 누굴 불러야 좋을지 알겠네.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|배티가 여기선 안 도와주는 거 알지? 나도 당연히 이건 안 도와줄 거야.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Zagreus|그러지 마, 메가이라. 네가 마음만 먹으면 못할 게 뭐가 있어. 하지만 걱정하지 마. 배티는 그냥 이걸 보여주려고 데려온 거니까.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|멋진 쇼여야 할 거야. 덤벼.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|배티가 여기선 안 도와주는 거 알지? 나도 당연히 이건 안 도와줄 거야.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Zagreus|그러지 마, 메가이라. 네가 마음만 먹으면 못할 게 뭐가 있어. 하지만 걱정하지 마. 배티는 그냥 이걸 보여주려고 데려온 거니까.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|멋진 쇼여야 할 거야. 덤벼.
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|그 작은 박쥐 컴패니언은 네가 다루기엔 벅차지 않아, 자그레우스? 잘 돌보고 있으리라 믿을게. 걔한테 네 도움이 필요하지도 않겠지만.
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Zagreus|어, 전혀 문제 없어. 고마워, 메가이라. 특히 내가 도움이 필요하면 항상 나타나 주거든. 서로 가끔 도움을 주고 받는 게 그렇게 힘든 일은 아니잖아?
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|힘든 일이 싫다면 여기 오질 말았어야지.
@@ -319,7 +319,7 @@ FuryMiscStart11|Fury Misc Start 11|Megaera|싸우지 않고는 도저히 못 보
 FuryMiscStart12|Fury Misc Start 12|Megaera|또 너구나.
 FuryMiscStart13|Fury Misc Start 13|Megaera|날 만나러 이 먼 길을 온 거야?
 FuryMiscStart14|Fury Misc Start 14|Megaera|바짝 긴장하는 게 좋을 거야, 자그레우스.
-FuryMiscStart15A|Fury Misc Start A 15|Megaera|가끔 보면 참 부지런해. 그건 인정해 줄게.
+FuryMiscStart15A|Fury Misc Start 15 A|Megaera|가끔 보면 참 부지런해. 그건 인정해 줄게.
 FuryMiscStart15|Fury Misc Start 15|Megaera|거기서, 자그레우스. 한 발짝도 더 움직이지 마.
 FuryMiscStartMaxRelationship01|Fury Misc Start Max Relationship 01|Megaera|한 판 더 할래, 자그레우스?
 FuryMiscStartMaxRelationship02|Fury Misc Start Max Relationship 02|Megaera|날 통과할 수 있을지 어디 보자고.
@@ -341,12 +341,12 @@ FuryMiscStartMaxRelationship18|Fury Misc Start Max Relationship 18|Megaera|날 �
 FuryMiscStartMaxRelationship19|Fury Misc Start Max Relationship 19|Megaera|이 말만은 해 줄게. 날 오래 기다리게 하는 법이 없네.
 FuryMiscStartMaxRelationship20|Fury Misc Start Max Relationship 20|Megaera|아주 좋아 보이는데, 자그레우스. 어디, 어떻게 해줄까.
 FuryMiscStartMaxRelationship21|Fury Misc Start Max Relationship 21|Megaera|고통이 없이는 쾌락도 없다. 그렇지, 자그레우스?
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|으, 저놈 좀 {#DialogueItalicFormat}봐{#PreviousFormat}! 저 얼굴, 태도, 모든 게 {#DialogueItalicFormat}마음에 안 들어{#PreviousFormat}! 저 쓰레기 신을 곱게 보내 줄 생각은 아니지, 동생아?
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Megaera|진정해, 언니. 언제부터 우리가 서로 허락을 구했다고 그래? 게다가 어차피 죽일 건데 무슨 상관이야?
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|맞는 말이야, 동생아! 속이 시원하네. {#DialogueItalicFormat}이제 죽이자{#PreviousFormat}!
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|저 볼썽사나운 꼴을 좀 봐. 이 깨끗한 바닥에 또 피를 흘려놓으려고 왔군. 내 사랑하는 동생들하고 싸울 준비는 됐니, 피 빨간 녀석아?
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Megaera|알고 보면 그렇게 나쁜 녀석은 아냐, 언니. 그렇다고 안 죽일 건 아니지만.
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|너네 둘 다 정말 밥맛인 거 아니? 정신 차리고 이번에야말로 놈을 {#DialogueItalicFormat}죽여{#PreviousFormat}!
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|으, 저놈 좀 {#DialogueItalicFormat}봐{#PreviousFormat}! 저 얼굴, 태도, 모든 게 {#DialogueItalicFormat}마음에 안 들어{#PreviousFormat}! 저 쓰레기 신을 곱게 보내 줄 생각은 아니지, 동생아?
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Megaera|진정해, 언니. 언제부터 우리가 서로 허락을 구했다고 그래? 게다가 어차피 죽일 건데 무슨 상관이야?
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|맞는 말이야, 동생아! 속이 시원하네. {#DialogueItalicFormat}이제 죽이자{#PreviousFormat}!
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|저 볼썽사나운 꼴을 좀 봐. 이 깨끗한 바닥에 또 피를 흘려놓으려고 왔군. 내 사랑하는 동생들하고 싸울 준비는 됐니, 피 빨간 녀석아?
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Megaera|알고 보면 그렇게 나쁜 녀석은 아냐, 언니. 그렇다고 안 죽일 건 아니지만.
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|너네 둘 다 정말 밥맛인 거 아니? 정신 차리고 이번에야말로 놈을 {#DialogueItalicFormat}죽여{#PreviousFormat}!
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|...거기 저 물건은 뭐죠? 딱 봐도 밀수품 같은데.
 AchillesWithMegaera01|Achilles With Megaera 01|Achilles|맞아, 아가씨. 때마침 와 줘서 반갑군. 이걸 신속히 폐기하려 하는데 아가씨가 좀 도와주면 좋겠어.
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|그럼 즉시 처리하죠. 괜히 집 안에서 이런 물건이 발각되어 문제가 복잡해지기 전에.
@@ -403,18 +403,18 @@ DusaChatWithMegaera09|Dusa Chat With Megaera 09|Megaera|...하지만 두사, 때
 MegaeraMeeting01|Megaera Meeting 01|Megaera|쯧쯧. 탕아가 돌아왔네.... 다들 내가 널 많이 봐줬다고 하던데, 자그레우스.
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|걱정하지 마, 메가이라. 결국에는 고통스러운 과정을 겪고 집에 돌아왔으니.
 MegaeraMeeting01|Megaera Meeting 01|Megaera|나한테도 나름 지켜야 할 평판이란 게 있다고. 또 한 번 날 그냥 그렇게 지나갈 거면 끝까지 갈 각오하는 게 좋을 거야. 자, 이만하고, 다음번에 나와 다시 만나면 이번처럼 운이 좋지 않을 거야.
-MegaeraMeeting01_B|Megaera Meeting B 01|Zagreus|걱정하지 마, 메가이라. 결국 나는 고통스러운 방법으로 간신히 집에 돌아왔지만... 난 네가 생각한 것보다 훨씬 멀리 갈 수도 있었어.
-MegaeraMeeting01_B|Megaera Meeting B 01|Megaera|날 지나갈 생각은 않는 게 좋을 거야. 난 평판을 소중히 하거든. 다음에 밖에서 만나면 그렇게 운이 좋지 못할 걸.
+MegaeraMeeting01_B|Megaera Meeting 01 B|Zagreus|걱정하지 마, 메가이라. 결국 나는 고통스러운 방법으로 간신히 집에 돌아왔지만... 난 네가 생각한 것보다 훨씬 멀리 갈 수도 있었어.
+MegaeraMeeting01_B|Megaera Meeting 01 B|Megaera|날 지나갈 생각은 않는 게 좋을 거야. 난 평판을 소중히 하거든. 다음에 밖에서 만나면 그렇게 운이 좋지 못할 걸.
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|있지, {#DialogueItalicFormat}어{#PreviousFormat}, 네가 마시는 게 뭐야, 메가이라? 좋은 거야?
 MegaeraMeeting02|Megaera Meeting 02|Megaera|뭔지 모르겠지만 굉장히 약해. 너무 약해서 네 피인 줄 알았잖아.
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|좋아! 그럼 난 갈 테니 실컷 즐기라고.
-MegaeraMeeting02Cont|Megaera Meeting Cont 02|Megaera|다음에 만나면 아주 갈기갈기 찢어 죽여 줄 테니, 명심해.
+MegaeraMeeting02Cont|Megaera Meeting 02 Cont|Megaera|다음에 만나면 아주 갈기갈기 찢어 죽여 줄 테니, 명심해.
 MegaeraMeeting03|Megaera Meeting 03|Zagreus|네 자매는 요즘 뭐 하고 지내는데? 요즘 통 못 봤는데.
 MegaeraMeeting03|Megaera Meeting 03|Megaera|보시다시피 일이 워낙 바빠서. 위쪽에서 전쟁인지 뭔지가 일어나서 우리까지 바빠졌네. 난 질서 유지를 위해 남았어. 그리고 너도 좀 처리하고.
 MegaeraMeeting04|Megaera Meeting 04|Megaera|나한테 원하는 게 뭐야? 날 좀 내버려 둬. 이제 와서 너랑 나랑 할 얘기가 뭐가 있다고.
 MegaeraMeeting04|Megaera Meeting 04|Zagreus|그냥 너 잘 지내나 해서... 혹시나 어떤 이유에서든 이야기할 상대가 필요할까 봐.
 MegaeraMeeting04|Megaera Meeting 04|Megaera|난 지금 아무도 필요 없어. 특히 너는 더더욱 사양할게. 지금은 근무 시간 아니니까 저리 가, 좀.
-MegaeraMeeting04Cont|Megaera Meeting Cont 04|Megaera|물러서라고 했을 텐데.
+MegaeraMeeting04Cont|Megaera Meeting 04 Cont|Megaera|물러서라고 했을 텐데.
 MegaeraMeeting05|Megaera Meeting 05|Megaera|자그레우스 왕자님, 내가 뭐 해 드릴 거라도 있나요?
 MegaeraMeeting05|Megaera Meeting 05|Zagreus|아무것도 아니야. 그냥 그때 잘 싸웠다고 말해 주고 싶었어.
 MegaeraMeeting05|Megaera Meeting 05|Megaera|뭘 어떻게 해도 예전으로 돌아갈 수 없어, 자그레우스. 내가 조언 몇 마디만 해도 될까? 헛된 시도 집어치워. 그리고 다음에 우리가 만나면 죽을 준비나 해.
@@ -428,13 +428,13 @@ MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|메가이라, 어떻�
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|{#DialogueItalicFormat}쳇{#PreviousFormat}... 아주 온 집안이 다 듣도록 소리를 지르지 그러니. 그게 네가 원하는 거야? 네가 나보다 더 잘났다는 걸 사방팔방 알리는 거?
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|내 말을 좀 들어 봐, 메가이라. 계속 죽도록 서로 싸워 놓고 이런 소리 하는 것도 웃기지만... 널 다치게 할 마음은 없었어.
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|넌 스스로를 너무 과대평가하고 있어, 자그레우스. 그러니 지금은 날 귀찮게 하지 마.
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|이러려고 여기 온 거 아니야. 내가 그런 사람 아닌 거 알잖아. 왜 모르는 거야? 난 그저 내 자신을 네게 증명하고 싶을 뿐이야.
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|쳇... 싸워서 이긴다고 너 자신이 증명될 것 같아?
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|때로는 널 절대 못 이길 것처럼 느껴져, 메가이라. 내가 물러났으면 네가 뭐라고 생각했겠어?
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|날 잘 안다고 생각하나 본데, 그럼 이렇게 계속 떠들어 봐야 좋을 게 없다는 것도 알아야지.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|믿을 수가 없어, 자그레우스. 네가 날 이길 수 있는 건 당연히 닉스의 거울 때문이라고 생각했는데. 네가 좀 바뀌었다는 것도 알고는 있었는데... 이 정도일 줄이야.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Zagreus|내가 할 수 있는지 확인해야 했어, 메가이라. 난 내게서 정말 많은 걸 배웠어. 난... 이렇게 하면 너에게 나를 증명할 수 있을 거라고 생각한 거야. 그리고 나 자신에게도.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|널 나에게 증명한다고...? 지금 네 모습으로는 만족하지 못하는 모양이네. 내가 너의 그런 면을 좋아하는지 모르겠군. 생각을 좀 하고 싶으니까 이제 날 내버려 둬.
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|이러려고 여기 온 거 아니야. 내가 그런 사람 아닌 거 알잖아. 왜 모르는 거야? 난 그저 내 자신을 네게 증명하고 싶을 뿐이야.
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|쳇... 싸워서 이긴다고 너 자신이 증명될 것 같아?
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|때로는 널 절대 못 이길 것처럼 느껴져, 메가이라. 내가 물러났으면 네가 뭐라고 생각했겠어?
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|날 잘 안다고 생각하나 본데, 그럼 이렇게 계속 떠들어 봐야 좋을 게 없다는 것도 알아야지.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|믿을 수가 없어, 자그레우스. 네가 날 이길 수 있는 건 당연히 닉스의 거울 때문이라고 생각했는데. 네가 좀 바뀌었다는 것도 알고는 있었는데... 이 정도일 줄이야.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Zagreus|내가 할 수 있는지 확인해야 했어, 메가이라. 난 내게서 정말 많은 걸 배웠어. 난... 이렇게 하면 너에게 나를 증명할 수 있을 거라고 생각한 거야. 그리고 나 자신에게도.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|널 나에게 증명한다고...? 지금 네 모습으로는 만족하지 못하는 모양이네. 내가 너의 그런 면을 좋아하는지 모르겠군. 생각을 좀 하고 싶으니까 이제 날 내버려 둬.
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|자그레우스, 네가 서명한 그 형벌 규약은 어떻게 되어 가고 있어? 지하세계에 굉장히 의미 있는 발전을 불러왔던데.
 MegaeraPactProgress01|Megaera Pact Progress 01|Zagreus|난 싸워서 이곳에서 나가든가, 나갈 권리를 얻고 말 거야. 규약은 그저 분위기를 환기하는 방법일 뿐 나한테 그 외의 의미는 없어.
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|너 착각이 심하구나. 너와 네 아버지는 정말 알다가도 모르겠어. 아무튼, 더 많은 형벌을 원한다면 언제든 날 찾아와.
@@ -479,9 +479,9 @@ MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|이봐, 자그�
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|우리 사이에 일어난 일을 후회하느냐고 묻는다면, 내 대답은 '아니다'야. 너와 함께 있는 건... 그 어떤 복잡함이라도 감수할 가치가 있어.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|말하지 않아도 돼. 계속하고 싶으면 두 가지 규칙이 있어. 첫째... 밖에서 만났을 때는 개인적인 감정을 접어둘 것. 내가 널 봐 준다는 소리는 듣고 싶지 않거든. 그리고 둘째... 네가 최근에 보여준 성숙한 행동을 조금만 더 자주 보여줄 것.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|다시 철부지 어린 시절로 돌아갈 생각은 없으니, 둘째 조건은 문제가 안 될 거야. 하지만 첫째는... 정말 우리 아무 일 없었다는 듯이 서로 죽여야만 하는 거야?
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}... 집어치워, 자그레우스. 그렇게 날 볼 때마다 불편하게 굴 거야? 너무 과하잖아.
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Zagreus|아니, 그냥... 널 거절해서 기분이 너무 별로야. 그냥... 내가 요새 너무 혼란스러워서 그래. 그리고... 난 널 믿어. 넌 내가 믿고 대화할 수 있는 상대라고. 아마 난... 그런 상대를 잃기 싫은가 봐.
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|바보처럼 굴지 마. 그럴 일 없으니까. 우리 함께 많은 일을 겪었잖아. 같이 자랐고. 이 특별한 관계는... 그렇게 쉽지 깨지지 않을 거야.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}... 집어치워, 자그레우스. 그렇게 날 볼 때마다 불편하게 굴 거야? 너무 과하잖아.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Zagreus|아니, 그냥... 널 거절해서 기분이 너무 별로야. 그냥... 내가 요새 너무 혼란스러워서 그래. 그리고... 난 널 믿어. 넌 내가 믿고 대화할 수 있는 상대라고. 아마 난... 그런 상대를 잃기 싫은가 봐.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|바보처럼 굴지 마. 그럴 일 없으니까. 우리 함께 많은 일을 겪었잖아. 같이 자랐고. 이 특별한 관계는... 그렇게 쉽지 깨지지 않을 거야.
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|다들 우리 사이를 아는 것 같아, 메가이라. 심지어 아프로디테 님도 아는가 보던데. 우리가 남들 앞에서 자랑한 것도 아닌데 말이야. 넌 알리고 싶지 않았지?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|자그레우스. 넌 우리 사이가 만족스러워? 아니면 불만이야?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|음, 난 서로 죽이는 걸 하지 않는 편이 좋기는 해. 그건 아직도 좀 이상하거든. 하지만 나머지는... 그래... 행복해. 넌 {#DialogueItalicFormat}너{#PreviousFormat}잖아.
@@ -576,7 +576,7 @@ MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|난 아직도 널 좋�
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|지금까지 일어난 일들, 지금 이 상황에서도 그런 말이 나와? 그럼 어쩌자는 건데, 자그레우스. 결국 성공하면 이곳을 뜨는 거고, 아니면 뭐 어떻게 되는 거야?
 MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|...거기까지는 아직 생각을 안 해봤어. 하지만 우리가 이럴 필요는 없다고 생각해. 난 네가 싫지 않아, 메가이라. 널 절대 싫어할 수 없을 거야.
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|...내가 아무리 애를 써도 말이야. 안타깝지만 나도 너와 같은 마음이라고 말해도 될지 모르겠어. 지금이 내 경력에서 아주 중요한 순간이란 말이야. 일에 집중해야 할 때라고. 무슨 말인지 알겠지?
-MegaeraBuildingTrust01_B|Megaera Building Trust B 01|Megaera|지금까지 일어난 일들, 지금 이 상황에서도 그런 말이 나와? 그럼 어쩌자는 건데, 자그레우스. 결국 성공하면, 아니면, 뭐 어떻게 되는 거야?
+MegaeraBuildingTrust01_B|Megaera Building Trust 01 B|Megaera|지금까지 일어난 일들, 지금 이 상황에서도 그런 말이 나와? 그럼 어쩌자는 건데, 자그레우스. 결국 성공하면, 아니면, 뭐 어떻게 되는 거야?
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|메가이라, 넌 타나토스와 나 사이에 무슨 일이 있는지 알지? 난 그냥... 우리 사이를 공개하고 싶을 뿐이야.
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Megaera|아, 나야 너에 대해 모르는 게 없지, 자그레우스. 타나토스에 대해서는 말할 것도 없고. 그래도 말해 줘서 고마워. 난 괜찮아.
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|괜찮아? 그야... 올림포스에는 질투가 엄청나다고 하지만. 여기선 그런 일이 문제가 안 되지 않니?

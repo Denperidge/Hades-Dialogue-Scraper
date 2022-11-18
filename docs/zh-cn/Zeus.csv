@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|祝你接下来的征途一路顺利�
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|你已经见识过天界那强大的破坏力了！想象一下地面世界的样子吧！
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|总有一天，我们会在地面上舒适地休憩，笑着回忆现在发生的事情，这一天肯定会来！
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}啊{#PreviousFormat}，我最亲爱的侄子！就算不是这样，你也要朝着我所在的地上世界努力前进。你父亲从没想过他能困住你，是吗？
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|祝福你，年轻人。
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|我相信你会在合适的机会离开那里的，侄子。
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|年轻人，虽然下面的世界一片黑暗，但我会一直关注你！
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|侄子，愿奥林匹斯山的力量指引你穿越黑暗。
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|年轻人，别让你的父亲伤害你，从那里爬出来。
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|扎格列欧斯，我们不会放弃你的，所以你要坚持，{#DialogueItalicFormat}知道吗{#PreviousFormat}？
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|祝福你，年轻人。
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|我相信你会在合适的机会离开那里的，侄子。
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|年轻人，虽然下面的世界一片黑暗，但我会一直关注你！
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|侄子，愿奥林匹斯山的力量指引你穿越黑暗。
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|年轻人，别让你的父亲伤害你，从那里爬出来。
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|扎格列欧斯，我们不会放弃你的，所以你要坚持，{#DialogueItalicFormat}知道吗{#PreviousFormat}？
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|侄子，现在我要用天国的神力帮助你逃出地狱。
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|在下面要注意安全啊，知道了吗，年轻人？
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|年轻人！我们统统都在为你打气！
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|拜托了，宙斯叔叔。尽管这件礼物与
 ZeusGift05|Zeus Gift 05|Zeus|看到你能这么敬仰你的叔叔，扎格列欧斯，我很高兴。凭着这样的态度，你在奥林匹斯必将前途无量啊！不是谁都能像你这样又聪明又有礼貌的。
 ZeusGift06|Zeus Gift 06|Zagreus|如果您可以听见我的声音，强大的宙斯叔叔啊，我希望赠与您这份薄礼，并且衷心祝愿您和我的父亲终有一天可以化解矛盾，重归于好。
 ZeusGift06|Zeus Gift 06|Zeus|啊，真是一份不错的礼物啊，年轻人。虽然我们还没有真正见过面，但我已经感觉到我们是如此亲近了，比你和你父亲的关系还亲近呢！{#DialogueItalicFormat}噢，哈哈哈！{#PreviousFormat}不如咱们直接告诉大家，{#DialogueItalicFormat}我{#PreviousFormat}才是你真正的父亲，你看如何？
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}啊{#PreviousFormat}，真是一份不错的礼物啊，年轻人。虽然我们还没有真正见过面，但我已经感觉到我们是如此亲近了，比你和你父亲的关系还亲近呢！{#DialogueItalicFormat}噢，哈哈哈！{#PreviousFormat}不如咱们直接告诉大家，{#DialogueItalicFormat}我{#PreviousFormat}才是你真正的父亲，你看如何？
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}啊{#PreviousFormat}，真是一份不错的礼物啊，年轻人。虽然我们还没有真正见过面，但我已经感觉到我们是如此亲近了，比你和你父亲的关系还亲近呢！{#DialogueItalicFormat}噢，哈哈哈！{#PreviousFormat}不如咱们直接告诉大家，{#DialogueItalicFormat}我{#PreviousFormat}才是你真正的父亲，你看如何？
 ZeusGift07|Zeus Gift 07|Zagreus|众神之王，宙斯大人！请接受这不起眼的仙馔密酒。我知道这东西对您来说再平常不过了，但在这里，这已经是最上等的礼物了。即便如此，这仍然比不上您为我所作的一切。谢谢您，叔叔。
 ZeusGift07|Zeus Gift 07|Zeus|好啦，侄儿，你真的是太慷慨了，太尊重我了。不过我们得保持距离，你说对吧？不然被其他人发现我对你这样偏心的话，肯定会吃醋的！不过，我确实最喜欢你！起码目前是这样。
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|啧，嗯，扎格列欧斯……今天我要向你介绍一个人，他就是我那集威望、善良、慷慨于一身的父亲大人，你的叔叔宙斯！

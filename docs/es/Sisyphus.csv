@@ -16,9 +16,9 @@ ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|¿Qué sabrás tú de 
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|Hola, príncipe Z. Igual parece que estoy ganduleando con la roca, pero… justo iba a ponerme en marcha. Las erinias no me dejan en paz. Por cierto, ¿dónde se han metido? ¿Y qué haces tú aquí?
 SisyphusFirstMeeting|Sisyphus First Meeting|Zagreus|Ya sabes, he salido a estirar las piernas. Hazme un favor, anda. Si ves a las erinias, diles que he vuelto por donde he venido, ¿vale?
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|Vale, se lo diré. Cuenta con ello, alteza. Bueno, sigo con lo mío. Cuídate.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|¿Sabes, príncipe Z? No esperaba volver a verte después de tantísimo tiempo. ¿Algo va mal en la morada o qué? No recibo muchas visitas últimamente.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Zagreus|Oh, siempre hay algo que va mal en la morada. Imaginé que no haría ningún daño comprobar cómo va todo en el Tártaro con más frecuencia.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|Vaya, pues te lo agradecemos. Tanto yo como la buena de Roquita. Estoy habituado a pasar largos períodos a solas, pero una visita de tanto en tanto me viene bien.
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|¿Sabes, príncipe Z? No esperaba volver a verte después de tantísimo tiempo. ¿Algo va mal en la morada o qué? No recibo muchas visitas últimamente.
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Zagreus|Oh, siempre hay algo que va mal en la morada. Imaginé que no haría ningún daño comprobar cómo va todo en el Tártaro con más frecuencia.
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|Vaya, pues te lo agradecemos. Tanto yo como la buena de Roquita. Estoy habituado a pasar largos períodos a solas, pero una visita de tanto en tanto me viene bien.
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|Si me permites la osadía, alteza, ¿qué te trae de nuevo por estos lares? ¿La misma historia que la última vez?
 SisyphusMeeting02|Sisyphus Meeting 02|Zagreus|Te seré sincero, Sísifo: me marcho de la morada, ya estoy harto. Seguro que me entiendes. Quiero ir a la superficie.
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|¡{#DialogueItalicFormat}Guau{#PreviousFormat}, una empresa arriesgada, príncipe! Si no fueras tú quien la acomete, la consideraría una locura, la verdad sea dicha. Aunque tú estás tan loco como para sacarla adelante. Bueno, te deseo lo mejor. ¡Que los dioses te protejan!
@@ -154,18 +154,18 @@ SisyphusAboutLegendary01|Sisyphus About Legendary 01|Zagreus|Así es. Y te agrad
 SisyphusAboutLegendary01|Sisyphus About Legendary 01|Sisyphus|Con el debido respeto, alteza, tengo a la mejor amiga que puedo pedir justo a mi derecha. Además, el pequeño Shady tenía más ansias que yo de ver los confines del Inframundo. Os deseo buen viaje.
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Zagreus|Sísifo, ¿sabes cómo funciona Shady? ¿Os saca a Roquita y a ti de aquí para acudir en mi auxilio, así sin más? Debe de ser de lo más confuso. Además, ¿no se supone que no podéis salir?
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Sisyphus|Bueno, te dije que te acompañaríamos en espíritu, ¿no? No te hablo solo del poder de Shady, ni de Roquita ni de mi fuerza oculta. Es el legado de nuestro compañerismo. ¡Los dioses sois capaces de cualquier cosa!
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Zagreus|Se ha ido… ¿Sigues de una pieza, Sísifo? ¿No estás herido ni nada?
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Sisyphus|Estoy bien, gracias, príncipe. Esa erinia es un mujerón, si se me permite decirlo, y muy, muy fuerte. ¡Me apuesto lo que quieras a que podría empujar a mi vieja Roquita mejor que yo!
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Zagreus|¿En serio que nunca llevaste a Roquita hasta la cima antes?
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Sisyphus|Nunca llevé la roca hasta la cima, ni una sola vez. Siempre rueda cuesta abajo justo al final. Perdí la cuenta después de las mil novecientas veces, más o menos, pero, ¿sabes qué? Uno de estos días, sé que se va a quedar ahí.
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|Sísifo, ¿es cierto lo que cuentan de que Megera ha jurado dejarte en paz por el momento? ¿A ti y a Roquita?
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Sisyphus|¡Pues creo que acabas de escuchar justamente eso, alteza! Parece que las moiras me van a dar un respiro. Aunque la erinia dijo que volvería a atormentarme en cuando terminase contigo...
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|Pues apuesto a que puedo mantenerla ocupada un rato más. Supongo que me lo tomaré como buenas noticias.
-ThanatosWithSisyphus01_FollowUp|Thanatos With Sisyphus Follow Up 01|Sisyphus|Oh, pues me va todo estupendo; gracias, príncipe. No le tengo miedo. Después de todo, ¿qué tengo que perder? Y dicho esto, quería darte algo.
-ThanatosWithSisyphus02_FollowUp|Thanatos With Sisyphus Follow Up 02|Sisyphus|¿Te puedes creer su desfachatez, príncipe? No es más que un engreído, así que le digo lo que quiere oír y ya está. Además, no puede impedir que te ayude. Ya estoy muerto, ¿qué más me va a hacer?
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|¡Príncipe Z! Por poco no te has topado con tu colega, el de la cara seria. ¿No sientes una cierta quietud en el aire? Me parece que tardará en volver a pasarse por aquí.
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Zagreus|En realidad, Tánatos no está tan mal cuando lo conoces, aunque supongo que tendrás que aceptar mi palabra de que es así.
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|Te creo, alteza. Imagino que llevar la muerte debe de ser un trabajo solitario. ¡Debería probar a empujar una roca alguna vez!
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Zagreus|Se ha ido… ¿Sigues de una pieza, Sísifo? ¿No estás herido ni nada?
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Sisyphus|Estoy bien, gracias, príncipe. Esa erinia es un mujerón, si se me permite decirlo, y muy, muy fuerte. ¡Me apuesto lo que quieras a que podría empujar a mi vieja Roquita mejor que yo!
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Zagreus|¿En serio que nunca llevaste a Roquita hasta la cima antes?
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Sisyphus|Nunca llevé la roca hasta la cima, ni una sola vez. Siempre rueda cuesta abajo justo al final. Perdí la cuenta después de las mil novecientas veces, más o menos, pero, ¿sabes qué? Uno de estos días, sé que se va a quedar ahí.
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|Sísifo, ¿es cierto lo que cuentan de que Megera ha jurado dejarte en paz por el momento? ¿A ti y a Roquita?
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Sisyphus|¡Pues creo que acabas de escuchar justamente eso, alteza! Parece que las moiras me van a dar un respiro. Aunque la erinia dijo que volvería a atormentarme en cuando terminase contigo...
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|Pues apuesto a que puedo mantenerla ocupada un rato más. Supongo que me lo tomaré como buenas noticias.
+ThanatosWithSisyphus01_FollowUp|Thanatos With Sisyphus 01 Follow Up|Sisyphus|Oh, pues me va todo estupendo; gracias, príncipe. No le tengo miedo. Después de todo, ¿qué tengo que perder? Y dicho esto, quería darte algo.
+ThanatosWithSisyphus02_FollowUp|Thanatos With Sisyphus 02 Follow Up|Sisyphus|¿Te puedes creer su desfachatez, príncipe? No es más que un engreído, así que le digo lo que quiere oír y ya está. Además, no puede impedir que te ayude. Ya estoy muerto, ¿qué más me va a hacer?
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|¡Príncipe Z! Por poco no te has topado con tu colega, el de la cara seria. ¿No sientes una cierta quietud en el aire? Me parece que tardará en volver a pasarse por aquí.
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Zagreus|En realidad, Tánatos no está tan mal cuando lo conoces, aunque supongo que tendrás que aceptar mi palabra de que es así.
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|Te creo, alteza. Imagino que llevar la muerte debe de ser un trabajo solitario. ¡Debería probar a empujar una roca alguna vez!
 SisyphusChat01|Sisyphus Chat 01|Sisyphus|Me alegro de verte vivito y coleando, príncipe Z.
 SisyphusChat02|Sisyphus Chat 02|Sisyphus|La vida te trata bien, ¿no, príncipe?
 SisyphusChat03|Sisyphus Chat 03|Sisyphus|Oh, pues me va todo rodado. ¡Gracias por preguntar, príncipe!
@@ -235,19 +235,19 @@ SisyphusGift05|Sisyphus Gift 05|Sisyphus|Me siento de lo más halagado, alteza. 
 SisyphusGift05|Sisyphus Gift 05|Zagreus|He pensado que te vendría bien un pequeño aliciente adicional, buen hombre.
 SisyphusGift06|Sisyphus Gift 06|Sisyphus|Oh, pero es demasiado, alteza. Gracias, de corazón. No sé cómo podré recompensarte.
 SisyphusGift06|Sisyphus Gift 06|Zagreus|¿Y si sigues ayudándome para que no muera a la primera de cambio? ¿Trato hecho?
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|Sísifo, siempre me has ayudado de manera altruista y sin pedir nada a cambio. Quería expresarte lo agradecido que estoy dándote a probar un poquito de esto. ¡Toma, para una ocasión especial!
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|Hala, príncipe, ¿es…? Pues sí. Jamás había visto uno de esos frascos, y mucho menos lo había catado. Mil gracias. Aunque, con el debido respeto, no puedo aceptar un regalo tan exquisito. A menos que...
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|¿A menos que... qué? Oh no, no me harás aceptar otro regalo a cambio. Sabes que esto es un regalo y no un intercambio, ¿verdad? Espera... ¿qué es eso?
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|Esto, alteza, es un amiguito mío que tenía al cuidado de Roquita. Vayas donde vayas, te servirá de acompañante fiel. Y cuando esté contigo, Roquita y yo también te acompañaremos en espíritu.
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|Príncipe, ese frasco de ambrosía que me regalaste fue de lo más exquisito que he probado en la vida. ¡Hasta Roquita se relamió!
-SisyphusGift08_A|Sisyphus Gift A 08|Zagreus|Pensé que te gustaría. ¡Por eso me complace ofrecerte otro! Casi resulta una pena que rara vez recibamos esos productos de importación del Olimpo. Espero saborearla algún día, cuando todo esto acabe.
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|¿Cómo? ¿Insinúas que no has probado este brebaje? Tienes mucho más autocontrol que yo. Quizá algún día tengamos la oportunidad de compartir un frasco.
-SisyphusGift08_B|Sisyphus Gift B 08|Zagreus|Pensé que te gustaría. ¡Por eso me complace ofrecerte otra! Casi resulta una pena que rara vez recibamos esos productos de importación del Olimpo.
-SisyphusGift08_B|Sisyphus Gift B 08|Sisyphus|¡Ah, mira lo que nos ha traído el príncipe, Roquita! Puede que algún día tengamos la oportunidad de compartirla.
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|Todo esto para alguien como yo… Sabes que estoy aquí con razón, ¿verdad? No solo porque tu padre y el bueno de Tánatos no me tengan aprecio. Sin embargo, desde el principio me trataste con una decencia que no había sentido desde que era rey. Y puede que ni siquiera entonces.
-SisyphusGift09_A|Sisyphus Gift A 09|Zagreus|Fueras quien fueras, creo que has cambiado. Y me enorgullece considerarte mi amigo. A ti y a Roquita. Te parecerá raro, pero me alegro de que estés aquí. He aprendido mucho de ti acerca de todo esto.
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|Bueno, alteza, me siento de lo más honrado. Y contigo en ella, quizá mi lista de amigos sea la mejor que haya tenido alguien como yo. ¿A que sí, Roquita?
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|Hazme caso, príncipe Z. Roquita está de acuerdo.
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|Sísifo, siempre me has ayudado de manera altruista y sin pedir nada a cambio. Quería expresarte lo agradecido que estoy dándote a probar un poquito de esto. ¡Toma, para una ocasión especial!
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|Hala, príncipe, ¿es…? Pues sí. Jamás había visto uno de esos frascos, y mucho menos lo había catado. Mil gracias. Aunque, con el debido respeto, no puedo aceptar un regalo tan exquisito. A menos que...
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|¿A menos que... qué? Oh no, no me harás aceptar otro regalo a cambio. Sabes que esto es un regalo y no un intercambio, ¿verdad? Espera... ¿qué es eso?
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|Esto, alteza, es un amiguito mío que tenía al cuidado de Roquita. Vayas donde vayas, te servirá de acompañante fiel. Y cuando esté contigo, Roquita y yo también te acompañaremos en espíritu.
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|Príncipe, ese frasco de ambrosía que me regalaste fue de lo más exquisito que he probado en la vida. ¡Hasta Roquita se relamió!
+SisyphusGift08_A|Sisyphus Gift 08 A|Zagreus|Pensé que te gustaría. ¡Por eso me complace ofrecerte otro! Casi resulta una pena que rara vez recibamos esos productos de importación del Olimpo. Espero saborearla algún día, cuando todo esto acabe.
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|¿Cómo? ¿Insinúas que no has probado este brebaje? Tienes mucho más autocontrol que yo. Quizá algún día tengamos la oportunidad de compartir un frasco.
+SisyphusGift08_B|Sisyphus Gift 08 B|Zagreus|Pensé que te gustaría. ¡Por eso me complace ofrecerte otra! Casi resulta una pena que rara vez recibamos esos productos de importación del Olimpo.
+SisyphusGift08_B|Sisyphus Gift 08 B|Sisyphus|¡Ah, mira lo que nos ha traído el príncipe, Roquita! Puede que algún día tengamos la oportunidad de compartirla.
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|Todo esto para alguien como yo… Sabes que estoy aquí con razón, ¿verdad? No solo porque tu padre y el bueno de Tánatos no me tengan aprecio. Sin embargo, desde el principio me trataste con una decencia que no había sentido desde que era rey. Y puede que ni siquiera entonces.
+SisyphusGift09_A|Sisyphus Gift 09 A|Zagreus|Fueras quien fueras, creo que has cambiado. Y me enorgullece considerarte mi amigo. A ti y a Roquita. Te parecerá raro, pero me alegro de que estés aquí. He aprendido mucho de ti acerca de todo esto.
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|Bueno, alteza, me siento de lo más honrado. Y contigo en ella, quizá mi lista de amigos sea la mejor que haya tenido alguien como yo. ¿A que sí, Roquita?
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|Hazme caso, príncipe Z. Roquita está de acuerdo.
 SisyphusGift07|Sisyphus Gift 07|Sisyphus|Espera... ¿de verdad? ¿Para mí? ¿En serio, príncipe? No lo rechazo, porque no se puede rechazar algo así. ¡Gracias! De corazón.
 SisyphusGift07|Sisyphus Gift 07|Zagreus|No se merecen, hombre. Qué menos, después de todo lo que has hecho por mí.
 SisyphusGift08|Sisyphus Gift 08|Sisyphus|No tengo palabras, alteza. Soy una mera sombra que cumple su condena. No merezco tu generosidad.

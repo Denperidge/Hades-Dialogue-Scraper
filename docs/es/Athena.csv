@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|Zagreo, me complace ver que la t
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|¿Qué necios miserables se atreven a oponerse a ti, primo? Castígalos para que aprendan algo que deberían haber aprendido en vida.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|Primo, mantente firme y asciende hacia la superficie. No importa las veces que tu paso vacile, aquí estaré.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|No te entretendré, Zagreo, excepto para ofrecerte algo de mi poder y aumentar tus posibilidades de escapar. Ahora, elige rápido y continúa.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|Que la sabiduría y la buena fortuna te guíen esta vez hacia la luz del día, primo.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|Los desafortunados muertos del Inframundo te acabarán temiendo, primo.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|Que la sabiduría y la buena fortuna te guíen esta vez hacia la luz del día, primo.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|Los desafortunados muertos del Inframundo te acabarán temiendo, primo.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|Que la fuerza y la sabiduría te guíen por las tinieblas, Zagreo.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|El escaso ingenio de esos enemigos exánimes no es rival para tu poder divino.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|Recuerda que estaré pendiente de ti, querido primo.
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|Diosa, tengo un sencillo detalle para ti. Au
 AthenaGift03|Athena Gift 03|Athena|Primo, eres de lo más cortés por dedicarme esta ofrenda. Me honras; aun así, te pediría que pienses por ahora en tu bienestar, no en el mío.
 AthenaGift04|Athena Gift 04|Zagreus|Diosa Atenea, acepta este presente. Tu sabiduría siempre me guía hacia la luz.
 AthenaGift04|Athena Gift 04|Athena|Qué generoso por tu parte el ofrecerme este regalo. Te lo agradezco mucho, aunque te pediría que no te desvíes en exceso de tu camino solo por mí. Céntrate, ¿vale?
-AthenaGift05A|Athena Gift A 05|Zagreus|Igual que sigo comprometido con mi tarea, diosa, recuerdo que nada de esto habría sido posible sin tu ayuda. Por tanto, he de darte las gracias, aunque sea con una mísera ofrenda.
-AthenaGift05A|Athena Gift A 05|Athena|Sé que no hay mucho que puedas hacer para darme las gracias en este momento, Zagreo, pero te pediría que lo reserves para cuando acabes tu misión. ¡Ahora mismo tienes asuntos más importantes que atender!
-AthenaGift05B|Athena Gift B 05|Athena|Sé que no hay mucho que puedas hacer para darme las gracias en este momento, Zagreo, pero te pediría que lo reserves para una ocasión mejor. ¡Ahora mismo tienes asuntos más importantes que atender!
+AthenaGift05A|Athena Gift 05 A|Zagreus|Igual que sigo comprometido con mi tarea, diosa, recuerdo que nada de esto habría sido posible sin tu ayuda. Por tanto, he de darte las gracias, aunque sea con una mísera ofrenda.
+AthenaGift05A|Athena Gift 05 A|Athena|Sé que no hay mucho que puedas hacer para darme las gracias en este momento, Zagreo, pero te pediría que lo reserves para cuando acabes tu misión. ¡Ahora mismo tienes asuntos más importantes que atender!
+AthenaGift05B|Athena Gift 05 B|Athena|Sé que no hay mucho que puedas hacer para darme las gracias en este momento, Zagreo, pero te pediría que lo reserves para una ocasión mejor. ¡Ahora mismo tienes asuntos más importantes que atender!
 AthenaGift06|Athena Gift 06|Zagreus|Atenea, sé que te juegas mucho más que sacarme de mi apuro. Te preocupas tanto por esta familia... Esa atención y determinación me animan a seguir. Te estaré eternamente agradecido.
 AthenaGift06|Athena Gift 06|Athena|Quizá no hay mejor ocasión que el presente cuando se trata de mostrar agradecimiento, querido primo. Me has abierto los ojos a esa posibilidad, aunque sigo firme en mi determinación de combatir por ti.
 AthenaGift07|Athena Gift 07|Zagreus|Sé que esta ambrosía procede del Olimpo, Atenea, pero espero que tras su largo viaje hasta estas profundidades haya adquirido un sabor más digno de tu gracia. Nadie ha tenido una prima mejor, y nunca olvidaré lo que has hecho por mí.

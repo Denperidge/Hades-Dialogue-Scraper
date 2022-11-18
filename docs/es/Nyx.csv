@@ -27,8 +27,8 @@ NyxAboutHades02|Nyx About Hades 02|Zagreus|Nicte, todo lo que has hecho para ayu
 NyxAboutHades02|Nyx About Hades 02|Nyx|No tienes que preocuparte por mi, hijo mío, ya que no soy una subordinada a la que tu padre puede castigar cuando quiera. Yo soy la Noche, y esta casa se mantiene gracias a mí. Tu padre lo sabe, por lo que tenemos ciertos objetivos en común. Estamos obligados a cooperar.
 NyxAboutHades02|Nyx About Hades 02|Zagreus|Entonces... si no hay nada que él pueda hacer, ¿por qué seguir engañándolo? Quiero decir, sobre mi madre biológica.
 NyxAboutHades02|Nyx About Hades 02|Nyx|Por favor.. no tengo la libertad de hablar de eso. Cuando eventualmente conozcas a tu madre... lo entenderás.
-NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|Obligados a cooperar... No me extraña haber pensado que erais realmente marido y mujer.
-NyxAboutHades02_B|Nyx About Hades B 02|Nyx|A veces tu padre y yo... nos sentimos como tal.
+NyxAboutHades02_B|Nyx About Hades 02 B|Zagreus|Obligados a cooperar... No me extraña haber pensado que erais realmente marido y mujer.
+NyxAboutHades02_B|Nyx About Hades 02 B|Nyx|A veces tu padre y yo... nos sentimos como tal.
 NyxAboutAthena01|Nyx About Athena 01|Zagreus|Hablé con la diosa Atenea hace poco, Nicte. Parece que te admira. Pensaba que a los olímpicos no les gustaban los de nuestro tipo.
 NyxAboutAthena01|Nyx About Athena 01|Nyx|Normalmente no les gustan. Pero tú eres familia, hijo. Y yo... esperaba que Atenea fuera lo suficientemente sabia para entender por qué alguien como yo pediría su ayuda en concreto. Por su parte, ella ha hecho que otros de su familia lo entiendan.
 NyxAboutAthena02|Nyx About Athena 02|Zagreus|Atenea te manda sus más cordiales saludos, Nicte. Parece que os habéis mantenido en contacto desde que comenzó todo esto, ¿no es así?
@@ -240,7 +240,7 @@ NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|Pues... casi que ya ha o
 NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|Probablemente no, porque le debe parecer innecesario. Casi seguro que aprecia, a su manera, tener un adversario, pues pocos se atreven a enfrentarse a él.
 NyxMegDefeated01|Nyx Meg Defeated 01|Nyx|Imagino que has derrotado a Megera, pues lleva un tiempo dando vueltas por la cantina, taciturna y enfurruñada. Aquí estás a salvo de su látigo, pero no de sus palabras.
 NyxMegDefeated01|Nyx Meg Defeated 01|Zagreus|Hablaré con ella. Gracias por la advertencia, Nicte. Nos vemos, más pronto que tarde.
-NyxMegDefeated01_Alt|Nyx Meg Defeated Alt 01|Nyx|Imagino que has derrotado a Megera, mi hijo, pues lleva un tiempo en esa esquina de ahí, malhumorada. Aquí estás a salvo de su látigo, pero no de sus palabras.
+NyxMegDefeated01_Alt|Nyx Meg Defeated 01 Alt|Nyx|Imagino que has derrotado a Megera, mi hijo, pues lleva un tiempo en esa esquina de ahí, malhumorada. Aquí estás a salvo de su látigo, pero no de sus palabras.
 NyxAboutChaos01|Nyx About Chaos 01|Zagreus|Nicte, ¿sabes algo de un ente de voz melosa con el aspecto de Caos? Me abordó hace poco y me ofreció una bendición, por así decirlo.
 NyxAboutChaos01|Nyx About Chaos 01|Nyx|El Caos Primordial… Lo conozco bien. Tu periplo habrá despertado su interés. Te aconsejo que receles de sus dádivas, aunque Caos, por embaucador que sea, no es ningún embustero.
 NyxAboutChaos02|Nyx About Chaos 02|Zagreus|¿Me cuentas más acerca de Caos? Me… asaltan las dudas.
@@ -274,8 +274,8 @@ NyxAboutMeg02|Nyx About Meg 02|Nyx|{#DialogueItalicFormat}Ja, ja, ja, ja. {#Prev
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|Me agrada que Megera y tú hayáis llegado a comprenderos tan bien mutuamente, mi niño. Debo admitir que tenía la esperanza de que así fuera.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|¿Te agrada que estemos juntos, Nicte? Creía que te preocupaba que una relación así nos distrajera de nuestras responsabilidades y demás. Aunque me gusta tener tu aprobación.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|No temo que Megera se distraiga, mi niño. Además, estas son cosas que más bien tienden a inspirar a las personas, y a empujarlas a grandes hazañas. Aunque la simple sensación de plenitud suele ser una meta suficiente por sí misma.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|¿Te agrada que Meg y yo seamos ahora amigos, Nicte? Me gusta que así sea, aunque... me preocupa que esto la entorpezca en su trabajo.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|No creo que eso os vaya a ocurrir a ninguno de los dos. Cada uno de vosotros está dedicado a su tarea. Confío en que vuestra amistad sea más fuerte que vuestros enfrentamientos ocasionales, porque así es como florecen las amistades, ¿no te parece?
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Zagreus|¿Te agrada que Meg y yo seamos ahora amigos, Nicte? Me gusta que así sea, aunque... me preocupa que esto la entorpezca en su trabajo.
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Nyx|No creo que eso os vaya a ocurrir a ninguno de los dos. Cada uno de vosotros está dedicado a su tarea. Confío en que vuestra amistad sea más fuerte que vuestros enfrentamientos ocasionales, porque así es como florecen las amistades, ¿no te parece?
 NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|Nicte, me he topado con Tánatos. Aunque me echó una mano, parece bastante molesto. Quizá porque salí corriendo.
 NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|Tánatos se preocupa por ti. Espero que comprendas que esa cólera que has percibido no le nace del fondo del alma. Te ruego perdones su rudeza.
 NyxAboutThanatos02|Nyx About Thanatos 02|Nyx|Tánatos por fin ha regresado. ¿No lo has visto? Ha estado ocupadísimo recientemente. Se habrá alegrado mucho de volver a verte.
@@ -283,8 +283,8 @@ NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|Me agrada 
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|Gracias, Nicte. Creo que hace tiempo que albergábamos sentimientos el uno por el otro. Al fin hemos sido fieles a ellos.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|Entonces, de este modo los dos habéis conseguido lo que deseabais. Te pido que cuides mucho de mi hijo. A menudo temo que trabaja demasiado.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|{#DialogueItalicFormat}Ah{#PreviousFormat}, está bien. Aunque procuraré echarle un ojo.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|Es difícil encontrar un amigo aquí abajo, aunque siempre lo he considerado uno de confianza, y creo que él también pensaba lo mismo. Me parece que ahora lo vemos más claro.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|Entonces, deseo que vuestros lazos de amistad duren tanto como esta morada reine bajo la tierra en la oscuridad. Cuida de mi querido hijo.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Zagreus|Es difícil encontrar un amigo aquí abajo, aunque siempre lo he considerado uno de confianza, y creo que él también pensaba lo mismo. Me parece que ahora lo vemos más claro.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Nyx|Entonces, deseo que vuestros lazos de amistad duren tanto como esta morada reine bajo la tierra en la oscuridad. Cuida de mi querido hijo.
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|¿Qué ocurre, mi niño? Percibo que te preocupa algo distinto a lo habitual, aunque el hecho concreto me está velado.
 NyxAboutDusa01|Nyx About Dusa 01|Zagreus|Es solo que... Por favor no te lo tomes a mal, Nicte, pero me preocupaba que estuvieses siendo demasiado dura con Dusa. ¿Le pediste que no hablase conmigo en absoluto?
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|Le dije que se ocupase de sus asuntos. Me temo que se distrae fácilmente. Pese a tu trato informal, ¡eres el príncipe! El hijo único de Hades, el señor de este dominio por la gracia de las moiras. Has de frecuentar la compañía de dioses, no de cabezas de gorgona decapitadas.

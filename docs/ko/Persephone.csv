@@ -106,17 +106,17 @@ PersephoneMeeting04|Persephone Meeting 04|Zagreus|네. 어머니, 만약... 만�
 PersephoneMeeting04|Persephone Meeting 04|Persephone|나를 보호한다고? 자그레우스, 그게 무슨 말이니? 보다시피 나는 스스로도 거뜬하다고.
 PersephoneMeeting04|Persephone Meeting 04|Zagreus|그게... {#DialogueItalicFormat}으{#PreviousFormat}... 어머니는 올림포스 출신이죠? 그런데... 그 어떤 신도... 어머니가 여기 계신 걸 몰라요... 그래서...
 PersephoneMeeting04|Persephone Meeting 04|Persephone|그건 또 어떻게 알았니, 자그레우스? 아, 빌어먹을 운명의 세 자매. 네가 또 나를 떠나는구나...
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|아들아, 올림포스의 친척들에 대해 얼마나 알고 있니?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|이젠 제법 알게 된 것 같아요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 그리고 다른 친척분들과도, 아버지의 집을 떠난 이후로 계속 연락을 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|안 돼... 자그레우스, 무슨 짓을 한 거니? 그들을 {#DialogueItalicFormat}여기{#PreviousFormat}로 이끌었단 말이야?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|아뇨, 아뇨. 친척들은... 제가 아버지로부터 도망쳐서 올림포스 산으로 가고 싶어 하는 줄 알아요. 적어도 제 {#DialogueItalicFormat}생각에는 {#PreviousFormat}그쪽에선 그렇게 믿고 있는 것 같아요. 그쪽 신들 대부분은요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그러면... 하데스도 이 사실은 아니? 올림포스가 관여되었다는 걸?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|네. 아버지와 닉스 모두가요. 사실 제가 올림포스와 연락할 수 있게 해 주신 게 닉스 님이에요. 올림포스의 도움이 없었다면 지하세계에서 결코 나올 수 없었겠죠.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그러니까 닉스와 하데스가 서로 대립하고 있구나. 올림포스는 널 돕고 있고... 그치만 내가 여기 있는 건 모른다는 거지?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|맞아요. 아마도요. 닉스 님과 아버지는 다른 선택지가 없어서 서로 그냥 참는 것 같아요. 하지만 제가 어머니에 대해 알게 된 이후로, 닉스 님은 제가 어머니를 찾게 도와주셨고... 반대로 아버지는 절 막으려 했고요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|어리석긴... 무슨 생각인 거지? 도대체 네 아버지는 {#DialogueItalicFormat}뭘 {#PreviousFormat}생각하는 거야...? 혹시... 네 아버지가 나를 {#DialogueItalicFormat}그들{#PreviousFormat}로부터 보호하고 있다고 생각하는 거야? 아, 안 돼...
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|제... {#DialogueItalicFormat}윽{#PreviousFormat}... 제 생각에도 그런 것 같아요... 왜냐면, 올림포스 친척들을 직접 만나봤더니... 그분들이 어떤 일이든 보복하려고 들 것이... 눈에 선하네요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그게 우리 가족의 내력이란다, 아들아. 만약 올림포스가 관여하고 있다면 무슨 상황인지 알 것 같아. 너도 알다시피 내가 그쪽에 가 있지 않고 여기 있잖니. 하지만, 아. 다음에 다시 오면 또 이야기하자...
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|아들아, 올림포스의 친척들에 대해 얼마나 알고 있니?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|이젠 제법 알게 된 것 같아요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 그리고 다른 친척분들과도, 아버지의 집을 떠난 이후로 계속 연락을 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|안 돼... 자그레우스, 무슨 짓을 한 거니? 그들을 {#DialogueItalicFormat}여기{#PreviousFormat}로 이끌었단 말이야?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|아뇨, 아뇨. 친척들은... 제가 아버지로부터 도망쳐서 올림포스 산으로 가고 싶어 하는 줄 알아요. 적어도 제 {#DialogueItalicFormat}생각에는 {#PreviousFormat}그쪽에선 그렇게 믿고 있는 것 같아요. 그쪽 신들 대부분은요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그러면... 하데스도 이 사실은 아니? 올림포스가 관여되었다는 걸?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|네. 아버지와 닉스 모두가요. 사실 제가 올림포스와 연락할 수 있게 해 주신 게 닉스 님이에요. 올림포스의 도움이 없었다면 지하세계에서 결코 나올 수 없었겠죠.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그러니까 닉스와 하데스가 서로 대립하고 있구나. 올림포스는 널 돕고 있고... 그치만 내가 여기 있는 건 모른다는 거지?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|맞아요. 아마도요. 닉스 님과 아버지는 다른 선택지가 없어서 서로 그냥 참는 것 같아요. 하지만 제가 어머니에 대해 알게 된 이후로, 닉스 님은 제가 어머니를 찾게 도와주셨고... 반대로 아버지는 절 막으려 했고요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|어리석긴... 무슨 생각인 거지? 도대체 네 아버지는 {#DialogueItalicFormat}뭘 {#PreviousFormat}생각하는 거야...? 혹시... 네 아버지가 나를 {#DialogueItalicFormat}그들{#PreviousFormat}로부터 보호하고 있다고 생각하는 거야? 아, 안 돼...
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|제... {#DialogueItalicFormat}윽{#PreviousFormat}... 제 생각에도 그런 것 같아요... 왜냐면, 올림포스 친척들을 직접 만나봤더니... 그분들이 어떤 일이든 보복하려고 들 것이... 눈에 선하네요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그게 우리 가족의 내력이란다, 아들아. 만약 올림포스가 관여하고 있다면 무슨 상황인지 알 것 같아. 너도 알다시피 내가 그쪽에 가 있지 않고 여기 있잖니. 하지만, 아. 다음에 다시 오면 또 이야기하자...
 PersephoneMeeting06|Persephone Meeting 06|Persephone|나는 올림포스를 견딜 수가 없었어, 자그레우스. 온갖 호통과 가식... 내 고압적인 어머니... 그 무엇도 말이야. 어차피 내 발로 그곳을 떠날 생각이었는데...
 PersephoneMeeting06|Persephone Meeting 06|Zagreus|...아버지가 어머니를 데리고 떠난 거죠? 어머니를 지하세계로 데리고 가셨잖아요. 만약 올림포스가 이 사실을 알게 되면... 생각만 해도 무섭네요.
 PersephoneMeeting06|Persephone Meeting 06|Persephone|그 바보는 지금도 나를 보호하려고 하고 있지. 네 아버지가 나를 데리고 도망친 게 아니야, 아들. 사실은 그보다 훨씬 복잡해. 나는 떠나고 싶었거든. 기꺼이 지하세계에서 네 아버지와 함께 살고 싶었어.

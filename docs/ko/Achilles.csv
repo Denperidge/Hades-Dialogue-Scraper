@@ -144,10 +144,10 @@ AchillesAboutGiftingGods01|Achilles About Gifting Gods 01|Achilles|보통은 어
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|걱정이 있어 보이는구나. 말해 보지 않으련?
 AchillesAboutDemeter01|Achilles About Demeter 01|Zagreus|아, 아니에요. 그저... 밖에서 데메테르 여신님을 만났어요. 그녀가 내려주신 은혜들이 하나같이... 모든 것에서 온기와 생명을 빼앗아가는 식이었어요. 전 그녀가 열매, 곡물, 채소 등을 관장하시는 분이신 줄 알고 있었는데요... 뭐, 불평하는 건 아니고요.
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|모든 신과 여신은 두려움의 존재란다. 데메테르 님은, 생명을 불어넣는 힘과 앗아가는 힘을 관장하시지. 후자에 더 관심이 있으신 것 같지만 말이다. 잘은 모르겠지만, 네 아버지는 올림포스의 최고 연장자인 그녀에게 특별히 반감을 품고 있는 것 같으시더구나, 조심하거라.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|아킬레우스 님. 어머니와 두사 사이에 무슨 일이 벌어졌죠? 두사는 정말 가버린 겁니까?
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|닉스가 두사를 쫓아냈어. 유감이야. 네가 두사를 아낀다는 건 알고 있네. 나도 두사가 그렇게 된 걸 알고 너만큼이나 놀랐어. 일을 너무 많이 하는 두사의 성향을 닉스가 탐탁치 않아 한다는 것은 알았지만... 이렇게 될 줄이야.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|일을 많이 하는 성향... 정말 그것 때문이라고 생각하세요? 전 제 잘못인 것 같다는 생각을 떨칠 수가 없네요. 어머니는 제가 두사와 이야기하는 걸 좋아하지 않으셨어요. 마치 두사가 저보다 더 하찮은 존재라고 생각하기라도 하는 것처럼요! {#DialogueItalicFormat}아{#PreviousFormat}, 어떻게 해야 할까요.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|이봐... 나는 모르는 일이야. 너도 사정을 잘 모르는 모양이군. 닉스는 너를 사랑하고 존중해. 아마 이 일이 네게 어떤 영향을 주는지 알고 싶어할 거야.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|아킬레우스 님. 어머니와 두사 사이에 무슨 일이 벌어졌죠? 두사는 정말 가버린 겁니까?
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|닉스가 두사를 쫓아냈어. 유감이야. 네가 두사를 아낀다는 건 알고 있네. 나도 두사가 그렇게 된 걸 알고 너만큼이나 놀랐어. 일을 너무 많이 하는 두사의 성향을 닉스가 탐탁치 않아 한다는 것은 알았지만... 이렇게 될 줄이야.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|일을 많이 하는 성향... 정말 그것 때문이라고 생각하세요? 전 제 잘못인 것 같다는 생각을 떨칠 수가 없네요. 어머니는 제가 두사와 이야기하는 걸 좋아하지 않으셨어요. 마치 두사가 저보다 더 하찮은 존재라고 생각하기라도 하는 것처럼요! {#DialogueItalicFormat}아{#PreviousFormat}, 어떻게 해야 할까요.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|이봐... 나는 모르는 일이야. 너도 사정을 잘 모르는 모양이군. 닉스는 너를 사랑하고 존중해. 아마 이 일이 네게 어떤 영향을 주는지 알고 싶어할 거야.
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Zagreus|보셨어요? 두사가 돌아왔어요! 어머니가 생각을 바꾼 게 틀림 없어요.
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Achilles|그랬겠지, 젊은 친구. 나도 두사를 다시 봐서 기뻐. 그거 아나...? 아주 푹 쉬고 온 것 같더군. 아주 유쾌한 일은 아니었을지 모르지만 그래도 좋은 점이 있었기를 바라네.
 AchillesRunProgress01|Achilles Run Progress 01|Achilles|최근에 아스포델까지 갔다면서. 그게 사실이냐?
@@ -219,15 +219,15 @@ AchillesBackstory01|Achilles Backstory 01|Zagreus|아킬레우스, 저기... 파
 AchillesBackstory01|Achilles Backstory 01|Achilles|더 가까울 수 없을 만큼 가까웠지. 우리의 육신은 재가 되어 지상 어딘가에서 함께 뒹굴고 있겠군. 무슨 얘기를 해 주면 될까? 난 그를 진심으로 아꼈다. 그런 나를 그는 너무 일찍 떠나 버렸지.
 AchillesBackstory01|Achilles Backstory 01|Zagreus|그렇다면 그도 여기 지하세계 어딘가에 있을 텐데... 혹시 찾아본 적 있으세요? 아니면 아버지한테 물어봤거나?
 AchillesBackstory01|Achilles Backstory 01|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 너도 바깥에 나가 봤으니 알 거 아니냐... 원하는 길을 찾는 게 얼마나 어려운지. 하지만 너에게 이 한마디는 하마. 수없이 많은 혼령 중에 혹시 파트로클로스를 만난다면 나 대신 안부를 전해다오.
-AchillesBackstory01B|Achilles Backstory B 01|Zagreus|하지만 지금은 두 분 다 여기 지하세계에 있잖아요! 가서 찾아볼 순 없나요? 아니면 아버지와 새로 다시 합의해 보거나.
-AchillesBackstory01B|Achilles Backstory B 01|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 하지만 너에게 이 한마디는 하마. 여행하다 다음에 파트로클로스를 본다면 날 대신해 얘기를 나눠다오. 해 줄 수 있지?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|일은 어떻게 되어 가고 있어? 뭔가 근심이 있는 표정인데. 괜찮은 거냐?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|그냥... 엘리시움 안에서 혼령을 만났는데 당신을 안다고 하더라고요. 당신을 그리워한다고 말했어요. 파트로클로스를 아세요?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|뭐야... 그... 그래. 잘 알지. 잘... 지내고 있더냐?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|그는... 모르겠어요. 지금보다는 예전 삶을 그리워하는 것 같기도 하고. 혹시... 다시 만나면 제가 전할 말이 있으세요?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|...내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Zagreus|그게... 엘리시움 안에서 우연히 한 혼령을 만났는데요. 파트로클로스였어요. 잘 지내는 것처럼 보였지만 예전 삶을 그리워하는 것 같더군요. 혹시 다시 만나면 제가 전할 말이 있으세요?
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Achilles|아...! 그렇다면, 내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
+AchillesBackstory01B|Achilles Backstory 01 B|Zagreus|하지만 지금은 두 분 다 여기 지하세계에 있잖아요! 가서 찾아볼 순 없나요? 아니면 아버지와 새로 다시 합의해 보거나.
+AchillesBackstory01B|Achilles Backstory 01 B|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 하지만 너에게 이 한마디는 하마. 여행하다 다음에 파트로클로스를 본다면 날 대신해 얘기를 나눠다오. 해 줄 수 있지?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|일은 어떻게 되어 가고 있어? 뭔가 근심이 있는 표정인데. 괜찮은 거냐?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|그냥... 엘리시움 안에서 혼령을 만났는데 당신을 안다고 하더라고요. 당신을 그리워한다고 말했어요. 파트로클로스를 아세요?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|뭐야... 그... 그래. 잘 알지. 잘... 지내고 있더냐?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|그는... 모르겠어요. 지금보다는 예전 삶을 그리워하는 것 같기도 하고. 혹시... 다시 만나면 제가 전할 말이 있으세요?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|...내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Zagreus|그게... 엘리시움 안에서 우연히 한 혼령을 만났는데요. 파트로클로스였어요. 잘 지내는 것처럼 보였지만 예전 삶을 그리워하는 것 같더군요. 혹시 다시 만나면 제가 전할 말이 있으세요?
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Achilles|아...! 그렇다면, 내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|잠깐 내 말 좀 듣거라. 지난번에 우리가 야기한 인물에게는 진중히 대하거라. 네가 엘리시움에서 만난 혼령 말이야.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Zagreus|알겠어요. 제가 어떻게 하면 될까요? 제가 할 수 있는 게 분명 있을 텐데. 그보다 먼저 뭐가 어떻게 돌아가는 상황인지 저한테 말씀해 주셔야죠.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|간단히 말하자면 그자가 바로 내가 여기 있는 이유야. 파트로클로스는 나보다 먼저 목숨을 잃었어. 나 때문에. 난 격분에 휩싸여 바로 그의 뒤를 따랐지. 여기 도착했을 때 영웅을 위한 환대를 받았다. 네 아버지는 나를 직접 엘리시움으로 안내해 줬어. 하지만 내가 원한 건 그런 게 아니었어.
@@ -262,14 +262,14 @@ AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Zag
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Achilles|아니... 내게 한 번 더 기회를 주는 거라고 생각해. 난... 잠시 날 혼자 내버려 둬. 말해 줘서 고마워.
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Zagreus|모든 것을 다 걸라는 말에 대해서 생각해 보셨나요? 어떻게 하실 겁니까?
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Achilles|아직 생각 중이야, 젊은 친구. 전투라면 직감을 따라서 즉시 결정을 내리지만 다른 일에서는... 시간이 필요해. 참고 기다려 줘. 결정을 내리면 알려주지.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|날 좀 도와줄 일이 있네. 이제 모든 걸 다 걸 때가 된 것 같아. 한번 들어보겠나?
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|물론이죠, 아킬레우스 님. 무슨 일인가요?
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|내가 네 아버지와 맺었던 규약 말이야. 아마 행정실 어딘가에 묻혀 있을 거야. 그걸 건드렸다가 네가 더 곤란해지는 것이 두려워, 감히 너에게 찾아달라고 부탁할 수 없었지만...
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|...하지만 두려움은 약자들이나 느끼는 것이죠, 아킬레우스 님.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|그렇지. 게다가... 네가 그 날사기꾼의 선고를 무효로 만들었을 때도 네 아버지는 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|다음에 기회가 되면 어머니하고 얘기해 보죠. 꼭 조심할게요. 약속 드리죠.
-AchillesAboutMyrmidonReunionQuest03_B|Achilles About Myrmidon Reunion Quest B 03|Achilles|그렇지. 게다가... 네가 오르페우스와 에우리디케를 갈라놓은 규약을 무효로 했을 때에도 네 아버지는 내 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
-AchillesAboutMyrmidonReunionQuest03_C|Achilles About Myrmidon Reunion Quest C 03|Achilles|그렇지. 게다가... 네가 오르페우스와 시시포스의 처벌을 무효로 만들었을 때에도 네 아버지는 내 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|날 좀 도와줄 일이 있네. 이제 모든 걸 다 걸 때가 된 것 같아. 한번 들어보겠나?
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|물론이죠, 아킬레우스 님. 무슨 일인가요?
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|내가 네 아버지와 맺었던 규약 말이야. 아마 행정실 어딘가에 묻혀 있을 거야. 그걸 건드렸다가 네가 더 곤란해지는 것이 두려워, 감히 너에게 찾아달라고 부탁할 수 없었지만...
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|...하지만 두려움은 약자들이나 느끼는 것이죠, 아킬레우스 님.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|그렇지. 게다가... 네가 그 날사기꾼의 선고를 무효로 만들었을 때도 네 아버지는 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|다음에 기회가 되면 어머니하고 얘기해 보죠. 꼭 조심할게요. 약속 드리죠.
+AchillesAboutMyrmidonReunionQuest03_B|Achilles About Myrmidon Reunion Quest 03 B|Achilles|그렇지. 게다가... 네가 오르페우스와 에우리디케를 갈라놓은 규약을 무효로 했을 때에도 네 아버지는 내 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
+AchillesAboutMyrmidonReunionQuest03_C|Achilles About Myrmidon Reunion Quest 03 C|Achilles|그렇지. 게다가... 네가 오르페우스와 시시포스의 처벌을 무효로 만들었을 때에도 네 아버지는 내 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Zagreus|규약을 찾는 중이에요, 아킬레우스 님. 조금만 더 시간을 주세요.
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Achilles|내겐 인내심이 전부야, 젊은 친구. 지금 희망을 잃지 않으려고 노력 중이지. 애써 줘서 고마워. 다음에 대화를 나눌 때는 네가 성공했으면 좋겠군.
 MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Zagreus|아킬레우스 님! 아버지와의 규약이 공식적으로 수정되었습니다. 이제 고용 기간 동안 엘리시움 출입을 무기한 금하는 조항이 삭제되었어요. 하데스의 이름으로 제가 대신 아킬레우스 님의 헌신에 감사드립니다.
@@ -360,33 +360,33 @@ AchillesGift02|Achilles Gift 02|Achilles|뭐? 날 위한 거라고? 이럴 필�
 AchillesGift02|Achilles Gift 02|Zagreus|지하세계에서 생활하기엔 너무 훌륭한 분이시니까요.
 AchillesGift03|Achilles Gift 03|Achilles|설마, 날 위한 거냐...? 내가 이런 걸 어떻게 받겠어. 너도 알지 않냐.
 AchillesGift03|Achilles Gift 03|Zagreus|아킬레우스, 괜찮아요. 잠깐이나마 삶을 누리세요... 아무한테도 말 안 하시면 저도 아무 말 안 할게요.
-AchillesGift04_A|Achilles Gift A 04|Achilles|{#DialogueItalicFormat}아{#PreviousFormat}, 정말 감동이구나. 나한테 이걸 전해 주려고 굳이 돌아왔다고 믿고 싶지 않다만. 그래도 정말 고맙다.
-AchillesGift04_A|Achilles Gift A 04|Zagreus|항상 저를 위해 애써 주셨잖아요, 아킬레우스. 아버지가 절 쫓아냈을 때도. 해 주신 것에 비하면 이건 아무것도 아니에요. 뭘 해도 그 은혜에 충분히 보답할 수 없을 거예요.
-AchillesGift05_A|Achilles Gift A 05|Achilles|네가 보여 준 친절은 고맙다만... 괜히 오해를 사고 싶지 않구나. 내가 지금은 비록 혼자이지만, 내 마음은 다른 사람에게 향해 있어. 살아 있을 때부터 쭉 그래 왔다. 이해해 주길 바란다.
-AchillesGift05_A|Achilles Gift A 05|Zagreus|실은... 그런 줄 알고 있었어요, 아킬레우스. 그와 상관없이 드리고 싶었어요. 그러니... 굳이 슬픔을 떨쳐 버리려 하지 마세요. 오히려 당신을 강하게 만드는 원천인 것 같으니까요.
-AchillesGift05_A|Achilles Gift A 05|Achilles|고맙다. 내 걱정은 안 해도 돼. 처음으로 마음의 상처를 받았을 때 느낀 슬픔과 분노는 이미 지나간 지 오래야. 지금은 그저 또 다른 흉터만 남았을 뿐이지. 흉터가 우리를 강하게 만든다는 말도 있지 않니.
-AchillesGift05_B|Achilles Gift B 05|Achilles|젊은 친구, 나한테 이럴 것 없어... 난 그냥 늙은 살인자일 뿐이지만 자네는 나를 뭐라도 되는 것처럼 대해 주는군. 이 집에 처음 발을 들일 때는 상상도 못한 대접이야.
-AchillesGift05_B|Achilles Gift B 05|Zagreus|아킬레우스 님은 위대한 영웅 아니십니까? 지금도, 앞으로도 항상 그럴 겁니다! 훨씬 더 나은 대접을 받으실 자격이 있습니다. 제가 더 해 드릴 것이 있으면 좋겠네요.
-AchillesGift05_B|Achilles Gift B 05|Achilles|고맙다. 내 걱정은 마. 난 여기 있는 것만으로도 영광이야. 게다가... 자네만한 제자를 또 어디에서 찾겠는가.
-AchillesGift06_A|Achilles Gift A 06|Zagreus|아킬레우스, 휴게실에서 저랑 이걸 나눠 가지면 어떨까 하는데. 잠시 휴식을 취할 핑곗거리도 될 테고요?
-AchillesGift06_A|Achilles Gift A 06|Achilles|나에게 할애할 시간이 있나...? 물론 거절할 생각은 없다만. 거기서 보자.
-AchillesGift06_A|Achilles Gift A 06|Achilles|...내가 어리석었어. 신들은 죽음 이후에도 영원한 영광을 주겠다고 약속했어. 전쟁에 나가서 싸우지 않아도 됐는데. 파트로클로스와 편히 집에 머무를 수 있었는데. 내가 모든 걸 망쳤어. 그리고 많은 이들을 이곳으로 보냈지.
-AchillesGift06_A|Achilles Gift A 06|Zagreus|이미 엎질러진 물은 주워 담을 수 없어요. 제 마음속엔 여전히 생존했던 가장 위대한 전사로 남아 있는걸요. 영광을 추구하시는 건가요? 아니면 파트로클로스를 그리워하시는 건가요?
-AchillesGift06_A|Achilles Gift A 06|Achilles|영광은 더 이상 아무 의미 없어. 그거 하나는 확실하다. 반면 파트로클로스는... 나에게서 영원히 떠나 버린 것만 같구나. 그의 혼령이 이 영역 안 어딘가에 있을지 몰라도 날 용서하지 않는다는 조건으로 헤어졌으니까. 다만... 이제 난 내 자리로 돌아가 봐야겠다.
-AchillesGift06_A|Achilles Gift A 06|Achilles|...내가 괜히 이곳에 짙은 먹구름만 드리운 건 아닌지 모르겠구나. 아무튼 너와 못다 한 이야기를 나눌 기회를 얻은 것만으로 감사하다. 너도 그만 갈 길을 가라! 몸조심하고.
-AchillesGift07_A|Achilles Gift A 07|Zagreus|아킬레우스 님, 다음 번에 엘리시움에 가실 때 이걸 가지고 가세요. 가서 나눠 드세요.
-AchillesGift07_A|Achilles Gift A 07|Achilles|암브로시아... 영광이야, 젊은 친구. 네가 베푼 은혜를 생각하면 내가 선물을 줘야 할 텐데 말이야. 마침 여기 하나 줄 것이 있군. 패트와 내가 주는 선물이야.
-AchillesGift08_A|Achilles Gift A 08|Zagreus|아킬레우스 님보다 이걸 받을 자격이 있는 분은 없어요. 다음 번에 쉬실 때나 특별한 일이 있을 때 즐기세요, 아셨죠?
-AchillesGift08_A|Achilles Gift A 08|Achilles|신이 된다는 건 이런 기분이겠군, 젊은 친구. 이렇게 큰 사랑을 받다니 말이야. 게다가 공물까지! 진심인가?
-AchillesGift08_A|Achilles Gift A 08|Zagreus|진심으로 드리는 겁니다. 아킬레우스 님의 지도가 아니었더라면 지금의 저는 없었을 테니까요. 싸우는 기술만 말씀드리는 게 아닙니다.
-AchillesGift08_A|Achilles Gift A 08|Achilles|그러지 마, 젊은 친구. 내가 말을 잘 해 줬나 본데, 난 그저 살인자에 지나지 않아. 내가 너라면 내가 하는 조언을 경계할 거야.
-AchillesGift08_A|Achilles Gift A 08|Zagreus|보세요, 이렇게 좋은 말씀을 해주시지 않습니까!
-AchillesGift09_A|Achilles Gift A 09|Zagreus|이거 받으세요. 두 분께 드리는 겁니다. 지금까지 고생하신 것들을 다 보상 받는 영원을 누리시기를 바랍니다.
-AchillesGift09_A|Achilles Gift A 09|Achilles|아, 고마워. 젊은 친구. 자그레우스 왕자. 이러지 않아도 되는데. 이번에는 받겠지만 더는 받지 않겠어.
-AchillesGift09_A|Achilles Gift A 09|Zagreus|정말로요? 그게... 문제는 없지만... 저는 좋아하시는 줄 알았는데 아니었나요?
-AchillesGift09_A|Achilles Gift A 09|Achilles|물론 좋아하지. 하지만 엘리시움에서는... 이런 건 그냥 받는 게 아니라 자신의 힘으로 얻어야 하는 것이거든. 아무래도... 거기 있다 보니 옛 자부심이 되살아나는 것 같아.
-AchillesGift09_A|Achilles Gift A 09|Zagreus|그거 잘됐네요. 자부심을 가질 만하세요. 아킬레우스 님은 훌륭한 전사이고, 훌륭한 스승이자 훌륭한 친구니까요.
-AchillesGift09_A|Achilles Gift A 09|Achilles|...내게 자부심을 가질 만한 것이 있다면... 자네 같은 사람이 진심으로 그런 말을 해 준다는 것이겠지.
+AchillesGift04_A|Achilles Gift 04 A|Achilles|{#DialogueItalicFormat}아{#PreviousFormat}, 정말 감동이구나. 나한테 이걸 전해 주려고 굳이 돌아왔다고 믿고 싶지 않다만. 그래도 정말 고맙다.
+AchillesGift04_A|Achilles Gift 04 A|Zagreus|항상 저를 위해 애써 주셨잖아요, 아킬레우스. 아버지가 절 쫓아냈을 때도. 해 주신 것에 비하면 이건 아무것도 아니에요. 뭘 해도 그 은혜에 충분히 보답할 수 없을 거예요.
+AchillesGift05_A|Achilles Gift 05 A|Achilles|네가 보여 준 친절은 고맙다만... 괜히 오해를 사고 싶지 않구나. 내가 지금은 비록 혼자이지만, 내 마음은 다른 사람에게 향해 있어. 살아 있을 때부터 쭉 그래 왔다. 이해해 주길 바란다.
+AchillesGift05_A|Achilles Gift 05 A|Zagreus|실은... 그런 줄 알고 있었어요, 아킬레우스. 그와 상관없이 드리고 싶었어요. 그러니... 굳이 슬픔을 떨쳐 버리려 하지 마세요. 오히려 당신을 강하게 만드는 원천인 것 같으니까요.
+AchillesGift05_A|Achilles Gift 05 A|Achilles|고맙다. 내 걱정은 안 해도 돼. 처음으로 마음의 상처를 받았을 때 느낀 슬픔과 분노는 이미 지나간 지 오래야. 지금은 그저 또 다른 흉터만 남았을 뿐이지. 흉터가 우리를 강하게 만든다는 말도 있지 않니.
+AchillesGift05_B|Achilles Gift 05 B|Achilles|젊은 친구, 나한테 이럴 것 없어... 난 그냥 늙은 살인자일 뿐이지만 자네는 나를 뭐라도 되는 것처럼 대해 주는군. 이 집에 처음 발을 들일 때는 상상도 못한 대접이야.
+AchillesGift05_B|Achilles Gift 05 B|Zagreus|아킬레우스 님은 위대한 영웅 아니십니까? 지금도, 앞으로도 항상 그럴 겁니다! 훨씬 더 나은 대접을 받으실 자격이 있습니다. 제가 더 해 드릴 것이 있으면 좋겠네요.
+AchillesGift05_B|Achilles Gift 05 B|Achilles|고맙다. 내 걱정은 마. 난 여기 있는 것만으로도 영광이야. 게다가... 자네만한 제자를 또 어디에서 찾겠는가.
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|아킬레우스, 휴게실에서 저랑 이걸 나눠 가지면 어떨까 하는데. 잠시 휴식을 취할 핑곗거리도 될 테고요?
+AchillesGift06_A|Achilles Gift 06 A|Achilles|나에게 할애할 시간이 있나...? 물론 거절할 생각은 없다만. 거기서 보자.
+AchillesGift06_A|Achilles Gift 06 A|Achilles|...내가 어리석었어. 신들은 죽음 이후에도 영원한 영광을 주겠다고 약속했어. 전쟁에 나가서 싸우지 않아도 됐는데. 파트로클로스와 편히 집에 머무를 수 있었는데. 내가 모든 걸 망쳤어. 그리고 많은 이들을 이곳으로 보냈지.
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|이미 엎질러진 물은 주워 담을 수 없어요. 제 마음속엔 여전히 생존했던 가장 위대한 전사로 남아 있는걸요. 영광을 추구하시는 건가요? 아니면 파트로클로스를 그리워하시는 건가요?
+AchillesGift06_A|Achilles Gift 06 A|Achilles|영광은 더 이상 아무 의미 없어. 그거 하나는 확실하다. 반면 파트로클로스는... 나에게서 영원히 떠나 버린 것만 같구나. 그의 혼령이 이 영역 안 어딘가에 있을지 몰라도 날 용서하지 않는다는 조건으로 헤어졌으니까. 다만... 이제 난 내 자리로 돌아가 봐야겠다.
+AchillesGift06_A|Achilles Gift 06 A|Achilles|...내가 괜히 이곳에 짙은 먹구름만 드리운 건 아닌지 모르겠구나. 아무튼 너와 못다 한 이야기를 나눌 기회를 얻은 것만으로 감사하다. 너도 그만 갈 길을 가라! 몸조심하고.
+AchillesGift07_A|Achilles Gift 07 A|Zagreus|아킬레우스 님, 다음 번에 엘리시움에 가실 때 이걸 가지고 가세요. 가서 나눠 드세요.
+AchillesGift07_A|Achilles Gift 07 A|Achilles|암브로시아... 영광이야, 젊은 친구. 네가 베푼 은혜를 생각하면 내가 선물을 줘야 할 텐데 말이야. 마침 여기 하나 줄 것이 있군. 패트와 내가 주는 선물이야.
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|아킬레우스 님보다 이걸 받을 자격이 있는 분은 없어요. 다음 번에 쉬실 때나 특별한 일이 있을 때 즐기세요, 아셨죠?
+AchillesGift08_A|Achilles Gift 08 A|Achilles|신이 된다는 건 이런 기분이겠군, 젊은 친구. 이렇게 큰 사랑을 받다니 말이야. 게다가 공물까지! 진심인가?
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|진심으로 드리는 겁니다. 아킬레우스 님의 지도가 아니었더라면 지금의 저는 없었을 테니까요. 싸우는 기술만 말씀드리는 게 아닙니다.
+AchillesGift08_A|Achilles Gift 08 A|Achilles|그러지 마, 젊은 친구. 내가 말을 잘 해 줬나 본데, 난 그저 살인자에 지나지 않아. 내가 너라면 내가 하는 조언을 경계할 거야.
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|보세요, 이렇게 좋은 말씀을 해주시지 않습니까!
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|이거 받으세요. 두 분께 드리는 겁니다. 지금까지 고생하신 것들을 다 보상 받는 영원을 누리시기를 바랍니다.
+AchillesGift09_A|Achilles Gift 09 A|Achilles|아, 고마워. 젊은 친구. 자그레우스 왕자. 이러지 않아도 되는데. 이번에는 받겠지만 더는 받지 않겠어.
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|정말로요? 그게... 문제는 없지만... 저는 좋아하시는 줄 알았는데 아니었나요?
+AchillesGift09_A|Achilles Gift 09 A|Achilles|물론 좋아하지. 하지만 엘리시움에서는... 이런 건 그냥 받는 게 아니라 자신의 힘으로 얻어야 하는 것이거든. 아무래도... 거기 있다 보니 옛 자부심이 되살아나는 것 같아.
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|그거 잘됐네요. 자부심을 가질 만하세요. 아킬레우스 님은 훌륭한 전사이고, 훌륭한 스승이자 훌륭한 친구니까요.
+AchillesGift09_A|Achilles Gift 09 A|Achilles|...내게 자부심을 가질 만한 것이 있다면... 자네 같은 사람이 진심으로 그런 말을 해 준다는 것이겠지.
 AchillesGift04|Achilles Gift 04|Achilles|약속하마. 날 위해 이런 생각까지 하다니 정말 대견하구나.
 AchillesGift04|Achilles Gift 04|Zagreus|절 인도해 주시는 분인데 이 정도는 해야죠.
 AchillesGift07|Achilles Gift 07|Achilles|이걸 가지고 있으면 집에서 부러움을 한 몸에 살 거야. 고맙구나. 주변에 좀 나눠 줘도 기분 나쁘지 않겠지?

@@ -193,11 +193,11 @@ PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|きっと気に�
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|ケルベロス、あなたは本当にお利口ね。\n私がいないあいだも冥界の番をして、ザグレウスが\n私を訪ねてこられるように、協力もしてくれて…！
 PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}忠実な番犬ケルベロスは、ただ黙して、称賛を受けた。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥界の闇に沈んだ片隅に、ひっそりと在る、エレボスの地。死者たちはそこで、おのれに下される永遠の判決を待つ。冥王ハデスに訴えが通じ、あわよくば慈悲を垂れてもらうことが、彼らの切なる願いである。
-CharonFight01_FirstInspect|Charon Fight First Inspect 01|Storyteller|{#DialogueItalicFormat}霧深いエレボスの闇の中を、蕩々と流れるステュクス川。道理をわきまえぬ不届き者は、ここで冥府の渡し守カロンの制裁を受けることとなる。
+CharonFight01_FirstInspect|Charon Fight 01 First Inspect|Storyteller|{#DialogueItalicFormat}霧深いエレボスの闇の中を、蕩々と流れるステュクス川。道理をわきまえぬ不届き者は、ここで冥府の渡し守カロンの制裁を受けることとなる。
 Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}燃えさかる炎の川プレゲトンを渡り、灼熱の地を踏破したザグレウス王子は、小高い一角にたたずみ、行く手を見晴らした。その先では、想像を絶するほど恐ろしい怪物が、虎視眈々と彼を待ち受ける。
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}燃えさかる炎の川を越えた先に姿を現した、秘密の階段。上った先にあるのは、冥界で最も神々しく、壮麗な地、エリュシオンだ。生前、大いなる偉業を成し遂げた者たちが永遠の死後生を送るその地では、侵入者を警戒する守りもひときわ堅い。
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}アスポデロスの一角に設えられた、ささやかな住居。響いてくる伸びやかな歌声は、そこで独りひっそりと暮らすエウリュディケのものだ。彼女もかつて、ザグレウス王子のように、冥界からの脱出を試みたことがあった。しかし彼女の望みもまた、叶うことはなかったのである。
-B_MiniBoss02_FirstInspect|B Mini Boss First Inspect 02|Storyteller|{#DialogueItalicFormat}軽々に魔術に手を染める者の多くは不慮の死を迎え、\nタルタロスで永遠の死後生を送ることになる。\nしかしその一方で、魔術師の道を極め、\n死後に別の地を終のすみかとする者も存在する。
+B_MiniBoss02_FirstInspect|B Mini Boss 02 First Inspect|Storyteller|{#DialogueItalicFormat}軽々に魔術に手を染める者の多くは不慮の死を迎え、\nタルタロスで永遠の死後生を送ることになる。\nしかしその一方で、魔術師の道を極め、\n死後に別の地を終のすみかとする者も存在する。
 Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|{#DialogueItalicFormat}冥界に送り込まれた死者の魂と、彼らの帯びる副葬品のすべてを舟に乗せ、地底を流れるあらゆる“水域”を行き来する渡し守、カロン。プレゲトン川の燃えさかる炎も、舞い上がる灰も、彼にとっては、なんら脅威となりえない。
 Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|{#DialogueItalicFormat}プレゲトン川の燃えさかる炎の内にも、ひっそりと、いくばくかの水が残る。それは、幸運にも運命の三女神から冥界の王子にもたらされた、恵みの滴であろうか。
 Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|{#DialogueItalicFormat}かつては豊かな草花に覆われていたアスポデロスも、今は燃えさかる炎にすっかり飲まれている。プレゲトン川を流れる灼熱の溶岩に触れれば、いかに熱に強い体質の持ち主であろうと、瞬く間に命を奪われるのだ。
@@ -220,13 +220,13 @@ Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|{#DialogueItalicFormat}恐ろし�
 Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|{#DialogueItalicFormat}神殿の冷たき側面より伸びる、粗雑に掘られた隧道。編み目のごとく張り巡らされたその域内には、死してなお冥界で疎まれる、獰猛な害獣が潜む。
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}寒風にさらされ、凍てつく寒気に荒廃した地上の風景は、それでもなお、冥界の王子に畏怖の念を抱かせる。眼下に広がる壮大な光景は、彼がこれまで目にした、いかなる景色とも異なっている。
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}かつて冥界全土の女王として君臨したペルセポネ。彼女の秘密の園には、多種多様な果物と野菜が豊かに実る。死者の国より遠く離れたそこは、まさに生命の楽園である。
-A_PreBoss_01_FirstInspect|A Pre Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}この先に広がるのは、タルタロスの最果て。そこには、冥界の王子の想像を超える危険が待ち受ける…
-A_Boss_01_Inspect01|A Boss Inspect 01 01|Storyteller|{#DialogueItalicFormat}「復讐の三女神」として知られるエリニュスたちは、冥王ハデスからの信頼も厚い、冥府の番人である。命限りある者のなかでも特に重罪を犯した者に罰を与え、冥界において、立ち入りを禁じられている領域に侵入せんとする者を排除する任を負う。
-A_PostBoss_01_FirstInspect|A Post Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}タルタロスより先へと続く道が、ついにあらわとなった。すでにはるか上方からは、燃えさかるプレゲトン川の熱がかすかに伝わってくる… だがそれは、この川の真の恐ろしさの片鱗ですらない。
-A_PostBoss_01_GearsInspect01|A Post Boss Gears Inspect 01 01|Storyteller|{#DialogueItalicFormat}果てしなく広がる冥界の各領域をつなぐ、複雑に入り組んだ区画の数々。そこに足を踏み入れることが許されるのは、冥王ハデスより信頼を得た側近たちのみである。しかし冥界の王子は、かまわず侵入することにした。
-A_MiniBoss03_01_FirstInspect|A Mini Boss First Inspect 03 01|Storyteller|{#DialogueItalicFormat}奈落タルタロスで罰を受ける亡者のうち、特に凶暴な者は、他者から隔離された一画に幽閉されている。彼らを訪ねるのは、愚かにも冥界からの脱出を計る者のみだ。
-A_MiniBoss04_01_FirstInspect|A Mini Boss First Inspect 04 01|Storyteller|{#DialogueItalicFormat}冥界送りとなり、行き場をなくした亡者たちは、奈落タルタロスの深淵に集う。彼らはそこで土と交わり、名状しがたい醜怪な姿へと変化を遂げるのだ。
-A_Reprieve_01_FirstInspect|A Reprieve First Inspect 01|Storyteller|{#DialogueItalicFormat}平穏とは無縁かに思える冥界にも、穏やかな安息の地は散在する。
+A_PreBoss_01_FirstInspect|A Pre Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}この先に広がるのは、タルタロスの最果て。そこには、冥界の王子の想像を超える危険が待ち受ける…
+A_Boss_01_Inspect01|A Boss 01 Inspect 01|Storyteller|{#DialogueItalicFormat}「復讐の三女神」として知られるエリニュスたちは、冥王ハデスからの信頼も厚い、冥府の番人である。命限りある者のなかでも特に重罪を犯した者に罰を与え、冥界において、立ち入りを禁じられている領域に侵入せんとする者を排除する任を負う。
+A_PostBoss_01_FirstInspect|A Post Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}タルタロスより先へと続く道が、ついにあらわとなった。すでにはるか上方からは、燃えさかるプレゲトン川の熱がかすかに伝わってくる… だがそれは、この川の真の恐ろしさの片鱗ですらない。
+A_PostBoss_01_GearsInspect01|A Post Boss 01 Gears Inspect 01|Storyteller|{#DialogueItalicFormat}果てしなく広がる冥界の各領域をつなぐ、複雑に入り組んだ区画の数々。そこに足を踏み入れることが許されるのは、冥王ハデスより信頼を得た側近たちのみである。しかし冥界の王子は、かまわず侵入することにした。
+A_MiniBoss03_01_FirstInspect|A Mini Boss 03 01 First Inspect|Storyteller|{#DialogueItalicFormat}奈落タルタロスで罰を受ける亡者のうち、特に凶暴な者は、他者から隔離された一画に幽閉されている。彼らを訪ねるのは、愚かにも冥界からの脱出を計る者のみだ。
+A_MiniBoss04_01_FirstInspect|A Mini Boss 04 01 First Inspect|Storyteller|{#DialogueItalicFormat}冥界送りとなり、行き場をなくした亡者たちは、奈落タルタロスの深淵に集う。彼らはそこで土と交わり、名状しがたい醜怪な姿へと変化を遂げるのだ。
+A_Reprieve_01_FirstInspect|A Reprieve 01 First Inspect|Storyteller|{#DialogueItalicFormat}平穏とは無縁かに思える冥界にも、穏やかな安息の地は散在する。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}乱雑に並べられた、冥府名物の品々。ステュクス川の渡し守カロンの飽くなき物欲を満たしてやれば、それらを手に入れることが叶うだろう。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥界を流れる、悪名高きステュクス川。渡し守カロンは亡霊たちを舟に乗せ、生者の国から地の底へ、一瞬で渡りゆく。そうして運ばれた亡霊たちの大半は、そこで永遠の時を過ごすのだ。
 OpeningFirstInspect|Opening First Inspect|Storyteller|{#DialogueItalicFormat}冥王ハデスの統べる冥界は、絶えず姿形を変える無数の区画から成る。死者たちはその迷宮の底から、永久に逃れることはかなわない。

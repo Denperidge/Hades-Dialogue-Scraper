@@ -27,8 +27,8 @@ NyxAboutHades02|Nyx About Hades 02|Zagreus|あなたはオリュンポスの神�
 NyxAboutHades02|Nyx About Hades 02|Nyx|気遣いは無用です。私は夜の化身。冥王とて、みずからの都合で私に罰を下すことなどできません。私なしでは\n当館は立ち行かない。冥王も、それを承知しています。\n彼と私には共通の目的があり、互いに協力する義務を\n負っています。
 NyxAboutHades02|Nyx About Hades 02|Zagreus|だったらどうして、俺の実母のことで、父上の嘘に話を合わせてやる必要が…？
 NyxAboutHades02|Nyx About Hades 02|Nyx|…その件については、私の裁量で語ることは\nできません。いつの日かあなたがじつの母親に\nまみえたとき、すべてを理解するでしょう。
-NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|「互いに協力する義務」… 俺が父上とあなたを夫婦だと疑ってやまなかったのも、当然ですね…
-NyxAboutHades02_B|Nyx About Hades B 02|Nyx|あなたの父と私も… 時に、そういった感覚を覚えます。
+NyxAboutHades02_B|Nyx About Hades 02 B|Zagreus|「互いに協力する義務」… 俺が父上とあなたを夫婦だと疑ってやまなかったのも、当然ですね…
+NyxAboutHades02_B|Nyx About Hades 02 B|Nyx|あなたの父と私も… 時に、そういった感覚を覚えます。
 NyxAboutAthena01|Nyx About Athena 01|Zagreus|女神アテナからの言づてです。\nあなたを敬愛している、と。オリュンポスの神々は、\n冥界の神を忌み嫌っている思っていました…
 NyxAboutAthena01|Nyx About Athena 01|Nyx|あなたは彼らの肉親。そして、アテナは賢き女神。\n私のような者が特に彼女に目を掛けた理由を察するはずと推測しました。彼女はその見返りとして、みずからの一族に、あなたのことを周知させたのです。
 NyxAboutAthena02|Nyx About Athena 02|Zagreus|アテナから言づてです。俺が地上を目指すようになって以来、あなたとは頻繁に連絡を取っているようですね。
@@ -240,7 +240,7 @@ NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|じつは… 実際、�
 NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|方法は、ないと推測されます。\nが、その必要もないでしょう。\n好敵手ができたことを、彼なりに喜んでいるかと。\nカロンに挑む者など、滅多に現れません。
 NyxMegDefeated01|Nyx Meg Defeated 01|Nyx|メガイラを倒したものと理解しています。彼女は\n酒場で、もう長いこと陰鬱な表情を浮かべています。\n彼女がこの館で鞭を振るうことはありませんが、\n舌鋒を受ける覚悟は必要かと。
 NyxMegDefeated01|Nyx Meg Defeated 01|Zagreus|声を掛けたほうがよさそうだな…\n知らせてくれて、ありがとうございます。
-NyxMegDefeated01_Alt|Nyx Meg Defeated Alt 01|Nyx|メガイラを倒したものと理解しています。彼女は館の\n片隅で、もう長いこと陰鬱な表情を浮かべています。\n彼女がこの館で鞭を振るうことはありませんが、舌鋒を受ける覚悟は必要かと。
+NyxMegDefeated01_Alt|Nyx Meg Defeated 01 Alt|Nyx|メガイラを倒したものと理解しています。彼女は館の\n片隅で、もう長いこと陰鬱な表情を浮かべています。\n彼女がこの館で鞭を振るうことはありませんが、舌鋒を受ける覚悟は必要かと。
 NyxAboutChaos01|Nyx About Chaos 01|Zagreus|「カオス」と名乗る者に、心当たりはありますか？物腰の柔らかい、おだやかな印象の存在でした… 最近接触を受けて、功徳らしきものを授かったんですが…
 NyxAboutChaos01|Nyx About Chaos 01|Nyx|原初の混沌、カオス… よく承知しています。\nあなたの試みに、興味を抱いたのでしょう。\nあの者からの授かり物には、くれぐれも警戒を。\nとはいえ、カオスが他者を欺くことはありません。
 NyxAboutChaos02|Nyx About Chaos 02|Zagreus|カオスについて、聞きたいことが山ほどあります…\n質問に答えてもらえませんか？
@@ -274,8 +274,8 @@ NyxAboutMeg02|Nyx About Meg 02|Nyx|フフフ… あなた方ふたりの関係�
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|あなたとメガイラが相互理解を深めたことについて、\nうれしさを覚えます。あなたとメガイラがこうした\n結果に到達する能力を有していることを、\n願っていました。
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|メガイラと俺のこと、よろこんでくれるんですか？\nニュクスのことだから、\n「職務の妨げになる」と心配するかと…\nもちろん、認めてもらえてうれしいですが…
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|メガイラが職務怠慢に陥る恐れはないと判断します。\n加えて、こうした事象は総じて、大いなる達成に\nつながるものです。とはいえ、そのような関係に\n求めるものは、大いなる幸福感のみで十分である\n場合が大半です。
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|メグと俺が親しくなったこと、\nよろこんでくれるんですか？うれしいですが…\nメグの仕事に支障が出るんじゃないかと、心配で…
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|あなた方、双方について、そのような懸念は抱いて\nいません。双方とも、みずからの職務に注力して\nいます。ときおり必要となる対戦程度で、\nあなた方の絆がほころぶことはないと考えます。\nだからこそ、絆が結束された… 違いますか？
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Zagreus|メグと俺が親しくなったこと、\nよろこんでくれるんですか？うれしいですが…\nメグの仕事に支障が出るんじゃないかと、心配で…
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Nyx|あなた方、双方について、そのような懸念は抱いて\nいません。双方とも、みずからの職務に注力して\nいます。ときおり必要となる対戦程度で、\nあなた方の絆がほころぶことはないと考えます。\nだからこそ、絆が結束された… 違いますか？
 NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|地上を目指す途中で、タナトスに会いました。\n俺に協力してくれましたが…\n俺が館を去ったことで、腹を立てているようでした。
 NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|タナトスは、あなたの身を案じています。\nあなたが彼から感じた「怒り」の感情は、\n彼の本心ではありません。礼を欠いた\n態度については、目こぼし願います。
 NyxAboutThanatos02|Nyx About Thanatos 02|Nyx|タナトスが館に帰還しました。\nすでに再会を果たしましたか？心ここにあらず、\nといった様子でした。あなたとの再会に、\nよろこびを感じているのでしょう。
@@ -283,8 +283,8 @@ NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|あなた�
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|そう言ってもらえると、うれしいです。\nタナトスも俺も、長年、お互いへの想いを\nうまく伝えられずにいましたが、\nやっと自分の気持ちに正直になれました。
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|では、あなたも、彼も、互いに求めていたものを得たということ。どうか、私の息子をよしなに願います。彼はときに、限界を超過して仕事をする嫌いがあります。
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|それについては、心配ありませんよ。\nでも、俺も気をつけておきます。
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|冥界でそういう相手を見つけるのは難しいですが、\n俺はいつもタナトスを信頼してきたし、\nあいつも同じ気持ちだと思います。\n以前と比べて、絆が深まった気がします。
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|闇深き地底の根城として、当館の存続するかぎり、その絆の続くことを願います。私の息子のことを、よしなに願います。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Zagreus|冥界でそういう相手を見つけるのは難しいですが、\n俺はいつもタナトスを信頼してきたし、\nあいつも同じ気持ちだと思います。\n以前と比べて、絆が深まった気がします。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Nyx|闇深き地底の根城として、当館の存続するかぎり、その絆の続くことを願います。私の息子のことを、よしなに願います。
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|何事ですか？あなたは今、通常とは異なる懸案を\n抱いています。私に関連することである点は、\nそこはかとなく察知できます。
 NyxAboutDusa01|Nyx About Dusa 01|Zagreus|俺はただ… あなたがデューサに厳しすぎる気がして… べつに責めるつもりはないですが、俺と一切会話するなと命じたそうですね？
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|おのれの本分を果たすよう、注意を促したまで。\nこの館で、使用人が礼節をわきまえぬ行動に及ぶことが\nあってはなりません。にも関わらず、あなたは略式な\n態度をとる… 冥王神ハデスの嫡男が交友すべきは神々\nであり、ゴルゴンの頭部は、友として不適切です。

@@ -3,8 +3,8 @@ DusaFirstMeeting|Dusa First Meeting|Dusa|{#DialogueItalicFormat}오{#PreviousFor
 DusaFirstMeeting|Dusa First Meeting|Zagreus|아니, {#DialogueItalicFormat}음{#PreviousFormat}, 그냥 휴게실이 마치 새것처럼 멋지게 변했다고 말하고 싶어서! 수리하느라 너무 고생한 건 아닌가 싶네.
 DusaFirstMeeting|Dusa First Meeting|Dusa|저, 저, 전, {#DialogueItalicFormat}아아{#PreviousFormat}, 전 서까래를 청소해야 돼요, 전...!
 DusaMiscMeeting02|Dusa Misc Meeting 02|Dusa|부, 부디 편히 머무르시기 바라요! 여기서 더 이상 살고 싶어 하시지 않는다는 거 알지만요.
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 두사? 아마 앞으로도 내가 이렇게 가끔 들를 것 같네. 하지만 내 방은 치우지 않아도 돼. 오래 있지 않을 거니까.
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Dusa|아, {#DialogueItalicFormat}하하하{#PreviousFormat}, 그럼요! 그래도 한 번씩 보기만 할게요. 혹시 마음이 바뀌실 수도 있으니까요. 그럼 안녕히 계세요!
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 두사? 아마 앞으로도 내가 이렇게 가끔 들를 것 같네. 하지만 내 방은 치우지 않아도 돼. 오래 있지 않을 거니까.
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Dusa|아, {#DialogueItalicFormat}하하하{#PreviousFormat}, 그럼요! 그래도 한 번씩 보기만 할게요. 혹시 마음이 바뀌실 수도 있으니까요. 그럼 안녕히 계세요!
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|{#DialogueItalicFormat}저기{#PreviousFormat}, 왕자님, 아버님이 지금 화가 많이 나신 것 같아요. 무슨 일인지 모르겠지만 당분간 피해 계시는 게 좋을 듯해요. 아니면 여기 안 계신다고 가서 말씀드릴까요?
 DusaMiscMeeting03|Dusa Misc Meeting 03|Zagreus|괜찮아, 두사. 안 그래도 돼. 난 아버지가 무섭지 않아. 그러니 너도 무서워할 필요 없어. 너만큼 일 잘하는 아이가 또 어디 있다고.
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|그, 그냥 제가 할 일을 하는 것일 뿐인걸요, 왕자님...!
@@ -34,8 +34,8 @@ DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|잠깐, 두�
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|왕자님, 부탁드려요! 좋은 뜻으로 하시는 말씀인 줄은 알지만, 제가 다 할 수 있어요! 다들 제 능력을 그만 의심했으면 좋겠어요. 저 집 계약자 같은 사람들 말이에요. 가만히 서가지고 일을 기다리고만 있다니까요. 그런데 제가 일을 시키면 {#DialogueItalicFormat}할 생각도 안 해요{#PreviousFormat}.
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|집 계약자가 너한테 협조를 안 한다니, 허. 어쩐지 휴게실 개장이 영 진행이 안 된다 했어. 내가 바퀴에 기름칠 좀 해도 될까?
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|{#DialogueItalicFormat}아앗{#PreviousFormat}, 잊고 있었어요! 주방장한테 윤활유를 더 받아와야 돼요! 가볼게요!!
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Zagreus|아, 그건 내 잘못일 거야. 내가 계약자에게 일을 많이 주고 있거든. 휴게실 주문은 네가 넣는 거 맞지? 여긴 이제 제법 그럴듯해졌는걸!
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Dusa|자, 자, 잠깐만요. 이걸 다 승인하는 분이 왕자님이라고요?! 이런, 세상에, {#DialogueItalicFormat}아아아아{#PreviousFormat}!
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Zagreus|아, 그건 내 잘못일 거야. 내가 계약자에게 일을 많이 주고 있거든. 휴게실 주문은 네가 넣는 거 맞지? 여긴 이제 제법 그럴듯해졌는걸!
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Dusa|자, 자, 잠깐만요. 이걸 다 승인하는 분이 왕자님이라고요?! 이런, 세상에, {#DialogueItalicFormat}아아아아{#PreviousFormat}!
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Zagreus|휴게실이 요즘 아주 좋아졌어, 두사! 네가 열심히 일한 덕분이야!
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Dusa|{#DialogueItalicFormat}하하{#PreviousFormat}! 감사합니다, 왕자님. 그냥 요새 집 계약자가 좀 더 협조적이고 일도 빨리 하더라고요. 그래도 아직 할 일이 많이 남았으니 기대해 주세요!
 DusaLoungeRenovationQuestComplete|Dusa Lounge Renovation Quest Complete|Dusa|{#DialogueItalicFormat}어{#PreviousFormat}, 자그레우스 왕자님...? 드릴 말씀이 있는데 시간 괜찮으세요? 바쁘시다면... 나중에 다시 올게요.
@@ -97,8 +97,8 @@ DusaAboutGorgons02|Dusa About Gorgons 02|Dusa|아뇨, 그렇지 않아요! 그 �
 DusaAboutGorgons02|Dusa About Gorgons 02|Zagreus|잠깐, 나? 그런 생각은 안 해봤어. 아마... 아버지께 받은 거겠지. 아버지가 나한테 말을 가르치겠다고 고집을 부리셨으니까. 아니면 핏줄 때문인지도 몰라.
 DusaAboutGorgons03|Dusa About Gorgons 03|Zagreus|두사, 이건 좀 개인적인 일이니까 대답하지 않아도 돼. 내가 궁금해서 그러는데... 혹시... 옛날에 몸이나 그런게 있었어? 얼마 전에 들었는데 고르곤한테는... 날개도 있다던데?
 DusaAboutGorgons03|Dusa About Gorgons 03|Dusa|왕자님. 그것 참 개인적인 질문이네요... 나쁜 뜻은 없지만 다른 분들과 이야기를 나눌 주제는 아닌 것 같아요. 아시겠죠? 저는 저예요! 그리고 보시다시피 저는 날개가 없어도 잘 날아다닌답니다!
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Zagreus|두사 양, 내가, {#DialogueItalicFormat}음{#PreviousFormat}, 과거에 대해 물어봐서 미안. 난 그냥 널 좀 더 잘 알고 싶었어. 근데 내가 좀 무례했던 것 같아. 미안해. 용서해 줘.
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Dusa|오, 왕자님. 이러지 마세요! 걱정하실 것 없어요! 저는 이미 다 잊었답니다. 별일 아니에요. 그냥 옛날의 저는... 심지어 저도 아니네요. 지금 이게 저예요! 저는 여기 와서 기뻐요.
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Zagreus|두사 양, 내가, {#DialogueItalicFormat}음{#PreviousFormat}, 과거에 대해 물어봐서 미안. 난 그냥 널 좀 더 잘 알고 싶었어. 근데 내가 좀 무례했던 것 같아. 미안해. 용서해 줘.
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Dusa|오, 왕자님. 이러지 마세요! 걱정하실 것 없어요! 저는 이미 다 잊었답니다. 별일 아니에요. 그냥 옛날의 저는... 심지어 저도 아니네요. 지금 이게 저예요! 저는 여기 와서 기뻐요.
 DusaAboutGorgons04|Dusa About Gorgons 04|Zagreus|다른 사람을 돌로 만들 수 있으면 아주 편리할 것 같아. 언제든지 할 수 있는 거야? 혀를 내밀거나 뭐 그런 것처럼?
 DusaAboutGorgons04|Dusa About Gorgons 04|Dusa|그렇게 쉽지는 않지만 어렵지도 않아요! 일단 화가 나야 되고요, 보고 있는 걸 마치 그림처럼 생각하면서 {#DialogueItalicFormat}후욱{#PreviousFormat}! 그러면 돌이 돼요. 재미있어요. 전 누구나 이렇게 할 수 있는 줄 알았다니까요!
 DusaAboutSingersReunionQuest01|Dusa About Singers Reunion Quest 01|Dusa|왕자님, 오르페우스를 만났는데요. 잠시 시간이 생겼다던데, 왕자님이 하신 건가요? 뮤즈를 만나러 간다고 하더라고요. 너무 신나요. 지금까지 계속 서로 못 만났던 거잖아요!
@@ -120,8 +120,8 @@ DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Zagreus|여기가 언제 
 DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Dusa|그런 말씀 마세요, 왕자님! 케르베로스가 더 잘 알아요. 그리고 왕자님도 바쁘시잖아요. 저도 바쁘고요! 제가 최선을 다할 테니 지켜봐 주세요!
 DusaAboutPersephone01|Dusa About Persephone 01|Zagreus|두사, 나에 대해 네가 알아야 할 게 있어. 나하고 내 어머니 얘기 말이야. 닉스 님 말이야, 그분은 사실 내 진짜 어머니가 아니야...! 내 진짜 어머니는 페르세포네라는 분이야. 저 바깥 어딘가에 계신대. 지상에 말이야. 그래서 내가 떠났던 거야. 잠깐, 너 지금 웃는 거야?
 DusaAboutPersephone01|Dusa About Persephone 01|Dusa|{#DialogueItalicFormat}하하{#PreviousFormat}, 아, 아니에요. 그게, {#DialogueItalicFormat}어{#PreviousFormat}... 정말 정말 죄송한데, {#DialogueItalicFormat}음{#PreviousFormat}, 참을 수가 없어서요. 방해하고 싶지 않았지만, 저는 사실 전부터 알고 있었거든요? 음, 그러니까, 다들 그 얘기를 자주 했거든요? 그냥 저는... 왕자님이 어머니를 빨리 찾으시길 바랄게요!
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Zagreus|넌 내 말을 아무에게나 털어놓지 않을 테니까 하는 말인데... {#DialogueItalicFormat}찾았어{#PreviousFormat}. 그녀를 찾았다고! 지금 그래서... 뭘 해야 할지 고민 중이야. 아직은 비밀이니까... 지켜줄 수 있지?
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Dusa|{#DialogueItalicFormat}우와{#PreviousFormat}, 흥미진진하네요. 어머님은 어떠셨나요? 키가 크신가요? 눈이 닮았나요? 어디에 살고 계세요? 뭘 하고 지내시나요? 직업은요? 머리 색은 뭐죠? 지금, 어, 함께 살고 계신 분이 있나요?
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Zagreus|넌 내 말을 아무에게나 털어놓지 않을 테니까 하는 말인데... {#DialogueItalicFormat}찾았어{#PreviousFormat}. 그녀를 찾았다고! 지금 그래서... 뭘 해야 할지 고민 중이야. 아직은 비밀이니까... 지켜줄 수 있지?
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Dusa|{#DialogueItalicFormat}우와{#PreviousFormat}, 흥미진진하네요. 어머님은 어떠셨나요? 키가 크신가요? 눈이 닮았나요? 어디에 살고 계세요? 뭘 하고 지내시나요? 직업은요? 머리 색은 뭐죠? 지금, 어, 함께 살고 계신 분이 있나요?
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|어, 왜, 왕자님이... 잠깐, 돌아오신 거예요? 아니, 그게...! 저는...! 왜 아직도 여기 계세요?
 DusaRunCleared01|Dusa Run Cleared 01|Zagreus|아, {#DialogueItalicFormat}하하{#PreviousFormat}. 그래! 내가 멀리까지 갔던 건 사실이야, 두사. 하지만... 아직 여기서 못다한 일이 있어서... 가끔은 이렇게 들릴 거야.
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|우와, 그거 대단하네요! 대단한 거죠? 왕자님이 대단하다고 하시면 대단한 거죠! 그래도 괜찮다면요.
@@ -140,10 +140,10 @@ DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|두사, 왜 그러는 거야... 무슨 일이
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|아니에요, 왕자님... 저하고 얘기하시면 안 돼요. 아니, 제가 왕자님하고 얘기하면 안 돼요. 닉스 님이... 저 이제 큰일났어요!
 DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|잠깐만, 두사. 천천히 얘기해 봐. 무슨 일이야? 어머니가 정말 나하고 얘기하지 말라고 하셨어? 왜 그러셨는지 알아?
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|모르겠어요, 왕자님. 저는... 저는 제 일자리를 지켜야 돼요. 그래서 전 왕자님하고 같이 있으면 안 돼요. 이해해 주세요. 전 이제 가야 돼요. 아셨죠?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|두사, 내 생각에 어머니가 좀 걱정하시는 것 같아... 날 걱정하시는 거지만, 네가 말했듯이 우리 둘이 이렇게 이야기하는 걸 안 좋아하시더라고. 혹시... 어머니가 네 일처리 방식을 별로 안 좋아하셔?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|아, 왕자님. 아니에요, 제가 문제예요! 닉스 님이 지적을 저한테 많이 하셨거든요! 좀 침착해지고, 너무 목록을 많이 만들지 말고, 좀 큰 그림을 보고, 너무 열심히 일하지 말고, 제 잘못이 아닌 걸로 자책하지 말고...!
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|다 좋은 얘기 같은데. 하지만 어머니가 좀 더 부드럽게 이야기시면 좋을 텐데. 좀 쉬엄쉬엄 해, 두사. 알겠지?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|...그리고 왕자님하고 얘기하지 말라고도 하셨어요. 나 이제 큰일났다. {#DialogueItalicFormat}아아아{#PreviousFormat}!
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|두사, 내 생각에 어머니가 좀 걱정하시는 것 같아... 날 걱정하시는 거지만, 네가 말했듯이 우리 둘이 이렇게 이야기하는 걸 안 좋아하시더라고. 혹시... 어머니가 네 일처리 방식을 별로 안 좋아하셔?
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|아, 왕자님. 아니에요, 제가 문제예요! 닉스 님이 지적을 저한테 많이 하셨거든요! 좀 침착해지고, 너무 목록을 많이 만들지 말고, 좀 큰 그림을 보고, 너무 열심히 일하지 말고, 제 잘못이 아닌 걸로 자책하지 말고...!
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|다 좋은 얘기 같은데. 하지만 어머니가 좀 더 부드럽게 이야기시면 좋을 텐데. 좀 쉬엄쉬엄 해, 두사. 알겠지?
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|...그리고 왕자님하고 얘기하지 말라고도 하셨어요. 나 이제 큰일났다. {#DialogueItalicFormat}아아아{#PreviousFormat}!
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|저, 왕자님... 작별 인사를 드릴게요. 오늘이 제 마지막 날이거든요. 왕자님을 알게 되고, 여기서 일하게 되어서 행복했어요. 그럼 이만...!
 DusaVsNyx04|Dusa Vs Nyx 04|Zagreus|잠깐, 잠깐, 기다려 봐. 마지막 날이라니, 대체 무슨 일이야? 여길 떠난다고? 왜?
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|저 해고됐어요! 닉스 님이... 결정하셨어요... 이제 가야돼요. 더 안 좋은 일이 생기기 전에요. 안녕히 계세요, 왕자님! 안녕히...!
@@ -304,10 +304,10 @@ DusaGift03|Dusa Gift 03|Dusa|{#DialogueItalicFormat}오{#PreviousFormat}, 오오
 DusaGift03|Dusa Gift 03|Zagreus|정말이야, 두사. 마음에 들었으면 좋겠네.
 DusaGift04|Dusa Gift 04|Dusa|하-하지만 왕자님, 뭐라고 해야 할지... 호, 혹시 지금 농담하시는 거 아니죠..?
 DusaGift04|Dusa Gift 04|Zagreus|나 지금 아주 진지한데, 두사. 정말이야. 널 위한 거라고.
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|두사, 넌 이 집에서 누구보다 열심히 일하면서 모든 것을 깔끔하게 정리하잖아. 정말 감사한 일이라고 생각해. 고마워! 이걸 받아줬으면 좋겠어.
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|어, 왕자님. 감사합니다! 정말 감사합니다! 참으로 관대하시네요. 전... 정말 말을 잃었어요! 어떻게 감사드려야 할지 모르겠어요!
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|그만하면 됐어! 너한테 부담을 주려는 건 아니야. 그냥 우리가 서로를 더 잘 알게 되어서 기쁘다는 뜻에서 주는 거야.
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|저... 저도 왕자님을 더 잘 알게 되어서 기뻐요. 넥타르 주셔서 감사해요! 정말 훌륭한 넥타르인 거 같아요. {#DialogueItalicFormat}음{#PreviousFormat}, 그럼 안녕히 계세요!
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|두사, 넌 이 집에서 누구보다 열심히 일하면서 모든 것을 깔끔하게 정리하잖아. 정말 감사한 일이라고 생각해. 고마워! 이걸 받아줬으면 좋겠어.
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|어, 왕자님. 감사합니다! 정말 감사합니다! 참으로 관대하시네요. 전... 정말 말을 잃었어요! 어떻게 감사드려야 할지 모르겠어요!
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|그만하면 됐어! 너한테 부담을 주려는 건 아니야. 그냥 우리가 서로를 더 잘 알게 되어서 기쁘다는 뜻에서 주는 거야.
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|저... 저도 왕자님을 더 잘 알게 되어서 기뻐요. 넥타르 주셔서 감사해요! 정말 훌륭한 넥타르인 거 같아요. {#DialogueItalicFormat}음{#PreviousFormat}, 그럼 안녕히 계세요!
 DusaGift06|Dusa Gift 06|Zagreus|두사, 여기 진짜 좋은 넥타르를 또 가져왔어! 앞으로도 일 열심히 하고, 더 멋진 두사가 되기를 바라.
 DusaGift06|Dusa Gift 06|Dusa|저, 저, 저, 정말 몸 둘 바를 모르겠어요, 왕자님. 근데 제가 요새 너무 바빠서요. 지난번에 주신 것도 아직 못 마셨거든요. 그러니까... 이건 다른 사람 주시는 게 낫지 않을까요?
 DusaGift06|Dusa Gift 06|Zagreus|아냐, 이건 네 거야! 나중에 쉬는 시간이 되면 마실 수 있잖아. 안 그래?

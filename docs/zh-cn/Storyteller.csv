@@ -193,11 +193,11 @@ PersephoneWithCerberus01|Persephone With Cerberus 01|Persephone|我想也是。�
 PersephoneWithCerberus02|Persephone With Cerberus 02|Persephone|你可真是只乖狗狗，是不是，刻耳柏洛斯？没错，你就是！我不在的时候，你一直看守着这里，还让我儿子来见我！
 PersephoneWithCerberus02|Persephone With Cerberus 02|Storyteller|{#DialogueItalicFormat}相貌骇人、无比机警的刻耳柏洛斯接受了夸奖。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}厄瑞玻斯黑暗世界隐藏在冥界无边的黑暗深处，死者在这里等待着永恒的审判；他们渴望得到主人冥王哈迪斯的关注和恩典。
-CharonFight01_FirstInspect|Charon Fight First Inspect 01|Storyteller|{#DialogueItalicFormat}无尽的冥河之中有一条隐藏的河段，可以穿过浓雾笼罩的厄瑞玻斯。这为船夫卡戎提供了一个合适的场所，让他能好好处理那些最为桀骜不驯的灵魂。
+CharonFight01_FirstInspect|Charon Fight 01 First Inspect|Storyteller|{#DialogueItalicFormat}无尽的冥河之中有一条隐藏的河段，可以穿过浓雾笼罩的厄瑞玻斯。这为船夫卡戎提供了一个合适的场所，让他能好好处理那些最为桀骜不驯的灵魂。
 Inspect_B_PreBoss_01_01|Inspect B Pre Boss 01 01|Storyteller|{#DialogueItalicFormat}穿过地狱之河的无边火海，占据这个有利位置，冷酷无情的扎格列欧斯现在必须面对无比野蛮的敌人，它就在前方，耐心地等待着进攻的时机。
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}穿过烈焰重重的地狱之河，就可以通过隐藏的楼梯向上攀爬，通向冥界守卫最森严、最壮丽的环境：天堂的极乐世界，这里是伟大亡灵永恒的家园。
 Inspect_B_Story_01_01|Inspect B Story 01 01|Storyteller|{#DialogueItalicFormat}从水仙花平原的简陋屋子中传出欧律狄克悲凉的金铃般的声音，他曾经试图逃离冥界，但最后彻底失败了，就像扎格列欧斯王子一样。
-B_MiniBoss02_FirstInspect|B Mini Boss First Inspect 02|Storyteller|{#DialogueItalicFormat}对那些的粗心大意的灵魂而言，从事巫术活动通常会让他们死于非命，永生永世被困在塔耳塔罗斯。不过，也有某些灵魂能够精通此道，改去别处生活……
+B_MiniBoss02_FirstInspect|B Mini Boss 02 First Inspect|Storyteller|{#DialogueItalicFormat}对那些的粗心大意的灵魂而言，从事巫术活动通常会让他们死于非命，永生永世被困在塔耳塔罗斯。不过，也有某些灵魂能够精通此道，改去别处生活……
 Inspect_B_Shop_01_01|Inspect B Shop 01 01|Storyteller|{#DialogueItalicFormat}对摆渡人卡戎而言，地狱之河的烈焰和灰烬都算不了什么，他载着各种亡灵、被诅咒的人和他们所有的服饰渡过冥界所有的水域。
 Inspect_B_Reprieve_01_01|Inspect B Reprieve 01 01|Storyteller|{#DialogueItalicFormat}不知为何，在地狱之河无边无际的地狱深处，竟有一股生命之水的涓涓细流；仿佛是命运之神为幸运的王子奉上的礼物。
 Inspect_B_Intro_01_01|Inspect B Intro 01 01|Storyteller|{#DialogueItalicFormat}曾经郁郁葱葱的水仙花平原现在被烈焰吞没，淹没在地狱之河汹涌的波涛下，河中可怕的滚滚烈焰顷刻间就会让人粉身碎骨，万劫不复，就算是金刚之身也难以抵挡。
@@ -220,13 +220,13 @@ Inspect_D_Hub_03|Inspect D Hub 03|Storyteller|{#DialogueItalicFormat}令人生�
 Inspect_D_Hub_04|Inspect D Hub 04|Storyteller|{#DialogueItalicFormat}一个简单开凿的地下隧道网从冰冷神殿的一个侧殿延伸出来，里面住着现世和往生世界都不受欢迎的邪恶居民。
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}地上世界狂风怒号，遭受着冰冻与寒霜的肆虐。即便如此，王子的心里还是充满了敬畏与崇高的感觉，因为他从未见过这样的景象。
 Inspect_E_Intro_01_01|Inspect E Intro 01 01|Storyteller|{#DialogueItalicFormat}珀尔塞福涅曾是整个冥界的皇后，如今，各种各样的水果和蔬菜在她的秘密花园中繁衍生息。这个世界充满了生机，与死亡毫无关系。
-A_PreBoss_01_FirstInspect|A Pre Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}现在的密室之外就是塔耳塔罗斯的最外围，预示着可怕的危险远远超出冥界王子的控制范围。
-A_Boss_01_Inspect01|A Boss Inspect 01 01|Storyteller|{#DialogueItalicFormat}厄里倪厄斯，又名复仇三女神，她们是冥王哈迪斯的得力干将。她们的使命，是折磨那些生前罪大恶极的人，顺便在冥府里清理胆敢越界游走的傻子。
-A_PostBoss_01_FirstInspect|A Post Boss First Inspect 01|Storyteller|{#DialogueItalicFormat}从塔耳塔罗斯出发的道路终于显现出来。我们已经可以隐约感受到远处地狱之河灼热的烈焰……就好像重重机关正等着那些不知天高地厚的家伙自投罗网。
-A_PostBoss_01_GearsInspect01|A Post Boss Gears Inspect 01 01|Storyteller|{#DialogueItalicFormat}唯有冥王哈迪斯最为亲信之人，才有资格在冥府地区的迷宫里行走。王子才不管这一套，硬是要闯它一闯。
-A_MiniBoss03_01_FirstInspect|A Mini Boss First Inspect 03 01|Storyteller|{#DialogueItalicFormat}塔耳塔罗斯最残暴的暗灵们被单独监禁，不得与其它被诅咒的灵魂相见。而它们唯一的访客，就是那些试图逃出这里的蠢货。
-A_MiniBoss04_01_FirstInspect|A Mini Boss First Inspect 04 01|Storyteller|{#DialogueItalicFormat}遭到诅咒、迷失方向的灵魂无处可去，便聚集在塔耳塔罗斯深的最深处，与大地融为一体，变成了难以言述的丑陋畸怪。
-A_Reprieve_01_FirstInspect|A Reprieve First Inspect 01|Storyteller|{#DialogueItalicFormat}实际上，我们偶尔也能在冥界找到一个安静祥和的地方，一个也许无法想象的地方。
+A_PreBoss_01_FirstInspect|A Pre Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}现在的密室之外就是塔耳塔罗斯的最外围，预示着可怕的危险远远超出冥界王子的控制范围。
+A_Boss_01_Inspect01|A Boss 01 Inspect 01|Storyteller|{#DialogueItalicFormat}厄里倪厄斯，又名复仇三女神，她们是冥王哈迪斯的得力干将。她们的使命，是折磨那些生前罪大恶极的人，顺便在冥府里清理胆敢越界游走的傻子。
+A_PostBoss_01_FirstInspect|A Post Boss 01 First Inspect|Storyteller|{#DialogueItalicFormat}从塔耳塔罗斯出发的道路终于显现出来。我们已经可以隐约感受到远处地狱之河灼热的烈焰……就好像重重机关正等着那些不知天高地厚的家伙自投罗网。
+A_PostBoss_01_GearsInspect01|A Post Boss 01 Gears Inspect 01|Storyteller|{#DialogueItalicFormat}唯有冥王哈迪斯最为亲信之人，才有资格在冥府地区的迷宫里行走。王子才不管这一套，硬是要闯它一闯。
+A_MiniBoss03_01_FirstInspect|A Mini Boss 03 01 First Inspect|Storyteller|{#DialogueItalicFormat}塔耳塔罗斯最残暴的暗灵们被单独监禁，不得与其它被诅咒的灵魂相见。而它们唯一的访客，就是那些试图逃出这里的蠢货。
+A_MiniBoss04_01_FirstInspect|A Mini Boss 04 01 First Inspect|Storyteller|{#DialogueItalicFormat}遭到诅咒、迷失方向的灵魂无处可去，便聚集在塔耳塔罗斯深的最深处，与大地融为一体，变成了难以言述的丑陋畸怪。
+A_Reprieve_01_FirstInspect|A Reprieve 01 First Inspect|Storyteller|{#DialogueItalicFormat}实际上，我们偶尔也能在冥界找到一个安静祥和的地方，一个也许无法想象的地方。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}冥河摆渡人卡戎在摊位上出售地狱物件，任何人都可以购买，只是这位摆渡人向来贪财，要价不菲。
 CharonFirstInspect|Charon First Inspect|Storyteller|{#DialogueItalicFormat}臭名昭著的冥河流经冥界，只有摆渡人卡戎可以在凡界和冥界深渊自由穿行，让许多暗灵得以永远安息。
 OpeningFirstInspect|Opening First Inspect|Storyteller|{#DialogueItalicFormat}冥王哈迪斯的冥界由无数不断变化的连环密室组成，逝者的亡灵基本上都可以在这里安息，直到世界末日的来临。

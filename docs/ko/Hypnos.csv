@@ -7,7 +7,7 @@ HypnosMiscMeeting04|Hypnos Misc Meeting 04|Hypnos|와, 벌써 한 다섯 번은 
 HypnosMiscMeeting04|Hypnos Misc Meeting 04|Zagreus|대단해! 계속 반복해서 죽기만 하면 만사형통이란 말이군.
 HypnosMiscMeeting05|Hypnos Misc Meeting 05|Hypnos|스틱스 웅덩이를 지켜보는 건 은근 재미있어. 안 그래? 피가 잔물결을 일으키는 모양도 그렇고! 가끔은 너처럼 확 튀어나오는 자들도 있고! 집에서 일하는 직원들과 귀빈들 빼고는 아무도 여기에 못 와. 난 그들을 들여보내 주고 머무는 동안 즐겁게 지낼 수 있도록 돕고 있어!
 HypnosMiscMeeting06|Hypnos Misc Meeting 06|Hypnos|{#DialogueItalicFormat}우우{#PreviousFormat}, 이번엔 아스포델까지 갔었다며? 정말 대단하다! 비록 죽긴 했지만 전만큼 빨리 죽지는 않았으니 나름대로 발전이 있었던 거네. 안 그래?
-HypnosRunProgress01_A|Hypnos Run Progress A 01|Hypnos|우와, 너 해냈구나! 내 목록에 따르면 넌 {#DialogueItalicFormat}최소한 {#PreviousFormat}50번은 죽었어! 이곳의 누구보다도 많이 죽은 거라고!
+HypnosRunProgress01_A|Hypnos Run Progress 01 A|Hypnos|우와, 너 해냈구나! 내 목록에 따르면 넌 {#DialogueItalicFormat}최소한 {#PreviousFormat}50번은 죽었어! 이곳의 누구보다도 많이 죽은 거라고!
 HypnosRunProgress01|Hypnos Run Progress 01|Hypnos|이봐, 일단 이 한마디는 하고 넘어가자. {#DialogueItalicFormat}축하해{#PreviousFormat}! 내가 기록해 보니 이번이 백 번째 죽음이더라고. 내가 횟수를 센 뒤로 말이지. 무슨 상품이 있거나 그런 건 아니지만 여정 자체가 보상 아니겠어?
 HypnosRunProgress02|Hypnos Run Progress 02|Hypnos|너 이거 정말 못 믿을 걸? 잘 들어. 삼...백...{#DialogueItalicFormat}번{#PreviousFormat}! 그래! 300번이나 죽었어! 그건 마치... 지진으로 마을 하나가 다 날아간 거나 마찬가지라고. 너 혼자서 말이야!
 HypnosRunProgress03|Hypnos Run Progress 03|Hypnos|우와, 믿기지 않네, 물론 내 목록은 거짓말을 하지 않지만! 여기에 따르면 네가 총 {#DialogueItalicFormat}500번{#PreviousFormat}이나 죽었대! {#DialogueItalicFormat}500번{#PreviousFormat}이라고!! 그보다 더 큰 수는 알지도 못한다니까!
@@ -40,29 +40,29 @@ HypnosPostEpilogue01|Hypnos Post Epilogue 01|Hypnos|계속 잤어!
 HypnosAutograph01|Hypnos Autograph 01|Zagreus|안녕, 히프노스. 나한테 좋은 의미에서 해 준 모든 조언에 대한 보답이야. 네가 그토록 찬미하는 황소 머리에 양날 도끼를 휘두르는 덩치 큰 괴물 남성에게서 얻은 거랄까?
 HypnosAutograph01|Hypnos Autograph 01|Hypnos|이게 뭐지? 손으로 쓴 거라 읽기가 어렵네. 뭐라고 적혀 있냐면, 말도 안 돼... {#DialogueItalicFormat}나의 팬 히프노스에게, 늘 경계하시오. 아스테리오스가. {#PreviousFormat}심지어... 작은 황소 그림도 있어. 넌... 난... 우와... {#DialogueItalicFormat}와{#PreviousFormat}!
 HypnosConsolation01|Hypnos Consolation 01|Hypnos|사악한 암살단원 중 한 명한테 당했다며? 안타깝네! 좀 느리긴 해도 때릴 때 힘이 굉장한 자들이거든. 그냥 피하려는 시도는 안 해 본 거야?
-HypnosConsolation01_B|Hypnos Consolation B 01|Hypnos|여기 목록을 보니까 말이지. 사악한 암살단원에게 또 사정없이 맞아서 집으로 돌아온 거라며? 피하는 방법이 먹히지 않았나 봐...?
+HypnosConsolation01_B|Hypnos Consolation 01 B|Hypnos|여기 목록을 보니까 말이지. 사악한 암살단원에게 또 사정없이 맞아서 집으로 돌아온 거라며? 피하는 방법이 먹히지 않았나 봐...?
 HypnosConsolation02|Hypnos Consolation 02|Hypnos|사악한 마녀가 마지막에 널 쏴서 죽인 것 같던데. 정말 유감이야. 먼저 쏘려고는 안 해 봤어?
-HypnosConsolation02_B|Hypnos Consolation B 02|Hypnos|살포자와 맞붙었던 거 맞지? 타르타로스에 있는 저급한 마녀들보다 훨씬 재능 있는 자들이야. 그러니까 너희 아버지가 따뜻한 아스포델에 있어도 좋다고 허락했겠지!
-HypnosConsolation02_C|Hypnos Consolation C 02|Hypnos|에구, 해체자한테 당했구나! 너희 아버지 땅엔 마녀가 참 많기도 해, 안 그래? 마녀의 마법이 위에 있는 필멸자들에게 굉장히 위험하긴 한가 봐. 너한테도 위험한 건 마찬가지고!
+HypnosConsolation02_B|Hypnos Consolation 02 B|Hypnos|살포자와 맞붙었던 거 맞지? 타르타로스에 있는 저급한 마녀들보다 훨씬 재능 있는 자들이야. 그러니까 너희 아버지가 따뜻한 아스포델에 있어도 좋다고 허락했겠지!
+HypnosConsolation02_C|Hypnos Consolation 02 C|Hypnos|에구, 해체자한테 당했구나! 너희 아버지 땅엔 마녀가 참 많기도 해, 안 그래? 마녀의 마법이 위에 있는 필멸자들에게 굉장히 위험하긴 한가 봐. 너한테도 위험한 건 마찬가지고!
 HypnosConsolation03|Hypnos Consolation 03|Hypnos|{#DialogueItalicFormat}으{#PreviousFormat}, 끔찍한 질병이 놓은 고약한 부비트랩에 걸려 죽은 모양이네. 항아리처럼 생긴 그 물건 말이야. 피하려고 노력해 본 적은 없어?
 HypnosConsolation04|Hypnos Consolation 04|Hypnos|{#DialogueItalicFormat}우와{#PreviousFormat}, 방금은 메가이라가 직접 나서서 널 잡았구나. 그 싸움 굉장했겠다! 빠르고 힘도 세고 아름다운 애잖아. 그리고... 음... 아무튼, 다음엔 운명이 너에게 좀 더 친절했으면 좋겠다!
-HypnosConsolation04_B|Hypnos Consolation B 04|Hypnos|{#DialogueItalicFormat}하{#PreviousFormat}, 메가이라 퓨리한테 또 당했네! 제지하기 힘든 애지? 한 번은 너희 아버지와 이야기 나누러 가는 그 애를 막으려 했는데 나한테 시선 한 번 안 주더라고! {#DialogueItalicFormat}<Sigh...>
-HypnosConsolation04_C|Hypnos Consolation C 04|Hypnos|퓨리 메가이라한테 {#DialogueItalicFormat}채찍질 {#PreviousFormat}당했다니, {#DialogueItalicFormat}응{#PreviousFormat}?! 채찍질 당했단 말 꼭 한 번 써 보고 싶었어, 네가 얼마나 형편없이 졌는지와 내가 말을 걸 때마다 날 위협하는 그녀의 반짝이는 보라색 채찍을 동시에 연상해 주니까.
+HypnosConsolation04_B|Hypnos Consolation 04 B|Hypnos|{#DialogueItalicFormat}하{#PreviousFormat}, 메가이라 퓨리한테 또 당했네! 제지하기 힘든 애지? 한 번은 너희 아버지와 이야기 나누러 가는 그 애를 막으려 했는데 나한테 시선 한 번 안 주더라고! {#DialogueItalicFormat}<Sigh...>
+HypnosConsolation04_C|Hypnos Consolation 04 C|Hypnos|퓨리 메가이라한테 {#DialogueItalicFormat}채찍질 {#PreviousFormat}당했다니, {#DialogueItalicFormat}응{#PreviousFormat}?! 채찍질 당했단 말 꼭 한 번 써 보고 싶었어, 네가 얼마나 형편없이 졌는지와 내가 말을 걸 때마다 날 위협하는 그녀의 반짝이는 보라색 채찍을 동시에 연상해 주니까.
 HypnosConsolation05|Hypnos Consolation 05|Hypnos|밖에서 송곳 덫에 제대로 걸렸다며? 에구, 안타깝네! 혹시 송곳이 나올 때 그 위에 안 서 있으면 괜찮지 않을까?
 HypnosConsolation06|Hypnos Consolation 06|Hypnos|{#DialogueItalicFormat}으으{#PreviousFormat}, 화살 덫 같은 거에 걸려 죽은 것으로 보이네, {#DialogueItalicFormat}진짜 {#PreviousFormat}아팠겠다! 어디 뒤에 숨는 건 생각해봤어?
 HypnosConsolation07|Hypnos Consolation 07|Hypnos|{#DialogueItalicFormat}으{#PreviousFormat}, 그 폭발하는 항아리에 걸려 산산조각이 났나 보네! 그 안에는 징글징글하게 지독한 혼령들이 가득한데, 만에 하나 만지면... {#DialogueItalicFormat}쾅 {#PreviousFormat}터지는 거야! 하하!
 HypnosConsolation08|Hypnos Consolation 08|Hypnos|워어, 냉혈한 지옥 폭파범이라는 그 해골 녀석들한테 죽은 거야? 대박! 걔네들이 폭탄을 터뜨릴 때 그 주변에 우두커니 서 있으면 어떻게 될까 늘 궁금했었는데!
 HypnosConsolation09|Hypnos Consolation 09|Hypnos|에구, 아스포델의 뼈 히드라가 널 완전히 밟아 뭉갰나 본데? 머리마다 쓰는 기술이 다르다고 들었어. 진짜 상대하기 어렵겠다!
-HypnosConsolation09_B|Hypnos Consolation B 09|Hypnos|또 뼈 히드라한테 당했구나? 맙소사, 마음이 아프다. 근데 이거 알아? 난 네가 타르타로스와 아스포델을 통과해 다시 밖으로 나가서 녀석을 아주 혼쭐을 내줬으면 좋겠어. 날 위해서. 어때? 그래!
-HypnosConsolation09_C|Hypnos Consolation C 09|Hypnos|잠깐, 맞춰볼 테니까 말하지 말아 봐... 또 뼈 히드라한테 당했지? 도대체 몇 번째야? 하지만 다음엔 네가 꼭 잡을 거야. 난 확신해! 그게 아니면 그 다음번이라도. 언젠간 꼭 그렇게 될 테니 두고 봐!
+HypnosConsolation09_B|Hypnos Consolation 09 B|Hypnos|또 뼈 히드라한테 당했구나? 맙소사, 마음이 아프다. 근데 이거 알아? 난 네가 타르타로스와 아스포델을 통과해 다시 밖으로 나가서 녀석을 아주 혼쭐을 내줬으면 좋겠어. 날 위해서. 어때? 그래!
+HypnosConsolation09_C|Hypnos Consolation 09 C|Hypnos|잠깐, 맞춰볼 테니까 말하지 말아 봐... 또 뼈 히드라한테 당했지? 도대체 몇 번째야? 하지만 다음엔 네가 꼭 잡을 거야. 난 확신해! 그게 아니면 그 다음번이라도. 언젠간 꼭 그렇게 될 테니 두고 봐!
 HypnosConsolation10|Hypnos Consolation 10|Hypnos|{#DialogueItalicFormat}헉{#PreviousFormat}, 사악한 망나니가 널 죽이다니. 늙고 어설픈 그런 녀석들한테 당한 거야? 네가 먼저 죽이든가 어떻게든 해 봐!
-HypnosConsolation10_B|Hypnos Consolation B 10|Hypnos|{#DialogueItalicFormat}으{#PreviousFormat}, 사악한 망나니가 또 널 죽을 때까지 때렸구나. 운도 없지! 말로 풀어 보려고 시도해 봤어? 안 먹히려나?
+HypnosConsolation10_B|Hypnos Consolation 10 B|Hypnos|{#DialogueItalicFormat}으{#PreviousFormat}, 사악한 망나니가 또 널 죽을 때까지 때렸구나. 운도 없지! 말로 풀어 보려고 시도해 봤어? 안 먹히려나?
 HypnosConsolation11|Hypnos Consolation 11|Hypnos|그 떠다니는 유황 수정 같은 것들한테 당해서 잿더미가 됐다면서! 다음에 누군가 빛 같은 걸 쏴서 널 숯덩이로 만들려고 하면 한쪽으로 피하는 게 어때?
 HypnosConsolation14|Hypnos Consolation 14|Hypnos|용암에 서 있다가 완전 잿더미처럼 타 버렸다면서. 맞아? 네가 불타는 발을 가졌다는 거 아는데, 용암에 서 있는 건 좋은 생각이 아니라고!
 HypnosConsolation15|Hypnos Consolation 15|Hypnos|허, 불타오르는 용암 분출구로 걸어 들어갔단 말이야? 이번에 죽은 이유가 그거라고? 식을 때까지 기다리지 그랬어, 그러면 죽진 않았을 텐데!
 HypnosConsolation16|Hypnos Consolation 16|Hypnos|{#DialogueItalicFormat}호오{#PreviousFormat}, 조그마한 넘스컬들 중 한 마리한테 크게 물린 것 같네. 결국 당했네, 당했어! 네가 너무 맛있나 보다. 그게 아니라면 널 그냥 내버려 뒀을 텐데! 내가 널 내버려 두지 못하는 것처럼!
-HypnosConsolation16_B|Hypnos Consolation B 16|Hypnos|또 그 조그마한 넘스컬한테 물린 거야? 또?! 아, 진짜 너무한다. 네가 운명을 진짜 화나게 할 만큼 뭔가 크게 잘못한 거 아닐까!
-HypnosConsolation16_C|Hypnos Consolation C 16|Hypnos|{#DialogueItalicFormat}오호, {#PreviousFormat}슬램 댄서한테 당했구나. 네 얼굴에 다 쓰여 있어! 여기 내 목록에처럼 말이지! 모든 이들의 사망 원인이 여기에 다 적혀 있어. 가끔 진짜 소름 끼치는 내용도 나온다고! 어쨌든, 몸조심해!
+HypnosConsolation16_B|Hypnos Consolation 16 B|Hypnos|또 그 조그마한 넘스컬한테 물린 거야? 또?! 아, 진짜 너무한다. 네가 운명을 진짜 화나게 할 만큼 뭔가 크게 잘못한 거 아닐까!
+HypnosConsolation16_C|Hypnos Consolation 16 C|Hypnos|{#DialogueItalicFormat}오호, {#PreviousFormat}슬램 댄서한테 당했구나. 네 얼굴에 다 쓰여 있어! 여기 내 목록에처럼 말이지! 모든 이들의 사망 원인이 여기에 다 적혀 있어. 가끔 진짜 소름 끼치는 내용도 나온다고! 어쨌든, 몸조심해!
 HypnosConsolation17|Hypnos Consolation 17|Hypnos|더러운 해골한테 방금 얻어맞은 것처럼 보이는 이유는 뭘까! 하도 맞아서 죽음 직전의 순간도 넘어선 것 같네! 그리고 목록을 보니, 내 예상이 맞았구나! 냉혈자들은 진짜 강하다니까!
 HypnosConsolation18|Hypnos Consolation 18|Hypnos|목록을 보니까 떠다니는 끔찍한 고르곤 머리한테 공격을 받아 돌로 변해 죽었다? 두사 기분 상하라고 하는 말은 아니고! 그렇게 죽으면 정말 고통스럽겠지만 잠시나마 조각상이 되어 볼 수 있는 게 어디야! 난 조각상을 좋아하거든.
 HypnosConsolation19|Hypnos Consolation 19|Hypnos|{#DialogueItalicFormat}풋{#PreviousFormat}, 아팠겠다고 해 줘야 하나? {#DialogueItalicFormat}아야야{#PreviousFormat}! 왜냐하면 여기 목록을 보니 아스포델 어딘가에서 해골 분쇄자가 널 빈대떡처럼 납작하게 눌러 버렸다고 적혀 있길래. 계속 그렇게 당하다 보면 네 키가 더 작아지겠는걸. {#DialogueItalicFormat}하하{#PreviousFormat}!
@@ -80,11 +80,11 @@ HypnosConsolation28|Hypnos Consolation 28|Hypnos|엘리시움에 있는 궁수 �
 HypnosConsolation29|Hypnos Consolation 29|Hypnos|엘리시움에서 방진 조각상을 얼빠지게 쳐다보는 것 외에 {#DialogueItalicFormat}궁지{#PreviousFormat}에 빠질 방법을 더 많이 찾아낸 것 같던데. 네 아버지 공이 크지. 너 같은 침입자를 찌를 때마저 멋진 모습을 유지하게 만드셨으니까!
 HypnosConsolation30|Hypnos Consolation 30|Hypnos|여기 쓰여 있기로는 불사조의 유골 단지가 폭발하면서 완전히 새까맣게 타 버렸다던데. 진작 나한테 물어보지 그랬어? 그럼 그 물건은 꼭 피하라고 알려 줬을 텐데.
 HypnosConsolation31|Hypnos Consolation 31|Hypnos|{#DialogueItalicFormat}와{#PreviousFormat}, 미노타우로스와 대결을 벌였다니 믿을 수가 없어. 말도 안 돼! 그래서 돌아온 거구나! 다들 미노타우로스는 무적이라고 알고 있는데. 특히 내가 그렇게 생각했거든! 이봐. 다음에 그와 마주치면 날 위해 사인 좀 받아다 주겠어?
-HypnosConsolation31_B|Hypnos Consolation B 31|Hypnos|미노타우로스가 또 널 죽였다며? 진짜 재밌었겠네! 죽기 전에 {#DialogueItalicFormat}혹시 {#PreviousFormat}내가 부탁한 사인은 안 받았어?
-HypnosConsolation31_C|Hypnos Consolation C 31|Hypnos|미노타우로스한테 또 당했구나. 정말 엄청난 괴수야, 안 그래? 그나저나 내가 부탁한 사인에 진전은 좀 있는 거야?
+HypnosConsolation31_B|Hypnos Consolation 31 B|Hypnos|미노타우로스가 또 널 죽였다며? 진짜 재밌었겠네! 죽기 전에 {#DialogueItalicFormat}혹시 {#PreviousFormat}내가 부탁한 사인은 안 받았어?
+HypnosConsolation31_C|Hypnos Consolation 31 C|Hypnos|미노타우로스한테 또 당했구나. 정말 엄청난 괴수야, 안 그래? 그나저나 내가 부탁한 사인에 진전은 좀 있는 거야?
 HypnosConsolation32|Hypnos Consolation 32|Hypnos|엘리시움의 챔피언과 맞대결을 벌였다는 얘기를 듣자마자 네가 곧 돌아오겠다고 생각했어! 필멸자들 사이에서는 테세우스 같은 자의 손에 죽는 걸 영광으로 여긴다더라고! 너도 그대로만 하면 유명해질 수 있을 거야!
-HypnosConsolation32_B|Hypnos Consolation B 32|Hypnos|저기, 해 줄 말이 있는데. 동시에 테세우스와 미노타우로스에게 맞서는 건 자살 행위나 다름없어! 하지만 공손하게 부탁한다면 적어도 미노타우로스 사인 정도는 받을 수 있지 않을까?
-HypnosConsolation32_C|Hypnos Consolation C 32|Hypnos|다행이다, 돌아왔구나! 돌아왔네. 다행이야. 이번에 테세우스가 또 널 죽였을 때 혹시 그 황소 머리 친구한테 나 줄 사인해 달라고 물어봤어?
+HypnosConsolation32_B|Hypnos Consolation 32 B|Hypnos|저기, 해 줄 말이 있는데. 동시에 테세우스와 미노타우로스에게 맞서는 건 자살 행위나 다름없어! 하지만 공손하게 부탁한다면 적어도 미노타우로스 사인 정도는 받을 수 있지 않을까?
+HypnosConsolation32_C|Hypnos Consolation 32 C|Hypnos|다행이다, 돌아왔구나! 돌아왔네. 다행이야. 이번에 테세우스가 또 널 죽였을 때 혹시 그 황소 머리 친구한테 나 줄 사인해 달라고 물어봤어?
 HypnosConsolation33|Hypnos Consolation 33|Hypnos|나비라고 다 예쁜 줄만 알았지 그런 위험한 종이 있다는 건 처음 알았네! 특히 영혼 포획자에게서 떼 지어 나오는 그런 놈들 말이야. 너한테 영혼... 그런 게 없었다면 놈들이 다른 사람을 괴롭힐 텐데!
 HypnosConsolation34|Hypnos Consolation 34|Hypnos|화염 수레바퀴가 너에게 직진해서 엄청난 화염 폭발을 일으키고 너희 둘 다 죽였다면서? 정말 그런 일이 있었던 거야? 이런 말로 기분이 나아질지 모르겠지만, {#DialogueItalicFormat}엄밀히 말해서 {#PreviousFormat}복수는 한 셈이잖아!
 HypnosConsolation35|Hypnos Consolation 35|Hypnos|저 위 스틱스 신전에서 역겨운 사티로스들과 맞붙었다면서? 그것들이 내뿜는 치명적인 독이 몸을 관통할 때 고통이 어떨지 상상조차 가질 않아!
@@ -93,8 +93,8 @@ HypnosConsolation37|Hypnos Consolation 37|Hypnos|{#DialogueItalicFormat}으웩{#
 HypnosConsolation38|Hypnos Consolation 38|Hypnos|타르타로스의 해충들보다 더 크고 악랄한 놈들이 지표면 근처에 산다고 들었는데... 넌 소문이 아니라 몸으로 체험했겠구나? 폭발성 물체를 밟아서 터졌을 때 말이야.
 HypnosConsolation39|Hypnos Consolation 39|Hypnos|네 그 표정 알 것 같아. 암모나이트에 타 버렸을 때 나오는 표정인데. 내 짐작이 맞지? 살을 불태워 버리는 뜨거운 하얀 빛을 동시에 내뱉어 버리잖아. 안 그래?
 HypnosConsolation40|Hypnos Consolation 40|Hypnos|너 돌아왔구나! 잠깐, 무슨 일이 있었던 거야? 목록을 보니 "검열"한테 죽었다던데 그 말 자체도 무슨 뜻인지 도무지 모르겠어. 그런 건 한 번도 본 적이 없거든!
-HypnosConsolation40_B|Hypnos Consolation B 40|Hypnos|검열"이 널 또 죽였다면서. 근데 말이야. 주변에 그것들에 대해 계속 물어보고 다니는데, 아무도 내가 무슨 말을 하는지 모르더라고! 나한테 설명해 줄 수 있겠어?
-HypnosConsolation40_C|Hypnos Consolation C 40|Hypnos|허, 좀 웃기네. 이번에 내 목록에 아무것도 없어. 그런데... 네가 웅덩이에서 걸어 나오는 모습을 분명히 봤거든. 아무래도 좀 더 자세히 조사해 봐야겠어.
+HypnosConsolation40_B|Hypnos Consolation 40 B|Hypnos|검열"이 널 또 죽였다면서. 근데 말이야. 주변에 그것들에 대해 계속 물어보고 다니는데, 아무도 내가 무슨 말을 하는지 모르더라고! 나한테 설명해 줄 수 있겠어?
+HypnosConsolation40_C|Hypnos Consolation 40 C|Hypnos|허, 좀 웃기네. 이번에 내 목록에 아무것도 없어. 그런데... 네가 웅덩이에서 걸어 나오는 모습을 분명히 봤거든. 아무래도 좀 더 자세히 조사해 봐야겠어.
 HypnosConsolation41|Hypnos Consolation 41|Hypnos|목록에 따르면 그 거대한 신전 톱날이 심장을 관통해 버렸다던데? {#DialogueItalicFormat}으으{#PreviousFormat}... 그래도 넌 온전한 모습으로 돌아왔네!
 HypnosConsolation42|Hypnos Consolation 42|Hypnos|왜 그래? 스틱스 신전에서 떨어지는 거대한 도끼에 맞아서 {#DialogueItalicFormat}머리가 깨질 듯한 {#PreviousFormat}두통이라도 생긴 거야? 마침 나한테 딱 맞는 치료법이 있는데 뭔 줄 알아? 맞지 말라는 거야!
 HypnosConsolation_PoisonTrap|Hypnos Consolation Poison Trap|Hypnos|이게 누구야! 유독 가스 구름에 걸어 들어갔다 나온 {#DialogueItalicFormat}그분 {#PreviousFormat}아니야! 그 안에서는 생체 기능이 전부 마비됐을 텐데! 그 때문에 목숨을 잃었으니 다음번엔 얼마나 치명적인지 잘 알겠네! 녹색이니까 눈에도 잘 띄고!
@@ -168,7 +168,7 @@ HypnosHighRelationshipChat10|Hypnos High Relationship Chat 10|Hypnos|설문지�
 HypnosHighRelationshipChat11|Hypnos High Relationship Chat 11|Hypnos|하데스의 집에 오신 것을 환영합니다! 들어오세요!
 HypnosHighRelationshipChat12|Hypnos High Relationship Chat 12|Hypnos|하데스의 집에... 에이, 너도 알잖아!
 HypnosHighRelationshipChat13|Hypnos High Relationship Chat 13|Hypnos|우리 단골 손님이 또 오셨네!
-HypnosHighRelationshipChat14A|Hypnos High Relationship Chat A 14|Hypnos|나가서 또 다른 방식으로 {#DialogueItalicFormat}죽어 {#PreviousFormat}봐!
+HypnosHighRelationshipChat14A|Hypnos High Relationship Chat 14 A|Hypnos|나가서 또 다른 방식으로 {#DialogueItalicFormat}죽어 {#PreviousFormat}봐!
 HypnosHighRelationshipChat14|Hypnos High Relationship Chat 14|Hypnos|이미 들었는지 모르겠지만, 탈출은 없어!
 HypnosHighRelationshipChat15|Hypnos High Relationship Chat 15|Hypnos|넌 {#DialogueItalicFormat}할 수 {#PreviousFormat}있어! 네가 뭘 하든 말이야!
 HypnosGift01|Hypnos Gift 01|Zagreus|히프노스, 깜짝 선물이야! 이걸 가져왔어.

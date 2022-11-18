@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|Je suis heureuse de voir que l�
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|Quels misérables imbéciles osent s’opposer à vous, cousin ? Punissez-les, pour qu’ils apprennent quelque chose qu’ils auraient déjà dû savoir de leur vivant.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|Accrochez-vous à votre détermination, cousin, et montez donc vers la lumière. Je suis là, qu’importe le nombre de vos échecs.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|Je ne te retiendrai pas, Zagreus, sauf pour t'accorder une partie de mon pouvoir et augmenter tes chances de réussite. Maintenant, dépêche-toi de choisir, et pars.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|Que la sagesse et la chance guident tes pas jusqu’à la surface, cousin.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|Les misérables ombres des Enfers te redouteront, cousin.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|Que la sagesse et la chance guident tes pas jusqu’à la surface, cousin.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|Les misérables ombres des Enfers te redouteront, cousin.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|Que ta force et ma sagesse te guident hors de ces ténèbres, Zagreus.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|Les viles ruses de vos ennemis sans vie ne peuvent rien contre votre puissance divine.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|N’oublie pas que je veille toujours sur toi, mon cher cousin.
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|J’ai quelque chose pour vous, ô déesse. 
 AthenaGift03|Athena Gift 03|Athena|C’est très gentil à toi de me présenter cette offrande, cousin. Je suis honorée. Cela dit, j'aimerais que tu penses à ton propre bien-être plutôt qu’au mien pour le moment.
 AthenaGift04|Athena Gift 04|Zagreus|Déesse Athéna, veuillez accepter ce cadeau. Votre sagesse me guide toujours vers la lumière.
 AthenaGift04|Athena Gift 04|Athena|Quelle générosité de m'offrir ce cadeau ! Je vous en suis très reconnaissante, mais je vous demande de ne pas mettre votre quête de côté pour moi. Restons concentrés, d'accord ?
-AthenaGift05A|Athena Gift A 05|Zagreus|Restant concentré sur ma tâche, déesse, je me rends compte que rien n'aurait été possible sans votre aide. Voici donc une modeste offrande en signe de reconnaissance.
-AthenaGift05A|Athena Gift A 05|Athena|Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre d'avoir terminé votre quête. Vous avez plus important à faire, pour le moment !
-AthenaGift05B|Athena Gift B 05|Athena|Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre un meilleur moment. Vous avez plus important à faire, pour le moment !
+AthenaGift05A|Athena Gift 05 A|Zagreus|Restant concentré sur ma tâche, déesse, je me rends compte que rien n'aurait été possible sans votre aide. Voici donc une modeste offrande en signe de reconnaissance.
+AthenaGift05A|Athena Gift 05 A|Athena|Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre d'avoir terminé votre quête. Vous avez plus important à faire, pour le moment !
+AthenaGift05B|Athena Gift 05 B|Athena|Je sais que vous ne pouvez pas faire grand-chose pour témoigner votre reconnaissance, Zagreus, et je vous demande d'attendre un meilleur moment. Vous avez plus important à faire, pour le moment !
 AthenaGift06|Athena Gift 06|Zagreus|Dame Athéna, je sais qu'il y a plus en jeu pour vous que ma modeste situation... Cette famille est tellement importante, pour vous. Cette attention et cette détermination m'inspirent. Je vous en suis reconnaissant.
 AthenaGift06|Athena Gift 06|Athena|C'est peut-être le moment rêvé pour se livrer à des remerciements mutuels, cher cousin. Vous m'avez ouvert les yeux sur cette possibilité, bien que je reste déterminée à me battre pour vous.
 AthenaGift07|Athena Gift 07|Zagreus|Je sais que cette bouteille d'Ambroisie vient de l'Olympe, Dame Athéna. Mais je suis sûr que son long voyage jusqu'en ces profondeurs a su lui conférer une saveur plus digne de votre grâce. Personne n'a jamais eu de meilleure cousine, et je n'oublierai jamais ce que vous avez fait pour moi.

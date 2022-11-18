@@ -16,9 +16,9 @@ ThanatosWithSisyphus03|Thanatos With Sisyphus 03|Thanatos|关于神明的烦恼�
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|嘿，扎王子。我可没坐在石头上偷懒噢…我刚准备站起来呢。复仇女神三姐妹一般都不会这样不管我的。她们去哪儿了？还有…你在这里做什么？
 SisyphusFirstMeeting|Sisyphus First Meeting|Zagreus|噢，没什么，就是出来逛两圈。不过，请你帮个忙，如果你见到复仇女神三姐妹，告诉她们我打道回府了，好吗…？
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|噢，我会告诉她们的，我明白你的意思，殿下。那我就继续去忙我自己的事情了，你保重。
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|扎格王子，没想到这么久之后还能见到你。圣殿发生什么事情了吗，还是？只是近来有点孤单而已。
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Zagreus|哦，家里有些事情始终不太对劲，先生。我觉得多检查检查塔耳塔罗斯的情况，也不会有什么坏处。
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|我和我的巨石老友都特别感谢你。我习惯了自己一个人干着这永无止境的活计，但时不时有几个来访的客人也不错！
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|扎格王子，没想到这么久之后还能见到你。圣殿发生什么事情了吗，还是？只是近来有点孤单而已。
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Zagreus|哦，家里有些事情始终不太对劲，先生。我觉得多检查检查塔耳塔罗斯的情况，也不会有什么坏处。
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|我和我的巨石老友都特别感谢你。我习惯了自己一个人干着这永无止境的活计，但时不时有几个来访的客人也不错！
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|恕我冒昧，殿下……我想知道，是什么让你又回到这里来？跟上次一样吗？
 SisyphusMeeting02|Sisyphus Meeting 02|Zagreus|我得跟你说实话，西西弗斯。我要离开圣殿。我受够了。你知道我是认真的，我要去凡间。
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|{#DialogueItalicFormat}哎哟{#PreviousFormat}，那可真是番大事业呢，王子。老实说，要不是从你口中说出来的，我还以为这人疯了呢。不过想要成功也可以说是疯了。那好嘞，希望你可以成功，祝好运！
@@ -154,18 +154,18 @@ SisyphusAboutLegendary01|Sisyphus About Legendary 01|Zagreus|是的，大人，�
 SisyphusAboutLegendary01|Sisyphus About Legendary 01|Sisyphus|恕我直言，殿下。我在这里也有好朋友，而且随叫随到。至于小沙迪，他喜欢到冥界的尽头开开眼界。祝你们俩一路顺风！
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Zagreus|西西弗斯大人，你知道沙迪是怎么回事吗？我可以把你和石头变到其他地方去来帮助我？你们明明留在这里，真让人费解。
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Sisyphus|是这样的，王子，我不是和你说过我会在精神上支持你吗？这不仅仅只是沙迪的力量，也不是石头或者我的潜在力量。它是我们友谊的见证。你们这些神什么都做得出来！
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Zagreus|她走了……你还好吧，西西弗斯？有没有受伤？
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Sisyphus|我还好，谢谢你，王子。不得不说，那位复仇女神，确实不好惹。我敢打赌她可以把这块老石头推到这里来，比我推的还好！
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Zagreus|您真的从没把巨石推到顶过吗？
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Sisyphus|我可从来没把石头推到顶过。总是快到终点的时候就又滚下来。在数了一万九千多次后，我就没数过了，不过您知道吗？总有一天我会成功的。
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|西西弗斯，我没听错吧？刚才墨纪拉发誓说暂时不管你了，也不管石头了？
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Sisyphus|我敢说您也听说过，王子殿下！似乎命运女神要让我歇一歇。不过，复仇女神明确表示在解决完你的问题后就会继续回来骚扰我了……
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|是这样嘛，那我猜我应该能让她忙上一段时间了。我就当这是个好消息吧，先生。
-ThanatosWithSisyphus01_FollowUp|Thanatos With Sisyphus Follow Up 01|Sisyphus|噢，我还可以，谢谢，王子。我可不怕他，我意思是，我已经没什么可失去的了。拿着吧，我想让您收下这个。
-ThanatosWithSisyphus02_FollowUp|Thanatos With Sisyphus Follow Up 02|Sisyphus|他说的话您信吗，王子殿下？他盛气凌人、净说大话，所以我才说了他爱听的话！他才不能阻止我帮助您。再说了，我人都死了，他还能拿我怎么样？
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|扎王子！你刚好和你那位面瘫同事擦肩而过，感觉到空气里的死寂了吗？感觉他近期都不会来查我的岗了。
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Zagreus|如果了解塔纳托斯的话，你会发现他并不是什么坏人，先生。你应该相信我的话。
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|哦，我相信这一点，殿下。我早应该想到死亡的领路人是一份寂寞的工作。也许他应该抽空试一下推一块巨石！
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Zagreus|她走了……你还好吧，西西弗斯？有没有受伤？
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Sisyphus|我还好，谢谢你，王子。不得不说，那位复仇女神，确实不好惹。我敢打赌她可以把这块老石头推到这里来，比我推的还好！
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Zagreus|您真的从没把巨石推到顶过吗？
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Sisyphus|我可从来没把石头推到顶过。总是快到终点的时候就又滚下来。在数了一万九千多次后，我就没数过了，不过您知道吗？总有一天我会成功的。
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|西西弗斯，我没听错吧？刚才墨纪拉发誓说暂时不管你了，也不管石头了？
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Sisyphus|我敢说您也听说过，王子殿下！似乎命运女神要让我歇一歇。不过，复仇女神明确表示在解决完你的问题后就会继续回来骚扰我了……
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|是这样嘛，那我猜我应该能让她忙上一段时间了。我就当这是个好消息吧，先生。
+ThanatosWithSisyphus01_FollowUp|Thanatos With Sisyphus 01 Follow Up|Sisyphus|噢，我还可以，谢谢，王子。我可不怕他，我意思是，我已经没什么可失去的了。拿着吧，我想让您收下这个。
+ThanatosWithSisyphus02_FollowUp|Thanatos With Sisyphus 02 Follow Up|Sisyphus|他说的话您信吗，王子殿下？他盛气凌人、净说大话，所以我才说了他爱听的话！他才不能阻止我帮助您。再说了，我人都死了，他还能拿我怎么样？
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|扎王子！你刚好和你那位面瘫同事擦肩而过，感觉到空气里的死寂了吗？感觉他近期都不会来查我的岗了。
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Zagreus|如果了解塔纳托斯的话，你会发现他并不是什么坏人，先生。你应该相信我的话。
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|哦，我相信这一点，殿下。我早应该想到死亡的领路人是一份寂寞的工作。也许他应该抽空试一下推一块巨石！
 SisyphusChat01|Sisyphus Chat 01|Sisyphus|真高兴看到你还活着，扎王子！
 SisyphusChat02|Sisyphus Chat 02|Sisyphus|看来你过得还不错，王子。
 SisyphusChat03|Sisyphus Chat 03|Sisyphus|噢我扛得住，感谢关心，王子！
@@ -235,19 +235,19 @@ SisyphusGift05|Sisyphus Gift 05|Sisyphus|我真的太高兴了，殿下！你真
 SisyphusGift05|Sisyphus Gift 05|Zagreus|我想你这次能做的应该不只这些，好先生。
 SisyphusGift06|Sisyphus Gift 06|Sisyphus|但是这个我真的承受不起，殿下，谢谢你，真的。这恩情我永远报答不完。
 SisyphusGift06|Sisyphus Gift 06|Zagreus|那你就帮我让我不要死得那么快，怎么样？
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|西西弗斯大人？你多次无私地帮助了我，从没有要求回报。我要告诉你我对此充满感激，而且想着你在特殊的场合可能会用到这个，就在这里！
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|什么，王子，这是……？是的……！我很少见过满满一瓶，更没有品尝过，非常感谢你！不过，恕我冒昧，我没有正当的理由接受这么珍贵的礼物。除非……
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|除非……？噢……不，这可不是什么物品交换，这是一件礼物啊，先生。等下，这是什么？
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|殿下，这是我的一个小朋友，一直由石头秘密照看着。接下来无论你走到哪里，他都会跟着你，让你不再孤单。而且，有他在你身边，石头和我……我们都会在精神上支持你。
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|王子，你送我的那瓶陈酿仙馔密酒，简直是！我觉得它是我收过的最好的礼物！甚至连石头都非常喜欢！
-SisyphusGift08_A|Sisyphus Gift A 08|Zagreus|我想着你会喜欢的，大人。如果你喜欢的话，我愿意再给你拿来一瓶。遗憾的是，我们这里很少能拿到这种来自奥林匹斯山的好东西。我希望有机会我也能亲自品尝一番。等这一切都尘埃落定吧。
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|等等，你说你从没碰过这东西？那你的自制力比我强多了。也许某天，咱俩能有机会坐下来一起尝尝！
-SisyphusGift08_B|Sisyphus Gift B 08|Zagreus|我想着你会喜欢的，大人。如果你喜欢的话，我愿意再给你拿来一瓶。遗憾的是，我们这里很少能拿到这种来自奥林匹斯山的好东西。
-SisyphusGift08_B|Sisyphus Gift B 08|Sisyphus|啊，快看看王子殿下给我们拿来了什么好东西，石头！或许有朝一日，我们可以有机会坐下来，一起喝上几杯！
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|所有这些，对于像我这样的人来说。你知道我被困在这里的原因吧，王子？并不只是你的父亲和塔纳托斯大人不喜欢我。从一开始，你对我的尊重是我走下国王宝座之后再也没遇过的。甚至当我还在位时都没有过。
-SisyphusGift09_A|Sisyphus Gift A 09|Zagreus|无论过去是怎样的人，大人，我相信你早已脱胎换骨了。作为你的朋友，还有巨石的朋友，我感到非常自豪。这么说听起来有点矫情，但我真的很庆幸有你在。我从你那里学到很多东西，关于这一切纷纷扰扰。
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|王子殿下，我感到特别荣幸，真的，有你这样的朋友是我这种人想都不敢想的。你说对吗，石头？
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|请收下吧，扎格王子，石头附和着说。
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|西西弗斯大人？你多次无私地帮助了我，从没有要求回报。我要告诉你我对此充满感激，而且想着你在特殊的场合可能会用到这个，就在这里！
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|什么，王子，这是……？是的……！我很少见过满满一瓶，更没有品尝过，非常感谢你！不过，恕我冒昧，我没有正当的理由接受这么珍贵的礼物。除非……
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|除非……？噢……不，这可不是什么物品交换，这是一件礼物啊，先生。等下，这是什么？
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|殿下，这是我的一个小朋友，一直由石头秘密照看着。接下来无论你走到哪里，他都会跟着你，让你不再孤单。而且，有他在你身边，石头和我……我们都会在精神上支持你。
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|王子，你送我的那瓶陈酿仙馔密酒，简直是！我觉得它是我收过的最好的礼物！甚至连石头都非常喜欢！
+SisyphusGift08_A|Sisyphus Gift 08 A|Zagreus|我想着你会喜欢的，大人。如果你喜欢的话，我愿意再给你拿来一瓶。遗憾的是，我们这里很少能拿到这种来自奥林匹斯山的好东西。我希望有机会我也能亲自品尝一番。等这一切都尘埃落定吧。
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|等等，你说你从没碰过这东西？那你的自制力比我强多了。也许某天，咱俩能有机会坐下来一起尝尝！
+SisyphusGift08_B|Sisyphus Gift 08 B|Zagreus|我想着你会喜欢的，大人。如果你喜欢的话，我愿意再给你拿来一瓶。遗憾的是，我们这里很少能拿到这种来自奥林匹斯山的好东西。
+SisyphusGift08_B|Sisyphus Gift 08 B|Sisyphus|啊，快看看王子殿下给我们拿来了什么好东西，石头！或许有朝一日，我们可以有机会坐下来，一起喝上几杯！
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|所有这些，对于像我这样的人来说。你知道我被困在这里的原因吧，王子？并不只是你的父亲和塔纳托斯大人不喜欢我。从一开始，你对我的尊重是我走下国王宝座之后再也没遇过的。甚至当我还在位时都没有过。
+SisyphusGift09_A|Sisyphus Gift 09 A|Zagreus|无论过去是怎样的人，大人，我相信你早已脱胎换骨了。作为你的朋友，还有巨石的朋友，我感到非常自豪。这么说听起来有点矫情，但我真的很庆幸有你在。我从你那里学到很多东西，关于这一切纷纷扰扰。
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|王子殿下，我感到特别荣幸，真的，有你这样的朋友是我这种人想都不敢想的。你说对吗，石头？
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|请收下吧，扎格王子，石头附和着说。
 SisyphusGift07|Sisyphus Gift 07|Sisyphus|等下，真的，这，这是给我的？真的吗，王子？我是说，我不会拒绝的，这种东西我怎么能拒绝呢，谢谢你！非常感谢。
 SisyphusGift07|Sisyphus Gift 07|Zagreus|你真的太客气了，先生。你为我做了这么多，这是我应该做的。
 SisyphusGift08|Sisyphus Gift 08|Sisyphus|…我真的不知道该说什么了，殿下。我只是个本分的暗灵。怎值得你如此慷慨。

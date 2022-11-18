@@ -42,9 +42,9 @@ MegaeraBedroom02|Megaera Bedroom 02|Megaera|넌 모를 걸. 내가 하려는 말
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|무슨 말이지?
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|그러니까... 네가 어머니를 찾으려 한다는 거 알아, 자그레우스. 나도 할 일이 있지만, 널 도울 방법을 알아볼게.
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|메가이라...! {#DialogueItalicFormat}아{#PreviousFormat}.
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|나도 알아. 미안해. 하지만 내가 해야 하는 일이야. 넌 이해 못하겠지만.
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|부담이 줄다니... 잠깐, 그럼 넌 이제 뭘 하려고?
-MegaeraBedroom02B|Megaera Bedroom B 02|Megaera|그러니까... 너한테 할 일이 있다는 건 나도 알아, 자그레우스. 나랑 내 자매들은 널 막으려 하겠지. 하지만 내가 널 막는 건 그게 내 일이기 때문이야. 내 말 알겠어?
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|나도 알아. 미안해. 하지만 내가 해야 하는 일이야. 넌 이해 못하겠지만.
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|부담이 줄다니... 잠깐, 그럼 넌 이제 뭘 하려고?
+MegaeraBedroom02B|Megaera Bedroom 02 B|Megaera|그러니까... 너한테 할 일이 있다는 건 나도 알아, 자그레우스. 나랑 내 자매들은 널 막으려 하겠지. 하지만 내가 널 막는 건 그게 내 일이기 때문이야. 내 말 알겠어?
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|메가이라... 이렇게 놀라울 데가. 다시. 뭔가? ...무슨 일이야? 잠깐. 왜 그런 눈으로 보는 거야?
 BecameCloseWithMegaera01|Became Close With Megaera 01|Megaera|자그레우스, 그런 멍청한 질문은 그만하고 이쪽으로 올래? 지금 당장.
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|...난... 넌 정말... 아...
@@ -70,12 +70,12 @@ Text|Text|Zagreus|...또 보자, 타나토스.
 Text|Text|Zagreus|...내 말 좀 들어 봐. 너희 둘 다 내겐 참 소중해. 우리가 이렇게 가까워져서 기뻐... 너희가 예전처럼 서로 죽이려 들지 않고 가까워져서 말이야. 하지만 이건 내가 당장 받아들이기엔 좀 과한 것 같다.
 Text|Text|Megaera|...확실해? 야... 난 완전 괜찮아. 그럼 밖에서 보자고.
 Text|Text|Thanatos|나중에 또 이야기하자, 알겠지?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|입 다물어, 자그레우스. 이리 와.
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|넌 질문이 너무 많아, 자그레우스. 하지만 좋아. 우리 다시 사귀는 거야. 지금은. 하지만 다른 영혼한테 말하면 죽여버린다, 알겠어?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|하지만... 잠깐... 타나토스도 안 돼?
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|타나토스는 바보가 아니야. 네가 잘 되기를 바라지. 타나토스는 질투심이 많은 편이야. 게다가 너도 알다시피 나는 타나토스랑 업무적으로 좋은 관계를 유지하고 있어.
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|맞아, 하지만... 넌 어때. 넌 질투를 처벌하는 자잖아. 만약 내가...
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|우리는 필멸자가 아니야, 자그레우스. 필멸자들은 삶이 짧으니 서로에게 강렬하게 이끌리지. 우리가 그럴 게 뭐 있어? 내가 닉스한테 배운 한 가지는 마음에는 한계가 없다는 거야. 이제 걱정은 그만하고 밖에서 다시 만날 때를 대비하도록 해. 또 보자.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|입 다물어, 자그레우스. 이리 와.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|넌 질문이 너무 많아, 자그레우스. 하지만 좋아. 우리 다시 사귀는 거야. 지금은. 하지만 다른 영혼한테 말하면 죽여버린다, 알겠어?
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|하지만... 잠깐... 타나토스도 안 돼?
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|타나토스는 바보가 아니야. 네가 잘 되기를 바라지. 타나토스는 질투심이 많은 편이야. 게다가 너도 알다시피 나는 타나토스랑 업무적으로 좋은 관계를 유지하고 있어.
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|맞아, 하지만... 넌 어때. 넌 질투를 처벌하는 자잖아. 만약 내가...
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|우리는 필멸자가 아니야, 자그레우스. 필멸자들은 삶이 짧으니 서로에게 강렬하게 이끌리지. 우리가 그럴 게 뭐 있어? 내가 닉스한테 배운 한 가지는 마음에는 한계가 없다는 거야. 이제 걱정은 그만하고 밖에서 다시 만날 때를 대비하도록 해. 또 보자.
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|타나토스....! 들어오라고 하려고 했는데... 이미 들어왔네. 만나서 정말 좋다.
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Thanatos|한 가지만 말해 줘, 자그레우스. 지난번에 네가 한 말... 우리 시간을 좀 갖자고 한 거... 그 말 진심이었어?
 BecameCloseWithThanatos01|Became Close With Thanatos 01|Zagreus|난 그냥... 네 대답을 강요하고 싶지 않았어, 타나토스. 대답하기 쉬운 일이 아니라는 거 알아. 난 그냥... 내가 충동적으로 이러는 게 아니라는 걸 알려주고 싶었어. 얼마가 걸리든 기다릴게.
@@ -377,9 +377,9 @@ FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|그러실 필요가. �
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|{#DialogueItalicFormat}쯧쯧{#PreviousFormat}. 믿을 수가 없네. 형벌 규약에 서명하다니. 완전히 정신이 나간 거야? 아니면 날 모욕하려고 이러는 거야?
 FuryPactReaction01|Fury Pact Reaction 01|Zagreus|그렇게 무례하게 나온다면, 아마 그럴지도? 그나저나, 내가 어디다 서명을 하든 무슨 상관이지?
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|내가 바보인 줄 알아? 무슨 수작인지 다 알아. 벌을 받고 싶다고? 그렇다면 덤벼.
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}. 형벌 규약을 자원한 거야? 이젠 돌이킬 수 없어. 넌 내 생각보다 훨씬 멍청하구나.
-FuryPactReaction01_B|Fury Pact Reaction B 01|Zagreus|내가 그냥 도전을 좋아하는 거라는 생각은 안 해봤어? 게다가 내가 규약을 어떻게 하든 네가 무슨 상관이야?
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|맞아. 나랑 {#DialogueItalicFormat}상관없는 {#PreviousFormat}일이지. 그렇게 혼나고 싶다면 내가 거들어줄게.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}. 형벌 규약을 자원한 거야? 이젠 돌이킬 수 없어. 넌 내 생각보다 훨씬 멍청하구나.
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Zagreus|내가 그냥 도전을 좋아하는 거라는 생각은 안 해봤어? 게다가 내가 규약을 어떻게 하든 네가 무슨 상관이야?
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|맞아. 나랑 {#DialogueItalicFormat}상관없는 {#PreviousFormat}일이지. 그렇게 혼나고 싶다면 내가 거들어줄게.
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|너랑 제대로 붙을 날을 고대해 왔어. 이러려고 규약에 서명한 거 아니야? 날 동정하려고?
 FuryPactReaction02|Fury Pact Reaction 02|Zagreus|나름대로 이유가 있어서 한 일이야. 그중에 너에 대한 동정은 이유가 아니야. 이렇게 말해 봤자 내 말 안 믿겠지만 말이야. 안 그래?
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|네가 원하는 게 형벌이라면, 내가 거절할 이유가 없지.
@@ -413,9 +413,9 @@ FuryKeepsakeReaction01|Fury Keepsake Reaction 01|Megaera|놈들은 잘 세운 �
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|네게서 죽음이 느껴지는군, 자그레우스. 타나토스한테서 뭘 받았나 봐?
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Zagreus|아, 이 낡은 거? 타나토스가 나한테 준 나비인데 별 거 없어. 그냥 나한테 평소보다 더 강력한 힘을 줄 뿐이지. 신경 쓰지 않아도 돼.
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|타나토스도 여기선 널 도울 수 없어. 하지만 벌레 채집을 해야 한다면 누굴 불러야 좋을지 알겠네.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|배티가 여기선 안 도와주는 거 알지? 나도 당연히 이건 안 도와줄 거야.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Zagreus|그러지 마, 메가이라. 네가 마음만 먹으면 못할 게 뭐가 있어. 하지만 걱정하지 마. 배티는 그냥 이걸 보여주려고 데려온 거니까.
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|멋진 쇼여야 할 거야. 덤벼.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|배티가 여기선 안 도와주는 거 알지? 나도 당연히 이건 안 도와줄 거야.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Zagreus|그러지 마, 메가이라. 네가 마음만 먹으면 못할 게 뭐가 있어. 하지만 걱정하지 마. 배티는 그냥 이걸 보여주려고 데려온 거니까.
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|멋진 쇼여야 할 거야. 덤벼.
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|그 작은 박쥐 컴패니언은 네가 다루기엔 벅차지 않아, 자그레우스? 잘 돌보고 있으리라 믿을게. 걔한테 네 도움이 필요하지도 않겠지만.
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Zagreus|어, 전혀 문제 없어. 고마워, 메가이라. 특히 내가 도움이 필요하면 항상 나타나 주거든. 서로 가끔 도움을 주고 받는 게 그렇게 힘든 일은 아니잖아?
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|힘든 일이 싫다면 여기 오질 말았어야지.
@@ -455,155 +455,155 @@ FuryWinStreak03|Fury Win Streak 03|Megaera|그렇게라도 위안으로 삼고 �
 FuryLoseStreak01|Fury Lose Streak 01|Megaera|만에 하나 날 통과한다고 하더라도, 아스포델을 빠져나갈 수 없을 거야. 어떤 곳인지 봤잖아. 정말 그런 곳으로 돌아가고 싶은 거야?
 FuryLoseStreak01|Fury Lose Streak 01|Zagreus|원하고 원치 않고, 그런 문제가 아니야. 바깥으로 나가는 방향이 화염의 강을 건너는 그쪽이라고.
 FuryLoseStreak01|Fury Lose Streak 01|Megaera|넌 네 아버지보다 고집이 세구나. 그분보다 고집이 센 사람은 없을 거라 생각했는데.
-Fury2PactReaction01|Fury Pact Reaction 2 01|Alecto|너 규약에 서명한 거 맞지, 빨간 피? 당장 대답해.
-Fury2PactReaction01|Fury Pact Reaction 2 01|Zagreus|맞아, 했어. 근데 그게 너랑 무슨 상관인지 모르겠군, 알렉토.
-Fury2PactReaction01|Fury Pact Reaction 2 01|Alecto|난 {#DialogueItalicFormat}혼자 {#PreviousFormat}일하는 걸 좋아하거든! 그런데 보다시피 지금은 혼자가 아니잖아? 그러니까 나랑 상관이 있지. {#DialogueItalicFormat}널 {#PreviousFormat}죽여버려야 되기도 하고!
-Fury2PactDisabledReaction01|Fury Pact Disabled Reaction 2 01|Alecto|{#DialogueItalicFormat}휴{#PreviousFormat}, 조용할 날이 없군. 안 그래, 빨간 피? 네가 빌어먹을 규약에 멍청하게 서명하는 바람에 또 내 자매들하고 같이 일해야 되잖아. 대가를 치르게 해 주지!
-Fury2PactDisabledReaction01|Fury Pact Disabled Reaction 2 01|Zagreus|이제 보니 내가 뭘 하든 꼬투리 잡아 {#DialogueItalicFormat}대가를 치르게 {#PreviousFormat}하겠다는 것 같은데, 안 그래?
-Fury2PactDisabledReaction01|Fury Pact Disabled Reaction 2 01|Alecto|말은 잘하네! 똑똑하기도 하셔, 이 {#DialogueItalicFormat}똑똑이{#PreviousFormat}! 그거 알아? 그 대가도 치르게 해 줄게.
-Fury2FirstAppearance|Fury First Appearance 2|Alecto|{#DialogueItalicFormat}아하하, 호호호호호. {#PreviousFormat}드디어. 이 순간을 기다려 왔어. 진심으로.
-Fury2FirstAppearance|Fury First Appearance 2|Zagreus|메가이라의 끔찍이도 사랑스러운 자매 중 하나인가 본데. 그쪽이랑은 초면이군. 대체 뭘 기다려 왔단 거지?
-Fury2FirstAppearance|Fury First Appearance 2|Alecto|...누구의 방해도 받지 않고 매일 똑같은 일을 하는 게 지겨워지려던 참이었어. 메가이라 뒤치다꺼리는 말할 것도 없고 말이야!
-Fury2FirstAppearance|Fury First Appearance 2|Zagreus|그쪽이랑은 왠지 출발부터 뭔가 꼬인듯한 느낌이 드네.
-Fury2FirstAppearance|Fury First Appearance 2|Alecto|어찌 됐건, 신을 죽이는 게 소원이었는데. 네가 그 소원을 이뤄 주겠군.
-Fury2PostEnding01|Fury Post Ending 2 01|Alecto|네 아버지 집이 새 소식으로 시끌벅적하던데, 빨간 피. 그 유명한 납치된 왕비가 집에 돌아오셨다고?!
-Fury2PostEnding01|Fury Post Ending 2 01|Zagreus|잠깐, 네가 그걸 어떻게 알아? 그리고 왕비님을 그런 식으로 말해도 되는 거야?
-Fury2PostEnding01|Fury Post Ending 2 01|Alecto|그 여자는 내 상관 아니야! 오든 말든 내 알 바 아니지. 누가 거기에 관심 있는지 알아?! 그래, 바로 너야.
-Fury2PostEnding02|Fury Post Ending 2 02|Alecto|이건 물어야겠다. 왜 자꾸 나타나는 거야, 빨간 피? 맞을 만큼 맞았을 텐데.
-Fury2PostEnding02|Fury Post Ending 2 02|Zagreus|널 찾아오는 걸 즐기게 됐거든, 알렉토. 그래서 정기적으로 이렇게 오기로 했어. 좋은 습관을 만들고 유지하는 게 건강의 원천이지!
-Fury2PostEnding02|Fury Post Ending 2 02|Alecto|이게 좋은 습관이냐?! 나한테는 그럴지도 모르지. 얼마든지 오라고. {#DialogueItalicFormat}언제든 {#PreviousFormat}기다리고 있을 테니까. 뭐, 세 번에 한 번 정도는.
-Fury2PostEpilogue01|Fury Post Epilogue 2 01|Alecto|네 아버지 집에서 한바탕 했다면서, 빨간 피. 못 봐서 아쉽군. 다음 번엔 꼭 보여달라고. 알겠지?
-Fury2PostEpilogue01|Fury Post Epilogue 2 01|Zagreus|다음엔 꼭 그럴게, 알렉토. 우리도 네가 꼭 올 수 있길 바랐는데 못 와서 너무 아쉬웠어!
-Fury2PostEpilogue01|Fury Post Epilogue 2 01|Alecto|{#DialogueItalicFormat}호호호{#PreviousFormat}, 그랬겠지. 하지만 일이 먼저야! 어서 시작하자고.
-Fury2EndOfDiscussion01|Fury End Of Discussion 2 01|Alecto|이봐, 빨간 피. 생각을 많이 해 봤는데 앞으로 {#DialogueItalicFormat}절대 {#PreviousFormat}말을 걸지 않아 줬으면 좋겠어. 그것도 {#DialogueItalicFormat}영원히{#PreviousFormat}. 알겠어?
-Fury2EndOfDiscussion01|Fury End Of Discussion 2 01|Zagreus|...{#DialogueItalicFormat}음{#PreviousFormat}, 어떻게 네 말을 거역하지 않으면서 대답을 해야 하는지 모르겠군, 알렉토. 하지만 좋아. 입을 다물고 있을게.
-Fury2EndOfDiscussion01|Fury End Of Discussion 2 01|Alecto|{#DialogueItalicFormat}죽여버리겠다{#PreviousFormat}는 소리야! 무슨 소릴 하든 넌 여길 살아서 지나갈 수 없어. 덤벼!
-Fury2LowHealth01|Fury Low Health 2 01|Alecto|{#DialogueItalicFormat}아아{#PreviousFormat}, 너 꼴을 한 번 봐봐, 빨간 피. 넌 벌써 죽은 거나 다름없잖아! 이건 하나도 재미없지.
-Fury2LowHealth01|Fury Low Health 2 01|Zagreus|알렉토, 실망시켜서 미안하게 됐어. 내가 네 손에 피를 흘리는 꼴을 봐야 직성이 풀린다는 거 아는데 말이야.
-Fury2LowHealth01|Fury Low Health 2 01|Alecto|아냐, 됐어. 미안할 것까진 없고. 다음번에 내가 널 죽일 땐 지금보단 나은 상태로 오라고. 알겠어?
-Fury2LowHealth02|Fury Low Health 2 02|Alecto|저 멀리서부터 네 피 냄새가 진동한 거 알아? 내가 즐길 몫도 남겨 뒀겠지?
-Fury2LowHealth02|Fury Low Health 2 02|Zagreus|널 위해 흘릴 피야 물론 남아 있지! 하지만 너만 괜찮다면 이번엔 내 피는 더 보지 말자고.
-Fury2LowHealth02|Fury Low Health 2 02|Alecto|내가 그 말에 괜찮다고 할 것 같아? 네 피가 얼마나 남았든 그건 내 몫이야.
-Fury2LowHealth03|Fury Low Health 2 03|Alecto|빨간 피야, 문제가 뭔데? 평소보다 더 창백해 보이는데. 여기까지 오는 동안 피 좀 봤나 본데?
-Fury2LowHealth03|Fury Low Health 2 03|Zagreus|꼭 알고 싶다면 말해 줄게. 날 방해하는 자들이 몇 있었어. 하지만 염려 마. 아직 흘릴 수 있는 피가 차고 넘치니까.
-Fury2LowHealth03|Fury Low Health 2 03|Alecto|오, 휴. 듣던 중 반가운 소리네! 이번엔 내가 널 못 죽이나 하고 괜히 걱정했잖아.
-Fury2MiscEncounter01|Fury Misc Encounter 2 01|Alecto|넌 신이 아니야! 신은커녕 쓰레기 같은 존재라고. 다 갖고 태어났으면서 이제 와서 애처럼 싫다고 투정이나 부리는 꼴이란!
-Fury2MiscEncounter01|Fury Misc Encounter 2 01|Zagreus|나에 대해서 아는 게 참 많나 봐. 난 우리가 이제야 막 서로에 대해 알아가기 시작했다고 생각했는데.
-Fury2MiscEncounter01|Fury Misc Encounter 2 01|Alecto|쯧쯧. 글쎄. 내가 뭘 원하는지 궁금해? 그럼 보여 줄게 이리 와 봐.
-Fury2MiscEncounter02|Fury Misc Encounter 2 02|Alecto|내가 너에 대해서 뭐가 마음에 드는지 알아? 네가 피를 흘리는 방식이지. {#DialogueItalicFormat}으으음{#PreviousFormat}.
-Fury2MiscEncounter02|Fury Misc Encounter 2 02|Zagreus|그런 식의 칭찬은 정말 적응이 안 되는데. 솔직히 약간 불편해지려 하고 있어.
-Fury2MiscEncounter02|Fury Misc Encounter 2 02|Alecto|너처럼 피 흘리는 신은 처음 봤어. 붉은 피. 하찮은 인간처럼 말이야. 어서 덤벼! 남아 있는 한 방울까지 모두 흘려 버리게 만들어 줄 테니.
-Fury2MiscEncounter03|Fury Misc Encounter 2 03|Alecto|본론으로 들어가자고. 빨간 피, 어쩔 테야? 넌 여자인 나를 너무 오래 기다리게 했어.
-Fury2MiscEncounter03|Fury Misc Encounter 2 03|Zagreus|일단 날 빨간 피라고 부르는 건 좀 별로야. 너 때문에 자꾸 의식하게 되잖아.
-Fury2MiscEncounter03|Fury Misc Encounter 2 03|Alecto|{#DialogueItalicFormat}풉. 호호{#PreviousFormat}. 재미있긴 한데, 넌 무너질 거야. 언제나 그렇듯이.
-Fury2MiscEncounter04|Fury Misc Encounter 2 04|Alecto|너 정말 짜증 나는 존재인 거 알아, 빨간 피? 대체 어떻게 해야 비명을 지를 건데?
-Fury2MiscEncounter04|Fury Misc Encounter 2 04|Zagreus|잠깐. 메가이라한테 얘기 못 들었어? 둘이 꽤 친한 줄 알았는데.
-Fury2MiscEncounter04|Fury Misc Encounter 2 04|Alecto|됐어. 곧 알게 되겠지. 시도해 보려던 아이디어는 얼마든지 많아.
-Fury2MiscEncounter05|Fury Misc Encounter 2 05|Alecto|그거 알아, 빨간 피? 돌이켜 보면 이 일이 이렇게 질질 끌 거라는 걸 애초에 알았어야 했어.
-Fury2MiscEncounter05|Fury Misc Encounter 2 05|Zagreus|신이나 인간이나 무언가 일을 끝내는 데 걸리는 시간을 못 맞추는 건 매한가지라고들 하더군.
-Fury2MiscEncounter05|Fury Misc Encounter 2 05|Alecto|보통 내가 일을 맡으면 상대방은 나에게 굽실거리고 비명을 지르지. 그러다 결국 입을 다물어. 너만 빼고 말이야. 적어도 아직까진 그래.
-Fury2MiscEncounter06|Fury Misc Encounter 2 06|Alecto|허! 넌 정말 고통을 즐기는 모양이네, 빨간 피. 아니면 내가 즐기는 건지도 모르지.
-Fury2MiscEncounter06|Fury Misc Encounter 2 06|Zagreus|알렉토, 이제 알겠지? 알고 보면 너와 나 사이에도 공통점이 있었던 거야.
-Fury2MiscEncounter06|Fury Misc Encounter 2 06|Alecto|너 방금--? 앞으로 {#DialogueItalicFormat}다시는 {#PreviousFormat}우리 둘을 비교하지 마. 원하는 게 고통이라면 내 얼마든지 맛보게 해 주지.
-Fury2MiscEncounter07|Fury Misc Encounter 2 07|Alecto|고마워해야겠어, 빨간 피. 네 아비가 널 저 아래 구덩이 깊이 묻어버렸다면 우리가 만날 일도 없었을 테니까!
-Fury2MiscEncounter07|Fury Misc Encounter 2 07|Zagreus|그런 생각 마, 알렉토. 우리가 운명적으로 만나지 않았더라면 할 일도 없었지 않겠어?
-Fury2MiscEncounter07|Fury Misc Encounter 2 07|Alecto|모르지! 널 만나기 전에도 여기서 온갖 쓰레기들을 처리했으니 말이야! 하지만 최근에는 그 놈들을 내버려 두고 있거든. 널 처리하려고.
-Fury2MiscEncounter08|Fury Misc Encounter 2 08|Alecto|잘했어, 빨간 피! 여기까지 잘도 왔군. 하지만 이제 네 아빠한테 돌려보내 줄게. 악감정은 없어!
-Fury2MiscEncounter08|Fury Misc Encounter 2 08|Zagreus|너도 같이 가지 그래, 알렉토. 다음에 우리 집에 놀러올 수 있도록 내가 아버지한테 좋은 말 좀 해 줄까?
-Fury2MiscEncounter08|Fury Misc Encounter 2 08|Alecto|그러느니 내 눈을 잡아뽑고 말지. 그래도 제안은 고맙군! 이제 집에 갈 시간이다.
-Fury2MiscEncounter09|Fury Misc Encounter 2 09|Alecto|이봐, 빨간 피. 보통은 내 사냥감이 {#DialogueItalicFormat}나를 {#PreviousFormat}찾아오는 일은 없는데 말이야. 그것도 이렇게 여러 번이나! 아주 즐거운 시간을 보내게 하려고 왔는데도 말이지?!
-Fury2MiscEncounter09|Fury Misc Encounter 2 09|Zagreus|네가 무섭게 웃는 모습을 보고 싶었어, 알렉토. 게다가 가끔 너를 상대하는 게 메가이라하고 매번 싸우는 것보단 낫거든.
-Fury2MiscEncounter09|Fury Misc Encounter 2 09|Alecto|{#DialogueItalicFormat}뭐어{#PreviousFormat}?! 그 {#DialogueItalicFormat}약골{#PreviousFormat}보다 {#DialogueItalicFormat}나{#PreviousFormat}를 상대하는 게 더 낫다고? {#DialogueItalicFormat}이이익{#PreviousFormat}!
-Fury2MiscEncounter10|Fury Misc Encounter 2 10|Alecto|몇 번이나 더 싸워야 돼, 빨간 피? 몇 번이나? 말해! 어떻게 이렇게 나하고 계속 싸우고도 멀쩡한 거지?
-Fury2MiscEncounter10|Fury Misc Encounter 2 10|Zagreus|습관이란 무서운 법이거든. 몇 번인지는 나도 잘 몰라. 알아보는 방법이 하나 있지.
-Fury2MiscEncounter10|Fury Misc Encounter 2 10|Alecto|확실한 게 하나 있지... 난 사냥감이 덤벼드는 게 좋아. 이리 와, 어디 또 피를 한 번 보자고.
-Fury2AboutTisiphoneSpeech01|Fury About Tisiphone Speech 2 01|Alecto|최근 티시포네가 이상한 소리를 하기 시작하던데, 빨간 피. 혹시 너 뭐 아는 거 있어?
-Fury2AboutTisiphoneSpeech01|Fury About Tisiphone Speech 2 01|Zagreus|걱정하지 마. 그냥 걔가 말을 좀 더 잘할 수 있게 도와주려는 거니까.
-Fury2AboutTisiphoneSpeech01|Fury About Tisiphone Speech 2 01|Alecto|그 아이는 건드리지 마!! 네까짓 게 걔를 가르칠 수 있을 줄 알아? 입 다무는 법이나 배우라고!
-Fury2AboutMegaeraRelationship01|Fury About Megaera Relationship 2 01|Alecto|{#DialogueItalicFormat}으{#PreviousFormat}, 아직도 메가이라가 너 같은 것과 얽히다니 믿을 수 없어, 빨간 피. 걔가 아무리 약해도 일은 똑바로 하는 아이인 줄 알았는데. {#DialogueItalicFormat}으{#PreviousFormat}, 오래 살고 볼 일이야!
-Fury2AboutMegaeraRelationship01|Fury About Megaera Relationship 2 01|Zagreus|네가 뭐라 생각하든 내 알 바 아니야, 알렉토. 하지만 계속 입을 놀리면 내가 화가 날 것 같네.
-Fury2AboutMegaeraRelationship01|Fury About Megaera Relationship 2 01|Alecto|{#DialogueItalicFormat}어머나{#PreviousFormat}, {#DialogueItalicFormat}화가 {#PreviousFormat}나신다고요? 메가이라의 명예를 지켜주시려고? 걔는 자기 스스로 명예를 지키기엔 너무 약하니까? 넌 걔가 아주 순수한 줄 알지, {#DialogueItalicFormat}하하하{#PreviousFormat}! 역겨워, 너네 둘 다!
-Fury2WinStreak01|Fury Win Streak 2 01|Alecto|오 어머, 빨간 피! 뭐 아쉬운 게 있어서 또 왔나 보네. 솔직히 너의 그런 고집스러운 멍청함이 싫지 않아. 이번엔 너를 조금이나마 더 오래 살려 둘 수 있으면 좋으련만.
-Fury2WinStreak01|Fury Win Streak 2 01|Zagreus|이젠 날 죽이는 것도 모자라 모욕까지 하는 거야?
-Fury2WinStreak01|Fury Win Streak 2 01|Alecto|아직 마음의 결정을 못 내렸어. 내가 좀 즉흥적인 성격이라서.
-Fury2WinStreak02|Fury Win Streak 2 02|Alecto|허! 보통 내 표적들은 날 한 번 겪고 나면 다신 날 찾아오지 않거든.
-Fury2WinStreak02|Fury Win Streak 2 02|Zagreus|그럴 만도 하겠지. 하지만 난 너랑 만날 때마다 이렇게 주거니 받거니 하는 게 은근히 즐겁더라고.
-Fury2WinStreak02|Fury Win Streak 2 02|Alecto|{#DialogueItalicFormat}이런{#PreviousFormat}, 실망시켜서 미안한데, 빨간 피. 넌 내 취향이 아니야. 이번에는 드디어 이 사실을 네 머릿속에 박아 둘 수 있을지 모르겠네.
-Fury2LoseStreak01|Fury Lose Streak 2 01|Alecto|그거 알아, 빨간 피? 내가 노력해 봤는데, 아직 저번에 네가 날 이긴 걸 용서를 못 하겠어. 삐뚤어진 성격상의 결함이든 뭐든 생각하고 싶은 대로 생각해...
-Fury2LoseStreak01|Fury Lose Streak 2 01|Zagreus|용서에는 시간이 걸리는 법. 물론 자기반성도 썩 나쁘지 않은 방법이지만. 드디어 우리 관계도 조금씩 발전하는 것 같은데!
-Fury2LoseStreak01|Fury Lose Streak 2 01|Alecto|우리 관계가 발전하고 있다고? 지금 이 상황을 보고도? {#DialogueItalicFormat}아하하하하하하, {#PreviousFormat}이런 멍청한 놈을 봤나! 발전이 뭔지 내가 똑똑히 보여 주지.
-Fury2LoseStreak02|Fury Lose Streak 2 02|Alecto|빨간 피, 네 그 의기양양한 얼굴을 보고, 또 보고, 또 보는 게 얼마나 지겨운 줄 알아?
-Fury2LoseStreak02|Fury Lose Streak 2 02|Zagreus|그럼 이제라도 날 그냥 좀 내버려 두고 원래 하던 일로 돌아갈 생각은 없어?
-Fury2LoseStreak02|Fury Lose Streak 2 02|Alecto|알겠어? 그게 {#DialogueItalicFormat}바로 {#PreviousFormat}내가 하고 싶던 말이야. 네가 메가이라를 얼마나 오래 골탕먹인 줄 아는데, 난 그렇게 질질 끌 생각이 없어.
-Fury2LoseStreak03|Fury Lose Streak 2 03|Alecto|빨간 피, 건방진 놈. 너 때문에 내 입장이 얼마나 곤란해진 줄 알아? 너 때문에 내가 정말 {#DialogueItalicFormat}곤란{#PreviousFormat}해졌다고.
-Fury2LoseStreak03|Fury Lose Streak 2 03|Zagreus|알렉토, 난 너한테 날 계속 죽여 달라고 부탁한 적 없어. 그런데 나한테 무슨 대답을 기대하는 거지?
-Fury2LoseStreak03|Fury Lose Streak 2 03|Alecto|{#DialogueItalicFormat}아하하하하하하{#PreviousFormat}, 날 {#DialogueItalicFormat}곤란{#PreviousFormat}하게 만들면 어떻게 되는 줄 알지...?
-Fury2LoseStreak04|Fury Lose Streak 2 04|Alecto|{#DialogueItalicFormat}허{#PreviousFormat}, 쓰레기 신 아닌가. 또 이곳을 더럽히려고 왔군! 이젠 정말 뻔하다니까.
-Fury2LoseStreak04|Fury Lose Streak 2 04|Zagreus|지난번에 내가 널 쓰러뜨린 걸 생각해 보면, 나보단 네가 더 뻔한 것 같은데.
-Fury2LoseStreak04|Fury Lose Streak 2 04|Alecto|너한테 그 말을 듣기 싫어, 쓰레기야! 네놈의 피나 봐야겠다. 이리 와!
-Fury3FirstAppearance|Fury First Appearance 3|Tisiphone|{#DialogueItalicFormat}으으음... 사, 살인자...
-Fury3FirstAppearance|Fury First Appearance 3|Zagreus|이봐, 메가이라의 자매 맞지! 드디어 만나다니 반가워. 난 자그레우스라고 해. {#DialogueItalicFormat}살인자{#PreviousFormat}가 아니라. 절대 아니라고.
-Fury3FirstAppearance|Fury First Appearance 3|Tisiphone|살인자... {#DialogueItalicFormat}사아아리이인자아아...!
-Fury3FirstAppearance|Fury First Appearance 3|Zagreus|흐음... 이봐, 내가 한 일이 다 자랑스럽다고 말할 순 없지만, 난 누구도 살인한 적 없다는 것 하나는 확실해.
-Fury3FirstAppearance|Fury First Appearance 3|Tisiphone|{#DialogueItalicFormat}사아아리이인자아아...!
-Fury3PostEnding01|Fury Post Ending 3 01|Zagreus|이번에는 여기 일하러 온 거야, 티시포네. 그러니까...{#DialogueItalicFormat}음{#PreviousFormat}... 저리 비켜! 하긴, 나를 여기서 막는 게 네 일이겠지. 그렇지?
-Fury3PostEnding01|Fury Post Ending 3 01|Tisiphone|사사사-{#DialogueItalicFormat}리이이이인{#PreviousFormat}...
-Fury3PostEpilogue01|Fury Post Epilogue 3 01|Zagreus|네가 집에서 열린 연회에 오지 못해서 아쉬웠어, 티시포네. 하지만 네가 좋아할 만한 곳은 아니었을 거야. 그래도 아레스님이 계셨으니까, 그분께서 살인을 좀 하셨겠지?
-Fury3PostEpilogue01|Fury Post Epilogue 3 01|Tisiphone|살이이이이인? 살이이인. {#DialogueItalicFormat}살이이이인{#PreviousFormat}!
-Fury3Encounter01|Fury Encounter 3 01|Tisiphone|사... 살인자...?
-Fury3Encounter01|Fury Encounter 3 01|Zagreus|{#DialogueItalicFormat}어{#PreviousFormat}... 아니라면 어쩔 건데? 살인 안 했어. 살인 안 했다!
-Fury3Encounter01|Fury Encounter 3 01|Tisiphone|{#DialogueItalicFormat}사아아리이인자아....{#PreviousFormat}
-Fury3Encounter02|Fury Encounter 3 02|Tisiphone|살인...? 살인. 사알인...!
-Fury3Encounter02|Fury Encounter 3 02|Zagreus|이야기 주제를 좀 바꿔 보면 안 될까? 부탁이야.
-Fury3Encounter02|Fury Encounter 3 02|Tisiphone|살인자... {#DialogueItalicFormat}사알인자아{#PreviousFormat}!
-Fury3Encounter03|Fury Encounter 3 03|Tisiphone|사... 사.... 사아린....!
-Fury3Encounter03|Fury Encounter 3 03|Zagreus|이것 봐. 살인이야? 살인자야? 둘 중 하나만 택하라고.
-Fury3Encounter03|Fury Encounter 3 03|Tisiphone|사, 살인... 사알인!!
-Fury3Encounter04|Fury Encounter 3 04|Tisiphone|사... 사아, 아알....
-Fury3Encounter04|Fury Encounter 3 04|Zagreus|제발, 난 살인자가 아니야. 이럴 것까진 없잖아.
-Fury3Encounter04|Fury Encounter 3 04|Tisiphone|살인자. 사아알이인자아....
-Fury3Encounter05|Fury Encounter 3 05|Tisiphone|살인자아... 살인, 살인, {#DialogueItalicFormat}살인{#PreviousFormat}!
-Fury3Encounter05|Fury Encounter 3 05|Zagreus|우리 전혀 말이 안 통하고 있는 것 맞지? 상황이 이렇게 돼서 유감이야.
-Fury3Encounter05|Fury Encounter 3 05|Tisiphone|살인자. {#DialogueItalicFormat}살인자아{#PreviousFormat}!!
-Fury3Encounter06|Fury Encounter 3 06|Tisiphone|살인이야? 살인...? 살인....
-Fury3Encounter06|Fury Encounter 3 06|Zagreus|왜 이러는지 모르겠어. 난 네가 생각하는 그런 사람이 아니야. 아버지께서 날 막으라고 널 보낸 게 전부겠지.
-Fury3Encounter06|Fury Encounter 3 06|Tisiphone|살인자 살인자...! {#DialogueItalicFormat}살인자{#PreviousFormat}!
-Fury3Encounter07|Fury Encounter 3 07|Tisiphone|살... 살.... 인... {#DialogueItalicFormat}살이인{#PreviousFormat}!
-Fury3Encounter07|Fury Encounter 3 07|Zagreus|살인, 아냐. 자그레우스. 내 이름은 자그레우스야! 그 말 할 수 있어, 티시포네? 살인 아냐. {#DialogueItalicFormat}자그레우스{#PreviousFormat}!
-Fury3Encounter07|Fury Encounter 3 07|Tisiphone|죽... 여... 자...
-Fury3Encounter08|Fury Encounter 3 08|Tisiphone|죽, 죽... 여... 자아아!
-Fury3Encounter08|Fury Encounter 3 08|Zagreus|지금 {#DialogueItalicFormat}살인자그{#PreviousFormat}라고 한 거지! 발전이 있네! 자그레우스! 난 자그레우스야! 살인자가 아니고! 자그레우스라고 할 수 있어?
-Fury3Encounter08|Fury Encounter 3 08|Tisiphone|다... 자... 자... 자, {#DialogueItalicFormat}그라아아{#PreviousFormat}!
-Fury3Encounter09|Fury Encounter 3 09|Tisiphone|자... 즈.... 르르르...!
-Fury3Encounter09|Fury Encounter 3 09|Zagreus|기억나, 티시포네? 내 이름은 자그레우스야. 지하 세계의 왕자. 메가이라랑 친해. 자그레우스라고 해 볼래?
-Fury3Encounter09|Fury Encounter 3 09|Tisiphone|자... 자... 자... 그레... 무스...?
-Fury3Encounter10|Fury Encounter 3 10|Tisiphone|자... 두... 레... 자... 두.
-Fury3Encounter10|Fury Encounter 3 10|Zagreus|제법 비슷해졌어, 티시포네. 자그레우스 기억나? 그게 나야. 난 적이 아니야. 알겠지? 난 자그레우스야!
-Fury3Encounter10|Fury Encounter 3 10|Tisiphone|...자... 그레... 우스... 자그레우스스스! {#DialogueItalicFormat}자아그레우스스{#PreviousFormat}!!
-Fury3Encounter11|Fury Encounter 3 11|Tisiphone|{#DialogueItalicFormat}자아아그레우스스스스{#PreviousFormat}.... 주주.... 주겨....
-Fury3Encounter11|Fury Encounter 3 11|Zagreus|아니, 아니야. 앞부분만 맞았어. 살인자는 아니고. 그냥 자그레우스. 아니면... 이건 어떨까... {#DialogueItalicFormat}행복{#PreviousFormat}? {#DialogueItalicFormat}행복{#PreviousFormat}이라고 말할 수 있겠니?
-Fury3Encounter11|Fury Encounter 3 11|Tisiphone|주... {#DialogueItalicFormat}주그어어어어{#PreviousFormat}....
-Fury3Encounter12|Fury Encounter 3 12|Tisiphone|살인... 자그레우스... {#DialogueItalicFormat}살인자아아{#PreviousFormat}...
-Fury3Encounter12|Fury Encounter 3 12|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 그럼... 이번에는 {#DialogueItalicFormat}행복{#PreviousFormat}이라고 해 보면 어때? 행복. 살인 말고 행복. 해 봐!
-Fury3Encounter12|Fury Encounter 3 12|Tisiphone|살인... 살인 {#DialogueItalicFormat}자그레우스스{#PreviousFormat}!
-Fury3Encounter13|Fury Encounter 3 13|Tisiphone|사아알이이{#DialogueItalicFormat}이인{#PreviousFormat}... 즈즈.... 즈으으....
-Fury3Encounter13|Fury Encounter 3 13|Zagreus|{#DialogueItalicFormat}으{#PreviousFormat}, {#DialogueItalicFormat}행복 {#PreviousFormat}은 안 먹히나 보네. 나를 죽이는 게 최선을 다한 걸지도 모르지. 그래도 내 이름을 안 것만 해도 대단하잖아?
-Fury3Encounter13|Fury Encounter 3 13|Tisiphone|{#DialogueItalicFormat}죽여어어... 자아그레우스스{#PreviousFormat}...
-Fury3Encounter14|Fury Encounter 3 14|Tisiphone|주겨어어어.... {#DialogueItalicFormat}주겨어어어어어{#PreviousFormat}....
-Fury3Encounter14|Fury Encounter 3 14|Zagreus|...다시 원점으로 돌아왔잖아. 있지, 난 그냥 자그레우스랑 행복 이야기 가지고 너한테 마음을 전하려 했던 것뿐이야. 네가 이걸 하나라도 이해했다면, 그냥 우린 이대로도 좋은 것 같아. 친구?
-Fury3Encounter14|Fury Encounter 3 14|Tisiphone|...즈... 즈르... {#DialogueItalicFormat}즈겨어어어!{#PreviousFormat}...
-Fury3Encounter15|Fury Encounter 3 15|Tisiphone|즈즈즈, 즈아아... {#DialogueItalicFormat}즈아그레우스? {#PreviousFormat}살이인자?
-Fury3Encounter15|Fury Encounter 3 15|Zagreus|이봐, {#DialogueItalicFormat}어{#PreviousFormat}. 혹시 그 동안 했던 {#DialogueItalicFormat}행복 {#PreviousFormat}얘기 한 번이라도 다시 생각해 본 적 있어? 그냥 확인해 보려고.
-Fury3Encounter15|Fury Encounter 3 15|Tisiphone|즈즈즈아그레우스스, {#DialogueItalicFormat}사린자아아아{#PreviousFormat}!
+Fury2PactReaction01|Fury 2 Pact Reaction 01|Alecto|너 규약에 서명한 거 맞지, 빨간 피? 당장 대답해.
+Fury2PactReaction01|Fury 2 Pact Reaction 01|Zagreus|맞아, 했어. 근데 그게 너랑 무슨 상관인지 모르겠군, 알렉토.
+Fury2PactReaction01|Fury 2 Pact Reaction 01|Alecto|난 {#DialogueItalicFormat}혼자 {#PreviousFormat}일하는 걸 좋아하거든! 그런데 보다시피 지금은 혼자가 아니잖아? 그러니까 나랑 상관이 있지. {#DialogueItalicFormat}널 {#PreviousFormat}죽여버려야 되기도 하고!
+Fury2PactDisabledReaction01|Fury 2 Pact Disabled Reaction 01|Alecto|{#DialogueItalicFormat}휴{#PreviousFormat}, 조용할 날이 없군. 안 그래, 빨간 피? 네가 빌어먹을 규약에 멍청하게 서명하는 바람에 또 내 자매들하고 같이 일해야 되잖아. 대가를 치르게 해 주지!
+Fury2PactDisabledReaction01|Fury 2 Pact Disabled Reaction 01|Zagreus|이제 보니 내가 뭘 하든 꼬투리 잡아 {#DialogueItalicFormat}대가를 치르게 {#PreviousFormat}하겠다는 것 같은데, 안 그래?
+Fury2PactDisabledReaction01|Fury 2 Pact Disabled Reaction 01|Alecto|말은 잘하네! 똑똑하기도 하셔, 이 {#DialogueItalicFormat}똑똑이{#PreviousFormat}! 그거 알아? 그 대가도 치르게 해 줄게.
+Fury2FirstAppearance|Fury 2 First Appearance|Alecto|{#DialogueItalicFormat}아하하, 호호호호호. {#PreviousFormat}드디어. 이 순간을 기다려 왔어. 진심으로.
+Fury2FirstAppearance|Fury 2 First Appearance|Zagreus|메가이라의 끔찍이도 사랑스러운 자매 중 하나인가 본데. 그쪽이랑은 초면이군. 대체 뭘 기다려 왔단 거지?
+Fury2FirstAppearance|Fury 2 First Appearance|Alecto|...누구의 방해도 받지 않고 매일 똑같은 일을 하는 게 지겨워지려던 참이었어. 메가이라 뒤치다꺼리는 말할 것도 없고 말이야!
+Fury2FirstAppearance|Fury 2 First Appearance|Zagreus|그쪽이랑은 왠지 출발부터 뭔가 꼬인듯한 느낌이 드네.
+Fury2FirstAppearance|Fury 2 First Appearance|Alecto|어찌 됐건, 신을 죽이는 게 소원이었는데. 네가 그 소원을 이뤄 주겠군.
+Fury2PostEnding01|Fury 2 Post Ending 01|Alecto|네 아버지 집이 새 소식으로 시끌벅적하던데, 빨간 피. 그 유명한 납치된 왕비가 집에 돌아오셨다고?!
+Fury2PostEnding01|Fury 2 Post Ending 01|Zagreus|잠깐, 네가 그걸 어떻게 알아? 그리고 왕비님을 그런 식으로 말해도 되는 거야?
+Fury2PostEnding01|Fury 2 Post Ending 01|Alecto|그 여자는 내 상관 아니야! 오든 말든 내 알 바 아니지. 누가 거기에 관심 있는지 알아?! 그래, 바로 너야.
+Fury2PostEnding02|Fury 2 Post Ending 02|Alecto|이건 물어야겠다. 왜 자꾸 나타나는 거야, 빨간 피? 맞을 만큼 맞았을 텐데.
+Fury2PostEnding02|Fury 2 Post Ending 02|Zagreus|널 찾아오는 걸 즐기게 됐거든, 알렉토. 그래서 정기적으로 이렇게 오기로 했어. 좋은 습관을 만들고 유지하는 게 건강의 원천이지!
+Fury2PostEnding02|Fury 2 Post Ending 02|Alecto|이게 좋은 습관이냐?! 나한테는 그럴지도 모르지. 얼마든지 오라고. {#DialogueItalicFormat}언제든 {#PreviousFormat}기다리고 있을 테니까. 뭐, 세 번에 한 번 정도는.
+Fury2PostEpilogue01|Fury 2 Post Epilogue 01|Alecto|네 아버지 집에서 한바탕 했다면서, 빨간 피. 못 봐서 아쉽군. 다음 번엔 꼭 보여달라고. 알겠지?
+Fury2PostEpilogue01|Fury 2 Post Epilogue 01|Zagreus|다음엔 꼭 그럴게, 알렉토. 우리도 네가 꼭 올 수 있길 바랐는데 못 와서 너무 아쉬웠어!
+Fury2PostEpilogue01|Fury 2 Post Epilogue 01|Alecto|{#DialogueItalicFormat}호호호{#PreviousFormat}, 그랬겠지. 하지만 일이 먼저야! 어서 시작하자고.
+Fury2EndOfDiscussion01|Fury 2 End Of Discussion 01|Alecto|이봐, 빨간 피. 생각을 많이 해 봤는데 앞으로 {#DialogueItalicFormat}절대 {#PreviousFormat}말을 걸지 않아 줬으면 좋겠어. 그것도 {#DialogueItalicFormat}영원히{#PreviousFormat}. 알겠어?
+Fury2EndOfDiscussion01|Fury 2 End Of Discussion 01|Zagreus|...{#DialogueItalicFormat}음{#PreviousFormat}, 어떻게 네 말을 거역하지 않으면서 대답을 해야 하는지 모르겠군, 알렉토. 하지만 좋아. 입을 다물고 있을게.
+Fury2EndOfDiscussion01|Fury 2 End Of Discussion 01|Alecto|{#DialogueItalicFormat}죽여버리겠다{#PreviousFormat}는 소리야! 무슨 소릴 하든 넌 여길 살아서 지나갈 수 없어. 덤벼!
+Fury2LowHealth01|Fury 2 Low Health 01|Alecto|{#DialogueItalicFormat}아아{#PreviousFormat}, 너 꼴을 한 번 봐봐, 빨간 피. 넌 벌써 죽은 거나 다름없잖아! 이건 하나도 재미없지.
+Fury2LowHealth01|Fury 2 Low Health 01|Zagreus|알렉토, 실망시켜서 미안하게 됐어. 내가 네 손에 피를 흘리는 꼴을 봐야 직성이 풀린다는 거 아는데 말이야.
+Fury2LowHealth01|Fury 2 Low Health 01|Alecto|아냐, 됐어. 미안할 것까진 없고. 다음번에 내가 널 죽일 땐 지금보단 나은 상태로 오라고. 알겠어?
+Fury2LowHealth02|Fury 2 Low Health 02|Alecto|저 멀리서부터 네 피 냄새가 진동한 거 알아? 내가 즐길 몫도 남겨 뒀겠지?
+Fury2LowHealth02|Fury 2 Low Health 02|Zagreus|널 위해 흘릴 피야 물론 남아 있지! 하지만 너만 괜찮다면 이번엔 내 피는 더 보지 말자고.
+Fury2LowHealth02|Fury 2 Low Health 02|Alecto|내가 그 말에 괜찮다고 할 것 같아? 네 피가 얼마나 남았든 그건 내 몫이야.
+Fury2LowHealth03|Fury 2 Low Health 03|Alecto|빨간 피야, 문제가 뭔데? 평소보다 더 창백해 보이는데. 여기까지 오는 동안 피 좀 봤나 본데?
+Fury2LowHealth03|Fury 2 Low Health 03|Zagreus|꼭 알고 싶다면 말해 줄게. 날 방해하는 자들이 몇 있었어. 하지만 염려 마. 아직 흘릴 수 있는 피가 차고 넘치니까.
+Fury2LowHealth03|Fury 2 Low Health 03|Alecto|오, 휴. 듣던 중 반가운 소리네! 이번엔 내가 널 못 죽이나 하고 괜히 걱정했잖아.
+Fury2MiscEncounter01|Fury 2 Misc Encounter 01|Alecto|넌 신이 아니야! 신은커녕 쓰레기 같은 존재라고. 다 갖고 태어났으면서 이제 와서 애처럼 싫다고 투정이나 부리는 꼴이란!
+Fury2MiscEncounter01|Fury 2 Misc Encounter 01|Zagreus|나에 대해서 아는 게 참 많나 봐. 난 우리가 이제야 막 서로에 대해 알아가기 시작했다고 생각했는데.
+Fury2MiscEncounter01|Fury 2 Misc Encounter 01|Alecto|쯧쯧. 글쎄. 내가 뭘 원하는지 궁금해? 그럼 보여 줄게 이리 와 봐.
+Fury2MiscEncounter02|Fury 2 Misc Encounter 02|Alecto|내가 너에 대해서 뭐가 마음에 드는지 알아? 네가 피를 흘리는 방식이지. {#DialogueItalicFormat}으으음{#PreviousFormat}.
+Fury2MiscEncounter02|Fury 2 Misc Encounter 02|Zagreus|그런 식의 칭찬은 정말 적응이 안 되는데. 솔직히 약간 불편해지려 하고 있어.
+Fury2MiscEncounter02|Fury 2 Misc Encounter 02|Alecto|너처럼 피 흘리는 신은 처음 봤어. 붉은 피. 하찮은 인간처럼 말이야. 어서 덤벼! 남아 있는 한 방울까지 모두 흘려 버리게 만들어 줄 테니.
+Fury2MiscEncounter03|Fury 2 Misc Encounter 03|Alecto|본론으로 들어가자고. 빨간 피, 어쩔 테야? 넌 여자인 나를 너무 오래 기다리게 했어.
+Fury2MiscEncounter03|Fury 2 Misc Encounter 03|Zagreus|일단 날 빨간 피라고 부르는 건 좀 별로야. 너 때문에 자꾸 의식하게 되잖아.
+Fury2MiscEncounter03|Fury 2 Misc Encounter 03|Alecto|{#DialogueItalicFormat}풉. 호호{#PreviousFormat}. 재미있긴 한데, 넌 무너질 거야. 언제나 그렇듯이.
+Fury2MiscEncounter04|Fury 2 Misc Encounter 04|Alecto|너 정말 짜증 나는 존재인 거 알아, 빨간 피? 대체 어떻게 해야 비명을 지를 건데?
+Fury2MiscEncounter04|Fury 2 Misc Encounter 04|Zagreus|잠깐. 메가이라한테 얘기 못 들었어? 둘이 꽤 친한 줄 알았는데.
+Fury2MiscEncounter04|Fury 2 Misc Encounter 04|Alecto|됐어. 곧 알게 되겠지. 시도해 보려던 아이디어는 얼마든지 많아.
+Fury2MiscEncounter05|Fury 2 Misc Encounter 05|Alecto|그거 알아, 빨간 피? 돌이켜 보면 이 일이 이렇게 질질 끌 거라는 걸 애초에 알았어야 했어.
+Fury2MiscEncounter05|Fury 2 Misc Encounter 05|Zagreus|신이나 인간이나 무언가 일을 끝내는 데 걸리는 시간을 못 맞추는 건 매한가지라고들 하더군.
+Fury2MiscEncounter05|Fury 2 Misc Encounter 05|Alecto|보통 내가 일을 맡으면 상대방은 나에게 굽실거리고 비명을 지르지. 그러다 결국 입을 다물어. 너만 빼고 말이야. 적어도 아직까진 그래.
+Fury2MiscEncounter06|Fury 2 Misc Encounter 06|Alecto|허! 넌 정말 고통을 즐기는 모양이네, 빨간 피. 아니면 내가 즐기는 건지도 모르지.
+Fury2MiscEncounter06|Fury 2 Misc Encounter 06|Zagreus|알렉토, 이제 알겠지? 알고 보면 너와 나 사이에도 공통점이 있었던 거야.
+Fury2MiscEncounter06|Fury 2 Misc Encounter 06|Alecto|너 방금--? 앞으로 {#DialogueItalicFormat}다시는 {#PreviousFormat}우리 둘을 비교하지 마. 원하는 게 고통이라면 내 얼마든지 맛보게 해 주지.
+Fury2MiscEncounter07|Fury 2 Misc Encounter 07|Alecto|고마워해야겠어, 빨간 피. 네 아비가 널 저 아래 구덩이 깊이 묻어버렸다면 우리가 만날 일도 없었을 테니까!
+Fury2MiscEncounter07|Fury 2 Misc Encounter 07|Zagreus|그런 생각 마, 알렉토. 우리가 운명적으로 만나지 않았더라면 할 일도 없었지 않겠어?
+Fury2MiscEncounter07|Fury 2 Misc Encounter 07|Alecto|모르지! 널 만나기 전에도 여기서 온갖 쓰레기들을 처리했으니 말이야! 하지만 최근에는 그 놈들을 내버려 두고 있거든. 널 처리하려고.
+Fury2MiscEncounter08|Fury 2 Misc Encounter 08|Alecto|잘했어, 빨간 피! 여기까지 잘도 왔군. 하지만 이제 네 아빠한테 돌려보내 줄게. 악감정은 없어!
+Fury2MiscEncounter08|Fury 2 Misc Encounter 08|Zagreus|너도 같이 가지 그래, 알렉토. 다음에 우리 집에 놀러올 수 있도록 내가 아버지한테 좋은 말 좀 해 줄까?
+Fury2MiscEncounter08|Fury 2 Misc Encounter 08|Alecto|그러느니 내 눈을 잡아뽑고 말지. 그래도 제안은 고맙군! 이제 집에 갈 시간이다.
+Fury2MiscEncounter09|Fury 2 Misc Encounter 09|Alecto|이봐, 빨간 피. 보통은 내 사냥감이 {#DialogueItalicFormat}나를 {#PreviousFormat}찾아오는 일은 없는데 말이야. 그것도 이렇게 여러 번이나! 아주 즐거운 시간을 보내게 하려고 왔는데도 말이지?!
+Fury2MiscEncounter09|Fury 2 Misc Encounter 09|Zagreus|네가 무섭게 웃는 모습을 보고 싶었어, 알렉토. 게다가 가끔 너를 상대하는 게 메가이라하고 매번 싸우는 것보단 낫거든.
+Fury2MiscEncounter09|Fury 2 Misc Encounter 09|Alecto|{#DialogueItalicFormat}뭐어{#PreviousFormat}?! 그 {#DialogueItalicFormat}약골{#PreviousFormat}보다 {#DialogueItalicFormat}나{#PreviousFormat}를 상대하는 게 더 낫다고? {#DialogueItalicFormat}이이익{#PreviousFormat}!
+Fury2MiscEncounter10|Fury 2 Misc Encounter 10|Alecto|몇 번이나 더 싸워야 돼, 빨간 피? 몇 번이나? 말해! 어떻게 이렇게 나하고 계속 싸우고도 멀쩡한 거지?
+Fury2MiscEncounter10|Fury 2 Misc Encounter 10|Zagreus|습관이란 무서운 법이거든. 몇 번인지는 나도 잘 몰라. 알아보는 방법이 하나 있지.
+Fury2MiscEncounter10|Fury 2 Misc Encounter 10|Alecto|확실한 게 하나 있지... 난 사냥감이 덤벼드는 게 좋아. 이리 와, 어디 또 피를 한 번 보자고.
+Fury2AboutTisiphoneSpeech01|Fury 2 About Tisiphone Speech 01|Alecto|최근 티시포네가 이상한 소리를 하기 시작하던데, 빨간 피. 혹시 너 뭐 아는 거 있어?
+Fury2AboutTisiphoneSpeech01|Fury 2 About Tisiphone Speech 01|Zagreus|걱정하지 마. 그냥 걔가 말을 좀 더 잘할 수 있게 도와주려는 거니까.
+Fury2AboutTisiphoneSpeech01|Fury 2 About Tisiphone Speech 01|Alecto|그 아이는 건드리지 마!! 네까짓 게 걔를 가르칠 수 있을 줄 알아? 입 다무는 법이나 배우라고!
+Fury2AboutMegaeraRelationship01|Fury 2 About Megaera Relationship 01|Alecto|{#DialogueItalicFormat}으{#PreviousFormat}, 아직도 메가이라가 너 같은 것과 얽히다니 믿을 수 없어, 빨간 피. 걔가 아무리 약해도 일은 똑바로 하는 아이인 줄 알았는데. {#DialogueItalicFormat}으{#PreviousFormat}, 오래 살고 볼 일이야!
+Fury2AboutMegaeraRelationship01|Fury 2 About Megaera Relationship 01|Zagreus|네가 뭐라 생각하든 내 알 바 아니야, 알렉토. 하지만 계속 입을 놀리면 내가 화가 날 것 같네.
+Fury2AboutMegaeraRelationship01|Fury 2 About Megaera Relationship 01|Alecto|{#DialogueItalicFormat}어머나{#PreviousFormat}, {#DialogueItalicFormat}화가 {#PreviousFormat}나신다고요? 메가이라의 명예를 지켜주시려고? 걔는 자기 스스로 명예를 지키기엔 너무 약하니까? 넌 걔가 아주 순수한 줄 알지, {#DialogueItalicFormat}하하하{#PreviousFormat}! 역겨워, 너네 둘 다!
+Fury2WinStreak01|Fury 2 Win Streak 01|Alecto|오 어머, 빨간 피! 뭐 아쉬운 게 있어서 또 왔나 보네. 솔직히 너의 그런 고집스러운 멍청함이 싫지 않아. 이번엔 너를 조금이나마 더 오래 살려 둘 수 있으면 좋으련만.
+Fury2WinStreak01|Fury 2 Win Streak 01|Zagreus|이젠 날 죽이는 것도 모자라 모욕까지 하는 거야?
+Fury2WinStreak01|Fury 2 Win Streak 01|Alecto|아직 마음의 결정을 못 내렸어. 내가 좀 즉흥적인 성격이라서.
+Fury2WinStreak02|Fury 2 Win Streak 02|Alecto|허! 보통 내 표적들은 날 한 번 겪고 나면 다신 날 찾아오지 않거든.
+Fury2WinStreak02|Fury 2 Win Streak 02|Zagreus|그럴 만도 하겠지. 하지만 난 너랑 만날 때마다 이렇게 주거니 받거니 하는 게 은근히 즐겁더라고.
+Fury2WinStreak02|Fury 2 Win Streak 02|Alecto|{#DialogueItalicFormat}이런{#PreviousFormat}, 실망시켜서 미안한데, 빨간 피. 넌 내 취향이 아니야. 이번에는 드디어 이 사실을 네 머릿속에 박아 둘 수 있을지 모르겠네.
+Fury2LoseStreak01|Fury 2 Lose Streak 01|Alecto|그거 알아, 빨간 피? 내가 노력해 봤는데, 아직 저번에 네가 날 이긴 걸 용서를 못 하겠어. 삐뚤어진 성격상의 결함이든 뭐든 생각하고 싶은 대로 생각해...
+Fury2LoseStreak01|Fury 2 Lose Streak 01|Zagreus|용서에는 시간이 걸리는 법. 물론 자기반성도 썩 나쁘지 않은 방법이지만. 드디어 우리 관계도 조금씩 발전하는 것 같은데!
+Fury2LoseStreak01|Fury 2 Lose Streak 01|Alecto|우리 관계가 발전하고 있다고? 지금 이 상황을 보고도? {#DialogueItalicFormat}아하하하하하하, {#PreviousFormat}이런 멍청한 놈을 봤나! 발전이 뭔지 내가 똑똑히 보여 주지.
+Fury2LoseStreak02|Fury 2 Lose Streak 02|Alecto|빨간 피, 네 그 의기양양한 얼굴을 보고, 또 보고, 또 보는 게 얼마나 지겨운 줄 알아?
+Fury2LoseStreak02|Fury 2 Lose Streak 02|Zagreus|그럼 이제라도 날 그냥 좀 내버려 두고 원래 하던 일로 돌아갈 생각은 없어?
+Fury2LoseStreak02|Fury 2 Lose Streak 02|Alecto|알겠어? 그게 {#DialogueItalicFormat}바로 {#PreviousFormat}내가 하고 싶던 말이야. 네가 메가이라를 얼마나 오래 골탕먹인 줄 아는데, 난 그렇게 질질 끌 생각이 없어.
+Fury2LoseStreak03|Fury 2 Lose Streak 03|Alecto|빨간 피, 건방진 놈. 너 때문에 내 입장이 얼마나 곤란해진 줄 알아? 너 때문에 내가 정말 {#DialogueItalicFormat}곤란{#PreviousFormat}해졌다고.
+Fury2LoseStreak03|Fury 2 Lose Streak 03|Zagreus|알렉토, 난 너한테 날 계속 죽여 달라고 부탁한 적 없어. 그런데 나한테 무슨 대답을 기대하는 거지?
+Fury2LoseStreak03|Fury 2 Lose Streak 03|Alecto|{#DialogueItalicFormat}아하하하하하하{#PreviousFormat}, 날 {#DialogueItalicFormat}곤란{#PreviousFormat}하게 만들면 어떻게 되는 줄 알지...?
+Fury2LoseStreak04|Fury 2 Lose Streak 04|Alecto|{#DialogueItalicFormat}허{#PreviousFormat}, 쓰레기 신 아닌가. 또 이곳을 더럽히려고 왔군! 이젠 정말 뻔하다니까.
+Fury2LoseStreak04|Fury 2 Lose Streak 04|Zagreus|지난번에 내가 널 쓰러뜨린 걸 생각해 보면, 나보단 네가 더 뻔한 것 같은데.
+Fury2LoseStreak04|Fury 2 Lose Streak 04|Alecto|너한테 그 말을 듣기 싫어, 쓰레기야! 네놈의 피나 봐야겠다. 이리 와!
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|{#DialogueItalicFormat}으으음... 사, 살인자...
+Fury3FirstAppearance|Fury 3 First Appearance|Zagreus|이봐, 메가이라의 자매 맞지! 드디어 만나다니 반가워. 난 자그레우스라고 해. {#DialogueItalicFormat}살인자{#PreviousFormat}가 아니라. 절대 아니라고.
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|살인자... {#DialogueItalicFormat}사아아리이인자아아...!
+Fury3FirstAppearance|Fury 3 First Appearance|Zagreus|흐음... 이봐, 내가 한 일이 다 자랑스럽다고 말할 순 없지만, 난 누구도 살인한 적 없다는 것 하나는 확실해.
+Fury3FirstAppearance|Fury 3 First Appearance|Tisiphone|{#DialogueItalicFormat}사아아리이인자아아...!
+Fury3PostEnding01|Fury 3 Post Ending 01|Zagreus|이번에는 여기 일하러 온 거야, 티시포네. 그러니까...{#DialogueItalicFormat}음{#PreviousFormat}... 저리 비켜! 하긴, 나를 여기서 막는 게 네 일이겠지. 그렇지?
+Fury3PostEnding01|Fury 3 Post Ending 01|Tisiphone|사사사-{#DialogueItalicFormat}리이이이인{#PreviousFormat}...
+Fury3PostEpilogue01|Fury 3 Post Epilogue 01|Zagreus|네가 집에서 열린 연회에 오지 못해서 아쉬웠어, 티시포네. 하지만 네가 좋아할 만한 곳은 아니었을 거야. 그래도 아레스님이 계셨으니까, 그분께서 살인을 좀 하셨겠지?
+Fury3PostEpilogue01|Fury 3 Post Epilogue 01|Tisiphone|살이이이이인? 살이이인. {#DialogueItalicFormat}살이이이인{#PreviousFormat}!
+Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|사... 살인자...?
+Fury3Encounter01|Fury 3 Encounter 01|Zagreus|{#DialogueItalicFormat}어{#PreviousFormat}... 아니라면 어쩔 건데? 살인 안 했어. 살인 안 했다!
+Fury3Encounter01|Fury 3 Encounter 01|Tisiphone|{#DialogueItalicFormat}사아아리이인자아....{#PreviousFormat}
+Fury3Encounter02|Fury 3 Encounter 02|Tisiphone|살인...? 살인. 사알인...!
+Fury3Encounter02|Fury 3 Encounter 02|Zagreus|이야기 주제를 좀 바꿔 보면 안 될까? 부탁이야.
+Fury3Encounter02|Fury 3 Encounter 02|Tisiphone|살인자... {#DialogueItalicFormat}사알인자아{#PreviousFormat}!
+Fury3Encounter03|Fury 3 Encounter 03|Tisiphone|사... 사.... 사아린....!
+Fury3Encounter03|Fury 3 Encounter 03|Zagreus|이것 봐. 살인이야? 살인자야? 둘 중 하나만 택하라고.
+Fury3Encounter03|Fury 3 Encounter 03|Tisiphone|사, 살인... 사알인!!
+Fury3Encounter04|Fury 3 Encounter 04|Tisiphone|사... 사아, 아알....
+Fury3Encounter04|Fury 3 Encounter 04|Zagreus|제발, 난 살인자가 아니야. 이럴 것까진 없잖아.
+Fury3Encounter04|Fury 3 Encounter 04|Tisiphone|살인자. 사아알이인자아....
+Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|살인자아... 살인, 살인, {#DialogueItalicFormat}살인{#PreviousFormat}!
+Fury3Encounter05|Fury 3 Encounter 05|Zagreus|우리 전혀 말이 안 통하고 있는 것 맞지? 상황이 이렇게 돼서 유감이야.
+Fury3Encounter05|Fury 3 Encounter 05|Tisiphone|살인자. {#DialogueItalicFormat}살인자아{#PreviousFormat}!!
+Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|살인이야? 살인...? 살인....
+Fury3Encounter06|Fury 3 Encounter 06|Zagreus|왜 이러는지 모르겠어. 난 네가 생각하는 그런 사람이 아니야. 아버지께서 날 막으라고 널 보낸 게 전부겠지.
+Fury3Encounter06|Fury 3 Encounter 06|Tisiphone|살인자 살인자...! {#DialogueItalicFormat}살인자{#PreviousFormat}!
+Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|살... 살.... 인... {#DialogueItalicFormat}살이인{#PreviousFormat}!
+Fury3Encounter07|Fury 3 Encounter 07|Zagreus|살인, 아냐. 자그레우스. 내 이름은 자그레우스야! 그 말 할 수 있어, 티시포네? 살인 아냐. {#DialogueItalicFormat}자그레우스{#PreviousFormat}!
+Fury3Encounter07|Fury 3 Encounter 07|Tisiphone|죽... 여... 자...
+Fury3Encounter08|Fury 3 Encounter 08|Tisiphone|죽, 죽... 여... 자아아!
+Fury3Encounter08|Fury 3 Encounter 08|Zagreus|지금 {#DialogueItalicFormat}살인자그{#PreviousFormat}라고 한 거지! 발전이 있네! 자그레우스! 난 자그레우스야! 살인자가 아니고! 자그레우스라고 할 수 있어?
+Fury3Encounter08|Fury 3 Encounter 08|Tisiphone|다... 자... 자... 자, {#DialogueItalicFormat}그라아아{#PreviousFormat}!
+Fury3Encounter09|Fury 3 Encounter 09|Tisiphone|자... 즈.... 르르르...!
+Fury3Encounter09|Fury 3 Encounter 09|Zagreus|기억나, 티시포네? 내 이름은 자그레우스야. 지하 세계의 왕자. 메가이라랑 친해. 자그레우스라고 해 볼래?
+Fury3Encounter09|Fury 3 Encounter 09|Tisiphone|자... 자... 자... 그레... 무스...?
+Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|자... 두... 레... 자... 두.
+Fury3Encounter10|Fury 3 Encounter 10|Zagreus|제법 비슷해졌어, 티시포네. 자그레우스 기억나? 그게 나야. 난 적이 아니야. 알겠지? 난 자그레우스야!
+Fury3Encounter10|Fury 3 Encounter 10|Tisiphone|...자... 그레... 우스... 자그레우스스스! {#DialogueItalicFormat}자아그레우스스{#PreviousFormat}!!
+Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|{#DialogueItalicFormat}자아아그레우스스스스{#PreviousFormat}.... 주주.... 주겨....
+Fury3Encounter11|Fury 3 Encounter 11|Zagreus|아니, 아니야. 앞부분만 맞았어. 살인자는 아니고. 그냥 자그레우스. 아니면... 이건 어떨까... {#DialogueItalicFormat}행복{#PreviousFormat}? {#DialogueItalicFormat}행복{#PreviousFormat}이라고 말할 수 있겠니?
+Fury3Encounter11|Fury 3 Encounter 11|Tisiphone|주... {#DialogueItalicFormat}주그어어어어{#PreviousFormat}....
+Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|살인... 자그레우스... {#DialogueItalicFormat}살인자아아{#PreviousFormat}...
+Fury3Encounter12|Fury 3 Encounter 12|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 그럼... 이번에는 {#DialogueItalicFormat}행복{#PreviousFormat}이라고 해 보면 어때? 행복. 살인 말고 행복. 해 봐!
+Fury3Encounter12|Fury 3 Encounter 12|Tisiphone|살인... 살인 {#DialogueItalicFormat}자그레우스스{#PreviousFormat}!
+Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|사아알이이{#DialogueItalicFormat}이인{#PreviousFormat}... 즈즈.... 즈으으....
+Fury3Encounter13|Fury 3 Encounter 13|Zagreus|{#DialogueItalicFormat}으{#PreviousFormat}, {#DialogueItalicFormat}행복 {#PreviousFormat}은 안 먹히나 보네. 나를 죽이는 게 최선을 다한 걸지도 모르지. 그래도 내 이름을 안 것만 해도 대단하잖아?
+Fury3Encounter13|Fury 3 Encounter 13|Tisiphone|{#DialogueItalicFormat}죽여어어... 자아그레우스스{#PreviousFormat}...
+Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|주겨어어어.... {#DialogueItalicFormat}주겨어어어어어{#PreviousFormat}....
+Fury3Encounter14|Fury 3 Encounter 14|Zagreus|...다시 원점으로 돌아왔잖아. 있지, 난 그냥 자그레우스랑 행복 이야기 가지고 너한테 마음을 전하려 했던 것뿐이야. 네가 이걸 하나라도 이해했다면, 그냥 우린 이대로도 좋은 것 같아. 친구?
+Fury3Encounter14|Fury 3 Encounter 14|Tisiphone|...즈... 즈르... {#DialogueItalicFormat}즈겨어어어!{#PreviousFormat}...
+Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|즈즈즈, 즈아아... {#DialogueItalicFormat}즈아그레우스? {#PreviousFormat}살이인자?
+Fury3Encounter15|Fury 3 Encounter 15|Zagreus|이봐, {#DialogueItalicFormat}어{#PreviousFormat}. 혹시 그 동안 했던 {#DialogueItalicFormat}행복 {#PreviousFormat}얘기 한 번이라도 다시 생각해 본 적 있어? 그냥 확인해 보려고.
+Fury3Encounter15|Fury 3 Encounter 15|Tisiphone|즈즈즈아그레우스스, {#DialogueItalicFormat}사린자아아아{#PreviousFormat}!
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Theseus|{#DialogueItalicFormat}아, 하하하{#PreviousFormat}, 드디어 때가 왔다, 아스테리오스. 그가 왔다고! 자, 이 사악하고 무능한 지옥의 종자야. 들이받힐 준비나 해라!!
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Zagreus|이럴 수는 없어... 그건 최신형 마케도니아산 타우람다라고! 너처럼 역겨운 불평꾼이 역사상 가장 튼튼한 전차로 대체 뭘 하겠다는 거야?
 TheseusExtremeMeasures01|Theseus Extreme Measures 01|Theseus|{#DialogueItalicFormat}흥{#PreviousFormat}! 네 놈이 알 것 없다. 아스테리오스와 내가 또 한 번 근사한 보상을 받았을 뿐이다. 힘들게 얻은 이 전리품으로 네놈을 {#DialogueItalicFormat}짓밟아 주마{#PreviousFormat}!
 TheseusAboutFraternalBonds02|Theseus About Fraternal Bonds 02|Theseus|그는 너와 나를 싸움을 붙일 작정이다, 아스테리오스. 그의 맞지 않는 눈에서 알 수 있지! 나는 언젠가 나 혼자 여기 남을지도 모른다는 끔찍한 상상을 떨쳐낼 수가 없건만, 너는...? 그 {#DialogueItalicFormat}악마{#PreviousFormat}와 같은 편에서 나를 대적하는구나!
 TheseusAboutFraternalBonds02|Theseus About Fraternal Bonds 02|Zagreus|아스테리오스, 내 제안은 항상 유효하니까 기억해 줘. 나는 네 적보다 친구가 되고 싶어. 테세우스하고는 그러고 싶지 않지만 말이지.
 TheseusAboutFraternalBonds02|Theseus About Fraternal Bonds 02|Theseus|{#DialogueItalicFormat}이 사악한 벌레 놈{#PreviousFormat}! 네놈이 보잘 것 없는 싸움 실력을 가리고자 비열한 수작을 부릴 거라고는 생각했다만! 정말 끝을 모르도록 저열한 놈이로구나?!
-TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds Extra A 05|Minotaur|챔피언을 용서해라, 작은 자여. 스스로를 통제하지 못하고 있다. 그럼에도 챔피언은 너와 죽을 때까지 싸울 것이다.
-TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds Extra A 05|Zagreus|잘됐네. 잠깐 걱정했거든. 내가 정신을 좀 차리게 해 주려고 하는데, 어떻게 생각해?
-TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds Extra A 05|Minotaur|모르겠다. 나도 시도는 해 봤다. 하지만 너를 과소평가할 수는 없지. 그렇다면 싸우자.
+TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds 05 Extra A|Minotaur|챔피언을 용서해라, 작은 자여. 스스로를 통제하지 못하고 있다. 그럼에도 챔피언은 너와 죽을 때까지 싸울 것이다.
+TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds 05 Extra A|Zagreus|잘됐네. 잠깐 걱정했거든. 내가 정신을 좀 차리게 해 주려고 하는데, 어떻게 생각해?
+TheseusAboutFraternalBonds05Extra_A|Theseus About Fraternal Bonds 05 Extra A|Minotaur|모르겠다. 나도 시도는 해 봤다. 하지만 너를 과소평가할 수는 없지. 그렇다면 싸우자.
 TheseusExtremeMeasures02|Theseus Extreme Measures 02|Theseus|이리 와라, 악당. 세계 최고 전차의 거대한 바퀴로 네놈을 산산조각 내 주겠다!
 TheseusExtremeMeasures02|Theseus Extreme Measures 02|Zagreus|넌 나 덕분에 그 전차를 받게 된 거야. 형벌 규약의 조항 때문이라고! 네가 뭘 해서 얻은 게 아니야. 그러니까 그만 좀 해!
 TheseusExtremeMeasures02|Theseus Extreme Measures 02|Theseus|{#DialogueItalicFormat}하하하하하{#PreviousFormat}, 뭐라고?! 마치 내 후원자인 척 주장하지만, 네놈은 나의 불구대천지 원수라고?! 이 전차로 네놈을 깔아뭉개 주마!
@@ -628,11 +628,11 @@ TheseusFirstAppearance_NotMetMinotaur|Theseus First Appearance Not Met Minotaur|
 TheseusFirstAppearance_NotMetMinotaur|Theseus First Appearance Not Met Minotaur|Theseus|아, 내 확신을 뒤흔들려고 대놓고 설치는군. 방어 태세를 갖춰라, 이 불한당아! 그리고 신에게 자비를 구해라. 나에겐 기대하지 말고!
 TheseusFirstAppearance_MetBeatMinotaur|Theseus First Appearance Met Beat Minotaur|Minotaur|경고했잖아, 꼬맹이. 넌 지금 나보다 센 적과 마주한 거야. 내가 유일하게 대적해 패한 상대지.
 TheseusFirstAppearance_MetBeatMinotaur|Theseus First Appearance Met Beat Minotaur|Zagreus|테세우스?! 말도 안 돼 둘 다 전설 같은 존재잖아! 여기서 두 사람과 겨루게 된다면 그만한 영광이 또 있겠어!
-TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter If You Lost 01|Theseus|그래! 저 맹랑한 녀석이 또 우리한테 덤벼 보겠다고 나타났군, 아스테리오스! 지난번에 그렇게 혼쭐이 나고도 정신을 못 차렸나 본데!
-TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter If You Lost 01|Zagreus|그땐 공정한 싸움이 아니었다는 거 알잖아. 당신이 직접 나서서 제대로 실력을 평가받으시지.
-TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter If You Lost 01|Theseus|{#DialogueItalicFormat}그 입 다물어라{#PreviousFormat}, 괴물아!! 그따위 사악한 거짓과 반쪽 진실, 아니 반도 안 되는 진실은 더는 듣지 않겠다! 하지만 넌 곧 내 영광의 창이 관통하는 소리를 듣게 될 거다! 특히 네 몸 한가운데를 관통할 때 나는 그 소리를 말이다! 방어 태세를 갖춰라!
-TheseusSecondEncounter01_IfYouWon|Theseus Second Encounter If You Won 01|Theseus|그래! 저 맹랑한 녀석이 또 우리한테 덤벼 보겠다고 나타났군, 아스테리오스! 아니면 이 대결의 명예를 먹칠하려는 건가!
-TheseusSecondEncounter01_IfYouWon|Theseus Second Encounter If You Won 01|Zagreus|무슨 명예에 먹칠한다는 거지? 그냥 당신이 진 걸 불평하는 거로밖에 안 들리는데. 심지어 내가 수적으로 불리했는데도 말이야!
+TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter 01 If You Lost|Theseus|그래! 저 맹랑한 녀석이 또 우리한테 덤벼 보겠다고 나타났군, 아스테리오스! 지난번에 그렇게 혼쭐이 나고도 정신을 못 차렸나 본데!
+TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter 01 If You Lost|Zagreus|그땐 공정한 싸움이 아니었다는 거 알잖아. 당신이 직접 나서서 제대로 실력을 평가받으시지.
+TheseusSecondEncounter01_IfYouLost|Theseus Second Encounter 01 If You Lost|Theseus|{#DialogueItalicFormat}그 입 다물어라{#PreviousFormat}, 괴물아!! 그따위 사악한 거짓과 반쪽 진실, 아니 반도 안 되는 진실은 더는 듣지 않겠다! 하지만 넌 곧 내 영광의 창이 관통하는 소리를 듣게 될 거다! 특히 네 몸 한가운데를 관통할 때 나는 그 소리를 말이다! 방어 태세를 갖춰라!
+TheseusSecondEncounter01_IfYouWon|Theseus Second Encounter 01 If You Won|Theseus|그래! 저 맹랑한 녀석이 또 우리한테 덤벼 보겠다고 나타났군, 아스테리오스! 아니면 이 대결의 명예를 먹칠하려는 건가!
+TheseusSecondEncounter01_IfYouWon|Theseus Second Encounter 01 If You Won|Zagreus|무슨 명예에 먹칠한다는 거지? 그냥 당신이 진 걸 불평하는 거로밖에 안 들리는데. 심지어 내가 수적으로 불리했는데도 말이야!
 TheseusEncounter01|Theseus Encounter 01|Theseus|그래, 지옥의 아들아! 세상 밖으로 기어나가고 싶어 안달이 났나 본데. 하지만 내가 살아서 숨 쉬는 한 넌 그 목표를 이룰 수 없을 거다! 아니, 이 찬란한 엘리시움 안에서는 그 근처도 못 갈 거야!
 TheseusEncounter01|Theseus Encounter 01|Zagreus|그렇다면 그쪽 입을 다물게 하는 방법밖에는 내게 남은 선택권이 없군. 그리고 저쪽에 있는 황소 머리 졸개도 함께.
 TheseusEncounter01|Theseus Encounter 01|Theseus|네가 입에 올린 미노타우로스는 내가 아끼는 동지다. 세속에 찌든 이 편견 덩어리! 아스테리오스와 나는 살아서 적이었지만 죽어서 형제가 되었다. 우리 사이의 끈끈한 형제애를 네가 이해할 리 만무하지만 말이다!
@@ -654,9 +654,9 @@ TheseusWinStreak01|Theseus Win Streak 01|Theseus|네가 얻었어야 할 교훈�
 TheseusLoseStreak01|Theseus Lose Streak 01|Theseus|지옥의 아들, 지난번 결투에서 넌 내 명예를 더럽혔어. 하지만 지금 눈앞에서 똑똑히 봤듯이 내가 돌아왔다! 아스테리오스도 함께! 그리고 더 이상 네가 우리의 명예를 더럽히는 걸 용납하지 않겠다!
 TheseusLoseStreak01|Theseus Lose Streak 01|Zagreus|내가 이겼으니 이제 엘리시움의 챔피언은 {#DialogueItalicFormat}나{#PreviousFormat}인가? 나에게 도전장을 건넬 자는 더 없나? 헤라클레스같이, 말이 더 적은 사람?
 TheseusLoseStreak01|Theseus Lose Streak 01|Theseus|{#DialogueItalicFormat}아,하하하, {#PreviousFormat}재치 있는 친구군. 내 시기와 분노를 유발하기 위해 헤라클레스의 이름을 언급하다니. 그래 봤자 아무 소용없다! 하지만 그 대가는 제대로 치르게 될 거야!
-TheseusLoseStreak02A|Theseus Lose Streak A 02|Theseus|내게서 챔피언의 이름을 빼앗기 위해 자만심에 부푼 괴물이 돌아왔어!
-TheseusLoseStreak02A|Theseus Lose Streak A 02|Zagreus|당신이 뭐라고 불리든 관심 없어. 그렇지만 그런 치욕은 미노타우로스와 함께 나눠야 하는 거 아닌가? 당신이 문제에 처한 탓의 반 이상은 그에게 있을 텐데.
-TheseusLoseStreak02A|Theseus Lose Streak A 02|Theseus|우리 사이를 갈라놓으려 하는 거라면 포기해. 아스테리오스와 나는 단단한 청동처럼 형제애로 굳어진 사이야. 절대 깨지지 않고말고! 하지만 네가 우리 둘에게 모욕감을 줬다. 그러니 죽어라!
+TheseusLoseStreak02A|Theseus Lose Streak 02 A|Theseus|내게서 챔피언의 이름을 빼앗기 위해 자만심에 부푼 괴물이 돌아왔어!
+TheseusLoseStreak02A|Theseus Lose Streak 02 A|Zagreus|당신이 뭐라고 불리든 관심 없어. 그렇지만 그런 치욕은 미노타우로스와 함께 나눠야 하는 거 아닌가? 당신이 문제에 처한 탓의 반 이상은 그에게 있을 텐데.
+TheseusLoseStreak02A|Theseus Lose Streak 02 A|Theseus|우리 사이를 갈라놓으려 하는 거라면 포기해. 아스테리오스와 나는 단단한 청동처럼 형제애로 굳어진 사이야. 절대 깨지지 않고말고! 하지만 네가 우리 둘에게 모욕감을 줬다. 그러니 죽어라!
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|자, 봐라. 건재한 모습으로 내가 돌아왔다! 아스테리오스도 함께! 이번만큼은 널 완전히 파멸시키겠다는 결연한 의지와 더불어 말이야!
 TheseusLoseStreak02|Theseus Lose Streak 02|Zagreus|그 말은 당신과 내가 영원히 끝나지 않을 폭력의 굴레에 갇혀 있다는 거네. 이 따분한 곳에서 시간을 보내기에 나쁘지 않은 방법 같네.
 TheseusLoseStreak02|Theseus Lose Streak 02|Theseus|엘리시움을 그런 식으로 능멸하다니! 당장 그 말 취소하지 않으면 두고두고 뼈아프게 되새기게 해 주마! 아스테리오스, {#DialogueItalicFormat}나가서 싸우자{#PreviousFormat}!
@@ -777,9 +777,9 @@ MinotaurRevealsGilgameshAspect01|Minotaur Reveals Gilgamesh Aspect 01|Minotaur|�
 MinotaurClearProgress01|Minotaur Clear Progress 01|Minotaur|궁금한 것이 있다, 꼬맹아. 계속 찾아오는데, 이유를 모르겠다. 여기서 나가려는 것이 아닌가? 위에서 뭔가가 널 계속 죽이고 있군.
 MinotaurClearProgress01|Minotaur Clear Progress 01|Zagreus|아주 정확한 추론이야, 아스테리오스. 맞아, 엘리시움을 나가서도 몇 가지 난관이 남아 있다고 해 두지! 하지만 그 이상은 말하지 않겠어.
 MinotaurClearProgress01|Minotaur Clear Progress 01|Minotaur|좋다. 너도 나처럼 자주 실패한다는 사실을 알게 되어 기쁘군. 내가 널 죽이지 못할지도 모르지. 하지만 널 죽일 누군가를 위해 힘을 빼놓을 수는 있다.
-MinotaurClearProgress01_B|Minotaur Clear Progress B 01|Minotaur|여기서 나간 적이 있나, 작은 자여? 때로는 궁금하다... 밖은 어떨지.
-MinotaurClearProgress01_B|Minotaur Clear Progress B 01|Zagreus|밖에 나가 본 적이 없어? 아, 맞다... 미로 속에서 살았댔지. 평생을 그 끔찍한 곳에서 살았구나. 나도 지상은 별로 본 적이 없지만... 아름다워. 춥고. 하지만 거기 있으면... 내가 있을 곳이 아닌 것 같아.
-MinotaurClearProgress01_B|Minotaur Clear Progress B 01|Minotaur|있을 곳이 아니다. 이해할 것 같다. 왜 그런 곳을 가려고 하는지 모르겠군. 이야기를 듣는 것만 못할 것이다. 왜 그걸 망치려 하지? 이야기가 나왔으니 말인데...
+MinotaurClearProgress01_B|Minotaur Clear Progress 01 B|Minotaur|여기서 나간 적이 있나, 작은 자여? 때로는 궁금하다... 밖은 어떨지.
+MinotaurClearProgress01_B|Minotaur Clear Progress 01 B|Zagreus|밖에 나가 본 적이 없어? 아, 맞다... 미로 속에서 살았댔지. 평생을 그 끔찍한 곳에서 살았구나. 나도 지상은 별로 본 적이 없지만... 아름다워. 춥고. 하지만 거기 있으면... 내가 있을 곳이 아닌 것 같아.
+MinotaurClearProgress01_B|Minotaur Clear Progress 01 B|Minotaur|있을 곳이 아니다. 이해할 것 같다. 왜 그런 곳을 가려고 하는지 모르겠군. 이야기를 듣는 것만 못할 것이다. 왜 그걸 망치려 하지? 이야기가 나왔으니 말인데...
 MinotaurPostEpilogue01|Minotaur Post Epilogue 01|Minotaur|모두가 왕비가 돌아왔다고 말한다. 무슨 뜻인지 아는가, 작은 자여?
 MinotaurPostEpilogue01|Minotaur Post Epilogue 01|Zagreus|뭐, 적어도 나한테는 꽤 의미 있는 일이야. 내가 그분 아들이거든!
 MinotaurPostEpilogue01|Minotaur Post Epilogue 01|Minotaur|그건 아무 의미가 없다. 우린 여기 싸우러 왔으니. 그러나 나 또한... 내 어머니가 왕비였다. 네 어머니는 아들을 좀 더 잘 대해주는 사람이길 바란다. 내가 지금 널 대하려는 것보다 말이지.
@@ -880,7 +880,7 @@ LordHadesEncounter01|Lord Hades Encounter 01|Zagreus|맞아요. 아직은 이곳
 LordHadesEncounter01|Lord Hades Encounter 01|Hades|왜 이런 지경까지 이르렀는지 모르겠다. 네가 아무리 괴상한 짓을 벌이고 문제를 일으켜도 끝까지 화를 눌러 왔어. 모르진 않겠지? 너랑은 달리 말이다.
 LordHadesEncounter01|Lord Hades Encounter 01|Zagreus|글쎄요, 보죠. 수차례 절 때렸고, 제게 거짓말을 했고, 무력을 동원해 절 죽이려 하지 않았나요? 그것도 여러 번. 하지만 진짜 아버지다운 분노는 제대로 보여 주지 않으셨다는 건 인정하죠. 그마저도 이제 바뀔 것 같긴 하지만.
 LordHadesEncounter01|Lord Hades Encounter 01|Hades|아들아, 우리는 신이다. 죽고 죽이는 건 우리의 운명이야. 난 그 운명을 넘어선 자라고 늘 자부했긴 하지만 말이다. 넌 이곳을 떠날 수 없다고 분명 말했다. 이젠 내가 정한 규칙을 내가 직접 집행해야 할 때가 온 것 같구나. 지금 당장 집으로 돌려보내 주겠다.
-LordHadesEncounter01_B|Lord Hades Encounter B 01|Zagreus|글쎄요. 수차례 절 때렸고, 제게 거짓말을 했고, 무능력한 악마들을 보내 끊임없이 절 죽이려 했죠. 하지만 진짜 아버지다운 분노는 제대로 보여 주지 않으셨다는 건 인정하죠. 그마저도 이제 바뀔 것 같긴 하지만.
+LordHadesEncounter01_B|Lord Hades Encounter 01 B|Zagreus|글쎄요. 수차례 절 때렸고, 제게 거짓말을 했고, 무능력한 악마들을 보내 끊임없이 절 죽이려 했죠. 하지만 진짜 아버지다운 분노는 제대로 보여 주지 않으셨다는 건 인정하죠. 그마저도 이제 바뀔 것 같긴 하지만.
 LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Hades|네가 여기서 벌이고 있는 짓이 얼마나 무의미한 일인지 이제 알겠느냐? 내 손으로 직접 널 죽이지 않더라도 저 경계선을 넘는 순간 넌 소멸할 것이다. 그런데도 고집을 꺾지 않을 테냐?
 LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Zagreus|계속 갈 겁니다. 게다가 지하세계가 재건되고 있는 상황에서 이렇게 여행하며 시간을 보내는 것도 나쁘지 않죠. 다 완성될 때쯤이면 제 기량도 정점을 찍을 겁니다.
 LordHadesEncounter_YouDefeated01|Lord Hades Encounter You Defeated 01|Hades|네가 힘을 보탰다면 재건이 벌써 끝났을 거란 생각은 못 하는 게냐! 언제나 그랬듯 넌 네 생각밖에 못 하는구나. 하지만 계속 고집을 피운다면 결국 이곳에서 널 기다리고 있는 날 만나게 될 거다. 한 번도 빼놓지 않고 매번.
@@ -929,8 +929,8 @@ LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Hades|제우스는 
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|{#DialogueItalicFormat}흠{#PreviousFormat}. 네가 도착하자 피부로 느껴질만큼 추워졌군. {#DialogueItalicFormat}데메테르{#PreviousFormat}와 만났구나. 마녀 같은 것. 그 여자가 얼마나 알고 있는지 말해 봐라.
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Zagreus|네? 전... 잠깐만요. 이 영원한 겨울은 데메테르의 짓이죠? 왜요? 필멸자들은 추우면 죽지 않던가요? 아버지가 할일이 많아지겠네요.
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|그럼 전혀 모르는 모양이구나. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분한 것 같구나.
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Zagreus|데메테르는 딸을 잃었잖아요... 내 어머니를요. 그런데 데메테르는 여전히 제가 닉스의 아들인 줄 알아요... 무슨 짓을 하신 겁니까, 아버지? 이 끝없는 겨울은 데메테르의 짓이죠? 필멸자들이 얼어 죽을 거예요. 왜 막지 않으시는 거죠?
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Hades|그럼 너와 데메테르 둘 다 아무 것도 모르는 게로군. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분히 한 것 같구나.
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Zagreus|데메테르는 딸을 잃었잖아요... 내 어머니를요. 그런데 데메테르는 여전히 제가 닉스의 아들인 줄 알아요... 무슨 짓을 하신 겁니까, 아버지? 이 끝없는 겨울은 데메테르의 짓이죠? 필멸자들이 얼어 죽을 거예요. 왜 막지 않으시는 거죠?
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Hades|그럼 너와 데메테르 둘 다 아무 것도 모르는 게로군. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분히 한 것 같구나.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|...바다... 하늘 그리고 땅, 이 모든 것이 내 형제들의 것이다. 우리는 태어날 때부터 친족이다. 하지만 그들의 자리에서는 이방인이나 다름없지.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Zagreus|그만. 신세한탄은 그만하고 비켜서시죠.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|건방진 녀석. 좋아. 충동적인 성격은 집안 내력이니까.
@@ -1069,8 +1069,8 @@ AthenaGift03|Athena Gift 03|Zagreus|간단하게 증표를 준비했습니다, �
 AthenaGift03|Athena Gift 03|Athena|이런 제물까지 주다니, 정말 자애롭군요. 감격스럽지만, 당장은 내가 아닌 당신의 안위만 생각하도록 해요.
 AthenaGift04|Athena Gift 04|Zagreus|아테나 여신님, 부디 이 선물을 받아 주십시오. 당신의 지혜가 저를 빛으로 이끌었습니다.
 AthenaGift04|Athena Gift 04|Athena|이런, 내게 선물을 주다니 어찌나 마음씨가 좋은가! 정말 고마워. 하지만 나 때문에 그대가 시간을 빼앗기지는 않길 바라네. 할일에 집중하도록 해.
-AthenaGift05A|Athena Gift A 05|Zagreus|제 일에 집중하는 가운데 여신님이 아니었더라면 제가 그 무엇도 이루지 못했으리라는 생각이 들었습니다. 그래서 감사의 뜻으로 보잘 것 없는 것이나마 드리고자 합니다.
-AthenaGift05A|Athena Gift A 05|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 할 일을 마친 다음으로 미뤄두게. 중요한 일들이 많이 있지 않은가!
+AthenaGift05A|Athena Gift 05 A|Zagreus|제 일에 집중하는 가운데 여신님이 아니었더라면 제가 그 무엇도 이루지 못했으리라는 생각이 들었습니다. 그래서 감사의 뜻으로 보잘 것 없는 것이나마 드리고자 합니다.
+AthenaGift05A|Athena Gift 05 A|Athena|현재로선 그대가 내게 감사를 표할 수 있는 것이 별로 없겠지. 하지만 보답은 할 일을 마친 다음으로 미뤄두게. 중요한 일들이 많이 있지 않은가!
 AthenaGift06|Athena Gift 06|Zagreus|아테나 님, 저 말고도 신경 쓰실 일이 많을 줄로 압니다만... 가족을 정말 많이 아끼시는군요. 아테나 님의 배려와 의지가 저를 채찍질합니다. 감사합니다.
 AthenaGift06|Athena Gift 06|Athena|서로에게 감사를 표하기에 지금만한 때는 없을지도 모르지, 내 친애하는 사촌. 그대가 내 가능성의 눈을 뜨게 해주었으나, 나는 결연히 그대의 편에 서서 계속 싸우겠다.
 AthenaGift07|Athena Gift 07|Zagreus|이 암브로시아는 올림포스에서 나온 것으로 압니다, 아테나 님. 그럼에도 이 지하 깊은 곳까지 내려오면서 그 맛이 아테나 님의 기품에 걸맞게 잘 숙성되었으리라 믿습니다. 아테나 님보다 더 훌륭하신 사촌은 없을 것입니다. 제게 주신 은혜는 결코 잊지 않겠습니다.
@@ -1153,9 +1153,9 @@ ChaosAboutResponding01|Chaos About Responding 01|Chaos|난 그대에게 충고�
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|제우스와 올림포스 산에 사는 그의 친족들은 네가 하데스와 여신 닉스 사이에서 태어났다고 생각하는 건가? 그 얘길 듣고 얼마나 놀랍던지. 닉스는 지하세계에서 태어난 많은 이들을 자기 자식처럼 보살폈어. 너도 그중 하나가 아니란 법 있겠어?
 ChaosAboutNyx01|Chaos About Nyx 01|Zagreus|그녀는 제 친모가 아니지만, 저에게 어머니 같은 분이세요. 그녀를 아시나요?
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|아, 닉스 여신은 아주 잘 알지. 잘 알고말고. 마지막으로 연락한 지가 꽤 오래되었는데, 그때만 해도... 뭐랄까, 내가 마음이 별로 너그럽지 못했어. 닉스가 부디 잘 살고 있기를 바라는 마음뿐이야.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|그대가 올 줄 알고 있었다. 그러나 아주 조금 전에야 알았지. 그래서 아직도 놀라움이 가시지 않는도다. 지하세계에서 그대의 움직임은 마치 어둠의 장막에 가려진 듯하다. 여신 닉스의 영향력인가? 답하라.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Zagreus|저는... 그에 대한 답을 알지 못합니다, 카오스 님. 그러나 어머니는 아버지의 영역에서 벗어나려는 저를 돕고 있기는 합니다.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|그대는 어둠 속에서 움직인다. 닉스와 같이 무한한 암흑은 아니나, 옛 생각이 나게 하는구나. 닉스에게 나를 피해 보라고 한 다음 내가 닉스를 찾곤 했다. 우리 둘의 사소한 즐거움이었지. 이제 알았다.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|그대가 올 줄 알고 있었다. 그러나 아주 조금 전에야 알았지. 그래서 아직도 놀라움이 가시지 않는도다. 지하세계에서 그대의 움직임은 마치 어둠의 장막에 가려진 듯하다. 여신 닉스의 영향력인가? 답하라.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Zagreus|저는... 그에 대한 답을 알지 못합니다, 카오스 님. 그러나 어머니는 아버지의 영역에서 벗어나려는 저를 돕고 있기는 합니다.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|그대는 어둠 속에서 움직인다. 닉스와 같이 무한한 암흑은 아니나, 옛 생각이 나게 하는구나. 닉스에게 나를 피해 보라고 한 다음 내가 닉스를 찾곤 했다. 우리 둘의 사소한 즐거움이었지. 이제 알았다.
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|최근 들어 말이다, 하데스의 아들아. 네 아버지의 거주지에서 뭔가 변화라 볼 만한 움직임이 감지되었다. 뭔가 주목할 만한 일이 있었던 거냐? 답해라.
 ChaosPostEnding01|Chaos Post Ending 01|Zagreus|카오스 님, 제 어머니 페르세포네입니다. 어머니께서 돌아오셨어요! 본인이 선택해서 돌아온 겁니다. 그렇다 보니... 그분이 오시면서 분위기가 달라지긴 했습니다만... 변화라고 볼 만한 건 느끼지 못했는데요.
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|네가 나처럼 그러한 변화를 느끼지 못할 수도 있다. 이 공간은 가벼워서 시간에 따라 굽이치지. 네가 설명한 대로라면... 그게 원인이었던가 보구나. 그 일은 반가운 일이 분명하다. 그리고 어찌 됐건 네가 돌아와서 기쁘구나.
@@ -1177,8 +1177,8 @@ ChaosAboutInfinity01|Chaos About Infinity 01|Chaos|지난 시간의 끝이 도�
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|하데스의 아들아. 더 빨리 깨달았어야 하는 사실을 알게 되었다. 네 어머니는 스스로를 페르세포네라 불렀던 자임에 틀림이 없다. 지하세계에서 그녀의 체류는 내 관점에서 짧았으나, 그럼에도 큰 영향력을 남겼구나. 지금 그녀를 찾고 있느냐? 대답하라.
 ChaosAboutPersephone01|Chaos About Persephone 01|Zagreus|그렇습니다. 지상 어딘가에 계십니다. 그래서 제가 카오스 님을 찾아오는 것입니다. 어머니를 찾으려고요.
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|그대의 시도가 성공하기를 바란다. 현재 페르세포네는 내 감각 바깥에 있으나, 그럼에도 물론 나는 그대의 여정을 도울 것이니라.
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Zagreus|오, 카오스 님... 제가 이미 그분을 찾았다는 사실을 알려 드려야 할 것 같군요. 그분이 계신 곳엔 오래 머물 수가 없습니다. 그래서 최대한 자주 방문하려 하고 있습니다... 이곳에 오는 것과 별반 다르지 않습니다. 다만 그분이 계신 곳은 다다르기가 더 어렵더군요.
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Chaos|그럿군. 연락이 닿았다니 잘된 일이야. 앞으로 너의 방문이 이곳에 이렇게 와 있는 시간과 다르지 않게 가치 있는 시간이 되리라 믿는다.
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Zagreus|오, 카오스 님... 제가 이미 그분을 찾았다는 사실을 알려 드려야 할 것 같군요. 그분이 계신 곳엔 오래 머물 수가 없습니다. 그래서 최대한 자주 방문하려 하고 있습니다... 이곳에 오는 것과 별반 다르지 않습니다. 다만 그분이 계신 곳은 다다르기가 더 어렵더군요.
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Chaos|그럿군. 연락이 닿았다니 잘된 일이야. 앞으로 너의 방문이 이곳에 이렇게 와 있는 시간과 다르지 않게 가치 있는 시간이 되리라 믿는다.
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|하데스의 아들아, 페르세포네라 불리는 자를 찾는다면 우리는 더 이상 이런 만남을 갖지 않게 되는 것이냐? 대답하라.
 ChaosAboutPersephone02|Chaos About Persephone 02|Zagreus|아, 저는... 카오스 님. 그 경우 어떻게 될지 잘 모르겠습니다. 그러나 솔직히 말해... 제가 영원히 지하세계를 떠나게 된다면... 그렇게 될 것 같습니다. 그래도 뵙고 싶을 겁니다. 여기 있는 다른 많은 존재들도요.
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|...나도 그대가 보고 싶을 것이다. 말해 주어 고맙다.
@@ -1281,8 +1281,8 @@ HadesMiscMeeting03|Hades Misc Meeting 03|Hades|좋아. 너의 실패담은 쉽�
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|집에 잘 왔다, 아들아. 저녁 식사... 아니, 아침 식사인가? 아무튼 식사 시간에 늦었구나.
 HadesMiscMeeting04|Hades Misc Meeting 04|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐? 나를 향한 너의 무례함이 모든 이들에게 영감이 된 건가.
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐?
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐?
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|피와 어둠이시여, 이곳이 무너지고 있건만... 이곳에서는 아무도 정직하게 일하고 있지 않는구나.
 HadesMiscMeeting05|Hades Misc Meeting 05|Zagreus|아버지, 다 죽은 자들이에요. 그냥 좀 내버려 두시죠.
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|정직하게 일하는 게 어떤 건지 네가 알기나 하나? 적어도 그 죽은 혼령들은 날 주인으로서 공경한다. 너와는 다르게 말이지.
@@ -1330,8 +1330,8 @@ HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|아
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|여러 생각을 해 보았다, 아들아. 그리고 나는 오르페우스도 내 세계에 들어오고 자기의 일명 뮤즈를 볼 권리를 포기하는 각서를 쓰기 전에 여러 생각을 했을 것이라고 믿는다!
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|그러면 계약서 하나 썼다는 이유로 오르페우스 보고 영원히 여기 있으라는 거예요?
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|나와의 계약은 구속력이 있다! 어쩌다가 기록보관소에서 제 발로 걸어나와서 알아서 찢어지는 날이 오기까지는 말이다. 그리고 그 날은 금세 오지는 않을 것 같구나.
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Zagreus|아버지, 그러면 만약에, 혹시라도, 제가 오르페우스와 에우리디케를 갈라 놓는 명령을 파기시킬 비용을 치를 수 있다고 하면, 아버지는 새 조항을 존중할 건가요, 아니면 이 공정한 거래에서 저를 악의적으로 쫓아내 버리실 건가요?
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Hades|나는 내 약속의 조항을 존중한다, 아들아. 우리가 세우는 규칙이 아니었으면 이 지하세계가 꼴도 갖추지 못했을 게다! 하지만, 네가 말하는 것은 진정으로 터무니없구나. 분리 명령을 처리하는 데 드는 비용은 네게는 택도 없는 것이다.
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Zagreus|아버지, 그러면 만약에, 혹시라도, 제가 오르페우스와 에우리디케를 갈라 놓는 명령을 파기시킬 비용을 치를 수 있다고 하면, 아버지는 새 조항을 존중할 건가요, 아니면 이 공정한 거래에서 저를 악의적으로 쫓아내 버리실 건가요?
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Hades|나는 내 약속의 조항을 존중한다, 아들아. 우리가 세우는 규칙이 아니었으면 이 지하세계가 꼴도 갖추지 못했을 게다! 하지만, 네가 말하는 것은 진정으로 터무니없구나. 분리 명령을 처리하는 데 드는 비용은 네게는 택도 없는 것이다.
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|너는 궁정 악사와의 계약을 파기했구나. 너의 권한을 내게 맞서 사용했어.
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Zagreus|그래서 하면 뭐 어떤데요? 가끔씩 휴식을 좀 주는 거예요. 그래도 아버지의 궁정 악사잖아요?
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|그렇지. 그리고 오르페우스는 나를 깎아내리는 것보다는 더 현명한 일을 하리라고 생각한다. 그럼 썩 없어져라. 너의 반항에 대해서는 나중에 이야기하마.
@@ -1412,20 +1412,20 @@ HadesRunCleared03|Hades Run Cleared 03|Zagreus|아니요. 잠깐만요. 뭐라�
 HadesRunCleared03|Hades Run Cleared 03|Hades|{#DialogueItalicFormat}날 {#PreviousFormat}격파했다고? {#DialogueItalicFormat}하, 하하하{#PreviousFormat}, 터무니없군. 그런 일이 있었다면 내가 기억 못 할 것 같으냐?
 HadesRunCleared03|Hades Run Cleared 03|Zagreus|지금 농담하시는 거죠? 아무 일도 없었던 척하시려는 건가요?
 HadesRunCleared03|Hades Run Cleared 03|Hades|모든 것이 전과 똑같아. 운명이 다른 결정을 내릴 때까지는 앞으로도 그럴 테고. 아니면 지금 진행 중인 지하세계 개조 공사가 완전히 마무리될 때까지. 둘 중 어떤 쪽이 먼저일지 모르겠다만.
-HadesRunCleared03_C|Hades Run Cleared C 03|Zagreus|지하세계 개조 공사가 완료될 때까지 어머니에 대한 제 질문에는 전혀 답하지 않으실 거란 거죠?
-HadesRunCleared03_C|Hades Run Cleared C 03|Hades|네가 무슨 얘길 하는 건지 난 도통 모르겠구나. 개조 공사에 내 온정신을 쏟고 있다는 네 말은 맞는다만. 언젠가 밤이든 낮이든 이곳이 제 모습을 찾기만 하면 네 고리타분한 질문에 답할 시간이 생길지도 모르지.
+HadesRunCleared03_C|Hades Run Cleared 03 C|Zagreus|지하세계 개조 공사가 완료될 때까지 어머니에 대한 제 질문에는 전혀 답하지 않으실 거란 거죠?
+HadesRunCleared03_C|Hades Run Cleared 03 C|Hades|네가 무슨 얘길 하는 건지 난 도통 모르겠구나. 개조 공사에 내 온정신을 쏟고 있다는 네 말은 맞는다만. 언젠가 밤이든 낮이든 이곳이 제 모습을 찾기만 하면 네 고리타분한 질문에 답할 시간이 생길지도 모르지.
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|잠깐, 뭐라고요? 제가 전투에서 아버지를 이기고 어머니를 찾았잖아요. 그런데도 그렇게 말씀하시는 거예요?
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|{#DialogueItalicFormat}하, 하하{#PreviousFormat}! 헛소리. 그런 일이 있었다면 내가 기억을 못 할 것 같으냐?
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|말도 안 돼. 아무 일도 없었던 것처럼 행동하시려는 건가요? 어머니도 저만큼이나 답을 원하세요. 저를 지나가게 하라고 하셨다고요! 다시 가게 해 주세요.
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|조용히 해라! 대화는 끝났다. 네 허무맹랑한 상상을 들을 시간도, 장소도 아니다.
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|말했지 않느냐, 얘야. 내가 말했지! 이곳으로부터의 탈출은 없다. 그렇게 힘들게 깨달아야 하겠느냐?
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|더 중요한 얘기를 해 주실 수도 있었잖아요. 어머니는 제가 살아 있는 줄도 모른 채로 떠나셨어요. 아버지 때문에요! 지금 궁금한 점이 아주 많대요. 아버지도 아시겠지만요. 전 어머니께 갈 겁니다. 협조하시겠어요?
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|{#DialogueItalicFormat}하하하{#PreviousFormat}, 웃기는 소리! 내 말을 들어라. 머릿속에 한줌의 이성이라도 남아 있다면 그 얘기는 그만하는 게 좋을 거다.
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|보내 주세요. 어머니를 찾게 해 달라고요. 어머니가 원하는 거란 말입니다!
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|말했지 않느냐, 얘야. 내가 말했지! 이곳으로부터의 탈출은 없다. 그렇게 힘들게 깨달아야 하겠느냐?
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|더 중요한 얘기를 해 주실 수도 있었잖아요. 어머니는 제가 살아 있는 줄도 모른 채로 떠나셨어요. 아버지 때문에요! 지금 궁금한 점이 아주 많대요. 아버지도 아시겠지만요. 전 어머니께 갈 겁니다. 협조하시겠어요?
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|{#DialogueItalicFormat}하하하{#PreviousFormat}, 웃기는 소리! 내 말을 들어라. 머릿속에 한줌의 이성이라도 남아 있다면 그 얘기는 그만하는 게 좋을 거다.
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|보내 주세요. 어머니를 찾게 해 달라고요. 어머니가 원하는 거란 말입니다!
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Zagreus|아주 엉망을 만들어 놓으셨네요, 아버지... 아무 도움도 못 받으시니 말이에요. 하지만 지금은 이야기할 때가 아니죠?
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Hades|아니지! 절대 아니다. 허나 머지 않아 둘만의 자리를 다시 갖게 될 것 같구나.
-HadesRunCleared03_B|Hades Run Cleared B 03|Zagreus|무슨 문제라도 있나요, 아버지? 보통 때보다 조용하신 것 같은데. 무슨 이유에서인지 안색도 안 좋고 후회하는 기색이 역력하신데요?
-HadesRunCleared03_B|Hades Run Cleared B 03|Hades|조용히 해라, 아들아. 아니, 그러지 말고 내 눈앞에서 사라지는 편이 낫겠구나. 네 자랑질을 듣고 있기엔 신경 써야 할 중요한 일들이 많아서. 남은 얘기는 나중에 다른 데서 나누도록 하마.
+HadesRunCleared03_B|Hades Run Cleared 03 B|Zagreus|무슨 문제라도 있나요, 아버지? 보통 때보다 조용하신 것 같은데. 무슨 이유에서인지 안색도 안 좋고 후회하는 기색이 역력하신데요?
+HadesRunCleared03_B|Hades Run Cleared 03 B|Hades|조용히 해라, 아들아. 아니, 그러지 말고 내 눈앞에서 사라지는 편이 낫겠구나. 네 자랑질을 듣고 있기엔 신경 써야 할 중요한 일들이 많아서. 남은 얘기는 나중에 다른 데서 나누도록 하마.
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|아버지, 비록 최근에 방해받기를 싫어하시는 것은 압니다만 아버지의 끝없는 노역이 마침내 빛을 발하는 것 같습니다. 지하세계 개장이 거의 끝나가고 있지 않습니까?
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Hades|또 앞서나가는구나. 개장의 마지막 단계가 아주 중요한 법이야! 초기 계획 바로 다음으로 중요하지. 아직 중요한 일이 많이 남았다.
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|중요하지 않다고 한 건 아니었는데요. 마침내 끝이 보이기 시작한다는 거죠. 그렇게 되면 남는 시간 동안 뭘 하실 겁니까?
@@ -1437,7 +1437,7 @@ HadesAboutBounties01|Hades About Bounties 01|Hades|기록을 보니 네 업적�
 HadesAboutBounties01|Hades About Bounties 01|Zagreus|메가이라나 다른 수호자들을 이기는 자에게 주기로 한 포상금 말씀입니까? 그들이 표적이 되어 얼마나 압박에 시달리고 있을지는 생각 안 해보셨나요?
 HadesAboutBounties01|Hades About Bounties 01|Hades|놈들이 지금보다 더 잘하지 않으면 교체될 거다. 지금 역할을 더 잘 해내려면 자기 약점이 뭔지 알아야 하지. 나도 마찬가지고. 네가 그로부터 보상을 받는다는 것은 중요하지 않다.
 HadesAboutBounties01|Hades About Bounties 01|Zagreus|아버지를 물리쳐서 얻는 보상은 어떻습니까? 아버지는 누구로 교체될까요?
-HadesAboutBounties01B|Hades About Bounties B 01|Zagreus|잘하지 않으면 교체될 거라는 그 말, 잘 기억해두세요 아버지.
+HadesAboutBounties01B|Hades About Bounties 01 B|Zagreus|잘하지 않으면 교체될 거라는 그 말, 잘 기억해두세요 아버지.
 HadesAboutShrine02|Hades About Shrine 02|Zagreus|아버지, 안뜰에 새로운 형벌 규약이 붙어 있는 걸 봤습니다. 불쾌한 조약을 그렇게나 많이 추가할 만큼 커다란 양피지를 찾으셨다니 놀랍군요. 그래서 절 가둬 놓을 더 가혹한 수단을 동원하시려는 건가요?
 HadesAboutShrine02|Hades About Shrine 02|Hades|규약 조건에 동의하든 말든 그건 전적으로 너에게 달렸다. 하지만 네가 끊임없이 이곳을 드나들면서 이 구역에서 어떤 걸 들고 나가는지 완벽하게 파악하고 있어야 하니까.
 HadesShrineProgress01|Hades Shrine Progress 01|Hades|내가 기대했던 것보다 형벌 규약을 훨씬 더 적극적으로 활용했더구나. 하마터면 널 칭찬할 뻔했다.
@@ -1493,15 +1493,15 @@ HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|그렇지. 자부�
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|이런 말은 하면 안 되지만... {#DialogueItalicFormat}전대미문{#PreviousFormat}... 우리가 수여할 수 있는 최고의 계급이지. 네가 네 힘으로 그 계급을 달성할 수 있으리라고는 상상도 하지 못했다. 사실 중요한 계급은 하나도 얻지 못할 줄 알았지.
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Zagreus|아버지는 저를 너무 과소평가하세요. 하지만 알아 주셔서 감사합니다. 저를 이렇게 만들어 준 영역에 보답을 해야겠다고 생각했거든요.
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|그래. 여기가 우리가 아는 유일한 세상이니 말이다.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|아버지... 올림포스 신들이랑 관계된 이 모든 것들 말이에요... 한 번만이라도 무슨 일이 있었던 것인지 저한테 말해 주실 수 없나요? 어머니가 어떻게 여기 오시게 된 거예요? 제우스 삼촌과 도대체 무슨 문제가 있는 건데요?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|네 어머니가 말해 준 줄 알았건만...! {#DialogueItalicFormat}으{#PreviousFormat}. 따라오거라. 당장.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|...이제부터 들을 내용은 절대로 어디에도 말하지 않겠다고 맹세하거라. 맹세해!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|알았어요, 알았어요. 맹세할게요. 아버지의 이름을 걸고 맹세하노니, 지금 아버지께서 하실 말씀을 둘 사이의 비밀로 해 두겠습니다... 그래서요?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|그래... 넌 거의 제대로 알고 있었다. 내가 지하 세계를 물려받고 나서... 네 삼촌 제우스는 말하기를 나에게 동정심을 느꼈단다. 네 어머니가 올림포스에서 불행하다는 것을 제우스는 알고 있었지. 그리고... 내가 네 어머니에게 끌려 있었단 것도 알았고. 그래서 무엇을 했냐고? 제우스는 네 어머니를 여기로 데려왔다. 네 어머니를 나에게 {#DialogueItalicFormat}선물{#PreviousFormat}로 줬다는 말이다!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|아버지는 그런 선물을 기대하셨던 건 아니셨군요. 그렇지만 어머니도 올림포스로 돌아가지 않으려 하셨고, 아버지도 어머니를 좋아하셨고, 그래서 돌려보내지 않으셨던 거예요. 그리고 아버지를 이 처지에 놓으신 일 때문에 제우스 삼촌께 화가 나신 거예요? 연을 끊으시고?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|{#DialogueItalicFormat}그래{#PreviousFormat}!! 그 망할 바보 놈, 온갖 망상으로 들어차서! 그 놈은 내키는 건 뭐든 하는 놈이다! 제우스는 조금 더 합리적인 방법으로 비슷한 결과를 이끌어낼 수 있었겠지... 납치나 다름없는 일에 기대지 않고 말이다! {#DialogueItalicFormat}설령 {#PreviousFormat}네 어머니가 떠나고 싶어했다고 하더라도!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|그래서 이제 데메테르 여신과 다른 분들이 이 모든 것을 알아내신다면... 아버지와 어머니, 심지어는 제우스 삼촌마저 난처해지겠죠, 안 그래요? 제우스 삼촌은 아버지만큼 성질이 있으셨겠네요.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|네 성질의 기준이 나라면, 넌 성질에 대해서는 아무 것도 모른다, 자그레우스. 이제 이 이야기는 할 만큼 했다! 나머지는 네가 아는 대로지. 맹세를 기억해라.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|아버지... 올림포스 신들이랑 관계된 이 모든 것들 말이에요... 한 번만이라도 무슨 일이 있었던 것인지 저한테 말해 주실 수 없나요? 어머니가 어떻게 여기 오시게 된 거예요? 제우스 삼촌과 도대체 무슨 문제가 있는 건데요?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|네 어머니가 말해 준 줄 알았건만...! {#DialogueItalicFormat}으{#PreviousFormat}. 따라오거라. 당장.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|...이제부터 들을 내용은 절대로 어디에도 말하지 않겠다고 맹세하거라. 맹세해!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|알았어요, 알았어요. 맹세할게요. 아버지의 이름을 걸고 맹세하노니, 지금 아버지께서 하실 말씀을 둘 사이의 비밀로 해 두겠습니다... 그래서요?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|그래... 넌 거의 제대로 알고 있었다. 내가 지하 세계를 물려받고 나서... 네 삼촌 제우스는 말하기를 나에게 동정심을 느꼈단다. 네 어머니가 올림포스에서 불행하다는 것을 제우스는 알고 있었지. 그리고... 내가 네 어머니에게 끌려 있었단 것도 알았고. 그래서 무엇을 했냐고? 제우스는 네 어머니를 여기로 데려왔다. 네 어머니를 나에게 {#DialogueItalicFormat}선물{#PreviousFormat}로 줬다는 말이다!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|아버지는 그런 선물을 기대하셨던 건 아니셨군요. 그렇지만 어머니도 올림포스로 돌아가지 않으려 하셨고, 아버지도 어머니를 좋아하셨고, 그래서 돌려보내지 않으셨던 거예요. 그리고 아버지를 이 처지에 놓으신 일 때문에 제우스 삼촌께 화가 나신 거예요? 연을 끊으시고?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|{#DialogueItalicFormat}그래{#PreviousFormat}!! 그 망할 바보 놈, 온갖 망상으로 들어차서! 그 놈은 내키는 건 뭐든 하는 놈이다! 제우스는 조금 더 합리적인 방법으로 비슷한 결과를 이끌어낼 수 있었겠지... 납치나 다름없는 일에 기대지 않고 말이다! {#DialogueItalicFormat}설령 {#PreviousFormat}네 어머니가 떠나고 싶어했다고 하더라도!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|그래서 이제 데메테르 여신과 다른 분들이 이 모든 것을 알아내신다면... 아버지와 어머니, 심지어는 제우스 삼촌마저 난처해지겠죠, 안 그래요? 제우스 삼촌은 아버지만큼 성질이 있으셨겠네요.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|네 성질의 기준이 나라면, 넌 성질에 대해서는 아무 것도 모른다, 자그레우스. 이제 이 이야기는 할 만큼 했다! 나머지는 네가 아는 대로지. 맹세를 기억해라.
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Hades|다시 떠나기 전에 한 가지만 얘기하마. 올림포스에 대한 왕비의 뜻이 이루어질 때까지... 왕비가 여기 있다는 사실을 누구에게도 말하면 안 된다. 알겠지?
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Zagreus|네. 하지만 영원히 숨어 지낼 필요는 없을 겁니다.
 HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|이제 잔치가 끝났으니 예전처럼 일하는 건가요?
@@ -1510,8 +1510,8 @@ HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|그런 호의에 반응을 �
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|지하세계에서 왜 석류가 자라는지 늘 궁금했는데요. 어머니가 하고 계신 거죠? 그리고 어머니가 올림포스에다가 한 얘기들, 아버지가 어머니를 이곳에 가뒀다는 얘기... 다 거짓말이죠?
 HadesPostEpilogue02|Hades Post Epilogue 02|Hades|내 영역의 석류에 시큼한 맛 외에도 특정한 힘이 있다는 것은 너도 잘 알 게다. 그리고 왕비는... 너도 알다시피 식물을 다루는 힘이 있지. 어머니의 능력을 일부 물려받아서 더 잘 쓰고 있는 게야.
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|아버지는 줄곧 석류를 키우고... 심지어 풍성하게 만들기까지 하셨군요. 어머니를 위해서요.
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Zagreus|어머니가 처음 왔을 때 무슨 일이 있었는지 말씀해 주실 수 있나요? 주민들 일부는 왕비를 예전부터 기억하는 것 같은데요. 그런데도 올림포스에서는 전혀 모르는 건가요?
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Hades|이곳은 올림포스의 관할이 아니다. 여기서 무슨 일이 일어나는지 모르지. 뭐, 헤르메스는 알지도 모르겠다만 그조차도 제한된 정도에 그친다. 이 영역 밖의 존재들이 보기에... 우리의 왕비는 닉스지. 이 이상은 묻지 말거라.
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Zagreus|어머니가 처음 왔을 때 무슨 일이 있었는지 말씀해 주실 수 있나요? 주민들 일부는 왕비를 예전부터 기억하는 것 같은데요. 그런데도 올림포스에서는 전혀 모르는 건가요?
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Hades|이곳은 올림포스의 관할이 아니다. 여기서 무슨 일이 일어나는지 모르지. 뭐, 헤르메스는 알지도 모르겠다만 그조차도 제한된 정도에 그친다. 이 영역 밖의 존재들이 보기에... 우리의 왕비는 닉스지. 이 이상은 묻지 말거라.
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|아버지... 어머니가 없이 어떻게 지내세요? 어머니가 올림포스에서 괜찮으실까요?
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Hades|네 어머니는 혼자 충분히 잘 해내고도 남을 존재다. 그리고 우리는 네 어머니 없이 지내는 데 아주 익숙해졌지.
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|그러면 이제 다 평소처럼 돌아가는 겁니까? 그거 참 좋겠네요.
@@ -1760,10 +1760,10 @@ AchillesAboutGiftingGods01|Achilles About Gifting Gods 01|Achilles|보통은 어
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|걱정이 있어 보이는구나. 말해 보지 않으련?
 AchillesAboutDemeter01|Achilles About Demeter 01|Zagreus|아, 아니에요. 그저... 밖에서 데메테르 여신님을 만났어요. 그녀가 내려주신 은혜들이 하나같이... 모든 것에서 온기와 생명을 빼앗아가는 식이었어요. 전 그녀가 열매, 곡물, 채소 등을 관장하시는 분이신 줄 알고 있었는데요... 뭐, 불평하는 건 아니고요.
 AchillesAboutDemeter01|Achilles About Demeter 01|Achilles|모든 신과 여신은 두려움의 존재란다. 데메테르 님은, 생명을 불어넣는 힘과 앗아가는 힘을 관장하시지. 후자에 더 관심이 있으신 것 같지만 말이다. 잘은 모르겠지만, 네 아버지는 올림포스의 최고 연장자인 그녀에게 특별히 반감을 품고 있는 것 같으시더구나, 조심하거라.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|아킬레우스 님. 어머니와 두사 사이에 무슨 일이 벌어졌죠? 두사는 정말 가버린 겁니까?
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|닉스가 두사를 쫓아냈어. 유감이야. 네가 두사를 아낀다는 건 알고 있네. 나도 두사가 그렇게 된 걸 알고 너만큼이나 놀랐어. 일을 너무 많이 하는 두사의 성향을 닉스가 탐탁치 않아 한다는 것은 알았지만... 이렇게 될 줄이야.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Zagreus|일을 많이 하는 성향... 정말 그것 때문이라고 생각하세요? 전 제 잘못인 것 같다는 생각을 떨칠 수가 없네요. 어머니는 제가 두사와 이야기하는 걸 좋아하지 않으셨어요. 마치 두사가 저보다 더 하찮은 존재라고 생각하기라도 하는 것처럼요! {#DialogueItalicFormat}아{#PreviousFormat}, 어떻게 해야 할까요.
-AchillesAboutDusaFiring01_A|Achilles About Dusa Firing A 01|Achilles|이봐... 나는 모르는 일이야. 너도 사정을 잘 모르는 모양이군. 닉스는 너를 사랑하고 존중해. 아마 이 일이 네게 어떤 영향을 주는지 알고 싶어할 거야.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|아킬레우스 님. 어머니와 두사 사이에 무슨 일이 벌어졌죠? 두사는 정말 가버린 겁니까?
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|닉스가 두사를 쫓아냈어. 유감이야. 네가 두사를 아낀다는 건 알고 있네. 나도 두사가 그렇게 된 걸 알고 너만큼이나 놀랐어. 일을 너무 많이 하는 두사의 성향을 닉스가 탐탁치 않아 한다는 것은 알았지만... 이렇게 될 줄이야.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Zagreus|일을 많이 하는 성향... 정말 그것 때문이라고 생각하세요? 전 제 잘못인 것 같다는 생각을 떨칠 수가 없네요. 어머니는 제가 두사와 이야기하는 걸 좋아하지 않으셨어요. 마치 두사가 저보다 더 하찮은 존재라고 생각하기라도 하는 것처럼요! {#DialogueItalicFormat}아{#PreviousFormat}, 어떻게 해야 할까요.
+AchillesAboutDusaFiring01_A|Achilles About Dusa Firing 01 A|Achilles|이봐... 나는 모르는 일이야. 너도 사정을 잘 모르는 모양이군. 닉스는 너를 사랑하고 존중해. 아마 이 일이 네게 어떤 영향을 주는지 알고 싶어할 거야.
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Zagreus|보셨어요? 두사가 돌아왔어요! 어머니가 생각을 바꾼 게 틀림 없어요.
 AchillesAboutDusaReHiring01|Achilles About Dusa Re Hiring 01|Achilles|그랬겠지, 젊은 친구. 나도 두사를 다시 봐서 기뻐. 그거 아나...? 아주 푹 쉬고 온 것 같더군. 아주 유쾌한 일은 아니었을지 모르지만 그래도 좋은 점이 있었기를 바라네.
 AchillesRunProgress01|Achilles Run Progress 01|Achilles|최근에 아스포델까지 갔다면서. 그게 사실이냐?
@@ -1835,15 +1835,15 @@ AchillesBackstory01|Achilles Backstory 01|Zagreus|아킬레우스, 저기... 파
 AchillesBackstory01|Achilles Backstory 01|Achilles|더 가까울 수 없을 만큼 가까웠지. 우리의 육신은 재가 되어 지상 어딘가에서 함께 뒹굴고 있겠군. 무슨 얘기를 해 주면 될까? 난 그를 진심으로 아꼈다. 그런 나를 그는 너무 일찍 떠나 버렸지.
 AchillesBackstory01|Achilles Backstory 01|Zagreus|그렇다면 그도 여기 지하세계 어딘가에 있을 텐데... 혹시 찾아본 적 있으세요? 아니면 아버지한테 물어봤거나?
 AchillesBackstory01|Achilles Backstory 01|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 너도 바깥에 나가 봤으니 알 거 아니냐... 원하는 길을 찾는 게 얼마나 어려운지. 하지만 너에게 이 한마디는 하마. 수없이 많은 혼령 중에 혹시 파트로클로스를 만난다면 나 대신 안부를 전해다오.
-AchillesBackstory01B|Achilles Backstory B 01|Zagreus|하지만 지금은 두 분 다 여기 지하세계에 있잖아요! 가서 찾아볼 순 없나요? 아니면 아버지와 새로 다시 합의해 보거나.
-AchillesBackstory01B|Achilles Backstory B 01|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 하지만 너에게 이 한마디는 하마. 여행하다 다음에 파트로클로스를 본다면 날 대신해 얘기를 나눠다오. 해 줄 수 있지?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|일은 어떻게 되어 가고 있어? 뭔가 근심이 있는 표정인데. 괜찮은 거냐?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|그냥... 엘리시움 안에서 혼령을 만났는데 당신을 안다고 하더라고요. 당신을 그리워한다고 말했어요. 파트로클로스를 아세요?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|뭐야... 그... 그래. 잘 알지. 잘... 지내고 있더냐?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Zagreus|그는... 모르겠어요. 지금보다는 예전 삶을 그리워하는 것 같기도 하고. 혹시... 다시 만나면 제가 전할 말이 있으세요?
-AchillesAboutPatroclus01A|Achilles About Patroclus A 01|Achilles|...내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Zagreus|그게... 엘리시움 안에서 우연히 한 혼령을 만났는데요. 파트로클로스였어요. 잘 지내는 것처럼 보였지만 예전 삶을 그리워하는 것 같더군요. 혹시 다시 만나면 제가 전할 말이 있으세요?
-AchillesAboutPatroclus01B|Achilles About Patroclus B 01|Achilles|아...! 그렇다면, 내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
+AchillesBackstory01B|Achilles Backstory 01 B|Zagreus|하지만 지금은 두 분 다 여기 지하세계에 있잖아요! 가서 찾아볼 순 없나요? 아니면 아버지와 새로 다시 합의해 보거나.
+AchillesBackstory01B|Achilles Backstory 01 B|Achilles|{#DialogueItalicFormat}하, 하하. {#PreviousFormat}해 봤지. 그래, 시도는 해 봤다. 네가 말한 두 가지 방법 모두. 그게 그리 간단한 문제는 아니더구나. 하지만 너에게 이 한마디는 하마. 여행하다 다음에 파트로클로스를 본다면 날 대신해 얘기를 나눠다오. 해 줄 수 있지?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|일은 어떻게 되어 가고 있어? 뭔가 근심이 있는 표정인데. 괜찮은 거냐?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|그냥... 엘리시움 안에서 혼령을 만났는데 당신을 안다고 하더라고요. 당신을 그리워한다고 말했어요. 파트로클로스를 아세요?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|뭐야... 그... 그래. 잘 알지. 잘... 지내고 있더냐?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Zagreus|그는... 모르겠어요. 지금보다는 예전 삶을 그리워하는 것 같기도 하고. 혹시... 다시 만나면 제가 전할 말이 있으세요?
+AchillesAboutPatroclus01A|Achilles About Patroclus 01 A|Achilles|...내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Zagreus|그게... 엘리시움 안에서 우연히 한 혼령을 만났는데요. 파트로클로스였어요. 잘 지내는 것처럼 보였지만 예전 삶을 그리워하는 것 같더군요. 혹시 다시 만나면 제가 전할 말이 있으세요?
+AchillesAboutPatroclus01B|Achilles About Patroclus 01 B|Achilles|아...! 그렇다면, 내 안부나 전해다오. 그리고... 내가 사랑한다는 말도 함께. 늘 생각하고 있다고. 하지만 난 다시는 그를 볼 수 없어. 이유는 묻지 마라. 알겠지? 자, 이제 난 놔두고 가보려무나. 혼자만의 시간이 필요해.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|잠깐 내 말 좀 듣거라. 지난번에 우리가 야기한 인물에게는 진중히 대하거라. 네가 엘리시움에서 만난 혼령 말이야.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Zagreus|알겠어요. 제가 어떻게 하면 될까요? 제가 할 수 있는 게 분명 있을 텐데. 그보다 먼저 뭐가 어떻게 돌아가는 상황인지 저한테 말씀해 주셔야죠.
 AchillesAboutPatroclus02|Achilles About Patroclus 02|Achilles|간단히 말하자면 그자가 바로 내가 여기 있는 이유야. 파트로클로스는 나보다 먼저 목숨을 잃었어. 나 때문에. 난 격분에 휩싸여 바로 그의 뒤를 따랐지. 여기 도착했을 때 영웅을 위한 환대를 받았다. 네 아버지는 나를 직접 엘리시움으로 안내해 줬어. 하지만 내가 원한 건 그런 게 아니었어.
@@ -1878,15 +1878,15 @@ AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Zag
 AchillesAboutMyrmidonReunionQuest01|Achilles About Myrmidon Reunion Quest 01|Achilles|아니... 내게 한 번 더 기회를 주는 거라고 생각해. 난... 잠시 날 혼자 내버려 둬. 말해 줘서 고마워.
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Zagreus|모든 것을 다 걸라는 말에 대해서 생각해 보셨나요? 어떻게 하실 겁니까?
 AchillesAboutMyrmidonReunionQuest02|Achilles About Myrmidon Reunion Quest 02|Achilles|아직 생각 중이야, 젊은 친구. 전투라면 직감을 따라서 즉시 결정을 내리지만 다른 일에서는... 시간이 필요해. 참고 기다려 줘. 결정을 내리면 알려주지.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|날 좀 도와줄 일이 있네. 이제 모든 걸 다 걸 때가 된 것 같아. 한번 들어보겠나?
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|물론이죠, 아킬레우스 님. 무슨 일인가요?
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|내가 네 아버지와 맺었던 규약 말이야. 아마 행정실 어딘가에 묻혀 있을 거야. 그걸 건드렸다가 네가 더 곤란해지는 것이 두려워, 감히 너에게 찾아달라고 부탁할 수 없었지만...
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|...하지만 두려움은 약자들이나 느끼는 것이죠, 아킬레우스 님.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Achilles|그렇지. 게다가... 네가 그 날사기꾼의 선고를 무효로 만들었을 때도 네 아버지는 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
-AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest A 03|Zagreus|다음에 기회가 되면 어머니하고 얘기해 보죠. 꼭 조심할게요. 약속 드리죠.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|날 좀 도와줄 일이 있네. 이제 모든 걸 다 걸 때가 된 것 같아. 한번 들어보겠나?
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|물론이죠, 아킬레우스 님. 무슨 일인가요?
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|내가 네 아버지와 맺었던 규약 말이야. 아마 행정실 어딘가에 묻혀 있을 거야. 그걸 건드렸다가 네가 더 곤란해지는 것이 두려워, 감히 너에게 찾아달라고 부탁할 수 없었지만...
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|...하지만 두려움은 약자들이나 느끼는 것이죠, 아킬레우스 님.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Achilles|그렇지. 게다가... 네가 그 날사기꾼의 선고를 무효로 만들었을 때도 네 아버지는 생각보다 화를 내시지 않더군... 그러니 어쩌면 나도 할 수 있지 않을까 생각이 들었어.
+AchillesAboutMyrmidonReunionQuest03_A|Achilles About Myrmidon Reunion Quest 03 A|Zagreus|다음에 기회가 되면 어머니하고 얘기해 보죠. 꼭 조심할게요. 약속 드리죠.
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Zagreus|규약을 찾는 중이에요, 아킬레우스 님. 조금만 더 시간을 주세요.
 AchillesAboutMyrmidonReunionQuest04|Achilles About Myrmidon Reunion Quest 04|Achilles|내겐 인내심이 전부야, 젊은 친구. 지금 희망을 잃지 않으려고 노력 중이지. 애써 줘서 고마워. 다음에 대화를 나눌 때는 네가 성공했으면 좋겠군.
-AchillesAboutMyrmidonReunionQuest04_B|Achilles About Myrmidon Reunion Quest B 04|Zagreus|규약을 찾는 중이에요, 아킬레우스 님. 조금만 더 시간을 주세요.
+AchillesAboutMyrmidonReunionQuest04_B|Achilles About Myrmidon Reunion Quest 04 B|Zagreus|규약을 찾는 중이에요, 아킬레우스 님. 조금만 더 시간을 주세요.
 MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Zagreus|아킬레우스 님! 아버지와의 규약이 공식적으로 수정되었습니다. 이제 고용 기간 동안 엘리시움 출입을 무기한 금하는 조항이 삭제되었어요. 하데스의 이름으로 제가 대신 아킬레우스 님의 헌신에 감사드립니다.
 MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Achilles|뭣, 너... 진짜구나. 난 이제 갈 수 있어. 네 말이 맞아. 난 자유야. 이제... 지금 바로... 떠나면 돼.
 MyrmidonReunionQuestComplete|Myrmidon Reunion Quest Complete|Zagreus|지금 바로 떠나시면 됩니다. 드디어... 때가 됐네요.
@@ -1924,33 +1924,33 @@ AchillesGift02|Achilles Gift 02|Achilles|뭐? 날 위한 거라고? 이럴 필�
 AchillesGift02|Achilles Gift 02|Zagreus|지하세계에서 생활하기엔 너무 훌륭한 분이시니까요.
 AchillesGift03|Achilles Gift 03|Achilles|설마, 날 위한 거냐...? 내가 이런 걸 어떻게 받겠어. 너도 알지 않냐.
 AchillesGift03|Achilles Gift 03|Zagreus|아킬레우스, 괜찮아요. 잠깐이나마 삶을 누리세요... 아무한테도 말 안 하시면 저도 아무 말 안 할게요.
-AchillesGift04_A|Achilles Gift A 04|Achilles|{#DialogueItalicFormat}아{#PreviousFormat}, 정말 감동이구나. 나한테 이걸 전해 주려고 굳이 돌아왔다고 믿고 싶지 않다만. 그래도 정말 고맙다.
-AchillesGift04_A|Achilles Gift A 04|Zagreus|항상 저를 위해 애써 주셨잖아요, 아킬레우스. 아버지가 절 쫓아냈을 때도. 해 주신 것에 비하면 이건 아무것도 아니에요. 뭘 해도 그 은혜에 충분히 보답할 수 없을 거예요.
-AchillesGift05_A|Achilles Gift A 05|Achilles|네가 보여 준 친절은 고맙다만... 괜히 오해를 사고 싶지 않구나. 내가 지금은 비록 혼자이지만, 내 마음은 다른 사람에게 향해 있어. 살아 있을 때부터 쭉 그래 왔다. 이해해 주길 바란다.
-AchillesGift05_A|Achilles Gift A 05|Zagreus|실은... 그런 줄 알고 있었어요, 아킬레우스. 그와 상관없이 드리고 싶었어요. 그러니... 굳이 슬픔을 떨쳐 버리려 하지 마세요. 오히려 당신을 강하게 만드는 원천인 것 같으니까요.
-AchillesGift05_A|Achilles Gift A 05|Achilles|고맙다. 내 걱정은 안 해도 돼. 처음으로 마음의 상처를 받았을 때 느낀 슬픔과 분노는 이미 지나간 지 오래야. 지금은 그저 또 다른 흉터만 남았을 뿐이지. 흉터가 우리를 강하게 만든다는 말도 있지 않니.
-AchillesGift05_B|Achilles Gift B 05|Achilles|젊은 친구, 나한테 이럴 것 없어... 난 그냥 늙은 살인자일 뿐이지만 자네는 나를 뭐라도 되는 것처럼 대해 주는군. 이 집에 처음 발을 들일 때는 상상도 못한 대접이야.
-AchillesGift05_B|Achilles Gift B 05|Zagreus|아킬레우스 님은 위대한 영웅 아니십니까? 지금도, 앞으로도 항상 그럴 겁니다! 훨씬 더 나은 대접을 받으실 자격이 있습니다. 제가 더 해 드릴 것이 있으면 좋겠네요.
-AchillesGift05_B|Achilles Gift B 05|Achilles|고맙다. 내 걱정은 마. 난 여기 있는 것만으로도 영광이야. 게다가... 자네만한 제자를 또 어디에서 찾겠는가.
-AchillesGift06_A|Achilles Gift A 06|Zagreus|아킬레우스, 휴게실에서 저랑 이걸 나눠 가지면 어떨까 하는데. 잠시 휴식을 취할 핑곗거리도 될 테고요?
-AchillesGift06_A|Achilles Gift A 06|Achilles|나에게 할애할 시간이 있나...? 물론 거절할 생각은 없다만. 거기서 보자.
-AchillesGift06_A|Achilles Gift A 06|Achilles|...내가 어리석었어. 신들은 죽음 이후에도 영원한 영광을 주겠다고 약속했어. 전쟁에 나가서 싸우지 않아도 됐는데. 파트로클로스와 편히 집에 머무를 수 있었는데. 내가 모든 걸 망쳤어. 그리고 많은 이들을 이곳으로 보냈지.
-AchillesGift06_A|Achilles Gift A 06|Zagreus|이미 엎질러진 물은 주워 담을 수 없어요. 제 마음속엔 여전히 생존했던 가장 위대한 전사로 남아 있는걸요. 영광을 추구하시는 건가요? 아니면 파트로클로스를 그리워하시는 건가요?
-AchillesGift06_A|Achilles Gift A 06|Achilles|영광은 더 이상 아무 의미 없어. 그거 하나는 확실하다. 반면 파트로클로스는... 나에게서 영원히 떠나 버린 것만 같구나. 그의 혼령이 이 영역 안 어딘가에 있을지 몰라도 날 용서하지 않는다는 조건으로 헤어졌으니까. 다만... 이제 난 내 자리로 돌아가 봐야겠다.
-AchillesGift06_A|Achilles Gift A 06|Achilles|...내가 괜히 이곳에 짙은 먹구름만 드리운 건 아닌지 모르겠구나. 아무튼 너와 못다 한 이야기를 나눌 기회를 얻은 것만으로 감사하다. 너도 그만 갈 길을 가라! 몸조심하고.
-AchillesGift07_A|Achilles Gift A 07|Zagreus|아킬레우스 님, 다음 번에 엘리시움에 가실 때 이걸 가지고 가세요. 가서 나눠 드세요.
-AchillesGift07_A|Achilles Gift A 07|Achilles|암브로시아... 영광이야, 젊은 친구. 네가 베푼 은혜를 생각하면 내가 선물을 줘야 할 텐데 말이야. 마침 여기 하나 줄 것이 있군. 패트와 내가 주는 선물이야.
-AchillesGift08_A|Achilles Gift A 08|Zagreus|아킬레우스 님보다 이걸 받을 자격이 있는 분은 없어요. 다음 번에 쉬실 때나 특별한 일이 있을 때 즐기세요, 아셨죠?
-AchillesGift08_A|Achilles Gift A 08|Achilles|신이 된다는 건 이런 기분이겠군, 젊은 친구. 이렇게 큰 사랑을 받다니 말이야. 게다가 공물까지! 진심인가?
-AchillesGift08_A|Achilles Gift A 08|Zagreus|진심으로 드리는 겁니다. 아킬레우스 님의 지도가 아니었더라면 지금의 저는 없었을 테니까요. 싸우는 기술만 말씀드리는 게 아닙니다.
-AchillesGift08_A|Achilles Gift A 08|Achilles|그러지 마, 젊은 친구. 내가 말을 잘 해 줬나 본데, 난 그저 살인자에 지나지 않아. 내가 너라면 내가 하는 조언을 경계할 거야.
-AchillesGift08_A|Achilles Gift A 08|Zagreus|보세요, 이렇게 좋은 말씀을 해주시지 않습니까!
-AchillesGift09_A|Achilles Gift A 09|Zagreus|이거 받으세요. 두 분께 드리는 겁니다. 지금까지 고생하신 것들을 다 보상 받는 영원을 누리시기를 바랍니다.
-AchillesGift09_A|Achilles Gift A 09|Achilles|아, 고마워. 젊은 친구. 자그레우스 왕자. 이러지 않아도 되는데. 이번에는 받겠지만 더는 받지 않겠어.
-AchillesGift09_A|Achilles Gift A 09|Zagreus|정말로요? 그게... 문제는 없지만... 저는 좋아하시는 줄 알았는데 아니었나요?
-AchillesGift09_A|Achilles Gift A 09|Achilles|물론 좋아하지. 하지만 엘리시움에서는... 이런 건 그냥 받는 게 아니라 자신의 힘으로 얻어야 하는 것이거든. 아무래도... 거기 있다 보니 옛 자부심이 되살아나는 것 같아.
-AchillesGift09_A|Achilles Gift A 09|Zagreus|그거 잘됐네요. 자부심을 가질 만하세요. 아킬레우스 님은 훌륭한 전사이고, 훌륭한 스승이자 훌륭한 친구니까요.
-AchillesGift09_A|Achilles Gift A 09|Achilles|...내게 자부심을 가질 만한 것이 있다면... 자네 같은 사람이 진심으로 그런 말을 해 준다는 것이겠지.
+AchillesGift04_A|Achilles Gift 04 A|Achilles|{#DialogueItalicFormat}아{#PreviousFormat}, 정말 감동이구나. 나한테 이걸 전해 주려고 굳이 돌아왔다고 믿고 싶지 않다만. 그래도 정말 고맙다.
+AchillesGift04_A|Achilles Gift 04 A|Zagreus|항상 저를 위해 애써 주셨잖아요, 아킬레우스. 아버지가 절 쫓아냈을 때도. 해 주신 것에 비하면 이건 아무것도 아니에요. 뭘 해도 그 은혜에 충분히 보답할 수 없을 거예요.
+AchillesGift05_A|Achilles Gift 05 A|Achilles|네가 보여 준 친절은 고맙다만... 괜히 오해를 사고 싶지 않구나. 내가 지금은 비록 혼자이지만, 내 마음은 다른 사람에게 향해 있어. 살아 있을 때부터 쭉 그래 왔다. 이해해 주길 바란다.
+AchillesGift05_A|Achilles Gift 05 A|Zagreus|실은... 그런 줄 알고 있었어요, 아킬레우스. 그와 상관없이 드리고 싶었어요. 그러니... 굳이 슬픔을 떨쳐 버리려 하지 마세요. 오히려 당신을 강하게 만드는 원천인 것 같으니까요.
+AchillesGift05_A|Achilles Gift 05 A|Achilles|고맙다. 내 걱정은 안 해도 돼. 처음으로 마음의 상처를 받았을 때 느낀 슬픔과 분노는 이미 지나간 지 오래야. 지금은 그저 또 다른 흉터만 남았을 뿐이지. 흉터가 우리를 강하게 만든다는 말도 있지 않니.
+AchillesGift05_B|Achilles Gift 05 B|Achilles|젊은 친구, 나한테 이럴 것 없어... 난 그냥 늙은 살인자일 뿐이지만 자네는 나를 뭐라도 되는 것처럼 대해 주는군. 이 집에 처음 발을 들일 때는 상상도 못한 대접이야.
+AchillesGift05_B|Achilles Gift 05 B|Zagreus|아킬레우스 님은 위대한 영웅 아니십니까? 지금도, 앞으로도 항상 그럴 겁니다! 훨씬 더 나은 대접을 받으실 자격이 있습니다. 제가 더 해 드릴 것이 있으면 좋겠네요.
+AchillesGift05_B|Achilles Gift 05 B|Achilles|고맙다. 내 걱정은 마. 난 여기 있는 것만으로도 영광이야. 게다가... 자네만한 제자를 또 어디에서 찾겠는가.
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|아킬레우스, 휴게실에서 저랑 이걸 나눠 가지면 어떨까 하는데. 잠시 휴식을 취할 핑곗거리도 될 테고요?
+AchillesGift06_A|Achilles Gift 06 A|Achilles|나에게 할애할 시간이 있나...? 물론 거절할 생각은 없다만. 거기서 보자.
+AchillesGift06_A|Achilles Gift 06 A|Achilles|...내가 어리석었어. 신들은 죽음 이후에도 영원한 영광을 주겠다고 약속했어. 전쟁에 나가서 싸우지 않아도 됐는데. 파트로클로스와 편히 집에 머무를 수 있었는데. 내가 모든 걸 망쳤어. 그리고 많은 이들을 이곳으로 보냈지.
+AchillesGift06_A|Achilles Gift 06 A|Zagreus|이미 엎질러진 물은 주워 담을 수 없어요. 제 마음속엔 여전히 생존했던 가장 위대한 전사로 남아 있는걸요. 영광을 추구하시는 건가요? 아니면 파트로클로스를 그리워하시는 건가요?
+AchillesGift06_A|Achilles Gift 06 A|Achilles|영광은 더 이상 아무 의미 없어. 그거 하나는 확실하다. 반면 파트로클로스는... 나에게서 영원히 떠나 버린 것만 같구나. 그의 혼령이 이 영역 안 어딘가에 있을지 몰라도 날 용서하지 않는다는 조건으로 헤어졌으니까. 다만... 이제 난 내 자리로 돌아가 봐야겠다.
+AchillesGift06_A|Achilles Gift 06 A|Achilles|...내가 괜히 이곳에 짙은 먹구름만 드리운 건 아닌지 모르겠구나. 아무튼 너와 못다 한 이야기를 나눌 기회를 얻은 것만으로 감사하다. 너도 그만 갈 길을 가라! 몸조심하고.
+AchillesGift07_A|Achilles Gift 07 A|Zagreus|아킬레우스 님, 다음 번에 엘리시움에 가실 때 이걸 가지고 가세요. 가서 나눠 드세요.
+AchillesGift07_A|Achilles Gift 07 A|Achilles|암브로시아... 영광이야, 젊은 친구. 네가 베푼 은혜를 생각하면 내가 선물을 줘야 할 텐데 말이야. 마침 여기 하나 줄 것이 있군. 패트와 내가 주는 선물이야.
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|아킬레우스 님보다 이걸 받을 자격이 있는 분은 없어요. 다음 번에 쉬실 때나 특별한 일이 있을 때 즐기세요, 아셨죠?
+AchillesGift08_A|Achilles Gift 08 A|Achilles|신이 된다는 건 이런 기분이겠군, 젊은 친구. 이렇게 큰 사랑을 받다니 말이야. 게다가 공물까지! 진심인가?
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|진심으로 드리는 겁니다. 아킬레우스 님의 지도가 아니었더라면 지금의 저는 없었을 테니까요. 싸우는 기술만 말씀드리는 게 아닙니다.
+AchillesGift08_A|Achilles Gift 08 A|Achilles|그러지 마, 젊은 친구. 내가 말을 잘 해 줬나 본데, 난 그저 살인자에 지나지 않아. 내가 너라면 내가 하는 조언을 경계할 거야.
+AchillesGift08_A|Achilles Gift 08 A|Zagreus|보세요, 이렇게 좋은 말씀을 해주시지 않습니까!
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|이거 받으세요. 두 분께 드리는 겁니다. 지금까지 고생하신 것들을 다 보상 받는 영원을 누리시기를 바랍니다.
+AchillesGift09_A|Achilles Gift 09 A|Achilles|아, 고마워. 젊은 친구. 자그레우스 왕자. 이러지 않아도 되는데. 이번에는 받겠지만 더는 받지 않겠어.
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|정말로요? 그게... 문제는 없지만... 저는 좋아하시는 줄 알았는데 아니었나요?
+AchillesGift09_A|Achilles Gift 09 A|Achilles|물론 좋아하지. 하지만 엘리시움에서는... 이런 건 그냥 받는 게 아니라 자신의 힘으로 얻어야 하는 것이거든. 아무래도... 거기 있다 보니 옛 자부심이 되살아나는 것 같아.
+AchillesGift09_A|Achilles Gift 09 A|Zagreus|그거 잘됐네요. 자부심을 가질 만하세요. 아킬레우스 님은 훌륭한 전사이고, 훌륭한 스승이자 훌륭한 친구니까요.
+AchillesGift09_A|Achilles Gift 09 A|Achilles|...내게 자부심을 가질 만한 것이 있다면... 자네 같은 사람이 진심으로 그런 말을 해 준다는 것이겠지.
 AchillesGift04|Achilles Gift 04|Achilles|약속하마. 날 위해 이런 생각까지 하다니 정말 대견하구나.
 AchillesGift04|Achilles Gift 04|Zagreus|절 인도해 주시는 분인데 이 정도는 해야죠.
 AchillesGift07|Achilles Gift 07|Achilles|이걸 가지고 있으면 집에서 부러움을 한 몸에 살 거야. 고맙구나. 주변에 좀 나눠 줘도 기분 나쁘지 않겠지?
@@ -1980,8 +1980,8 @@ NyxAboutHades02|Nyx About Hades 02|Zagreus|올림포스의 신들과 거울, 집
 NyxAboutHades02|Nyx About Hades 02|Nyx|내 걱정은 하지 말려무나, 아들아. 난 네 아버지가 내키는 대로 처벌할 수 있는 부하가 아니니. 나는 밤의 신이다. 이 집은 내 가호 아래 지탱되고 있다는 것을 네 아버지는 잘 알고 있단다. 또한, 그이와 나는 동일한 목표가 있어. 서로 협력할 의무가 있지.
 NyxAboutHades02|Nyx About Hades 02|Zagreus|그렇다면... 아버지가 어머니에게 아무런 영향력을 행사하지 못한다면, 왜 저에게 진실을 가르쳐주지 않으신 거죠? 제 친모가 따로 있다는 것을요.
 NyxAboutHades02|Nyx About Hades 02|Nyx|제발... 나는 그에 대해 말할 수 있는 권한이 없단다. 네 언젠가 친모를 만나게 된다면... 나를 이해하게 될 것이야.
-NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|협력할 의무... 아버지와 닉스 님이 진짜 부부처럼 보일 만도 했네요.
-NyxAboutHades02_B|Nyx About Hades B 02|Nyx|네 아버지와 나는... 가끔 우리 스스로까지 속이니까.
+NyxAboutHades02_B|Nyx About Hades 02 B|Zagreus|협력할 의무... 아버지와 닉스 님이 진짜 부부처럼 보일 만도 했네요.
+NyxAboutHades02_B|Nyx About Hades 02 B|Nyx|네 아버지와 나는... 가끔 우리 스스로까지 속이니까.
 NyxAboutAthena01|Nyx About Athena 01|Zagreus|아테나 여신님에게서 들었어요, 어머니. 그녀가 어머니를 존경하신대요. 올림포스의 신들은 저희 같은 존재를 싫어하는 줄 알았는데요.
 NyxAboutAthena01|Nyx About Athena 01|Nyx|그들 대다수는 그렇지. 하지만, 너는 그들과 가족이란다, 아들아. 그리고... 아테나는 내가 왜 그녀만 특별히 찾았는지 이해할 만큼 현명하다고 믿었어. 하지만, 그녀는 기어이 다른 친족들에게 알렸더구나.
 NyxAboutAthena02|Nyx About Athena 02|Zagreus|아테나 님이 안부를 전해달라고 했어요, 어머니. 사태가 일어난 이후 그녀와 계속 교신하시고 있으신가 보군요.
@@ -2061,7 +2061,7 @@ NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Zagreus|아버지의
 NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|그렇다면 너는 지금 내 힘보다 더 위대한 힘에 의해 이 영역에 속박되어 있다는 건데. 나에게 말해 다오... 페르세포네를 일생 단 한 순간만 볼 수 있다는 걸 안다 하더라도... 그녀를 만나기 위한 여정에 나서겠니?
 NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Zagreus|...네. 네, 그럴 거예요. 묻고 싶은 게 너무 많아요!
 NyxAboutPersephoneMeeting01|Nyx About Persephone Meeting 01|Nyx|그렇다면 결의를 다져 그녀를 다시 한 번 찾아 나서렴. 그리고 함께할 그 짧은 순간이나마 의미 있게 쓰거라. 필멸자들이 그러하듯 말이다.
-NyxAboutPersephoneMeeting01B|Nyx About Persephone Meeting B 01|Zagreus|아버지의 운명이라고요? 하지만 아버지는 제가 올라갈 때마다 멀쩡하게 서서 저를 기다리시던데요! 하지만... 어쩌면 이 영역에서 멀어질수록 더 심해지는 걸지도 모르겠네요. 아버지가... 지하세계를 이어받을 운명이라서?
+NyxAboutPersephoneMeeting01B|Nyx About Persephone Meeting 01 B|Zagreus|아버지의 운명이라고요? 하지만 아버지는 제가 올라갈 때마다 멀쩡하게 서서 저를 기다리시던데요! 하지만... 어쩌면 이 영역에서 멀어질수록 더 심해지는 걸지도 모르겠네요. 아버지가... 지하세계를 이어받을 운명이라서?
 NyxAboutPersephonePact01|Nyx About Persephone Pact 01|Zagreus|닉스 님... 왜 제 어머니에게 제가 살아 있다고 말 한마디 안 하신 건가요? 어디에 계신지 대략이라도 알고 계셨잖아요. 닉스 님도, 아버지도... 두 분이 그녀의 고통을 많이 덜어주실 수 있었을 텐데!
 NyxAboutPersephonePact01|Nyx About Persephone Pact 01|Nyx|나는 결코 말하지 않겠다는 서약에 맹세했단다, 아들아. 그 서약을 피할 만큼 피해 왔어. 우리... 아니, {#DialogueItalicFormat}나{#PreviousFormat}는 오직 그녀의 건강만을 생각했단다. 네 건강과 마찬가지로 말이야.
 NyxAfterPersephoneMeeting02|Nyx After Persephone Meeting 02|Zagreus|닉스 님... 제 생명을 구해 주시고, 제게 삶을 주셨죠. 제가 태어났을 때요. 아버지가 말씀해 주셨습니다. 뭐라고 감사드려야 할지 모르겠네요. 왜 말씀해 주시지 않으셨나요?
@@ -2221,16 +2221,16 @@ NyxAboutMeg02|Nyx About Meg 02|Nyx|{#DialogueItalicFormat}아하하. {#PreviousF
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|너와 메가이라가 서로를 더 잘 이해하게 되어서 기쁘구나, 얘야. 난 너희 둘이 늘 이렇게 되기를 바랐어.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|우리가 사귀는 게 괜찮으세요, 어머니? 저는 우리가 책임을 게을리하거나 할까 봐 걱정하실 줄 알았어요. 아무튼 그렇게 말씀해 주셔서 감사합니다.
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|메가이라가 책임을 등한시할 것 같지는 않구나, 얘야. 게다가 그런 관계는 우리를 더욱 충만하게 하고 더 큰 성취로 이끄는 법이란다. 더 큰 만족감 자체만으로도 충분한 목적이 되지.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|제가 메가이라와 친구여서 좋으신 거죠, 어머니? 고마워요, 정말. 그런데... 저 때문에 메가이라가 일에 지장이 생길까봐 걱정이에요.
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|나는 너희들이 잘할 거라고 믿는다. 둘 다 일을 아주 열심히 하지 않니. 너희의 우정은 크고 작은 고난을 이겨낼 수 있을 거야. 우정이란 게 그렇게 꽃을 피우는 것 아니겠니?
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Zagreus|제가 메가이라와 친구여서 좋으신 거죠, 어머니? 고마워요, 정말. 그런데... 저 때문에 메가이라가 일에 지장이 생길까봐 걱정이에요.
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Nyx|나는 너희들이 잘할 거라고 믿는다. 둘 다 일을 아주 열심히 하지 않니. 너희의 우정은 크고 작은 고난을 이겨낼 수 있을 거야. 우정이란 게 그렇게 꽃을 피우는 것 아니겠니?
 NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|어머니... 밖에서 타나토스와 마주쳤는데요. 그가 절 도와줬어요, 못마땅해 한 것 같긴 하지만. 제가 그냥 이렇게 떠나 버려서 그랬겠죠.
 NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|타나토스는 널 많이 걱정한단다. 얼마나 화가 나 보였던 너에게 정말로 화가 나서 그런 건 아니라는 걸 이해해 주기 바란다. 혹시 무례하게 굴었다면 용서하렴.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|너와 내 아들... 두 사람이 최근 가깝게 지내는 것 같아 보기가 좋구나. 타나토스는 늘 외롭게 살아왔지. 한 번도 불평한 적은 없지만... 그 아이는 늘 친밀감을 갈망해 왔어.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|고마워요, 어머니. 우리 두 사람은 한동안 서로 감정을 품고 있었어요. 이번에 드디어 서로에게 솔직해진 거죠.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|그것 참 잘 된 일이구나. 내 아들을 잘 부탁한다. 그 아이가 너무 힘들게 일하는 것 같아 걱정이야.
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|{#DialogueItalicFormat}오{#PreviousFormat}, 타나토스는 괜찮을 거예요. 그렇지만, 항상 지켜보도록 할게요.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|이곳에서 친구를 찾기가 쉽지는 않죠. 하지만 저와 타나토스는 서로 믿을 수 있는 친구예요. 예전보다 더 가까워진 것 같아요.
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|너희 둘의 우정이 이곳 지하세계의 어둠만큼이나 오래도록 이어지기를 바란다. 내 아들을 잘 부탁해.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Zagreus|이곳에서 친구를 찾기가 쉽지는 않죠. 하지만 저와 타나토스는 서로 믿을 수 있는 친구예요. 예전보다 더 가까워진 것 같아요.
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Nyx|너희 둘의 우정이 이곳 지하세계의 어둠만큼이나 오래도록 이어지기를 바란다. 내 아들을 잘 부탁해.
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|왜 그러냐, 얘야? 내가 알 수 없는 평소와 다른 고민이 느껴지는구나.
 NyxAboutDusa01|Nyx About Dusa 01|Zagreus|그게... 제 말을 오해하지 말고 들어 주세요, 어머니. 두사한테 너무 가혹하신 것 같아요. 저하고 한 마디도 말하지 말라고 하셨어요?
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|자신의 책무를 기억하라고 했을 뿐이야. 그 아이가 이곳에서 자신의 위치를 자꾸 망각하는 것 같아 걱정이구나. 네가 아무리 친근해 보인다고 한들... 넌 왕자야! 하데스 님의 유일한 아들이자 운명이 정한 이 영역의 주인이지. 넌 신들과 친해져야 한단다, 잘린 고르곤 머리가 아니라.
@@ -2406,8 +2406,8 @@ ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|카론은 좀 어때, 타
 ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|항상 카론과 연락을 주고받지만 카론의 역할이 어디까지인지 잘 모르겠어. 일종의 하청업자 같은 건데, 여기서 아주 오래 일했지. 너희 아버지가 카론에게 일할 공간을 아주 많이 내줬어.
 ThanatosAboutCharon01|Thanatos About Charon 01|Zagreus|아마 보수도 꽤 두둑하게 받을 걸. 새로 들어오는 영혼들을 관리하고 하면서 말이야.
 ThanatosAboutCharon01|Thanatos About Charon 01|Thanatos|하지만 돈을 받으려고 일하는 건 아닐 거야, 자그레우스. 카론이 없이는 지하세계도 없어. 아마 카론도, 너네 아버지도 그렇게 생각할 거야.
-ThanatosAboutCharon02A|Thanatos About Charon A 02|Zagreus|너 카론하고 친해? 난 아무리 노력해도 가까워질 수가 없더라.
-ThanatosAboutCharon02A|Thanatos About Charon A 02|Thanatos|네가 나보다 더 카론하고 친하다고 해도 놀라울 것은 없지. 어머니의 자손들이라고 해서 모두 서로 가까운 건 아냐. 적어도 우린 너네 가족들처럼 서로를 못 죽여서 안달이진 않지만.
+ThanatosAboutCharon02A|Thanatos About Charon 02 A|Zagreus|너 카론하고 친해? 난 아무리 노력해도 가까워질 수가 없더라.
+ThanatosAboutCharon02A|Thanatos About Charon 02 A|Thanatos|네가 나보다 더 카론하고 친하다고 해도 놀라울 것은 없지. 어머니의 자손들이라고 해서 모두 서로 가까운 건 아냐. 적어도 우린 너네 가족들처럼 서로를 못 죽여서 안달이진 않지만.
 ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|타나토스, 놀라운 소식이 있어... 카론이 날 돕고 있어. 자기 의지로 말이야! 난 닉스 님이나 다른 누가 시킨 건 줄 알았지. 내가 말했던 스켈리라는 녀석도 카론이 고용한 거더라고!
 ThanatosAboutCharon02|Thanatos About Charon 02|Thanatos|무슨 소리야, 자그레우스? 카론이 너한테 물건을 판다고 해서 널 돕는 건 아닌데. 지금 그거 확실해?
 ThanatosAboutCharon02|Thanatos About Charon 02|Zagreus|확실해! 카론의 동료인 스켈리는 말이 엄청 많은데 방금 드디어 털어놨어. 카론이 왜 그러는지까진 모르겠지만 말이야... 우린 친하지도 않은데...
@@ -2551,10 +2551,10 @@ ThanatosGift05|Thanatos Gift 05|Thanatos|갑자기 이렇게 관대하게 나오
 ThanatosGift05|Thanatos Gift 05|Zagreus|그거 좋은 생각이네. 조만간 물건이 충분히 모이면 올림포스의 신들이 부러워할 만한 연회를 열자고.
 ThanatosGift06|Thanatos Gift 06|Thanatos|장난 좀 그만 쳐. 뭐야, 진심이야...? {#DialogueItalicFormat}에{#PreviousFormat}, 모르겠다. 일단 내가 가져갈게. 그리고 서로 갈 길 가자고. 네가 굳이 왜 이러는지는 모르겠지만.
 ThanatosGift06|Thanatos Gift 06|Zagreus|왜 이러냐고? 가끔 너에게 이 병을 건네주지 않는다면 내 감정이 어떤지 어떻게 너에게 알릴 수 있겠어?
-ThanatosGift07_A|Thanatos Gift A 07|Zagreus|이봐, 타나토스. 그동안 네가 나를 정말 많이 도와주고, 내 곁에 있어 줬잖아... 그래서 이걸 주려고 해. 진품이야.
-ThanatosGift07_A|Thanatos Gift A 07|Thanatos|암브로시아...! 자그레우스, 이걸 어디서... 이건 좀 과하지 않나?
-ThanatosGift07_A|Thanatos Gift A 07|Zagreus|마치 무슨 나쁜 것처럼 말하네. 때로는 조금 과한 것도 나쁘지 않지.
-ThanatosGift07_A|Thanatos Gift A 07|Thanatos|놀라게 될 걸. 네가 나를 당황하게 한다면 나도 화답해야겠지. 봐라!
+ThanatosGift07_A|Thanatos Gift 07 A|Zagreus|이봐, 타나토스. 그동안 네가 나를 정말 많이 도와주고, 내 곁에 있어 줬잖아... 그래서 이걸 주려고 해. 진품이야.
+ThanatosGift07_A|Thanatos Gift 07 A|Thanatos|암브로시아...! 자그레우스, 이걸 어디서... 이건 좀 과하지 않나?
+ThanatosGift07_A|Thanatos Gift 07 A|Zagreus|마치 무슨 나쁜 것처럼 말하네. 때로는 조금 과한 것도 나쁘지 않지.
+ThanatosGift07_A|Thanatos Gift 07 A|Thanatos|놀라게 될 걸. 네가 나를 당황하게 한다면 나도 화답해야겠지. 봐라!
 ThanatosGift08|Thanatos Gift 08|Zagreus|널 위한 거야, 타나토스. 올림포스의 신들은 이 물건에 익숙하겠지만 우리는 이렇게 서로 나눠야 하겠지. 특히 너한테는 꼭 주고 싶어.
 ThanatosGift08|Thanatos Gift 08|Thanatos|흠... 올림포스의 신들도 취향이 좋은 구석이 있단 말이지. 네가 준 마지막 병 말이다만... 아주... 기대 이상이었어. 손도 대지 않을 뻔했지만 말이야.
 ThanatosGift08|Thanatos Gift 08|Zagreus|그래도 마셔봤구나! 이제 이것도 먹고 비교해 봐. 병마다 맛이 다 다르다고 하니까 말이야.
@@ -2624,8 +2624,8 @@ DusaFirstMeeting|Dusa First Meeting|Dusa|{#DialogueItalicFormat}오{#PreviousFor
 DusaFirstMeeting|Dusa First Meeting|Zagreus|아니, {#DialogueItalicFormat}음{#PreviousFormat}, 그냥 휴게실이 마치 새것처럼 멋지게 변했다고 말하고 싶어서! 수리하느라 너무 고생한 건 아닌가 싶네.
 DusaFirstMeeting|Dusa First Meeting|Dusa|저, 저, 전, {#DialogueItalicFormat}아아{#PreviousFormat}, 전 서까래를 청소해야 돼요, 전...!
 DusaFirstMeeting_Alt|Dusa First Meeting Alt|Zagreus|{#DialogueItalicFormat}어{#PreviousFormat}, 그러니까, 내 말은 오늘 내 방은 청소 안 해도 돼. 좀 오래 나가 있을 거거든.
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 두사? 아마 앞으로도 내가 이렇게 가끔 들를 것 같네. 하지만 내 방은 치우지 않아도 돼. 오래 있지 않을 거니까.
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Dusa|아, {#DialogueItalicFormat}하하하{#PreviousFormat}, 그럼요! 그래도 한 번씩 보기만 할게요. 혹시 마음이 바뀌실 수도 있으니까요. 그럼 안녕히 계세요!
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Zagreus|{#DialogueItalicFormat}음{#PreviousFormat}, 두사? 아마 앞으로도 내가 이렇게 가끔 들를 것 같네. 하지만 내 방은 치우지 않아도 돼. 오래 있지 않을 거니까.
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Dusa|아, {#DialogueItalicFormat}하하하{#PreviousFormat}, 그럼요! 그래도 한 번씩 보기만 할게요. 혹시 마음이 바뀌실 수도 있으니까요. 그럼 안녕히 계세요!
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|{#DialogueItalicFormat}저기{#PreviousFormat}, 왕자님, 아버님이 지금 화가 많이 나신 것 같아요. 무슨 일인지 모르겠지만 당분간 피해 계시는 게 좋을 듯해요. 아니면 여기 안 계신다고 가서 말씀드릴까요?
 DusaMiscMeeting03|Dusa Misc Meeting 03|Zagreus|괜찮아, 두사. 안 그래도 돼. 난 아버지가 무섭지 않아. 그러니 너도 무서워할 필요 없어. 너만큼 일 잘하는 아이가 또 어디 있다고.
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|그, 그냥 제가 할 일을 하는 것일 뿐인걸요, 왕자님...!
@@ -2654,8 +2654,8 @@ DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|잠깐, 두�
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|왕자님, 부탁드려요! 좋은 뜻으로 하시는 말씀인 줄은 알지만, 제가 다 할 수 있어요! 다들 제 능력을 그만 의심했으면 좋겠어요. 저 집 계약자 같은 사람들 말이에요. 가만히 서가지고 일을 기다리고만 있다니까요. 그런데 제가 일을 시키면 {#DialogueItalicFormat}할 생각도 안 해요{#PreviousFormat}.
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|집 계약자가 너한테 협조를 안 한다니, 허. 어쩐지 휴게실 개장이 영 진행이 안 된다 했어. 내가 바퀴에 기름칠 좀 해도 될까?
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|{#DialogueItalicFormat}아앗{#PreviousFormat}, 잊고 있었어요! 주방장한테 윤활유를 더 받아와야 돼요! 가볼게요!!
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Zagreus|아, 그건 내 잘못일 거야. 내가 계약자에게 일을 많이 주고 있거든. 휴게실 주문은 네가 넣는 거 맞지? 여긴 이제 제법 그럴듯해졌는걸!
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Dusa|자, 자, 잠깐만요. 이걸 다 승인하는 분이 왕자님이라고요?! 이런, 세상에, {#DialogueItalicFormat}아아아아{#PreviousFormat}!
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Zagreus|아, 그건 내 잘못일 거야. 내가 계약자에게 일을 많이 주고 있거든. 휴게실 주문은 네가 넣는 거 맞지? 여긴 이제 제법 그럴듯해졌는걸!
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Dusa|자, 자, 잠깐만요. 이걸 다 승인하는 분이 왕자님이라고요?! 이런, 세상에, {#DialogueItalicFormat}아아아아{#PreviousFormat}!
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Zagreus|휴게실이 요즘 아주 좋아졌어, 두사! 네가 열심히 일한 덕분이야!
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Dusa|{#DialogueItalicFormat}하하{#PreviousFormat}! 감사합니다, 왕자님. 그냥 요새 집 계약자가 좀 더 협조적이고 일도 빨리 하더라고요. 그래도 아직 할 일이 많이 남았으니 기대해 주세요!
 DusaLoungeRenovationQuestComplete|Dusa Lounge Renovation Quest Complete|Dusa|{#DialogueItalicFormat}어{#PreviousFormat}, 자그레우스 왕자님...? 드릴 말씀이 있는데 시간 괜찮으세요? 바쁘시다면... 나중에 다시 올게요.
@@ -2717,8 +2717,8 @@ DusaAboutGorgons02|Dusa About Gorgons 02|Dusa|아뇨, 그렇지 않아요! 그 �
 DusaAboutGorgons02|Dusa About Gorgons 02|Zagreus|잠깐, 나? 그런 생각은 안 해봤어. 아마... 아버지께 받은 거겠지. 아버지가 나한테 말을 가르치겠다고 고집을 부리셨으니까. 아니면 핏줄 때문인지도 몰라.
 DusaAboutGorgons03|Dusa About Gorgons 03|Zagreus|두사, 이건 좀 개인적인 일이니까 대답하지 않아도 돼. 내가 궁금해서 그러는데... 혹시... 옛날에 몸이나 그런게 있었어? 얼마 전에 들었는데 고르곤한테는... 날개도 있다던데?
 DusaAboutGorgons03|Dusa About Gorgons 03|Dusa|왕자님. 그것 참 개인적인 질문이네요... 나쁜 뜻은 없지만 다른 분들과 이야기를 나눌 주제는 아닌 것 같아요. 아시겠죠? 저는 저예요! 그리고 보시다시피 저는 날개가 없어도 잘 날아다닌답니다!
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Zagreus|두사 양, 내가, {#DialogueItalicFormat}음{#PreviousFormat}, 과거에 대해 물어봐서 미안. 난 그냥 널 좀 더 잘 알고 싶었어. 근데 내가 좀 무례했던 것 같아. 미안해. 용서해 줘.
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Dusa|오, 왕자님. 이러지 마세요! 걱정하실 것 없어요! 저는 이미 다 잊었답니다. 별일 아니에요. 그냥 옛날의 저는... 심지어 저도 아니네요. 지금 이게 저예요! 저는 여기 와서 기뻐요.
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Zagreus|두사 양, 내가, {#DialogueItalicFormat}음{#PreviousFormat}, 과거에 대해 물어봐서 미안. 난 그냥 널 좀 더 잘 알고 싶었어. 근데 내가 좀 무례했던 것 같아. 미안해. 용서해 줘.
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Dusa|오, 왕자님. 이러지 마세요! 걱정하실 것 없어요! 저는 이미 다 잊었답니다. 별일 아니에요. 그냥 옛날의 저는... 심지어 저도 아니네요. 지금 이게 저예요! 저는 여기 와서 기뻐요.
 DusaAboutGorgons04|Dusa About Gorgons 04|Zagreus|다른 사람을 돌로 만들 수 있으면 아주 편리할 것 같아. 언제든지 할 수 있는 거야? 혀를 내밀거나 뭐 그런 것처럼?
 DusaAboutGorgons04|Dusa About Gorgons 04|Dusa|그렇게 쉽지는 않지만 어렵지도 않아요! 일단 화가 나야 되고요, 보고 있는 걸 마치 그림처럼 생각하면서 {#DialogueItalicFormat}후욱{#PreviousFormat}! 그러면 돌이 돼요. 재미있어요. 전 누구나 이렇게 할 수 있는 줄 알았다니까요!
 DusaAboutSingersReunionQuest01|Dusa About Singers Reunion Quest 01|Dusa|왕자님, 오르페우스를 만났는데요. 잠시 시간이 생겼다던데, 왕자님이 하신 건가요? 뮤즈를 만나러 간다고 하더라고요. 너무 신나요. 지금까지 계속 서로 못 만났던 거잖아요!
@@ -2738,8 +2738,8 @@ DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Zagreus|여기가 언제 
 DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Dusa|그런 말씀 마세요, 왕자님! 케르베로스가 더 잘 알아요. 그리고 왕자님도 바쁘시잖아요. 저도 바쁘고요! 제가 최선을 다할 테니 지켜봐 주세요!
 DusaAboutPersephone01|Dusa About Persephone 01|Zagreus|두사, 나에 대해 네가 알아야 할 게 있어. 나하고 내 어머니 얘기 말이야. 닉스 님 말이야, 그분은 사실 내 진짜 어머니가 아니야...! 내 진짜 어머니는 페르세포네라는 분이야. 저 바깥 어딘가에 계신대. 지상에 말이야. 그래서 내가 떠났던 거야. 잠깐, 너 지금 웃는 거야?
 DusaAboutPersephone01|Dusa About Persephone 01|Dusa|{#DialogueItalicFormat}하하{#PreviousFormat}, 아, 아니에요. 그게, {#DialogueItalicFormat}어{#PreviousFormat}... 정말 정말 죄송한데, {#DialogueItalicFormat}음{#PreviousFormat}, 참을 수가 없어서요. 방해하고 싶지 않았지만, 저는 사실 전부터 알고 있었거든요? 음, 그러니까, 다들 그 얘기를 자주 했거든요? 그냥 저는... 왕자님이 어머니를 빨리 찾으시길 바랄게요!
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Zagreus|넌 내 말을 아무에게나 털어놓지 않을 테니까 하는 말인데... {#DialogueItalicFormat}찾았어{#PreviousFormat}. 그녀를 찾았다고! 지금 그래서... 뭘 해야 할지 고민 중이야. 아직은 비밀이니까... 지켜줄 수 있지?
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Dusa|{#DialogueItalicFormat}우와{#PreviousFormat}, 흥미진진하네요. 어머님은 어떠셨나요? 키가 크신가요? 눈이 닮았나요? 어디에 살고 계세요? 뭘 하고 지내시나요? 직업은요? 머리 색은 뭐죠? 지금, 어, 함께 살고 계신 분이 있나요?
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Zagreus|넌 내 말을 아무에게나 털어놓지 않을 테니까 하는 말인데... {#DialogueItalicFormat}찾았어{#PreviousFormat}. 그녀를 찾았다고! 지금 그래서... 뭘 해야 할지 고민 중이야. 아직은 비밀이니까... 지켜줄 수 있지?
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Dusa|{#DialogueItalicFormat}우와{#PreviousFormat}, 흥미진진하네요. 어머님은 어떠셨나요? 키가 크신가요? 눈이 닮았나요? 어디에 살고 계세요? 뭘 하고 지내시나요? 직업은요? 머리 색은 뭐죠? 지금, 어, 함께 살고 계신 분이 있나요?
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|어, 왜, 왕자님이... 잠깐, 돌아오신 거예요? 아니, 그게...! 저는...! 왜 아직도 여기 계세요?
 DusaRunCleared01|Dusa Run Cleared 01|Zagreus|아, {#DialogueItalicFormat}하하{#PreviousFormat}. 그래! 내가 멀리까지 갔던 건 사실이야, 두사. 하지만... 아직 여기서 못다한 일이 있어서... 가끔은 이렇게 들릴 거야.
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|우와, 그거 대단하네요! 대단한 거죠? 왕자님이 대단하다고 하시면 대단한 거죠! 그래도 괜찮다면요.
@@ -2757,10 +2757,10 @@ DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|두사, 왜 그러는 거야... 무슨 일이
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|아니에요, 왕자님... 저하고 얘기하시면 안 돼요. 아니, 제가 왕자님하고 얘기하면 안 돼요. 닉스 님이... 저 이제 큰일났어요!
 DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|잠깐만, 두사. 천천히 얘기해 봐. 무슨 일이야? 어머니가 정말 나하고 얘기하지 말라고 하셨어? 왜 그러셨는지 알아?
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|모르겠어요, 왕자님. 저는... 저는 제 일자리를 지켜야 돼요. 그래서 전 왕자님하고 같이 있으면 안 돼요. 이해해 주세요. 전 이제 가야 돼요. 아셨죠?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|두사, 내 생각에 어머니가 좀 걱정하시는 것 같아... 날 걱정하시는 거지만, 네가 말했듯이 우리 둘이 이렇게 이야기하는 걸 안 좋아하시더라고. 혹시... 어머니가 네 일처리 방식을 별로 안 좋아하셔?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|아, 왕자님. 아니에요, 제가 문제예요! 닉스 님이 지적을 저한테 많이 하셨거든요! 좀 침착해지고, 너무 목록을 많이 만들지 말고, 좀 큰 그림을 보고, 너무 열심히 일하지 말고, 제 잘못이 아닌 걸로 자책하지 말고...!
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|다 좋은 얘기 같은데. 하지만 어머니가 좀 더 부드럽게 이야기시면 좋을 텐데. 좀 쉬엄쉬엄 해, 두사. 알겠지?
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|...그리고 왕자님하고 얘기하지 말라고도 하셨어요. 나 이제 큰일났다. {#DialogueItalicFormat}아아아{#PreviousFormat}!
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|두사, 내 생각에 어머니가 좀 걱정하시는 것 같아... 날 걱정하시는 거지만, 네가 말했듯이 우리 둘이 이렇게 이야기하는 걸 안 좋아하시더라고. 혹시... 어머니가 네 일처리 방식을 별로 안 좋아하셔?
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|아, 왕자님. 아니에요, 제가 문제예요! 닉스 님이 지적을 저한테 많이 하셨거든요! 좀 침착해지고, 너무 목록을 많이 만들지 말고, 좀 큰 그림을 보고, 너무 열심히 일하지 말고, 제 잘못이 아닌 걸로 자책하지 말고...!
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|다 좋은 얘기 같은데. 하지만 어머니가 좀 더 부드럽게 이야기시면 좋을 텐데. 좀 쉬엄쉬엄 해, 두사. 알겠지?
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|...그리고 왕자님하고 얘기하지 말라고도 하셨어요. 나 이제 큰일났다. {#DialogueItalicFormat}아아아{#PreviousFormat}!
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|저, 왕자님... 작별 인사를 드릴게요. 오늘이 제 마지막 날이거든요. 왕자님을 알게 되고, 여기서 일하게 되어서 행복했어요. 그럼 이만...!
 DusaVsNyx04|Dusa Vs Nyx 04|Zagreus|잠깐, 잠깐, 기다려 봐. 마지막 날이라니, 대체 무슨 일이야? 여길 떠난다고? 왜?
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|저 해고됐어요! 닉스 님이... 결정하셨어요... 이제 가야돼요. 더 안 좋은 일이 생기기 전에요. 안녕히 계세요, 왕자님! 안녕히...!
@@ -2797,10 +2797,10 @@ DusaGift03|Dusa Gift 03|Dusa|{#DialogueItalicFormat}오{#PreviousFormat}, 오오
 DusaGift03|Dusa Gift 03|Zagreus|정말이야, 두사. 마음에 들었으면 좋겠네.
 DusaGift04|Dusa Gift 04|Dusa|하-하지만 왕자님, 뭐라고 해야 할지... 호, 혹시 지금 농담하시는 거 아니죠..?
 DusaGift04|Dusa Gift 04|Zagreus|나 지금 아주 진지한데, 두사. 정말이야. 널 위한 거라고.
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|두사, 넌 이 집에서 누구보다 열심히 일하면서 모든 것을 깔끔하게 정리하잖아. 정말 감사한 일이라고 생각해. 고마워! 이걸 받아줬으면 좋겠어.
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|어, 왕자님. 감사합니다! 정말 감사합니다! 참으로 관대하시네요. 전... 정말 말을 잃었어요! 어떻게 감사드려야 할지 모르겠어요!
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|그만하면 됐어! 너한테 부담을 주려는 건 아니야. 그냥 우리가 서로를 더 잘 알게 되어서 기쁘다는 뜻에서 주는 거야.
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|저... 저도 왕자님을 더 잘 알게 되어서 기뻐요. 넥타르 주셔서 감사해요! 정말 훌륭한 넥타르인 거 같아요. {#DialogueItalicFormat}음{#PreviousFormat}, 그럼 안녕히 계세요!
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|두사, 넌 이 집에서 누구보다 열심히 일하면서 모든 것을 깔끔하게 정리하잖아. 정말 감사한 일이라고 생각해. 고마워! 이걸 받아줬으면 좋겠어.
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|어, 왕자님. 감사합니다! 정말 감사합니다! 참으로 관대하시네요. 전... 정말 말을 잃었어요! 어떻게 감사드려야 할지 모르겠어요!
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|그만하면 됐어! 너한테 부담을 주려는 건 아니야. 그냥 우리가 서로를 더 잘 알게 되어서 기쁘다는 뜻에서 주는 거야.
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|저... 저도 왕자님을 더 잘 알게 되어서 기뻐요. 넥타르 주셔서 감사해요! 정말 훌륭한 넥타르인 거 같아요. {#DialogueItalicFormat}음{#PreviousFormat}, 그럼 안녕히 계세요!
 DusaGift06|Dusa Gift 06|Zagreus|두사, 여기 진짜 좋은 넥타르를 또 가져왔어! 앞으로도 일 열심히 하고, 더 멋진 두사가 되기를 바라.
 DusaGift06|Dusa Gift 06|Dusa|저, 저, 저, 정말 몸 둘 바를 모르겠어요, 왕자님. 근데 제가 요새 너무 바빠서요. 지난번에 주신 것도 아직 못 마셨거든요. 그러니까... 이건 다른 사람 주시는 게 낫지 않을까요?
 DusaGift06|Dusa Gift 06|Zagreus|아냐, 이건 네 거야! 나중에 쉬는 시간이 되면 마실 수 있잖아. 안 그래?
@@ -2909,7 +2909,7 @@ OrpheusMiscMeeting06|Orpheus Misc Meeting 06|Zagreus|저기, 혹시 괜찮다면
 OrpheusMiscMeeting06|Orpheus Misc Meeting 06|Orpheus|나의 뮤즈... 누구도 나의 에우리디케만큼 아름답지 않아...! 에우리디케는 상냥하면서도 굳센 마음을 가지고 있어서 그녀를 생각만 해도 마음이 아파지지. 내 수많은 노래가 그녀에게서 나왔어.
 OrpheusMiscMeeting06|Orpheus Misc Meeting 06|Zagreus|엄청난 숫자인걸. 정말 놓치기 아까운 멋진 여자였던 것 같다. 그런 그녀를 잃다니 애석한 일이네. 그녀에 대한 너의 추억을 나와 공유해 줘서 고마워.
 OrpheusMiscMeeting06|Orpheus Misc Meeting 06|Orpheus|내 얘기를 들어 줘서 고마워, 친구. 에우리디케, 그녀도 항상 나에게 귀 기울여 줬었는데....
-OrpheusMiscMeeting06_B|Orpheus Misc Meeting B 06|Zagreus|에우리디케...? 나도 알아... 어쨌든, 에우리디케는 정말 선망의 대상이었지. 그런 그녀를 잃다니 애석한 일이네. 난 조사를 좀 해야겠어.
+OrpheusMiscMeeting06_B|Orpheus Misc Meeting 06 B|Zagreus|에우리디케...? 나도 알아... 어쨌든, 에우리디케는 정말 선망의 대상이었지. 그런 그녀를 잃다니 애석한 일이네. 난 조사를 좀 해야겠어.
 OrpheusMiscMeeting07|Orpheus Misc Meeting 07|Orpheus|타르타로스의 구덩이를 넘어서 꽤 먼 곳까지 여행했다면서? 너의 영웅다운 면모가 또 한 번 돋보이는구나. 솔직히 나 감동했어.
 OrpheusMiscMeeting07|Orpheus Misc Meeting 07|Zagreus|다시... 노래를 부르고 싶어질 만큼 감동한 건 아니고?
 OrpheusMiscMeeting07|Orpheus Misc Meeting 07|Orpheus|그런 식으로 연결 지을 줄 상상도 못 했어, 자그레우스. 아직 그럴 의지가 있는지 모르겠어... 좀 더 생각해 볼 시간이 필요한데 괜찮을까?
@@ -2939,10 +2939,10 @@ OrpheusPostEpilogue01|Orpheus Post Epilogue 01|Orpheus|알겠다! 이해했어. 
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|친구, 노래하는 거 말이야. 일단 한 번 더 시도해 보기로 했어. 마음에 들었으면 해.
 OrpheusSingsAgain01|Orpheus Sings Again 01|Zagreus|정말 잘됐다. 그럼 네 뮤즈를 찾은 거야?
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|아니, 뮤즈는 못 찾았어. 단지... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 내 삶을 계속해서 살아나가야 한다는 생각이 들더라고.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Zagreus|정말 잘됐다. 뮤즈가 있든 없든 네 노래는 언제나처럼 아름다워.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Zagreus|정말 아름다워, 친구. 에우리디케가 지금 너의 노래를 들을 수만 있다면.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Zagreus|정말 잘됐다. 뮤즈가 있든 없든 네 노래는 언제나처럼 아름다워.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Zagreus|정말 아름다워, 친구. 에우리디케가 지금 너의 노래를 들을 수만 있다면.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|저기, 오르페우스? 내가 아스포델의 용암 지대 안에서 땀 한 방울 안 흘리고 한 손으로 머리가 여럿 달린 뼈 히드라를 처치했다고 얘기한 적 있던가?
 OrpheusTallTale01|Orpheus Tall Tale 01|Orpheus|와, 정말 대단한 무용담인걸! 영웅의 업적을 다룬 이야기로 치면 그 어떤 영웅담보다 장대하고 심지어 저기 저쪽에 있는 아킬레우스보다도 위대한걸!
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|네가 그렇게 생각하 주니 기쁜걸! 내 용맹한 업적 이야기가 네게 영감을 주는 모양이군. 다른 업적이 생기면 또 와서 얘기해 줄게.
@@ -2972,16 +2972,16 @@ OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|그녀를 봤거든. �
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|단순히 아는 사이 그 이상이었어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|{#DialogueItalicFormat}아쉽게 됐네{#PreviousFormat}? 만약 내가 그녀를 다시 만난다면 혹시 전하고 싶은 말 같은 건 없는 거야? 아무 말이라도?
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|다시는 그녀를 괴롭게 하고 싶지 않아. 나에 대해서 아무 말도 하지 마. 알겠지? 그녀와의 추억이 있다는 것만으로 충분해.
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|저기, 오르페우스. 네가 안 믿을지도 모르겠는데. 최근 다녀온 여행에서 어떤 님프를 하나 만났는데 말이야. 에우리디케였어. 키가 큰 나무의 님프 말이야.
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|{#DialogueItalicFormat}뭐{#PreviousFormat}? 아... 정말로. 에우리디케가 너희 아버지의 영역에 있다는 건 알고 있었지만... 네가 설마 그녀와 만나게 될 줄은 몰랐어. 확실한 거야?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|그녀를 봤거든. 아스포델에서. 거기서 잘 지내고 있더라고. 혼자서 말이야. 두 사람이 아주 가까운 사이라고 했지?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|그 이상의 관계였어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|저기, 오르페우스. 네가 안 믿을지도 모르겠는데. 최근 다녀온 여행에서 어떤 님프를 하나 만났는데 말이야. 에우리디케였어. 키가 큰 나무의 님프 말이야.
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|{#DialogueItalicFormat}뭐{#PreviousFormat}? 아... 정말로. 에우리디케가 너희 아버지의 영역에 있다는 건 알고 있었지만... 네가 설마 그녀와 만나게 될 줄은 몰랐어. 확실한 거야?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|그녀를 봤거든. 아스포델에서. 거기서 잘 지내고 있더라고. 혼자서 말이야. 두 사람이 아주 가까운 사이라고 했지?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|그 이상의 관계였어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|오르페우스, 에우리디케를 다시 만났어. 실은... 네 부탁대로 하지 못했어. 네 얘기를... 하고 말았거든.
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|{#DialogueItalicFormat}뭘 {#PreviousFormat}했다고?! 아니, 내가 하려던 말은 그러니까. 오. 혹시 그녀가 나를 아직도 미워하고 있다거나 그런 인상을 받진 않았어?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 두 사람 사이에 무슨 일이 있었던 거야? 물어봐도 될까?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|아, 그게 말이지... 내가 여전히 살아 숨 쉬고 있을 때 그녀의 영혼을 이곳에서 거의 구할 뻔했는데. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 정말로 지하세계에서 그녀를 구출할 뻔한 거야?
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Orpheus|거의 그럴 뻔했지. 거의. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 정말로 지하세계에서 그녀를 구출할 뻔한 거야?
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Orpheus|거의 그럴 뻔했지. 거의. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|제발 나에게 말해 줘, 자그레우스. 그녀는 요즘 어떻게 지내고 있어? 에우리디케 말이야. 머리카락은? 어떤 빛깔이야? 많이 자랐어? 오크 나무처럼 당당하고 유연한 태도는 그대로인가?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Zagreus|잘 지내고 있어, 오르페우스. 아스포델의 작은 집에서 편히 지내고 있는 것 같아. 유일하게 불편한 심기를 드러낸 건... 네 이름을 언급했을 때야. 둘이 화해할 수 있는 무슨 방법이 없을까?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|아아, 과거는 돌이킬 수 없어. 너도 봐서 잘 알겠지만 그녀에게 나는 없는 존재나 마찬가지야. 그렇게 생각하는 게 당연하지.
@@ -2997,10 +2997,10 @@ OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|모든 건 에우리디
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|하지만 유명해진 건 너잖아? 왜 그녀와 명성을 나눠 갖지 않은 건지 이해가 안 가.
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|삶의 부당함 중 하나겠지. 그래도 기회가 생길 때마다 그녀를 칭송하는 노래를 부르곤 했어. 그녀도 자기의 권위는 확고히 내세우는 성격이었으니까. 그런데도 우리 노래를 듣는 사람들은 그 노래들이 내 작품이라고 믿었어... 그런 와중에 내가 뭘 할 수 있었겠어?
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|필멸자들의 사고방식에 대해서는 난 잘 몰라. 하지만 네가 그녀의 공을 언제나 마땅히 인정해 준다는 얘길 들으니 기쁘네.
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|오르페우스, 에우리디케가 곡에 기여한 만큼 인정을 받지 못한다는 것이 불공정하다고 했잖아. 우리가 할 수 있는 일은 없을까?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|모르겠네, 친구여. 한 번 사람들이 생각을 굳히고 나면... 다른 가능성이 존재함을 보여주기가 쉽지 않더군. 뭘 할 수 있겠나?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|모르겠어... 아니라고 말해 줄까? 정중하게? 아니면... 뭐가 맞는지 알려주는 거야. 소문을 낼까? 그렇게 할 수 있어?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|소문을 낸다고...? 하지만 나는 이 집의 궁정 악사야. 내 노래가 많은 이들의 귀에 닿지는 못한다네. 다만... 저 혼령들... 저들 또한 나의 청중이지. 내가 누가 쓴 노래를 부르는지 저들이 알게 해아겠어.
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|오르페우스, 에우리디케가 곡에 기여한 만큼 인정을 받지 못한다는 것이 불공정하다고 했잖아. 우리가 할 수 있는 일은 없을까?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|모르겠네, 친구여. 한 번 사람들이 생각을 굳히고 나면... 다른 가능성이 존재함을 보여주기가 쉽지 않더군. 뭘 할 수 있겠나?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|모르겠어... 아니라고 말해 줄까? 정중하게? 아니면... 뭐가 맞는지 알려주는 거야. 소문을 낼까? 그렇게 할 수 있어?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|소문을 낸다고...? 하지만 나는 이 집의 궁정 악사야. 내 노래가 많은 이들의 귀에 닿지는 못한다네. 다만... 저 혼령들... 저들 또한 나의 청중이지. 내가 누가 쓴 노래를 부르는지 저들이 알게 해아겠어.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|너한테 고백할 게 하나 있는데. 내 마음은 여전히, 그것도 아주 자주 에우리디케와 그녀에 대한 추억 속에서 헤매곤 해. 내 현실을 우선시하려는 노력에도 불구하고 말이야. 치명적 결함이라고 부르고 싶지만 난 이미 죽은 존재라 그마저도 어울리지 않네.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|자신을 너무 책망하지 마. 그동안 많은 일을 겪었잖아. 그녀 역시 그랬을 테고! 여전히 서로를 아끼면서도 그 마음을 제대로 전할 방법이 없는 것뿐이야. 나한테 좋은 생각이 있어.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|나에게도 좋은 생각이 떠올랐던 때가 있었어, 자그레우스. 아이디어, 영감, 그런 것들. 뮤즈가 있을 땐 모든 게 정말 황홀했어...
@@ -3049,8 +3049,8 @@ OrpheusGift03|Orpheus Gift 03|Orpheus|{#DialogueItalicFormat}오{#PreviousFormat
 OrpheusGift03|Orpheus Gift 03|Zagreus|별거 아니야, 오르페우스. 노래를 통해 감동을 선사해 줘서 고마워. 난 네 음악이 정말 좋아.
 OrpheusGift04|Orpheus Gift 04|Orpheus|넌 항상 나에게 과할 만큼 친절했어. 그거 알아, 친구? 보통 난 고마움을 노래로 표현하지만 지금 내 상황 이해하지?
 OrpheusGift04|Orpheus Gift 04|Zagreus|얼마든지 이해해, 오르페우스 때가 되면 너나 나나 이 힘든 시기를 이겨 낼 수 있을 거야.
-OrpheusGift04_B|Orpheus Gift B 04|Orpheus|자네는 항상 내 갈증을 해소할 길을 열어주는군, 친구. 지금도 내게 그런 감정이 있다는 것이 놀랍네.
-OrpheusGift04_B|Orpheus Gift B 04|Zagreus|다시 노래하기 시작했으니, 목말라할 것 같았어! 네 음악은 이곳의 많은 영혼에게 감명을 준다고.
+OrpheusGift04_B|Orpheus Gift 04 B|Orpheus|자네는 항상 내 갈증을 해소할 길을 열어주는군, 친구. 지금도 내게 그런 감정이 있다는 것이 놀랍네.
+OrpheusGift04_B|Orpheus Gift 04 B|Zagreus|다시 노래하기 시작했으니, 목말라할 것 같았어! 네 음악은 이곳의 많은 영혼에게 감명을 준다고.
 OrpheusGift05|Orpheus Gift 05|Zagreus|이봐, 친구. 휴게실에 가서 같이 마실래?
 OrpheusGift05|Orpheus Gift 05|Orpheus|오, 글쎄 난... 그래. 안 갈 이유가 없지. 지금 딱히 해야 할 일이 있는 것도 아니고 말이야...
 OrpheusGift05|Orpheus Gift 05|Orpheus|...그나저나 뒤돌아보지 말았어야 했어. 그러니까 이야기의 교훈은 뒤돌아보지 말랬으면 뒤돌아보지 않는 건데. 내 말 무슨 말인지 알지,친구?
@@ -3076,8 +3076,8 @@ OrpheusWithEurydiceEndTheme01|Orpheus With Eurydice End Theme 01|Orpheus|오. �
 MegaeraMeeting01|Megaera Meeting 01|Megaera|쯧쯧. 탕아가 돌아왔네.... 다들 내가 널 많이 봐줬다고 하던데, 자그레우스.
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|걱정하지 마, 메가이라. 결국에는 고통스러운 과정을 겪고 집에 돌아왔으니.
 MegaeraMeeting01|Megaera Meeting 01|Megaera|나한테도 나름 지켜야 할 평판이란 게 있다고. 또 한 번 날 그냥 그렇게 지나갈 거면 끝까지 갈 각오하는 게 좋을 거야. 자, 이만하고, 다음번에 나와 다시 만나면 이번처럼 운이 좋지 않을 거야.
-MegaeraMeeting01_B|Megaera Meeting B 01|Zagreus|걱정하지 마, 메가이라. 결국 나는 고통스러운 방법으로 간신히 집에 돌아왔지만... 난 네가 생각한 것보다 훨씬 멀리 갈 수도 있었어.
-MegaeraMeeting01_B|Megaera Meeting B 01|Megaera|날 지나갈 생각은 않는 게 좋을 거야. 난 평판을 소중히 하거든. 다음에 밖에서 만나면 그렇게 운이 좋지 못할 걸.
+MegaeraMeeting01_B|Megaera Meeting 01 B|Zagreus|걱정하지 마, 메가이라. 결국 나는 고통스러운 방법으로 간신히 집에 돌아왔지만... 난 네가 생각한 것보다 훨씬 멀리 갈 수도 있었어.
+MegaeraMeeting01_B|Megaera Meeting 01 B|Megaera|날 지나갈 생각은 않는 게 좋을 거야. 난 평판을 소중히 하거든. 다음에 밖에서 만나면 그렇게 운이 좋지 못할 걸.
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|있지, {#DialogueItalicFormat}어{#PreviousFormat}, 네가 마시는 게 뭐야, 메가이라? 좋은 거야?
 MegaeraMeeting02|Megaera Meeting 02|Megaera|뭔지 모르겠지만 굉장히 약해. 너무 약해서 네 피인 줄 알았잖아.
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|좋아! 그럼 난 갈 테니 실컷 즐기라고.
@@ -3099,13 +3099,13 @@ MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|메가이라, 어떻�
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|{#DialogueItalicFormat}쳇{#PreviousFormat}... 아주 온 집안이 다 듣도록 소리를 지르지 그러니. 그게 네가 원하는 거야? 네가 나보다 더 잘났다는 걸 사방팔방 알리는 거?
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|내 말을 좀 들어 봐, 메가이라. 계속 죽도록 서로 싸워 놓고 이런 소리 하는 것도 웃기지만... 널 다치게 할 마음은 없었어.
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|넌 스스로를 너무 과대평가하고 있어, 자그레우스. 그러니 지금은 날 귀찮게 하지 마.
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|이러려고 여기 온 거 아니야. 내가 그런 사람 아닌 거 알잖아. 왜 모르는 거야? 난 그저 내 자신을 네게 증명하고 싶을 뿐이야.
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|쳇... 싸워서 이긴다고 너 자신이 증명될 것 같아?
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|때로는 널 절대 못 이길 것처럼 느껴져, 메가이라. 내가 물러났으면 네가 뭐라고 생각했겠어?
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|날 잘 안다고 생각하나 본데, 그럼 이렇게 계속 떠들어 봐야 좋을 게 없다는 것도 알아야지.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|믿을 수가 없어, 자그레우스. 네가 날 이길 수 있는 건 당연히 닉스의 거울 때문이라고 생각했는데. 네가 좀 바뀌었다는 것도 알고는 있었는데... 이 정도일 줄이야.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Zagreus|내가 할 수 있는지 확인해야 했어, 메가이라. 난 내게서 정말 많은 걸 배웠어. 난... 이렇게 하면 너에게 나를 증명할 수 있을 거라고 생각한 거야. 그리고 나 자신에게도.
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|널 나에게 증명한다고...? 지금 네 모습으로는 만족하지 못하는 모양이네. 내가 너의 그런 면을 좋아하는지 모르겠군. 생각을 좀 하고 싶으니까 이제 날 내버려 둬.
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|이러려고 여기 온 거 아니야. 내가 그런 사람 아닌 거 알잖아. 왜 모르는 거야? 난 그저 내 자신을 네게 증명하고 싶을 뿐이야.
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|쳇... 싸워서 이긴다고 너 자신이 증명될 것 같아?
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|때로는 널 절대 못 이길 것처럼 느껴져, 메가이라. 내가 물러났으면 네가 뭐라고 생각했겠어?
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|날 잘 안다고 생각하나 본데, 그럼 이렇게 계속 떠들어 봐야 좋을 게 없다는 것도 알아야지.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|믿을 수가 없어, 자그레우스. 네가 날 이길 수 있는 건 당연히 닉스의 거울 때문이라고 생각했는데. 네가 좀 바뀌었다는 것도 알고는 있었는데... 이 정도일 줄이야.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Zagreus|내가 할 수 있는지 확인해야 했어, 메가이라. 난 내게서 정말 많은 걸 배웠어. 난... 이렇게 하면 너에게 나를 증명할 수 있을 거라고 생각한 거야. 그리고 나 자신에게도.
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|널 나에게 증명한다고...? 지금 네 모습으로는 만족하지 못하는 모양이네. 내가 너의 그런 면을 좋아하는지 모르겠군. 생각을 좀 하고 싶으니까 이제 날 내버려 둬.
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|자그레우스, 네가 서명한 그 형벌 규약은 어떻게 되어 가고 있어? 지하세계에 굉장히 의미 있는 발전을 불러왔던데.
 MegaeraPactProgress01|Megaera Pact Progress 01|Zagreus|난 싸워서 이곳에서 나가든가, 나갈 권리를 얻고 말 거야. 규약은 그저 분위기를 환기하는 방법일 뿐 나한테 그 외의 의미는 없어.
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|너 착각이 심하구나. 너와 네 아버지는 정말 알다가도 모르겠어. 아무튼, 더 많은 형벌을 원한다면 언제든 날 찾아와.
@@ -3150,9 +3150,9 @@ MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|이봐, 자그�
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|우리 사이에 일어난 일을 후회하느냐고 묻는다면, 내 대답은 '아니다'야. 너와 함께 있는 건... 그 어떤 복잡함이라도 감수할 가치가 있어.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|말하지 않아도 돼. 계속하고 싶으면 두 가지 규칙이 있어. 첫째... 밖에서 만났을 때는 개인적인 감정을 접어둘 것. 내가 널 봐 준다는 소리는 듣고 싶지 않거든. 그리고 둘째... 네가 최근에 보여준 성숙한 행동을 조금만 더 자주 보여줄 것.
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|다시 철부지 어린 시절로 돌아갈 생각은 없으니, 둘째 조건은 문제가 안 될 거야. 하지만 첫째는... 정말 우리 아무 일 없었다는 듯이 서로 죽여야만 하는 거야?
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}... 집어치워, 자그레우스. 그렇게 날 볼 때마다 불편하게 굴 거야? 너무 과하잖아.
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Zagreus|아니, 그냥... 널 거절해서 기분이 너무 별로야. 그냥... 내가 요새 너무 혼란스러워서 그래. 그리고... 난 널 믿어. 넌 내가 믿고 대화할 수 있는 상대라고. 아마 난... 그런 상대를 잃기 싫은가 봐.
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|바보처럼 굴지 마. 그럴 일 없으니까. 우리 함께 많은 일을 겪었잖아. 같이 자랐고. 이 특별한 관계는... 그렇게 쉽지 깨지지 않을 거야.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|{#DialogueItalicFormat}쯧{#PreviousFormat}... 집어치워, 자그레우스. 그렇게 날 볼 때마다 불편하게 굴 거야? 너무 과하잖아.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Zagreus|아니, 그냥... 널 거절해서 기분이 너무 별로야. 그냥... 내가 요새 너무 혼란스러워서 그래. 그리고... 난 널 믿어. 넌 내가 믿고 대화할 수 있는 상대라고. 아마 난... 그런 상대를 잃기 싫은가 봐.
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|바보처럼 굴지 마. 그럴 일 없으니까. 우리 함께 많은 일을 겪었잖아. 같이 자랐고. 이 특별한 관계는... 그렇게 쉽지 깨지지 않을 거야.
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|다들 우리 사이를 아는 것 같아, 메가이라. 심지어 아프로디테 님도 아는가 보던데. 우리가 남들 앞에서 자랑한 것도 아닌데 말이야. 넌 알리고 싶지 않았지?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|자그레우스. 넌 우리 사이가 만족스러워? 아니면 불만이야?
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|음, 난 서로 죽이는 걸 하지 않는 편이 좋기는 해. 그건 아직도 좀 이상하거든. 하지만 나머지는... 그래... 행복해. 넌 {#DialogueItalicFormat}너{#PreviousFormat}잖아.
@@ -3294,9 +3294,9 @@ MegaeraGift10|Megaera Gift 10|Megaera|{#DialogueItalicFormat}하하하{#Previous
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|안녕하세요, 자그레우스 왕자님. 행여나 내가 게으름 피우고 있다고 오해할까 봐 말인데... 다시 돌덩어리를 들으러 갈 참이었어요. 퓨리 자매들이 잠시라도 날 가만 놔둬야 말이죠. 그나저나 다들 어딜 간 거지? 그러는... 왕자님은 여기서 뭘 하는 거죠?
 SisyphusFirstMeeting|Sisyphus First Meeting|Zagreus|아, 그냥 잠깐 산책 중이었어요. 부탁 하나만 들어줘요. 퓨리 자매를 만나면 내가 온 길을 따라 내려갔다고 알려 줘요. 그래 줄 수 있죠?
 SisyphusFirstMeeting|Sisyphus First Meeting|Sisyphus|알려 주고 말고요. 무슨 말인지 알겠어요, 왕자님. 난 이만 가서 내 일 해야겠네요. 몸조심하세요.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|자그레우스 왕자님, 이렇게 오랜 시간이 지나고 나서 다시 만나 뵙게 될 줄은 몰랐습니다. 집에 무슨 문제라도 생겼나요? 그냥요, 요즘에는 누굴 만날 일이 없어서요.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Zagreus|아, 집에 문제야 항상 있죠. 타르타로스를 좀 더 자주 점검해야겠다는 생각이 들어서요.
-SisyphusMeeting02_A|Sisyphus Meeting A 02|Sisyphus|저와 여기 늙은 돌덩이 모두 감사드립니다. 저는 이 오랜 형벌을 받는 데 익숙해지긴 했지만, 그래도 가끔 방문객을 맞이하는 것은 좋은 일이지요!
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|자그레우스 왕자님, 이렇게 오랜 시간이 지나고 나서 다시 만나 뵙게 될 줄은 몰랐습니다. 집에 무슨 문제라도 생겼나요? 그냥요, 요즘에는 누굴 만날 일이 없어서요.
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Zagreus|아, 집에 문제야 항상 있죠. 타르타로스를 좀 더 자주 점검해야겠다는 생각이 들어서요.
+SisyphusMeeting02_A|Sisyphus Meeting 02 A|Sisyphus|저와 여기 늙은 돌덩이 모두 감사드립니다. 저는 이 오랜 형벌을 받는 데 익숙해지긴 했지만, 그래도 가끔 방문객을 맞이하는 것은 좋은 일이지요!
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|감히 이런 말씀 드려도 될지 모르겠지만... 궁금해서 그런데 어쩌다 다시 여기로 돌아오게 된 건지...? 지난번과 같은 이야기인가요?
 SisyphusMeeting02|Sisyphus Meeting 02|Zagreus|시시포스, 당신한테만은 솔직히 말할게요. 집을 떠나려고 해요. 이제 도저히 참을 수가 없어서요. 당신은 이해하시잖아요. 지상으로 갈 거예요.
 SisyphusMeeting02|Sisyphus Meeting 02|Sisyphus|{#DialogueItalicFormat}어휴{#PreviousFormat}, 엄청난 일을 벌이셨네요, 왕자님. 솔직히 왕자님만 아니었다면 미친 짓이라고 쏴붙였을 텐데. 진짜로 밀어붙이다니 제정신이 아닌 것 같긴 하지만! 뭐가 됐든 꼭 성공하셨으면 해요. 바깥에서 행운이 따르길 빕니다!
@@ -3430,16 +3430,16 @@ SisyphusAboutLegendary01|Sisyphus About Legendary 01|Zagreus|그럼요. 이 친�
 SisyphusAboutLegendary01|Sisyphus About Legendary 01|Sisyphus|그렇습니다, 폐하. 하지만 제게는 누구보다도 좋은 친구가 바로 저기에 있습니다. 그리고 셰이디는 지하세계 이곳저곳을 구경하고 싶어한답니다. 안전한 여행 되시길!
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Zagreus|시시포스, 셰이디가 어떤 힘을 가졌는지 아세요? 방금 저 밖으로 당신과 돌덩이를 데려와서 저를 돕게 했어요. 어떻게 된 영문인지 모르겠어요. 여기 갇혀 있었던 것 아니에요?
 SisyphusAboutLegendary02|Sisyphus About Legendary 02|Sisyphus|왕자님, 제가 혼령으로 늘 함께하겠다고 말씀드렸죠? 제 생각에 그건 셰이디의 힘이 아닐 겁니다. 돌덩이나 저의 숨겨진 힘도 아니고요. 단지 저희 우정의 증거일 뿐입니다. 신 여러분은 전능하시니까요!
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Zagreus|가 버렸군... 괜찮아, 시시포스? 다친 데는 없어?
-MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus Follow Up 01|Sisyphus|저는 멀쩡합니다. 감사합니다, 왕자님. 그 분노 자매님, 보통이 아니시군요. 힘이 아주 강하십니다. 여기 이 늙은 돌덩이를 저보다 더 잘 미실 것 같아요!
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Zagreus|정말 돌덩이를 정상에 올려본 적이 없다고?
-MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus Follow Up 02|Sisyphus|단 한 번도 바위를 꼭대기까지 올리지 못했어요. 정상까지 바위를 올리면 그때마다 항상 맨 아래로 떨어져 버리거든요. 1만9천 번을 시도했지만 모두 그렇게 실패했죠. 하지만 그거 아세요? 언젠가는 이 바위를 꼭 올려놓게 될 겁니다.
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|시시포스, 메가이라가 방금 이제 건드리지 않겠다고 한 거 맞죠? 시시포스와 돌덩이 둘 다요?
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Sisyphus|들으셨습니까, 왕자님! 운명의 세 자매가 마침내 저를 쉬게 해주려나 봅니다. 비록 분노의 세 자매는 왕자님을 처리한 뒤에 다시 저를 괴롭히겠다고 선언하긴 했습니다만...
-MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus Follow Up 03|Zagreus|제가 그 친구를 조금 바쁘게 만들 수 있을 거예요. 잘된 일이죠.
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|자그레우스 왕자님! 세상이 너무 고요해서 왕자님의 딱딱한 친구분을 그리워하던 참이었습니다. 당분간은 이곳에 오지 않을 모양이더군요.
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Zagreus|타나토스는 알고 보면 그렇게 나쁜 친구가 아니에요. 제 말을 믿으실지 모르겠지만.
-ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus Follow Up 03|Sisyphus|오, 믿고말고요, 왕자님. 죽음을 가져다 주는 일을 하면 외롭겠지요. 가끔은 돌덩이를 밀어보는 것도 좋을 텐데요!
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Zagreus|가 버렸군... 괜찮아, 시시포스? 다친 데는 없어?
+MegaeraWithSisyphus01_FollowUp|Megaera With Sisyphus 01 Follow Up|Sisyphus|저는 멀쩡합니다. 감사합니다, 왕자님. 그 분노 자매님, 보통이 아니시군요. 힘이 아주 강하십니다. 여기 이 늙은 돌덩이를 저보다 더 잘 미실 것 같아요!
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Zagreus|정말 돌덩이를 정상에 올려본 적이 없다고?
+MegaeraWithSisyphus02_FollowUp|Megaera With Sisyphus 02 Follow Up|Sisyphus|단 한 번도 바위를 꼭대기까지 올리지 못했어요. 정상까지 바위를 올리면 그때마다 항상 맨 아래로 떨어져 버리거든요. 1만9천 번을 시도했지만 모두 그렇게 실패했죠. 하지만 그거 아세요? 언젠가는 이 바위를 꼭 올려놓게 될 겁니다.
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|시시포스, 메가이라가 방금 이제 건드리지 않겠다고 한 거 맞죠? 시시포스와 돌덩이 둘 다요?
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Sisyphus|들으셨습니까, 왕자님! 운명의 세 자매가 마침내 저를 쉬게 해주려나 봅니다. 비록 분노의 세 자매는 왕자님을 처리한 뒤에 다시 저를 괴롭히겠다고 선언하긴 했습니다만...
+MegaeraWithSisyphus03_FollowUp|Megaera With Sisyphus 03 Follow Up|Zagreus|제가 그 친구를 조금 바쁘게 만들 수 있을 거예요. 잘된 일이죠.
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|자그레우스 왕자님! 세상이 너무 고요해서 왕자님의 딱딱한 친구분을 그리워하던 참이었습니다. 당분간은 이곳에 오지 않을 모양이더군요.
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Zagreus|타나토스는 알고 보면 그렇게 나쁜 친구가 아니에요. 제 말을 믿으실지 모르겠지만.
+ThanatosWithSisyphus03_FollowUp|Thanatos With Sisyphus 03 Follow Up|Sisyphus|오, 믿고말고요, 왕자님. 죽음을 가져다 주는 일을 하면 외롭겠지요. 가끔은 돌덩이를 밀어보는 것도 좋을 텐데요!
 SisyphusGift01|Sisyphus Gift 01|Zagreus|안녕하세요, 이거라면 당분간 부담을 덜어주지 않을까 해서요.
 SisyphusGift01|Sisyphus Gift 01|Sisyphus|잠깐만요. 이걸 제가 어떻게 받겠어요. 최소한 보답으로 뭐라도 드려야지. 여기 있네요!
 SisyphusGift02|Sisyphus Gift 02|Sisyphus|맙소사. 정말 저한테 주시려는 건가요? 하지만 전 그저... 저한테 왜...?
@@ -3452,19 +3452,19 @@ SisyphusGift05|Sisyphus Gift 05|Sisyphus|과찬의 말씀이십니다! 저한테
 SisyphusGift05|Sisyphus Gift 05|Zagreus|돌만 옮기는 것보단 뭔가 의미 있는 걸 할 수 있지 않을까 싶었어요.
 SisyphusGift06|Sisyphus Gift 06|Sisyphus|오, 하지만 이건 너무 과분한 선물인걸요. 왕자님, 정말 감사합니다. 이 은혜를 어떻게 갚아야 할지 모르겠네요.
 SisyphusGift06|Sisyphus Gift 06|Zagreus|내가 너무 빨리 죽지 않도록 계속 도와준다면 그걸로 족해요.
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|시시포스, 제게 아무 것도 요구하지 않으면서 항상 최선을 다해 도와주시는군요.. 감사하다는 말씀을 드리고 싶어요. 그리고 이것을 가져왔어요. 특별한 날을 위해서요!
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|오오, 왕자님, 이건...? 맞아요...! 병에 담긴 것은 거의 본 적도 없습니다! 정말 감사드립니다! 하지만 저는 이처럼 훌륭한 선물을 받을 수 없습니다. 다만...
-SisyphusGift07_A|Sisyphus Gift A 07|Zagreus|다만...? 에이, 지금 저한테 대가로 뭘 주려고 하는 거죠? 이건 거래가 아니고 선물이라고요. 잠깐, 그건 뭔가요?
-SisyphusGift07_A|Sisyphus Gift A 07|Sisyphus|이 작은 친구는 돌덩이가 눈에 띄지 않는 곳에서 돌봐 온 녀석입니다. 앞으로 어디를 가시든 이 친구가 동료가 되어 드릴 겁니다. 그리고 이 친구가 함께 있을 때에는 저와 돌덩이도 혼령으로 함께할 거고요.
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|왕자님, 지난번에 주신 빈티지 암브로시아 말입니다. 세상에! 제가 그동안 맛봤던 것 중에 최고였습니다! 돌덩이도 아주 좋아하더군요!
-SisyphusGift08_A|Sisyphus Gift A 08|Zagreus|좋아하실 줄 알았어요. 그래서 여기 하나 더 가져왔답니다! 올림포스에서 물건을 들여오는 일이 거의 없다는 사실이 아쉬울 정도였습니다. 언젠가는 제가 직접 음미할 수 있기를 바랍니다. 이 모든 일이 다 정리되고 나면 말이죠.
-SisyphusGift08_A|Sisyphus Gift A 08|Sisyphus|아니, 이전에는 한 번도 건드리지 않았다는 거예요? 저보다 자제력이 훨씬 뛰어나시네요. 언젠가는 우리 둘이 함께 나눌 기회가 있겠죠!
-SisyphusGift08_B|Sisyphus Gift B 08|Zagreus|좋아하실 줄 알았어요. 그래서 여기 하나 더 가져왔답니다! 올림포스에서 물건을 들여오는 일이 거의 없다는 사실이 아쉬울 정도였습니다.
-SisyphusGift08_B|Sisyphus Gift B 08|Sisyphus|아, 왕자님이 가져다 주신 것을 좀 봐, 돌덩이야! 언젠가 우리가 함께 나눠 먹을 날이 올지도 몰라.
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|저 같은 자에게 이런 호의를 베푸시다니. 제가 이곳에 온 이유를 알고 계시죠, 왕자님? 왕자님의 아버지와 착한 타나토스가 저를 버렸기 때문만은 아닙니다. 그럼에도 왕자님은 제가 왕이었을 때 이후로 경험한 적 없는 품위를 보여주셨습니다. 어쩌면 왕이었을 때조차 경험한 적 없을지도 모릅니다.
-SisyphusGift09_A|Sisyphus Gift A 09|Zagreus|당신이 과거 어떤 사람이었는지는 모르겠지만, 이제는 달라졌다고 믿어요. 당신이 제 친구인 것이 자랑스러워요. 저기 돌덩이도 말이에요. 이렇게 말하면 이상하지만, 당신이 여기 와서 기뻐요. 그동안 당신에게서 정말 많은 것을 배웠으니까요.
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|영광입니다, 폐하. 폐하와 친구가 된 것은 저 같은 미천한 자가 누릴 수 있는 최고의 영예입니다. 그렇지 않니, 돌덩이야?
-SisyphusGift09_A|Sisyphus Gift A 09|Sisyphus|이걸 가지고 가십시오, 자그레우스 왕자님. 돌덩이도 그러라고 하더군요.
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|시시포스, 제게 아무 것도 요구하지 않으면서 항상 최선을 다해 도와주시는군요.. 감사하다는 말씀을 드리고 싶어요. 그리고 이것을 가져왔어요. 특별한 날을 위해서요!
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|오오, 왕자님, 이건...? 맞아요...! 병에 담긴 것은 거의 본 적도 없습니다! 정말 감사드립니다! 하지만 저는 이처럼 훌륭한 선물을 받을 수 없습니다. 다만...
+SisyphusGift07_A|Sisyphus Gift 07 A|Zagreus|다만...? 에이, 지금 저한테 대가로 뭘 주려고 하는 거죠? 이건 거래가 아니고 선물이라고요. 잠깐, 그건 뭔가요?
+SisyphusGift07_A|Sisyphus Gift 07 A|Sisyphus|이 작은 친구는 돌덩이가 눈에 띄지 않는 곳에서 돌봐 온 녀석입니다. 앞으로 어디를 가시든 이 친구가 동료가 되어 드릴 겁니다. 그리고 이 친구가 함께 있을 때에는 저와 돌덩이도 혼령으로 함께할 거고요.
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|왕자님, 지난번에 주신 빈티지 암브로시아 말입니다. 세상에! 제가 그동안 맛봤던 것 중에 최고였습니다! 돌덩이도 아주 좋아하더군요!
+SisyphusGift08_A|Sisyphus Gift 08 A|Zagreus|좋아하실 줄 알았어요. 그래서 여기 하나 더 가져왔답니다! 올림포스에서 물건을 들여오는 일이 거의 없다는 사실이 아쉬울 정도였습니다. 언젠가는 제가 직접 음미할 수 있기를 바랍니다. 이 모든 일이 다 정리되고 나면 말이죠.
+SisyphusGift08_A|Sisyphus Gift 08 A|Sisyphus|아니, 이전에는 한 번도 건드리지 않았다는 거예요? 저보다 자제력이 훨씬 뛰어나시네요. 언젠가는 우리 둘이 함께 나눌 기회가 있겠죠!
+SisyphusGift08_B|Sisyphus Gift 08 B|Zagreus|좋아하실 줄 알았어요. 그래서 여기 하나 더 가져왔답니다! 올림포스에서 물건을 들여오는 일이 거의 없다는 사실이 아쉬울 정도였습니다.
+SisyphusGift08_B|Sisyphus Gift 08 B|Sisyphus|아, 왕자님이 가져다 주신 것을 좀 봐, 돌덩이야! 언젠가 우리가 함께 나눠 먹을 날이 올지도 몰라.
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|저 같은 자에게 이런 호의를 베푸시다니. 제가 이곳에 온 이유를 알고 계시죠, 왕자님? 왕자님의 아버지와 착한 타나토스가 저를 버렸기 때문만은 아닙니다. 그럼에도 왕자님은 제가 왕이었을 때 이후로 경험한 적 없는 품위를 보여주셨습니다. 어쩌면 왕이었을 때조차 경험한 적 없을지도 모릅니다.
+SisyphusGift09_A|Sisyphus Gift 09 A|Zagreus|당신이 과거 어떤 사람이었는지는 모르겠지만, 이제는 달라졌다고 믿어요. 당신이 제 친구인 것이 자랑스러워요. 저기 돌덩이도 말이에요. 이렇게 말하면 이상하지만, 당신이 여기 와서 기뻐요. 그동안 당신에게서 정말 많은 것을 배웠으니까요.
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|영광입니다, 폐하. 폐하와 친구가 된 것은 저 같은 미천한 자가 누릴 수 있는 최고의 영예입니다. 그렇지 않니, 돌덩이야?
+SisyphusGift09_A|Sisyphus Gift 09 A|Sisyphus|이걸 가지고 가십시오, 자그레우스 왕자님. 돌덩이도 그러라고 하더군요.
 SisyphusGift07|Sisyphus Gift 07|Sisyphus|잠시만요. 이걸, 절 주려 하신다고요? 진심이세요, 왕자님? 거절하려는 건 아니지만. 제가 감히 어떻게 거절하겠어요? 감사합니다! 정말 감사합니다.
 SisyphusGift07|Sisyphus Gift 07|Zagreus|천만에요. 절 위해 많은 걸 해 주셨는데 이 정도야 아무것도 아니죠.
 SisyphusGift08|Sisyphus Gift 08|Sisyphus|...왕자님, 몸 둘 바를 모르겠네요. 전 그저 벌을 받는 혼령일 뿐인데. 왕자님에게 이런 은총을 받다니 가당치 않습니다.
@@ -3516,7 +3516,7 @@ PatroclusMeeting05|Patroclus Meeting 05|Patroclus|실망스럽겠지만 당신�
 PatroclusMeeting06|Patroclus Meeting 06|Patroclus|이방인이여, 내 경고하는데, 자꾸 이런 식으로 나타나면 새로 별명을 지어 줄 수밖에 없다는 걸 명심하시오.
 PatroclusMeeting06|Patroclus Meeting 06|Zagreus|뭘 또 그렇게까지 하세요. 무리하실 필요 없어요. 우린 그냥 아는 사이일 뿐인데. 나도 당신에 대해 아무것도 모른다고요.
 PatroclusMeeting06|Patroclus Meeting 06|Patroclus|모르는 편이 나을 거요. 이곳은 위대한 그리스인들을 위한 곳이오. 내가 그 기준에 맞는다고 보시오? 가서 테세우스나 그런 부류와 대화를 나누는 게 훨씬 나을 거요.
-PatroclusMeeting06B|Patroclus Meeting B 06|Zagreus|뭘 또 그렇게까지 하세요. 무리하실 필요 없어요. 여기선 저도 이방인 같은 기분이 드네요. 오래 머무를 생각 전혀 없어요.
+PatroclusMeeting06B|Patroclus Meeting 06 B|Zagreus|뭘 또 그렇게까지 하세요. 무리하실 필요 없어요. 여기선 저도 이방인 같은 기분이 드네요. 오래 머무를 생각 전혀 없어요.
 PatroclusMeeting07|Patroclus Meeting 07|Patroclus|이방인이여, 괜찮다면 말해 보시오. 어째서 자꾸 나와 마주치는 거요...? 이곳은 엘리시움에서도 가장 구석진 곳인데.
 PatroclusMeeting07|Patroclus Meeting 07|Zagreus|지하세계의 방이 계속 이동하다 보니 종종 그렇게 되네요. 우리가 만나는 건 그저 우연일 뿐이에요.
 PatroclusMeeting07|Patroclus Meeting 07|Patroclus|터무니없는 우연의 연속은 운명의 세 자매가 개입했다는 뜻일 거요, 아마도. 당신을 믿어야 할지 말아야 할지 모르겠지만 확실한 건 지금 당장 당신이 떠났으면 하는 거요.
@@ -3530,43 +3530,43 @@ PatroclusMeeting10|Patroclus Meeting 10|Zagreus|근처에 레테의 강이 있�
 PatroclusMeeting10|Patroclus Meeting 10|Patroclus|아주 끌리는 말이로군. 가끔은 한 모금씩 마시기도 하오. 하지만 아직은 포기할 수 없는 기억이 있지.
 PatroclusMeeting11|Patroclus Meeting 11|Zagreus|이 빈터를 떠나고 싶은 생각은 안 들었나요? 엘리시움은 아름다운 곳인데... 볼 것이 많아요. 계속 여기 있을 건가요?
 PatroclusMeeting11|Patroclus Meeting 11|Patroclus|그럴 생각은 없소, 이방인. 살아 숨쉴 적에 많은 곳을 여행했소. 덕분에 방랑벽은 사라졌지. 지금은 이 구석이 내게 잘 맞는다오. 저기 석상도 있고, 강도 있고... 제법 괜찮은 곳이오.
-PatroclusAboutBracer01A|Patroclus About Bracer A 01|Patroclus|이방인이여, 손목에 찬 그 물건은 무엇이오? 어디 보자. 혹시... 뮈르미돈의 팔 보호구인가. 하지만 그건...
-PatroclusAboutBracer01A|Patroclus About Bracer A 01|Zagreus|아, 이거요? 어떻게 아셨죠? 친구한테 받은 기념품이에요.
-PatroclusAboutBracer01A|Patroclus About Bracer A 01|Patroclus|기념품이라고? 친구에게 받은...? 그럼 그 친구에게 전하시오. 파트로클로스가 기다리고 있다고. 그리고 돌아오기만 한다면 아무 원한도 품지 않겠다고.
-PatroclusAboutBracer01B|Patroclus About Bracer B 01|Zagreus|알아보셨군요. 물론이죠. 아킬레우스 거예요. 저한테 선물로 줬죠. 절 훈련한 장본인이거든요.
-PatroclusAboutBracer01B|Patroclus About Bracer B 01|Patroclus|아... 선물이었군. 그렇다면 아킬레우스에게 파트로클로스가 기다리고 있다고, 돌아오기만 하면 아무런 원한도 품지 않겠다고 전해 주시오.
-PatroclusAboutBracer01E|Patroclus About Bracer E 01|Patroclus|이방인이여, 손목에 찬 그 물건은 무엇이오? 어디 보자. 혹시... 뮈르미돈의 팔 보호구인가. 아킬레우스...
-PatroclusAboutBracer01E|Patroclus About Bracer E 01|Zagreus|맞아요, 아킬레우스 님의 팔 보호구예요. 알아보시네요. 뮈르미돈이셨나요? 막을 자가 없었다고 하던데요.
-PatroclusAboutBracer01E|Patroclus About Bracer E 01|Patroclus|글쎄... 정말 우리를 막을 자가 없었다면 우리가 여기 올 일도 없었을 거요. 그 보호구가 우리 팔랑크스를 보호했던 것보다 당신을 더 많이 보호해 주길 바라오.
+PatroclusAboutBracer01A|Patroclus About Bracer 01 A|Patroclus|이방인이여, 손목에 찬 그 물건은 무엇이오? 어디 보자. 혹시... 뮈르미돈의 팔 보호구인가. 하지만 그건...
+PatroclusAboutBracer01A|Patroclus About Bracer 01 A|Zagreus|아, 이거요? 어떻게 아셨죠? 친구한테 받은 기념품이에요.
+PatroclusAboutBracer01A|Patroclus About Bracer 01 A|Patroclus|기념품이라고? 친구에게 받은...? 그럼 그 친구에게 전하시오. 파트로클로스가 기다리고 있다고. 그리고 돌아오기만 한다면 아무 원한도 품지 않겠다고.
+PatroclusAboutBracer01B|Patroclus About Bracer 01 B|Zagreus|알아보셨군요. 물론이죠. 아킬레우스 거예요. 저한테 선물로 줬죠. 절 훈련한 장본인이거든요.
+PatroclusAboutBracer01B|Patroclus About Bracer 01 B|Patroclus|아... 선물이었군. 그렇다면 아킬레우스에게 파트로클로스가 기다리고 있다고, 돌아오기만 하면 아무런 원한도 품지 않겠다고 전해 주시오.
+PatroclusAboutBracer01E|Patroclus About Bracer 01 E|Patroclus|이방인이여, 손목에 찬 그 물건은 무엇이오? 어디 보자. 혹시... 뮈르미돈의 팔 보호구인가. 아킬레우스...
+PatroclusAboutBracer01E|Patroclus About Bracer 01 E|Zagreus|맞아요, 아킬레우스 님의 팔 보호구예요. 알아보시네요. 뮈르미돈이셨나요? 막을 자가 없었다고 하던데요.
+PatroclusAboutBracer01E|Patroclus About Bracer 01 E|Patroclus|글쎄... 정말 우리를 막을 자가 없었다면 우리가 여기 올 일도 없었을 거요. 그 보호구가 우리 팔랑크스를 보호했던 것보다 당신을 더 많이 보호해 주길 바라오.
 PatroclusAboutAchillesAspect01|Patroclus About Achilles Aspect 01|Patroclus|아주 인상적인 창을 가지고 있군, 이방인. 마치 아킬레우스가 가지고 있던 것 같소. 아킬레우스가 준 거요? 남에게 주려고 저세상까지 가져가다니.
 PatroclusAboutAchillesAspect01|Patroclus About Achilles Aspect 01|Zagreus|사실... 사정이 좀 더 복잡하지만, 맞아요. 아킬레우스 님이 쓰던 그 창이에요. 제가 들게 되어서 영광입니다.
 PatroclusAboutAchillesAspect01|Patroclus About Achilles Aspect 01|Patroclus|그렇겠지. 언젠가는 아킬레우스보다 더 많은 시체를 쌓아올릴 수도 있을 거요. 앞으로 사용할 기회가 많은 것 같으니 말이오.
 PatroclusAboutAchillesAspect02|Patroclus About Achilles Aspect 02|Patroclus|한때 아킬레우스는 누가 그 창을 집어들었다는 이유만으로 죽이기도 했소. 그런데 지금은 당신이 그걸 가지고 있군.
 PatroclusAboutAchillesAspect02|Patroclus About Achilles Aspect 02|Zagreus|이 창은 누가 가질 수 있는 물건이 아닌 것 같아요. 저는 그저 잠시 들고 있을 뿐이죠. 제가 마지막은 아닐 겁니다.
 PatroclusAboutAchillesAspect02|Patroclus About Achilles Aspect 02|Patroclus|그렇게 심오하게 생각할 필요 없소. 그저 살인 무기일 뿐이니까.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Patroclus|이방인이여, 자신의 혈통에 대해 언급한 것으로 기억하는데. 괜찮다면 그것에 관해 물어볼 게 있소.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Zagreus|괜찮아요. 뭘 묻고 싶은데요? 말해 봐요.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Patroclus|당신의 아버지는 분명 죽은 자들의 기록을 가지고 있겠지. 그래서 말인데 내 부탁 하나만 들어주겠소? 내가 알던 누군가의 행방을 조회해 줄 수 있는지 물으려 했소.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Zagreus|절 위해 여러 가지로 애써 주셨는데 주변에 물어보는 게 뭐 어려운 일이겠어요. 누구를 찾고 있는 거죠?
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Patroclus|아킬레우스라는 자를 찾고 있소. 산 자들 사이에서는 꽤 이름을 날렸지만 죽은 자들에겐 어떠할지 어찌 알겠소. 이곳으로 올 줄 알았는데 오지 않더군.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Zagreus|...아킬레우스라... 이름 들어 본 적 있어요. 그래서, {#DialogueItalicFormat}어{#PreviousFormat}, 그분의 행방이 왜 궁금한지 물어봐도 되나요? 혹시 누가 물을지도 모르니까.
-PatroclusAboutAchilles01A|Patroclus About Achilles A 01|Patroclus|단지... 그가 그리운 것일 뿐이오. 그게 전부요.
-PatroclusAboutAchilles01B|Patroclus About Achilles B 01|Patroclus|뭐 문제라도 있소, 이방인? 아니면 의미 없는 대화로 날 괴롭히려고 다시 온 거요?
-PatroclusAboutAchilles01B|Patroclus About Achilles B 01|Zagreus|아킬레우스 아시죠? 그렇죠? 당신은 파트로클로스일 테고. 아킬레우스는... 저희 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
-PatroclusAboutAchilles01B|Patroclus About Achilles B 01|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군요. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? 쯧쯧. 내가 좀 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
-PatroclusAboutAchilles01B|Patroclus About Achilles B 01|Zagreus|하지만 그럴 리가 없어요. 뭔가 오해가 있는 게 분명하다고요. 죽은 뒤로 한 번도 그와 이야기한 적이 없나요?
-PatroclusAboutAchilles01B|Patroclus About Achilles B 01|Patroclus|없소. 그리고 앞으로도 없을 것이오. 하지만 당신이 그의 마음을 달래 줄 수 있겠지. 난 아무 문제 없이 잘 지내고 있다고 전해 주시오. 그래 주시겠소?
-PatroclusAboutAchilles01C_01|Patroclus About Achilles C 01 01|Zagreus|파트로클로스. 전 당신이 누군지 알아요. 그리고 당신은 아킬레우스를 아시잖아요. 아킬레우스는 우리 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
-PatroclusAboutAchilles01C_01|Patroclus About Achilles C 01 01|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? {#DialogueItalicFormat}쯧쯧{#PreviousFormat}. 내 말투가 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|이방인이여, 자신의 혈통에 대해 언급한 것으로 기억하는데. 괜찮다면 그것에 관해 물어볼 게 있소.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|괜찮아요. 뭘 묻고 싶은데요? 말해 봐요.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|당신의 아버지는 분명 죽은 자들의 기록을 가지고 있겠지. 그래서 말인데 내 부탁 하나만 들어주겠소? 내가 알던 누군가의 행방을 조회해 줄 수 있는지 물으려 했소.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|절 위해 여러 가지로 애써 주셨는데 주변에 물어보는 게 뭐 어려운 일이겠어요. 누구를 찾고 있는 거죠?
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|아킬레우스라는 자를 찾고 있소. 산 자들 사이에서는 꽤 이름을 날렸지만 죽은 자들에겐 어떠할지 어찌 알겠소. 이곳으로 올 줄 알았는데 오지 않더군.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Zagreus|...아킬레우스라... 이름 들어 본 적 있어요. 그래서, {#DialogueItalicFormat}어{#PreviousFormat}, 그분의 행방이 왜 궁금한지 물어봐도 되나요? 혹시 누가 물을지도 모르니까.
+PatroclusAboutAchilles01A|Patroclus About Achilles 01 A|Patroclus|단지... 그가 그리운 것일 뿐이오. 그게 전부요.
+PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|뭐 문제라도 있소, 이방인? 아니면 의미 없는 대화로 날 괴롭히려고 다시 온 거요?
+PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|아킬레우스 아시죠? 그렇죠? 당신은 파트로클로스일 테고. 아킬레우스는... 저희 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
+PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군요. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? 쯧쯧. 내가 좀 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
+PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Zagreus|하지만 그럴 리가 없어요. 뭔가 오해가 있는 게 분명하다고요. 죽은 뒤로 한 번도 그와 이야기한 적이 없나요?
+PatroclusAboutAchilles01B|Patroclus About Achilles 01 B|Patroclus|없소. 그리고 앞으로도 없을 것이오. 하지만 당신이 그의 마음을 달래 줄 수 있겠지. 난 아무 문제 없이 잘 지내고 있다고 전해 주시오. 그래 주시겠소?
+PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Zagreus|파트로클로스. 전 당신이 누군지 알아요. 그리고 당신은 아킬레우스를 아시잖아요. 아킬레우스는 우리 집에서 일하고 있어요. 절 훈련한 장본인이거든요. 애정을 담은 안부 인사를 전하더군요. 늘 당신 생각을 하고 있다고 말해 달래요.
+PatroclusAboutAchilles01C_01|Patroclus About Achilles 01 C 01|Patroclus|...그 이름. 그럼 당신은 그를 봤겠군. 당신 아버지 집에서. 그가 그런 말을 했다는 걸 나더러 믿으란 소리요? {#DialogueItalicFormat}쯧쯧{#PreviousFormat}. 내 말투가 회의적으로 들리더라도 용서하시오. 살아 있을 때 난 아킬레우스를 떠났소. 죽어서는 그가 나를 떠났고. 그렇게 치면 서로 동등하다고 할 수 있지. 지금으로선 서로에게 아무런 할 말이 남아 있지 않소.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|그래서 아킬레우스는 요즘 어떻게 지내고 있소? 당신이야 쉽게 그와 만날 수 있을 테니 나에게 그 정도는 말해 줄 수 있겠지.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Zagreus|아버지가 시키는 일을 강제로 하고 있어요. 그리고 비밀을 유지해야 한다는 맹세를 했죠. 저도 무슨 영문인지 제대로 알지 못해요. 하지만 대체로 잘 지내고 있는 것 같아요. 당신이... 직접 만나 볼 수 있었으면 좋겠네요.
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Patroclus|잘 이해가 안 되겠지만 그랬으면 좋겠어요. 알겠소. 혹시 언젠가 당신이 이 비밀의 밑바닥에 이르게 된다면 날 이해해 주시오. 그럴 수 있겠소?
 PatroclusAboutAchilles02|Patroclus About Achilles 02|Zagreus|어... 제가 뭘 할 수 있을지 알아볼게요.
-PatroclusAboutAchilles03A|Patroclus About Achilles A 03|Patroclus|그는 절대 나에게 돌아오지 않을 거요. 당신 아버지 밑에서 일하고 있는 이상 빠져나올 길은 없을 테니까. 당신과 마찬가지 신세지.
-PatroclusAboutAchilles03A|Patroclus About Achilles A 03|Zagreus|아니요. 그 말엔 동의할 수가 없네요. 단 한 마디도.
-PatroclusAboutAchilles03A|Patroclus About Achilles A 03|Patroclus|참으로 단호하군. 그래서 어쩔 셈이오? 어차피 떠날 거면서.
-PatroclusAboutAchilles03A|Patroclus About Achilles A 03|Zagreus|방법은 제가 생각해 볼게요. 하지만 그사이에 한 가지만 부탁해도 될까요? 지금 느끼는 무력감에 굴복하지 마세요, 아시겠죠? 아킬레우스는 여전히 당신을 아껴요. 당신은 모를 테지만.
-PatroclusAboutAchilles03A|Patroclus About Achilles A 03|Patroclus|그가? 난 이제 약속 같은 건 하지 않지만... 운명이 당신이 하고자 하는 일에 도움을 주길 기도하겠소.
+PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|그는 절대 나에게 돌아오지 않을 거요. 당신 아버지 밑에서 일하고 있는 이상 빠져나올 길은 없을 테니까. 당신과 마찬가지 신세지.
+PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Zagreus|아니요. 그 말엔 동의할 수가 없네요. 단 한 마디도.
+PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|참으로 단호하군. 그래서 어쩔 셈이오? 어차피 떠날 거면서.
+PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Zagreus|방법은 제가 생각해 볼게요. 하지만 그사이에 한 가지만 부탁해도 될까요? 지금 느끼는 무력감에 굴복하지 마세요, 아시겠죠? 아킬레우스는 여전히 당신을 아껴요. 당신은 모를 테지만.
+PatroclusAboutAchilles03A|Patroclus About Achilles 03 A|Patroclus|그가? 난 이제 약속 같은 건 하지 않지만... 운명이 당신이 하고자 하는 일에 도움을 주길 기도하겠소.
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|그의 고집은 대단하지 않소? 꿈쩍도 하지 않지. 그가 우리가 싸웠던 전쟁에 대해 얘기했소? {#DialogueItalicFormat}내{#PreviousFormat}가 싸웠다고 해야겠지. 아킬레우스가 그 전쟁을 끝낼 수 있었소. 그가 무기를 들기 거부했지만.
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Zagreus|아킬레우스 님은 살아계실 때 얘기를 잘 안 해서 몰랐습니다. 싸우지 않았다고요? 싸우길 싫어하는 필멸자들이 있다고는 들었는데... 그러한 명분이 없었는데 그가 왜 싸워야 했다고 하시는 거죠?
 PatroclusAboutAchilles04|Patroclus About Achilles 04|Patroclus|우리는 명분을 {#DialogueItalicFormat}공유{#PreviousFormat}했으니까! 또한 온전히 그의 명분이 아니면 어떻소. 아킬레우스의 고집만 아니었다면 난... 여기 좀 더 늦게 왔을 거요.
@@ -3633,11 +3633,11 @@ PatroclusAboutHeroes01|Patroclus About Heroes 01|Patroclus|위대한 영웅이�
 PatroclusAboutGods01|Patroclus About Gods 01|Patroclus|지금 막 드는 생각인데... 당신은 올림포스의 신들과 혈연 관계가 아니오...? 조심해야겠군.
 PatroclusAboutGods01|Patroclus About Gods 01|Zagreus|그게 무슨 말씀이시죠? 그야 제 아버지도 그렇고, 삼촌이나 친척들도 지상 위에 많이 계시기는 하죠.
 PatroclusAboutGods01|Patroclus About Gods 01|Patroclus|흠... 일부는 조심하는 게 좋을 거요. 가능하다면 그들과 적대하지 마시오. 내가 살아 있을 때는 아무도 그러지 못했지.
-PatroclusAboutLove01_A|Patroclus About Love A 01|Patroclus|누군가를 사랑한 적이 있소, 이방인? 사랑은 아마 필멸자들이나 하는 것일지도 모르지. 당신네 신들은 관계를 이상하게 맺는다고 들었소.
-PatroclusAboutLove01_A|Patroclus About Love A 01|Zagreus|사랑한 적 있죠. 지금도 사랑하고 있다고 해야겠네요.
-PatroclusAboutLove01_A|Patroclus About Love A 01|Patroclus|아, 그거 잘됐군. 그 감정을 놓치지 마시오. 만약 잃게 된다면... 손을 뻗어서 붙잡으시오. 무슨 일이 있어도, 알겠소? 사랑이 없다면... 어떻게 될지 예를 들 수조차 없을 것 같소.
-PatroclusAboutLove01_B|Patroclus About Love B 01|Zagreus|사랑한 적이 있는지 모르겠습니다. 사랑에 빠지면 알게 될 거라고 하던데요.
-PatroclusAboutLove01_B|Patroclus About Love B 01|Patroclus|언젠가는 알게 될지도 모르오. 그 감정에는 상당한 고통이 뒤따르지만... 내 보잘 것 없는 경험에 따르면 그 고통에는 그만한 가치가 있소. 그런 감정을 느끼게 되면 절대 놓치지 말고 꽉 붙잡으시오.
+PatroclusAboutLove01_A|Patroclus About Love 01 A|Patroclus|누군가를 사랑한 적이 있소, 이방인? 사랑은 아마 필멸자들이나 하는 것일지도 모르지. 당신네 신들은 관계를 이상하게 맺는다고 들었소.
+PatroclusAboutLove01_A|Patroclus About Love 01 A|Zagreus|사랑한 적 있죠. 지금도 사랑하고 있다고 해야겠네요.
+PatroclusAboutLove01_A|Patroclus About Love 01 A|Patroclus|아, 그거 잘됐군. 그 감정을 놓치지 마시오. 만약 잃게 된다면... 손을 뻗어서 붙잡으시오. 무슨 일이 있어도, 알겠소? 사랑이 없다면... 어떻게 될지 예를 들 수조차 없을 것 같소.
+PatroclusAboutLove01_B|Patroclus About Love 01 B|Zagreus|사랑한 적이 있는지 모르겠습니다. 사랑에 빠지면 알게 될 거라고 하던데요.
+PatroclusAboutLove01_B|Patroclus About Love 01 B|Patroclus|언젠가는 알게 될지도 모르오. 그 감정에는 상당한 고통이 뒤따르지만... 내 보잘 것 없는 경험에 따르면 그 고통에는 그만한 가치가 있소. 그런 감정을 느끼게 되면 절대 놓치지 말고 꽉 붙잡으시오.
 PatroclusAboutTrinkets01|Patroclus About Trinkets 01|Patroclus|이번에는 뭐요, 이방인? 히드라라이트? 스틱스의 키스?
 PatroclusAboutTrinkets01|Patroclus About Trinkets 01|Zagreus|정말 그냥 줘도 되는 거예요? 고맙기는 한데... 그냥 받고 싶지는 않아요.
 PatroclusAboutTrinkets01|Patroclus About Trinkets 01|Patroclus|그러지 마시오. 여기는 엘리시움이 아니오. 그냥 받는 게 미덕인 곳이라오. 우리 영광스런 혼령들은 욕구를 다 채울 때까지 싸우도록 최고의 물품을 받소. 하지만 나는 이미 욕구를 다 채웠지.
@@ -3660,34 +3660,34 @@ PatroclusGift05|Patroclus Gift 05|Patroclus|시간도, 친절도 나에게 전�
 PatroclusGift05|Patroclus Gift 05|Zagreus|빚을 지고 안 지고 문제가 아니에요. 가능성을 향해 마음의 문을 열어 보시기 바라요. 당신의 안위를 염려하는 사람들이 있다는 사실을 받아들이셨으면 해요.
 PatroclusGift06|Patroclus Gift 06|Patroclus|고통에서 잠시나마 해방될 수 있는 묘약이로군. 순식간에 지나가 버리고 말 행복이지만 아예 느껴 보지 못하는 것보다는 나으니까.
 PatroclusGift06|Patroclus Gift 06|Zagreus|뭔가 암울하면서도 재치 있는 한 마디였어요. 무탈하게 잘 지내시길. 알겠죠?
-PatroclusGift07_A|Patroclus Gift A 07|Zagreus|여기 있어요. 신들이 마시는 음료예요. 마셔보면 마음에 드실 거예요. 그동안 저를 도와주신 것에 감사드리고 싶어서요.
-PatroclusGift07_A|Patroclus Gift A 07|Patroclus|암브로시아 같은 귀한 물건을 나에게 준단 말이오, 이방인? 이처럼 영광이 가득한 것을 어찌 내가 받겠소? 나는 그저 한낱 혼령에 불과한 것을.
-PatroclusGift07_A|Patroclus Gift A 07|Zagreus|아니에요. 제가 엘리시움에 올 때마다 뵙기를 고대하는 분이시죠. 다른 혼령들과는 전혀 다릅니다. 그러니... 마음껏 드세요. 아킬레우스 님하고 같이 드셔도 좋죠.
-PatroclusGift07_A|Patroclus Gift A 07|Patroclus|그럼... 마셔보겠소. 당신은 나쁜 자가 아니군. 알고 있소, 이방인? 조심하시오, 안 그러면 지금 가진 무자비한 명성에 해가 될 테니 말이오.
-PatroclusGift08_A|Patroclus Gift A 08|Zagreus|지난 번에 드린 암브로시아 병이 안 보이네요. 그렇다면... 하나 더 필요하시겠군요. 받으세요. 지금까지 저를 가끔씩 상대해 주셔서 고마워요.
-PatroclusGift08_A|Patroclus Gift A 08|Patroclus|{#DialogueItalicFormat}나보고 {#PreviousFormat}고맙다는 거요, 이방인? 나는 이곳에 제법 오래 머물렀지만... 아직도 당신네 관행은 이상하게 느껴지는군. 당신은 내가 그 누구에게도 바랄 수 없을만큼 내게 잘해줬소.
-PatroclusGift08_A|Patroclus Gift A 08|Zagreus|그냥 암브로시아 한 병일 뿐인데요. 별 거 아니에요. 그래요, 사실 손에 넣기 힘들긴 하지만. 그래도!
-PatroclusGift08_A|Patroclus Gift A 08|Patroclus|당신은 농담을 하지만 나는 그렇지 않소. 내 평생의 감사를 전하고 싶소만... 알다시피 내가 지금.
-PatroclusGift08_A|Patroclus Gift A 08|Zagreus|앞으로 살 날이 많이 남으셨잖아요. 여기서 새로 시작하는 겁니다. 자그레우스든 이방인이든 편한 대로 부르세요.
-PatroclusGift08_A|Patroclus Gift A 08|Patroclus|나는 파트로클로스요. 이제야 깨달았소... 아직 정식으로 인사를 하지 않았군. 만나서 반갑소, 자그레우스. 이방인.
+PatroclusGift07_A|Patroclus Gift 07 A|Zagreus|여기 있어요. 신들이 마시는 음료예요. 마셔보면 마음에 드실 거예요. 그동안 저를 도와주신 것에 감사드리고 싶어서요.
+PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|암브로시아 같은 귀한 물건을 나에게 준단 말이오, 이방인? 이처럼 영광이 가득한 것을 어찌 내가 받겠소? 나는 그저 한낱 혼령에 불과한 것을.
+PatroclusGift07_A|Patroclus Gift 07 A|Zagreus|아니에요. 제가 엘리시움에 올 때마다 뵙기를 고대하는 분이시죠. 다른 혼령들과는 전혀 다릅니다. 그러니... 마음껏 드세요. 아킬레우스 님하고 같이 드셔도 좋죠.
+PatroclusGift07_A|Patroclus Gift 07 A|Patroclus|그럼... 마셔보겠소. 당신은 나쁜 자가 아니군. 알고 있소, 이방인? 조심하시오, 안 그러면 지금 가진 무자비한 명성에 해가 될 테니 말이오.
+PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|지난 번에 드린 암브로시아 병이 안 보이네요. 그렇다면... 하나 더 필요하시겠군요. 받으세요. 지금까지 저를 가끔씩 상대해 주셔서 고마워요.
+PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|{#DialogueItalicFormat}나보고 {#PreviousFormat}고맙다는 거요, 이방인? 나는 이곳에 제법 오래 머물렀지만... 아직도 당신네 관행은 이상하게 느껴지는군. 당신은 내가 그 누구에게도 바랄 수 없을만큼 내게 잘해줬소.
+PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|그냥 암브로시아 한 병일 뿐인데요. 별 거 아니에요. 그래요, 사실 손에 넣기 힘들긴 하지만. 그래도!
+PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|당신은 농담을 하지만 나는 그렇지 않소. 내 평생의 감사를 전하고 싶소만... 알다시피 내가 지금.
+PatroclusGift08_A|Patroclus Gift 08 A|Zagreus|앞으로 살 날이 많이 남으셨잖아요. 여기서 새로 시작하는 겁니다. 자그레우스든 이방인이든 편한 대로 부르세요.
+PatroclusGift08_A|Patroclus Gift 08 A|Patroclus|나는 파트로클로스요. 이제야 깨달았소... 아직 정식으로 인사를 하지 않았군. 만나서 반갑소, 자그레우스. 이방인.
 PatroclusGift07|Patroclus Gift 07|Patroclus|흉물스러운 혼령에게 이렇게까지 친절을 베풀다니 어찌할 바를 모르겠소. 하지만 이런 좋은 물건을 거절해서는 안 되겠지.
 PatroclusGift07|Patroclus Gift 07|Zagreus|당신은 절 보자마자 무조건 공격하지 않으니 넥타르를 드릴게요. 이 정도면 과한 선물도 아닌걸요!
 PatroclusGift08|Patroclus Gift 08|Patroclus|너무 직설적으로 묻는 거라면 미안하지만 왜 굳이 먼 길을 돌아 이렇게 나를 찾아오는 거요...?
 PatroclusGift08|Patroclus Gift 08|Zagreus|먼 길을 돌아오는 게 아니에요. 사실 전 당신이 어떤 절망에 휩싸여 있는지 잘 몰라요. 이해하는 척할 생각도 없고요. 하지만 당신을 보고 있으면 제가 처했던 상황과 감정이 떠올라요. 어두운 곳에 홀로 있을 때 누군가가 저에게 말했죠. 포기하지 말라고. 할 수 있는 게 아무것도 없을 때... 뭔가 해야 할 일이 생기는 느낌이랄까.
-EurydiceFirstMeeting01_A|Eurydice First Meeting A 01|Eurydice|이봐, 거기. 하데스 아들 맞지! 귀하신 분께서 어떻게 지내시고 계시는지? 만나서 반가워. 난 에우리디케라고 해. 유명한 분께서 이런 곳까지 어쩐 일로 오셨는지?
-EurydiceFirstMeeting01_A|Eurydice First Meeting A 01|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어! 일단 용암이 어떤 상태인지 조사해 봐야겠는데. 무례하게 굴 생각은 없지만 내가 좀 바빠서.
-EurydiceFirstMeeting01_A|Eurydice First Meeting A 01|Eurydice|아, 세상 온갖 일은 그쪽이 다 하나 보네! 보내 줄게. 하지만 이곳엔 한 가지 규칙이 있어. 뭐냐 하면 아무도 빈손으로 나갈 수 없다는 거야. 알아들었어? 그러니 어서 골라. 내가 주는 거니까!
-EurydiceFirstMeeting01_B|Eurydice First Meeting B 01|Eurydice|이봐, 거기. 하데스의 아들 맞지! 귀하신 분께서 어떻게 지내시고 계시는지? 만나서 반가워. 난 에우리디케라고 해. 유명한 분께서 이런 곳까지 어쩐 일로 오셨는지?
-EurydiceFirstMeeting01_B|Eurydice First Meeting B 01|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어. 살기 등등한 뼈 히드라를 막 지나왔거든. 무례하게 굴 생각은 없지만 내가 좀 바빠서.
-EurydiceFirstMeeting01_B|Eurydice First Meeting B 01|Eurydice|아, 세상 온갖 일은 그쪽이 다 하나 보네! 보내 줄게. 하지만 이곳엔 한 가지 규칙이 있어. 뭐냐 하면 아무도 빈손으로 나갈 수 없다는 거야. 알아들었어? 그러니 어서 골라. 내가 주는 거니까!
-EurydiceFirstMeeting01_C|Eurydice First Meeting C 01|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어. 네 이름이 에우리디케라면 혹시 오르페우스를 알려나? 음악적 재능이 많은 친구인데. 좀 시무룩하지만 멋진 머리카락을 가진.
-EurydiceFirstMeeting01_C|Eurydice First Meeting C 01|Eurydice|{#DialogueItalicFormat}그자가 {#PreviousFormat}그쪽을 여기로 보낸 거야? 그런 거라면 그냥 가던 길이나 가지 그래. 하지만 규칙상 빈손으로 보낼 순 없으니 어서 골라 봐. 내가 주는 거야! 그자한테 갖다줄 생각 말고.
+EurydiceFirstMeeting01_A|Eurydice First Meeting 01 A|Eurydice|이봐, 거기. 하데스 아들 맞지! 귀하신 분께서 어떻게 지내시고 계시는지? 만나서 반가워. 난 에우리디케라고 해. 유명한 분께서 이런 곳까지 어쩐 일로 오셨는지?
+EurydiceFirstMeeting01_A|Eurydice First Meeting 01 A|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어! 일단 용암이 어떤 상태인지 조사해 봐야겠는데. 무례하게 굴 생각은 없지만 내가 좀 바빠서.
+EurydiceFirstMeeting01_A|Eurydice First Meeting 01 A|Eurydice|아, 세상 온갖 일은 그쪽이 다 하나 보네! 보내 줄게. 하지만 이곳엔 한 가지 규칙이 있어. 뭐냐 하면 아무도 빈손으로 나갈 수 없다는 거야. 알아들었어? 그러니 어서 골라. 내가 주는 거니까!
+EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Eurydice|이봐, 거기. 하데스의 아들 맞지! 귀하신 분께서 어떻게 지내시고 계시는지? 만나서 반가워. 난 에우리디케라고 해. 유명한 분께서 이런 곳까지 어쩐 일로 오셨는지?
+EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어. 살기 등등한 뼈 히드라를 막 지나왔거든. 무례하게 굴 생각은 없지만 내가 좀 바빠서.
+EurydiceFirstMeeting01_B|Eurydice First Meeting 01 B|Eurydice|아, 세상 온갖 일은 그쪽이 다 하나 보네! 보내 줄게. 하지만 이곳엔 한 가지 규칙이 있어. 뭐냐 하면 아무도 빈손으로 나갈 수 없다는 거야. 알아들었어? 그러니 어서 골라. 내가 주는 거니까!
+EurydiceFirstMeeting01_C|Eurydice First Meeting 01 C|Zagreus|안녕! 격식 차릴 필요 없어. 난 자그레우스라고 해. 공무를 보러 가던 길이었어. 네 이름이 에우리디케라면 혹시 오르페우스를 알려나? 음악적 재능이 많은 친구인데. 좀 시무룩하지만 멋진 머리카락을 가진.
+EurydiceFirstMeeting01_C|Eurydice First Meeting 01 C|Eurydice|{#DialogueItalicFormat}그자가 {#PreviousFormat}그쪽을 여기로 보낸 거야? 그런 거라면 그냥 가던 길이나 가지 그래. 하지만 규칙상 빈손으로 보낼 순 없으니 어서 골라 봐. 내가 주는 거야! 그자한테 갖다줄 생각 말고.
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|자기, 무슨 일이야, 말 해봐! 내 뿌리가 지금 너에게 뭔 일이 있다고 말하는데.
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Zagreus|그게 말이지. 오르페우스라는 친구를 알 것 같아서 말이야. 알지? 음악적 재능이 많은 친구인데. 좀 시무룩하지만 멋진 머리카락을 가진. 우리 아버지 집에서 궁정 악사로 일하고 있거든. 널 자기 뮤즈라고 부르던데. 널 몹시 그리워해. 그래서... 알려 줘야 할 것 같아서.
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|오르페우스가 그렇게 말했단 말이지? 내 말 잘 들어. 혹시 다음에 그자를 만나면 이미 죽은 나를 구하겠다고 이 먼 곳까지 왔을 때 이야기를 물어봐. 그 이후로는 어떻게 됐는지 알아?
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Zagreus|{#DialogueItalicFormat}어{#PreviousFormat}... 그래. 대충 짐작이 가긴 해. 기분 상하게 하려던 의도는 아니었어.
 EurydiceAboutOrpheus01|Eurydice About Orpheus 01|Eurydice|그래. 그자도 그럴 의도는 아니었겠지! 그런데 그거 알아? 의도보다 행동이 중요한 거야. 그러니 딴말 말고 먹을 거나 골라서 네 갈 길을 가지 그래.
-EurydiceAboutOrpheus01_B|Eurydice About Orpheus B 01|Zagreus|다른 게 아니라 오르페우스에 대해 더 이야기해 줘야 할 것 같아서... 우리 아버지 집에서 궁정 악사로 일하고 있거든. 널 자기 뮤즈라고 부르던데. 널 몹시 그리워해. 그래서... 알려 줘야 할 것 같아서.
+EurydiceAboutOrpheus01_B|Eurydice About Orpheus 01 B|Zagreus|다른 게 아니라 오르페우스에 대해 더 이야기해 줘야 할 것 같아서... 우리 아버지 집에서 궁정 악사로 일하고 있거든. 널 자기 뮤즈라고 부르던데. 널 몹시 그리워해. 그래서... 알려 줘야 할 것 같아서.
 EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Eurydice|무슨 일이지? 설마 그 아무짝에도 쓸모없는 네 궁정악사 친구에 대해 더 물어보려고 타르타로스에서 여기까지 온 건 아니겠지.
 EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Zagreus|당연히 아니지! 너의 멋진 노래와 요리 솜씨가 생각나서 왔지. 너와 대화 나누는 것도 워낙 즐겁고 말이야. 하지만 네가 먼저 얘기 꺼냈으니 말인데... 오르페우스한테 뭔가 할 말이 많아 보이는데. 내가 뭐 해 줄 거라도 있을까?
 EurydiceAboutOrpheus02|Eurydice About Orpheus 02|Eurydice|내가 제대로 이해하고 있는지 정리해 보자. 오르페우스 그 나쁜 놈이 날 버렸는데 이제 와서 내가 {#DialogueItalicFormat}걔{#PreviousFormat}한테 먼저 연락을 하라고? 미안하지만 그런 일은 일어나지 않을 거야. 우리 대화는 이걸로 끝이야. 아, 그래? 나도 할 말 다 한 것 같은데. 그럼 나 먼저 실례할게.
@@ -3730,9 +3730,9 @@ EurydiceAboutSingersReunionQuestComplete05|Eurydice About Singers Reunion Quest 
 EurydiceMentionsOrpheus01|Eurydice Mentions Orpheus 01|Eurydice|거기 왕자님, 나한테 얘기 좀 해 줘. 혼령을 정말 많이 만났잖아. 혹시 오르페우스라는 자 알려나? 깡마르고 투덜대는 말투로 이야기하는 그자 말이야. 너희 집 전당에서 정식으로 일하고 있다고 들었는데. 작곡하고 연주하고 그런 일!
 EurydiceMentionsOrpheus01|Eurydice Mentions Orpheus 01|Zagreus|오르페우스야 당연히 알지. 나와 친구 사이인걸! 잠깐. 왜 묻는 거지?
 EurydiceMentionsOrpheus01|Eurydice Mentions Orpheus 01|Eurydice|둘이 친구라고. 참 내. 뭔가 믿고 맡기지만 않으면 친구로 지내서 해가 될 건 없겠지. 내 얘기 한 적 없겠지? 만약에 내 이름이 나오면 난 잘 지내고 있다고 말해 줘! 정말 잘 지내고 있으니까.
-EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus B 01|Eurydice|요즘 자기 집에서는 무슨 일이 일어나고 있어?
-EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus B 01|Zagreus|오르페우스 얘기를 하니까 말인데... 오르페우스가 노래를 안 하겠다고 해서 아버지가 그를 잠깐 가뒀었어. 궁정 악사니까 말이야. 하지만 지금은 풀려나서 잘 지내고 있어! 아마도.
-EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus B 01|Eurydice|지시를 따르지 않다니. 오르페우스답네. 그래, 그게 가장 재미있는 이야기라면 내가 대충 세상 돌아가는 일은 다 듣고 사나 보다.
+EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus 01 B|Eurydice|요즘 자기 집에서는 무슨 일이 일어나고 있어?
+EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus 01 B|Zagreus|오르페우스 얘기를 하니까 말인데... 오르페우스가 노래를 안 하겠다고 해서 아버지가 그를 잠깐 가뒀었어. 궁정 악사니까 말이야. 하지만 지금은 풀려나서 잘 지내고 있어! 아마도.
+EurydiceMentionsOrpheus01_B|Eurydice Mentions Orpheus 01 B|Eurydice|지시를 따르지 않다니. 오르페우스답네. 그래, 그게 가장 재미있는 이야기라면 내가 대충 세상 돌아가는 일은 다 듣고 사나 보다.
 EurydiceAboutHermes01|Eurydice About Hermes 01|Eurydice|무슨 일이야, 자기? 자기는 대단한 존재들을 많이 알겠다, 그치? 신이나 뭐 그런 존재들?
 EurydiceAboutHermes01|Eurydice About Hermes 01|Zagreus|몇몇 알지. 사실 최근 헤르메스 님한테 들었는데 일이 이렇게 돼서 미안하다고 너한테 전해달라더라. 네가 죽고 나서 오르페우스가 여기 온 일하고 관련된 건가?
 EurydiceAboutHermes01|Eurydice About Hermes 01|Eurydice|어머, 착하기도 하셔라! 올림포스 신 치고는 괜찮은 분이야. 맞아, 헤르메스 님이 나를 이렇게 만들었지. 나쁜 감정은 없어. 그게 그분의 일이니까. 일을 망친 건 오르페우스지.
@@ -3849,18 +3849,18 @@ PersephoneMeeting04|Persephone Meeting 04|Zagreus|네. 어머니, 만약... 만�
 PersephoneMeeting04|Persephone Meeting 04|Persephone|나를 보호한다고? 자그레우스, 그게 무슨 말이니? 보다시피 나는 스스로도 거뜬하다고.
 PersephoneMeeting04|Persephone Meeting 04|Zagreus|그게... {#DialogueItalicFormat}으{#PreviousFormat}... 어머니는 올림포스 출신이죠? 그런데... 그 어떤 신도... 어머니가 여기 계신 걸 몰라요... 그래서...
 PersephoneMeeting04|Persephone Meeting 04|Persephone|그건 또 어떻게 알았니, 자그레우스? 아, 빌어먹을 운명의 세 자매. 네가 또 나를 떠나는구나...
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|아들아, 올림포스의 친척들에 대해 얼마나 알고 있니?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|이젠 제법 알게 된 것 같아요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 그리고 다른 친척분들과도, 아버지의 집을 떠난 이후로 계속 연락을 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|안 돼... 자그레우스, 무슨 짓을 한 거니? 그들을 {#DialogueItalicFormat}여기{#PreviousFormat}로 이끌었단 말이야?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|아뇨, 아뇨. 친척들은... 제가 아버지로부터 도망쳐서 올림포스 산으로 가고 싶어 하는 줄 알아요. 적어도 제 {#DialogueItalicFormat}생각에는 {#PreviousFormat}그쪽에선 그렇게 믿고 있는 것 같아요. 그쪽 신들 대부분은요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그러면... 하데스도 이 사실은 아니? 올림포스가 관여되었다는 걸?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|네. 아버지와 닉스 모두가요. 사실 제가 올림포스와 연락할 수 있게 해 주신 게 닉스 님이에요. 올림포스의 도움이 없었다면 지하세계에서 결코 나올 수 없었겠죠.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그러니까 닉스와 하데스가 서로 대립하고 있구나. 올림포스는 널 돕고 있고... 그치만 내가 여기 있는 건 모른다는 거지?
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|맞아요. 아마도요. 닉스 님과 아버지는 다른 선택지가 없어서 서로 그냥 참는 것 같아요. 하지만 제가 어머니에 대해 알게 된 이후로, 닉스 님은 제가 어머니를 찾게 도와주셨고... 반대로 아버지는 절 막으려 했고요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|어리석긴... 무슨 생각인 거지? 도대체 네 아버지는 {#DialogueItalicFormat}뭘 {#PreviousFormat}생각하는 거야...? 혹시... 네 아버지가 나를 {#DialogueItalicFormat}그들{#PreviousFormat}로부터 보호하고 있다고 생각하는 거야? 아, 안 돼...
-PersephoneMeeting05_A|Persephone Meeting A 05|Zagreus|제... {#DialogueItalicFormat}윽{#PreviousFormat}... 제 생각에도 그런 것 같아요... 왜냐면, 올림포스 친척들을 직접 만나봤더니... 그분들이 어떤 일이든 보복하려고 들 것이... 눈에 선하네요.
-PersephoneMeeting05_A|Persephone Meeting A 05|Persephone|그게 우리 가족의 내력이란다, 아들아. 만약 올림포스가 관여하고 있다면 무슨 상황인지 알 것 같아. 너도 알다시피 내가 그쪽에 가 있지 않고 여기 있잖니. 하지만, 아. 다음에 다시 오면 또 이야기하자...
-PersephoneMeeting05_B|Persephone Meeting B 05|Zagreus|약간은요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 다른 친척 분들하고 연락을 계속 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|아들아, 올림포스의 친척들에 대해 얼마나 알고 있니?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|이젠 제법 알게 된 것 같아요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 그리고 다른 친척분들과도, 아버지의 집을 떠난 이후로 계속 연락을 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|안 돼... 자그레우스, 무슨 짓을 한 거니? 그들을 {#DialogueItalicFormat}여기{#PreviousFormat}로 이끌었단 말이야?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|아뇨, 아뇨. 친척들은... 제가 아버지로부터 도망쳐서 올림포스 산으로 가고 싶어 하는 줄 알아요. 적어도 제 {#DialogueItalicFormat}생각에는 {#PreviousFormat}그쪽에선 그렇게 믿고 있는 것 같아요. 그쪽 신들 대부분은요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그러면... 하데스도 이 사실은 아니? 올림포스가 관여되었다는 걸?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|네. 아버지와 닉스 모두가요. 사실 제가 올림포스와 연락할 수 있게 해 주신 게 닉스 님이에요. 올림포스의 도움이 없었다면 지하세계에서 결코 나올 수 없었겠죠.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그러니까 닉스와 하데스가 서로 대립하고 있구나. 올림포스는 널 돕고 있고... 그치만 내가 여기 있는 건 모른다는 거지?
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|맞아요. 아마도요. 닉스 님과 아버지는 다른 선택지가 없어서 서로 그냥 참는 것 같아요. 하지만 제가 어머니에 대해 알게 된 이후로, 닉스 님은 제가 어머니를 찾게 도와주셨고... 반대로 아버지는 절 막으려 했고요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|어리석긴... 무슨 생각인 거지? 도대체 네 아버지는 {#DialogueItalicFormat}뭘 {#PreviousFormat}생각하는 거야...? 혹시... 네 아버지가 나를 {#DialogueItalicFormat}그들{#PreviousFormat}로부터 보호하고 있다고 생각하는 거야? 아, 안 돼...
+PersephoneMeeting05_A|Persephone Meeting 05 A|Zagreus|제... {#DialogueItalicFormat}윽{#PreviousFormat}... 제 생각에도 그런 것 같아요... 왜냐면, 올림포스 친척들을 직접 만나봤더니... 그분들이 어떤 일이든 보복하려고 들 것이... 눈에 선하네요.
+PersephoneMeeting05_A|Persephone Meeting 05 A|Persephone|그게 우리 가족의 내력이란다, 아들아. 만약 올림포스가 관여하고 있다면 무슨 상황인지 알 것 같아. 너도 알다시피 내가 그쪽에 가 있지 않고 여기 있잖니. 하지만, 아. 다음에 다시 오면 또 이야기하자...
+PersephoneMeeting05_B|Persephone Meeting 05 B|Zagreus|약간은요. 집을 처음 떠난 뒤로 아테나 님, 제우스 님, 다른 친척 분들하고 연락을 계속 하고 있죠... 제가 여기 올 수 있도록 다들 도와줘요.
 PersephoneMeeting06|Persephone Meeting 06|Persephone|나는 올림포스를 견딜 수가 없었어, 자그레우스. 온갖 호통과 가식... 내 고압적인 어머니... 그 무엇도 말이야. 어차피 내 발로 그곳을 떠날 생각이었는데...
 PersephoneMeeting06|Persephone Meeting 06|Zagreus|...아버지가 어머니를 데리고 떠난 거죠? 어머니를 지하세계로 데리고 가셨잖아요. 만약 올림포스가 이 사실을 알게 되면... 생각만 해도 무섭네요.
 PersephoneMeeting06|Persephone Meeting 06|Persephone|그 바보는 지금도 나를 보호하려고 하고 있지. 네 아버지가 나를 데리고 도망친 게 아니야, 아들. 사실은 그보다 훨씬 복잡해. 나는 떠나고 싶었거든. 기꺼이 지하세계에서 네 아버지와 함께 살고 싶었어.

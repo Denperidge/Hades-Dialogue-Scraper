@@ -52,12 +52,12 @@ OrpheusPostEpilogue01|Orpheus Post Epilogue 01|Orpheus|알겠다! 이해했어. 
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|친구, 노래하는 거 말이야. 일단 한 번 더 시도해 보기로 했어. 마음에 들었으면 해.
 OrpheusSingsAgain01|Orpheus Sings Again 01|Zagreus|정말 잘됐다. 그럼 네 뮤즈를 찾은 거야?
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|아니, 뮤즈는 못 찾았어. 단지... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 내 삶을 계속해서 살아나가야 한다는 생각이 들더라고.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Zagreus|정말 잘됐다. 뮤즈가 있든 없든 네 노래는 언제나처럼 아름다워.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Zagreus|정말 아름다워, 친구. 에우리디케가 지금 너의 노래를 들을 수만 있다면.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|다시 한 번 노래애 완전히 사로잡혔네, 친구여. 또 다른 노래를 작곡할 영감이 떠올랐어. 옛 생각이 나는군.
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|이렇게 친절할 데가... 그러나 날개를 달고 천상을 노니는 듯한 에우리디케의 목소리에 비하면 내 목소리는 발밑에 부스러지는 자갈 소리나 마찬가지지.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Zagreus|정말 잘됐다. 뮤즈가 있든 없든 네 노래는 언제나처럼 아름다워.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Zagreus|정말 아름다워, 친구. 에우리디케가 지금 너의 노래를 들을 수만 있다면.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Orpheus|그렇게 말해 주다니 고맙다. 그냥... 몇 번을 실패해도 계속 도전하는 네 모습을 보면서 나도 열심히 살아야겠다는 생각이 들더라고. 지금처럼 말이야.
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|다시 한 번 노래애 완전히 사로잡혔네, 친구여. 또 다른 노래를 작곡할 영감이 떠올랐어. 옛 생각이 나는군.
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|이렇게 친절할 데가... 그러나 날개를 달고 천상을 노니는 듯한 에우리디케의 목소리에 비하면 내 목소리는 발밑에 부스러지는 자갈 소리나 마찬가지지.
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|저기, 오르페우스? 내가 아스포델의 용암 지대 안에서 땀 한 방울 안 흘리고 한 손으로 머리가 여럿 달린 뼈 히드라를 처치했다고 얘기한 적 있던가?
 OrpheusTallTale01|Orpheus Tall Tale 01|Orpheus|와, 정말 대단한 무용담인걸! 영웅의 업적을 다룬 이야기로 치면 그 어떤 영웅담보다 장대하고 심지어 저기 저쪽에 있는 아킬레우스보다도 위대한걸!
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|네가 그렇게 생각하 주니 기쁜걸! 내 용맹한 업적 이야기가 네게 영감을 주는 모양이군. 다른 업적이 생기면 또 와서 얘기해 줄게.
@@ -87,16 +87,16 @@ OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|그녀를 봤거든. �
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|단순히 아는 사이 그 이상이었어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|{#DialogueItalicFormat}아쉽게 됐네{#PreviousFormat}? 만약 내가 그녀를 다시 만난다면 혹시 전하고 싶은 말 같은 건 없는 거야? 아무 말이라도?
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|다시는 그녀를 괴롭게 하고 싶지 않아. 나에 대해서 아무 말도 하지 마. 알겠지? 그녀와의 추억이 있다는 것만으로 충분해.
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|저기, 오르페우스. 네가 안 믿을지도 모르겠는데. 최근 다녀온 여행에서 어떤 님프를 하나 만났는데 말이야. 에우리디케였어. 키가 큰 나무의 님프 말이야.
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|{#DialogueItalicFormat}뭐{#PreviousFormat}? 아... 정말로. 에우리디케가 너희 아버지의 영역에 있다는 건 알고 있었지만... 네가 설마 그녀와 만나게 될 줄은 몰랐어. 확실한 거야?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|그녀를 봤거든. 아스포델에서. 거기서 잘 지내고 있더라고. 혼자서 말이야. 두 사람이 아주 가까운 사이라고 했지?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|그 이상의 관계였어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|저기, 오르페우스. 네가 안 믿을지도 모르겠는데. 최근 다녀온 여행에서 어떤 님프를 하나 만났는데 말이야. 에우리디케였어. 키가 큰 나무의 님프 말이야.
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|{#DialogueItalicFormat}뭐{#PreviousFormat}? 아... 정말로. 에우리디케가 너희 아버지의 영역에 있다는 건 알고 있었지만... 네가 설마 그녀와 만나게 될 줄은 몰랐어. 확실한 거야?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|그녀를 봤거든. 아스포델에서. 거기서 잘 지내고 있더라고. 혼자서 말이야. 두 사람이 아주 가까운 사이라고 했지?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|그 이상의 관계였어, 자그레우스. 우린 부부 사이였어. 그녀가 내 뮤즈였지. 내세에서 다시는 만나지 못할 불운한 운명이라니. 뭐, 아쉽게 됐네!
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|오르페우스, 에우리디케를 다시 만났어. 실은... 네 부탁대로 하지 못했어. 네 얘기를... 하고 말았거든.
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|{#DialogueItalicFormat}뭘 {#PreviousFormat}했다고?! 아니, 내가 하려던 말은 그러니까. 오. 혹시 그녀가 나를 아직도 미워하고 있다거나 그런 인상을 받진 않았어?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 두 사람 사이에 무슨 일이 있었던 거야? 물어봐도 될까?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|아, 그게 말이지... 내가 여전히 살아 숨 쉬고 있을 때 그녀의 영혼을 이곳에서 거의 구할 뻔했는데. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 정말로 지하세계에서 그녀를 구출할 뻔한 거야?
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Orpheus|거의 그럴 뻔했지. 거의. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Zagreus|네 얘기를 하니까 뭔가 불편해하는 것 같긴 하더라. 정말로 지하세계에서 그녀를 구출할 뻔한 거야?
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Orpheus|거의 그럴 뻔했지. 거의. 마지막 순간에 내 믿음이 흔들렸어. 그렇게 난 그녀를 영원히 잃고 말았어. 너라도 그녀를 만났다니 그나마 다행이야!
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|제발 나에게 말해 줘, 자그레우스. 그녀는 요즘 어떻게 지내고 있어? 에우리디케 말이야. 머리카락은? 어떤 빛깔이야? 많이 자랐어? 오크 나무처럼 당당하고 유연한 태도는 그대로인가?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Zagreus|잘 지내고 있어, 오르페우스. 아스포델의 작은 집에서 편히 지내고 있는 것 같아. 유일하게 불편한 심기를 드러낸 건... 네 이름을 언급했을 때야. 둘이 화해할 수 있는 무슨 방법이 없을까?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|아아, 과거는 돌이킬 수 없어. 너도 봐서 잘 알겠지만 그녀에게 나는 없는 존재나 마찬가지야. 그렇게 생각하는 게 당연하지.
@@ -112,10 +112,10 @@ OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|모든 건 에우리디
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|하지만 유명해진 건 너잖아? 왜 그녀와 명성을 나눠 갖지 않은 건지 이해가 안 가.
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|삶의 부당함 중 하나겠지. 그래도 기회가 생길 때마다 그녀를 칭송하는 노래를 부르곤 했어. 그녀도 자기의 권위는 확고히 내세우는 성격이었으니까. 그런데도 우리 노래를 듣는 사람들은 그 노래들이 내 작품이라고 믿었어... 그런 와중에 내가 뭘 할 수 있었겠어?
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|필멸자들의 사고방식에 대해서는 난 잘 몰라. 하지만 네가 그녀의 공을 언제나 마땅히 인정해 준다는 얘길 들으니 기쁘네.
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|오르페우스, 에우리디케가 곡에 기여한 만큼 인정을 받지 못한다는 것이 불공정하다고 했잖아. 우리가 할 수 있는 일은 없을까?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|모르겠네, 친구여. 한 번 사람들이 생각을 굳히고 나면... 다른 가능성이 존재함을 보여주기가 쉽지 않더군. 뭘 할 수 있겠나?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|모르겠어... 아니라고 말해 줄까? 정중하게? 아니면... 뭐가 맞는지 알려주는 거야. 소문을 낼까? 그렇게 할 수 있어?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|소문을 낸다고...? 하지만 나는 이 집의 궁정 악사야. 내 노래가 많은 이들의 귀에 닿지는 못한다네. 다만... 저 혼령들... 저들 또한 나의 청중이지. 내가 누가 쓴 노래를 부르는지 저들이 알게 해아겠어.
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|오르페우스, 에우리디케가 곡에 기여한 만큼 인정을 받지 못한다는 것이 불공정하다고 했잖아. 우리가 할 수 있는 일은 없을까?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|모르겠네, 친구여. 한 번 사람들이 생각을 굳히고 나면... 다른 가능성이 존재함을 보여주기가 쉽지 않더군. 뭘 할 수 있겠나?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|모르겠어... 아니라고 말해 줄까? 정중하게? 아니면... 뭐가 맞는지 알려주는 거야. 소문을 낼까? 그렇게 할 수 있어?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|소문을 낸다고...? 하지만 나는 이 집의 궁정 악사야. 내 노래가 많은 이들의 귀에 닿지는 못한다네. 다만... 저 혼령들... 저들 또한 나의 청중이지. 내가 누가 쓴 노래를 부르는지 저들이 알게 해아겠어.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|너한테 고백할 게 하나 있는데. 내 마음은 여전히, 그것도 아주 자주 에우리디케와 그녀에 대한 추억 속에서 헤매곤 해. 내 현실을 우선시하려는 노력에도 불구하고 말이야. 치명적 결함이라고 부르고 싶지만 난 이미 죽은 존재라 그마저도 어울리지 않네.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|자신을 너무 책망하지 마. 그동안 많은 일을 겪었잖아. 그녀 역시 그랬을 테고! 여전히 서로를 아끼면서도 그 마음을 제대로 전할 방법이 없는 것뿐이야. 나한테 좋은 생각이 있어.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|나에게도 좋은 생각이 떠올랐던 때가 있었어, 자그레우스. 아이디어, 영감, 그런 것들. 뮤즈가 있을 땐 모든 게 정말 황홀했어...
@@ -248,8 +248,8 @@ OrpheusGift03|Orpheus Gift 03|Orpheus|{#DialogueItalicFormat}오{#PreviousFormat
 OrpheusGift03|Orpheus Gift 03|Zagreus|별거 아니야, 오르페우스. 노래를 통해 감동을 선사해 줘서 고마워. 난 네 음악이 정말 좋아.
 OrpheusGift04|Orpheus Gift 04|Orpheus|넌 항상 나에게 과할 만큼 친절했어. 그거 알아, 친구? 보통 난 고마움을 노래로 표현하지만 지금 내 상황 이해하지?
 OrpheusGift04|Orpheus Gift 04|Zagreus|얼마든지 이해해, 오르페우스 때가 되면 너나 나나 이 힘든 시기를 이겨 낼 수 있을 거야.
-OrpheusGift04_B|Orpheus Gift B 04|Orpheus|자네는 항상 내 갈증을 해소할 길을 열어주는군, 친구. 지금도 내게 그런 감정이 있다는 것이 놀랍네.
-OrpheusGift04_B|Orpheus Gift B 04|Zagreus|다시 노래하기 시작했으니, 목말라할 것 같았어! 네 음악은 이곳의 많은 영혼에게 감명을 준다고.
+OrpheusGift04_B|Orpheus Gift 04 B|Orpheus|자네는 항상 내 갈증을 해소할 길을 열어주는군, 친구. 지금도 내게 그런 감정이 있다는 것이 놀랍네.
+OrpheusGift04_B|Orpheus Gift 04 B|Zagreus|다시 노래하기 시작했으니, 목말라할 것 같았어! 네 음악은 이곳의 많은 영혼에게 감명을 준다고.
 OrpheusGift05|Orpheus Gift 05|Zagreus|이봐, 친구. 휴게실에 가서 같이 마실래?
 OrpheusGift05|Orpheus Gift 05|Orpheus|오, 글쎄 난... 그래. 안 갈 이유가 없지. 지금 딱히 해야 할 일이 있는 것도 아니고 말이야...
 OrpheusGift05|Orpheus Gift 05|Orpheus|...그나저나 뒤돌아보지 말았어야 했어. 그러니까 이야기의 교훈은 뒤돌아보지 말랬으면 뒤돌아보지 않는 건데. 내 말 무슨 말인지 알지,친구?

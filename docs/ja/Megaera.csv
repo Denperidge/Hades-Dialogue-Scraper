@@ -9,9 +9,9 @@ MegaeraBedroom02|Megaera Bedroom 02|Megaera|わかっていないのは、おま
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|どういう意味だ？
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|母親を見つけたいというおまえの気持ちは理解できる。私には果たすべき使命があるが、それでも…\n何か協力できることがないか、考えてみよう。
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|え…？どういうことなんだ…
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|ああ、すまないと思ってる。\nでも、どうしてもやめるわけにはいかないんだ。\nおまえにはわからないだろうが…
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|肩の荷が下りる…？いったい何をするつもりだ。
-MegaeraBedroom02B|Megaera Bedroom B 02|Megaera|おまえの事情は理解している。妹たちも、私も、\nおまえの脱出を阻止しようとすることに変わりはない。だが少なくとも私は、与えられた役目を\n果たしているにすぎない、ということだ。
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|ああ、すまないと思ってる。\nでも、どうしてもやめるわけにはいかないんだ。\nおまえにはわからないだろうが…
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|肩の荷が下りる…？いったい何をするつもりだ。
+MegaeraBedroom02B|Megaera Bedroom 02 B|Megaera|おまえの事情は理解している。妹たちも、私も、\nおまえの脱出を阻止しようとすることに変わりはない。だが少なくとも私は、与えられた役目を\n果たしているにすぎない、ということだ。
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|…メグ、また来たのか。今日はどうした？\n…なんだ？どうしてそんな目で俺を見る？
 BecameCloseWithMegaera01|Became Close With Megaera 01|Megaera|くだらない質問はやめて。\nいいから黙って、こっちへ来て。
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|それは… つまり…
@@ -37,12 +37,12 @@ Text|Text|Zagreus|…ああ、またな。
 Text|Text|Zagreus|その… 俺は、メグもタナトスも大切だし、ふたりと\nこんなに親しくなれてうれしい。おまえたちふたりの\n仲がいいことも、何よりだ。殺し合うよりずっといい。\nでも… 正直俺は、そこまでは…
 Text|Text|Megaera|…そうなのか？それなら、無理にとは言わない。\nただでさえ、いろいろと重圧が多い日々だろうからな。では、またタルタロスで会おう。
 Text|Text|Thanatos|話なら、あとで聞かせてもらう。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|いいから黙って、そばに来て。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|質問が多い。でも、そういうこと。\n私たちは、よりが戻った。当面はね。\nでも、このことを口外したら、殺すから。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|…タナトスにも、か？
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|彼はバカではないし、あなたの幸せを願ってる。\n嫉妬深いたちでもないし、知ってのとおり、\n私とは仕事上のよきパートナーよ。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|でも… おまえはそれでいいのか？\n嫉妬する者を罰するのが仕事だろ？もし俺が…
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|私たちは、人間とは違う。彼らが互いを縛りたがるのは\n彼らの一生が短いから。不死の私たちとは事情が違う。\n「心を縛ることはできない」。ニュクス様から学んだ\n金言のひとつよ。くだらない心配してる暇があったら、\n次に会うときに備えることね。それじゃ。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|いいから黙って、そばに来て。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|質問が多い。でも、そういうこと。\n私たちは、よりが戻った。当面はね。\nでも、このことを口外したら、殺すから。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|…タナトスにも、か？
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|彼はバカではないし、あなたの幸せを願ってる。\n嫉妬深いたちでもないし、知ってのとおり、\n私とは仕事上のよきパートナーよ。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|でも… おまえはそれでいいのか？\n嫉妬する者を罰するのが仕事だろ？もし俺が…
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|私たちは、人間とは違う。彼らが互いを縛りたがるのは\n彼らの一生が短いから。不死の私たちとは事情が違う。\n「心を縛ることはできない」。ニュクス様から学んだ\n金言のひとつよ。くだらない心配してる暇があったら、\n次に会うときに備えることね。それじゃ。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|ザグレウス。この部屋には扉がない。\n無断で入られたからといって、なぜいちいち驚く？
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|メグ… タナトスも… ここで何を…？\nとにかく、まずはきちんと俺から説明を…\nん？ふたりとも、何がおかしい？なぜ笑ってる？
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|私とタナトスは、おまえが生まれる前からの\nつきあいだ。見くびられては困る。
@@ -172,14 +172,14 @@ FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|だが責めを負う�
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|まさか本当に、「懲罰の盟約」に署名するとは…\nいったい何を考えている？私へのあてつけか？
 FuryPactReaction01|Fury Pact Reaction 01|Zagreus|そんな言い方をされると、あてつけだと\n答えたくなる。俺が何に署名しようと、\nメグの知ったことじゃないだろ？
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|おまえの魂胆ぐらい、お見通しだ。\n罰を受けたいのなら、私がたっぷり相手をしてやる。
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|フン… まさか本当に、懲罰の盟約に\n同意するとは。後悔しても、もう遅いぞ？\nおまえが浅はかな男だということは\nわかっていたが、まさかこれほどとは…
-FuryPactReaction01_B|Fury Pact Reaction B 01|Zagreus|根性があると言ってもらいたい。\nだいたい、俺が何に同意しようと、\nメグには関係ないだろう。
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|そう、私にはどうでもよいことだ。\n罰を受けたいのなら、私が今すぐ下してやろう。
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|フン… まさか本当に、懲罰の盟約に\n同意するとは。後悔しても、もう遅いぞ？\nおまえが浅はかな男だということは\nわかっていたが、まさかこれほどとは…
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Zagreus|根性があると言ってもらいたい。\nだいたい、俺が何に同意しようと、\nメグには関係ないだろう。
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|そう、私にはどうでもよいことだ。\n罰を受けたいのなら、私が今すぐ下してやろう。
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|おまえとは、もっと公正な条件で\n戦いたいと思っていた。\n盟約に署名したのは、私を哀れんでのことか？
 FuryPactReaction02|Fury Pact Reaction 02|Zagreus|こっちの事情だ。メグを哀れんだわけじゃない。どうせ信じないだろうけどな。
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|罰を受けたいなら、いつでも私が相手をしてやる。
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|おまえは今、懲罰の盟約の条件下にある。\nつまり、私の鞭の威力も増すということだ。\nまさか、私を哀れんで盟約に同意したのか…？
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|ああ、信じない。いずれにせよ、余計な情けをかけるとどうなるか、今思い知らせてやる。
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|おまえは今、懲罰の盟約の条件下にある。\nつまり、私の鞭の威力も増すということだ。\nまさか、私を哀れんで盟約に同意したのか…？
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|ああ、信じない。いずれにせよ、余計な情けをかけるとどうなるか、今思い知らせてやる。
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|今回は、一瞬で片がつきそうだな。\nザグが「時間外労働」とは、意外だ。\n気骨のない者には、到底耐えられない条件だ。
 FuryPactReaction04|Fury Pact Reaction 04|Zagreus|酷いな。俺はいつだって、よく考えもせず\n無謀なことに突っ込んでいくタイプだ。\nたいていのことは、行き当たりばったりで\n切り抜ける。この条件にぴったりだろ？
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|なるほど。言われてみれば、たしかに。\nとにかく、警告はした。遠慮なく戦わせてもらうぞ。
@@ -210,9 +210,9 @@ FuryKeepsakeReaction01|Fury Keepsake Reaction 01|Megaera|そう、完璧に練�
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|おまえの身体から、死が薫っている… タナトスから何か譲りうけたか？
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Zagreus|この、陰気な蝶のことか？たしかに、タナトスからの\n贈り物だ。これを身につけていると、いつもにも増して力が湧いてくる。でも、それだけのことだ。
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|あの男に、昆虫採集の趣味があったとはな… だが、ここではタナトスですらおまえに助力することはできない。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|ここでは、バッティの助力は得られない。\n私が目をつぶると思ったなら、残念だったな。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Zagreus|頭が固いな… もう少し柔軟に考えても\nいいんじゃないか？まあいい。\nバッティは、かわいいから連れてきただけだ。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|なら、全力で戦わせてもらう。行くぞ。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|ここでは、バッティの助力は得られない。\n私が目をつぶると思ったなら、残念だったな。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Zagreus|頭が固いな… もう少し柔軟に考えても\nいいんじゃないか？まあいい。\nバッティは、かわいいから連れてきただけだ。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|なら、全力で戦わせてもらう。行くぞ。
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|バッティは、いい子だろう？\n手も掛からないし、正直、放っておいても\n生きてゆける子だが… ザグのことだ、\nきちんと世話をしてくれていることと思う。
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Zagreus|ああ、すごく助かってるよ。メグの助けが必要になれば\nすぐに呼んでくれるしな。でも、しょっちゅう\n呼び出されて、仕事の邪魔になってないか？
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|邪魔はおたがいさまだ。\nここへ来た以上、足止めはさせてもらう。
@@ -319,7 +319,7 @@ FuryMiscStart11|Fury Misc Start 11|Megaera|戦わずに通すわけにはいか�
 FuryMiscStart12|Fury Misc Start 12|Megaera|また来たか。
 FuryMiscStart13|Fury Misc Start 13|Megaera|私に会いに、わざわざ来たというわけか。
 FuryMiscStart14|Fury Misc Start 14|Megaera|覚悟はいいか、ザグレウス。
-FuryMiscStart15A|Fury Misc Start A 15|Megaera|来たな。その行動力だけは、褒めてやろう。
+FuryMiscStart15A|Fury Misc Start 15 A|Megaera|来たな。その行動力だけは、褒めてやろう。
 FuryMiscStart15|Fury Misc Start 15|Megaera|そこまでだ。ここは一歩も通さない。
 FuryMiscStartMaxRelationship01|Fury Misc Start Max Relationship 01|Megaera|また手合わせしにきたの？
 FuryMiscStartMaxRelationship02|Fury Misc Start Max Relationship 02|Megaera|今回は先へ進めるかしら？
@@ -341,12 +341,12 @@ FuryMiscStartMaxRelationship18|Fury Misc Start Max Relationship 18|Megaera|私�
 FuryMiscStartMaxRelationship19|Fury Misc Start Max Relationship 19|Megaera|ザグは私を待たせない。そこは褒めてあげる。
 FuryMiscStartMaxRelationship20|Fury Misc Start Max Relationship 20|Megaera|元気そうね。でも、私と戦ったらどうなるかしら。
 FuryMiscStartMaxRelationship21|Fury Misc Start Max Relationship 21|Megaera|痛みに耐えた先に、悦びがある。そうでしょ？
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|ごらん… あの生意気な得意顔。気取った立ち姿。\n何もかも気に入らないね！メグ、あんたまさか、\nこいつに手加減するつもりじゃないだろうね？
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Megaera|私たち姉妹が、互いの顔色をうかがって\n事に当たったことなど、あったか？\nこの男を殺すという目的さえ果たせれば、\n何も問題ないはずだ。
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|言われてみれば、たしかにそうだ。\nそれじゃ、さっさと殺しちまおうじゃないか！
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|ごらん？このゴミ、性懲りもなく、また現れたよ。\nせっかくの床が、また血で汚れちまう。赤い血の坊や、\n麗しのメガイラと戦う準備はできてるかい？
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Megaera|アレクトはザグを誤解している。\nそう悪いところばかりでもない。\nこの仕事を片づける上では、どうでもよいことだが。
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|あんたらふたりにはヘドが出るよ。\n腑抜けたこと言ってる暇があったら、\n今度こそこいつの息の根をきっちり止めな！
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|ごらん… あの生意気な得意顔。気取った立ち姿。\n何もかも気に入らないね！メグ、あんたまさか、\nこいつに手加減するつもりじゃないだろうね？
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Megaera|私たち姉妹が、互いの顔色をうかがって\n事に当たったことなど、あったか？\nこの男を殺すという目的さえ果たせれば、\n何も問題ないはずだ。
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|言われてみれば、たしかにそうだ。\nそれじゃ、さっさと殺しちまおうじゃないか！
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|ごらん？このゴミ、性懲りもなく、また現れたよ。\nせっかくの床が、また血で汚れちまう。赤い血の坊や、\n麗しのメガイラと戦う準備はできてるかい？
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Megaera|アレクトはザグを誤解している。\nそう悪いところばかりでもない。\nこの仕事を片づける上では、どうでもよいことだが。
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|あんたらふたりにはヘドが出るよ。\n腑抜けたこと言ってる暇があったら、\n今度こそこいつの息の根をきっちり止めな！
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|そこの亡霊。おまえが手にしているのは、\nこの館への持ち込みが禁じられている品では？
 AchillesWithMegaera01|Achilles With Megaera 01|Achilles|ええ、そうなのです。ちょうどよかった…\nこれを、早急に処分していただけますか。
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|承知した。このようなものが館内にあることが\n知れ渡り、騒ぎになる前に、速やかに処分しよう。
@@ -403,18 +403,18 @@ DusaChatWithMegaera09|Dusa Chat With Megaera 09|Megaera|デューサ、この男
 MegaeraMeeting01|Megaera Meeting 01|Megaera|フン… 放蕩息子のご帰還か。\n皆、私が手加減したと噂している。
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|そんな噂、気にするな。どっちにしろ、その先で無様に死んで、こうして戻ってきた。
 MegaeraMeeting01|Megaera Meeting 01|Megaera|そう簡単に戻られては、私の立つ瀬がない。\n私を倒したからには、意地でも脱出しろ。今回は\n運に味方されたようだが、次はそうはいかないぞ。
-MegaeraMeeting01_B|Megaera Meeting B 01|Zagreus|気にするな。どっちにしろ、その先で無様に死んで、\nこうして戻ってきた。とはいえ… あんなに先まで\n進むとは、メグも思っていなかっただろうな。
-MegaeraMeeting01_B|Megaera Meeting B 01|Megaera|そもそも、おまえが私を倒していくとは思わなかった。\n私にも面目がある。次に会うときは、そうやすやすと\n先へ進ませはしない。覚悟しておけ。
+MegaeraMeeting01_B|Megaera Meeting 01 B|Zagreus|気にするな。どっちにしろ、その先で無様に死んで、\nこうして戻ってきた。とはいえ… あんなに先まで\n進むとは、メグも思っていなかっただろうな。
+MegaeraMeeting01_B|Megaera Meeting 01 B|Megaera|そもそも、おまえが私を倒していくとは思わなかった。\n私にも面目がある。次に会うときは、そうやすやすと\n先へ進ませはしない。覚悟しておけ。
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|メグ、うまそうだな。何を飲んでる？
 MegaeraMeeting02|Megaera Meeting 02|Megaera|さあ？あまりに弱くて、\nおまえの血ではないかと思ったが。
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|そうか。なら、邪魔はしないでおこう。
-MegaeraMeeting02Cont|Megaera Meeting Cont 02|Megaera|次に会うときは、その身を八つ裂きにしてやる…\n覚悟しておけ。
+MegaeraMeeting02Cont|Megaera Meeting 02 Cont|Megaera|次に会うときは、その身を八つ裂きにしてやる…\n覚悟しておけ。
 MegaeraMeeting03|Megaera Meeting 03|Zagreus|最近、妹たちの姿を見かけないな。\nふたりともどうしてる？
 MegaeraMeeting03|Megaera Meeting 03|Megaera|われわれエリニュスは、多忙を極めている。地上で戦が起きれば、冥界の仕事は増える。私の仕事は、持ち場を守り、おまえの起こした問題に対処することだ。
 MegaeraMeeting04|Megaera Meeting 04|Megaera|用がないなら、話しかけるな。\nおまえと語り合うことなど、何もない。
 MegaeraMeeting04|Megaera Meeting 04|Zagreus|様子を見にきただけだ。もし… 話し相手が\n必要なら、いつでも声をかけてくれ。
 MegaeraMeeting04|Megaera Meeting 04|Megaera|話し相手など必要ない。私が非番のときは、おまえには一切近づかないでもらいたい。
-MegaeraMeeting04Cont|Megaera Meeting Cont 04|Megaera|近づくなと言ったはずだ。
+MegaeraMeeting04Cont|Megaera Meeting 04 Cont|Megaera|近づくなと言ったはずだ。
 MegaeraMeeting05|Megaera Meeting 05|Megaera|ザグレウス殿下。何かご用ならば、お申しつけを。
 MegaeraMeeting05|Megaera Meeting 05|Zagreus|いや、特に。さっきは… いい戦いだったな。
 MegaeraMeeting05|Megaera Meeting 05|Megaera|ザグ。私たちはもう、昔のような関係には戻れない。\n今のおまえに掛ける言葉があるとすれば…\nいつまでしょげている？タルタロスで再び会ったら、\nまた殺してやるから覚悟しておけ。
@@ -428,13 +428,13 @@ MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|メグ、どうして
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|そうやって声を張って、館中に喧伝したいか？\n自分がいかに私より優れているか、\n皆に知らしめたいか。
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|だから、そうじゃないって言ってるだろ…\nさんざん殺し合ってきて、いまさら言っても\n信じてもらえないだろうけど…\n俺はメグを傷つけるつもりはなかった。
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|ザグレウス、おまえは自分を買いかぶりすぎだ。\n私のことは放っておいてくれ。
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|そんなつもりで来たんじゃない。\nどうしてわかってくれないんだ？\n俺はただ、メグに認めてもらいたかっただけだ。
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|フン… 私と戦って勝てば、私がおまえを認めると？
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|メグには、どうやっても勝てる気がしないよ…\nじゃあなんだ？俺が手加減すればよかったのか？\nそれも違うだろ。
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|知ったような口を利くな。そこまで私のことを\nわかっているなら、これ以上話すことなどないことも、\n察してしかるべきだ。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|信じがたい。おまえが私を倒せたのは、\nニュクス様の鏡の力だと思っていた。今のおまえが\nあの頃と違うことは、理解していたつもりだが…\nまさかここまでとは。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Zagreus|やってみずにはいられなかった。\nメグからはいろんなことを学んだし、\n勝てたらメグに認めてもらえると思ったんだ。\n純粋に自分の力を試したかったのもある。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|私に認められる？おまえらしくもない…\nいや、日頃不遜な態度を取っていても、\n本来のおまえは違うということか…？\n少し… ひとりにしてもらいたい。
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|そんなつもりで来たんじゃない。\nどうしてわかってくれないんだ？\n俺はただ、メグに認めてもらいたかっただけだ。
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|フン… 私と戦って勝てば、私がおまえを認めると？
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|メグには、どうやっても勝てる気がしないよ…\nじゃあなんだ？俺が手加減すればよかったのか？\nそれも違うだろ。
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|知ったような口を利くな。そこまで私のことを\nわかっているなら、これ以上話すことなどないことも、\n察してしかるべきだ。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|信じがたい。おまえが私を倒せたのは、\nニュクス様の鏡の力だと思っていた。今のおまえが\nあの頃と違うことは、理解していたつもりだが…\nまさかここまでとは。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Zagreus|やってみずにはいられなかった。\nメグからはいろんなことを学んだし、\n勝てたらメグに認めてもらえると思ったんだ。\n純粋に自分の力を試したかったのもある。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|私に認められる？おまえらしくもない…\nいや、日頃不遜な態度を取っていても、\n本来のおまえは違うということか…？\n少し… ひとりにしてもらいたい。
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|おまえが「懲罰の盟約」に署名したために、冥界には\nいろいろと“有意義な”変化が起きているようだな。\nその後、調子はどうだ？
 MegaeraPactProgress01|Megaera Pact Progress 01|Zagreus|何が立ちふさがろうと、俺は脱出してみせる。あの盟約は、俺の挑戦に新鮮味を加えてくれるだけのことだ。
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|浮ついたことを… おまえも、冥王陛下も、\n私の理解の範疇を超えている。いずれにせよ、\n懲罰を受けたいなら、いつでも私の元へ来るがいい。
@@ -479,9 +479,9 @@ MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|おまえはと
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|俺たちふたりの今の関係について、後悔しているかと\n聞かれているなら、答えは「ノー」だ。\nメグといられるなら、どんな面倒だって\n乗り越える価値がある。
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|わかっている。ただし、この関係を維持するために、\n規則を設ける。まず… 仕事と私事は完全に分けること。\n私がおまえに手加減していると勘ぐる者が出ては困る。\n次に… 最近のおまえは、子どもじみた言動が減った。\nこれについては、引き続き心がけてもらいたい。
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|ガキの頃のような無神経な振る舞いをするつもりは\nないから、安心してくれ。ただ… 1つめの規則は…\nこれからも変わらず殺し合いを続けるということ\nだよな？どうしても、そうしないとダメか？
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|ザグ。私に出くわすたびに、そんなふうに\n気まずそうに振る舞うつもりか？おまえは以前から\n挙動不審だったが、ここ最近は、輪をかけて酷い。
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Zagreus|…おまえの申し出を断ったことが、申し訳なくて…\nこのところ、自分で自分の気持ちがよくわからないんだ。俺はメグを信頼しているし、おまえになら\nなんでも話せる。この関係が崩れるのが怖い。
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|崩れるものか。何を馬鹿なことを。\nおまえとは長いつきあいだ。\n幼い時分から、共に成長してきたと言ってもいい。\nそう簡単に失われるような関係ではない。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|ザグ。私に出くわすたびに、そんなふうに\n気まずそうに振る舞うつもりか？おまえは以前から\n挙動不審だったが、ここ最近は、輪をかけて酷い。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Zagreus|…おまえの申し出を断ったことが、申し訳なくて…\nこのところ、自分で自分の気持ちがよくわからないんだ。俺はメグを信頼しているし、おまえになら\nなんでも話せる。この関係が崩れるのが怖い。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|崩れるものか。何を馬鹿なことを。\nおまえとは長いつきあいだ。\n幼い時分から、共に成長してきたと言ってもいい。\nそう簡単に失われるような関係ではない。
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|メグ、俺たちの関係について、知らない者なんて、\nもういないんじゃないか…？自分たちで言いふらした\nわけでもないのに、アフロディテすら感づいてる\nみたいだ。メグは、秘密にしておきたかったんだよな？
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|おまえは私たちの関係に、不満があるのか？何か問題があると思っているのか？
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|本音を言わせてもらえば、いまだに殺し合わなければ\nいけないことだけが、やっぱり不満だ。\nそれ意外については… これで本当によかったと\n思ってる。メグがメグであることに変わりはない。
@@ -576,7 +576,7 @@ MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|俺はまだ、メグ�
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|過去のいきさつと、現状。その両方から考えて、\nどうにもなり得ないと思うが？\n脱出に成功すれば、おまえは冥界を去る。\nそれとも、他の結末があるとでも？
 MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|…俺も、そこまで先のことは考えてないよ。\nでも… メグ、俺はおまえを憎んでない。\nメグを憎むなんて、俺には無理なんだよ。
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|…どこまで私を困らせる気だ？\n残念だが、おまえの気持ちに応えることはできない。\nこの仕事は、絶対に失敗できない。\n今は、他のことにかまけている余裕はない。
-MegaeraBuildingTrust01_B|Megaera Building Trust B 01|Megaera|過去のいきさつと、現状。その両方から考えて、\nどうにもなり得ないと思うが？\nおまえが目的を達成するにせよ、\nしないにせよ、私たちふたりの今後に、何がある？
+MegaeraBuildingTrust01_B|Megaera Building Trust 01 B|Megaera|過去のいきさつと、現状。その両方から考えて、\nどうにもなり得ないと思うが？\nおまえが目的を達成するにせよ、\nしないにせよ、私たちふたりの今後に、何がある？
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|メグ… 俺とタナトスのことは、もう気づいてるよな？\nメグに隠すつもりはないから、念のため言っておくよ…
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Megaera|おまえのことは、万事把握している。\nタナトスに関しては、さらに熟知している。\n報告には感謝するが、気遣いの類いは無用だ。
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|…本当に？オリュンポスの神々は嫉妬深いと聞いた。\nでも冥界では、べつに気にすることもないってことか？

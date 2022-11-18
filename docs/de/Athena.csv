@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|Wie schön zu sehen, dass deines
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|Welch klägliche Narren wagen es, sich gegen dich zu stellen, Vetter? Bestrafe sie, damit sie etwas lernen, was sie im Leben hätten lernen sollen.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|Bleibe deinem Entschluss treu, Vetter, und steige zur Oberfläche empor. Ich bin da, wann immer du den Halt verlierst.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|Ich werde dich nicht aufhalten, Zagreus, ich will nur deine Chancen zu entkommen verbessern, indem ich dir einige meiner Kräfte anbiete. Triff schnell deine Wahl, und dann geh.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|Mögen Weisheit und Glück dich diesmal ans Licht des Tages führen, Vetter.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|Die elendigen Toten der Unterwelt werden noch vor dir zittern, Vetter.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|Mögen Weisheit und Glück dich diesmal ans Licht des Tages führen, Vetter.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|Die elendigen Toten der Unterwelt werden noch vor dir zittern, Vetter.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|Kraft und Weisheit mögen dich aus der Finsternis führen, Zagreus.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|Die Arglist deiner entseelten Feinde ist deiner göttlichen Macht nicht gewachsen.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|Ich wache ständig über dich, vergiss das nicht, lieber Vetter.
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|Ich habe ein kleines Zeichen meiner Wertsch�
 AthenaGift03|Athena Gift 03|Athena|Es ist sehr gütig von dir, Vetter, mir diese Gabe anzubieten. Du ehrst mich, doch ich bitte dich, denk an dein eigenes Wohlergehen, nicht an meines.
 AthenaGift04|Athena Gift 04|Zagreus|Göttin Athene, bitte nimm dieses Geschenk an. Deine Weisheit zeigt mir den Weg ans Licht.
 AthenaGift04|Athena Gift 04|Athena|Oh, wie großzügig von dir, mir dieses Geschenk zu machen! Ich bin sehr dankbar, doch mach dir bitte meinetwegen nicht solche Mühe. Lass uns bei der Sache bleiben, ja?
-AthenaGift05A|Athena Gift A 05|Zagreus|Ich bleibe weiter meiner Aufgabe verpflichtet, Göttin. Doch mir ist bewusst, dass all dies ohne deine Hilfe nicht möglich gewesen wäre. Also will ich dir danken, wenn auch mit einer spärlichen Gabe.
-AthenaGift05A|Athena Gift A 05|Athena|Ich weiß, dass du im Moment wenig Möglichkeiten hast, deine Dankbarkeit zu zeigen, Zagreus. Doch ich bitte dich, dir das für später aufzuheben, wenn deine Aufgabe erfüllt ist. Jetzt hast du Wichtigeres zu erledigen!
-AthenaGift05B|Athena Gift B 05|Athena|Ich weiß, dass du im Moment wenig Möglichkeiten hast, deine Dankbarkeit zu zeigen, Zagreus. Doch ich bitte dich, dir das für bessere Zeiten aufzuheben. Jetzt hast du Wichtigeres zu erledigen!
+AthenaGift05A|Athena Gift 05 A|Zagreus|Ich bleibe weiter meiner Aufgabe verpflichtet, Göttin. Doch mir ist bewusst, dass all dies ohne deine Hilfe nicht möglich gewesen wäre. Also will ich dir danken, wenn auch mit einer spärlichen Gabe.
+AthenaGift05A|Athena Gift 05 A|Athena|Ich weiß, dass du im Moment wenig Möglichkeiten hast, deine Dankbarkeit zu zeigen, Zagreus. Doch ich bitte dich, dir das für später aufzuheben, wenn deine Aufgabe erfüllt ist. Jetzt hast du Wichtigeres zu erledigen!
+AthenaGift05B|Athena Gift 05 B|Athena|Ich weiß, dass du im Moment wenig Möglichkeiten hast, deine Dankbarkeit zu zeigen, Zagreus. Doch ich bitte dich, dir das für bessere Zeiten aufzuheben. Jetzt hast du Wichtigeres zu erledigen!
 AthenaGift06|Athena Gift 06|Zagreus|Ehrwürdige Athene, ich weiß, für dich geht es um mehr als nur um meine Misere ... dir liegt so viel an deiner Familie. Diese Sorge und deine Entschlossenheit sind mir ein Ansporn. Ich bin sehr dankbar.
 AthenaGift06|Athena Gift 06|Athena|Wenn wir einander Dank bezeugen wollen, sollten wir das vielleicht wirklich nicht auf unbestimmte Zeit verschieben, mein lieber Vetter. Du hast mir die Augen für diese Möglichkeit geöffnet, doch ich bleibe standhaft in meinem Entschluss, für dich zu kämpfen.
 AthenaGift07|Athena Gift 07|Zagreus|Ich weiß, dass diese Ambrosia vom Olymp stammt, ehrwürdige Athene. Doch ich hoffe, der Verkostung durch dich ist sie umso würdiger, da sie die lange Reise in diese Tiefen überstand. Niemand hatte je eine bessere Base. Und ich werde nie vergessen, was du für mich getan hast.

@@ -1,5 +1,5 @@
 Id|Description|Speaker|Text
-ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect A 01|Chaos|네가 이지스라고 부르는 그 만물을 꿰뚫어 보는 유물에 대해서는 아직 이야기하지 않았다. 운명의 세 자매가 설계한 그 모습이 좋다면 그대로 두라. 하지만 생각이 바뀐다면 이렇게 말하라. {#DialogueItalicFormat}나 그대가 뱀의 화염에 맞서는 모습을 보았노라.{#PreviousFormat}
+ChaosAboutBeowulfAspect01_A|Chaos About Beowulf Aspect 01 A|Chaos|네가 이지스라고 부르는 그 만물을 꿰뚫어 보는 유물에 대해서는 아직 이야기하지 않았다. 운명의 세 자매가 설계한 그 모습이 좋다면 그대로 두라. 하지만 생각이 바뀐다면 이렇게 말하라. {#DialogueItalicFormat}나 그대가 뱀의 화염에 맞서는 모습을 보았노라.{#PreviousFormat}
 ChaosAboutBeowulfAspect01|Chaos About Beowulf Aspect 01|Chaos|아직 내가 전한 주문을 사용하지 않았나? 어쩌면 내게 결과를 보여주지 않기로 한 것일지도. 언젠가는 그 결과를 보고 싶다. 기억하라, 하데스의 아들. 모든 것을 보는 유물에 말하라: {#DialogueItalicFormat}나 그대가 뱀의 화염에 맞서는 모습을 보았노라.{#PreviousFormat}
 ChaosAboutBeowulfAspect02|Chaos About Beowulf Aspect 02|Chaos|무한한 가능성을 뚫고 하데스의 아들이 내 앞에 섰다. 그가 들고 있는 나의 만물을 꿰뚫어 보는 유물은 아직 태어나지 않은 저 북쪽의 베오울프란 자의 양상을 띄고 있다. 얼마나 기상천외한 일인가.
 ChaosSurfaceQuestComplete|Chaos Surface Quest Complete|Chaos|내 작고 둥근 매개체를 들고서 네 아버지와 맞서는 모습을 희미하게 감지했다. 나의 바람과 너의 성공이 운명의 세 자매의 설계 속에 조화를 이루는 듯하다. 결과는 기대한 것보다 즐거웠다. 그러므로 고맙다.
@@ -11,9 +11,9 @@ ChaosAboutResponding01|Chaos About Responding 01|Chaos|난 그대에게 충고�
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|제우스와 올림포스 산에 사는 그의 친족들은 네가 하데스와 여신 닉스 사이에서 태어났다고 생각하는 건가? 그 얘길 듣고 얼마나 놀랍던지. 닉스는 지하세계에서 태어난 많은 이들을 자기 자식처럼 보살폈어. 너도 그중 하나가 아니란 법 있겠어?
 ChaosAboutNyx01|Chaos About Nyx 01|Zagreus|그녀는 제 친모가 아니지만, 저에게 어머니 같은 분이세요. 그녀를 아시나요?
 ChaosAboutNyx01|Chaos About Nyx 01|Chaos|아, 닉스 여신은 아주 잘 알지. 잘 알고말고. 마지막으로 연락한 지가 꽤 오래되었는데, 그때만 해도... 뭐랄까, 내가 마음이 별로 너그럽지 못했어. 닉스가 부디 잘 살고 있기를 바라는 마음뿐이야.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|그대가 올 줄 알고 있었다. 그러나 아주 조금 전에야 알았지. 그래서 아직도 놀라움이 가시지 않는도다. 지하세계에서 그대의 움직임은 마치 어둠의 장막에 가려진 듯하다. 여신 닉스의 영향력인가? 답하라.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Zagreus|저는... 그에 대한 답을 알지 못합니다, 카오스 님. 그러나 어머니는 아버지의 영역에서 벗어나려는 저를 돕고 있기는 합니다.
-ChaosAboutNyx01_B|Chaos About Nyx B 01|Chaos|그대는 어둠 속에서 움직인다. 닉스와 같이 무한한 암흑은 아니나, 옛 생각이 나게 하는구나. 닉스에게 나를 피해 보라고 한 다음 내가 닉스를 찾곤 했다. 우리 둘의 사소한 즐거움이었지. 이제 알았다.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|그대가 올 줄 알고 있었다. 그러나 아주 조금 전에야 알았지. 그래서 아직도 놀라움이 가시지 않는도다. 지하세계에서 그대의 움직임은 마치 어둠의 장막에 가려진 듯하다. 여신 닉스의 영향력인가? 답하라.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Zagreus|저는... 그에 대한 답을 알지 못합니다, 카오스 님. 그러나 어머니는 아버지의 영역에서 벗어나려는 저를 돕고 있기는 합니다.
+ChaosAboutNyx01_B|Chaos About Nyx 01 B|Chaos|그대는 어둠 속에서 움직인다. 닉스와 같이 무한한 암흑은 아니나, 옛 생각이 나게 하는구나. 닉스에게 나를 피해 보라고 한 다음 내가 닉스를 찾곤 했다. 우리 둘의 사소한 즐거움이었지. 이제 알았다.
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|최근 들어 말이다, 하데스의 아들아. 네 아버지의 거주지에서 뭔가 변화라 볼 만한 움직임이 감지되었다. 뭔가 주목할 만한 일이 있었던 거냐? 답해라.
 ChaosPostEnding01|Chaos Post Ending 01|Zagreus|카오스 님, 제 어머니 페르세포네입니다. 어머니께서 돌아오셨어요! 본인이 선택해서 돌아온 겁니다. 그렇다 보니... 그분이 오시면서 분위기가 달라지긴 했습니다만... 변화라고 볼 만한 건 느끼지 못했는데요.
 ChaosPostEnding01|Chaos Post Ending 01|Chaos|네가 나처럼 그러한 변화를 느끼지 못할 수도 있다. 이 공간은 가벼워서 시간에 따라 굽이치지. 네가 설명한 대로라면... 그게 원인이었던가 보구나. 그 일은 반가운 일이 분명하다. 그리고 어찌 됐건 네가 돌아와서 기쁘구나.
@@ -21,7 +21,7 @@ ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Chaos|네
 ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Zagreus|오, 물어봐 줘서 고맙군요. 그게... 저희 어머니께서... 올림포스 신들에게 연락을 취하려 하고 있어요. 가족과 재결합하시려는 거겠죠. 아버지와 어머니께서 다른 분들을 본 지가 꽤 오래됐는데... 혹시 모두 한자리에 모이기 된다면 당신도 초대를 받았다는 사실을 알려 주고 싶었어요.
 ChaosAboutOlympianReunionQuest01|Chaos About Olympian Reunion Quest 01|Chaos|초대를 받았다고...? 하데스의 아들아, 참으로 관대한 제안이로구나. 그 모임이 내 공간 안에서 이루어지지 않는 이상, 내가 그곳에 완전하게 모습을 드러낸다는 건 어려운 일이다. 허나... 어디가 되었든 너와 만남을 갖는 건 방도를 마련해 보도록 하지. 고맙다.
 ChaosPostEpilogue01|Chaos Post Epilogue 01|Chaos|올림포스 신들을 한자리에 모았다니 반가운 소식이군. 한 가지 너에게 알려야 할 사실은... 내 자손들이 그렇게나 많이 한 공간에 모이는 일은 이전에 단 한 번도 감지한 적이 없었다. 흉폭한 의도 없이는 말이지. 날 끼워 주려 했고 이렇게 돌아와 준 건 고맙다. 그럼 우리 얘기를 계속해 볼까?
-ChaosPostEpilogue01_B|Chaos Post Epilogue B 01|Chaos|올림포스 신들을 한자리에 모았다니 반가운 소식이군. 한 가지 너에게 알려야 할 사실은... 내 자손들이 그렇게나 많이 한 공간에 모이는 일은 이전에 단 한 번도 감지한 적이 없었다. 내 흉폭한 의도가 아니라면 말이지.
+ChaosPostEpilogue01_B|Chaos Post Epilogue 01 B|Chaos|올림포스 신들을 한자리에 모았다니 반가운 소식이군. 한 가지 너에게 알려야 할 사실은... 내 자손들이 그렇게나 많이 한 공간에 모이는 일은 이전에 단 한 번도 감지한 적이 없었다. 내 흉폭한 의도가 아니라면 말이지.
 ChaosAboutZeus01|Chaos About Zeus 01|Chaos|대단하신 제우스의 축복을 받았군. 그는 아직도 자기가 하늘과 땅의 모든 영역을 소유하고 있다고 믿고 있어. 아무래도 나에 대해서는 잊은 모양이지.
 ChaosAboutPoseidon01|Chaos About Poseidon 01|Chaos|보아하니 포세이돈이 축복을 내렸군. 자만심이 가득하고 호전적이지. 네 아버지와 제우스의 가장 변변치 못한 태도를 빼다 박았다니까.
 ChaosAboutAthena01|Chaos About Athena 01|Chaos|현명한 여신 아테나가 너에게 매력을 한껏 발산했나 보군, 하데스의 아들. 아마 그녀에게 넌 박살 난 자신의 가족을 원상 복귀하는 데 이용할 도구였는지도 몰라.
@@ -35,7 +35,7 @@ ChaosAboutOlympians01|Chaos About Olympians 01|Chaos|지금까지 꽤 많은 올
 ChaosAboutOlympians02|Chaos About Olympians 02|Chaos|나는 그대에게 듣되 말하지 말 것을 요청한다, 하데스의 아들이여. 그러나 올림포스의 신들은 어떠한가? 요청하지 않지. 그저 메시지를 전달하고, 부탁하지도 않았는데 축복을 선택하라고 한다. 그들의 관점을 이해하고자 하지만 쉽지 않도다.
 ChaosAboutOlympians03|Chaos About Olympians 03|Chaos|올림포스의 신들에게 도움을 요청하면 아주 잠시 동안은 마치 그대의 기도를 들어주는 것처럼 보이지. 그대는 자유롭지 않으나 자유로워질 수 있다고 생각하는 것이 어찌나 흥미로운지.
 ChaosAboutHades01|Chaos About Hades 01|Chaos|네 아버지와 형제들이 이 세계 가장 깊은 나락에 티탄을 봉쇄했을 때가 날 본 마지막이야. 넌 그들과 많이 달라. 그래서 너랑 이야기하면 안심이 돼.
-ChaosAboutNyx01_C|Chaos About Nyx C 01|Chaos|내가 닉스 여신과 가까웠던 먼 옛날, 나는 때로 닉스 여신을 거칠게 대했다. 닉스 여신이 첫 아이를 낳았을 때에도 나는 닉스 여신의 관심이 분산되지 않기를 기대했지. 나는 계속 창조했다. 마침내 내가 느려지고 나서야 내 실수를 깨달았다. 그때는 이미 우리 관계가 끊어진 뒤였다.
+ChaosAboutNyx01_C|Chaos About Nyx 01 C|Chaos|내가 닉스 여신과 가까웠던 먼 옛날, 나는 때로 닉스 여신을 거칠게 대했다. 닉스 여신이 첫 아이를 낳았을 때에도 나는 닉스 여신의 관심이 분산되지 않기를 기대했지. 나는 계속 창조했다. 마침내 내가 느려지고 나서야 내 실수를 깨달았다. 그때는 이미 우리 관계가 끊어진 뒤였다.
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|하데스의 아들, 고민이 감지되었다. 어디 한번 이야기해 봐. 무엇이 걱정이지? 말없이도 네 마음을 어느 정도 읽어 낼 수 있지만, 네가 자발적으로 하는 말을 듣고 싶다.
 ChaosAboutNyx02|Chaos About Nyx 02|Zagreus|{#DialogueItalicFormat}저기{#PreviousFormat}, 카오스 님? 닉스 여신님께서... 당신과 다시 대화를 나누고 싶어 하는 것 같아요. 혹시 언제 시간이 나면 연락해 보실 수 있겠어요? 당신이 마음만 먹는다면 먼저 연락을 하는 게 맞다고 굳게 믿으시는 것 같던데.
 ChaosAboutNyx02|Chaos About Nyx 02|Chaos|여신 닉스가 내 연락을 기다린다고...? 예상치 못한 일인데. 혹시 네가 농담을 하는 게 아닌지 궁금해지기도 하고. 하지만 네 의도가 진실하다는 건 알 수 있다. 그렇다면, 아무 약속도 할 수 없지만... 고려해보겠다.
@@ -62,8 +62,8 @@ ChaosAboutDiscovery01|Chaos About Discovery 01|Chaos|궁금했겠지, 하데스�
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|하데스의 아들아. 더 빨리 깨달았어야 하는 사실을 알게 되었다. 네 어머니는 스스로를 페르세포네라 불렀던 자임에 틀림이 없다. 지하세계에서 그녀의 체류는 내 관점에서 짧았으나, 그럼에도 큰 영향력을 남겼구나. 지금 그녀를 찾고 있느냐? 대답하라.
 ChaosAboutPersephone01|Chaos About Persephone 01|Zagreus|그렇습니다. 지상 어딘가에 계십니다. 그래서 제가 카오스 님을 찾아오는 것입니다. 어머니를 찾으려고요.
 ChaosAboutPersephone01|Chaos About Persephone 01|Chaos|그대의 시도가 성공하기를 바란다. 현재 페르세포네는 내 감각 바깥에 있으나, 그럼에도 물론 나는 그대의 여정을 도울 것이니라.
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Zagreus|오, 카오스 님... 제가 이미 그분을 찾았다는 사실을 알려 드려야 할 것 같군요. 그분이 계신 곳엔 오래 머물 수가 없습니다. 그래서 최대한 자주 방문하려 하고 있습니다... 이곳에 오는 것과 별반 다르지 않습니다. 다만 그분이 계신 곳은 다다르기가 더 어렵더군요.
-ChaosAboutPersephone01_B|Chaos About Persephone B 01|Chaos|그럿군. 연락이 닿았다니 잘된 일이야. 앞으로 너의 방문이 이곳에 이렇게 와 있는 시간과 다르지 않게 가치 있는 시간이 되리라 믿는다.
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Zagreus|오, 카오스 님... 제가 이미 그분을 찾았다는 사실을 알려 드려야 할 것 같군요. 그분이 계신 곳엔 오래 머물 수가 없습니다. 그래서 최대한 자주 방문하려 하고 있습니다... 이곳에 오는 것과 별반 다르지 않습니다. 다만 그분이 계신 곳은 다다르기가 더 어렵더군요.
+ChaosAboutPersephone01_B|Chaos About Persephone 01 B|Chaos|그럿군. 연락이 닿았다니 잘된 일이야. 앞으로 너의 방문이 이곳에 이렇게 와 있는 시간과 다르지 않게 가치 있는 시간이 되리라 믿는다.
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|하데스의 아들아, 페르세포네라 불리는 자를 찾는다면 우리는 더 이상 이런 만남을 갖지 않게 되는 것이냐? 대답하라.
 ChaosAboutPersephone02|Chaos About Persephone 02|Zagreus|아, 저는... 카오스 님. 그 경우 어떻게 될지 잘 모르겠습니다. 그러나 솔직히 말해... 제가 영원히 지하세계를 떠나게 된다면... 그렇게 될 것 같습니다. 그래도 뵙고 싶을 겁니다. 여기 있는 다른 많은 존재들도요.
 ChaosAboutPersephone02|Chaos About Persephone 02|Chaos|...나도 그대가 보고 싶을 것이다. 말해 주어 고맙다.

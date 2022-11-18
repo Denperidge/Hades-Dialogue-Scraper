@@ -3,8 +3,8 @@ DusaFirstMeeting|Dusa First Meeting|Dusa|噢！王子本尊，您，是在跟我
 DusaFirstMeeting|Dusa First Meeting|Zagreus|我，呃，我只想说，休息室很好看，跟新的一样。更好了！希望修补的时候能别出什么差错。
 DusaFirstMeeting|Dusa First Meeting|Dusa|我，我，我{#DialogueItalicFormat}啊啊{#PreviousFormat}，我还得打扫房梁呢，我……！
 DusaMiscMeeting02|Dusa Misc Meeting 02|Dusa|我，啊，希望您在这里过得愉快！尽管您并不想继续在这里生活了，殿下！
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，杜莎？我有可能确实会像这样，时不时地回来一趟。不过，我的房间就不用费心收拾了，反正我也待不了太久。
-DusaMiscMeeting02Extra|Dusa Misc Meeting Extra 02|Dusa|哦，{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，没问题！不过我会时不时地照看您的房间，说不定您会改主意呢。呃，所以，再见了！
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Zagreus|{#DialogueItalicFormat}呃{#PreviousFormat}，杜莎？我有可能确实会像这样，时不时地回来一趟。不过，我的房间就不用费心收拾了，反正我也待不了太久。
+DusaMiscMeeting02Extra|Dusa Misc Meeting 02 Extra|Dusa|哦，{#DialogueItalicFormat}哈哈哈{#PreviousFormat}，没问题！不过我会时不时地照看您的房间，说不定您会改主意呢。呃，所以，再见了！
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|{#DialogueItalicFormat}呃{#PreviousFormat}，王子？您父亲，我，我觉得他现在因为一些事情，特别生气，所以，您最好跟他保持距离噢。要不然……我就跟他说您不在好了。
 DusaMiscMeeting03|Dusa Misc Meeting 03|Zagreus|没事，杜莎。我不怕他，你也不用怕他。你是他能找到的最得力的助手了。
 DusaMiscMeeting03|Dusa Misc Meeting 03|Dusa|我，啊，我就在这里干活，王子…！
@@ -34,8 +34,8 @@ DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|杜莎，等
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|王子殿下！您的好意我心领了，我一个人能行！希望大家不要总是怀疑我的能力，跟那个圣殿承包商一样，就在那傻站着，等人给他下达工作单！我要不下单，{#DialogueItalicFormat}他什么都不干{#PreviousFormat}。
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Zagreus|圣殿承包商不配合你的工作啊。难怪这么多休息室翻新工作都滞后了。也许我可以稍微让进度快一点。
 DusaLoungeRenovationQuest02|Dusa Lounge Renovation Quest 02|Dusa|{#DialogueItalicFormat}哎呀{#PreviousFormat}，我都忘记啦！！我还要给主厨送点做饭用的油呢！我必须得走啦！！
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Zagreus|噢，这可能是我的问题。我让承包商做的工作太多了。其中一些休息室的工作单应该是你下的吧？这地方真是越来越好了啊！
-DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest Alt 02|Dusa|哇……哇……等一下，您就是批准这些修缮措施的人吗？！哎呀，{#DialogueItalicFormat}啊啊{#PreviousFormat}！
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Zagreus|噢，这可能是我的问题。我让承包商做的工作太多了。其中一些休息室的工作单应该是你下的吧？这地方真是越来越好了啊！
+DusaLoungeRenovationQuest02_Alt|Dusa Lounge Renovation Quest 02 Alt|Dusa|哇……哇……等一下，您就是批准这些修缮措施的人吗？！哎呀，{#DialogueItalicFormat}啊啊{#PreviousFormat}！
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Zagreus|休息室看起来真是越来越好了，杜莎！这都是你的功劳！
 DusaLoungeRenovationQuest03|Dusa Lounge Renovation Quest 03|Dusa|{#DialogueItalicFormat}哈{#PreviousFormat}！谢谢您，王子殿下，只不过，最近圣殿承包商态度好像好了很多，做事也麻利点了，但是要做的事还是很多，还请您稍安勿躁啊！
 DusaLoungeRenovationQuestComplete|Dusa Lounge Renovation Quest Complete|Dusa|呃，扎格列欧斯王子……？您有时间吗，我想跟您说件事。我知道您很忙……要不，下次再说吧。
@@ -97,8 +97,8 @@ DusaAboutGorgons02|Dusa About Gorgons 02|Dusa|不，不完全是，王子殿下�
 DusaAboutGorgons02|Dusa About Gorgons 02|Zagreus|噢，等一下，你说我吗？我从来没想过这个问题。我猜……应该是因为我父亲的原因吧。他坚持要亲自教我说话。又或者是血液里遗传的？
 DusaAboutGorgons03|Dusa About Gorgons 03|Zagreus|嘿，杜莎，这个问题有点私密，你可以选择不回答，但我必须弄清楚。就是……你之前……也有身体吗，还有其他的？因为，我听说，蛇发女妖，怎么说好呢……你以前还长着翅膀，之类的吗？
 DusaAboutGorgons03|Dusa About Gorgons 03|Dusa|呃，王子殿下，是这样的。你问的问题确实过于私密，而且……我知道你没有恶意，但我不想和任何人讨论这个话题，明白吗？我就是我。再说了！就像你看到的那样，我也不需要翅膀！
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Zagreus|杜莎小姐，我，{#DialogueItalicFormat}呃{#PreviousFormat}，想向你道歉，我不该打听你的过去。我只是想更了解你。但我太迟钝了，对不起。请你原谅我。
-DusaAboutGorgons03Aftermath01|Dusa About Gorgons Aftermath 03 01|Dusa|噢，扎格列欧斯殿下，不要这样！根本不需要为此感到困扰！我都已经把这茬给忘了，真的没什么。只是，过去的我，好像……和我没有关系。现在的我才重要！我对于现状特别满意。
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Zagreus|杜莎小姐，我，{#DialogueItalicFormat}呃{#PreviousFormat}，想向你道歉，我不该打听你的过去。我只是想更了解你。但我太迟钝了，对不起。请你原谅我。
+DusaAboutGorgons03Aftermath01|Dusa About Gorgons 03 Aftermath 01|Dusa|噢，扎格列欧斯殿下，不要这样！根本不需要为此感到困扰！我都已经把这茬给忘了，真的没什么。只是，过去的我，好像……和我没有关系。现在的我才重要！我对于现状特别满意。
 DusaAboutGorgons04|Dusa About Gorgons 04|Zagreus|能动不动就把其他人变成石头，肯定很有趣吧。你随时都可以这么做吗，就像……怎么形容呢，就像把你的舌头伸出来那样轻而易举？
 DusaAboutGorgons04|Dusa About Gorgons 04|Dusa|也没有那么简单，但也不难！首先你必须让自己变得很激动，然后想象你看到的是……呃，一幅画，就这样。{#DialogueItalicFormat}呼{#PreviousFormat}的一下！就变成了石头雕像了。确实挺有意思的，我过去以为每个人都可以这样做呢！
 DusaAboutSingersReunionQuest01|Dusa About Singers Reunion Quest 01|Dusa|嘿，王子殿下，我遇到俄耳甫斯了，他前段时间不在，是因为你的原因吗？他和我说，他去找他的缪斯了！这也太让人激动了吧，我的意思是，他们从死后开始，一直没有见过面！
@@ -120,8 +120,8 @@ DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Zagreus|我不确定这�
 DusaAboutLoungeCleanUp01|Dusa About Lounge Clean Up 01|Dusa|不要这么说，王子殿下！刻耳柏洛斯应该更清楚，再者，你也有自己的工作不是吗？这是我的工作！而且我会尽最大努力，你就等着看吧！
 DusaAboutPersephone01|Dusa About Persephone 01|Zagreus|杜莎，有些和我有关的事情，我觉得你应该知道。我和倪克斯。其实，她不是我的亲生母亲……！我的亲生母亲是珀尔塞福涅。她现在下落不明，但肯定在阳间。这是我要离开的原因。等一下，你是在笑吗？
 DusaAboutPersephone01|Dusa About Persephone 01|Dusa|{#DialogueItalicFormat}哈哈{#PreviousFormat}。噢，不，只是，实在是，呃……非常、非常、非常抱歉，我忍不住，我，呃，不想打断你，因为这些，我早就知道。呃，其实，我都听说了，你知道吗，每个人都在议论？不过，我真心希望你早日找到她！
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Zagreus|我相信你不会对这里的其他人提起这件事，但……{#DialogueItalicFormat}我做到了{#PreviousFormat}。也就是说我已经找到她了！我……正在弄明白下一步该干什么。我暂时不能透露太多，但……你不介意吧？
-DusaAboutPersephone01_B|Dusa About Persephone B 01|Dusa|{#DialogueItalicFormat}哇啊啊{#PreviousFormat}，这真是太让人激动了！她本人是什么样子？高吗？她的眼睛和你的一样吗？她住在哪里？在做什么？她有工作吗？她的头发是什么颜色的？她，呃，我是说，她和别人交往了吗？
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Zagreus|我相信你不会对这里的其他人提起这件事，但……{#DialogueItalicFormat}我做到了{#PreviousFormat}。也就是说我已经找到她了！我……正在弄明白下一步该干什么。我暂时不能透露太多，但……你不介意吧？
+DusaAboutPersephone01_B|Dusa About Persephone 01 B|Dusa|{#DialogueItalicFormat}哇啊啊{#PreviousFormat}，这真是太让人激动了！她本人是什么样子？高吗？她的眼睛和你的一样吗？她住在哪里？在做什么？她有工作吗？她的头发是什么颜色的？她，呃，我是说，她和别人交往了吗？
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|哇啊，怎么，王子殿下，您……等等，您怎么回来了？我是说，我听说……！我听说您……！您怎么还在这里呢？
 DusaRunCleared01|Dusa Run Cleared 01|Zagreus|噢，{#DialogueItalicFormat}哈哈{#PreviousFormat}，没错！我确实走了很远，这点你没听错，杜莎。不过……我在这里还有点其他事要忙，所以……我时不时都会来这里待一阵子。
 DusaRunCleared01|Dusa Run Cleared 01|Dusa|哦，哇哦，太棒了！！我是说，确实很棒吧？我是说，如果您觉得很棒的话，我也觉得很棒！这么说可以吗？
@@ -140,10 +140,10 @@ DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|杜莎，喂，怎么回事，你好像……
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|不，王子殿下，您……您不该和我说话的，我是说，我不能跟您说的，倪克斯小姐她……啊，我又要惹麻烦了！
 DusaVsNyx03|Dusa Vs Nyx 03|Zagreus|慢点，杜莎，慢点说，怎么回事？倪克斯真的让你连话都不准跟我说吗？到底怎么回事？
 DusaVsNyx03|Dusa Vs Nyx 03|Dusa|我也不知道，王子殿下，我……我真的很在乎自己的工作，所以我不能，不能被人看到像这样跟你站在一起，请您理解，好吗？我要走了。
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|杜莎，我……我觉得倪克斯可能有些想法……关于我的想法。因为就像你说得那样，她不希望我们像这样聊天。她……她对你最近的工作不满意了吗？还是怎么样了？
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|啊，王子殿下。不，这和你无关，都是我的问题！她说我要做的事情就是保持镇定，不要规划太多工作，要学会全面考虑问题，不要把自己逼得太紧，如果不是自己的错就别主动去揽锅……！
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Zagreus|这些建议听起来都合情合理，不过我觉得，倪克斯只是在用她的方式告诉你，她并没有生你的气。你可以好好照顾照顾自己吗，杜莎？拜托了。
-DusaVsNyx03Extra|Dusa Vs Nyx Extra 03|Dusa|……另外，她说我不应该和你攀谈。啊啊，这句话她也说过了，我要有大麻烦了，{#DialogueItalicFormat}啊啊{#PreviousFormat}！
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|杜莎，我……我觉得倪克斯可能有些想法……关于我的想法。因为就像你说得那样，她不希望我们像这样聊天。她……她对你最近的工作不满意了吗？还是怎么样了？
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|啊，王子殿下。不，这和你无关，都是我的问题！她说我要做的事情就是保持镇定，不要规划太多工作，要学会全面考虑问题，不要把自己逼得太紧，如果不是自己的错就别主动去揽锅……！
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Zagreus|这些建议听起来都合情合理，不过我觉得，倪克斯只是在用她的方式告诉你，她并没有生你的气。你可以好好照顾照顾自己吗，杜莎？拜托了。
+DusaVsNyx03Extra|Dusa Vs Nyx 03 Extra|Dusa|……另外，她说我不应该和你攀谈。啊啊，这句话她也说过了，我要有大麻烦了，{#DialogueItalicFormat}啊啊{#PreviousFormat}！
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|我，呃，王子殿下，我……是来说再见的，因为……这是我最后一天，或者说最后一晚在这里工作了。嗯，不管怎样，这段时间我一直很开心，能在这里工作，认识您，这里的一切都是这么美好……！
 DusaVsNyx04|Dusa Vs Nyx 04|Zagreus|等下……等下……等下，到底怎么回事，什么最后一天一晚的，你到底在说什么？你真要走了吗？为什么？
 DusaVsNyx04|Dusa Vs Nyx 04|Dusa|我的工作丢了！倪克斯小姐她……她是这样说的，所以……我不能再闯祸了，我得走了。再见了，王子殿下！再见了……！
@@ -304,10 +304,10 @@ DusaGift03|Dusa Gift 03|Dusa|噢，噢，噢，天啊，殿下，你真的…真
 DusaGift03|Dusa Gift 03|Zagreus|没错，杜莎。我希望你会喜欢。
 DusaGift04|Dusa Gift 04|Dusa|但，但是，王子，我，我不知道该说什么了，我…您是不是在跟我开玩笑呀…？
 DusaGift04|Dusa Gift 04|Zagreus|噢，我现在可是非常认真的，杜莎，真的。是给你的。
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|杜莎，你一定是这里工作最认真，最努力的人，这样才能把这里整理得如此整洁整齐。我要好好谢谢你，真的十分感谢！还有，这个是送给你的。
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|噢，王子殿下，哇，谢谢！太感谢您了！！您太慷慨了，我……我都不知道说什么好了！此情此景，真的不知道该说什么好了！
-DusaGift05_Alt|Dusa Gift Alt 05|Zagreus|噢，什么都别说啦！我真的不是故意要让你如此紧张的。只是很高兴我们能彼此认识。
-DusaGift05_Alt|Dusa Gift Alt 05|Dusa|我……我也很高兴能有机会能够认识您。谢谢您的蜜露！一定非常好喝！{#DialogueItalicFormat}嗯{#PreviousFormat}，好吧，后会有期！
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|杜莎，你一定是这里工作最认真，最努力的人，这样才能把这里整理得如此整洁整齐。我要好好谢谢你，真的十分感谢！还有，这个是送给你的。
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|噢，王子殿下，哇，谢谢！太感谢您了！！您太慷慨了，我……我都不知道说什么好了！此情此景，真的不知道该说什么好了！
+DusaGift05_Alt|Dusa Gift 05 Alt|Zagreus|噢，什么都别说啦！我真的不是故意要让你如此紧张的。只是很高兴我们能彼此认识。
+DusaGift05_Alt|Dusa Gift 05 Alt|Dusa|我……我也很高兴能有机会能够认识您。谢谢您的蜜露！一定非常好喝！{#DialogueItalicFormat}嗯{#PreviousFormat}，好吧，后会有期！
 DusaGift06|Dusa Gift 06|Zagreus|嗨，杜莎？我这还有一些非常不错的蜜露要给你！还希望你能再接再厉，更重要的是，要坚持做优秀的自己。
 DusaGift06|Dusa Gift 06|Dusa|我……我……我，我太感动了，王子殿下。不过我最近太忙了，上回您送的蜜露我还没来得及尝一口呢，所以……要不您就把这些蜜露送给别人吧？
 DusaGift06|Dusa Gift 06|Zagreus|这就是给你的！再说了，你肯定能抽出时间好好尝一尝的，不是吗？

@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|Ich wünsche dir viel Glück bei der E
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|Du wurdest Zeuge der zerstörerischen Kraft des Himmels! Stell dir nur vor, wie es auf Erden aussehen mag!
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|Eines Tages, wenn wir auf diesen Höhen ruhig schlafen, werden wir auf all das zurückblicken und darüber lachen, des bin ich mir gewiss!
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, wenn das nicht mein Lieblingsneffe ist, auf seinem unbeirrten Weg an die Oberfläche meiner Welt. Dein Vater glaubt doch etwa nicht, dass er dich zügeln kann?
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|Meinen Segen hast du nach wie vor, junger Mann.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|Ich hoffe, du kommst im Kürze da heraus, Neffe.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|Ich werde über dich wachen, junger Mann, auch wenn es dort unten finster ist!
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|Möge die Macht des Olymp dich durch die Schatten führen, Neffe.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|Lass dich von deinem Vater nicht beirren, junger Mann, sondern finde deinen Weg nach oben.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|Zagreus, wir werden weiterhin an dich glauben, also arbeite fleißig weiter, {#DialogueItalicFormat}hm{#PreviousFormat}?
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|Meinen Segen hast du nach wie vor, junger Mann.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|Ich hoffe, du kommst im Kürze da heraus, Neffe.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|Ich werde über dich wachen, junger Mann, auch wenn es dort unten finster ist!
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|Möge die Macht des Olymp dich durch die Schatten führen, Neffe.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|Lass dich von deinem Vater nicht beirren, junger Mann, sondern finde deinen Weg nach oben.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|Zagreus, wir werden weiterhin an dich glauben, also arbeite fleißig weiter, {#DialogueItalicFormat}hm{#PreviousFormat}?
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|Ich sorge dafür, dass jetzt der Himmel selbst dir bei deinem Aufstieg beisteht, Neffe.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|Sieh dich da unten vor, ja, junger Mann?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|Wir alle sind für dich da, junger Mann!
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|Bitte, ehrwürdiger Onkel Zeus, nimm diese Gabe 
 ZeusGift05|Zeus Gift 05|Zeus|Ich freue mich sehr, dass du deinem Onkel Respekt und Bewunderung zollst, Zagreus. Mit einer Einstellung wie dieser wirst du es hier auf dem Olymp weit bringen! Nicht jeder ist so wohlerzogen oder klug.
 ZeusGift06|Zeus Gift 06|Zagreus|Wenn du mich hören kannst, mächtiger Onkel Zeus: Ich möchte dir dieses einfache Geschenk machen und verbinde damit meinen bescheidenen Wunsch, dass du und Vater eines Tages alle eure Streitigkeiten beilegt und ins Reine kommt.
 ZeusGift06|Zeus Gift 06|Zeus|Ah, eine treffliche Gabe, junger Mann. Und obgleich wir uns noch nicht persönlich kennen, kommt es mir bereits so vor, als stünden wir beide uns nahe, näher gar, als du und dein Vater! {#DialogueItalicFormat}Oh, hahaha! {#PreviousFormat}Vielleicht sollten wir allen erzählen, dass {#DialogueItalicFormat}ich {#PreviousFormat}dein echter Vater bin, hab ich recht?
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, eine vortreffliche Gabe, junger Mann. Und obgleich wir uns noch nicht persönlich kennen, kommt es mir bereits so vor, als stünden wir beide uns nahe, näher gar, als du und dein Vater! {#DialogueItalicFormat}Oh, hahaha! {#PreviousFormat}Vielleicht sollten wir allen erzählen, dass {#DialogueItalicFormat}ich {#PreviousFormat}dein echter Vater bin, hab ich recht?
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, eine vortreffliche Gabe, junger Mann. Und obgleich wir uns noch nicht persönlich kennen, kommt es mir bereits so vor, als stünden wir beide uns nahe, näher gar, als du und dein Vater! {#DialogueItalicFormat}Oh, hahaha! {#PreviousFormat}Vielleicht sollten wir allen erzählen, dass {#DialogueItalicFormat}ich {#PreviousFormat}dein echter Vater bin, hab ich recht?
 ZeusGift07|Zeus Gift 07|Zagreus|König der Olympier, ehrwürdiger Zeus! Verzeih mir, dass ich dir Ambrosia schenke, ich weiß, dein Vorrat ist unbegrenzt. Es ist das Schönste, das man geben kann, und doch ist es nichts im Vergleich zu dem, was du für mich getan hast. Danke, Onkel.
 ZeusGift07|Zeus Gift 07|Zeus|Aber, Neffe, das ist sehr großzügig von dir, mir so viel Ehrerbietung zu zeigen. Doch wir sollten etwas Abstand halten, oder? Denn all die anderen hier wären höchst eifersüchtig, wenn sie mitbekämen, dass ich meine Lieblinge habe! Auch wenn du mein Liebling bist! Zumindest im Moment.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|Tss, äh, Zagreus ... anstatt dich zu begrüßen, wie ich es normalerweise tun würde, möchte ich dir gern meinen berühmten, freundlichen, großzügigen ehrwürdigen Vater, deinen besten Onkel Zeus vorstellen!

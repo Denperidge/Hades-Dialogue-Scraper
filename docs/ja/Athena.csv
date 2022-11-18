@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|おまえの父君の頑固な�
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|わがいとこよ、そなたの行く手を\nはばまんとする不届きな亡者には、罰を下せ。\n生前学ぶべきだったことを、今思い知らせてやるのだ。
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|わがいとこよ、揺るぎない決意に従い、突き進め。\n足場が幾度崩れようと、案ずることはない。\n私がついている。
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|多忙の身と承知している。手短に済ませよう。\n私の能力を授ければ、おまえの脱出が叶う可能性は\n高まる。好みのものを選び、先を急ぐがいい。
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|わがいとこよ。\n英知と幸運が、おまえを光へと導くことを願う。
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|冥界の亡者どもに、さらなる恐怖を教えてやれ。
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|わがいとこよ。\n英知と幸運が、おまえを光へと導くことを願う。
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|冥界の亡者どもに、さらなる恐怖を教えてやれ。
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|ザグレウス、知恵と力が、\nおまえを闇より救いだすだろう。
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|おまえの敵は、知恵を持たぬ亡者ども。おまえの聖なる力をもってすれば、恐るるに足らぬ相手だ。
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|わがいとこよ、忘れるな。\n私はいつでも、おまえを見守っている。
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|女神アテナより賜りし大いなる�
 AthenaGift03|Athena Gift 03|Athena|丁重な心遣いに感謝する。光栄だが、今はどうか、\nおのれの身を案ずることに注力してほしい。
 AthenaGift04|Athena Gift 04|Zagreus|その英知をもって、われを光へ導き給うた女神アテナに、供物を捧げん。
 AthenaGift04|Athena Gift 04|Athena|この供物を、私に？心遣いに感謝する。\nだが、おまえには為さねばならぬ目的があるはずだ。\n本分をおろそかにせず、すべきことに注力してほしい。
-AthenaGift05A|Athena Gift A 05|Zagreus|わが目的を果たすべく、日々努力を重ねるなか、\n思い知るのは、“すべては女神アテナの加護の下に\n為し得た”という事実。感謝の印として、ささやかな\n供物を受け取り給え。
-AthenaGift05A|Athena Gift A 05|Athena|おまえが私に感謝の念を伝える手段が限られている\nことは、理解している。ありがたく受け取ろう。\nとはいえ、今は私への気遣いより、優先すべきことが\nあるはずだ。こうした機会は、目的を達したのちに\n設ければよい。
-AthenaGift05B|Athena Gift B 05|Athena|おまえが私に感謝の念を伝える手段が限られている\nことは、十分理解している。ありがたく受け取ろう。\nとはいえ、今は私への気遣いより、優先すべきことが\nあるはずだ。こうした機会は、別の時に設ければよい。
+AthenaGift05A|Athena Gift 05 A|Zagreus|わが目的を果たすべく、日々努力を重ねるなか、\n思い知るのは、“すべては女神アテナの加護の下に\n為し得た”という事実。感謝の印として、ささやかな\n供物を受け取り給え。
+AthenaGift05A|Athena Gift 05 A|Athena|おまえが私に感謝の念を伝える手段が限られている\nことは、理解している。ありがたく受け取ろう。\nとはいえ、今は私への気遣いより、優先すべきことが\nあるはずだ。こうした機会は、目的を達したのちに\n設ければよい。
+AthenaGift05B|Athena Gift 05 B|Athena|おまえが私に感謝の念を伝える手段が限られている\nことは、十分理解している。ありがたく受け取ろう。\nとはいえ、今は私への気遣いより、優先すべきことが\nあるはずだ。こうした機会は、別の時に設ければよい。
 AthenaGift06|Athena Gift 06|Zagreus|日々、多くの神務に携わる身ながら、\nこの者を苦境より救わんと助力し、\n冥界の一族のためにも心を砕く女神アテナに感謝を。\nその篤き心遣いと堅き意志が、この者に力をもたらす…
 AthenaGift06|Athena Gift 06|Athena|互いに感謝の念を伝え合う機会は、こうした場をおいて他にないのかもしれない。おまえのおかげで、\n私はその可能性に気づくことができた。私の心は、\n揺るぎはしない。今後もおまえの力となるべく戦おう。
 AthenaGift07|Athena Gift 07|Zagreus|わがいとこ、女神アテナより受けた数々の助力への\n感謝の印として、このアンブロシアを捧ぐ。\nオリュンポスにて醸造される逸品も、奈落の底までの\n長い道のりをへて、その風味はいや増し、知恵の\n女神への供物にふさわしいかぐわしさとなろう。

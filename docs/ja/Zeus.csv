@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|わが甥の旅の無事を願い、�
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|私が統べる天のすさまじい破壊力、おまえも\n承知しているな？それを地上にて振るう様を、\n想像してみるがよい！
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|おまえがオリュンポスの頂に到達し、共にこの脱出劇の思い出話に花を咲かせる日が楽しみだ！
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|今日もわが自慢の甥は、私の統べる世界を目指し、\n奮闘しているな。ハデスも内心、承知しているはずだ…\nおまえを足止めすることなどできぬとな。
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|雷神ゼウスの祝福を授けよう。
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|おまえなら必ず、冥界を脱することが叶うだろう。
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|私はいつでも、おまえを見守っている。\n…そちらは暗くて、あまりよく見えぬがな！
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|オリュンポスの光が、\nおまえの行く手をはばむ闇を祓うだろう。
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|ハデスにおまえを止めることはできぬ。\n闇の底より這い上がるのだ！
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|ザグレウス、われらは決して、おまえを\n見限ることはない。歩みを止めるでないぞ。
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|雷神ゼウスの祝福を授けよう。
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|おまえなら必ず、冥界を脱することが叶うだろう。
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|私はいつでも、おまえを見守っている。\n…そちらは暗くて、あまりよく見えぬがな！
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|オリュンポスの光が、\nおまえの行く手をはばむ闇を祓うだろう。
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|ハデスにおまえを止めることはできぬ。\n闇の底より這い上がるのだ！
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|ザグレウス、われらは決して、おまえを\n見限ることはない。歩みを止めるでないぞ。
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|天界の神々総出でおまえの脱出に助力するよう、\n私が取りはからおう。
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|ザグレウスよ、くれぐれも気をつけて旅をするのだぞ。
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|ザグレウスよ、われわれは皆、おまえの味方だ！
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|ゼウス叔父上… あなたの栄光をた�
 ZeusGift05|Zeus Gift 05|Zeus|叔父に敬意を払うとは、じつに殊勝な心がけ。\nおまえは必ずや、オリュンポスで大成することだろう。\nこの山には、礼儀をわきまえぬ輩や、\n浅はかな者も多いゆえ。
 ZeusGift06|Zeus Gift 06|Zagreus|ゼウス叔父上… この声が届いているのなら、ささやかな供物をお受け取りください。いつの日か、叔父上と父上が和解に至ることを願っています。
 ZeusGift06|Zeus Gift 06|Zeus|これはまた… 申し分のない供物だ。おまえとはいまだ\n直接顔を合わせたことはないが、すでにじつの息子同然に思っているぞ！その気持ちは、ともすれば、おまえの\n父以上だろう！{#DialogueItalicFormat}ハッハッハ！{#PreviousFormat}この際、皆に告げて\n回るか！おまえの実父は、この私だと！
-ZeusGift06_B|Zeus Gift B 06|Zeus|これはまた… 申し分のない供物だ。おまえと直接顔を\n合わせたことこそないが、すでにじつの息子同然に\n思っているぞ！ともすれば、私はおまえの父以上に、\nおまえを息子のように思っているだろう！この際、\n皆に告げて回るか！おまえの実父は、この私だと！
+ZeusGift06_B|Zeus Gift 06 B|Zeus|これはまた… 申し分のない供物だ。おまえと直接顔を\n合わせたことこそないが、すでにじつの息子同然に\n思っているぞ！ともすれば、私はおまえの父以上に、\nおまえを息子のように思っているだろう！この際、\n皆に告げて回るか！おまえの実父は、この私だと！
 ZeusGift07|Zeus Gift 07|Zagreus|オリュンポスの神々の王、雷神ゼウスに、ささやかな\n供物を。アンブロシアなど、オリュンポスではつまらぬものでしょうが、冥界で入手できる供物としては、\n最良です。叔父上より受けた御加護に、多少なりとも\n返礼できれば。
 ZeusGift07|Zeus Gift 07|Zeus|私に供物を捧げ敬意を示すとは、じつに殊勝な心がけ。\nとはいえ、あまり親しくしすぎるのも、いかがなものか。おまえをひいきしていると思われては、他の神々の\n嫉妬を招く。とはいえ、私がおまえに特に目をかけて\nいることは、少なくとも当面は、事実だがな…
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|コホン！ザグレウス殿… こちらにおわしますは、\n慈悲深き、寛大なる、偉大なる、わが父にして、\nそなたの叔父上… ゼウス王なり！

@@ -27,8 +27,8 @@ NyxAboutHades02|Nyx About Hades 02|Zagreus|倪克斯，迄今为止你提供给�
 NyxAboutHades02|Nyx About Hades 02|Nyx|你无须为我担心，我的孩子。我不是什么你父亲想罚便罚的小卒。我是夜之女神，是这座圣殿得以存在的根基。你父亲很明白这一点，因此，他和我有一些共同的目的。我们必须合作。
 NyxAboutHades02|Nyx About Hades 02|Zagreus|那……如果他对你毫无办法，你为什么要和他合谋隐瞒我？我的意思是，隐瞒我的生母一事？
 NyxAboutHades02|Nyx About Hades 02|Nyx|请你理解……我无法透露任何关于那件事的隐情。当你终有一天遇到你的亲生母亲……你就会明白的。
-NyxAboutHades02_B|Nyx About Hades B 02|Zagreus|有合作的义务……难怪我把你俩当成一对夫妻了呢。
-NyxAboutHades02_B|Nyx About Hades B 02|Nyx|我和你父亲……有时候也是这么说服我们自己的。
+NyxAboutHades02_B|Nyx About Hades 02 B|Zagreus|有合作的义务……难怪我把你俩当成一对夫妻了呢。
+NyxAboutHades02_B|Nyx About Hades 02 B|Nyx|我和你父亲……有时候也是这么说服我们自己的。
 NyxAboutAthena01|Nyx About Athena 01|Zagreus|倪克斯，我最近与女神雅典娜有些来往。 她似乎很敬佩您。 我以为奥林匹斯众神不喜欢我们一类？
 NyxAboutAthena01|Nyx About Athena 01|Nyx|他们通常确实不喜欢我们。但是，你是家属，孩子。而我……我相信雅典娜足够明智，可以理解为什么像我这样的神会刻意寻求她，指定是她。 反过来，她也通告了她的家人。
 NyxAboutAthena02|Nyx About Athena 02|Zagreus|雅典娜向您致以最诚挚的问候，倪克斯。听起来自从这一切开始之后，你们一直保持着一定程度的往来，是吗？
@@ -240,7 +240,7 @@ NyxAboutCharonFight01|Nyx About Charon Fight 01|Zagreus|我们……算是已经
 NyxAboutCharonFight01|Nyx About Charon Fight 01|Nyx|或许你不用做什么，因为这没必要。说不定他很喜欢能有位势均力敌的对手，毕竟没几个人有胆量挑战他。
 NyxMegDefeated01|Nyx Meg Defeated 01|Nyx|你打败了墨纪拉，孩子，她现在正在休息室里生闷气呢。在这里你不用担心她的鞭子，但她的话就不一定了。
 NyxMegDefeated01|Nyx Meg Defeated 01|Zagreus|我最好跟她谈谈。多谢你的提醒，倪克斯。我们回头见。
-NyxMegDefeated01_Alt|Nyx Meg Defeated Alt 01|Nyx|你肯定打败了墨纪拉，我的孩子。因为她一直躲在那个角落里生闷气。你在这里很安全，她的鞭子抽不到你，但她的话依然很伤人。
+NyxMegDefeated01_Alt|Nyx Meg Defeated 01 Alt|Nyx|你肯定打败了墨纪拉，我的孩子。因为她一直躲在那个角落里生闷气。你在这里很安全，她的鞭子抽不到你，但她的话依然很伤人。
 NyxAboutChaos01|Nyx About Chaos 01|Zagreus|倪克斯，你认识一位轻声细语说话，名为卡俄斯的吗？最近祂开始接近我，给了我个另类的祝福。
 NyxAboutChaos01|Nyx About Chaos 01|Nyx|原始者卡俄斯……没错，我的确认识，祂一定对你的事产生了兴趣。至于他的祝福，我建议你谨慎对待为妙。不过你得了解，卡俄斯或许很狡猾，但祂不会欺骗你。
 NyxAboutChaos02|Nyx About Chaos 02|Zagreus|能告诉我更多有关卡俄斯的事吗，倪克斯？我…有许多疑问。
@@ -274,8 +274,8 @@ NyxAboutMeg02|Nyx About Meg 02|Nyx|{#DialogueItalicFormat}啊哈哈……{#Previ
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|很高兴看到你和墨纪拉能够深入了解彼此。而且，我也一直希望你和她能够相处的如此融洽。
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Zagreus|我们在一起，你很开心吧，倪克斯？我还以为你会担心这种关系会影响工作什么的呢。不过，能得到你的认可我很高兴。
 NyxAboutMegRelationship01|Nyx About Meg Relationship 01|Nyx|我不担心墨纪拉会因此受影响，孩子。而且，这种事情往往能带来更多启发，激励她取得更大的成就。不过，主要是这本身也会让人产生更强烈的满足感。
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Zagreus|我跟墨纪成为朋友，你很开心吧，倪克斯？当然我也很开心，不过……我担心这样会影响墨纪的工作。
-NyxAboutMegRelationship01B|Nyx About Meg Relationship B 01|Nyx|我对你们两个都没有这种担忧。你们都会专注于自己的事业。我相信，偶尔发生的摩擦不会影响你们的友谊。毕竟你们也算是不打不相识吧，不是吗？
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Zagreus|我跟墨纪成为朋友，你很开心吧，倪克斯？当然我也很开心，不过……我担心这样会影响墨纪的工作。
+NyxAboutMegRelationship01B|Nyx About Meg Relationship 01 B|Nyx|我对你们两个都没有这种担忧。你们都会专注于自己的事业。我相信，偶尔发生的摩擦不会影响你们的友谊。毕竟你们也算是不打不相识吧，不是吗？
 NyxAboutThanatos01|Nyx About Thanatos 01|Zagreus|倪克斯……我在外面碰到塔纳托斯了。他帮助了我，但是我觉得他好像有点不开心。然后我就走了。
 NyxAboutThanatos01|Nyx About Thanatos 01|Nyx|塔纳托斯在为你担心，孩子。希望你能理解，不管你感觉他有多恼火，那都不是真正他想表达的。还请原谅他的无礼。
 NyxAboutThanatos02|Nyx About Thanatos 02|Nyx|塔纳托斯终于回来了。你没看到他吗，孩子？他最近有点忙。再见到你一定让他感到高兴。
@@ -283,8 +283,8 @@ NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|你和我�
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|谢谢你，倪克斯。我觉得我和他一直以来都对彼此有感觉，如今我们终于正视了这份感情。
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Nyx|这样一来，你们都得到了自己想要的了。还请你帮我关照一下我亲爱的儿子。我一直都怕他工作太卖力，累到自己。
 NyxAboutThanatosRelationship01|Nyx About Thanatos Relationship 01|Zagreus|{#DialogueItalicFormat}哦{#PreviousFormat}，他过得挺好的。不过我会帮你照看他的。
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Zagreus|在这种地方能交到朋友真的不容易。不过，我一直以来都很信任塔纳托斯，他对我也一样。我觉得我们现在更加了解彼此了。
-NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship B 01|Nyx|那么，只要圣殿依然统治着冥界，这片黑暗领地，我希望你们的友谊永远不会改变。照顾好我最心爱的儿子。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Zagreus|在这种地方能交到朋友真的不容易。不过，我一直以来都很信任塔纳托斯，他对我也一样。我觉得我们现在更加了解彼此了。
+NyxAboutThanatosRelationship01B|Nyx About Thanatos Relationship 01 B|Nyx|那么，只要圣殿依然统治着冥界，这片黑暗领地，我希望你们的友谊永远不会改变。照顾好我最心爱的儿子。
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|怎么了，孩子？我感觉到你关心的东西和平时的不大一样。但我还不确定。
 NyxAboutDusa01|Nyx About Dusa 01|Zagreus|啊，那只是……请您别误解，倪克斯，我只是担忧您对杜莎太苛刻了。您甚至让她别和我说话，是吗？
 NyxAboutDusa01|Nyx About Dusa 01|Nyx|我让她注意自己的职责。我担心她忘记自己在这座圣殿里的身份。虽然你很随和……但再怎么说你也是王子！冥王哈迪斯的独子，命定的这片领地的主宰。你应该多与诸神作伴，而不是和不成器的蛇发女妖。

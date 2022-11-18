@@ -7,7 +7,7 @@ HypnosMiscMeeting04|Hypnos Misc Meeting 04|Hypnos|哇哦，你应该已经死了
 HypnosMiscMeeting04|Hypnos Misc Meeting 04|Zagreus|好！你只管死就好啦，事情会越来越好的。
 HypnosMiscMeeting05|Hypnos Misc Meeting 05|Hypnos|观察冥池还是很有意思的，你知道吗？血和所有一切事物产生的波纹，有时候，会有人跟你一样，从里面浮出来！圣殿内的员工和贵宾，没其他的了。我帮他们入住，然后确定他们享受这个地方！
 HypnosMiscMeeting06|Hypnos Misc Meeting 06|Hypnos|{#DialogueItalicFormat}噢{#PreviousFormat}，你竟然一路通向了水仙花平原，太厉害了！尽管你还是跟以前一样死了又死，不过没那么快了，这也算是种进步吧。
-HypnosRunProgress01_A|Hypnos Run Progress A 01|Hypnos|嘿，哇哦，你做到了！根据我的记录显示，你已经死了，呃，{#DialogueItalicFormat}至少{#PreviousFormat}五十次了！你死的次数已经比所有人都多了，我觉得！
+HypnosRunProgress01_A|Hypnos Run Progress 01 A|Hypnos|嘿，哇哦，你做到了！根据我的记录显示，你已经死了，呃，{#DialogueItalicFormat}至少{#PreviousFormat}五十次了！你死的次数已经比所有人都多了，我觉得！
 HypnosRunProgress01|Hypnos Run Progress 01|Hypnos|哎，我要第一个对你说：{#DialogueItalicFormat}恭喜{#PreviousFormat}！从我开始计数以来，你已经死了一百次啦！我可是一直有在数的噢。虽然我没有奖励给你，不过这旅程本身就是一种奖励，对吧？
 HypnosRunProgress02|Hypnos Run Progress 02|Hypnos|我要说的事情恐怕会让你大吃一惊，你准备好了吗？三百……{#DialogueItalicFormat}次{#PreviousFormat}！！没错！你已经死过三百次了！这就像是……比地震对村子造成的伤亡还多，都是你一个人努力赴死的结果！
 HypnosRunProgress03|Hypnos Run Progress 03|Hypnos|哦，虽然我明白我的清单绝不会撒谎，可我还是不敢相信！你已经死了五{#DialogueItalicFormat}百{#PreviousFormat}次了！{#DialogueItalicFormat}五百{#PreviousFormat}次啊！！我简直想不出来比这更大的数字了！
@@ -40,29 +40,29 @@ HypnosPostEpilogue01|Hypnos Post Epilogue 01|Hypnos|我一直在呼呼大睡！
 HypnosAutograph01|Hypnos Autograph 01|Zagreus|嗨，修普诺斯？感谢你一直以来给我的好建议。是从你的偶像，一位高大威猛挥舞着双头斧的牛头怪物那里拿到的。
 HypnosAutograph01|Hypnos Autograph 01|Hypnos|这是什么，这手写的字有点不好辨认。上面写着，我的天啊……{#DialogueItalicFormat}致我的铁粉修普诺斯，保持警惕，阿斯忒里俄斯。 {#PreviousFormat}这上面……竟然还画了头牛。你真是……我……哇哦……{#DialogueItalicFormat}哇哦{#PreviousFormat}！
 HypnosConsolation01|Hypnos Consolation 01|Hypnos|嚯，看样子你是被暴徒给打败了，不太好！他们应该速度很慢，但是力气很大。你试过躲开攻击吗？
-HypnosConsolation01_B|Hypnos Consolation B 01|Hypnos|从我这个表单上来看，你应该是又被那些暴徒残魂给揍回来了！看来躲开攻击没什么用，嗯…？
+HypnosConsolation01_B|Hypnos Consolation 01 B|Hypnos|从我这个表单上来看，你应该是又被那些暴徒残魂给揍回来了！看来躲开攻击没什么用，嗯…？
 HypnosConsolation02|Hypnos Consolation 02|Hypnos|似乎你是被一个女巫给射死了，真是惨啊。要不要试试先发制人？
-HypnosConsolation02_B|Hypnos Consolation B 02|Hypnos|你一定遇到了地狱传道者了吧？他们可比塔耳塔罗斯的低级女巫要厉害得多，难怪你老爸让他们留在水仙花平原热身呢！
-HypnosConsolation02_C|Hypnos Consolation C 02|Hypnos|噢哟，这次是禁忌使者把你干掉了，你老爸地盘上的女巫还真不少呢。上面的凡人肯定扛不住这么危险的巫术，你也一样扛不住！
+HypnosConsolation02_B|Hypnos Consolation 02 B|Hypnos|你一定遇到了地狱传道者了吧？他们可比塔耳塔罗斯的低级女巫要厉害得多，难怪你老爸让他们留在水仙花平原热身呢！
+HypnosConsolation02_C|Hypnos Consolation 02 C|Hypnos|噢哟，这次是禁忌使者把你干掉了，你老爸地盘上的女巫还真不少呢。上面的凡人肯定扛不住这么危险的巫术，你也一样扛不住！
 HypnosConsolation03|Hypnos Consolation 03|Hypnos|{#DialogueItalicFormat}啊{#PreviousFormat}，看来你是被害虫的那些令人恶心的陷阱给干掉了吧，那些像罐子似的家伙？也许你要试着避开。
 HypnosConsolation04|Hypnos Consolation 04|Hypnos|{#DialogueItalicFormat}噢哇哦{#PreviousFormat}，这次是墨纪拉本人把你给打倒了，一定是激烈的战斗吧！她又快又强，又美丽，又…呃，不管怎样，希望命运之神下次能对你好点！
-HypnosConsolation04_B|Hypnos Consolation B 04|Hypnos|{#DialogueItalicFormat}哈{#PreviousFormat}！复仇女神墨纪拉又把你打倒啦！她可真是强啊，对不对？有一次，她准备去和你老爸说话，我本打算制止她，可她都没正眼看我！{#DialogueItalicFormat}<叹气……>
-HypnosConsolation04_C|Hypnos Consolation C 04|Hypnos|你又被复仇女神墨纪拉的{#DialogueItalicFormat}鞭子抽{#PreviousFormat}倒啦！呃？！我一直想说那个词。鞭子抽，你知道吗？既能形容出你输掉时的惨状，也描绘了她那根经常拿来威胁我、不让我跟她说话的发亮的紫色鞭子。
+HypnosConsolation04_B|Hypnos Consolation 04 B|Hypnos|{#DialogueItalicFormat}哈{#PreviousFormat}！复仇女神墨纪拉又把你打倒啦！她可真是强啊，对不对？有一次，她准备去和你老爸说话，我本打算制止她，可她都没正眼看我！{#DialogueItalicFormat}<叹气……>
+HypnosConsolation04_C|Hypnos Consolation 04 C|Hypnos|你又被复仇女神墨纪拉的{#DialogueItalicFormat}鞭子抽{#PreviousFormat}倒啦！呃？！我一直想说那个词。鞭子抽，你知道吗？既能形容出你输掉时的惨状，也描绘了她那根经常拿来威胁我、不让我跟她说话的发亮的紫色鞭子。
 HypnosConsolation05|Hypnos Consolation 05|Hypnos|看来你让尖刺陷阱给扎穿了？太惨了！下次尖刺出来的时候，你就不要站在上面了，怎么样？
 HypnosConsolation06|Hypnos Consolation 06|Hypnos|噢看样子这次是中了飞镖陷阱，一定很疼吧！有没有试过躲在什么东西后面？
 HypnosConsolation07|Hypnos Consolation 07|Hypnos|{#DialogueItalicFormat}噢{#PreviousFormat}，看来你是被一个爆炸罐子给炸没了！我们会把一些非常凶残的暗灵封印在里面，你如果非要去招惹它们，它们就会{#DialogueItalicFormat}砰{#PreviousFormat}的一声挣脱出来！哈哈。
 HypnosConsolation08|Hypnos Consolation 08|Hypnos|哇噢噢，你被那些炼狱火药僵尸给干掉了，真好！我一直想知道如果他们的炸弹快爆炸了，你还不跑会发生什么！
 HypnosConsolation09|Hypnos Consolation 09|Hypnos|噫，看样子是水仙花平原的骸骨九头蛇把你跺没了，是吧？听说它的每一个头都有自己的特点。一定很艰难吧！
-HypnosConsolation09_B|Hypnos Consolation B 09|Hypnos|骸骨九头蛇又把你打败了？真是令人难过呀。不过，你知道吗？我要你原路返回，从塔耳塔罗斯，到水仙花平原那里，把它给我打飞，知道吗？没问题！
-HypnosConsolation09_C|Hypnos Consolation C 09|Hypnos|等等，让我猜一下，别告诉我……你又败给了骸骨九头蛇！这都是第几次了？下回你一定能干掉它们，我相信你！也许下下次。最后，总能行的！
+HypnosConsolation09_B|Hypnos Consolation 09 B|Hypnos|骸骨九头蛇又把你打败了？真是令人难过呀。不过，你知道吗？我要你原路返回，从塔耳塔罗斯，到水仙花平原那里，把它给我打飞，知道吗？没问题！
+HypnosConsolation09_C|Hypnos Consolation 09 C|Hypnos|等等，让我猜一下，别告诉我……你又败给了骸骨九头蛇！这都是第几次了？下回你一定能干掉它们，我相信你！也许下下次。最后，总能行的！
 HypnosConsolation10|Hypnos Consolation 10|Hypnos|{#DialogueItalicFormat}啊{#PreviousFormat}，那些可怜的呆子残魂把你给打回来啦，那些肥头大耳的家伙？我想你下次应该先把他们给解决了！
-HypnosConsolation10_B|Hypnos Consolation B 10|Hypnos|{#DialogueItalicFormat}噢{#PreviousFormat}，又被呆子给扇死了你，真艰辛啊！有试过和它们说一说……道理吗？
+HypnosConsolation10_B|Hypnos Consolation 10 B|Hypnos|{#DialogueItalicFormat}噢{#PreviousFormat}，又被呆子给扇死了你，真艰辛啊！有试过和它们说一说……道理吗？
 HypnosConsolation11|Hypnos Consolation 11|Hypnos|嘿，你被那些漂浮的硫磺水晶样的东西给整死了吧！下次它们用光线要把你烧成炭的时候，你靠边站一站怎么样？
 HypnosConsolation14|Hypnos Consolation 14|Hypnos|噢，哎哟，你是不是站在岩浆里被烧死了？我知道你可能脚下会生火，但那可是岩浆哎，你要不要好好考虑一下！
 HypnosConsolation15|Hypnos Consolation 15|Hypnos|嗯，看样子这次你是直接走到了岩浆喷射口上了，是这样对吧？希望你能等到它冷却，而不是直接走上去送死！
 HypnosConsolation16|Hypnos Consolation 16|Hypnos|{#DialogueItalicFormat}噢{#PreviousFormat}，看来你是被一个小骷髅头给一口咬死了，我猜的没错吧？如果你不是这么好吃的话，它们应该就会放过你了！我也是！
-HypnosConsolation16_B|Hypnos Consolation B 16|Hypnos|你又被那些小骷髅头给啃死了？！真是太惨了。我觉得你应该是做了什么事得罪了命运之神！
-HypnosConsolation16_C|Hypnos Consolation C 16|Hypnos|{#DialogueItalicFormat}噢，嚯嚯，{#PreviousFormat}从你脸上就能看出来，你肯定让烟火爆舞僵尸给干掉了！我的表单上就是这么写的，这上面记录了每个人的死因。有时候也能看到一些很奇葩的东西！无论如何，保重！
+HypnosConsolation16_B|Hypnos Consolation 16 B|Hypnos|你又被那些小骷髅头给啃死了？！真是太惨了。我觉得你应该是做了什么事得罪了命运之神！
+HypnosConsolation16_C|Hypnos Consolation 16 C|Hypnos|{#DialogueItalicFormat}噢，嚯嚯，{#PreviousFormat}从你脸上就能看出来，你肯定让烟火爆舞僵尸给干掉了！我的表单上就是这么写的，这上面记录了每个人的死因。有时候也能看到一些很奇葩的东西！无论如何，保重！
 HypnosConsolation17|Hypnos Consolation 17|Hypnos|你看上去像是刚被一个脏骷髅给打傻了一样！感觉已经不是仅仅被打死那么简单了，不得不说！不管怎样，从我的表单上看，你确实死了！这些无血僵尸可真厉害！
 HypnosConsolation18|Hypnos Consolation 18|Hypnos|根据表单所示，你当时应该是被某个漂浮的蛇发女妖的头给石化了，我不是说杜莎！听起来是个很痛苦的死法！不过，起码你变成了一座雕像呢！我最喜欢雕像了。
 HypnosConsolation19|Hypnos Consolation 19|Hypnos|{#DialogueItalicFormat}哎哟{#PreviousFormat}，我只能说{#DialogueItalicFormat}挺疼的吧{#PreviousFormat}？因为根据表单来看，你是在水仙花平原被碎骨坦克给碾成了一摊烂泥！继续努力，这样你就可以变得更矮了，{#DialogueItalicFormat}哈哈{#PreviousFormat}！
@@ -80,11 +80,11 @@ HypnosConsolation28|Hypnos Consolation 28|Hypnos|至福乐土那些弓箭手雕�
 HypnosConsolation29|Hypnos Consolation 29|Hypnos|我听说，你好像被至福乐土的那些阵雕像{#DialogueItalicFormat}收拾得挺惨{#PreviousFormat}的啊！这件事我向你老爸汇报过了。他说这些东西对付入侵者很管用，收拾你也一样很管用！
 HypnosConsolation30|Hypnos Consolation 30|Hypnos|这里说你被一个凤凰罐的毁灭冲击波给烧成了焦炭，要我说，你怎么就不会躲开这些东西呢！
 HypnosConsolation31|Hypnos Consolation 31|Hypnos|{#DialogueItalicFormat}哇噢{#PreviousFormat}，真不敢相信你跟弥诺陶干上了！难怪你回来了！谁都知道没人能打得过他，我知道得最清楚了！哎，下次你……再见到他的时候，能不能帮我弄一份他的签名？
-HypnosConsolation31_B|Hypnos Consolation B 31|Hypnos|你又被弥诺陶杀了，一定很刺激对不对？{#DialogueItalicFormat}在{#PreviousFormat}你被杀死之前，能有机会帮我弄一份签名吗？
-HypnosConsolation31_C|Hypnos Consolation C 31|Hypnos|又被弥诺陶杀了一次，他可真是太猛了啊！不过，话说回来，签名那件事情，有进展吗？
+HypnosConsolation31_B|Hypnos Consolation 31 B|Hypnos|你又被弥诺陶杀了，一定很刺激对不对？{#DialogueItalicFormat}在{#PreviousFormat}你被杀死之前，能有机会帮我弄一份签名吗？
+HypnosConsolation31_C|Hypnos Consolation 31 C|Hypnos|又被弥诺陶杀了一次，他可真是太猛了啊！不过，话说回来，签名那件事情，有进展吗？
 HypnosConsolation32|Hypnos Consolation 32|Hypnos|噢，我刚想着你会回来呢，我听说你跟至福乐土的最强战士对上了！我从凡人那里听说的，说被忒修斯那样的人杀死是一种荣誉！继续吧，总有一天你也会出名的！
-HypnosConsolation32_B|Hypnos Consolation B 32|Hypnos|听我说，我真的不认为你可以同时战胜忒修斯和弥诺陶！不过，如果你好好跟弥诺陶说的话，说不定能有机会帮我弄到他的签名呢。
-HypnosConsolation32_C|Hypnos Consolation C 32|Hypnos|太好了，你回来了！这次被忒修斯杀死之前，有没有帮我问一下他那位牛头朋友签名的事啊？
+HypnosConsolation32_B|Hypnos Consolation 32 B|Hypnos|听我说，我真的不认为你可以同时战胜忒修斯和弥诺陶！不过，如果你好好跟弥诺陶说的话，说不定能有机会帮我弄到他的签名呢。
+HypnosConsolation32_C|Hypnos Consolation 32 C|Hypnos|太好了，你回来了！这次被忒修斯杀死之前，有没有帮我问一下他那位牛头朋友签名的事啊？
 HypnosConsolation33|Hypnos Consolation 33|Hypnos|看来有人终于弄明白有些种类的蝴蝶真的非常危险呢！特别是那些倾巢而出的捉魂魔法球！如果你…一点灵魂都没有的话。它们应该就不会缠着你啦！
 HypnosConsolation34|Hypnos Consolation 34|Hypnos|所以，一个火焰战车撞上你然后发生爆炸，把你俩双双炸上了天，我说的没错吧？{#DialogueItalicFormat}其实吧{#PreviousFormat}，你这样也算是报了仇了，这样想的话你应该会好受点！
 HypnosConsolation35|Hypnos Consolation 35|Hypnos|看来你在冥河神庙里遇到了那些丑恶的萨提尔了。中了它们的致命毒液后，那种极致的痛苦我是真的不敢想象！
@@ -93,8 +93,8 @@ HypnosConsolation37|Hypnos Consolation 37|Hypnos|{#DialogueItalicFormat}哎哟�
 HypnosConsolation38|Hypnos Consolation 38|Hypnos|噢，我听说塔耳塔罗斯的鼠兽在接近凡界的地方有更大更凶残的品种，不过……你应该已经知道了吧！在你被那些爆炸物绊到的时候？
 HypnosConsolation39|Hypnos Consolation 39|Hypnos|你这副表情一看就知道是被蛇石给烧死了，对不对？它们会同时朝你射出那种炙热的光线，对不对？
 HypnosConsolation40|Hypnos Consolation 40|Hypnos|嗨，你回来啦！等下，等下，发生了什么？表单上说你被莱德艾克杀死了，那是什么东西噢？我连听都没听过！
-HypnosConsolation40_B|Hypnos Consolation B 40|Hypnos|你又被莱德艾克干掉了。是这样的，我四处打听了一下这些东西的消息，看来没人知道我在说什么！你能给我形容一下吗？
-HypnosConsolation40_C|Hypnos Consolation C 40|Hypnos|嗯，有意思。这回我表单上什么都没有，但是…我敢发誓我看到你从那个池子里走出来了。我得好好研究一下。
+HypnosConsolation40_B|Hypnos Consolation 40 B|Hypnos|你又被莱德艾克干掉了。是这样的，我四处打听了一下这些东西的消息，看来没人知道我在说什么！你能给我形容一下吗？
+HypnosConsolation40_C|Hypnos Consolation 40 C|Hypnos|嗯，有意思。这回我表单上什么都没有，但是…我敢发誓我看到你从那个池子里走出来了。我得好好研究一下。
 HypnosConsolation41|Hypnos Consolation 41|Hypnos|表单上说你撞到了神庙上的巨大锯片，然后死了。{#DialogueItalicFormat}呃{#PreviousFormat}…起码你没缺胳膊少腿！
 HypnosConsolation42|Hypnos Consolation 42|Hypnos|怎么了？冥河神庙里那些巨大的落斧让你{#DialogueItalicFormat}头疼欲裂{#PreviousFormat}了吗？我这正好有解药：躲开这些东西！
 HypnosConsolation_PoisonTrap|Hypnos Consolation Poison Trap|Hypnos|看样子{#DialogueItalicFormat}有人{#PreviousFormat}走进了一团毒气当中！你一定没多久就当场毙命了吧！下次你就知道了，这玩意能杀人！因为它是绿色的！
@@ -168,7 +168,7 @@ HypnosHighRelationshipChat10|Hypnos High Relationship Chat 10|Hypnos|我有个�
 HypnosHighRelationshipChat11|Hypnos High Relationship Chat 11|Hypnos|欢迎来到冥王圣殿！快进来吧！
 HypnosHighRelationshipChat12|Hypnos High Relationship Chat 12|Hypnos|欢迎来到冥王……哦，你知道我要说什么！
 HypnosHighRelationshipChat13|Hypnos High Relationship Chat 13|Hypnos|欢迎我们最常光临此地的客人！
-HypnosHighRelationshipChat14A|Hypnos High Relationship Chat A 14|Hypnos|我希望你能从这里出去，试试新的{#DialogueItalicFormat}死法{#PreviousFormat}！
+HypnosHighRelationshipChat14A|Hypnos High Relationship Chat 14 A|Hypnos|我希望你能从这里出去，试试新的{#DialogueItalicFormat}死法{#PreviousFormat}！
 HypnosHighRelationshipChat14|Hypnos High Relationship Chat 14|Hypnos|没人能逃出这里，我多说一遍，怕你没听清楚！
 HypnosHighRelationshipChat15|Hypnos High Relationship Chat 15|Hypnos|你一定能{#DialogueItalicFormat}做得到{#PreviousFormat}！无论你在做什么！
 HypnosGift01|Hypnos Gift 01|Zagreus|惊喜，修普诺斯！我给你带了这个。

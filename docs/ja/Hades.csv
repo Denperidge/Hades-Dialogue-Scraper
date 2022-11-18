@@ -139,8 +139,8 @@ LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Hades|ゼウスは�
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|おまえの姿が見えてから、著しく寒さが増した。\n…デメテルと接触したか。魔女め… あの女は、\n何を知っている？
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Zagreus|…じゃあ、この常冬は、デメテルの仕業なんですね。\nいったいなぜ… 命限りあるものたちは、寒さの中では\n生きていけないんじゃ…？父上の仕事も増えそうだ。
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|おまえはあの女神のことを何も理解しておらぬ…\n 余計な詮索は無用だ。下手に関われば、すべてを失う。\n厳冬が続くどころでは済まぬぞ。この件について、\nこれ以上話すことはない。
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Zagreus|女神デメテルは、娘を失った。その娘は、俺のじつの\n母親… でもデメテルは、俺がニュクスの息子だと\n思っている。父上は、いったい何をしたんです？冬が\n終わらないのも、デメテルの仕業ですね？人間たちは、\n死に絶えてしまう。このまま放っておく気ですか？
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Hades|…フン。おまえも、デメテルも、何も知らぬ\nということか。それ以上の詮索は無用。\nあの女神と下手に関われば、すべてを失うことになる。\n厳冬が続くどころでは済まぬぞ。話は以上だ。
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Zagreus|女神デメテルは、娘を失った。その娘は、俺のじつの\n母親… でもデメテルは、俺がニュクスの息子だと\n思っている。父上は、いったい何をしたんです？冬が\n終わらないのも、デメテルの仕業ですね？人間たちは、\n死に絶えてしまう。このまま放っておく気ですか？
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Hades|…フン。おまえも、デメテルも、何も知らぬ\nということか。それ以上の詮索は無用。\nあの女神と下手に関われば、すべてを失うことになる。\n厳冬が続くどころでは済まぬぞ。話は以上だ。
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|大海… 天界… 地上… これらはすべて、我が弟たちの所領だ。我ら冥界の神々も、天地海の子孫。にもかかわらず、かの地に我らの居場所はない。
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Zagreus|父上のぼやきにつきあう暇はありません。そこをどいてください。
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|不遜な物言いを…\nまあよい、短気は我が一族に共通の気質だ。
@@ -215,7 +215,7 @@ LordHadesPostEndingStart17|Lord Hades Post Ending Start 17|Hades|息子よ、前
 LordHadesPostEndingStart18|Lord Hades Post Ending Start 18|Hades|こたびもこの父の勝利に終わるだろうが… \nものは試しだ。
 LordHadesPostEndingStart19|Lord Hades Post Ending Start 19|Hades|こたびこそ、運命の三女神が\nこの父に助力することを願おう。
 LordHadesPostEndingStart20|Lord Hades Post Ending Start 20|Hades|前回は、この父にとって不本意な結果に終わった。\nこたびは、そうはゆかぬぞ？
-LordHadesR1FirstWin|Lord Hades R First Win 1|Hades|…我が弟どもならまだしも、じつの息子からこのような仕打ちを受けるとは… なんという屈辱。
+LordHadesR1FirstWin|Lord Hades R 1 First Win|Hades|…我が弟どもならまだしも、じつの息子からこのような仕打ちを受けるとは… なんという屈辱。
 LordHadesNextStageMisc01|Lord Hades Next Stage Misc 01|Hades|じつの父に手向かうとは、不届き千万。\nこれで終わったと思うでないぞ。
 LordHadesNextStageMisc02|Lord Hades Next Stage Misc 02|Hades|…若さに物を言わせれば、\n技量なき者も、ある程度の力を発揮できる。\nだが、それにも限界がある。
 LordHadesNextStageMisc03|Lord Hades Next Stage Misc 03|Hades|…肩慣らしは十分。そろそろ本腰を入れるとしよう。
@@ -329,8 +329,8 @@ HadesMiscMeeting03|Hades Misc Meeting 03|Hades|フン。これだけ失敗を繰
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|食事の刻は、とうに過ぎたぞ？冥界に\n昼夜の区別はないゆえ、夕食か朝食かはわからぬが。
 HadesMiscMeeting04|Hades Misc Meeting 04|Zagreus|お気遣いなく。\nどうせ今は、あまり腹が減っていないので。
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|日時計を建設せよとくり返し命じているが、\nこの館の者どもは一向に作業に着手せぬ。\nおまえの怠け癖が、皆に悪影響を及ぼしているようだ…
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Zagreus|お気遣いなく。どうせ今は、あまり腹が減っていないので。
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Hades|日時計を建設せよとくり返し命じているが、\nこの館の者どもは一向に作業を開始せぬ。
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Zagreus|お気遣いなく。どうせ今は、あまり腹が減っていないので。
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Hades|日時計を建設せよとくり返し命じているが、\nこの館の者どもは一向に作業を開始せぬ。
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|この館の荒れ具合… じつに嘆かわしい。\nまじめに働く気概のある者はおらぬのか。
 HadesMiscMeeting05|Hades Misc Meeting 05|Zagreus|みんな死んでるんですから、\n多めに見てやったらどうです…？
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|おまえに、勤勉に働くことの何がわかる？少なくとも\n亡霊どもは、私を冥界の王として敬っている。\nその分、おまえよりはましといえよう。
@@ -378,12 +378,12 @@ HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|思
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|オルフェウスに仕事をさせる策なら、いくつ検討したか\n知れぬ。そもそもあの者は、みずからの意志で冥界に\n侵入した際、“歌女神”とやらに会う権利を放棄する\n取り決めに同意したのだ。
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|じゃあ、オルフェウスがこの館から\n永久に出られないのは、父上と結んだ契約のせい…？
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|この冥王ハデスと取り結んだ契約は絶対。\n契約書がひとりでに書庫より脱し、\n千々に破れるような事態にでもならぬかぎりはな…
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Zagreus|父上。仮に俺が、オルフェウスとエウリュディケの\n別居命令を無効化する条件を代理で達成したら…\n契約を見直してくれますか？\nそれとも、また卑怯な言い逃れをして、無視しますか？
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Hades|私はみずから取り結んだ契約の規定を重んじる。各種\n取り決めがあるからこそ、冥界はかろうじて秩序らしき\nものを保っているのだ。とはいえ、おまえの提案は\n馬鹿げている。別居命令の処理はきわめて複雑だ。\nおまえごときにどうこうできるものではない。
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Zagreus|父上。仮に俺が、オルフェウスとエウリュディケの\n別居命令を無効化する条件を代理で達成したら…\n契約を見直してくれますか？\nそれとも、また卑怯な言い逃れをして、無視しますか？
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Hades|私はみずから取り結んだ契約の規定を重んじる。各種\n取り決めがあるからこそ、冥界はかろうじて秩序らしき\nものを保っているのだ。とはいえ、おまえの提案は\n馬鹿げている。別居命令の処理はきわめて複雑だ。\nおまえごときにどうこうできるものではない。
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|宮廷楽士との盟約を無効化したな…\nおのれの権限を振りかざし、私に盾突くとは…
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Zagreus|何か問題でも？ときどき休暇を\n取れるようにしただけで、オルフェウスが\nこの館に仕えることに変わりはありません。
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|フン。あの楽士も、私を欺かんとするほど愚かではなかろう。父に反抗した息子への罰は、追って考えることとする。失せるがいい。
-HadesAboutSingersReunionQuest02_B|Hades About Singers Reunion Quest B 02|Hades|当然だ。あの男も、私の顔に泥を塗るほど\n愚かではない。とはいえ… 女王はおそらく、\nあの男はすでに刑期を全うしているという\nおまえの見解に、同意するだろう…
+HadesAboutSingersReunionQuest02_B|Hades About Singers Reunion Quest 02 B|Hades|当然だ。あの男も、私の顔に泥を塗るほど\n愚かではない。とはいえ… 女王はおそらく、\nあの男はすでに刑期を全うしているという\nおまえの見解に、同意するだろう…
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|父上。仕事のことで、質問が。シシュポスという名の\n亡霊が、父上とタナトスを欺いた罪で、\n重罰を科されていますね？復讐の三女神たちも、\nあの男を痛めつけている暇があったら、\n他にすべき仕事があるんじゃ…？
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Hades|配下の者をいかなる任務に就けようと、おまえに\n口出しされるいわれはない。シシュポスの現状など、\n知ったことか。あの亡者に永遠の罰が科されたのは、\nおのれの傲慢さゆえ。投獄に関して取り決めた文書は\n遠い昔に失われ、今となっては詳細不明だ。
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|じゃあ、その「取り決め」の内容がわかれば、\n俺の権限で恩赦を与えられる… ということですね？
@@ -451,7 +451,7 @@ HadesRunCleared01|Hades Run Cleared 01|Zagreus|…騙されました。あの先
 HadesRunCleared01|Hades Run Cleared 01|Hades|実母に会うことはかなわぬ。そもそも、おまえが\nまじめに私の仕事を手伝っておれば、改装工事が\n完了からほど遠いことなど、容易に把握できたはず。\nこれ以上先へ進む道はない。
 HadesRunCleared01|Hades Run Cleared 01|Zagreus|なら、工事が完了するまで待ちます。\n冥界を永久に封鎖しておくことなんてできない。\n地上の人間たちが黙っていませんよ。
 HadesRunCleared01|Hades Run Cleared 01|Hades|人間どもは、忍耐というものを知らぬ。\nおまえと同様だ。待てるものなら、待つがよい。\n私は別の仕事で多忙ゆえ、おまえに構う暇はない。
-HadesRunCleared01FollowUp|Hades Run Cleared Follow Up 01|Hades|とっとと出てゆけ。気が済むまで殺されてくるがよい。
+HadesRunCleared01FollowUp|Hades Run Cleared 01 Follow Up|Hades|とっとと出てゆけ。気が済むまで殺されてくるがよい。
 HadesRunCleared02|Hades Run Cleared 02|Hades|エリュシオンの英雄と雄牛の怪物、双方を\n追い落としたと聞く。いったい、\nどのような手を使った？詳しく説明してみよ。
 HadesRunCleared02|Hades Run Cleared 02|Zagreus|その質問に答える前に、こちらも聞きたいことが\nあります。テセウスがふさいでいた道には、\n先がなかった。外の世界なんて、本当にあるんですか？
 HadesRunCleared02|Hades Run Cleared 02|Hades|ずいぶんと深遠な質問をするようになったものだな。\nおまえもそれなりに成長しているようで、何よりだ。\n外の世界があったとして、おまえが目にするのは\n当分先のこと。なぜなら…
@@ -462,20 +462,20 @@ HadesRunCleared03|Hades Run Cleared 03|Zagreus|…言うことはそれだけで
 HadesRunCleared03|Hades Run Cleared 03|Hades|下した？おまえが、この私を？ハッハッハ！\nたわけたことを抜かすな。私には覚えのないことだ。
 HadesRunCleared03|Hades Run Cleared 03|Zagreus|…まさか、何もなかったことにするつもりですか？
 HadesRunCleared03|Hades Run Cleared 03|Hades|すべてはこれまでどおり。無論、運命の三女神の\n介入か、冥界の改装工事の完了か… いずれかによって、\nなんらかの変化が起きることもあろうがな。
-HadesRunCleared03_C|Hades Run Cleared C 03|Zagreus|前に聞いた、じつの母親のことですが。本当に、冥界の改装工事が完了するまで答えないつもりですか？
-HadesRunCleared03_C|Hades Run Cleared C 03|Hades|なんの話かわからぬが、目下私が改装工事の件で\n多忙を極めていることは事実だ。いつかわが所領の\n全域が正常に機能するようになれば、\nおまえのくだらぬ質問に答える暇もできよう。
+HadesRunCleared03_C|Hades Run Cleared 03 C|Zagreus|前に聞いた、じつの母親のことですが。本当に、冥界の改装工事が完了するまで答えないつもりですか？
+HadesRunCleared03_C|Hades Run Cleared 03 C|Hades|なんの話かわからぬが、目下私が改装工事の件で\n多忙を極めていることは事実だ。いつかわが所領の\n全域が正常に機能するようになれば、\nおまえのくだらぬ質問に答える暇もできよう。
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|…言うことは、それだけですか？\nさっきの戦いで、俺は父上を下した。\nしかも、ついに実の母親を見つけたんですよ…？
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|ハッ！たわけたことを。\n私には、まったく覚えのないことだ。
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|…何もなかったことにするつもりですか？\n母上も、父上に聞きたいことがあると言っています。\n俺が自由に地上へ出られることを望んでいる。\n母のもとへ行かせてください！
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|黙れ！話は以上だ。\nおまえのくだらぬ妄想につきあう暇などない。
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|どうだ？思い知ったか？なんぴとも逃れられぬと。\nさすがのおまえも、理解しただろう。
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|それ以前に、父上は重大な事実を隠していましたね。\n母上が冥界を去ったのは、俺が死んだと思っていた\nからだ。父上が事実を伝えなかったせいで…！母上も、\n父上に問いたいことが山ほどあると言っています。\n俺はもう一度、会いにいく。協力してくれますね？
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|ハッ！くだらん！おまえに一縷でも\n分別というものが備わっているのなら、\nこの件は、今、ここでは口にせぬことだ。
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|なぜですか！母上もそれを望んでるのに…！
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|どうだ？思い知ったか？なんぴとも逃れられぬと。\nさすがのおまえも、理解しただろう。
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|それ以前に、父上は重大な事実を隠していましたね。\n母上が冥界を去ったのは、俺が死んだと思っていた\nからだ。父上が事実を伝えなかったせいで…！母上も、\n父上に問いたいことが山ほどあると言っています。\n俺はもう一度、会いにいく。協力してくれますね？
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|ハッ！くだらん！おまえに一縷でも\n分別というものが備わっているのなら、\nこの件は、今、ここでは口にせぬことだ。
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|なぜですか！母上もそれを望んでるのに…！
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Zagreus|俺は、父上が起こした問題を解決しようとしています。\nでも父上は、これまでも、これからも、協力する\nつもりはないんですね？…この件について、ここでは\n口にするなと言われているのは、わかっていますが。
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Hades|そのとおり。だが、どのみち近いうちに、“ふたりきりで話す機会”が訪れることになろう。
-HadesRunCleared03_B|Hades Run Cleared B 03|Zagreus|どうかされましたか、父上。いつにも増して\n無口ですね。その顔は、何か悩みでも…？\nそれとも、何か後悔してますか？
-HadesRunCleared03_B|Hades Run Cleared B 03|Hades|口を慎め。おまえの顔など見たくもない。\n自慢話に長々とつきあう暇があると思うか？\nその件は、また“別の場所”で、“別の機会”に\n聞いてやる。とっとと失せるがいい。
+HadesRunCleared03_B|Hades Run Cleared 03 B|Zagreus|どうかされましたか、父上。いつにも増して\n無口ですね。その顔は、何か悩みでも…？\nそれとも、何か後悔してますか？
+HadesRunCleared03_B|Hades Run Cleared 03 B|Hades|口を慎め。おまえの顔など見たくもない。\n自慢話に長々とつきあう暇があると思うか？\nその件は、また“別の場所”で、“別の機会”に\n聞いてやる。とっとと失せるがいい。
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|父上、このところ仕事の邪魔をされるのを\n特に嫌っている様子でしたが、あくせく働いたかいが\nありましたね。成果が目に見えてわかりますよ。\nひょっとして… 冥界の改装工事、完成間近ですか？
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Hades|おまえは相変わらず、しかるべきときまで待つ\nということを知らぬ… 工事は、最終段階こそが肝要。\n事前計画の作成に次ぎ、最も力を注ぐべき部分と\nいえる。ここからさらに、重要な作業が山積みなのだ。
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|最終段階が重要じゃないなんて、ひと言も\n言ってませんよ。やっと終わりが\n見えてきたんじゃないかと思っただけです。\n工事が済んだら、空いた時間で何をするつもりですか？
@@ -539,21 +539,21 @@ HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|かの有名な�
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|さよう。寄附は強制ではないが、\n昇級を望むのであれば、大いに励むがよかろう。
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|昇級すると、何かあるんですか？そもそも、俺の任務は極秘のはずですよね…？
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|昇級によりおまえが得られるのは、“誇り”のみ。\nそして、誇りも過ぎれば身を滅ぼす。\nこちらとしては、本来の職務以上のことは求めぬ。\nおまえの好きにするがよい。
-HadesRevealsBadgeSeller01_B|Hades Reveals Badge Seller B 01|Hades|おまえの職務の件で、伝達事項だ。今後、執務室にて、資源管理官との接触を許可する。元来、余剰資源を冥界の各地に返還する作業は私のみが担当してきたが…
+HadesRevealsBadgeSeller01_B|Hades Reveals Badge Seller 01 B|Hades|おまえの職務の件で、伝達事項だ。今後、執務室にて、資源管理官との接触を許可する。元来、余剰資源を冥界の各地に返還する作業は私のみが担当してきたが…
 HadesAboutBadgeSellerProgress01|Hades About Badge Seller Progress 01|Hades|用件のみ伝える。資源管理官より、おまえの昇進の\n報告を受けた。その調子で励むように。以上だ。
 HadesAboutBadgeSellerProgress02|Hades About Badge Seller Progress 02|Hades|着実に昇進しているな。\n入手した資源を、大量に返還していると聞いている。\n立場上、当然のことではあるが、引き続き励むように。
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|本件、公然と口にすることは憚られるが…\nまさかおまえが、壱士オメガ等級への昇進を\n達成するとは。当館の警備官に付与される最高位…\n率直に言って、おまえが警備官として\n昇級を果たすこと自体、私は想定していなかった。
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Zagreus|父上の過小評価は、今に始まったことではありません。\n気に掛けてもらえただけでもありがたい。\n冥界の資源には大いに助けられた。\n少しでも恩返しをと、心がけているまでです。
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|この冥界の他に、われらの居場所はないからな。
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|父上、オリュンポスの神々とのこと、そろそろ詳しく\n教えてもらえませんか？母上はなぜ、父上と冥界で\n暮らすようになったんですか？\nゼウス叔父との間には、いったい何が？
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|ペルセポネから聞いておらぬのか…？\nフン… ここでは話せぬ。ついて参れ。
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|…よいか？これからおまえの耳に入れることは、二度と口にせぬと誓え。
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|わかりました、父上の名のもとに、誓います。\n絶対に他言しません。それで…？
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|おおむね、おまえの想像どおりだ。私が冥界を治める\n運びとなり、ゼウスは私を哀れんだ。ペルセポネは\nオリュンポスでの暮らしに不満を抱いており、私は\n彼女に心惹かれていた。事情を承知していたゼウスは、\n彼女を拉致した。冥王への「贈物」として…！
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|…父上にその「贈物」を受け取る気がなくても、\n母上が帰りたがらなかったんですね。父上も母上を\n好いていたから、送り返さなかった… 結果、父上を\n微妙な立場に追い込んだゼウス叔父上とは、絶縁した、\nというわけですか。
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|ゼウスはいつも、考えなしに、思いつきで突拍子もない\n行動に出る。同じ意図でも、やりようはいくらでも\nあった… それを、あんな、誘拐まがいの手段に\n出おって…！オリュンポスを去ることがペルセポネの\n希望だったとはいえ、無謀にもほどがある！
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|このことが、デメテルはもちろん、他の神々の耳に\n入ったら… 父上も、母上も、ゼウス叔父上でさえも、\nまずい立場に立たされますよね？ゼウス叔父上の\n短気は、きっと父上といい勝負でしょう。
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|他の神々の気性の荒さは、私などの比ではない。\nとにかく、その後のことは、おまえも知っての\nとおりだ。先ほどの誓い、くれぐれも破るでないぞ。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|父上、オリュンポスの神々とのこと、そろそろ詳しく\n教えてもらえませんか？母上はなぜ、父上と冥界で\n暮らすようになったんですか？\nゼウス叔父との間には、いったい何が？
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|ペルセポネから聞いておらぬのか…？\nフン… ここでは話せぬ。ついて参れ。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|…よいか？これからおまえの耳に入れることは、二度と口にせぬと誓え。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|わかりました、父上の名のもとに、誓います。\n絶対に他言しません。それで…？
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|おおむね、おまえの想像どおりだ。私が冥界を治める\n運びとなり、ゼウスは私を哀れんだ。ペルセポネは\nオリュンポスでの暮らしに不満を抱いており、私は\n彼女に心惹かれていた。事情を承知していたゼウスは、\n彼女を拉致した。冥王への「贈物」として…！
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|…父上にその「贈物」を受け取る気がなくても、\n母上が帰りたがらなかったんですね。父上も母上を\n好いていたから、送り返さなかった… 結果、父上を\n微妙な立場に追い込んだゼウス叔父上とは、絶縁した、\nというわけですか。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|ゼウスはいつも、考えなしに、思いつきで突拍子もない\n行動に出る。同じ意図でも、やりようはいくらでも\nあった… それを、あんな、誘拐まがいの手段に\n出おって…！オリュンポスを去ることがペルセポネの\n希望だったとはいえ、無謀にもほどがある！
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|このことが、デメテルはもちろん、他の神々の耳に\n入ったら… 父上も、母上も、ゼウス叔父上でさえも、\nまずい立場に立たされますよね？ゼウス叔父上の\n短気は、きっと父上といい勝負でしょう。
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|他の神々の気性の荒さは、私などの比ではない。\nとにかく、その後のことは、おまえも知っての\nとおりだ。先ほどの誓い、くれぐれも破るでないぞ。
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Hades|出立前に、ひとつ、念を押しておく。\nオリュンポスの面々に関する例の計画が成功するまで、\n館に女王が帰還したことは、他言無用だ。\nわかっているな？
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Zagreus|はい。でも、じきに隠す必要なんてなくなりますよ。
 HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|宴が終わりましたね。今日からはまた、\n前と変わらない、通常営業の毎日ですか。
@@ -562,8 +562,8 @@ HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|父上が、亡霊たちか�
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|冥界にどうして石榴の木が生えているのか、\n考えたこともありませんでしたが、母上の力\nだったんですね？でも、母上がオリュンポスの神々に\n言ったこと… 石榴の力で、冥界から離れられなくなる\nというのは、さすがに出任せですよね？
 HadesPostEpilogue02|Hades Post Epilogue 02|Hades|わが領域に生息する石榴に、単なる酸味以上の要素が\n備わっていることは、おまえも知ってのとおりだ。\n女王は… 植物に特殊な力を宿らせる才を持つ。\nオリュンポスに座す生みの母親より受け継いだ力が、\n穏やかに作用した結果であろう。
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|母上が去ったあとも冥界に石榴が豊富に\n実っていたのは、\n父上が手入れをしてきたからですよね… 母上のために。
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Zagreus|母上が初めて冥界を訪れたときのこと、\n差し支えなければ教えてください。館の使用人の中には\n当時の女王を覚えている者もいるようですが…\nオリュンポスに知れることはなかったんですか？
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Hades|オリュンポスの者たちの権限は冥界には及ばず、\nここでの出来事について関知はせぬ。ヘルメスだけは、\nある程度は察していたかもしれぬが… 外部に暮らす\n者たちは皆、冥界の女王はニュクスと信じてきた。\nこの件については、これ以上話すことはない。
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Zagreus|母上が初めて冥界を訪れたときのこと、\n差し支えなければ教えてください。館の使用人の中には\n当時の女王を覚えている者もいるようですが…\nオリュンポスに知れることはなかったんですか？
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Hades|オリュンポスの者たちの権限は冥界には及ばず、\nここでの出来事について関知はせぬ。ヘルメスだけは、\nある程度は察していたかもしれぬが… 外部に暮らす\n者たちは皆、冥界の女王はニュクスと信じてきた。\nこの件については、これ以上話すことはない。
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|…母上が館を去ってしまいましたが、父上は\n大丈夫ですか？母上は、オリュンポスで\nうまくやれているでしょうか。
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Hades|オリュンポスのことは、彼女に任せておけばよい。\nこの館にとっても、女王の不在は、\nもはやなんら不自然なことではない。
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|母上がいなくても、すべては平常どおりだと\n言いたいんですか？
@@ -630,7 +630,7 @@ HadesPostEndingChat23|Hades Post Ending Chat 23|Hades|おまえの悪名は、�
 HadesPostEndingChat24|Hades Post Ending Chat 24|Hades|先頃のおまえの働き… 見事であった。
 HadesGift01|Hades Gift 01|Zagreus|父上、その… もしよければ… これを。
 HadesGift01|Hades Gift 01|Hades|どこで手に入れた…？\nかようなもので、私の機嫌を取れるとでも思うか？\n受け取っておくが、用が済んだなら出てゆけ。
-HadesGift01_B|Hades Gift B 01|Hades|おまえに貸しを作った覚えはない。返礼の品を\n期待しているのなら、何もやれるものはないぞ？\nフン… まあよい、慣習に従い、受け取っておこう。
+HadesGift01_B|Hades Gift 01 B|Hades|おまえに貸しを作った覚えはない。返礼の品を\n期待しているのなら、何もやれるものはないぞ？\nフン… まあよい、慣習に従い、受け取っておこう。
 HadesGift02|Hades Gift 02|Zagreus|父上… 過去を変えることはできませんが、\n前へ進むことはできます。これは本来、持っていては\nいけないものですが… 贈れば誰もがよろこぶ品です。\n父上も、一口ぐらい味わってみては？\nとりあえず、渡しておきます。
 HadesGift02|Hades Gift 02|Hades|フム… では、しかるべき手順で“廃棄”しておこう。\n廃棄といえば… これは私には不要となった品だ。\nおまえに渡しておく。好きにするがよい。話は以上だ。
 HadesGift03|Hades Gift 03|Zagreus|また“廃棄”してもらいたいネクタルを持ってきました。\n冥界に来る前に、少しぐらい味わったことが\nあるでしょう。父上にだって、楽しい時を過ごした\n経験があるはずだ。

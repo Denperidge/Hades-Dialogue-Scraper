@@ -139,8 +139,8 @@ LordHadesHasWeaponUpgrade03|Lord Hades Has Weapon Upgrade 03|Hades|제우스는 
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|{#DialogueItalicFormat}흠{#PreviousFormat}. 네가 도착하자 피부로 느껴질만큼 추워졌군. {#DialogueItalicFormat}데메테르{#PreviousFormat}와 만났구나. 마녀 같은 것. 그 여자가 얼마나 알고 있는지 말해 봐라.
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Zagreus|네? 전... 잠깐만요. 이 영원한 겨울은 데메테르의 짓이죠? 왜요? 필멸자들은 추우면 죽지 않던가요? 아버지가 할일이 많아지겠네요.
 LordHadesAboutEternalWinter01|Lord Hades About Eternal Winter 01|Hades|그럼 전혀 모르는 모양이구나. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분한 것 같구나.
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Zagreus|데메테르는 딸을 잃었잖아요... 내 어머니를요. 그런데 데메테르는 여전히 제가 닉스의 아들인 줄 알아요... 무슨 짓을 하신 겁니까, 아버지? 이 끝없는 겨울은 데메테르의 짓이죠? 필멸자들이 얼어 죽을 거예요. 왜 막지 않으시는 거죠?
-LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter B 01|Hades|그럼 너와 데메테르 둘 다 아무 것도 모르는 게로군. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분히 한 것 같구나.
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Zagreus|데메테르는 딸을 잃었잖아요... 내 어머니를요. 그런데 데메테르는 여전히 제가 닉스의 아들인 줄 알아요... 무슨 짓을 하신 겁니까, 아버지? 이 끝없는 겨울은 데메테르의 짓이죠? 필멸자들이 얼어 죽을 거예요. 왜 막지 않으시는 거죠?
+LordHadesAboutEternalWinter01_B|Lord Hades About Eternal Winter 01 B|Hades|그럼 너와 데메테르 둘 다 아무 것도 모르는 게로군. 데메테르와는 가까이 지내지 말거라. 모든 것을 잃고 싶지 않다면 말이다. 알겠느냐? 날씨가 엉망이 되는 것 정도로는 끝나지 않을 게다. 이제 말은 충분히 한 것 같구나.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|...바다... 하늘 그리고 땅, 이 모든 것이 내 형제들의 것이다. 우리는 태어날 때부터 친족이다. 하지만 그들의 자리에서는 이방인이나 다름없지.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Zagreus|그만. 신세한탄은 그만하고 비켜서시죠.
 LordHadesMiscEncounter01|Lord Hades Misc Encounter 01|Hades|건방진 녀석. 좋아. 충동적인 성격은 집안 내력이니까.
@@ -215,7 +215,7 @@ LordHadesPostEndingStart17|Lord Hades Post Ending Start 17|Hades|이번에는 �
 LordHadesPostEndingStart18|Lord Hades Post Ending Start 18|Hades|내가 또 널 쓰러뜨릴 것 같다만, 어디 한번 보자.
 LordHadesPostEndingStart19|Lord Hades Post Ending Start 19|Hades|망할 운명의 세 자매가 나에게 {#DialogueItalicFormat}한번만이라도 {#PreviousFormat}미소를 지어주면 좋겠군.
 LordHadesPostEndingStart20|Lord Hades Post Ending Start 20|Hades|지난 대결은 나에게 좋은 쪽으로 흘러갔다만, 이번에는 어떨지 모르겠구나.
-LordHadesR1FirstWin|Lord Hades R First Win 1|Hades|...쯧쯧. 평생 고마워할 줄 모르는 자식 때문에... 내가 이 지경에 이르다니. 내 형제라면 모를까, 네가 이럴 줄은 몰랐거늘...? 으으으으....
+LordHadesR1FirstWin|Lord Hades R 1 First Win|Hades|...쯧쯧. 평생 고마워할 줄 모르는 자식 때문에... 내가 이 지경에 이르다니. 내 형제라면 모를까, 네가 이럴 줄은 몰랐거늘...? 으으으으....
 LordHadesNextStageMisc01|Lord Hades Next Stage Misc 01|Hades|...네 친아버지를 이렇게까지 멸시해야만 직성이 풀리겠니? 어쨌든 너와 나 사이의 볼일은 아직 끝나지 않았어.
 LordHadesNextStageMisc02|Lord Hades Next Stage Misc 02|Hades|...넌 오로지 젊다는 이유로 강할 뿐이다. 하지만 그런 힘은 한계가 있는 법.
 LordHadesNextStageMisc03|Lord Hades Next Stage Misc 03|Hades|...몸을 풀었으니 본격적으로 서로의 실력을 볼 차례이다.
@@ -329,8 +329,8 @@ HadesMiscMeeting03|Hades Misc Meeting 03|Hades|좋아. 너의 실패담은 쉽�
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|집에 잘 왔다, 아들아. 저녁 식사... 아니, 아침 식사인가? 아무튼 식사 시간에 늦었구나.
 HadesMiscMeeting04|Hades Misc Meeting 04|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
 HadesMiscMeeting04|Hades Misc Meeting 04|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐? 나를 향한 너의 무례함이 모든 이들에게 영감이 된 건가.
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
-HadesMiscMeeting04_B|Hades Misc Meeting B 04|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐?
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Zagreus|괜찮아요, 아버지. 지금 당장은 별로 배가 안 고파서요.
+HadesMiscMeeting04_B|Hades Misc Meeting 04 B|Hades|...해시계를 제작해달라고 거듭 부탁했지만, 매번 내 거절당하고 있구나. 그들이 거절하다니, 믿어지느냐?
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|피와 어둠이시여, 이곳이 무너지고 있건만... 이곳에서는 아무도 정직하게 일하고 있지 않는구나.
 HadesMiscMeeting05|Hades Misc Meeting 05|Zagreus|아버지, 다 죽은 자들이에요. 그냥 좀 내버려 두시죠.
 HadesMiscMeeting05|Hades Misc Meeting 05|Hades|정직하게 일하는 게 어떤 건지 네가 알기나 하나? 적어도 그 죽은 혼령들은 날 주인으로서 공경한다. 너와는 다르게 말이지.
@@ -378,12 +378,12 @@ HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|아
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|여러 생각을 해 보았다, 아들아. 그리고 나는 오르페우스도 내 세계에 들어오고 자기의 일명 뮤즈를 볼 권리를 포기하는 각서를 쓰기 전에 여러 생각을 했을 것이라고 믿는다!
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Zagreus|그러면 계약서 하나 썼다는 이유로 오르페우스 보고 영원히 여기 있으라는 거예요?
 HadesAboutSingersReunionQuest01|Hades About Singers Reunion Quest 01|Hades|나와의 계약은 구속력이 있다! 어쩌다가 기록보관소에서 제 발로 걸어나와서 알아서 찢어지는 날이 오기까지는 말이다. 그리고 그 날은 금세 오지는 않을 것 같구나.
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Zagreus|아버지, 그러면 만약에, 혹시라도, 제가 오르페우스와 에우리디케를 갈라 놓는 명령을 파기시킬 비용을 치를 수 있다고 하면, 아버지는 새 조항을 존중할 건가요, 아니면 이 공정한 거래에서 저를 악의적으로 쫓아내 버리실 건가요?
-HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest B 01|Hades|나는 내 약속의 조항을 존중한다, 아들아. 우리가 세우는 규칙이 아니었으면 이 지하세계가 꼴도 갖추지 못했을 게다! 하지만, 네가 말하는 것은 진정으로 터무니없구나. 분리 명령을 처리하는 데 드는 비용은 네게는 택도 없는 것이다.
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Zagreus|아버지, 그러면 만약에, 혹시라도, 제가 오르페우스와 에우리디케를 갈라 놓는 명령을 파기시킬 비용을 치를 수 있다고 하면, 아버지는 새 조항을 존중할 건가요, 아니면 이 공정한 거래에서 저를 악의적으로 쫓아내 버리실 건가요?
+HadesAboutSingersReunionQuest01_B|Hades About Singers Reunion Quest 01 B|Hades|나는 내 약속의 조항을 존중한다, 아들아. 우리가 세우는 규칙이 아니었으면 이 지하세계가 꼴도 갖추지 못했을 게다! 하지만, 네가 말하는 것은 진정으로 터무니없구나. 분리 명령을 처리하는 데 드는 비용은 네게는 택도 없는 것이다.
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|너는 궁정 악사와의 계약을 파기했구나. 너의 권한을 내게 맞서 사용했어.
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Zagreus|그래서 하면 뭐 어떤데요? 가끔씩 휴식을 좀 주는 거예요. 그래도 아버지의 궁정 악사잖아요?
 HadesAboutSingersReunionQuest02|Hades About Singers Reunion Quest 02|Hades|그렇지. 그리고 오르페우스는 나를 깎아내리는 것보다는 더 현명한 일을 하리라고 생각한다. 그럼 썩 없어져라. 너의 반항에 대해서는 나중에 이야기하마.
-HadesAboutSingersReunionQuest02_B|Hades About Singers Reunion Quest B 02|Hades|그렇지. 악사가 나를 거역하지 않는 게 좋을 거야. 그건 그렇고 지금쯤이면 그가 죄값을 다 치렀다면서 왕비가 네 편을 들어줄 것 같다만...?
+HadesAboutSingersReunionQuest02_B|Hades About Singers Reunion Quest 02 B|Hades|그렇지. 악사가 나를 거역하지 않는 게 좋을 거야. 그건 그렇고 지금쯤이면 그가 죄값을 다 치렀다면서 왕비가 네 편을 들어줄 것 같다만...?
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|일과 관련하여 여쭤볼 것이 있습니다, 아버지. 시시포스라는 혼령이 아버지와 타나토스에게 잘못을 저질렀고, 그 이후로 큰 대가를 치르고 있더군요. 하지만 분노 자매들에겐 시시포스를 괴롭히는 것보다 더 중한 일이 있지 않습니까?
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Hades|내가 내 부하를 어떻게 부리는지까지 간섭하려고 온 게냐? 어처구니가 없구나. 그런 비참한 혼령에 대해선 전혀 신경 쓰지 않는다. 그 자가 영원히 고통받는 것은 그 자신의 오만으로 인한 결과지. 그 자의 구속 명령서는 사라진 지 오래야!
 HadesAboutSisyphusLiberationQuest01|Hades About Sisyphus Liberation Quest 01|Zagreus|그럼 제가 그 명령서를 찾으면 그 자를 사면할 수 있는 겁니까...
@@ -451,7 +451,7 @@ HadesRunCleared01|Hades Run Cleared 01|Zagreus|아버진 절 속였어요. 제�
 HadesRunCleared01|Hades Run Cleared 01|Hades|그런 일은 없을 테니 꿈도 꾸지 마라. 그리고 만에 하나 내 도움이 필요하면 내 영역의 대부분이 현재 개조 공사 중이라는 사실을 알아 둬라. 지금까지 간 것보다 더 멀리 가진 못할 거다.
 HadesRunCleared01|Hades Run Cleared 01|Zagreus|기다리면 되죠. 영원히 이곳을 폐쇄된 상태로 유지하진 못하실 테니까요. 저 위 세상의 필멸자들이 용납하지 않을 겁니다.
 HadesRunCleared01|Hades Run Cleared 01|Hades|인내심이란 게 없는 자들이긴 하지. 너도 마찬가지고. 그럼 나머지 놈들과 함께 한없이 기다려라. 난 개의치 않으니. 어차피 해야 할 일도 많거든.
-HadesRunCleared01FollowUp|Hades Run Cleared Follow Up 01|Hades|자, 이제 가 봐. 그리고 난 상관없으니 몇 번이고 더 죽어라.
+HadesRunCleared01FollowUp|Hades Run Cleared 01 Follow Up|Hades|자, 이제 가 봐. 그리고 난 상관없으니 몇 번이고 더 죽어라.
 HadesRunCleared02|Hades Run Cleared 02|Hades|아들아. 네가 엘리시움의 챔피언은 물론 그가 데리고 다니는 황소 머리 동지까지 권좌에서 몰아냈다는 소문을 들었다. 얘기해 봐라. 어떻게 한 거냐?
 HadesRunCleared02|Hades Run Cleared 02|Zagreus|먼저 제가 어떻게 하면 여기서 나갈 수 있는지 말씀해 주시죠. 테세우스가 지키던 길이 폐쇄되었더군요! 지상이란 곳이 있긴 한가요? 바깥세상이 존재한다는 게 전부 거짓말인가요?!
 HadesRunCleared02|Hades Run Cleared 02|Hades|거창한 질문을 참 많이도 하는군! 네가 성장한 모습을 보는 것 같아 위안이 되는걸. 만약 바깥세상이란 게 있다 해도 한동안은 보지 못할 거다. 그 이유는 너도 잘 알겠지?
@@ -462,20 +462,20 @@ HadesRunCleared03|Hades Run Cleared 03|Zagreus|아니요. 잠깐만요. 뭐라�
 HadesRunCleared03|Hades Run Cleared 03|Hades|{#DialogueItalicFormat}날 {#PreviousFormat}격파했다고? {#DialogueItalicFormat}하, 하하하{#PreviousFormat}, 터무니없군. 그런 일이 있었다면 내가 기억 못 할 것 같으냐?
 HadesRunCleared03|Hades Run Cleared 03|Zagreus|지금 농담하시는 거죠? 아무 일도 없었던 척하시려는 건가요?
 HadesRunCleared03|Hades Run Cleared 03|Hades|모든 것이 전과 똑같아. 운명이 다른 결정을 내릴 때까지는 앞으로도 그럴 테고. 아니면 지금 진행 중인 지하세계 개조 공사가 완전히 마무리될 때까지. 둘 중 어떤 쪽이 먼저일지 모르겠다만.
-HadesRunCleared03_C|Hades Run Cleared C 03|Zagreus|지하세계 개조 공사가 완료될 때까지 어머니에 대한 제 질문에는 전혀 답하지 않으실 거란 거죠?
-HadesRunCleared03_C|Hades Run Cleared C 03|Hades|네가 무슨 얘길 하는 건지 난 도통 모르겠구나. 개조 공사에 내 온정신을 쏟고 있다는 네 말은 맞는다만. 언젠가 밤이든 낮이든 이곳이 제 모습을 찾기만 하면 네 고리타분한 질문에 답할 시간이 생길지도 모르지.
+HadesRunCleared03_C|Hades Run Cleared 03 C|Zagreus|지하세계 개조 공사가 완료될 때까지 어머니에 대한 제 질문에는 전혀 답하지 않으실 거란 거죠?
+HadesRunCleared03_C|Hades Run Cleared 03 C|Hades|네가 무슨 얘길 하는 건지 난 도통 모르겠구나. 개조 공사에 내 온정신을 쏟고 있다는 네 말은 맞는다만. 언젠가 밤이든 낮이든 이곳이 제 모습을 찾기만 하면 네 고리타분한 질문에 답할 시간이 생길지도 모르지.
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|잠깐, 뭐라고요? 제가 전투에서 아버지를 이기고 어머니를 찾았잖아요. 그런데도 그렇게 말씀하시는 거예요?
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|{#DialogueItalicFormat}하, 하하{#PreviousFormat}! 헛소리. 그런 일이 있었다면 내가 기억을 못 할 것 같으냐?
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Zagreus|말도 안 돼. 아무 일도 없었던 것처럼 행동하시려는 건가요? 어머니도 저만큼이나 답을 원하세요. 저를 지나가게 하라고 하셨다고요! 다시 가게 해 주세요.
 HadesAfterPersephoneMeeting01|Hades After Persephone Meeting 01|Hades|조용히 해라! 대화는 끝났다. 네 허무맹랑한 상상을 들을 시간도, 장소도 아니다.
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|말했지 않느냐, 얘야. 내가 말했지! 이곳으로부터의 탈출은 없다. 그렇게 힘들게 깨달아야 하겠느냐?
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|더 중요한 얘기를 해 주실 수도 있었잖아요. 어머니는 제가 살아 있는 줄도 모른 채로 떠나셨어요. 아버지 때문에요! 지금 궁금한 점이 아주 많대요. 아버지도 아시겠지만요. 전 어머니께 갈 겁니다. 협조하시겠어요?
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Hades|{#DialogueItalicFormat}하하하{#PreviousFormat}, 웃기는 소리! 내 말을 들어라. 머릿속에 한줌의 이성이라도 남아 있다면 그 얘기는 그만하는 게 좋을 거다.
-HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting B 01|Zagreus|보내 주세요. 어머니를 찾게 해 달라고요. 어머니가 원하는 거란 말입니다!
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|말했지 않느냐, 얘야. 내가 말했지! 이곳으로부터의 탈출은 없다. 그렇게 힘들게 깨달아야 하겠느냐?
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|더 중요한 얘기를 해 주실 수도 있었잖아요. 어머니는 제가 살아 있는 줄도 모른 채로 떠나셨어요. 아버지 때문에요! 지금 궁금한 점이 아주 많대요. 아버지도 아시겠지만요. 전 어머니께 갈 겁니다. 협조하시겠어요?
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Hades|{#DialogueItalicFormat}하하하{#PreviousFormat}, 웃기는 소리! 내 말을 들어라. 머릿속에 한줌의 이성이라도 남아 있다면 그 얘기는 그만하는 게 좋을 거다.
+HadesAfterPersephoneMeeting01_B|Hades After Persephone Meeting 01 B|Zagreus|보내 주세요. 어머니를 찾게 해 달라고요. 어머니가 원하는 거란 말입니다!
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Zagreus|아주 엉망을 만들어 놓으셨네요, 아버지... 아무 도움도 못 받으시니 말이에요. 하지만 지금은 이야기할 때가 아니죠?
 HadesAfterPersephoneMeeting02|Hades After Persephone Meeting 02|Hades|아니지! 절대 아니다. 허나 머지 않아 둘만의 자리를 다시 갖게 될 것 같구나.
-HadesRunCleared03_B|Hades Run Cleared B 03|Zagreus|무슨 문제라도 있나요, 아버지? 보통 때보다 조용하신 것 같은데. 무슨 이유에서인지 안색도 안 좋고 후회하는 기색이 역력하신데요?
-HadesRunCleared03_B|Hades Run Cleared B 03|Hades|조용히 해라, 아들아. 아니, 그러지 말고 내 눈앞에서 사라지는 편이 낫겠구나. 네 자랑질을 듣고 있기엔 신경 써야 할 중요한 일들이 많아서. 남은 얘기는 나중에 다른 데서 나누도록 하마.
+HadesRunCleared03_B|Hades Run Cleared 03 B|Zagreus|무슨 문제라도 있나요, 아버지? 보통 때보다 조용하신 것 같은데. 무슨 이유에서인지 안색도 안 좋고 후회하는 기색이 역력하신데요?
+HadesRunCleared03_B|Hades Run Cleared 03 B|Hades|조용히 해라, 아들아. 아니, 그러지 말고 내 눈앞에서 사라지는 편이 낫겠구나. 네 자랑질을 듣고 있기엔 신경 써야 할 중요한 일들이 많아서. 남은 얘기는 나중에 다른 데서 나누도록 하마.
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|아버지, 비록 최근에 방해받기를 싫어하시는 것은 압니다만 아버지의 끝없는 노역이 마침내 빛을 발하는 것 같습니다. 지하세계 개장이 거의 끝나가고 있지 않습니까?
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Hades|또 앞서나가는구나. 개장의 마지막 단계가 아주 중요한 법이야! 초기 계획 바로 다음으로 중요하지. 아직 중요한 일이 많이 남았다.
 HadesAboutUnderworldRenovations01|Hades About Underworld Renovations 01|Zagreus|중요하지 않다고 한 건 아니었는데요. 마침내 끝이 보이기 시작한다는 거죠. 그렇게 되면 남는 시간 동안 뭘 하실 겁니까?
@@ -539,21 +539,21 @@ HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|그 전설적인
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|바로 그거다. 하지만 꼭 그래야 되는 건 아니지. 하지만 네가 현재 지위를 더 높이고 싶다면 그렇게 해야 할 거다.
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Zagreus|제 지위를 높이면 무슨 의미가 있나요? 우리 일은 비밀리에 진행되는 줄 알았는데요.
 HadesRevealsBadgeSeller01|Hades Reveals Badge Seller 01|Hades|그렇지. 자부심 말고는 얻을 게 없다. 그리고 자부심은 위험하지. 하고 싶은 대로 해라. 일만 제대로 처리된다면 난 신경쓰지 않을 테니.
-HadesRevealsBadgeSeller01_B|Hades Reveals Badge Seller B 01|Hades|네 직책 말이다만. 관리실 자원 담당관의 자리가 비어 있다. 잉여 자원을 이 영역에 가져오는 일은 보통 내가 도맡아 하지만 말이다.
+HadesRevealsBadgeSeller01_B|Hades Reveals Badge Seller 01 B|Hades|네 직책 말이다만. 관리실 자원 담당관의 자리가 비어 있다. 잉여 자원을 이 영역에 가져오는 일은 보통 내가 도맡아 하지만 말이다.
 HadesAboutBadgeSellerProgress01|Hades About Badge Seller Progress 01|Hades|짧게 얘기하마. 네가 승진했다고 우리 자원 담당관이 그러더구나. 잘했다. 이상이다.
 HadesAboutBadgeSellerProgress02|Hades About Badge Seller Progress 02|Hades|계속 진급하면서 막대한 자원을 우리 영역으로 가져오고 있구나. 그렇게 하면 된다. 계속 하거라.
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|이런 말은 하면 안 되지만... {#DialogueItalicFormat}전대미문{#PreviousFormat}... 우리가 수여할 수 있는 최고의 계급이지. 네가 네 힘으로 그 계급을 달성할 수 있으리라고는 상상도 하지 못했다. 사실 중요한 계급은 하나도 얻지 못할 줄 알았지.
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Zagreus|아버지는 저를 너무 과소평가하세요. 하지만 알아 주셔서 감사합니다. 저를 이렇게 만들어 준 영역에 보답을 해야겠다고 생각했거든요.
 HadesAboutBadgeSellerProgress03|Hades About Badge Seller Progress 03|Hades|그래. 여기가 우리가 아는 유일한 세상이니 말이다.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|아버지... 올림포스 신들이랑 관계된 이 모든 것들 말이에요... 한 번만이라도 무슨 일이 있었던 것인지 저한테 말해 주실 수 없나요? 어머니가 어떻게 여기 오시게 된 거예요? 제우스 삼촌과 도대체 무슨 문제가 있는 건데요?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|네 어머니가 말해 준 줄 알았건만...! {#DialogueItalicFormat}으{#PreviousFormat}. 따라오거라. 당장.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|...이제부터 들을 내용은 절대로 어디에도 말하지 않겠다고 맹세하거라. 맹세해!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|알았어요, 알았어요. 맹세할게요. 아버지의 이름을 걸고 맹세하노니, 지금 아버지께서 하실 말씀을 둘 사이의 비밀로 해 두겠습니다... 그래서요?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|그래... 넌 거의 제대로 알고 있었다. 내가 지하 세계를 물려받고 나서... 네 삼촌 제우스는 말하기를 나에게 동정심을 느꼈단다. 네 어머니가 올림포스에서 불행하다는 것을 제우스는 알고 있었지. 그리고... 내가 네 어머니에게 끌려 있었단 것도 알았고. 그래서 무엇을 했냐고? 제우스는 네 어머니를 여기로 데려왔다. 네 어머니를 나에게 {#DialogueItalicFormat}선물{#PreviousFormat}로 줬다는 말이다!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|아버지는 그런 선물을 기대하셨던 건 아니셨군요. 그렇지만 어머니도 올림포스로 돌아가지 않으려 하셨고, 아버지도 어머니를 좋아하셨고, 그래서 돌려보내지 않으셨던 거예요. 그리고 아버지를 이 처지에 놓으신 일 때문에 제우스 삼촌께 화가 나신 거예요? 연을 끊으시고?
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|{#DialogueItalicFormat}그래{#PreviousFormat}!! 그 망할 바보 놈, 온갖 망상으로 들어차서! 그 놈은 내키는 건 뭐든 하는 놈이다! 제우스는 조금 더 합리적인 방법으로 비슷한 결과를 이끌어낼 수 있었겠지... 납치나 다름없는 일에 기대지 않고 말이다! {#DialogueItalicFormat}설령 {#PreviousFormat}네 어머니가 떠나고 싶어했다고 하더라도!
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Zagreus|그래서 이제 데메테르 여신과 다른 분들이 이 모든 것을 알아내신다면... 아버지와 어머니, 심지어는 제우스 삼촌마저 난처해지겠죠, 안 그래요? 제우스 삼촌은 아버지만큼 성질이 있으셨겠네요.
-HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest A 01|Hades|네 성질의 기준이 나라면, 넌 성질에 대해서는 아무 것도 모른다, 자그레우스. 이제 이 이야기는 할 만큼 했다! 나머지는 네가 아는 대로지. 맹세를 기억해라.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|아버지... 올림포스 신들이랑 관계된 이 모든 것들 말이에요... 한 번만이라도 무슨 일이 있었던 것인지 저한테 말해 주실 수 없나요? 어머니가 어떻게 여기 오시게 된 거예요? 제우스 삼촌과 도대체 무슨 문제가 있는 건데요?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|네 어머니가 말해 준 줄 알았건만...! {#DialogueItalicFormat}으{#PreviousFormat}. 따라오거라. 당장.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|...이제부터 들을 내용은 절대로 어디에도 말하지 않겠다고 맹세하거라. 맹세해!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|알았어요, 알았어요. 맹세할게요. 아버지의 이름을 걸고 맹세하노니, 지금 아버지께서 하실 말씀을 둘 사이의 비밀로 해 두겠습니다... 그래서요?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|그래... 넌 거의 제대로 알고 있었다. 내가 지하 세계를 물려받고 나서... 네 삼촌 제우스는 말하기를 나에게 동정심을 느꼈단다. 네 어머니가 올림포스에서 불행하다는 것을 제우스는 알고 있었지. 그리고... 내가 네 어머니에게 끌려 있었단 것도 알았고. 그래서 무엇을 했냐고? 제우스는 네 어머니를 여기로 데려왔다. 네 어머니를 나에게 {#DialogueItalicFormat}선물{#PreviousFormat}로 줬다는 말이다!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|아버지는 그런 선물을 기대하셨던 건 아니셨군요. 그렇지만 어머니도 올림포스로 돌아가지 않으려 하셨고, 아버지도 어머니를 좋아하셨고, 그래서 돌려보내지 않으셨던 거예요. 그리고 아버지를 이 처지에 놓으신 일 때문에 제우스 삼촌께 화가 나신 거예요? 연을 끊으시고?
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|{#DialogueItalicFormat}그래{#PreviousFormat}!! 그 망할 바보 놈, 온갖 망상으로 들어차서! 그 놈은 내키는 건 뭐든 하는 놈이다! 제우스는 조금 더 합리적인 방법으로 비슷한 결과를 이끌어낼 수 있었겠지... 납치나 다름없는 일에 기대지 않고 말이다! {#DialogueItalicFormat}설령 {#PreviousFormat}네 어머니가 떠나고 싶어했다고 하더라도!
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Zagreus|그래서 이제 데메테르 여신과 다른 분들이 이 모든 것을 알아내신다면... 아버지와 어머니, 심지어는 제우스 삼촌마저 난처해지겠죠, 안 그래요? 제우스 삼촌은 아버지만큼 성질이 있으셨겠네요.
+HadesAboutOlympianReunionQuest01A|Hades About Olympian Reunion Quest 01 A|Hades|네 성질의 기준이 나라면, 넌 성질에 대해서는 아무 것도 모른다, 자그레우스. 이제 이 이야기는 할 만큼 했다! 나머지는 네가 아는 대로지. 맹세를 기억해라.
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Hades|다시 떠나기 전에 한 가지만 얘기하마. 올림포스에 대한 왕비의 뜻이 이루어질 때까지... 왕비가 여기 있다는 사실을 누구에게도 말하면 안 된다. 알겠지?
 HadesAboutOlympianReunionQuest01|Hades About Olympian Reunion Quest 01|Zagreus|네. 하지만 영원히 숨어 지낼 필요는 없을 겁니다.
 HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|이제 잔치가 끝났으니 예전처럼 일하는 건가요?
@@ -562,8 +562,8 @@ HadesPostEpilogue01|Hades Post Epilogue 01|Zagreus|그런 호의에 반응을 �
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|지하세계에서 왜 석류가 자라는지 늘 궁금했는데요. 어머니가 하고 계신 거죠? 그리고 어머니가 올림포스에다가 한 얘기들, 아버지가 어머니를 이곳에 가뒀다는 얘기... 다 거짓말이죠?
 HadesPostEpilogue02|Hades Post Epilogue 02|Hades|내 영역의 석류에 시큼한 맛 외에도 특정한 힘이 있다는 것은 너도 잘 알 게다. 그리고 왕비는... 너도 알다시피 식물을 다루는 힘이 있지. 어머니의 능력을 일부 물려받아서 더 잘 쓰고 있는 게야.
 HadesPostEpilogue02|Hades Post Epilogue 02|Zagreus|아버지는 줄곧 석류를 키우고... 심지어 풍성하게 만들기까지 하셨군요. 어머니를 위해서요.
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Zagreus|어머니가 처음 왔을 때 무슨 일이 있었는지 말씀해 주실 수 있나요? 주민들 일부는 왕비를 예전부터 기억하는 것 같은데요. 그런데도 올림포스에서는 전혀 모르는 건가요?
-HadesPostEpilogue03A|Hades Post Epilogue A 03|Hades|이곳은 올림포스의 관할이 아니다. 여기서 무슨 일이 일어나는지 모르지. 뭐, 헤르메스는 알지도 모르겠다만 그조차도 제한된 정도에 그친다. 이 영역 밖의 존재들이 보기에... 우리의 왕비는 닉스지. 이 이상은 묻지 말거라.
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Zagreus|어머니가 처음 왔을 때 무슨 일이 있었는지 말씀해 주실 수 있나요? 주민들 일부는 왕비를 예전부터 기억하는 것 같은데요. 그런데도 올림포스에서는 전혀 모르는 건가요?
+HadesPostEpilogue03A|Hades Post Epilogue 03 A|Hades|이곳은 올림포스의 관할이 아니다. 여기서 무슨 일이 일어나는지 모르지. 뭐, 헤르메스는 알지도 모르겠다만 그조차도 제한된 정도에 그친다. 이 영역 밖의 존재들이 보기에... 우리의 왕비는 닉스지. 이 이상은 묻지 말거라.
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|아버지... 어머니가 없이 어떻게 지내세요? 어머니가 올림포스에서 괜찮으실까요?
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Hades|네 어머니는 혼자 충분히 잘 해내고도 남을 존재다. 그리고 우리는 네 어머니 없이 지내는 데 아주 익숙해졌지.
 HadesAboutPersephoneLeavesToOlympus01|Hades About Persephone Leaves To Olympus 01|Zagreus|그러면 이제 다 평소처럼 돌아가는 겁니까? 그거 참 좋겠네요.
@@ -630,7 +630,7 @@ HadesPostEndingChat23|Hades Post Ending Chat 23|Hades|엘리시움에서 네 악
 HadesPostEndingChat24|Hades Post Ending Chat 24|Hades|인정하지 않을 수 없군... 지난번에는 아주 훌륭했다.
 HadesGift01|Hades Gift 01|Zagreus|저기, 어, 아버지. 실은, 그게 말이죠. 여기 있어요.
 HadesGift01|Hades Gift 01|Hades|이게 어디서 났지...? 이런 시시껄렁한 물건으로 날 구슬릴 수 있을 거로 생각하느냐? 그건 나한테 주고, 나가 봐.
-HadesGift01_B|Hades Gift B 01|Hades|넌 내게 아무것도 빚지지 않았다. 특히 이런 것은 말이다. 그리고 난 네게 줄 것도 없어. 하지만 좋다. 관습을 존중하기로 하지. 여기 두어라.
+HadesGift01_B|Hades Gift 01 B|Hades|넌 내게 아무것도 빚지지 않았다. 특히 이런 것은 말이다. 그리고 난 네게 줄 것도 없어. 하지만 좋다. 관습을 존중하기로 하지. 여기 두어라.
 HadesGift02|Hades Gift 02|Zagreus|어, 아버지... 과거를 바꿀 수는 없지만 앞으로 나아갈 수는 있을 거예요. 이거 보세요. 제가 이런 걸 가지면 안 되는 거 알지만, 그래도 다들 좋아하니까 아버지도 한 번 맛을 보시죠? 아무튼 받으세요.
 HadesGift02|Hades Gift 02|Hades|흠. 내가... 이걸 잘 처리하마. 처리 이야기를 하니 말인데... 난 이것이 더는 필요가 없다. 그러니... 내 대신 좀 처리해 다오. 나가는 길에 말이다.
 HadesGift03|Hades Gift 03|Zagreus|괜찮으시다면 또 처분을 부탁드리려고 넥타르를 가져왔습니다, 아버지. 지난번에 드린 것은 분명 이미 드셨을 텐데! 한 번도 안 드셨어요?

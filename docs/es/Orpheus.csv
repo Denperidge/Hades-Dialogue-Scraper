@@ -52,12 +52,12 @@ OrpheusPostEpilogue01|Orpheus Post Epilogue 01|Orpheus|¡Ya veo! Te entiendo. Gr
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|He decidido darle otra oportunidad a esto del canto, amigo mío. Espero que te guste.
 OrpheusSingsAgain01|Orpheus Sings Again 01|Zagreus|Fantástico, tío. Entonces, ¿has encontrado a tu musa?
 OrpheusSingsAgain01|Orpheus Sings Again 01|Orpheus|Oh, no. No he llegado a encontrarla, amigo mío, pero... al verte perseverar una y otra vez, me he dado cuenta de que debo seguir adelante. Incluso con la vida que tengo ahora.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Zagreus|Fantástico, tío. Cantas como los dioses, con musa o sin ella.
-OrpheusSingsAgain01_B|Orpheus Sings Again B 01|Orpheus|Eres muy amable. Es que… al verte perseverar una vez tras otra, me he dado cuenta de que debo seguir adelante. Incluso con la vida que tengo ahora.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Zagreus|Qué bonito, colega. Ojalá Eurídice pudiera escucharte ahora.
-OrpheusSingsAgain01_C|Orpheus Sings Again C 01|Orpheus|Eres muy amable, amigo mío. Es que… al verte perseverar una vez tras otra, me he dado cuenta de que debo seguir adelante. Incluso con la vida que tengo ahora.
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|Tanto me ha atrapado otra vez la inspiración, amigo mío, que he decidido componer otra canción. Por los viejos tiempos, quizá.
-OrpheusSingsAgain01_D|Orpheus Sings Again D 01|Orpheus|Qué amable, aunque mi voz no es más que el crujido de la grava al pisarla en comparación con la suya, que vuela como si tuviese alas.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Zagreus|Fantástico, tío. Cantas como los dioses, con musa o sin ella.
+OrpheusSingsAgain01_B|Orpheus Sings Again 01 B|Orpheus|Eres muy amable. Es que… al verte perseverar una vez tras otra, me he dado cuenta de que debo seguir adelante. Incluso con la vida que tengo ahora.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Zagreus|Qué bonito, colega. Ojalá Eurídice pudiera escucharte ahora.
+OrpheusSingsAgain01_C|Orpheus Sings Again 01 C|Orpheus|Eres muy amable, amigo mío. Es que… al verte perseverar una vez tras otra, me he dado cuenta de que debo seguir adelante. Incluso con la vida que tengo ahora.
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|Tanto me ha atrapado otra vez la inspiración, amigo mío, que he decidido componer otra canción. Por los viejos tiempos, quizá.
+OrpheusSingsAgain01_D|Orpheus Sings Again 01 D|Orpheus|Qué amable, aunque mi voz no es más que el crujido de la grava al pisarla en comparación con la suya, que vuela como si tuviese alas.
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|Dime, Orfeo. ¿Alguna vez te mencioné que maté por mi cuenta a una hidra ósea multicéfala en los ardientes Prados Asfódelos sin sudar ni una gota?
 OrpheusTallTale01|Orpheus Tall Tale 01|Orpheus|¡Vaya! Me maravillo al oírlo, amigo mío. Otra de tus innumerables gestas épicas, más noble que las de los héroes de nuestra lírica e incluso que las del gran Aquiles.
 OrpheusTallTale01|Orpheus Tall Tale 01|Zagreus|¡Me alegra que te guste, colega! Estas historias mías sobre mis valerosas hazañas parecen animarte, así que te mantendré al tanto cuando tenga más.
@@ -87,16 +87,16 @@ OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|La he visto. En los Asf
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|Más que conocidos, Zagreo. Éramos marido y mujer. Ella era mi musa. Y pensar que estamos condenados a vivir separados en el más allá. En fin…
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Zagreus|{#DialogueItalicFormat}¿En fin? {#PreviousFormat}¿Es que acaso no quieres que le lleve un mensaje tuyo si vuelvo a encontrármela? ¿O cualquier otra cosa?
 OrpheusAboutEurydice01|Orpheus About Eurydice 01|Orpheus|No deseo importunarla más, amigo mío. No le hables de mí, ¿de acuerdo? Me basta con el recuerdo que tengo de ella.
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|Oye, Orfeo. No te lo vas a creer... Me he topado con una ninfa en uno de mis viajes. Una tal Eurídice. Espigada, no se anda por las ramas…
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|{#DialogueItalicFormat}¿Qué? {#PreviousFormat}¿De... verdad? Sabía que Eurídice habitaba en el reino de tu padre, pero… no esperaba que te cruzaras en su camino. ¿Estás seguro de que es ella?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Zagreus|Sí. La he visto. En los Asfódelos. Le va de maravilla. Vive sola. Me dijiste que estabais muy unidos, ¿verdad?
-OrpheusAboutEurydice01_B|Orpheus About Eurydice B 01|Orpheus|Mucho más que eso, Zagreo. Éramos marido y mujer. Ella era mi musa. Y pensar que estamos condenados a vivir separados en el más allá. En fin…
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|Oye, Orfeo. No te lo vas a creer... Me he topado con una ninfa en uno de mis viajes. Una tal Eurídice. Espigada, no se anda por las ramas…
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|{#DialogueItalicFormat}¿Qué? {#PreviousFormat}¿De... verdad? Sabía que Eurídice habitaba en el reino de tu padre, pero… no esperaba que te cruzaras en su camino. ¿Estás seguro de que es ella?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Zagreus|Sí. La he visto. En los Asfódelos. Le va de maravilla. Vive sola. Me dijiste que estabais muy unidos, ¿verdad?
+OrpheusAboutEurydice01_B|Orpheus About Eurydice 01 B|Orpheus|Mucho más que eso, Zagreo. Éramos marido y mujer. Ella era mi musa. Y pensar que estamos condenados a vivir separados en el más allá. En fin…
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|Orfeo, he vuelto a ver a Eurídice. He sido incapaz de hacer lo que me pediste y… le he hablado de ti.
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|¡¿Que tú {#DialogueItalicFormat}qué{#PreviousFormat}?! En realidad... quería decir «Oh». ¿Por ventura te dio la impresión de que aún alberga sentimientos de rencor hacia mi persona?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Zagreus|Sigues siendo un tema espinoso, sí. ¿Qué ocurrió entre vosotros, si se puede preguntar?
 OrpheusAboutEurydice02|Orpheus About Eurydice 02|Orpheus|Nada, es que… estuve a punto de rescatarla de estos dominios en vida, pero al final me falló la fe. Y la perdí para siempre. Sin embargo, me regocija saber que tú la has encontrado.
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Zagreus|Sigues siendo un tema espinoso, sí. Conque estuviste a punto de liberarla del Inframundo, ¿eh?
-OrpheusAboutEurydice02_B|Orpheus About Eurydice B 02|Orpheus|Casi, amigo mío. Pero en los instantes finales de mi rescate, me falló la fe y la perdí para siempre. Sin embargo, me regocija saber que tú la has encontrado.
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Zagreus|Sigues siendo un tema espinoso, sí. Conque estuviste a punto de liberarla del Inframundo, ¿eh?
+OrpheusAboutEurydice02_B|Orpheus About Eurydice 02 B|Orpheus|Casi, amigo mío. Pero en los instantes finales de mi rescate, me falló la fe y la perdí para siempre. Sin embargo, me regocija saber que tú la has encontrado.
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|Dime una cosa, Zagreo: ¿cómo está? Me refiero a Eurídice. ¿Tiene la melena acastañada o exuberante? ¿Tiene el majestuoso y flexible porte de un roble?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Zagreus|Está bien, Orfeo. La veo a gusto en su pequeño rincón de los Asfódelos. Tan solo parece incomodarse un poco… cuando te menciono. ¿No puedes hacer nada para limar asperezas con ella?
 OrpheusAboutEurydice03|Orpheus About Eurydice 03|Orpheus|Ay de mí, no puedo cambiar el pasado, amigo mío. Como bien has comprobado, para ella estoy muerto. Y con razón.
@@ -112,10 +112,10 @@ OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|Se lo debo todo a mi Eu
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|Pero tú te llevaste la fama, ¿no? No comprendo por qué no comparte tu renombre.
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Orpheus|Es una de esas injusticias de la vida. Yo siempre la elogiaba a la mínima oportunidad y ella no dudaba en reivindicarse. Pese a todo, nuestro público creía que las canciones eran mías… ¿Qué más podía hacer yo?
 OrpheusAboutEurydice06|Orpheus About Eurydice 06|Zagreus|Desconozco la naturaleza de los mortales, pero me complace oír que otorgas el reconocimiento a quien se lo merece.
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|Orfeo, dijiste que era una tremenda injusticia que Eurídice no se llevase su parte del mérito por las canciones que escribió. ¿No hay nada que podamos hacer al respecto?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|Vaya... Pues no sé, amigo mío. Cuando las personas tiene una idea sobre algo... puede ser difícil mostrarles que existen otras posibilidades. ¿Qué podría hacerse en esos casos?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Zagreus|No sé... ¿decirles que se equivocan? ¿Con educación, o sin ella? O decirles la verdad. Que todo el mundo oiga la verdad. ¿No podemos hacer eso?
-OrpheusAboutEurydice06Extra|Orpheus About Eurydice Extra 06|Orpheus|¿Todo el mundo? Pero soy el músico de corte de la morada. Mis canciones ya no llegan a muchos oídos. Aunque supongo que todas estas sombras que deambulan por aquí son también mi público. Me aseguraré de que sepan de quiénes son las canciones que canto.
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|Orfeo, dijiste que era una tremenda injusticia que Eurídice no se llevase su parte del mérito por las canciones que escribió. ¿No hay nada que podamos hacer al respecto?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|Vaya... Pues no sé, amigo mío. Cuando las personas tiene una idea sobre algo... puede ser difícil mostrarles que existen otras posibilidades. ¿Qué podría hacerse en esos casos?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Zagreus|No sé... ¿decirles que se equivocan? ¿Con educación, o sin ella? O decirles la verdad. Que todo el mundo oiga la verdad. ¿No podemos hacer eso?
+OrpheusAboutEurydice06Extra|Orpheus About Eurydice 06 Extra|Orpheus|¿Todo el mundo? Pero soy el músico de corte de la morada. Mis canciones ya no llegan a muchos oídos. Aunque supongo que todas estas sombras que deambulan por aquí son también mi público. Me aseguraré de que sepan de quiénes son las canciones que canto.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|He de confesarte algo, amigo mío. Sigo pensando en Eurídice a menudo y evoco sus recuerdos, pese a mis denodados esfuerzos por continuar con mi existencia. Lo consideraría un error fatídico, si no estuviera ya muerto.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Zagreus|No te tortures, hombre. Bastante has sufrido ya, lo mismo que ella… Os seguís queriendo, pero no encontráis el modo de decíroslo. Sin embargo, tengo una idea.
 OrpheusProgressWithEurydice01|Orpheus Progress With Eurydice 01|Orpheus|Yo también tenía ideas, Zagreo. Ideas e inspiraciones. Qué maravilloso era tener una musa…
@@ -248,8 +248,8 @@ OrpheusGift03|Orpheus Gift 03|Orpheus|¡{#DialogueItalicFormat}Caray{#PreviousFo
 OrpheusGift03|Orpheus Gift 03|Zagreus|No es nada, Orfeo. Gracias por inspirarme con tu canción. Me chifla tu trabajo.
 OrpheusGift04|Orpheus Gift 04|Orpheus|Te muestras demasiado afable, amigo mío. Tengo por costumbre expresar mi gratitud con una canción, pero lo entiendes, ¿verdad?
 OrpheusGift04|Orpheus Gift 04|Zagreus|Perfectamente, Orfeo. Ambos superaremos esta mala racha a su debido tiempo.
-OrpheusGift04_B|Orpheus Gift B 04|Orpheus|Siempre me ofreces medios para saciar la sed, amigo mío. Me asombra seguir teniendo esos sentimientos, incluso ahora.
-OrpheusGift04_B|Orpheus Gift B 04|Zagreus|Ahora que empezaste a cantar de nuevo, me imaginé que te daría sed. Tu música conmueve a muchas almas por aquí, colega.
+OrpheusGift04_B|Orpheus Gift 04 B|Orpheus|Siempre me ofreces medios para saciar la sed, amigo mío. Me asombra seguir teniendo esos sentimientos, incluso ahora.
+OrpheusGift04_B|Orpheus Gift 04 B|Zagreus|Ahora que empezaste a cantar de nuevo, me imaginé que te daría sed. Tu música conmueve a muchas almas por aquí, colega.
 OrpheusGift05|Orpheus Gift 05|Zagreus|Oye, colega, ¿te apetece que compartamos esto en la cantina?
 OrpheusGift05|Orpheus Gift 05|Orpheus|Oh, desde luego. No veo por qué no. Tampoco tengo otra cosa que hacer…
 OrpheusGift05|Orpheus Gift 05|Orpheus|De todas maneras, no tendría que haberme puesto a recordar... La moraleja de la historia es no volver la vista cuando te dicen que no la vuelvas. Tú me entiendes, ¿verdad, amigo?

@@ -9,9 +9,9 @@ MegaeraBedroom02|Megaera Bedroom 02|Megaera|你不知道。我想说的是……
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|你是什么意思？
 MegaeraBedroom02|Megaera Bedroom 02|Megaera|我的意思是……我知道你需要找到你的母亲，扎格列欧斯。在这件事中，我有我自己的角色，让我想想我可以做些什么。
 MegaeraBedroom02|Megaera Bedroom 02|Zagreus|墨纪…！她… {#DialogueItalicFormat}嗐{#PreviousFormat}。
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|我知道，我很抱歉。但这件事情我必须做，你是不会明白的。
-MegaeraBedroom02B|Megaera Bedroom B 02|Zagreus|压力……等等，你要干什么？
-MegaeraBedroom02B|Megaera Bedroom B 02|Megaera|我的意思是……我知道你必须这么做，扎格列欧斯。而我和我的姐妹们也总是会试着阻止你。但我之所以这么做，也有我的难处。你知道吗？
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|我知道，我很抱歉。但这件事情我必须做，你是不会明白的。
+MegaeraBedroom02B|Megaera Bedroom 02 B|Zagreus|压力……等等，你要干什么？
+MegaeraBedroom02B|Megaera Bedroom 02 B|Megaera|我的意思是……我知道你必须这么做，扎格列欧斯。而我和我的姐妹们也总是会试着阻止你。但我之所以这么做，也有我的难处。你知道吗？
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|墨纪……这太令人意外了。再一次。怎么了？……发生了什么？等下。为什么要这样看着我？
 BecameCloseWithMegaera01|Became Close With Megaera 01|Megaera|扎格列欧斯，你可以不要再问这么愚蠢的问题，然后过来这边一下吗？现在，马上。
 BecameCloseWithMegaera01|Became Close With Megaera 01|Zagreus|……我……你真的……哦……
@@ -37,12 +37,12 @@ Text|Text|Zagreus|……再见，塔纳。
 Text|Text|Zagreus|……嘿……你看，我很在乎你，很在乎你们两个。你看，我很高兴我们的关系变得这么亲密……很高兴你们的关系变得这么亲密，不用像以前那样剑拔弩张。可是，我觉得我稍微有点接受不了。
 Text|Text|Megaera|……你确定吗？你看……这一点问题都没有。你已经承受很大的压力了，我们下次见吧。
 Text|Text|Thanatos|改天再和你说，可以吗？
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|快闭嘴，扎格列欧斯。然后过来这边。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|你的问题太多了，扎格。是的，我们暂时重归于好了。但如果你告诉别人，我就宰了你，明白吗？
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|但是……不，等一下……连塔纳也不行……？
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|塔纳又不傻。他会为你着想。而且他也不是爱嫉妒的人。再说了，我和他保持着良好的合作关系，这你也是知道的。
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Zagreus|是啊，但……你呢，你会惩罚那些善嫉之人。如果我……
-BecameCloseWithMegaera01_B|Became Close With Megaera B 01|Megaera|我们都不是凡人，扎格。凡人总是相互充满敌意，因为他们的生命短暂。我们在乎什么？如果说倪克斯让我学得了什么的话，他让我知道心是无边无际的。现在别担心了，为我们的下次见面做好准备吧。再见。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|快闭嘴，扎格列欧斯。然后过来这边。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|你的问题太多了，扎格。是的，我们暂时重归于好了。但如果你告诉别人，我就宰了你，明白吗？
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|但是……不，等一下……连塔纳也不行……？
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|塔纳又不傻。他会为你着想。而且他也不是爱嫉妒的人。再说了，我和他保持着良好的合作关系，这你也是知道的。
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Zagreus|是啊，但……你呢，你会惩罚那些善嫉之人。如果我……
+BecameCloseWithMegaera01_B|Became Close With Megaera 01 B|Megaera|我们都不是凡人，扎格。凡人总是相互充满敌意，因为他们的生命短暂。我们在乎什么？如果说倪克斯让我学得了什么的话，他让我知道心是无边无际的。现在别担心了，为我们的下次见面做好准备吧。再见。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|扎格列欧斯，你房间又没有门，你怎么老是这么惊讶？
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Zagreus|{#DialogueItalicFormat}嗳{#PreviousFormat}，等下，墨纪，塔纳，你们……你们两个……什么情况？总之，这里发生的事情我都可以解释……等等，你们怎么都在笑。哦……让我……让我先冷静一下。
 MegaeraWithThanatosBedroom01|Megaera With Thanatos Bedroom 01|Megaera|你对我和塔纳托斯实在是太不放心了，扎格，我们认识的时间比你活着的时间都长。
@@ -172,14 +172,14 @@ FuryDarknessReaction01|Fury Darkness Reaction 01|Megaera|她不用啊。要为�
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|哧。真不敢相信。你签下了惩罚契约。你是不是要疯？还是单纯惹我生气？
 FuryPactReaction01|Fury Pact Reaction 01|Zagreus|既然你都这么说了，可能两种原因都有吧。我签什么契约跟你也没什么关系吧？
 FuryPactReaction01|Fury Pact Reaction 01|Megaera|我也不是傻子。我知道你在做什么。你想被惩罚吗？那来吧。
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}，你真的自愿签了惩罚契约吗？你现在可没得反悔了，我本以为你没这么蠢呢。
-FuryPactReaction01_B|Fury Pact Reaction B 01|Zagreus|或许我只是喜欢挑战，你有没有想过这一点？另外，我签不签惩罚契约，你又干嘛要在乎呢？
-FuryPactReaction01_B|Fury Pact Reaction B 01|Megaera|你说得没错，我{#DialogueItalicFormat}不{#PreviousFormat}在乎。你想被惩罚是吗？那就来吧。
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}，你真的自愿签了惩罚契约吗？你现在可没得反悔了，我本以为你没这么蠢呢。
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Zagreus|或许我只是喜欢挑战，你有没有想过这一点？另外，我签不签惩罚契约，你又干嘛要在乎呢？
+FuryPactReaction01_B|Fury Pact Reaction 01 B|Megaera|你说得没错，我{#DialogueItalicFormat}不{#PreviousFormat}在乎。你想被惩罚是吗？那就来吧。
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|我一直期待着跟你有一场公平的战斗。这就是你签订契约的原因？同情我？
 FuryPactReaction02|Fury Pact Reaction 02|Zagreus|我有我的理由。但是同情你不包含在内。不过我猜你大概是不会相信我的，对吧？
 FuryPactReaction02|Fury Pact Reaction 02|Megaera|既然这惩罚是你自己想要的，那我又怎会拒绝？
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|你也知道，签订了惩罚契约之后，我打你就会打得更狠了。或许这就是你签订契约的原因吗？为了同情我？
-FuryPactReaction02_B|Fury Pact Reaction B 02|Megaera|是啊，我可不相信。好啊，那就让我见识见识，你的同情会让你落得什么下场吧。
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|你也知道，签订了惩罚契约之后，我打你就会打得更狠了。或许这就是你签订契约的原因吗？为了同情我？
+FuryPactReaction02_B|Fury Pact Reaction 02 B|Megaera|是啊，我可不相信。好啊，那就让我见识见识，你的同情会让你落得什么下场吧。
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|我觉得这场战斗很快就会结束了，扎格。我可没想过你会签“强制加班”这种协议，像这样的契约条件可不适合胆小的家伙。
 FuryPactReaction04|Fury Pact Reaction 04|Zagreus|这话就太伤人了，墨纪！你知道我是那种什么都不想就冲锋陷阵的人，之后的事情等之后再说，“强制加班”真是再适合我不过了！
 FuryPactReaction04|Fury Pact Reaction 04|Megaera|{#DialogueItalicFormat}啊啊{#PreviousFormat}，好吧，既然你都这么说了，到时候可别怪我没提醒过你。
@@ -210,9 +210,9 @@ FuryKeepsakeReaction01|Fury Keepsake Reaction 01|Megaera|凡人们最喜欢看�
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|我感觉到死亡笼罩着你，扎格列欧斯。你拿的是什么？是不是从塔纳托斯那里弄来的？
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Zagreus|噢，这个旧东西啊？是塔纳给我的，一只萎靡不振的蝴蝶，这东西可以给我拥有更加强大的超自然力量。别太在意就是了。
 FuryThanatosKeepsakeReaction01|Fury Thanatos Keepsake Reaction 01|Megaera|就算是塔纳托斯也帮不了你。不过，如果我要想收集昆虫的话，我起码知道要去找谁了。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|你知道巴蒂是派不上用场的，是吧？这次我可不会再让你逃出去了。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Zagreus|来吧，墨纪，只要你下定决心，你就能做得到！不过，不用担心，巴蒂只是摆在这里做做样子而已。
-FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction B 01|Megaera|那咱们就搞得盛大一些吧，来吧。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|你知道巴蒂是派不上用场的，是吧？这次我可不会再让你逃出去了。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Zagreus|来吧，墨纪，只要你下定决心，你就能做得到！不过，不用担心，巴蒂只是摆在这里做做样子而已。
+FuryLegendaryKeepsakeReaction01_B|Fury Legendary Keepsake Reaction 01 B|Megaera|那咱们就搞得盛大一些吧，来吧。
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|你的小蝙蝠朋友没怎么给你惹过麻烦啊，是吧，扎格列欧斯？你一定有好好照顾她吧，不过她并不需要你的帮助。
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Zagreus|噢，她好得很呢，谢谢关心，墨纪。而且每当我需要帮助的时候，她都能让我们之间产生联结。时不时让她帮忙，我只希望这不会给她添太多麻烦。
 FuryLegendaryKeepsakeReaction01|Fury Legendary Keepsake Reaction 01|Megaera|如果你不想添麻烦，那你可来错地方了。
@@ -319,7 +319,7 @@ FuryMiscStart11|Fury Misc Start 11|Megaera|我不能什么都不做就让你通�
 FuryMiscStart12|Fury Misc Start 12|Megaera|又是你。
 FuryMiscStart13|Fury Misc Start 13|Megaera|一路过来，只为见我一面。
 FuryMiscStart14|Fury Misc Start 14|Megaera|准备战斗了，扎格列欧斯。
-FuryMiscStart15A|Fury Misc Start A 15|Megaera|有时候你真的挺准时的。
+FuryMiscStart15A|Fury Misc Start 15 A|Megaera|有时候你真的挺准时的。
 FuryMiscStart15|Fury Misc Start 15|Megaera|停下，扎格列欧斯。不准再往前一步。
 FuryMiscStartMaxRelationship01|Fury Misc Start Max Relationship 01|Megaera|咱们再来一个回合怎么样，扎格列欧斯？
 FuryMiscStartMaxRelationship02|Fury Misc Start Max Relationship 02|Megaera|看看你能不能打败我，扎格。
@@ -341,12 +341,12 @@ FuryMiscStartMaxRelationship18|Fury Misc Start Max Relationship 18|Megaera|你�
 FuryMiscStartMaxRelationship19|Fury Misc Start Max Relationship 19|Megaera|你从来不会让我等太久，扎格。这一点值得肯定。
 FuryMiscStartMaxRelationship20|Fury Misc Start Max Relationship 20|Megaera|你看起来状态不错呀，扎格。不过，让我来看看，我能做点什么。
 FuryMiscStartMaxRelationship21|Fury Misc Start Max Relationship 21|Megaera|不经历风雨怎能见彩虹呢，不是吗，扎格列欧斯？
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|呃，快{#DialogueItalicFormat}看看{#PreviousFormat}他那个样子吧！看他那副蠢样，他那个态度，{#DialogueItalicFormat}他的一切{#PreviousFormat}！你该不是打算对这个小杂碎神手下留情吧，妹妹？
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Megaera|得了吧，阿勒克图，咱们上一次征求对方同意是什么时候了？况且，只要我们杀了他，你还在乎些什么？
-Fury2SisterUnionWithMeg01|Fury Sister Union With Meg 2 01|Alecto|你说得真是一点都没错，妹妹！说得太对了。{#DialogueItalicFormat}咱们赶紧杀了他吧，别磨蹭了{#PreviousFormat}！
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|看看这个杂碎啊，他又想把血溅在咱们漂亮的地方上了。你准备和我可爱的妹妹打一架了吗，流红血的？
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Megaera|妹妹，如果你了解他，就会觉得他没那么讨人厌。不过就算如此，我们要做的事情还是会做。
-Fury2SisterUnionWithMeg02|Fury Sister Union With Meg 2 02|Alecto|你们两个真让我恶心，你该知道的吧，墨纪？你真该死的家伙，别磨蹭了，赶紧{#DialogueItalicFormat}杀了{#PreviousFormat}这家伙！
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|呃，快{#DialogueItalicFormat}看看{#PreviousFormat}他那个样子吧！看他那副蠢样，他那个态度，{#DialogueItalicFormat}他的一切{#PreviousFormat}！你该不是打算对这个小杂碎神手下留情吧，妹妹？
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Megaera|得了吧，阿勒克图，咱们上一次征求对方同意是什么时候了？况且，只要我们杀了他，你还在乎些什么？
+Fury2SisterUnionWithMeg01|Fury 2 Sister Union With Meg 01|Alecto|你说得真是一点都没错，妹妹！说得太对了。{#DialogueItalicFormat}咱们赶紧杀了他吧，别磨蹭了{#PreviousFormat}！
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|看看这个杂碎啊，他又想把血溅在咱们漂亮的地方上了。你准备和我可爱的妹妹打一架了吗，流红血的？
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Megaera|妹妹，如果你了解他，就会觉得他没那么讨人厌。不过就算如此，我们要做的事情还是会做。
+Fury2SisterUnionWithMeg02|Fury 2 Sister Union With Meg 02|Alecto|你们两个真让我恶心，你该知道的吧，墨纪？你真该死的家伙，别磨蹭了，赶紧{#DialogueItalicFormat}杀了{#PreviousFormat}这家伙！
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|…你手里拿的什么，暗灵？看上去像是违禁品啊。
 AchillesWithMegaera01|Achilles With Megaera 01|Achilles|是的，女士。真高兴您来了，或许你可以帮我马上摆脱这个东西。
 AchillesWithMegaera01|Achilles With Megaera 01|Megaera|那现在就开始吧。在这个东西引起圣殿里那个人的注意之前。
@@ -403,18 +403,18 @@ DusaChatWithMegaera09|Dusa Chat With Megaera 09|Megaera|……不过杜莎，有
 MegaeraMeeting01|Megaera Meeting 01|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}，顽逆的孩子回来了……大家都说我放水了，扎格。
 MegaeraMeeting01|Megaera Meeting 01|Zagreus|没事，墨纪，反正后来我又惨死回家了。
 MegaeraMeeting01|Megaera Meeting 01|Megaera|声誉对我来说很重要。如果你再从我这里通过，你最好一路走到终点。你走吧，别以为下次我们相遇还能有这么好运了。
-MegaeraMeeting01_B|Megaera Meeting B 01|Zagreus|没事，墨纪，反正后来我又惨死回家了。不过……我去的地方，恐怕比你想象得要远多了。
-MegaeraMeeting01_B|Megaera Meeting B 01|Megaera|是啊，我本希望能把你拦下来。听着，我还得维护我的名誉呢。等我们下次再见面的时候，你别以为你还会这么走运。
+MegaeraMeeting01_B|Megaera Meeting 01 B|Zagreus|没事，墨纪，反正后来我又惨死回家了。不过……我去的地方，恐怕比你想象得要远多了。
+MegaeraMeeting01_B|Megaera Meeting 01 B|Megaera|是啊，我本希望能把你拦下来。听着，我还得维护我的名誉呢。等我们下次再见面的时候，你别以为你还会这么走运。
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|嘿，{#DialogueItalicFormat}呃{#PreviousFormat}，你在喝什么呢，墨纪？好喝吗？
 MegaeraMeeting02|Megaera Meeting 02|Megaera|随便什么东西，反正没什么劲，跟你的血一样。
 MegaeraMeeting02|Megaera Meeting 02|Zagreus|好的！那么，我就不打扰你啦。
-MegaeraMeeting02Cont|Megaera Meeting Cont 02|Megaera|下次再遇到你，我要把你手脚都给扯了，你记住了。
+MegaeraMeeting02Cont|Megaera Meeting 02 Cont|Megaera|下次再遇到你，我要把你手脚都给扯了，你记住了。
 MegaeraMeeting03|Megaera Meeting 03|Zagreus|你的姐妹们最近都在干什么呢，墨纪？都没看到她们。
 MegaeraMeeting03|Megaera Meeting 03|Megaera|正如你所看到的，过得不太好。上面打起仗，下面事情就多。我在这里坐冷板凳。然后对付你。
 MegaeraMeeting04|Megaera Meeting 04|Megaera|你到底想怎么样，离我远点好吗。我们在这里没什么好谈的。
 MegaeraMeeting04|Megaera Meeting 04|Zagreus|我就是来看看你，就是…如果你想找人说话的话，告诉我就行了。
 MegaeraMeeting04|Megaera Meeting 04|Megaera|我不要有人来陪，特别是你。我现在没在工作，你最好滚远点。
-MegaeraMeeting04Cont|Megaera Meeting Cont 04|Megaera|我说了给我滚开。
+MegaeraMeeting04Cont|Megaera Meeting 04 Cont|Megaera|我说了给我滚开。
 MegaeraMeeting05|Megaera Meeting 05|Megaera|不好意思，有什么我能为你效劳的吗，扎格列欧斯王子？
 MegaeraMeeting05|Megaera Meeting 05|Zagreus|没事，我就是想说，刚刚真是一场激烈的战斗呢。
 MegaeraMeeting05|Megaera Meeting 05|Megaera|事情已经回不去原来的样子了，扎格。我现在能给你提个建议吗？给我打起精神来。下次我们见面的时候准备受死。
@@ -428,13 +428,13 @@ MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|墨纪，怎样才能
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}……你怎么不再大点声，好让圣殿的每个人都听见？让所有人都知道你比我强？你就是这么希望的吗？
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Zagreus|你好好听我说，墨纪。我们一直以来都是兵戎相见，我知道这听上去有点虚伪，但是说真的……我从没想过要伤害你。
 MegaeraMirrorProgress02|Megaera Mirror Progress 02|Megaera|你的自我感觉太良好了，扎格列欧斯。别烦我。
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|墨纪，这不是我来的原因，你知道我不是这样的人。为什么你还是不明白？我想要做的，只是在你面前证明自己。
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|哧……你以为赢得一场战斗就能在我面前证明自己吗？
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Zagreus|有时候，我都认为自己永远不能赢得你的欢心，墨纪拉。如果我退缩了，你又会怎么想？
-MegaeraMirrorProgress02B|Megaera Mirror Progress B 02|Megaera|如果你觉得对我有足够了解，扎格列欧斯，就不应该说这些傻话。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|真是不敢相信，扎格。我以为倪克斯的镜子是你能够打败我的唯一原因。我知道你进步了，但……没料到你进步这么大。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Zagreus|我必须要试试看，我能不能做到，墨纪。我从你身上学到那么多，我……觉得这可能是向你，也是向我证明自身价值的一种方式。
-MegaeraMirrorProgress02C|Megaera Mirror Progress C 02|Megaera|向我证明你的价值……？按照你的说法，你那副故作轻松的样子肯定让自己挺不舒服的吧？我也不知道自己是不是喜欢这样的你。现在让我一个人好好想想。
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|墨纪，这不是我来的原因，你知道我不是这样的人。为什么你还是不明白？我想要做的，只是在你面前证明自己。
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|哧……你以为赢得一场战斗就能在我面前证明自己吗？
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Zagreus|有时候，我都认为自己永远不能赢得你的欢心，墨纪拉。如果我退缩了，你又会怎么想？
+MegaeraMirrorProgress02B|Megaera Mirror Progress 02 B|Megaera|如果你觉得对我有足够了解，扎格列欧斯，就不应该说这些傻话。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|真是不敢相信，扎格。我以为倪克斯的镜子是你能够打败我的唯一原因。我知道你进步了，但……没料到你进步这么大。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Zagreus|我必须要试试看，我能不能做到，墨纪。我从你身上学到那么多，我……觉得这可能是向你，也是向我证明自身价值的一种方式。
+MegaeraMirrorProgress02C|Megaera Mirror Progress 02 C|Megaera|向我证明你的价值……？按照你的说法，你那副故作轻松的样子肯定让自己挺不舒服的吧？我也不知道自己是不是喜欢这样的你。现在让我一个人好好想想。
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|那么，扎格列欧斯，你签订的那道惩罚契约怎么样了？你给这冥界带来了一些可观的改善呢。
 MegaeraPactProgress01|Megaera Pact Progress 01|Zagreus|我会从这个地方杀出去，努力争取。这契约对我来说只是保持活力的一种方式罢了。
 MegaeraPactProgress01|Megaera Pact Progress 01|Megaera|你真是妄想。我永远都理解不了你和你的父亲。不过，如果你想要惩罚的时候，欢迎来找我。
@@ -479,9 +479,9 @@ MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|怎么了，扎
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|如果你想问我，我对咱们之间发生的事情后不后悔的话，我的答案是：不后悔。能和你在一起……无论是什么样的后果，都值得。
 MegaeraAboutRelationship01|Megaera About Relationship 01|Megaera|这些话你不用对我说。如果你打算继续维持这种关系的话，我有两个要求。第一……我们在外面的时候，先把儿女私情放下。我可不想听到有人说我对你手下留情。第二……你最近变得更成熟一些了，继续保持这个势头。
 MegaeraAboutRelationship01|Megaera About Relationship 01|Zagreus|我并不打算回到那没心没肺，麻木不仁的青葱岁月，所以我觉得第二个条件不成问题。但第一个条件……我们真的能继续互相杀戮，就好像什么都没发生过一样吗？
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}……放松点，扎格。你真的打算每次见到我，都显得这么难受吗？我是说，你看起来比平时难受。
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Zagreus|不，只是……拒绝你的感觉很糟糕。只是……我最近一直很困惑，而且……我相信你。你是我可以推心置腹的人，我猜……我只是害怕失去这些吧。
-MegaeraAboutRelationship01B|Megaera About Relationship B 01|Megaera|别傻了，你才不会呢。咱们一起经历过这么多事情了，或者说，一起成长了。像这样特别的关系……我觉得是不会轻易泯灭的。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|{#DialogueItalicFormat}啧{#PreviousFormat}……放松点，扎格。你真的打算每次见到我，都显得这么难受吗？我是说，你看起来比平时难受。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Zagreus|不，只是……拒绝你的感觉很糟糕。只是……我最近一直很困惑，而且……我相信你。你是我可以推心置腹的人，我猜……我只是害怕失去这些吧。
+MegaeraAboutRelationship01B|Megaera About Relationship 01 B|Megaera|别傻了，你才不会呢。咱们一起经历过这么多事情了，或者说，一起成长了。像这样特别的关系……我觉得是不会轻易泯灭的。
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|我感觉好像所有人都知道咱们之间的事情一样，墨纪，就连阿弗洛狄忒本人似乎都知道了。这倒不是因为我到处宣扬咱们的事情。你希望这一切都不要声张，是吧？
 MegaeraAboutRelationship02|Megaera About Relationship 02|Megaera|扎格列欧斯，你对我们之间的关系满意吗？还是说，你觉得有什么问题？
 MegaeraAboutRelationship02|Megaera About Relationship 02|Zagreus|不过，如果说实话的话，我觉得“要么杀人要么被杀”之类的可以去掉，这部分还是有点奇怪。不过除此之外……是啊，我是说……我很开心，你就是{#DialogueItalicFormat}你{#PreviousFormat}。
@@ -576,7 +576,7 @@ MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|我对你还有感情�
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|你就不管过去，不管现在吗？这会有什么样的结果，扎格列欧斯？也许你可以成功逃离这个地方，但要是你失败了呢，你想过后果吗？
 MegaeraBuildingTrust01|Megaera Building Trust 01|Zagreus|……我还没想到那么多。但我觉得这也不是唯一的结局吧。我不恨你，墨纪。对你，我怎么也恨不起来。
 MegaeraBuildingTrust01|Megaera Building Trust 01|Megaera|……除了对你的最美好的祝愿。抱歉，我没办法和你说同样的话。你看，我现在正处在职业生涯的艰难转折点。我现在需要把心思放在工作上。明白了吗？
-MegaeraBuildingTrust01_B|Megaera Building Trust B 01|Megaera|你就不管过去，不管现在吗？你知道后果吗，扎格列欧斯？你知道具体后果会是什么吗？
+MegaeraBuildingTrust01_B|Megaera Building Trust 01 B|Megaera|你就不管过去，不管现在吗？你知道后果吗，扎格列欧斯？你知道具体后果会是什么吗？
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|墨纪，你知道我和塔纳之间的事情吗？我只是…不希望对我们两人之间的关系遮遮掩掩。
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Megaera|哦，我是知道你的，扎格。对于塔纳托斯，我可能了解的更多。不过，我还是要感谢你告诉我。没关系。
 MegaeraAboutBeingCloseWithThanatos01|Megaera About Being Close With Thanatos 01|Zagreus|没关系吗？我听说……在奥林匹斯山上，嫉妒之风盛行。但这件事就完全没关系吗？

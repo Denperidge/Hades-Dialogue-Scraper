@@ -101,8 +101,8 @@ AthenaMiscPickup17|Athena Misc Pickup 17|Athena|Cieszy mnie, że upór twego ojc
 AthenaMiscPickup18|Athena Misc Pickup 18|Athena|Jacyż nędzni głupcy ośmielają się stawać przeciwko tobie, Kuzynie? Ukarz ich, aby nauczyli się czegoś, czego winni byli się nauczyć za życia.
 AthenaMiscPickup19|Athena Misc Pickup 19|Athena|Trzymaj się mocno swojego postanowienia, Kuzynie i podążaj nadal ku powierzchni. Bez względu na to jak często twój krok chwiejnym będzie - jestem tu.
 AthenaMiscPickup20|Athena Misc Pickup 20|Athena|Nie będę cię zatrzymywać, Zagreusie, tylko zaoferuję ci trochę mojej mocy, aby zwiększyć twoją szansę na ucieczkę. Teraz prędko, wybierz i idź.
-AthenaMiscPickup19_B|Athena Misc Pickup B 19|Athena|Niech mądrość i szczęście poprowadzą cię tym razem w kierunku światła dnia, Kuzynie.
-AthenaMiscPickup20_B|Athena Misc Pickup B 20|Athena|Nędzni umarli Podziemi jeszcze będą się ciebie bać, Kuzynie.
+AthenaMiscPickup19_B|Athena Misc Pickup 19 B|Athena|Niech mądrość i szczęście poprowadzą cię tym razem w kierunku światła dnia, Kuzynie.
+AthenaMiscPickup20_B|Athena Misc Pickup 20 B|Athena|Nędzni umarli Podziemi jeszcze będą się ciebie bać, Kuzynie.
 AthenaMiscPickup21|Athena Misc Pickup 21|Athena|Niech siła i mądrość wyprowadzą cię z ciemności, Zagreusie.
 AthenaMiscPickup22|Athena Misc Pickup 22|Athena|Niska zręczność twych martwych wrogów nigdy nie dorówna twej boskiej mocy.
 AthenaMiscPickup23|Athena Misc Pickup 23|Athena|Pamiętaj, że zawsze nad tobą czuwam, drogi Kuzynie.
@@ -170,9 +170,9 @@ AthenaGift03|Athena Gift 03|Zagreus|Mam dla ciebie mały podarunek, o Bogini. Ch
 AthenaGift03|Athena Gift 03|Athena|Jesteś bardzo łaskawy, Kuzynie, że czynisz mi tę ofiarę. Jestem zaszczycona, choć prosiłabym, byś na razie myślał o własnym dobrobycie - nie moim.
 AthenaGift04|Athena Gift 04|Zagreus|Bogini Ateno, przyjmij proszę ten podarunek. Twoja mądrość nieustannie prowadzi mnie ku światłu.
 AthenaGift04|Athena Gift 04|Athena|Och, jakże to bardzo hojne z twojej strony, że oferujesz mi ten podarunek! Jestem bardzo wdzięczna, choć proszę cię, nie zbaczaj ze swej drogi przez wzgląd na mnie. Pozostańmy skupieni, dobrze?
-AthenaGift05A|Athena Gift A 05|Zagreus|Podczas gdy pozostaję zaangażowany w moją misję, Bogini, jest mi przypominane, że nic z tego nie byłoby możliwe bez twojego wsparcia. I dlatego okazuję ci wdzięczność, choćby poprzez skromną ofiarę.
-AthenaGift05A|Athena Gift A 05|Athena|Wiem, że obecnie nie masz zbyt wielu możliwości, aby okazać swą wdzięczność, Zagreusie. Ale chciałabym cię prosić, abyś zostawił to aż do momentu ukończenia twej misji. Powinieneś się teraz zająć ważniejszymi sprawami!
-AthenaGift05B|Athena Gift B 05|Athena|Wiem, że obecnie nie masz zbyt wielu możliwości, aby okazać swą wdzięczność, Zagreusie. Ale chciałabym cię prosić, abyś zostawił to na lepszy czas. Powinieneś się teraz zająć ważniejszymi sprawami!
+AthenaGift05A|Athena Gift 05 A|Zagreus|Podczas gdy pozostaję zaangażowany w moją misję, Bogini, jest mi przypominane, że nic z tego nie byłoby możliwe bez twojego wsparcia. I dlatego okazuję ci wdzięczność, choćby poprzez skromną ofiarę.
+AthenaGift05A|Athena Gift 05 A|Athena|Wiem, że obecnie nie masz zbyt wielu możliwości, aby okazać swą wdzięczność, Zagreusie. Ale chciałabym cię prosić, abyś zostawił to aż do momentu ukończenia twej misji. Powinieneś się teraz zająć ważniejszymi sprawami!
+AthenaGift05B|Athena Gift 05 B|Athena|Wiem, że obecnie nie masz zbyt wielu możliwości, aby okazać swą wdzięczność, Zagreusie. Ale chciałabym cię prosić, abyś zostawił to na lepszy czas. Powinieneś się teraz zająć ważniejszymi sprawami!
 AthenaGift06|Athena Gift 06|Zagreus|Pani Ateno, wiem, że dla ciebie stawka dotyczy czegoś więcej, niż tylko moich zmagań... tak bardzo troszczysz się o tę rodzinę. Ta troska i twoja determinacja napędzają mnie do działania. Jestem niezmiernie wdzięczny.
 AthenaGift06|Athena Gift 06|Athena|Być może naprawdę nie ma lepszego momentu niż ten obecny w kwestii okazywania sobie nawzajem wdzięczności, mój drogi Kuzynie. Otworzyłeś mi oczy na tę możliwość, choć pozostaję niewzruszona w postanowieniu walczenia dla ciebie.
 AthenaGift07|Athena Gift 07|Zagreus|Wiem, że ta Ambrozja wzięła swój początek na Olimpie, Pani Ateno. Choć ufam, że poprzez swoją długą podróż do tych głębin jej smak jest bardziej godny twej osoby. Nikt nigdy nie miał wspanialszej kuzynki. I nigdy nie zapomnę, co dla mnie zrobiłaś.

@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|Je te souhaite de réussir dans ta per
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|Tu as vu la force destructrice la plus pure des cieux ! Imagine ce que ça donne à la surface de la terre !
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|Un jour, quand tu nous auras rejoints là-haut, nous repenserons à tout ceci et nous rirons, j'en suis sûr !
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}Ahh{#PreviousFormat}, voilà mon neveu préféré ! Toujours aussi déterminé à rejoindre la surface de mon monde. Ton père ne croit quand même pas qu'il peut t'en empêcher, si ?
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|Comme toujours, je t'accorde ma bénédiction, jeune homme.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|J’espère que tu réussiras bientôt à sortir de là, mon neveu.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|Je veillerai sur toi depuis là-haut, jeune homme, et ce n'est pas l'obscurité de ton royaume qui m'en empêchera !
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|Que la lumière de l’Olympe te guide dans les ténèbres, mon neveu.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|Ne te laisse pas influencer par ton père, jeune homme, et sors-toi de là.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|Nous ne t'abandonnerons jamais à ton sort, Zagreus, alors ne t'arrête pas, {#DialogueItalicFormat}hm {#PreviousFormat}?
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|Comme toujours, je t'accorde ma bénédiction, jeune homme.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|J’espère que tu réussiras bientôt à sortir de là, mon neveu.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|Je veillerai sur toi depuis là-haut, jeune homme, et ce n'est pas l'obscurité de ton royaume qui m'en empêchera !
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|Que la lumière de l’Olympe te guide dans les ténèbres, mon neveu.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|Ne te laisse pas influencer par ton père, jeune homme, et sors-toi de là.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|Nous ne t'abandonnerons jamais à ton sort, Zagreus, alors ne t'arrête pas, {#DialogueItalicFormat}hm {#PreviousFormat}?
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|Je ferai en sorte que les cieux eux-mêmes t'aident dans ton ascension, mon neveu.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|Fais attention à toi là-dessous, tu veux bien, jeune homme ?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|Nous sommes tous là pour toi, jeune homme !
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|Je vous en prie, oncle Zeus, acceptez ce nectar 
 ZeusGift05|Zeus Gift 05|Zeus|Je suis particulièrement ravi de voir le respect et l'admiration que tu affiches pour ton oncle, Zagreus. Tu iras loin sur l'Olympe avec une telle attitude ! Tout le monde ici n'est pas aussi courtois et sage.
 ZeusGift06|Zeus Gift 06|Zagreus|Si vous pouvez m'entendre, ô puissant oncle Zeus, je souhaite vous faire ce simple présent et, par là-même, vous faire part de mon humble souhait qu'un jour vous et Père oubliez vos différends et soyez en paix.
 ZeusGift06|Zeus Gift 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, quelle magnifique offrande, jeune homme. Même si nous ne nous sommes pas encore rencontrés en personne, je sens déjà que nous sommes très proches l'un de l'autre... plus proches encore que tu ne dois l'être avec ton père ! {#DialogueItalicFormat}Oh, hahaha ! {#PreviousFormat} Peut-être que nous devrions dire à tout le monde que c'est {#DialogueItalicFormat}moi{#PreviousFormat}, ton vrai père, qu'est-ce que tu en penses ?
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, quelle magnifique offrande, jeune homme. Je sens que nous sommes devenus très proches l'un de l'autre... plus proches encore que tu ne dois l'être avec ton père ! {#DialogueItalicFormat}Oh, hahaha {#PreviousFormat}! Peut-être que nous devrions dire à tout le monde que c'est {#DialogueItalicFormat}moi{#PreviousFormat}, ton vrai père, qu'est-ce que tu en penses ?
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}Ah{#PreviousFormat}, quelle magnifique offrande, jeune homme. Je sens que nous sommes devenus très proches l'un de l'autre... plus proches encore que tu ne dois l'être avec ton père ! {#DialogueItalicFormat}Oh, hahaha {#PreviousFormat}! Peut-être que nous devrions dire à tout le monde que c'est {#DialogueItalicFormat}moi{#PreviousFormat}, ton vrai père, qu'est-ce que tu en penses ?
 ZeusGift07|Zeus Gift 07|Zagreus|Roi de l'Olympe, Seigneur Zeus ! Veuillez pardonner cette offrande d'Ambroisie, car je sais que vous en avez déjà en abondance. Mais ici, cela représente le plus beau des présents que l'on puisse faire, et pourtant, ce n'est rien comparé à tout ce que vous avez fait pour moi. Merci, mon oncle.
 ZeusGift07|Zeus Gift 07|Zeus|Allons, allons, mon neveu... Tu fais preuve d'une grande générosité, en effet, en me montrant tant d'égards. Mais nous devons garder nos distances, n'est-ce pas ? Ou bien tous les autres ici risquent de se montrer jaloux s'ils me voient faire du favoritisme ! Même si tu {#DialogueItalicFormat}es {#PreviousFormat}mon favori ! Du moins, pour le moment.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|{#DialogueItalicFormat}Tsk{#PreviousFormat}, {#DialogueItalicFormat}euh{#PreviousFormat}, Zagreus... Plutôt que de te saluer comme je le fais d'habitude, laisse-moi te présenter mon illustre, aimable et généreux père, ton oncle Zeus !

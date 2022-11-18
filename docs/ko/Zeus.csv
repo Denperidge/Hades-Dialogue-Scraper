@@ -90,12 +90,12 @@ ZeusMiscPickup26|Zeus Misc Pickup 26|Zeus|네가 계속되는 퀘스트를 잘 �
 ZeusMiscPickup27|Zeus Misc Pickup 27|Zeus|하늘의 강력한 힘을 보았구나! 지상에서는 그 힘이 얼마나 더 강할지 상상해 봐라.
 ZeusMiscPickup28|Zeus Misc Pickup 28|Zeus|언젠가는 이 높은 곳에서 지난 날을 돌아보며 웃게 될 거다. 그렇고말고!
 ZeusMiscPickupExtra01|Zeus Misc Pickup Extra 01|Zeus|{#DialogueItalicFormat}아{#PreviousFormat}, 내가 가장 아끼는 조카가 세상 밖으로 나오려 안간힘을 쓰고 있는데 내가 어찌 모른 척할 수 있겠느냐. 그런 널 억누를 수 있을 거라 믿는 네 아버지를 어쩐단 말이냐.
-ZeusMiscPickup23_B|Zeus Misc Pickup B 23|Zeus|그 어느 때보다 나의 축복이 너와 굳건히 함께하기를.
-ZeusMiscPickup24_B|Zeus Misc Pickup B 24|Zeus|조카야, 때가 되면 네가 그곳을 빠져나올 거라 믿어 의심치 않는다.
-ZeusMiscPickup25_B|Zeus Misc Pickup B 25|Zeus|내가 너를 보살피마. 비록 그곳은 어두워 잘 보이지 않지만 말이다!
-ZeusMiscPickup26_B|Zeus Misc Pickup B 26|Zeus|조카야, 올림포스의 권능이 어둠 속에서 널 안내해 줄 거다.
-ZeusMiscPickup27_B|Zeus Misc Pickup B 27|Zeus|네 아버지한테 말려서는 안 된다. 어서 세상 밖으로 기어 올라오너라.
-ZeusMiscPickup28_B|Zeus Misc Pickup B 28|Zeus|자그레우스, 우린 널 포기하지 않을 테니 계속하거라, {#DialogueItalicFormat}알겠니{#PreviousFormat}?
+ZeusMiscPickup23_B|Zeus Misc Pickup 23 B|Zeus|그 어느 때보다 나의 축복이 너와 굳건히 함께하기를.
+ZeusMiscPickup24_B|Zeus Misc Pickup 24 B|Zeus|조카야, 때가 되면 네가 그곳을 빠져나올 거라 믿어 의심치 않는다.
+ZeusMiscPickup25_B|Zeus Misc Pickup 25 B|Zeus|내가 너를 보살피마. 비록 그곳은 어두워 잘 보이지 않지만 말이다!
+ZeusMiscPickup26_B|Zeus Misc Pickup 26 B|Zeus|조카야, 올림포스의 권능이 어둠 속에서 널 안내해 줄 거다.
+ZeusMiscPickup27_B|Zeus Misc Pickup 27 B|Zeus|네 아버지한테 말려서는 안 된다. 어서 세상 밖으로 기어 올라오너라.
+ZeusMiscPickup28_B|Zeus Misc Pickup 28 B|Zeus|자그레우스, 우린 널 포기하지 않을 테니 계속하거라, {#DialogueItalicFormat}알겠니{#PreviousFormat}?
 ZeusMiscPickup29|Zeus Misc Pickup 29|Zeus|하늘이 세상 위로 향하는 너의 여정에 도움을 줄 것이다.
 ZeusMiscPickup30|Zeus Misc Pickup 30|Zeus|아래에서 조심해야 한다, 알겠지?
 ZeusMiscPickup31|Zeus Misc Pickup 31|Zeus|우리 모두는 네 편이다, 젊은이!
@@ -157,7 +157,7 @@ ZeusGift05|Zeus Gift 05|Zagreus|제우스 삼촌님, 부디 이 넥타르를 받
 ZeusGift05|Zeus Gift 05|Zeus|삼촌에게 이렇게 존경과 감사의 뜻을 표하다니 매우 마음에 드는구나, 자그레우스. 그런 태도로 생활하면 이곳 올림포스에서 아주 높이 올라갈 수 있을 거다! 모두가 이렇게 예의바르거나 현명하지는 않거든.
 ZeusGift06|Zeus Gift 06|Zagreus|위대하신 제우스 삼촌, 보잘 것 없지만 선물을 드리고자 합니다. 언젠가 저희 아버지와 모든 갈등을 풀고 평화를 이루시기를 간절히 바랍니다.
 ZeusGift06|Zeus Gift 06|Zeus|{#DialogueItalicFormat}오{#PreviousFormat}, 멋진 선물이로구나. 아직 직접 만나지는 못했으나, 이미 만난 것처럼 가깝게 느껴진단다, 너와 네 아버지와의 관계보다 말이지! {#DialogueItalicFormat}오, 하하하! {#PreviousFormat}어쩌면 모두에게 {#DialogueItalicFormat}내가 {#PreviousFormat}네 진짜 아버지라고 말해야 할지도 모르겠군, 어떠냐?
-ZeusGift06_B|Zeus Gift B 06|Zeus|{#DialogueItalicFormat}오{#PreviousFormat}, 멋진 선물이로구나. 하지만 네 아버지와는 이미 친밀한 사이란다, 너와 네 아버지와의 관계보다 말이지! {#DialogueItalicFormat}오, 하하하! {#PreviousFormat}어쩌면 모두에게 {#DialogueItalicFormat}내가 {#PreviousFormat}네 진짜 아버지라고 말해야 할지도 모르겠군, 어떠냐?
+ZeusGift06_B|Zeus Gift 06 B|Zeus|{#DialogueItalicFormat}오{#PreviousFormat}, 멋진 선물이로구나. 하지만 네 아버지와는 이미 친밀한 사이란다, 너와 네 아버지와의 관계보다 말이지! {#DialogueItalicFormat}오, 하하하! {#PreviousFormat}어쩌면 모두에게 {#DialogueItalicFormat}내가 {#PreviousFormat}네 진짜 아버지라고 말해야 할지도 모르겠군, 어떠냐?
 ZeusGift07|Zeus Gift 07|Zagreus|올림포스의 왕, 제우스 님이시여! 이미 많이 가지고 계신 이 암브로시아를 선물해 드리는 저를 용서하십시오. 그러나 이곳에서는 최고의 선물입니다. 제게 베풀어 주신 은혜에는 비할 바가 아닙니다만. 감사합니다, 삼촌.
 ZeusGift07|Zeus Gift 07|Zeus|조카야, 참으로 마음씨가 좋구나. 하지만 우리는 거리를 좀 둘 필요가 있다. 내가 너를 가장 아끼는 줄 알고 남들이 질투할 테니. 물론 나는 너를 가장 아끼지! 적어도 지금까지는 말이다.
 ArtemisWithZeus01|Artemis With Zeus 01|Artemis|쳇, 음. 자그레우스... 이번에는 네게 눈부시고, 친절하고, 관대하신 아버지, 위대하신 너의 삼촌 제우스님을 소개할게!
